@@ -46,13 +46,25 @@ The Highmark district is quieter than the old paintings suggest. Some of the arc
 
 ## The Five Neighboring Powers
 
+---
+
 ### Solenne (North)
 
 Solenne is a city-state about four days' ride north of Varenhold, controlling the most important of the mountain passes through the Graymere Holds. It is a deeply pious city - Auris, the sun god, has been the dominant religious and civic authority there for at least two centuries. The city's skyline is dominated by the Cathedral of the First Light, a structure specifically designed so that the first morning rays strike its central altar. Since the twilight, no morning rays have struck it. The cathedral has been draped in mourning cloth for fifty years.
 
 Solenne was Varenhold's most important trading partner before the crisis. The relationship has cooled dramatically, and the reasons are complicated. Some Solennite clergy believe Varenhold caused the twilight through impious ritual practice and that continuing trade with the city is participation in its sin. Others maintain more charitable views. The current High Penitent - Solenne's religious governor - has taken a moderate position publicly while quietly reducing the transit trade to a fraction of its former volume.
 
-For players: Solenne characters (especially Auris clergy) will have a fraught relationship with Varenhold from the start. The city will be simultaneously grateful for any Auris presence and suspicious of Solennite motives. This is rich ground.
+**Named Notable:** High Penitent **Caros Ven** (he/him), 65, has governed Solenne for twenty years. Publicly moderate, privately convinced that Varenhold's restoration will either vindicate his theological position (penitent humility was the key) or require awkward theological revision. His private letters to Varenhold's Penitent faction leader (Osvar Denn) have been ongoing for six years.
+
+**Internal Tensions:** Solenne's political authority is theocratic - the High Penitent's word is effectively law - but there is a growing merchant class that has been watching Varenhold's amber lantern trade with envy for a decade. They believe Solenne should be manufacturing its own amber goods rather than buying Varenhold's, and they have been funding the Compact's Solenne-region imitator workshops. High Penitent Ven disapproves. He has not found a way to stop it.
+
+**What Solenne Actually Wants:** For the twilight to resolve in a way that confirms Penitent theology - ideally, through Auris-sanctioned means with visible priestly involvement. If Varenhold restores the sun through a secular ritual, Solenne will congratulate the city publicly and spend the next thirty years arguing about what it means theologically. If the Auris Cathedral plays a visible role in the restoration, Caros Ven will personally lead the first pilgrimage to Varenhold.
+
+**50 Years of Change:** Solenne has become richer than Varenhold over the twilight period - benefiting from the trade Varenhold lost. This is not comfortable for Solennite theology, which struggles to explain why the pious city prospered while the sinful city suffered (they're not supposed to prosper while sinners suffer; Auris should punish both equally). The theological discomfort is real and occasionally mentioned in sermons.
+
+**Adventure Hook:** A sealed document in Solenne's Cathedral archives - accessible only to clergy, but rumors of its existence have reached the Spire - apparently contains Archmagister Corven's formal request to the High Penitent for ritual approval, written the year before the ritual. If the High Penitent approved the ritual, Solenne is not theologically innocent. Players who can access this document gain significant leverage over Solenne's official position - and over High Penitent Ven personally.
+
+---
 
 ### The Arveth Compact (West)
 
@@ -61,6 +73,18 @@ The Arveth Compact is the most economically powerful entity in the Reaches - a m
 The Compact's approach to Varenhold's crisis is frank to the point of callousness: they see it as a market disruption. Varenhold's amber workshops still produce, but the market is different now. The transit taxes are lower because fewer goods travel through. The Compact has been steadily rerouting trade through alternative roads that avoid Varenhold entirely - not as punishment, but as efficiency. This has accelerated the city's economic decline.
 
 Some Compact merchants still maintain permanent presence in Varenhold, because even a diminished crossroads city has value. These are the pragmatists. They don't want Varenhold to fail; they want it to stabilize. The Merchants' Compact inside Varenhold (a local organization, not affiliated with the Arveth Compact despite the name similarity) has complex ties with these visitors.
+
+**Named Notable:** Trade Factor **Dara Mell** (she/her), 50, the Compact's senior representative in the Reaches. Based nominally in the Compact's western-most city but spends significant time in Varenhold. Pragmatic to the point of seeming callous; genuinely believes Varenhold would recover faster if it stopped treating its situation as a spiritual crisis and started treating it as an operational problem. She may not be wrong.
+
+**Internal Tensions:** The Compact's seven member cities are not unified on the Varenhold question. Three cities (the eastern three, closest to Varenhold's trade routes) want Varenhold's routes restored immediately and are willing to put money toward it. Four cities (the western four, who built the alternative roads) have invested in the bypass infrastructure and don't want Varenhold's recovery to make their investment worthless. Dara Mell navigates this divide constantly.
+
+**What the Compact Actually Wants:** A stable Varenhold with functioning transit routes, priced competitively with the bypass roads. Not free - the Compact doesn't believe in charity that doesn't pay. If the restoration happens, the Compact wants first-mover commercial advantages in the recovering market: preferential transit rates, advance contracts with the amber workshops, and a formal diplomatic relationship that treats the Compact as a partner rather than a creditor.
+
+**50 Years of Change:** The Compact has grown significantly stronger as a direct result of Varenhold's decline. The bypass roads it built are now part of its core infrastructure. A fully restored Varenhold would compete with those roads, not complement them. The Compact officially supports restoration but has a structural financial incentive against full recovery. Dara Mell knows this and doesn't know how to resolve it.
+
+**Adventure Hook:** Compact merchant records in the western cities include an unexplained series of payments - fifteen years ago - to a Varenhold address that corresponds to a building in the Spire Quarter. The payments stopped abruptly. The building changed hands twice since. Players who trace the payment chain find it terminates at Warden Keseph's predecessor as Spire Theoretical Division head, a scholar who died of natural causes eight years ago. What was being purchased? The records don't say. The current occupant of the building is Keseph himself.
+
+---
 
 ### The Dusk Parishes (East)
 
@@ -72,6 +96,18 @@ The Parishes are culturally the most closely tied to Varenhold of any neighborin
 
 Politically, the Parishes have no unified voice, but their de facto representative in Varenhold is a rotating council of parish delegates who come to the city for seasonal market-days. They are the loudest advocates for the Restorer movement - because in the Parishes, the sun is not a philosophical question.
 
+**Named Notable:** Parish Delegate **Harrow Seld** (he/him), 40s, from the village of Greenhollow (where Petra Vane is hiding). A farmer who became a political figure by accident - he was the loudest person at a market-day assembly twelve years ago and has been the Parish voice in Varenhold ever since. Not educated in politics; educated in what cold soil and failing crops look like. He is extremely hard to argue with on practical grounds.
+
+**Internal Tensions:** Some Parishes want immediate ritual completion - the suffering is too great for moral scruples. Others, particularly those with stronger Varenhold family ties, are viscerally opposed to killing the Dawnborn (several Parish families have Lowmark relatives who know them personally). The Dusk Parishes are not speaking with one voice even though their delegate speaks loudly.
+
+**What the Parishes Actually Want:** The sun back. Nothing else. They will accept any path that achieves this and will judge Varenhold harshly for any path that protects individuals at the expense of the collective. Harrow Seld's patience with Varenhold's deliberation has been exhausted for three years. He says this plainly when asked.
+
+**50 Years of Change:** The Parishes that survived the twilight have developed remarkable agricultural expertise - cold-tolerant varieties, indoor growing techniques, river fish management - that has some economic value. But the grey sickness rate in the Parishes is higher than in Varenhold, and the spiritual damage of children growing up without sunlight is something no one knows how to measure or address.
+
+**Adventure Hook:** Greenhollow is a half-day from Varenhold (where Petra Vane is hiding). Players who go there to find Petra encounter Harrow Seld, who has been watching Varenhold's deliberation with specific fury. He knows something: three months ago, a Compact merchant passed through Greenhollow asking pointed questions about the Dawnborn's individual locations and daily routines. He didn't know why at the time. The timing coincides with the Reckoning's formation.
+
+---
+
 ### The Ashfen Clans (South)
 
 The southern marshlands - the Ashfen - are older than Varenhold, older than the Graymere trade routes, older than most things in the region. The clan people who have lived there for generations have a complex relationship with the larger world: they trade, they speak the common tongue, they have been known to send their brightest young people to the Spire for education. But they have never allowed a foreign power to govern them, and they don't intend to start.
@@ -80,7 +116,17 @@ The Ashfen Clans use a form of magic that the Spire scholars categorize as "pre-
 
 The Clans are formally neutral in Varenhold's political situation but have their own concerns. The marsh ecosystem has been disrupted by the twilight - some species have disappeared, others have spread invasively. The Clans have been documenting these changes with the same precision they apply to everything in their environment, and they are more worried than they've publicly stated.
 
-For players: Ashfen Clan characters will be viewed with a mixture of fascination and condescension in Varenhold - which is a useful social dynamic to play with. Their perspective on the twilight is genuinely different from the Spire's, and genuinely useful.
+**Named Notable:** Wadewalker **Erem of the Saltgrass Clan** (she/her), 55, the senior Wadewalker with the most developed theory about the twilight's mechanism. She presented her findings to the Spire twelve years ago and was received with polite dismissal. Her theory - that the ritual created a "sympathetic void" in the ambient magical field rather than a simple inversion - has not been followed up by the Spire. It is actually correct, and would have pointed toward the inversion pathway if anyone had taken it seriously.
+
+**Internal Tensions:** Not all Clans agree on how involved to be in Varenhold's crisis. The Saltgrass Clan (southernmost, most affected by marsh ecosystem disruption) wants active involvement. The Reed Clans (interior, less affected) prefer continued neutrality. Erem is the Saltgrass Clan's voice; the Reed Clan elders think she's overstepping.
+
+**What the Clans Actually Want:** Restoration of the marsh ecosystem. The twilight has been specifically damaging to several species of marsh bird and plant life that are central to Clan culture - not economically, but spiritually. The Clans want the sun back not for crops but because three bird species have not returned to the northern marsh in forty years, and the elder Wadewalkers believe those birds were guides to something that has been lost.
+
+**50 Years of Change:** The Clans have adapted more effectively than any other regional power to the twilight's environmental changes. Their pre-systematic magic and deep ecological knowledge allowed them to document changes that others didn't notice and to adapt practices that others couldn't. They are also, quietly, the most informed external observers of what the twilight has done to the region's magical field - and the most likely to understand the inversion pathway if asked.
+
+**Adventure Hook:** Erem holds detailed documentation of the magical field changes over fifty years - the closest thing to a scientific record of the twilight's mechanism that exists outside the Archive. She will share it with players who make the journey to Saltgrass Clan territory (two hours into the marsh from the Ashfen Gate) and demonstrate genuine respect for the Clans' knowledge rather than treating them as a resource to extract. Her documentation, combined with the Spire's data, would confirm the inversion pathway and potentially explain why the Primer Stones work.
+
+---
 
 ### The Graymere Holds (North-Northwest)
 
@@ -89,6 +135,16 @@ The mountain confederation that controls the high passes is less a government th
 The Holds are the most geographically isolated from the twilight's immediate effects - at high altitude, the atmospheric changes are different, and several of the Hold settlements have reported occasional brief moments of something approaching natural light, which has made them objects of intense scholarly interest from the Spire. The Holds themselves are cautious about how much access they grant; the last time they let a Spire expedition into the high peaks, it ended badly.
 
 Trade through the Holds has decreased as Varenhold has declined, but not as dramatically as the eastern and western routes. The passes are the passes; there's no alternative geography. The Holds will trade with whoever controls Varenhold, and they expect that to continue being true.
+
+**Named Notable:** Passage-Warden **Herath Koss** (she/her), 55, practical and unsentimental. Has held her position through three Varenhold chancellors and two major trade disruptions. She sends the same message to every new Varenhold Chancellor: *"Fix your problem. We'll hold the road while you do."* She has been sending this message for twelve years.
+
+**Internal Tensions:** The brief moments of natural light at high altitude have attracted independent scholarly interest from outside the Holds - researchers who have not gone through proper channels, who have paid individual Hold-lords for unauthorized access. Two Hold-lords are currently receiving Compact funding for this. Herath knows. She is deciding whether to make it official or suppress it, and is leaning toward official because suppression has been failing.
+
+**What the Holds Actually Want:** A functional Varenhold that generates transit taxes and keeps the roads maintained. Specifically: the Holds have been subsidizing road maintenance out of their own tolls since Varenhold's transit tax revenue dropped. Herath has been quietly absorbing this cost for eight years and is running low on patience. If Varenhold's revenue doesn't recover within five years, the Holds will start charging full road rates - which would make travel between Varenhold and Solenne significantly more expensive.
+
+**50 Years of Change:** The Holds have become the most important transit node in the Reaches, simply because Varenhold's role has diminished. This has given them more political leverage than they historically had, which they have mostly used to quietly fund road maintenance. Herath could be asking for more. The fact that she isn't is either principled or tactical, and both Hold-lords and Varenhold councillors are uncertain which.
+
+**Adventure Hook:** The brief natural light events at high altitude - the ones the Spire has been trying to study for years - have a pattern that Herath's cartographers have been tracking. The pattern is not random: the light events occur at three specific pass locations, at intervals of exactly 40 days, and always at the same time of morning. The pattern has been consistent for fifty years. No one has told the Spire because the Spire's researchers were rude during their last expedition and Herath has been waiting for an apology. Players who travel to the Holds and treat the Holds-folk with appropriate respect will get this data. Cross-referenced with the Spire's theoretical work, it suggests the twilight's suspension is not constant - there is a 40-day cycle in the solar binding that no one has noticed from ground level.
 
 ---
 
