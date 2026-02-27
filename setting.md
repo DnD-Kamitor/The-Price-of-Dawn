@@ -32,6 +32,198 @@ The sky above Varenhold is never fully dark and never fully bright. It sits in a
 
 ---
 
+## Districts of Varenhold
+
+*Detailed entries for each district. Use these for scene-setting, random encounters, and atmosphere.*
+
+---
+
+### The Ashring Quarter
+
+**What it looks like:**
+The oldest part of the city, dense with pre-twilight stone buildings whose upper stories lean toward each other across narrow streets. The Ashring plaza itself is open and striking - the scorch marks on the central stones form a rough circle approximately thirty feet in diameter, and no amount of cleaning, resanding, or resurfacing has ever made them fade. The stone is not burned - it is *changed*, at a molecular level the Spire scholars cannot fully explain.
+
+**What it smells and sounds like:**
+Old stone dust, candle tallow, and the particular metallic smell that has clung to the plaza for fifty years - ozone-adjacent, as if lightning struck here recently and the air hasn't recovered. The sound is crowd noise from the edges (the quarter is never quite empty) and the faint ring of the Ashring's ceremonial bell, which tolls twice daily by tradition.
+
+**Key Locations:**
+- *The Ashring Plaza* - The ritual site. Open to the public. Children play here. The Primer Stones ring the outer edge. Edoran sometimes comes here to sit.
+- *The Archive of the Ashring* - Not Theron's main Archive; a secondary collection of city-founding documents, pre-ritual era maps, and the official (incomplete) account of the ritual's failure. Public access. Curated by a junior archivist named Meva who knows more than she lets on.
+- *The Watcher's Hall* - A tavern that has occupied the Ashring quarter since before the twilight. The current proprietor is a woman named Dorth who was four years old the night the sun vanished and remembers watching the ritual from her father's shoulders.
+
+**Daily Life:**
+The Ashring quarter is quieter than it was, but still inhabited - a mix of longtime residents who remember the pre-twilight era and younger people drawn to the historical weight of the site. It is not fashionable. It is meaningful in a way that's hard to explain to newcomers.
+
+**District d6 Encounter Table:**
+
+| d6 | Encounter |
+|----|-----------|
+| 1 | A tourist from Solenne is photographing the scorch marks with scholarly intensity. They have entirely wrong theories and will share them at length. |
+| 2 | Meva from the secondary Archive is locking up. She drops a bundle of papers. One is a pre-twilight drawing of the plaza with the ritual circle drawn in red. It looks exactly like the scorch marks. |
+| 3 | Three children are daring each other to stand inside the scorch circle. One of them is Mira - Lira's daughter - though the players won't know this unless they know Lira well. |
+| 4 | Edoran is sitting at the edge of the plaza, alone, watching the center. He has been there for two hours. |
+| 5 | The Ashring bell tolls at the wrong time. No one can explain why. The sound lingers longer than it should. |
+| 6 | A street musician is playing a *lanternhalt* in the plaza. By the fourth repetition, a small crowd has gathered and some of them are crying quietly. No one interrupts him. |
+
+**District Hook:** Meva the junior archivist has been cross-referencing the official record against a private account she found misfiled. The private account - written by a midwife who delivered three of the Dawnborn that night - contradicts the official record on two key points: the births happened before the ritual's backlash, not after, and all three mothers said they heard the same word in the moment of birth. The word is not recorded. Meva doesn't know what to do with this.
+
+---
+
+### The Lowmark
+
+**What it looks like:**
+The Lowmark runs along the city's river-facing edge, lower in elevation than the rest of Varenhold (hence the name) and subject to the cold, damp air that rolls off the Graymere River before dawn - or what would be before dawn if there were a dawn. Buildings here are older and more crowded than in other districts, with washing lines strung between upper stories and small market stalls occupying every available ground-floor space. The Dawnhall at the center of the district is the largest in the city.
+
+**What it smells and sounds like:**
+Lowmark Stew from a dozen directions - the specific smell of long-simmered preserved vegetables and Ashfen marsh oil is Varenhold's most recognizable scent. River damp. Woodsmoke from the Dawnhall hearths. Noise: children, market vendors, the distant sound of dock work. More coughing than anywhere else in the city - grey sickness is concentrated here.
+
+**Key Locations:**
+- *The Lowmark Dawnhall* - The largest communal building in the district; runs a food kitchen, a care room, a small library of practical manuals, and a weekly assembly where the district's concerns are aired. Administered by a volunteer council; the current head is Orya Doss (one of the Dawnborn), who does the work competently and without the expectation of recognition.
+- *The Lowmark Healing House* - Where Lira Anwick works mornings. Smells of dried herbs, stone, and something faintly sweet that might be the treatment compound she developed for early-stage grey sickness. Always busy. Minimal lighting (conserving lamp oil). The patients here are the most visibly suffering people in the city.
+- *The Grain Measure* - The district's largest food distribution point, run by a man named Wess who has been tracking the city's food supply with handwritten ledgers for fifteen years. His records are meticulous and alarming. The most recent entries show a 40% decline from five years ago.
+
+**Daily Life:**
+The Lowmark is where the city's survival infrastructure lives. People here work the docks, the gardens, the workshops, the Dawnhall kitchens. They are the most aware of the city's actual state - not the political framing, but the food numbers. The grey sickness makes visible what elsewhere is kept quiet.
+
+**District d6 Encounter Table:**
+
+| d6 | Encounter |
+|----|-----------|
+| 1 | A woman is sitting outside the Healing House, not sick - waiting for a friend inside. She has been waiting for six hours. She offers to share her Lowmark Stew. It is very good. |
+| 2 | The Grain Measure is locked. A hand-written sign says "inventory - back tomorrow." A queue has formed. The people in it are quiet in a specific way that is worse than noise. |
+| 3 | Wess is loading ledger books onto a cart. He is moving them somewhere safe. He will not say why, but his expression says he thinks things are about to get worse. |
+| 4 | The grey sickness: a man in the street has stopped. Not fallen - just stopped walking, standing still, staring at the middle distance. His neighbor is gently trying to get him moving. |
+| 5 | A Desperate pamphlet is being circulated. It does not say anything untrue. The players have to decide what that means. |
+| 6 | Orya Doss is doing a Dawnhall supply run - she's carrying an unreasonable amount of preserved goods in a pack and looking calm. If the players offer to help, she accepts without ceremony and tells them everything she knows about the district's situation. |
+
+**District Hook:** Wess's fifteen-year food ledgers contain an anomaly: a three-year period roughly a decade ago when the food supply briefly stabilized, even slightly improved. The cause was never identified. The stabilization ended abruptly. No one has investigated. If the players do: the period corresponds to when three of the ensemble Dawnborn (Davin, Nin, and Cormac) were spending regular time in the Lowmark Dawnhall. Their presence - their Lux Anchor energy, ambient and uncontrolled - was slightly improving crop growth in the surrounding gardens.
+
+---
+
+### The Spire Quarter
+
+**What it looks like:**
+The Spire itself is a tower complex three hundred years old, built in the Reaches' characteristic grey-blue stone but encrusted with decades of magical additions: extra floors bolted onto the exterior, bridges connecting wings that were clearly built separately, glass panels that glow faintly in colors that shift between amber and pale blue depending on the research happening inside. The surrounding quarter is Varenhold's cleanest district - not prosperous, exactly, but maintained. Scholars care about their environment.
+
+**What it smells and sounds like:**
+Chalk dust and the particular slightly-acrid smell of active magical reagents. Quill on parchment from open windows. More lamp oil than anywhere else (scholars work through all hours). The Spire Quarter has its own internal bell system for marking work shifts, which operates on a schedule that makes no sense to anyone outside the institution.
+
+**Key Locations:**
+- *The Civic Repository (Archive)* - Theron Waide's domain: twelve floors of documents, maps, and legal records going back to the city's founding. The public floors are browsable by anyone. The restricted collection requires Theron's personal authorization. The second subbasement contains the ritual documents and has not been opened to anyone but Theron in eleven years.
+- *The Theoretical Division* - The floor of the Spire dedicated to the twilight problem. Currently headed by Warden Keseph. Contains three competing research teams who share space, equipment, and mutual professional contempt. Also contains Isolde Menth's laboratory in a side room that Keseph has been trying to reassign for two years.
+- *The Scholar's Rest* - A tavern (technically a "collegial establishment") that serves the Quarter's inhabitants. Expensive by Lowmark standards, cheap by Spire standards. The best place in the city to hear academic gossip.
+
+**Daily Life:**
+The Spire Quarter is a bubble. The people who live and work here have spent fifty years studying a problem they cannot solve, which produces a particular combination of exhaustion, defensiveness, and the quietly desperate hope that the next approach will be the right one. They are useful to the players and frustrating to interact with.
+
+**District d6 Encounter Table:**
+
+| d6 | Encounter |
+|----|-----------|
+| 1 | Two junior scholars are arguing in the street about a theoretical point. The argument is technically about ritual mechanics. It is actually about who gets the larger office when Keseph retires. |
+| 2 | Isolde Menth is leaving the Spire at an unusual hour, carrying a leather satchel that is clearly heavier than she expected. She is heading toward the Cathedral. |
+| 3 | A Spire messenger is distributing a pamphlet: the Theoretical Division's official position on the ritual is that completion is possible in principle but not via current proposed methods. It is dense with qualifications. Warden Keseph's name is prominently signed. |
+| 4 | Theron Waide is in the Archive public section, reshelving documents. He is doing it wrong - the books are going back in approximately the right places but in the wrong order. He seems distracted. |
+| 5 | A group of Arveth Compact scholars are visiting for an academic exchange. They are polite, well-funded, and asking questions that are slightly too specific about the ritual's remaining documentation. |
+| 6 | The Spire's magical monitoring array (which tracks ambient energy levels in the city) has produced an anomalous reading. A junior scholar is posting a notice about it on the Archive door. The reading corresponds to the Ashring. The date is today. |
+
+**District Hook:** The Spire has been monitoring the Dawnborn's energy levels (passively, without their knowledge or consent) for thirty years using a long-range resonance tracker. The records show that Dawnborn energy depletion has accelerated in the last two years - by approximately 300%. This is not being reported to the Council. Keseph suppressed it because it undermines his research timeline. A junior scholar named Maret knows about the suppression and is looking for someone trustworthy to give the records to.
+
+---
+
+### The Dawnhalls District
+
+**What it looks like:**
+The Dawnhalls district is the city's social center - the area built up around the original Dawnhall complex, which was constructed in the first decade of the twilight as emergency communal infrastructure and has been expanding ever since. The buildings are newer than most of Varenhold - built over the past forty years in the twilight era's characteristic heavy-timber style, warm-toned wood and covered walkways. The Dawnhalls themselves are long, low, well-lit (this district uses more lamp oil than any other, by deliberate choice).
+
+**What it smells and sounds like:**
+Food - more consistently than anywhere else in the city, the Dawnhalls smell of cooking, of warm broth and lamp oil and wood. Sound: conversation, children, the specific sound of a working communal kitchen. This is the only district in Varenhold where laughing is common enough to be unremarkable.
+
+**Key Locations:**
+- *The Great Dawnhall* - The central communal building, which operates an open kitchen (free meals twice daily), a medical station, a meeting hall used for civic assemblies, and a small memorial space where photographs and objects belonging to people who have died of grey sickness are kept. The memorial is kept by an old woman named Nessa who has been maintaining it for thirty years.
+- *The Dawnborn Residence* - A building specifically provided for the Dawnborn fifty years ago, which most of them use as a base even though several live elsewhere now. Sera keeps her gear there. Tomas holds his judge's consultations from a ground-floor room. Lira uses a back room for confidential patient follow-ups.
+- *The Lantern Workshop* - One of the amber workshop's largest production facilities; the glow from the workshop windows is the brightest light in the district and serves as an informal landmark.
+
+**Daily Life:**
+The Dawnhalls district is the most functional place in Varenhold. It is not the wealthiest or the most powerful, but it is the most organized - the Dawnhall system of communal support has kept the city from the worst outcomes of the twilight, and the people who run it are competent, exhausted, and proud. The Dawnborn are a visible presence here; their role is as much civic worker as symbol.
+
+**District d6 Encounter Table:**
+
+| d6 | Encounter |
+|----|-----------|
+| 1 | A child is sitting on the steps of the Great Dawnhall with a bowl of stew, watching the street. She asks the players if they know any Dawnborn. She has strong opinions about all of them. |
+| 2 | Sera Voss is doing a walkthrough of the district in her off-hours - not as a guard, just as someone who wants to know how things are. She is easy to approach. |
+| 3 | The memorial room in the Great Dawnhall is being visited by a family. Nessa is showing them the entry for their mother. The family is from the Dusk Parishes - they came specifically for this. |
+| 4 | The Great Dawnhall kitchen is short on marsh oil today. A cook is asking around the district. This is unusual - the oil supply has been reliable for years. |
+| 5 | Tomas Areth is finishing a consultation in his ground-floor room. The person leaving looks shaken. Tomas is folding a document carefully. He nods at the players without explaining. |
+| 6 | The Lantern Workshop is having a shift change. The outgoing workers are singing - a lantern-carrier's song, rhythmic, worn smooth by repetition. The incoming workers join halfway through. |
+
+**District Hook:** The memorial room contains a photograph of a woman who died of grey sickness four years ago. Her name is Annem Edoran. Brother Edoran has never visited the memorial. Players who discover the connection and bring it to him carefully may unlock a significant shift in his attitude.
+
+---
+
+### The Outer Ring
+
+**What it looks like:**
+The Outer Ring is the city's former prestige district - the arc of wide streets and grand buildings that was developed during Varenhold's golden age to house the merchant guilds, the major temples, the Chancellor's Hall, and the homes of the wealthy. It is still the most architecturally impressive district, but the grandeur is fraying. Several of the merchant guild halls are operating at reduced capacity or leased to secondary purposes. The Auris Cathedral is the largest building in the city and is visibly divided - one half maintained by the Penitents (clean, draped in mourning cloth), one half maintained by the Wounded faction (actively decorated, flowers on the altar, arguing with the Penitents in the forecourt).
+
+**What it smells and sounds like:**
+Less lamp oil here - the Outer Ring burns beeswax candles, more expensive, maintained as a status signal. Perfume and stone. The sound of merchant negotiation from the Compact offices and, emanating from the Cathedral, the sound of two choirs singing different hymns.
+
+**Key Locations:**
+- *The Chancellor's Hall* - Varenhold's seat of government: a large, formally maintained building that has seen more use in the last three years than in the previous fifteen combined. The Council chamber is on the second floor. The Chancellor's private office faces the street, and her lamp is always lit.
+- *The Auris Cathedral* - The divided cathedral: the Penitent nave (northern) and the Wounded nave (southern) share a single building separated by a temporary wall erected twelve years ago. The wall has become permanent. Each side conducts separate services. They occasionally attempt formal dialogue. It rarely goes well.
+- *The Merchants' Compact Office* - The surviving merchant consortium's headquarters. Run by a woman named Saret Onn who has been maintaining Varenhold's remaining trade relationships through sheer organizational competence and extensive personal correspondence. The office receives dispatches from five regional partners daily.
+
+**Daily Life:**
+The Outer Ring is where power is performed. People who work here are aware of status in a way that the rest of the city, too exhausted to maintain the performance, has largely set aside. The Outer Ring still has dress codes. It still has protocols. It still has the politely maintained fiction that Varenhold is a functioning major power, not an aid recipient.
+
+**District d6 Encounter Table:**
+
+| d6 | Encounter |
+|----|-----------|
+| 1 | The two Cathedral choirs are competing at the same time. The sound is extraordinary - not pleasant, but striking. Passersby have stopped in the street. Neither choir will stop first. |
+| 2 | A Council courier is moving between buildings very quickly. If the players follow or intercept: they're carrying the Chancellor's latest correspondence from Solenne. The letter's seal has been broken and re-pressed. |
+| 3 | Saret Onn is in the street doing a supply count with a junior factor. She is displeased with what she's finding. She is not the kind of person to panic, which makes her displeasure more alarming. |
+| 4 | A Restorer pamphlet has been nailed to the door of the Chancellor's Hall. The guard on duty is uncertain whether to remove it without orders. |
+| 5 | A merchant from the Arveth Compact is leaving the Compact Office with a smile. He has just gotten a favorable contract. The terms are not good for Varenhold. Saret watches him go without expression. |
+| 6 | The Penitent and Wounded choir leaders are meeting in the Cathedral forecourt, ostensibly for a scheduled dialogue. It is going badly. Each believes the other faction's theology is actively harmful. Both are partially right. |
+
+**District Hook:** The temporary wall dividing the Cathedral was built over the original altar - which is also, according to Corven's original ritual documents, one of the three backup resonance nodes for the ritual. The inversion pathway can technically be triggered from the Cathedral as a secondary site if the Ashring is somehow unavailable. This has not been discovered because the wall built over the altar has been there for twelve years. The Wounded faction's head priest knows something is under the wall. He has not told the Penitents. He has been waiting for a reason to open it.
+
+---
+
+### The Ashfen Gate District
+
+**What it looks like:**
+The southernmost district, named for the gate that opens toward the Ashfen marshes and the trade roads beyond. This is the entrance district - where caravans arrive, where travelers stay, where the city shows its face to outsiders. The Wayshrine of the Wanderer stands just outside the gate, maintained by the city regardless of religious affiliation. Inside the gate, the streets are slightly wider (designed for cart traffic) and the buildings are predominantly inns, stables, storage houses, and the Restorer compound, which occupies what was formerly a trading post.
+
+**What it smells and sounds like:**
+Animal, hay, the cold air blowing in from the Ashfen marshes - the distinctive marsh smell of wet vegetation and Ashfen oil is strongest here, carried by the south wind. Trade sounds: loading and unloading, the creak of wagon wheels, the particular cadence of negotiation at the customs station.
+
+**Key Locations:**
+- *The Ashfen Gate* - The gate itself: two large wooden doors reinforced with iron, maintained carefully because they are the city's most-used entrance. Guards here are more worldly than most Varenhold guards; they have seen travelers from every part of the Reaches.
+- *The Restorer Compound* - The former Ashfen Trading Post, now the Restorers' primary meeting space, dormitory, and organizational center. Open to the public for services. Closed areas include Edoran's private office (where the ritual documentation analysis is kept) and the cells for Restorers in emotional crisis.
+- *The Wayfarer's Rest* - The best inn in the district, run by a former Compact merchant named Helka who left trade twenty years ago and settled in Varenhold permanently. Her inn's guest book contains entries from travelers across the Reaches over twenty years; she can tell the players anything they want to know about traffic in and out of the city.
+
+**Daily Life:**
+The Ashfen Gate district is the most transient part of Varenhold - people are always arriving and leaving, which makes it the most information-rich district and the most emotionally variable. On a good day, a caravan arrives with news, goods, and outside perspective. On a bad day, a caravan departs and doesn't come back, and everyone in the district watches the gate stay closed.
+
+**District d6 Encounter Table:**
+
+| d6 | Encounter |
+|----|-----------|
+| 1 | A caravan from the Dusk Parishes is being unloaded. The Parish delegates are arguing with the customs official about a discrepancy in the paperwork. One crate is mislabeled. It contains Restorer pamphlets. |
+| 2 | Helka is reviewing her guest book with a specific expression - she has found something. She won't say what unless the players have previously given her reason to trust them. |
+| 3 | A Restorer service is in progress in the compound's public hall. Fifteen people, mostly Lowmark residents. Edoran is not present - a younger priest is leading it. The theology is sharper, less nuanced, than Edoran's. |
+| 4 | A traveler from Solenne is at the gate having an argument with the guard. She wants to enter the city. The guard is uncertain - her papers describe her as a "Penitent observer." The guard is not sure if that's allowed. |
+| 5 | Something has come through the gate that has the customs guards confused: a sealed official document from the Arveth Compact, addressed to Chancellor Ostenveld, marked "urgent" and "confidential." The courier won't explain its contents. |
+| 6 | The Wanderer's Wayshrine outside the gate has fresh offerings this morning - food, small coins, a child's toy. Someone traveling in great need passed through the gate last night. The gate guard doesn't know who. |
+
+**District Hook:** Helka's twenty-year guest book contains an entry from eleven years ago - the same year Theron Waide decoded the ritual's cost. A traveler signed in under a false name (obvious, the handwriting is forced) and stayed two nights. Their notes in the margins of the guest page mention "documents transferred" and "Archive contact confirmed." Helka has never investigated. The false name used is close to an Arveth Compact merchant family name.
+
+---
+
 ## History: The Night the Sun Died
 
 ### Before the Twilight
