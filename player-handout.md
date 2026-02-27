@@ -4,6 +4,8 @@
 
 ---
 
+![The road to Varenhold under perpetual amber twilight — the city's lantern-lit walls at the end of a journey, no sun in the grey-gold sky](images/ashfen-gate-arrival.svg)
+
 ## The Short Version
 
 You have been hired — individually or together, the details of how can wait for the table — to investigate something in Varenhold, the city that has not seen the sun in fifty years.
@@ -25,6 +27,8 @@ At second glance: no shadows. The sky is the color of old amber, sourceless, dir
 The buildings are stone and dark wood, layered like the clothes the people wear — the Varenholders dress in heavy wools and linens, deep colors, warm layers, against a cold that is not quite cold but somehow feels like it should be. Everyone you pass carries a lantern. Some wear small ones clipped to their belts. In what you'd call daytime, this seems redundant. After a few hours you understand: it is not about the light. It is about having something warm to hold.
 
 The Ashfen Gate is where you enter, if you've come from the south. There is a wayshrine at the gate — a smooth stone pillar, ancient, worn to a gentle curve by generations of hands pressing it. A local tradition says you touch it when you arrive, and the Wanderer marks your passage. A few people ahead of you on the road do it without breaking stride, automatic as breathing.
+
+![The wayshrine at the Ashfen Gate — an ancient stone pillar worn smooth by generations of hands, small offerings at its base](images/ashfen-wayshrine.svg)
 
 The city is quieter than its size suggests. Sixty thousand people lived here once. Now perhaps forty thousand remain, and they move through the broader streets like people who remember when there were more of them. The Dawnhalls — great communal halls lit with amber lanterns — are the centers of activity. Everything else is smaller than the architecture suggests it should be.
 

@@ -34,6 +34,8 @@ Both factions claim legitimacy. Both have historical precedents for their theolo
 
 **Praying to Auris in Varenhold feels different.** This is something people report rather than something that can be verified. Auris clergy from outside the Reaches who visit Varenhold consistently describe the same phenomenon: prayer to Auris here has a quality of — absence is the wrong word. Distance. As though reaching across a longer gap than usual. Whether this means anything theological is debated.
 
+![Auris, the Dawnbringer — the sun god in a time of his absence; a devotional image of grief and enduring hope](images/god-auris.svg)
+
 ### Morthis — The Usher
 
 *Domains: Death, Twilight, Transition. Associated symbols: the grey ferry, the open door, cupped hands.*
@@ -45,6 +47,8 @@ Morthis is not a frightening god in Varenhold's cultural framework. He is practi
 The twilight has given Morthis-worship an unusual texture. The liturgical calendar for Morthis traditionally marks the transition between day and night as sacred moments — the god's presence is felt most at dusk and dawn. With the sun absent, dusk and dawn have become a permanent state. Morthis-clergy describe this with varying degrees of comfort: some find it holy, an extended period of the god's immediate presence; others find it exhausting, as though the boundary-work they normally do in brief ritual moments has become the entirety of existence.
 
 The grey sickness has dramatically increased the Ushers' caseload and their civic prominence. They are more present in Varenhold now than before the twilight, more respected, and — quietly — more worried.
+
+![Morthis, the Usher — god of passage and transition; the grey ferryman at the threshold between the living world and what comes after](images/god-morthis.svg)
 
 ### Veth — The Keeper of Closed Things
 
@@ -58,6 +62,8 @@ Veth is the patron of scholars (who know things they can't yet publish), archivi
 
 Veth-practitioners in Varenhold are generally known by reputation rather than by observation. You don't see them worship; you hear afterward that so-and-so is "Veth-touched," which is the colloquial term. Whether this is a compliment depends on context.
 
+![Veth, Keeper of Closed Things — the god of secrets and private knowledge; a candlelit desk, a locked box, a sealed letter](images/god-veth.svg)
+
 ### Dara — The Hearthkeeper
 
 *Domains: Life, Community, Light (domestic). Associated symbols: the lit hearth, the shared bowl, clasped hands.*
@@ -69,6 +75,8 @@ There is no Dara cathedral in Varenhold. There are no formal Dara clergy. There 
 In the twilight, Dara-worship has become more prominent rather than less. When the larger frameworks — the city's relationship to Auris, to the Spire's academic solutions, to political authority — have failed to fix the problem, people have fallen back on what Dara offers: each other. The Dawnhalls are, theologically speaking, Dara's most significant institution in Varenhold, even if most people who use them don't think of it that way.
 
 Dara and Morthis are understood to be in a complementary relationship — not married in the human sense, but mutually reinforcing. Where Dara holds communities together in life, Morthis holds them through the passage of death. Clergy from both orders often work in parallel.
+
+![Dara, the Hearthkeeper — goddess of community and shared meals; amber lanternlight on a long table, clasped hands, the warmth of gathered people](images/god-dara.svg)
 
 ### The Wanderer — Of No Fixed Address
 
@@ -82,6 +90,8 @@ The Wanderer's clergy — called Wayward, a term they've chosen and seem to enjo
 
 The god has no known position on the twilight. The Wanderer's theology has always been about movement, not destination. If anything, the twilight has given the god's more philosophically inclined priests something to think about: the Reaches are, in some sense, stuck at a particular moment, unable to pass through to what comes next. The Wanderer is the god of passage. What does passage mean when nothing moves?
 
+![The Wanderer — god of roads and passage; an ancient wayshrine at a crossroads, worn smooth by generations of hands, the road receding into amber twilight](images/god-wanderer.svg)
+
 ### Kael and Mira — The Twin Crowns
 
 *Domains: War (Kael), Life (Mira). Associated symbols: the crossed swords (Kael), the open hand (Mira), the two-faced crown (both).*
@@ -93,6 +103,8 @@ Their theology is specifically for people who must cause harm to prevent greater
 The Twin Crowns' temple in Varenhold is in the Guard Quarter. It is active, frequented by city guards and the small number of soldiers the city maintains. The head cleric — a retired guard captain named Thessa — runs the temple with military efficiency and genuine compassion in roughly equal measure.
 
 **A note on the name Mira:** The name appears in the campaign in multiple places — the Chancellor's name, the name of a child mentioned elsewhere, and this ancient deity. The god Mira predates both of the others by centuries. The Chancellor's parents were devout Twin Crowns worshippers and named their daughter after the goddess; this is not uncommon in Varenhold. Treat each usage by context; the deity and the person are distinct.
+
+![Kael and Mira, the Twin Crowns — war and mercy worshipped as one; the two-faced crown, the sword and the open hand](images/god-twin-crowns.svg)
 
 ---
 

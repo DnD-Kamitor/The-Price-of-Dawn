@@ -32,6 +32,8 @@ The three Dawnborn most publicly visible:
 
 **Lira Anwick** is the Dawnborn most associated with the healing arts specifically. She trained formally with the Healers' Guild and is their most skilled practitioner of the treatment approaches developed specifically for grey sickness. She is less publicly visible than Sera or Tomas — she works in the care houses, which are not public spaces — but is deeply known and trusted within the communities most affected by the sickness. People in the Lowmark speak of her with particular affection.
 
+![Sera, Tomas, and Lira — the three most publicly visible Dawnborn; protector, mediator, and healer, lit by amber lanterns at a Dawnhall entrance](images/dawnborn-trio.svg)
+
 **The Dawnhalls** are associated with the Dawnborn but not run by them — they're city infrastructure. The name reflects the timing of their founding (during the early years of the twilight) and the Dawnborn's involvement in their establishment, not an ongoing governance role.
 
 ---
