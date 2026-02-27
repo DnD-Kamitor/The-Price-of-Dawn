@@ -35,6 +35,7 @@ book:
         - running-the-campaign.md
         - ai-tools.md
         - gm-tools.md
+        - appendix.md
 
 format:
   html:
