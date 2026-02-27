@@ -529,6 +529,224 @@ Cut or fold these for quick table reference. One card per NPC.
 
 ---
 
+---
+
+## theGreatGM Methods: Applied
+
+*This section applies Graeme Sherwood's core design methods specifically to The Price of Dawn. Reference these when a scene feels flat, when players seem disengaged, or when you're not sure what the scene is for.*
+
+---
+
+### The 5-Room Structure - Key Locations
+
+The 5-Room Dungeon is not only for dungeons. It applies to any investigation site. Use it to structure each major location the players visit.
+
+**The Five Rooms:**
+1. **Entrance/Guardian** - Something that stops casual access; establishes tone
+2. **Puzzle/Roleplay** - Requires thought or social engagement; no combat solution
+3. **Trick/Setback** - The situation changes or complicates unexpectedly
+4. **Climax** - The main confrontation, revelation, or decision
+5. **Reward/Twist** - Something valuable plus something unexpected
+
+**Applied to The Price of Dawn's Key Locations:**
+
+---
+
+**The Civic Archive (Theron Waide's domain)**
+
+| Room | Content |
+|------|---------|
+| 1 - Guardian | Theron's deflection; the restricted floors require his personal key; he is evasive |
+| 2 - Puzzle/Roleplay | Building Theron's trust to access the restricted section; his guilt is the puzzle |
+| 3 - Trick | The notation key fragments don't say what players expect; the message is encoded |
+| 4 - Climax | Theron breaks: "So you found it." - the moment he tells everything |
+| 5 - Reward/Twist | The ritual cost confirmed; plus shelf 4-17-3 (Corven's letter, discovered or left for later) |
+
+---
+
+**The Auris Cathedral (Isolde's resonance work)**
+
+| Room | Content |
+|------|---------|
+| 1 - Guardian | Faction tension at the entrance; Penitent guards question players' purpose |
+| 2 - Puzzle/Roleplay | Navigating the divided nave; gaining trust from both factions simultaneously |
+| 3 - Trick | The Tier 3 diagram is in the Wounded nave's restricted choir loft, not the main archive |
+| 4 - Climax | The diagram reveals the cancel mechanism; and the wall over the original altar |
+| 5 - Reward/Twist | The resonance node under the wall; Isolde's transfer method suddenly has a home |
+
+---
+
+**Isolde's Spire Laboratory (Sessions 3-4)**
+
+| Room | Content |
+|------|---------|
+| 1 - Guardian | Keseph's obstruction; gaining access requires Isolde's invitation or deception |
+| 2 - Puzzle/Roleplay | The resonance rods puzzle (Milestone 1 puzzle from Session 3) |
+| 3 - Trick | The laboratory lock riddle; the drawer reveals worse mortality numbers than stated |
+| 4 - Climax | Isolde's confession about the true risk; and her genuine offer to try anyway |
+| 5 - Reward/Twist | The transfer method is viable but requires the Cathedral; two problems must be solved together |
+
+---
+
+**The Restorer Compound (Edoran's space)**
+
+| Room | Content |
+|------|---------|
+| 1 - Guardian | The public service entry; players must not appear hostile |
+| 2 - Puzzle/Roleplay | Understanding Edoran's theology without dismissing it; gaining his respect |
+| 3 - Trick | The Fanatics (Jaret's wing) are present and watching; Edoran's control is thinner than it looks |
+| 4 - Climax | Edoran's genuine argument for the ritual; or the revelation of Annem's memorial |
+| 5 - Reward/Twist | His cooperation is genuine; and he knows where every willing Dawnborn is at any given time |
+
+---
+
+**The Ashring (Sessions 1, 4, 5)**
+
+| Room | Content |
+|------|---------|
+| 1 - Guardian | The scorch marks; the weight of fifty years; the sense that something is still active here |
+| 2 - Puzzle/Roleplay | The Primer Stones (Sessions 4-5); or the gathering of Dawnborn (Sessions 1, 4) |
+| 3 - Trick | Whatever the session's encounter beat produces - Harran's argument, Aldric's arrival, Lira's confrontation |
+| 4 - Climax | The decision moment; the players must state what they believe or do something irreversible |
+| 5 - Reward/Twist | Knowledge, alliance, or irreversible consequence; and the Ashring changes slightly each time (the stones warmer, the air charged) |
+
+---
+
+### NPC Voice Reference Cards
+
+*One-card format for every major NPC. Read before the scene. The three-word shorthand is what to return to when you lose the voice mid-scene.*
+
+| NPC | 3-Word Self | Want | Fear | Lie | Vocal Quirk | Go-To Phrase |
+|-----|------------|------|------|-----|------------|-------------|
+| **Ostenveld** | Controlled, pragmatic, haunted | A solution before it's too late | Being blamed for making the wrong call | "I want this resolved by choice" | Low register, speaks quietly when serious | *"I am trusting you to find truth, not to protect me from it."* |
+| **Theron Waide** | Anxious, meticulous, guilty | Someone to take the decision from him | Being the one who has to say it aloud | "I may have misread it" | Rapid, over-qualified, fidgets | *"I've been asking myself for eleven years what I would do."* |
+| **Edoran** | Serene, certain, heartbroken | The sun back; the suffering stopped | Admitting this is personal | "We have all lost something" | Never raises voice, priestly cadences | *"I do not hate them. I hold them in the highest regard."* |
+| **Sera Voss** | Direct, loyal, brave | Truth; to not be deceived | Being used as a symbol without consent | "Let me think about it" | Short declarative sentences, laughs at herself | *"What do you need from me?"* |
+| **Tomas Areth** | Precise, fair, fatalistic | Justice AND good together | Rushing to a wrong answer | "I am still thinking" | Formal, pauses to find exact words | *"I would like three days before I give you my answer."* |
+| **Lira Anwick** | Guarded, fierce, tender | To live; to raise Mira | Her daughter being used as leverage | "I have reasons. I'm not giving them to you." | Clipped and defensive; softens completely in medical contexts | *"Find another way."* |
+| **Ysel Maren** | Serene, curious, deliberate | Her choice respected as genuine | Being seen as passively accepting rather than actively deciding | "I've considered that" | Calm, measured, every word chosen | *"I am not asking to be saved."* |
+| **Davin Shore** | Patient, honest, waiting | One meaningful choice | Running out of time before he can make it | "I just knew" | Low, unhurried, economical | *"This is just the next one."* |
+| **Isolde Menth** | Practical, collaborative, urgent | The transfer method to work | The real mortality risk becoming a reason to abandon it | "It's viable in principle" | Efficient, engineering metaphors | *"The Dawnborn are the container."* |
+| **Sevra Dain** | Direct, competent, furious | Fewer people dying | The waterway data causing panic | "The official numbers" | Precise medical language; no decorative phrases | *"Tell me what's actually going to happen."* |
+| **Harran** | Principled, tactical, not-suicidal | Forced sacrifice stopped | Dying for a cause that could have been argued | "I'm not here to hurt anyone" | Calls for parley; military precision | *"I am here to stop a city from murdering ten people."* |
+| **Keseph** | Cold, academic, self-serving | The twilight to continue long enough for his career to survive | His Solennite funding exposed | "The math isn't there yet" | Formal academic speech; dismissive of practical concerns | *"The Structural Approach has been insufficiently resourced."* |
+
+---
+
+### Scene Encounter Beats
+
+*For every major scene across all 5 sessions, the moment the situation changes. Know this before the scene starts. If the beat hasn't hit by two-thirds through, introduce it.*
+
+| Session | Scene | The Encounter Beat |
+|---------|-------|-------------------|
+| 1 | Chancellor's request | She pauses when asked what she suspects. Then answers carefully. The pause is the beat. |
+| 1 | Archive | Theron says "I may have misread it" for the third time and players realize he's not uncertain - he's afraid |
+| 1 | Meeting Sera | She asks: "What do you actually think is going on?" - the first time an NPC treats them as peers |
+| 1 | Restorer contact | Jaret offers the deal; the players realize the Restorers have been watching them |
+| 2 | Tomas's judgment | He reveals he already suspected; the players thought they were revealing new information |
+| 2 | Lira's introduction | She asks "What do you want?" before they say anything; she's been this conversation before |
+| 2 | Archive raid | The Reckoning burns the secondary documents on retreat; information is permanently lost |
+| 3 | Isolde's lab | She shows the real mortality estimate (35-55%); she knew, and she's still doing it |
+| 3 | Senna's mob | Davin speaks; the crowd goes quiet; the DC drops from 16 to 10 |
+| 4 | The Ashring | Tomas asks "What do you actually believe?" - no skill check, only an answer |
+| 4 | Lira arrives | The silence after Ysel says "I need you to let me have it." |
+| 4 | Reckoning strikes | Harran calls out: "I am not here to kill anyone." Round 2. |
+| 5 | Archive (Corven's letter) | The date on the letter: Night of the Ritual. He had six minutes. |
+| 5 | Last conversations | The NPC each player has most connected with says something they will remember |
+| 5 | The ritual | The activation signal. Whoever calls it. Whatever they choose to say. |
+
+---
+
+### What-Went-Wrong Tables
+
+*When a scene collapses - players skip it, kill someone they shouldn't, or the momentum dies - use these to recover without railroading.*
+
+**Session 1**
+
+| d6 | What went wrong | Recovery |
+|----|----------------|---------|
+| 1 | Players didn't go to the Archive | Theron finds them at the Dawnhall with a fragment of the notation key, "accidentally" left where they'd find it |
+| 2 | Players were hostile to Sera | She gives them a note before they leave: "I know I came across wrong. Come back." Sera is too important to lose. |
+| 3 | Jaret's combat killed a Restorer | Edoran sends a note: "I know what happened. We need to talk." |
+| 4 | Players refused the Chancellor | She has a backup plan: the Archivist makes contact independently |
+| 5 | Players tried to leave the city | Something on the road makes them return: a Restorer they know, a Dawnborn, a piece of news |
+| 6 | Total information failure | One NPC finds them. Not Theron. Orya Doss, who's been doing her own math. She asks: "Have you found the notation key yet?" |
+
+**Session 2**
+
+| d6 | What went wrong | Recovery |
+|----|----------------|---------|
+| 1 | Players missed the Ritual Diagram | Isolde mentions the Cathedral diagram in passing; it's not gone, just not found yet |
+| 2 | Players didn't meet Edoran | He leaves a pamphlet at their lodgings with a handwritten note in the margin: "I am not what the pamphlet says." |
+| 3 | Archive raid killed all documents | Theron has a copy of the key document; he kept one thing. He gives it now. |
+| 4 | Tomas is hostile after deception | He won't approach them. Another Dawnborn (Orya, Davin) serves as intermediary. |
+| 5 | Players attacked Lira | She is now unreachable. Three sessions later, she sends a message through Sevra. |
+| 6 | Players have wrong conclusion | Tomas produces his private notes: "I think you may have misread something." |
+
+**Session 3**
+
+| d6 | What went wrong | Recovery |
+|----|----------------|---------|
+| 1 | Players missed the resonance puzzle | Isolde summarizes the key finding; less dramatic, same information |
+| 2 | Davin was injured in the mob scene | Lira treats him; this creates an unexpected scene between them that reveals their friendship |
+| 3 | Senna was killed | Brin Oss becomes the Desperate leader; different personality, same escalation risk |
+| 4 | Players sided entirely with the Desperate | Lira goes underground. Tomas mediates. |
+| 5 | Isolde was hostile | Keseph has miscalculated; Isolde approaches players independently |
+| 6 | All clues missed | Orya leaves her maps at the Archive public desk. A note: "In case anyone needs the shape of the thing." |
+
+**Session 4**
+
+| d6 | What went wrong | Recovery |
+|----|----------------|---------|
+| 1 | Players didn't activate the Primer Stones | Tomas shows them his private notation: "I think these stones are important. I can't explain why." |
+| 2 | Aldric was killed | The other unwilling Dawnborn (Lira specifically) respond with righteous fury; pressure +2 |
+| 3 | Harran was killed | The Reckoning continues without him; the ideological argument is lost; only force remains |
+| 4 | Players revealed Corven's letter too early | Some NPCs process faster; it actually works fine; use it |
+| 5 | Chancellor's ultimatum was refused publicly | She issues it privately. Same content. More personal. |
+| 6 | Players can't find Petra | Aldric offers to reach her; he sends a letter; she arrives the morning of Session 5 |
+
+---
+
+### The Extended Moral Scorecard
+
+*Track player choices across 6 moral axes. Not for judgment - for understanding what kind of ending feels true to who they became.*
+
+**Axis 1: Consent vs. Utility**
+- Consent: Players consistently protect individual choice even at collective cost
+- Utility: Players consistently choose outcomes that help the most people, accepting individual cost
+
+**Axis 2: Loyalty vs. Honesty**
+- Loyal: Players protected specific relationships by managing what those people knew
+- Honest: Players told the truth even when it damaged relationships
+
+**Axis 3: Individual vs. Collective**
+- Individual: Players prioritized Lira, Aldric, the unwilling Dawnborn as individuals
+- Collective: Players prioritized the city's 40,000 over the 10
+
+**Axis 4: Action vs. Inaction**
+- Active: Players moved toward resolution even when uncomfortable
+- Inactive: Players found reasons to delay, hedge, or avoid committing
+
+**Axis 5: Truth vs. Mercy**
+- Truth: Players revealed difficult information when they had it
+- Mercy: Players concealed or softened information to protect NPCs from pain
+
+**Axis 6: Justice vs. Forgiveness**
+- Justice: Players held NPCs accountable for their roles (Theron's concealment, Keseph's funding)
+- Forgiveness: Players accepted context as mitigation; moved forward without accountability
+
+**Reading the scorecard before Session 5:**
+
+| Pattern | The Ending That Honors This |
+|---------|---------------------------|
+| Consent / Honest / Individual / Active | Ending A or C (earned; they got here honestly) |
+| Utility / Loyal / Collective / Active | Ending A or E (efficient; may have costs they're carrying) |
+| Consent / Honest / Individual / Inactive | Ending B or D (protected what they could; couldn't commit to more) |
+| Any / Any / Any / Inactive | Ending F (the city slipped while they deliberated) |
+| Mixed (most common) | Blend; identify the 1-2 dominant axes and use those to determine the ending tone |
+
+---
+
 ## The GM's Final Reminder
 
 You are not the storyteller. You are the *conditions* of the story.
