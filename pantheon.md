@@ -8,7 +8,7 @@
 
 The gods of the Graymere Reaches are old, diverse, and mostly not in competition with each other. There is no single dominant theology that claims to explain all of them; most regional cultures maintain a working relationship with two or three gods primarily and acknowledge the others exist. The Spire scholars have catalogued at least forty distinct divine or quasi-divine entities that have received worship in the Reaches over recorded history. Six have broad, active worship across most of the region and are described here.
 
-Temple infrastructure varies widely. Auris has cathedrals. Dara has no temples at all. Morthis has professional clergy; Veth has none. The variation is itself meaningful — it reflects what kind of relationship each god seems to prefer with their worshippers.
+Temple infrastructure varies widely. Auris has cathedrals. Dara has no temples at all. Morthis has professional clergy; Veth has none. The variation is itself meaningful - it reflects what kind of relationship each god seems to prefer with their worshippers.
 
 In Varenhold specifically, religion has become more complex in the last fifty years. The twilight is, at minimum, a deeply unusual event that most clergy struggle to interpret. Every faith here has had to work out what it means.
 
@@ -16,55 +16,55 @@ In Varenhold specifically, religion has become more complex in the last fifty ye
 
 ## The Six
 
-### Auris — The Dawnbringer
+### Auris - The Dawnbringer
 
 *Domains: Light, Life, Knowledge. Associated symbols: the rising sun, amber, the open eye.*
 
-Auris is the god of the sun, light, growth, clarity, and the kind of knowledge that comes from being able to see clearly. Auris has been worshipped throughout the Reaches for at least a thousand years and is the dominant faith in Solenne. The sun's presence and the god's presence have always been understood as continuous — not the same thing, exactly, but intimately related.
+Auris is the god of the sun, light, growth, clarity, and the kind of knowledge that comes from being able to see clearly. Auris has been worshipped throughout the Reaches for at least a thousand years and is the dominant faith in Solenne. The sun's presence and the god's presence have always been understood as continuous - not the same thing, exactly, but intimately related.
 
 Since the twilight, everything about Auris-worship has become complicated.
 
 The clerical orders of Auris have fractured into two main factions that currently coexist with considerable tension:
 
-**The Penitents** hold that the twilight is a divine withdrawal — that Auris turned away from the Reaches in response to some great offense. The failed ritual that caused the twilight is the obvious candidate, but Penitents are often vaguer about the specifics. What matters to them is the posture: humility, repentance, the acknowledgment that humanity overstepped. Their religious practice involves fasting, sustained prayer at the hours when dawn and dusk should occur, and works of public contrition. They are politically quietist — if Auris withdrew, it is not for humans to restore the sun by force of will or clever ritual. It is for humans to be worthy of the sun's return.
+**The Penitents** hold that the twilight is a divine withdrawal - that Auris turned away from the Reaches in response to some great offense. The failed ritual that caused the twilight is the obvious candidate, but Penitents are often vaguer about the specifics. What matters to them is the posture: humility, repentance, the acknowledgment that humanity overstepped. Their religious practice involves fasting, sustained prayer at the hours when dawn and dusk should occur, and works of public contrition. They are politically quietist - if Auris withdrew, it is not for humans to restore the sun by force of will or clever ritual. It is for humans to be worthy of the sun's return.
 
-**The Wounded** hold that something happened *to* Auris — that the god was harmed by the ritual, weakened, somehow diminished. Their worship is less contrite and more urgent: prayers framed as healing work, rituals that explicitly offer the god strength, clergy who understand themselves as tending a wounded patient. The Wounded are more likely to be politically engaged, more likely to support active restoration efforts, and more likely to clash with the Penitents over what reverence looks like.
+**The Wounded** hold that something happened *to* Auris - that the god was harmed by the ritual, weakened, somehow diminished. Their worship is less contrite and more urgent: prayers framed as healing work, rituals that explicitly offer the god strength, clergy who understand themselves as tending a wounded patient. The Wounded are more likely to be politically engaged, more likely to support active restoration efforts, and more likely to clash with the Penitents over what reverence looks like.
 
 Both factions claim legitimacy. Both have historical precedents for their theology. Both believe the other is making a serious error. In Varenhold, where the Auris temple is smaller than it was (the main cathedral was in Solenne all along; Varenhold's Auris presence was always a secondary order), the two factions share the same building and manage the arrangement with visible strain.
 
-**Praying to Auris in Varenhold feels different.** This is something people report rather than something that can be verified. Auris clergy from outside the Reaches who visit Varenhold consistently describe the same phenomenon: prayer to Auris here has a quality of — absence is the wrong word. Distance. As though reaching across a longer gap than usual. Whether this means anything theological is debated.
+**Praying to Auris in Varenhold feels different.** This is something people report rather than something that can be verified. Auris clergy from outside the Reaches who visit Varenhold consistently describe the same phenomenon: prayer to Auris here has a quality of - absence is the wrong word. Distance. As though reaching across a longer gap than usual. Whether this means anything theological is debated.
 
-![Auris, the Dawnbringer — the sun god in a time of his absence; a devotional image of grief and enduring hope](images/god-auris.svg)
+![Auris, the Dawnbringer - the sun god in a time of his absence; a devotional image of grief and enduring hope](images/god-auris.svg)
 
-### Morthis — The Usher
+### Morthis - The Usher
 
 *Domains: Death, Twilight, Transition. Associated symbols: the grey ferry, the open door, cupped hands.*
 
-Morthis is the god of death understood as transition rather than ending. His theology insists on this distinction: death is a passage, not a terminus. The dead are not gone; they have moved on to something that the living cannot perceive. Morthis's clergy — called Ushers — tend the dying, prepare the dead, run the death-houses, and perform the rites that help the deceased make the passage.
+Morthis is the god of death understood as transition rather than ending. His theology insists on this distinction: death is a passage, not a terminus. The dead are not gone; they have moved on to something that the living cannot perceive. Morthis's clergy - called Ushers - tend the dying, prepare the dead, run the death-houses, and perform the rites that help the deceased make the passage.
 
 Morthis is not a frightening god in Varenhold's cultural framework. He is practical, present, and quietly central to city life. When someone dies in the Lowmark, the Ushers come. When the grey sickness takes someone, it is the Ushers who sit with them at the end. When families need to grieve, the Ushers provide the framework for doing it. The god of death is, in practice, the god of grief support.
 
-The twilight has given Morthis-worship an unusual texture. The liturgical calendar for Morthis traditionally marks the transition between day and night as sacred moments — the god's presence is felt most at dusk and dawn. With the sun absent, dusk and dawn have become a permanent state. Morthis-clergy describe this with varying degrees of comfort: some find it holy, an extended period of the god's immediate presence; others find it exhausting, as though the boundary-work they normally do in brief ritual moments has become the entirety of existence.
+The twilight has given Morthis-worship an unusual texture. The liturgical calendar for Morthis traditionally marks the transition between day and night as sacred moments - the god's presence is felt most at dusk and dawn. With the sun absent, dusk and dawn have become a permanent state. Morthis-clergy describe this with varying degrees of comfort: some find it holy, an extended period of the god's immediate presence; others find it exhausting, as though the boundary-work they normally do in brief ritual moments has become the entirety of existence.
 
-The grey sickness has dramatically increased the Ushers' caseload and their civic prominence. They are more present in Varenhold now than before the twilight, more respected, and — quietly — more worried.
+The grey sickness has dramatically increased the Ushers' caseload and their civic prominence. They are more present in Varenhold now than before the twilight, more respected, and - quietly - more worried.
 
-![Morthis, the Usher — god of passage and transition; the grey ferryman at the threshold between the living world and what comes after](images/god-morthis.svg)
+![Morthis, the Usher - god of passage and transition; the grey ferryman at the threshold between the living world and what comes after](images/god-morthis.svg)
 
-### Veth — The Keeper of Closed Things
+### Veth - The Keeper of Closed Things
 
 *Domains: Knowledge (hidden), Trickery (in service of secrets), Death (of secrets and of those who hold them). Associated symbols: the locked box, the sealed letter, the index finger raised.*
 
-Veth is the god of secrets — the ones people keep, the ones they need to keep, and the ones that keep themselves. Veth's domain is not deception, exactly: it is the legitimate, necessary human practice of holding things that cannot be said aloud. The knowledge you carry because you cannot yet share it. The truth about yourself that you keep in reserve. The secret that protects someone else.
+Veth is the god of secrets - the ones people keep, the ones they need to keep, and the ones that keep themselves. Veth's domain is not deception, exactly: it is the legitimate, necessary human practice of holding things that cannot be said aloud. The knowledge you carry because you cannot yet share it. The truth about yourself that you keep in reserve. The secret that protects someone else.
 
-There are no formal temples to Veth. Worship is private, personal, and conducted without witnesses. Veth-practitioners (they resist terms like "priest" or "clergy") meet individually with the god in whatever private ritual space they've created for themselves. Some keep a small box — locked, containing a written secret that they've told no one else. Some use a mirror. Some use darkness. The forms are not standardized because standardization is contrary to the theology.
+There are no formal temples to Veth. Worship is private, personal, and conducted without witnesses. Veth-practitioners (they resist terms like "priest" or "clergy") meet individually with the god in whatever private ritual space they've created for themselves. Some keep a small box - locked, containing a written secret that they've told no one else. Some use a mirror. Some use darkness. The forms are not standardized because standardization is contrary to the theology.
 
 Veth is the patron of scholars (who know things they can't yet publish), archivists (who know where everything is), spies (obviously), therapists and confessors, and anyone carrying something they cannot say aloud. This covers a great deal of Varenhold. The city has a lot of things it's not saying.
 
 Veth-practitioners in Varenhold are generally known by reputation rather than by observation. You don't see them worship; you hear afterward that so-and-so is "Veth-touched," which is the colloquial term. Whether this is a compliment depends on context.
 
-![Veth, Keeper of Closed Things — the god of secrets and private knowledge; a candlelit desk, a locked box, a sealed letter](images/god-veth.svg)
+![Veth, Keeper of Closed Things - the god of secrets and private knowledge; a candlelit desk, a locked box, a sealed letter](images/god-veth.svg)
 
-### Dara — The Hearthkeeper
+### Dara - The Hearthkeeper
 
 *Domains: Life, Community, Light (domestic). Associated symbols: the lit hearth, the shared bowl, clasped hands.*
 
@@ -72,39 +72,39 @@ Dara is the most widely worshipped god in Varenhold, in the specific sense that 
 
 There is no Dara cathedral in Varenhold. There are no formal Dara clergy. There are Dara-devoted laypeople who organize the Dawnhalls' meal programs, facilitate community mediations, and maintain the small neighborhood shrines that appear at the end of almost every residential block in the city. These people do real institutional work without formal institutional structure.
 
-In the twilight, Dara-worship has become more prominent rather than less. When the larger frameworks — the city's relationship to Auris, to the Spire's academic solutions, to political authority — have failed to fix the problem, people have fallen back on what Dara offers: each other. The Dawnhalls are, theologically speaking, Dara's most significant institution in Varenhold, even if most people who use them don't think of it that way.
+In the twilight, Dara-worship has become more prominent rather than less. When the larger frameworks - the city's relationship to Auris, to the Spire's academic solutions, to political authority - have failed to fix the problem, people have fallen back on what Dara offers: each other. The Dawnhalls are, theologically speaking, Dara's most significant institution in Varenhold, even if most people who use them don't think of it that way.
 
-Dara and Morthis are understood to be in a complementary relationship — not married in the human sense, but mutually reinforcing. Where Dara holds communities together in life, Morthis holds them through the passage of death. Clergy from both orders often work in parallel.
+Dara and Morthis are understood to be in a complementary relationship - not married in the human sense, but mutually reinforcing. Where Dara holds communities together in life, Morthis holds them through the passage of death. Clergy from both orders often work in parallel.
 
-![Dara, the Hearthkeeper — goddess of community and shared meals; amber lanternlight on a long table, clasped hands, the warmth of gathered people](images/god-dara.svg)
+![Dara, the Hearthkeeper - goddess of community and shared meals; amber lanternlight on a long table, clasped hands, the warmth of gathered people](images/god-dara.svg)
 
-### The Wanderer — Of No Fixed Address
+### The Wanderer - Of No Fixed Address
 
 *Domains: Trickery, Nature, Travel. Associated symbols: the wayshrine stone, the open road, a single sandal.*
 
-The Wanderer is a god with no myth of origin and no fixed home. He is worshipped at wayshrines — small stone markers at road junctions and city gates — with brief, pragmatic prayers: *let me arrive safely, let me find what I'm looking for, let me return home*. He is the patron of travelers, merchants, people between places, people who have left home and aren't sure they're going back.
+The Wanderer is a god with no myth of origin and no fixed home. He is worshipped at wayshrines - small stone markers at road junctions and city gates - with brief, pragmatic prayers: *let me arrive safely, let me find what I'm looking for, let me return home*. He is the patron of travelers, merchants, people between places, people who have left home and aren't sure they're going back.
 
 The wayshrine at the Ashfen Gate in Varenhold's southern district is one of the oldest continuously active wayshrines in the Reaches. Players arriving in Varenhold from the south will pass it. The stone is worn smooth from generations of hands. Local tradition says you should touch it when you arrive and when you leave, and that the Wanderer knows if you forgot.
 
-The Wanderer's clergy — called Wayward, a term they've chosen and seem to enjoy — are itinerant. A Wayward priest doesn't stay in a city long enough to build a congregation; they pass through, tend the wayshrines, perform travel-blessings, and move on. A permanent Wayward presence in Varenhold would be theologically suspect. There is usually one or two Wayward in the city at any given time, staying at the Wanderer's Rest inn near the Ashfen Gate before continuing their circuit.
+The Wanderer's clergy - called Wayward, a term they've chosen and seem to enjoy - are itinerant. A Wayward priest doesn't stay in a city long enough to build a congregation; they pass through, tend the wayshrines, perform travel-blessings, and move on. A permanent Wayward presence in Varenhold would be theologically suspect. There is usually one or two Wayward in the city at any given time, staying at the Wanderer's Rest inn near the Ashfen Gate before continuing their circuit.
 
 The god has no known position on the twilight. The Wanderer's theology has always been about movement, not destination. If anything, the twilight has given the god's more philosophically inclined priests something to think about: the Reaches are, in some sense, stuck at a particular moment, unable to pass through to what comes next. The Wanderer is the god of passage. What does passage mean when nothing moves?
 
-![The Wanderer — god of roads and passage; an ancient wayshrine at a crossroads, worn smooth by generations of hands, the road receding into amber twilight](images/god-wanderer.svg)
+![The Wanderer - god of roads and passage; an ancient wayshrine at a crossroads, worn smooth by generations of hands, the road receding into amber twilight](images/god-wanderer.svg)
 
-### Kael and Mira — The Twin Crowns
+### Kael and Mira - The Twin Crowns
 
 *Domains: War (Kael), Life (Mira). Associated symbols: the crossed swords (Kael), the open hand (Mira), the two-faced crown (both).*
 
-Kael and Mira are not siblings or spouses — the mythology resists conventional categorization. They are halves of a necessary whole: war and mercy, force and healing, the willingness to cause harm and the equal willingness to bear the cost of having done so. They are always worshipped as a pair. There is no temple to Kael without an altar to Mira; no Mira-shrine without an adjacent Kael marker.
+Kael and Mira are not siblings or spouses - the mythology resists conventional categorization. They are halves of a necessary whole: war and mercy, force and healing, the willingness to cause harm and the equal willingness to bear the cost of having done so. They are always worshipped as a pair. There is no temple to Kael without an altar to Mira; no Mira-shrine without an adjacent Kael marker.
 
-Their theology is specifically for people who must cause harm to prevent greater harm. Soldiers, city guards, executioners, people who make decisions that cost others. The worship is honest about moral weight: Kael blesses the blow, Mira demands you understand what the blow cost, and both crowns rest on the same head. The paladins who swear to the Twin Crowns are sometimes called "double-sworn" — their oaths acknowledge both the necessity of force and the permanent debt it creates.
+Their theology is specifically for people who must cause harm to prevent greater harm. Soldiers, city guards, executioners, people who make decisions that cost others. The worship is honest about moral weight: Kael blesses the blow, Mira demands you understand what the blow cost, and both crowns rest on the same head. The paladins who swear to the Twin Crowns are sometimes called "double-sworn" - their oaths acknowledge both the necessity of force and the permanent debt it creates.
 
-The Twin Crowns' temple in Varenhold is in the Guard Quarter. It is active, frequented by city guards and the small number of soldiers the city maintains. The head cleric — a retired guard captain named Thessa — runs the temple with military efficiency and genuine compassion in roughly equal measure.
+The Twin Crowns' temple in Varenhold is in the Guard Quarter. It is active, frequented by city guards and the small number of soldiers the city maintains. The head cleric - a retired guard captain named Thessa - runs the temple with military efficiency and genuine compassion in roughly equal measure.
 
-**A note on the name Mira:** The name appears in the campaign in multiple places — the Chancellor's name, the name of a child mentioned elsewhere, and this ancient deity. The god Mira predates both of the others by centuries. The Chancellor's parents were devout Twin Crowns worshippers and named their daughter after the goddess; this is not uncommon in Varenhold. Treat each usage by context; the deity and the person are distinct.
+**A note on the name Mira:** The name appears in the campaign in multiple places - the Chancellor's name, the name of a child mentioned elsewhere, and this ancient deity. The god Mira predates both of the others by centuries. The Chancellor's parents were devout Twin Crowns worshippers and named their daughter after the goddess; this is not uncommon in Varenhold. Treat each usage by context; the deity and the person are distinct.
 
-![Kael and Mira, the Twin Crowns — war and mercy worshipped as one; the two-faced crown, the sword and the open hand](images/god-twin-crowns.svg)
+![Kael and Mira, the Twin Crowns - war and mercy worshipped as one; the two-faced crown, the sword and the open hand](images/god-twin-crowns.svg)
 
 ---
 
@@ -122,14 +122,14 @@ You can find the Restorers most easily at the Auris temple's public meeting hall
 
 ### The Dusk Keepers
 
-The Dusk Keepers are small, fringe, and controversial. Their theology holds that the twilight is not a catastrophe but an equilibrium — a balance point between day and night that has value in itself. Dawn would not be a restoration; it would be a rupture, a violent forcing of the world into a state it has moved away from. The city has adapted. The Reaches have adapted. The ritual to restore the sun would cause as much harm as it prevented.
+The Dusk Keepers are small, fringe, and controversial. Their theology holds that the twilight is not a catastrophe but an equilibrium - a balance point between day and night that has value in itself. Dawn would not be a restoration; it would be a rupture, a violent forcing of the world into a state it has moved away from. The city has adapted. The Reaches have adapted. The ritual to restore the sun would cause as much harm as it prevented.
 
-Most Varenholders respond to this argument with irritation bordering on hostility. The grey sickness, the agricultural collapse, the fifty years of despair — these are not acceptable equilibria to the city's majority. The Dusk Keepers know this and are defensive about it. They do not have a formal meeting space; they gather in private homes. They are not dangerous, exactly, but they are sensitive about being treated as either heretics or curiosities, because they've experienced both.
+Most Varenholders respond to this argument with irritation bordering on hostility. The grey sickness, the agricultural collapse, the fifty years of despair - these are not acceptable equilibria to the city's majority. The Dusk Keepers know this and are defensive about it. They do not have a formal meeting space; they gather in private homes. They are not dangerous, exactly, but they are sensitive about being treated as either heretics or curiosities, because they've experienced both.
 
 ### The Architects of the True Dawn
 
-The Architects are a secular movement — explicitly non-theological, sometimes anti-theological — that believes the twilight problem is a mathematical one. The ritual that failed can be reverse-engineered. The Spire has been going about it wrong; the solution does not require divine intervention, priestly authority, or sacrifice. It requires better data and smarter analysis.
+The Architects are a secular movement - explicitly non-theological, sometimes anti-theological - that believes the twilight problem is a mathematical one. The ritual that failed can be reverse-engineered. The Spire has been going about it wrong; the solution does not require divine intervention, priestly authority, or sacrifice. It requires better data and smarter analysis.
 
 The Architects include several Spire graduates who left the institution over methodological disagreements, a number of self-taught mathematicians and natural philosophers, and some enthusiastic amateurs whose contributions are limited but enthusiasm is boundless. They publish a quarterly journal called *The Calculation* that has a small but devoted readership.
 
-They are not hostile to the gods, exactly — most Architects are personally devout in various directions — but they are hostile to the idea that the gods are the solution. The problem has a mechanism, they believe. Find the mechanism. Fix it.
+They are not hostile to the gods, exactly - most Architects are personally devout in various directions - but they are hostile to the idea that the gods are the solution. The problem has a mechanism, they believe. Find the mechanism. Fix it.

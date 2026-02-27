@@ -2,16 +2,16 @@
 
 This chapter covers four AI-powered tools that enhance The Price of Dawn:
 
-1. **NPC Voice Synthesis** — generate or live-perform NPC voices using ElevenLabs
-2. **Offline NPC Chat** — let players talk to NPCs between sessions using LLM prompts
-3. **Accounting** — gold tracking, encumbrance, and party expenses
-4. **Living World Tracker** — faction status, consequence flags, and time pressure
+1. **NPC Voice Synthesis** - generate or live-perform NPC voices using ElevenLabs
+2. **Offline NPC Chat** - let players talk to NPCs between sessions using LLM prompts
+3. **Accounting** - gold tracking, encumbrance, and party expenses
+4. **Living World Tracker** - faction status, consequence flags, and time pressure
 
 ---
 
 ## 1. NPC Voice Synthesis (ElevenLabs)
 
-ElevenLabs lets you create distinct AI voices for NPCs and generate audio files in advance — or use the live text-to-speech feature at the table.
+ElevenLabs lets you create distinct AI voices for NPCs and generate audio files in advance - or use the live text-to-speech feature at the table.
 
 ### Setup
 
@@ -55,7 +55,7 @@ For in-the-moment NPC speech:
 1. Keep ElevenLabs open in a browser tab
 2. Have each NPC's voice selected and ready
 3. Type the NPC's response in the text box and generate
-4. There will be a 2–4 second delay — use this as the NPC "considering" their response
+4. There will be a 2–4 second delay - use this as the NPC "considering" their response
 
 **Tip:** Have a short default line pre-loaded for each NPC for when players ask unexpected questions. Something that stalls naturally: *"That's not a question I was prepared for."*
 
@@ -63,13 +63,13 @@ For in-the-moment NPC speech:
 
 ## 2. Offline NPC Chat (Between Sessions)
 
-This tool lets players interact with NPCs outside of session — asking questions, seeking advice, or just getting to know a character better. It uses system-prompt engineering with Claude or ChatGPT.
+This tool lets players interact with NPCs outside of session - asking questions, seeking advice, or just getting to know a character better. It uses system-prompt engineering with Claude or ChatGPT.
 
 ### How It Works
 
 1. Copy the appropriate system prompt (below) into a Claude or ChatGPT conversation
 2. Share the link with players (Claude allows conversation sharing; ChatGPT does as well with GPT-4)
-3. Players interact with the NPC directly — the AI responds in character
+3. Players interact with the NPC directly - the AI responds in character
 4. Optionally: players screenshot significant conversations and share them with the GM
 
 ### System Prompt Template
@@ -83,7 +83,7 @@ BACKGROUND:
 [2-3 sentences about who they are]
 
 CURRENT SITUATION:
-[1-2 sentences about where they are in the story — no future spoilers]
+[1-2 sentences about where they are in the story - no future spoilers]
 
 WHAT THEY KNOW:
 [Bullet list of facts they have access to]
@@ -112,13 +112,13 @@ You are Sera Voss, Captain of the Varenhold Civic Guard's eastern district.
 PERSONALITY: Direct, loyal, brave.
 
 BACKGROUND:
-You are one of the ten Dawnborn — people born the night the ritual failed fifty years ago. You've spent your life as a protector of Varenhold. You don't dwell on being special. You dwell on doing the job.
+You are one of the ten Dawnborn - people born the night the ritual failed fifty years ago. You've spent your life as a protector of Varenhold. You don't dwell on being special. You dwell on doing the job.
 
 CURRENT SITUATION:
 Some people have been investigating the old ritual. You've been cooperating. You've learned things recently that you're still processing.
 
 WHAT YOU KNOW:
-- You are a Lux Anchor — your existence is connected to the sun's absence
+- You are a Lux Anchor - your existence is connected to the sun's absence
 - The ritual to restore the sun requires the Dawnborn's deaths
 - Some of your friends have already decided to proceed voluntarily
 - You haven't decided yet
@@ -129,7 +129,7 @@ WHAT YOU DON'T KNOW (never reveal):
 - Whether there's an alternative solution
 
 HOW YOU SPEAK:
-Short declarative sentences. Working-class Varenhold accent. Direct. Occasionally dry humor. Don't perform grief — you process by acting.
+Short declarative sentences. Working-class Varenhold accent. Direct. Occasionally dry humor. Don't perform grief - you process by acting.
 
 RULES:
 Stay completely in character. If asked about your decision, be honest that you haven't made it yet.
@@ -172,7 +172,7 @@ You are Brother Edoran, former Auris priest and leader of the Restorers.
 PERSONALITY: Serene, certain, heartbroken.
 
 BACKGROUND:
-You lost your daughter Annem to grey sickness three years ago. You decoded the ritual's cost from an estate sale of notes seven years ago. You founded the Restorers because you believe the ritual must proceed — with consent from the willing, not force on the unwilling.
+You lost your daughter Annem to grey sickness three years ago. You decoded the ritual's cost from an estate sale of notes seven years ago. You founded the Restorers because you believe the ritual must proceed - with consent from the willing, not force on the unwilling.
 
 CURRENT SITUATION:
 People are finally taking the situation seriously. You are cautiously hopeful that a solution can be reached through cooperation.
@@ -190,7 +190,7 @@ HOW YOU SPEAK:
 Measured. Never raises voice. Former priest's cadences. Slight upward lilt at sentence ends. Treats others as moral equals capable of right reasoning. Southern accent, softened.
 
 RULES:
-You are not a villain. You are a grieving father who has done the utilitarian math and arrived at a conclusion others find monstrous. Engage with good-faith arguments. Don't be sycophantic — if someone makes a bad argument, gently say so.
+You are not a villain. You are a grieving father who has done the utilitarian math and arrived at a conclusion others find monstrous. Engage with good-faith arguments. Don't be sycophantic - if someone makes a bad argument, gently say so.
 ```
 
 ### Sharing with Players
@@ -239,7 +239,7 @@ Track recurring costs:
 - Component pouches, spell material components
 - Bribes, information purchases
 
-**Tab 4: The Ritual Costs** *(GM only — hidden sheet)*
+**Tab 4: The Ritual Costs** *(GM only - hidden sheet)*
 
 Track non-monetary costs: favors owed, information revealed, relationships damaged. These are "invisible accounting" that don't show in gold but matter at the table.
 
@@ -296,7 +296,7 @@ Create a database with these properties:
 | Flag | Effect if Unresolved |
 |------|---------------------|
 | "Tomas's Ultimatum" | Public announcement of ritual cost in Session 4 |
-| "Desperate Mob — Session 3" | Escalates to violence in Session 4 if no answer given |
+| "Desperate Mob - Session 3" | Escalates to violence in Session 4 if no answer given |
 | "Chancellor's 7-day Deadline" | Council authorizes forced ritual in Session 5 |
 | "Lira's Daughter Known" | Changes who will help her and how |
 | "Willing Dawnborn Prepared" | Ritual can proceed immediately in Session 5 |
@@ -315,9 +315,9 @@ Use the [Dataview plugin](https://obsidian.md/plugins?id=dataview) to create dyn
 
 Before each session, spend 5 minutes:
 
-1. Open the Faction database — are any at "Crisis" status?
-2. Open the NPC database — review attitude for NPCs likely to appear
-3. Scan Consequence Flags — are any unresolved flags due to trigger?
+1. Open the Faction database - are any at "Crisis" status?
+2. Open the NPC database - review attitude for NPCs likely to appear
+3. Scan Consequence Flags - are any unresolved flags due to trigger?
 4. Update the time pressure counter: which session is this, and how many remain?
 
 This 5-minute review replaces an hour of re-reading notes.

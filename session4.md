@@ -1,4 +1,4 @@
-# Session 4 — The Breaking Point
+# Session 4 - The Breaking Point
 
 **Central Dilemma:** What do you owe to people who choose to sacrifice themselves?
 
@@ -10,11 +10,11 @@
 
 ## Pre-Session Checklist
 
-- [ ] Review ALL three session trackers — this session is built from their contents
+- [ ] Review ALL three session trackers - this session is built from their contents
 - [ ] Map which Dawnborn are: willing, unwilling, or undecided
 - [ ] Check: has Tomas's deadline passed? Has the truth gone public?
 - [ ] Decide if Isolde's transfer option is still viable
-- [ ] The Desperate mob — what happened after Session 3? Track that faction's state.
+- [ ] The Desperate mob - what happened after Session 3? Track that faction's state.
 
 ---
 
@@ -29,7 +29,7 @@ Roll 1d6 and consult this table, or choose the entry most relevant to previous s
 | 1–2 | Tomas has gone public. He announced the truth at a city gathering. There is chaos. |
 | 3–4 | The willing Dawnborn have convened at the Ashring. They are waiting for someone to facilitate what they've decided. |
 | 5 | Lira has disappeared with her daughter. A note says she's going. She doesn't say where. |
-| 6 | The Chancellor has been approached by two outer city-states offering military support — in exchange for the ritual proceeding within 30 days. |
+| 6 | The Chancellor has been approached by two outer city-states offering military support - in exchange for the ritual proceeding within 30 days. |
 
 *Run whichever fits your table's history best, or combine elements.*
 
@@ -41,7 +41,7 @@ This session, the ten Dawnborn divide into three groups, and the players are in 
 
 ### The Willing: Ysel, Davin, Cormac (and possibly Sera)
 
-These three have made their peace. They are not performing bravery — they are genuinely, quietly ready. They have one request: that their choice be *respected*, not endlessly relitigated.
+These three have made their peace. They are not performing bravery - they are genuinely, quietly ready. They have one request: that their choice be *respected*, not endlessly relitigated.
 
 **What they want from the players:**
 
@@ -53,7 +53,7 @@ The players' challenge here: accepting someone's willing sacrifice is harder tha
 Davin, gently: *"We've had fifty years to think about what we are. You've had two sessions. Please don't tell me who I am."*
 
 **If the players accept it:**
-Something shifts. The scene becomes quiet in a way that isn't sad — it's resolved. These characters have a kind of peace the players may not.
+Something shifts. The scene becomes quiet in a way that isn't sad - it's resolved. These characters have a kind of peace the players may not.
 
 ### The Unwilling: Lira, Aldric, Petra (and possibly others)
 
@@ -68,10 +68,10 @@ Aldric and Petra are less articulate but equally firm. They didn't choose to be 
 The players' challenge: they may not have an alternative yet. They may be choosing between honesty (which breaks her) and false hope (which buys time but destroys trust).
 
 **Lira's Daughter:**
-If this hasn't come up yet, it does now. Mira (the daughter, age 3) is present in this scene — playing quietly in the corner. Lira doesn't introduce her. She doesn't have to.
+If this hasn't come up yet, it does now. Mira (the daughter, age 3) is present in this scene - playing quietly in the corner. Lira doesn't introduce her. She doesn't have to.
 
 **If the players have an alternative (Isolde's transfer, partial ritual):**
-Lira wants to believe it. She pushes for specifics. She will commit to *nothing* that isn't verified — but she won't abandon the group either.
+Lira wants to believe it. She pushes for specifics. She will commit to *nothing* that isn't verified - but she won't abandon the group either.
 
 ### The Undecided: Tomas, Orya, Nin, and one or two others
 
@@ -85,17 +85,17 @@ The undecided are the swing votes. Whoever the players are most aligned with, wh
 
 ## Scene 1: The Ashring
 
-**Location:** The original ritual site — the plaza at the center of old Varenhold where the stones are still scorched. This is where any ritual completion would take place.
+**Location:** The original ritual site - the plaza at the center of old Varenhold where the stones are still scorched. This is where any ritual completion would take place.
 
 The willing Dawnborn have gathered here. Some of the undecided are present. Lira and the unwilling are not (yet).
 
 ### Read-Aloud
 
-> The Ashring is quiet. The scorch marks on the stones are barely visible in the permanent amber light — you have to look for them, know to look for them. They've been there so long they feel permanent, like part of the architecture.
+> The Ashring is quiet. The scorch marks on the stones are barely visible in the permanent amber light - you have to look for them, know to look for them. They've been there so long they feel permanent, like part of the architecture.
 >
 > Seven of the Dawnborn are here. Three are willing. Four are undecided. All of them look at you when you arrive.
 >
-> Ysel is standing in the center of the old ritual circle. She isn't doing anything — just standing there. She says: "We thought it should be here. Where it started."
+> Ysel is standing in the center of the old ritual circle. She isn't doing anything - just standing there. She says: "We thought it should be here. Where it started."
 
 ### What This Scene Needs
 
@@ -109,7 +109,7 @@ This is not a combat encounter. It is a social encounter with stakes.
 
 2. **Brother Edoran appears at the edge of the plaza.** He was not invited. He says nothing. He is present as a witness. If confronted, he says: *"I won't pretend I'm not invested in the outcome. But this is their conversation. I am not a party to it."*
 
-3. **The Desperate are watching.** A small crowd has gathered at the edges of the plaza. Not hostile — curious. Afraid. Hopeful. They are the weight of 40,000 people distilled into thirty faces.
+3. **The Desperate are watching.** A small crowd has gathered at the edges of the plaza. Not hostile - curious. Afraid. Hopeful. They are the weight of 40,000 people distilled into thirty faces.
 
 ### Key Decision Point: The Players' Role
 
@@ -186,10 +186,10 @@ This is not a villain move. This is a person who is terrified and running out of
 
 **The players' options:**
 
-1. **Accept the deadline** — it gives them a concrete endpoint and eliminates infinite deliberation
-2. **Negotiate for more time** — requires something tangible to show her (a credible alternative path)
-3. **Expose her ultimatum to the Dawnborn** — Lira in particular will want to know about this
-4. **Work around her** — pursue a solution that bypasses the Council entirely
+1. **Accept the deadline** - it gives them a concrete endpoint and eliminates infinite deliberation
+2. **Negotiate for more time** - requires something tangible to show her (a credible alternative path)
+3. **Expose her ultimatum to the Dawnborn** - Lira in particular will want to know about this
+4. **Work around her** - pursue a solution that bypasses the Council entirely
 
 ---
 
@@ -199,9 +199,9 @@ End this session in motion, not resolution. Something has shifted. Something has
 
 ### Read-Aloud
 
-> The amber light is doing what it always does — which is to say, nothing. It stays. It watches.
+> The amber light is doing what it always does - which is to say, nothing. It stays. It watches.
 >
-> You've made choices in this city that you didn't expect to make. You've had conversations you didn't expect to have. You know people now — not abstractions, not political problems, actual people — who are deciding what they're willing to give.
+> You've made choices in this city that you didn't expect to make. You've had conversations you didn't expect to have. You know people now - not abstractions, not political problems, actual people - who are deciding what they're willing to give.
 >
 > The question used to be: what is the right answer?
 >
@@ -224,6 +224,6 @@ Ask the players directly: *"When someone chooses to sacrifice themselves, what d
 | Lira's current stance | Alliance level, what she knows, where her daughter is |
 | Tomas's public announcement | Did it happen? How did the city react? |
 | Chancellor's ultimatum | What the players did with it |
-| Alternative paths — active status | Isolde's transfer: progress? Partial ritual: verified? |
+| Alternative paths - active status | Isolde's transfer: progress? Partial ritual: verified? |
 | Edoran's current alliance level | Cooperation, neutrality, or tension |
 | Senna and the Desperate | Pacified, radicalized, or somewhere in between |

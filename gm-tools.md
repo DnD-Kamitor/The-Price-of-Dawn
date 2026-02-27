@@ -6,34 +6,34 @@ Quick-reference tools for running The Price of Dawn: random encounters, NPC trac
 
 ## Random Encounter Tables
 
-### Twilight City Encounters (Urban — Any Session)
+### Twilight City Encounters (Urban - Any Session)
 
 Roll 1d12 when the players are moving through Varenhold without a specific destination.
 
 | d12 | Encounter |
 |-----|-----------|
-| 1 | A street healer is examining a man who has stopped caring about things — grey sickness, early stage. The man shrugs at everything, including the players' questions. |
-| 2 | A market vendor is selling "Dawn Candles" — expensive tapers that produce slightly warmer light than normal. They don't work. The vendor knows this. She is feeding her family. |
+| 1 | A street healer is examining a man who has stopped caring about things - grey sickness, early stage. The man shrugs at everything, including the players' questions. |
+| 2 | A market vendor is selling "Dawn Candles" - expensive tapers that produce slightly warmer light than normal. They don't work. The vendor knows this. She is feeding her family. |
 | 3 | Two children are arguing about whether the sun is real. One has heard it is. One wants proof. |
 | 4 | A member of the Restorers is handing out pamphlets. If the players have met Edoran: she recognizes them and is cautiously respectful. If not: she tries to recruit them. |
 | 5 | Three guards from Sera's district are on break. If the players know Sera, the guards are warm and curious. If not, they are professionally neutral. |
-| 6 | A merchant from an outside city is loading goods in a hurry — their deal fell through. They will pay well for an escort out of the city. Reason? "I just don't like the sky here." |
+| 6 | A merchant from an outside city is loading goods in a hurry - their deal fell through. They will pay well for an escort out of the city. Reason? "I just don't like the sky here." |
 | 7 | An old Auris priest is arguing with a young one about whether the god punished the city or was wounded by the ritual. Both positions have adherents in the small crowd. |
 | 8 | A public letter-reader is reading correspondence aloud for the illiterate. One letter is from someone who left Varenhold, addressed to their family, describing what dawn looks like. Several listeners are crying. |
 | 9 | A pair of Dawnborn (roll 1d6 for ensemble members) are walking off-duty. They are approachable if the players have met any Dawnborn. They have heard rumors about the investigation. |
 | 10 | The Desperate: a group of Lowmark workers are holding a quiet vigil outside Council Hall. Signs say things like "WHEN?" and "OUR CHILDREN DESERVE SUNLIGHT." |
-| 11 | A child gives the players a flower — a twilight bloom, a variety that only grows in the amber half-light. She says it's the prettiest flower she knows. It is pretty. |
-| 12 | A mage from the Spire Quarter stops the players and asks — politely but intensely — if the rumors about the Dawnborn are true. He has a theory. His theory is wrong but adjacent to right in an interesting way. |
+| 11 | A child gives the players a flower - a twilight bloom, a variety that only grows in the amber half-light. She says it's the prettiest flower she knows. It is pretty. |
+| 12 | A mage from the Spire Quarter stops the players and asks - politely but intensely - if the rumors about the Dawnborn are true. He has a theory. His theory is wrong but adjacent to right in an interesting way. |
 
-### Ashfen Marshes Encounters (Travel — Sessions 2–4)
+### Ashfen Marshes Encounters (Travel - Sessions 2–4)
 
 For travel to or from the Ashfen Gate or the Restorer compound.
 
 | d6 | Encounter |
 |----|-----------|
-| 1 | A mudlark is pulling objects from the marsh. One is a piece of old ritual equipment — clearly decades old. She found it here. She'll sell it. |
+| 1 | A mudlark is pulling objects from the marsh. One is a piece of old ritual equipment - clearly decades old. She found it here. She'll sell it. |
 | 2 | Three Restorers are escorting someone voluntarily to their compound. The someone is one of the ensemble Dawnborn (not the three featured ones). They are calm. |
-| 3 | A group of children playing "sunrise" — one stands on a box and waves a lantern, others pretend to wake up. They invite the players to play. |
+| 3 | A group of children playing "sunrise" - one stands on a box and waves a lantern, others pretend to wake up. They invite the players to play. |
 | 4 | A patrol of city guards is watching the Restorer compound from a distance. Their orders are to observe only. They are bored and want company. |
 | 5 | A grey heron stands in the marsh looking at the players with enormous patience. There is nothing supernatural about this. It is just a heron. It is very compelling. |
 | 6 | A cart has broken down. A merchant is unloading grain sacks into the mud, swearing. The grain is 20% of the Lowmark's supply for this week. |
@@ -75,7 +75,7 @@ Track each Dawnborn's current attitude and known information state. Print or cop
 
 ## Moral Dilemma Scorecards
 
-These are for the GM's use only — not shown to players. Track choices without judgment. Use the patterns to calibrate NPC responses.
+These are for the GM's use only - not shown to players. Track choices without judgment. Use the patterns to calibrate NPC responses.
 
 ### The Player Compass
 
@@ -103,7 +103,7 @@ Copy and fill out after each session.
 **Key questions to ask yourself:**
 - Did any player express a clear moral framework? What was it?
 - Did any player change their position during the session? Why?
-- Is there tension between players on moral grounds? (If yes: lean into it — that's the campaign working.)
+- Is there tension between players on moral grounds? (If yes: lean into it - that's the campaign working.)
 - Did any NPC's argument land? (If yes: make that NPC more present.)
 
 ### The Final Accounting (Session 5)
@@ -135,9 +135,9 @@ Open your Session Tracker from last time. Answer:
 
 Every session needs three scenes that *must* happen:
 
-1. **The Scene That Delivers a Consequence** — something from last session bears fruit (good or bad)
-2. **The Scene That Advances the Dilemma** — the central question gets more concrete
-3. **The Scene That Humanizes an NPC** — one character becomes more real
+1. **The Scene That Delivers a Consequence** - something from last session bears fruit (good or bad)
+2. **The Scene That Advances the Dilemma** - the central question gets more concrete
+3. **The Scene That Humanizes an NPC** - one character becomes more real
 
 Write one sentence per scene. That's enough.
 
@@ -145,8 +145,8 @@ Write one sentence per scene. That's enough.
 
 These scenes happen *if the players go looking* or *if the session needs something*:
 
-1. **An Investigation Scene** — a clue they can find, a lead they can follow
-2. **An Encounter** — social, combat, or random (roll from encounter tables above)
+1. **An Investigation Scene** - a clue they can find, a lead they can follow
+2. **An Encounter** - social, combat, or random (roll from encounter tables above)
 
 You don't need to plan these fully. Know what's available.
 
@@ -243,7 +243,7 @@ Cut or fold these for quick table reference. One card per NPC.
 
 **Attitude at Start:** Warm, direct, trusting
 
-**Secret:** Has been having strange dreams — light pulling at her chest
+**Secret:** Has been having strange dreams - light pulling at her chest
 
 **Personality:** Direct · Loyal · Brave
 
@@ -313,6 +313,6 @@ You are not the storyteller. You are the *conditions* of the story.
 
 The players are the storytellers. Your job is to make the conditions real, the choices consequential, and the NPCs human enough that the choices hurt.
 
-If every session ends with players talking about what they decided and why — you've done your job. The sun coming up or not is secondary.
+If every session ends with players talking about what they decided and why - you've done your job. The sun coming up or not is secondary.
 
 Run it well.

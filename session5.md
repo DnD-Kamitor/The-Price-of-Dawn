@@ -1,4 +1,4 @@
-# Session 5 — The Price of Dawn
+# Session 5 - The Price of Dawn
 
 **Central Dilemma:** When the "right" choice and the "good" choice are different, which do you make?
 
@@ -10,7 +10,7 @@
 
 ## Pre-Session Checklist
 
-- [ ] Review ALL four session trackers — this session is entirely built on their contents
+- [ ] Review ALL four session trackers - this session is entirely built on their contents
 - [ ] Identify the most likely ending path (see Ending Matrix below)
 - [ ] Have epilogue table entries prepared for: Sera, Tomas, Lira, Edoran, the Chancellor, and 2–3 ensemble Dawnborn most present in your campaign
 - [ ] Prepare debrief questions
@@ -19,7 +19,7 @@
 
 ## The Shape of Session 5
 
-Session 5 has no fixed structure. It has a *destination* — some form of resolution at the Ashring — and the path there is built entirely from previous sessions.
+Session 5 has no fixed structure. It has a *destination* - some form of resolution at the Ashring - and the path there is built entirely from previous sessions.
 
 Use this guide as a framework, not a script.
 
@@ -27,13 +27,13 @@ Use this guide as a framework, not a script.
 
 ## The Ashring, One Last Time
 
-At some point in Session 5, the final confrontation — of whatever form it takes — happens at the Ashring. This is the ritual site. It is where things end or don't end.
+At some point in Session 5, the final confrontation - of whatever form it takes - happens at the Ashring. This is the ritual site. It is where things end or don't end.
 
 ### Read-Aloud (Arrival)
 
 > The Ashring at the end of things looks exactly like it did at the beginning of things. The scorch marks. The amber light. The smell of old stone.
 >
-> You've been here before. It felt significant then. It feels different now — not more significant, just *more honest*. You know what happened here. You know what might happen here again.
+> You've been here before. It felt significant then. It feels different now - not more significant, just *more honest*. You know what happened here. You know what might happen here again.
 >
 > The question is whether you know why.
 
@@ -41,14 +41,14 @@ At some point in Session 5, the final confrontation — of whatever form it take
 
 ## The Six Ending Paths
 
-These are not rigid rails — they are likely endpoints based on the choices made in Sessions 1–4. Most campaigns will blend two or three paths. Use the Ending Matrix below to find the most relevant one.
+These are not rigid rails - they are likely endpoints based on the choices made in Sessions 1–4. Most campaigns will blend two or three paths. Use the Ending Matrix below to find the most relevant one.
 
 ### Ending A: Full Ritual, Full Consent
 
-**Conditions:** All ten Dawnborn, or at least a critical mass, have voluntarily chosen to proceed. The unwilling are genuinely not coerced — they have either been swayed, found alternative solutions for themselves, or chosen to step back.
+**Conditions:** All ten Dawnborn, or at least a critical mass, have voluntarily chosen to proceed. The unwilling are genuinely not coerced - they have either been swayed, found alternative solutions for themselves, or chosen to step back.
 
 **What Happens:**
-The ritual is performed at the Ashring. Ten people stand in the scorch circle. The players' role is witnessing, not acting — this is the Dawnborn's moment.
+The ritual is performed at the Ashring. Ten people stand in the scorch circle. The players' role is witnessing, not acting - this is the Dawnborn's moment.
 
 ### Read-Aloud (Ending A)
 
@@ -58,7 +58,7 @@ The ritual is performed at the Ashring. Ten people stand in the scorch circle. T
 >
 > Then the light changes.
 
-> *The sun rises over Varenhold for the first time in fifty years. The bells — all of them, including the ones that have been silent — ring.*
+> *The sun rises over Varenhold for the first time in fifty years. The bells - all of them, including the ones that have been silent - ring.*
 
 **The Cost:** Ten people are gone. People who were beloved. People who were real. The sun is real too. Both things are true.
 
@@ -71,11 +71,11 @@ The ritual is performed at the Ashring. Ten people stand in the scorch circle. T
 **Conditions:** Some Dawnborn consented; others didn't and weren't coerced. The players chose consent over completion.
 
 **What Happens:**
-The willing Dawnborn perform their portion of the ritual. The city does not return to full daylight — but the twilight brightens. Crops improve. Grey sickness rates begin to fall. It is not a solution, but it is not nothing.
+The willing Dawnborn perform their portion of the ritual. The city does not return to full daylight - but the twilight brightens. Crops improve. Grey sickness rates begin to fall. It is not a solution, but it is not nothing.
 
 ### Read-Aloud (Ending B)
 
-> The light changes. Not completely — not the full sunrise you imagined — but *more*. Brighter. The amber deepens toward gold.
+> The light changes. Not completely - not the full sunrise you imagined - but *more*. Brighter. The amber deepens toward gold.
 >
 > It is not the sun. It is something like the sun's reaching hand.
 >
@@ -85,7 +85,7 @@ The willing Dawnborn perform their portion of the ritual. The city does not retu
 >
 > Maybe that's what you can live with.
 
-**The Cost:** The city is better, but not healed. The question remains open. There is no clean ending — only a better tomorrow that is not yet complete.
+**The Cost:** The city is better, but not healed. The question remains open. There is no clean ending - only a better tomorrow that is not yet complete.
 
 ---
 
@@ -98,7 +98,7 @@ The Lux Anchor energy is extracted from all ten Dawnborn and placed in the Cathe
 
 ### Read-Aloud (Ending C)
 
-> The Cathedral falls in on itself slowly, like a dream collapsing. The light it releases is — incandescent. The entire Outer Ring is lit by it for a moment, brilliant, warm.
+> The Cathedral falls in on itself slowly, like a dream collapsing. The light it releases is - incandescent. The entire Outer Ring is lit by it for a moment, brilliant, warm.
 >
 > Then it's gone. And the sun is rising.
 >
@@ -106,13 +106,13 @@ The Lux Anchor energy is extracted from all ten Dawnborn and placed in the Cathe
 >
 > Lira is laughing. You've never heard her laugh.
 
-**The Cost:** The Cathedral. Two hundred years of religious and cultural history. The Auris faith in Varenhold is in crisis — or renewal, depending on whom you ask.
+**The Cost:** The Cathedral. Two hundred years of religious and cultural history. The Auris faith in Varenhold is in crisis - or renewal, depending on whom you ask.
 
 ---
 
 ### Ending D: The Dawnborn Live, The Sun Does Not Return
 
-**Conditions:** The players protected the Dawnborn absolutely, with no ritual completion. The city is saved through other means — a massive emigration, a political solution, an incomplete scientific alternative.
+**Conditions:** The players protected the Dawnborn absolutely, with no ritual completion. The city is saved through other means - a massive emigration, a political solution, an incomplete scientific alternative.
 
 **What Happens:**
 The sun does not return. The players negotiated, organized, or fought for a future that doesn't require anyone's death. It is a harder future. It is still a future.
@@ -121,7 +121,7 @@ The sun does not return. The players negotiated, organized, or fought for a futu
 
 > There is no dramatic light. The sky stays amber. The bells don't ring.
 >
-> But Varenhold is still here. And so are its people — all of them, including the ten you were asked to condemn. The city will be smaller, harder, leaner. It will have to grow differently.
+> But Varenhold is still here. And so are its people - all of them, including the ten you were asked to condemn. The city will be smaller, harder, leaner. It will have to grow differently.
 >
 > Lira's daughter runs through the amber light chasing something. Lira watches her.
 >
@@ -142,7 +142,7 @@ The sun returns. Not everyone chose it. The campaign ends with the players carry
 
 > The sun rises. It is real and warm and fifty years late.
 >
-> You are standing at the edge of the Ashring. The ritual is complete. The city is already waking up — you can hear it, a sound like relief, spreading outward from the plaza.
+> You are standing at the edge of the Ashring. The ritual is complete. The city is already waking up - you can hear it, a sound like relief, spreading outward from the plaza.
 >
 > Lira is not here. You don't know where she went. You may find out later. You may not.
 >
@@ -159,7 +159,7 @@ The sun returns. Not everyone chose it. The campaign ends with the players carry
 **Conditions:** The players ran out of time, the Desperate or Restorers acted without them, the situation fractured beyond control.
 
 **What Happens:**
-This ending is not a failure state — it is a different story. The ritual failed again, or was stopped, or was never completed. The city continues to decline. The players are part of a story about what people do when there isn't a solution.
+This ending is not a failure state - it is a different story. The ritual failed again, or was stopped, or was never completed. The city continues to decline. The players are part of a story about what people do when there isn't a solution.
 
 ### Read-Aloud (Ending F)
 
@@ -196,7 +196,7 @@ After the ending scene, take 5–10 minutes to run epilogues for each major NPC.
 ### Epilogue by NPC
 
 **Sera Voss**
-- A: She is remembered. The city builds something with her name on it. (Ending A only — she didn't survive.)
+- A: She is remembered. The city builds something with her name on it. (Ending A only - she didn't survive.)
 - B: She is still alive. She returns to guarding the Lowmark. She asks after the players occasionally.
 - C/D: She is still alive. She seems lighter. She laughs more.
 - E: She is alive. She and Lira don't speak for six months. Then they do.
@@ -213,7 +213,7 @@ After the ending scene, take 5–10 minutes to run epilogues for each major NPC.
 
 **Brother Edoran**
 - A/E: He stands at the Ashring and watches the sunrise alone. Then he walks away. He does not rebuild the Restorers. His daughter's name is on a stone in the Lowmark.
-- B/C/D: He struggles with the incomplete outcome. He is honest about it. He eventually finds a new purpose — not restoration, but something else.
+- B/C/D: He struggles with the incomplete outcome. He is honest about it. He eventually finds a new purpose - not restoration, but something else.
 
 **Chancellor Ostenveld**
 - A/C/E: She wins reelection. The city recovers. She does not speak publicly about what the ritual cost. She is very quiet at the annual commemoration.
@@ -229,10 +229,10 @@ Go around the table and ask each player one of these questions. Use different qu
 
 1. *"What would your character have done differently, if they could go back to Session 1?"*
 2. *"Was there a moment where you were certain you were making the right choice? What was it?"*
-3. *"Was there a moment where you were certain you were making the wrong choice — and you made it anyway?"*
+3. *"Was there a moment where you were certain you were making the wrong choice - and you made it anyway?"*
 4. *"Which NPC do you think about most? What would you want to say to them?"*
 5. *"What does your character believe now that they didn't believe at the beginning?"*
-6. *"Did your character make the right choice — the technically correct one — or the good choice — the one they could live with? Were they the same?"*
+6. *"Did your character make the right choice - the technically correct one - or the good choice - the one they could live with? Were they the same?"*
 
 You don't need to answer these questions yourself, as the GM. But you can. Sometimes it's the best thing you do all campaign.
 
@@ -244,7 +244,7 @@ The price of dawn is not the ten people. Or the Cathedral. Or the city that stay
 
 The price of dawn is the knowledge that it cost something. That you knew what it cost. And that you had to decide anyway.
 
-The sun comes up — or it doesn't — and the players carry that knowledge home.
+The sun comes up - or it doesn't - and the players carry that knowledge home.
 
 That's what this campaign is for. Not the monsters. Not the treasure. The question they're still answering after the dice are put away.
 
