@@ -11,6 +11,13 @@ book:
   repo-actions: [issue]
   chapters:
     - index.md
+    - part: "Player's Guide"
+      chapters:
+        - player-guide.md
+        - world-lore.md
+        - pantheon.md
+        - factions-guide.md
+        - player-handout.md
     - part: "The World"
       chapters:
         - setting.md

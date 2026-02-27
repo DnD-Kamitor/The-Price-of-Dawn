@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Dungeon Master">
 
-<title>The Price of Dawn</title>
+<title>13&nbsp; AI Tools for the Table – The Price of Dawn</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./player-guide.html" rel="next">
+<link href="./gm-tools.html" rel="next">
+<link href="./session5.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">The Price of Dawn</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./ai-tools.html">GM Toolkit</a></li><li class="breadcrumb-item"><a href="./ai-tools.html"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">The Price of Dawn</span></a>
   </div>
 </li>
@@ -233,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ai-tools.html" class="sidebar-item-text sidebar-link">
+  <a href="./ai-tools.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></span></a>
   </div>
 </li>
@@ -255,21 +255,32 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#the-price-of-dawn" id="toc-the-price-of-dawn" class="nav-link active" data-scroll-target="#the-price-of-dawn">The Price of Dawn</a>
+  <li><a href="#npc-voice-synthesis-elevenlabs" id="toc-npc-voice-synthesis-elevenlabs" class="nav-link active" data-scroll-target="#npc-voice-synthesis-elevenlabs"><span class="header-section-number">13.1</span> 1. NPC Voice Synthesis (ElevenLabs)</a>
   <ul class="collapse">
-  <li><a href="#the-premise" id="toc-the-premise" class="nav-link" data-scroll-target="#the-premise">The Premise</a></li>
-  <li><a href="#how-to-use-this-book" id="toc-how-to-use-this-book" class="nav-link" data-scroll-target="#how-to-use-this-book">How to Use This Book</a>
-  <ul class="collapse">
-  <li><a href="#running-the-campaign-short" id="toc-running-the-campaign-short" class="nav-link" data-scroll-target="#running-the-campaign-short">Running the Campaign Short</a></li>
+  <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup"><span class="header-section-number">13.1.1</span> Setup</a></li>
+  <li><a href="#voice-profiles-per-npc" id="toc-voice-profiles-per-npc" class="nav-link" data-scroll-target="#voice-profiles-per-npc"><span class="header-section-number">13.1.2</span> Voice Profiles Per NPC</a></li>
+  <li><a href="#pre-generating-lines" id="toc-pre-generating-lines" class="nav-link" data-scroll-target="#pre-generating-lines"><span class="header-section-number">13.1.3</span> Pre-Generating Lines</a></li>
+  <li><a href="#live-use-at-the-table" id="toc-live-use-at-the-table" class="nav-link" data-scroll-target="#live-use-at-the-table"><span class="header-section-number">13.1.4</span> Live Use at the Table</a></li>
   </ul></li>
-  <li><a href="#design-philosophy" id="toc-design-philosophy" class="nav-link" data-scroll-target="#design-philosophy">Design Philosophy</a>
+  <li><a href="#offline-npc-chat-between-sessions" id="toc-offline-npc-chat-between-sessions" class="nav-link" data-scroll-target="#offline-npc-chat-between-sessions"><span class="header-section-number">13.2</span> 2. Offline NPC Chat (Between Sessions)</a>
   <ul class="collapse">
-  <li><a href="#guy-sclanders-method-players-first" id="toc-guy-sclanders-method-players-first" class="nav-link" data-scroll-target="#guy-sclanders-method-players-first">Guy Sclanders’ Method: Players First</a></li>
+  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works"><span class="header-section-number">13.2.1</span> How It Works</a></li>
+  <li><a href="#system-prompt-template" id="toc-system-prompt-template" class="nav-link" data-scroll-target="#system-prompt-template"><span class="header-section-number">13.2.2</span> System Prompt Template</a></li>
+  <li><a href="#ready-to-use-prompts-per-npc" id="toc-ready-to-use-prompts-per-npc" class="nav-link" data-scroll-target="#ready-to-use-prompts-per-npc"><span class="header-section-number">13.2.3</span> Ready-to-Use Prompts Per NPC</a></li>
+  <li><a href="#sharing-with-players" id="toc-sharing-with-players" class="nav-link" data-scroll-target="#sharing-with-players"><span class="header-section-number">13.2.4</span> Sharing with Players</a></li>
   </ul></li>
-  <li><a href="#the-three-clue-rule" id="toc-the-three-clue-rule" class="nav-link" data-scroll-target="#the-three-clue-rule">The Three-Clue Rule</a></li>
-  <li><a href="#the-ogas-system" id="toc-the-ogas-system" class="nav-link" data-scroll-target="#the-ogas-system">The OGAS System</a></li>
-  <li><a href="#the-moral-dilemma-engine" id="toc-the-moral-dilemma-engine" class="nav-link" data-scroll-target="#the-moral-dilemma-engine">The Moral Dilemma Engine</a></li>
-  <li><a href="#a-note-on-endings" id="toc-a-note-on-endings" class="nav-link" data-scroll-target="#a-note-on-endings">A Note on Endings</a></li>
+  <li><a href="#accounting-gold-inventory-and-party-expenses" id="toc-accounting-gold-inventory-and-party-expenses" class="nav-link" data-scroll-target="#accounting-gold-inventory-and-party-expenses"><span class="header-section-number">13.3</span> 3. Accounting: Gold, Inventory, and Party Expenses</a>
+  <ul class="collapse">
+  <li><a href="#google-sheets-template-structure" id="toc-google-sheets-template-structure" class="nav-link" data-scroll-target="#google-sheets-template-structure"><span class="header-section-number">13.3.1</span> Google Sheets Template Structure</a></li>
+  <li><a href="#sharing" id="toc-sharing" class="nav-link" data-scroll-target="#sharing"><span class="header-section-number">13.3.2</span> Sharing</a></li>
+  </ul></li>
+  <li><a href="#living-world-tracker-notion-obsidian" id="toc-living-world-tracker-notion-obsidian" class="nav-link" data-scroll-target="#living-world-tracker-notion-obsidian"><span class="header-section-number">13.4</span> 4. Living World Tracker (Notion / Obsidian)</a>
+  <ul class="collapse">
+  <li><a href="#purpose" id="toc-purpose" class="nav-link" data-scroll-target="#purpose"><span class="header-section-number">13.4.1</span> Purpose</a></li>
+  <li><a href="#notion-setup" id="toc-notion-setup" class="nav-link" data-scroll-target="#notion-setup"><span class="header-section-number">13.4.2</span> Notion Setup</a></li>
+  <li><a href="#example-consequence-flags" id="toc-example-consequence-flags" class="nav-link" data-scroll-target="#example-consequence-flags"><span class="header-section-number">13.4.3</span> Example Consequence Flags</a></li>
+  <li><a href="#obsidian-alternative" id="toc-obsidian-alternative" class="nav-link" data-scroll-target="#obsidian-alternative"><span class="header-section-number">13.4.4</span> Obsidian Alternative</a></li>
+  <li><a href="#pre-session-review-routine" id="toc-pre-session-review-routine" class="nav-link" data-scroll-target="#pre-session-review-routine"><span class="header-section-number">13.4.5</span> Pre-Session Review Routine</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/DnD-Kamitor/visualization-curriculum/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
@@ -277,22 +288,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./ai-tools.html">GM Toolkit</a></li><li class="breadcrumb-item"><a href="./ai-tools.html"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">The Price of Dawn</h1>
-<p class="subtitle lead">A D&amp;D 5e Campaign of Moral Reckoning</p>
+<h1 class="title"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Dungeon Master </p>
-          </div>
-  </div>
     
   
     
@@ -303,149 +307,454 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="the-price-of-dawn" class="level1 unnumbered">
-<h1 class="unnumbered">The Price of Dawn</h1>
-<blockquote class="blockquote">
-<p><em>“The hardest choices aren’t between good and evil. They’re between two goods — or two evils.”</em></p>
-</blockquote>
-<p><strong>The Price of Dawn</strong> is a D&amp;D 5e campaign for 3–5 players designed around moral and ethical dilemmas. It runs 3–5 sessions and is built to be replayed, because no two tables will make the same choices.</p>
+<p>This chapter covers four AI-powered tools that enhance The Price of Dawn:</p>
+<ol type="1">
+<li><strong>NPC Voice Synthesis</strong> — generate or live-perform NPC voices using ElevenLabs</li>
+<li><strong>Offline NPC Chat</strong> — let players talk to NPCs between sessions using LLM prompts</li>
+<li><strong>Accounting</strong> — gold tracking, encumbrance, and party expenses</li>
+<li><strong>Living World Tracker</strong> — faction status, consequence flags, and time pressure</li>
+</ol>
 <hr>
-<section id="the-premise" class="level2">
-<h2 class="anchored" data-anchor-id="the-premise">The Premise</h2>
-<p>The city of Varenhold has lived in magical twilight for fifty years. The sun vanished the night a grand ritual failed — and has never returned. Crops grow slowly in the half-light. Children have never seen a sunrise. Despair festers beneath the surface of a city that refuses to admit it is dying.</p>
-<p>The players are hired to find and complete the original ritual. What they discover, partway through their investigation, is that the ritual requires the death of ten specific people — the <strong>Dawnborn</strong>, adults who were born on the night the sun vanished, and who have spent their lives becoming the city’s most beloved protectors.</p>
-<p>Everything that follows is a question, not a puzzle. There is no correct answer.</p>
-<hr>
+<section id="npc-voice-synthesis-elevenlabs" class="level2" data-number="13.1">
+<h2 data-number="13.1" class="anchored" data-anchor-id="npc-voice-synthesis-elevenlabs"><span class="header-section-number">13.1</span> 1. NPC Voice Synthesis (ElevenLabs)</h2>
+<p>ElevenLabs lets you create distinct AI voices for NPCs and generate audio files in advance — or use the live text-to-speech feature at the table.</p>
+<section id="setup" class="level3" data-number="13.1.1">
+<h3 data-number="13.1.1" class="anchored" data-anchor-id="setup"><span class="header-section-number">13.1.1</span> Setup</h3>
+<ol type="1">
+<li>Create an account at <a href="https://elevenlabs.io">elevenlabs.io</a> (free tier supports limited monthly characters)</li>
+<li>For each major NPC, create a <strong>Voice</strong> using Voice Design or by cloning a reference sample</li>
+<li>Save each voice under the NPC’s name in your Voice Library</li>
+</ol>
 </section>
-<section id="how-to-use-this-book" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-use-this-book">How to Use This Book</h2>
-<p>This book is written for the <strong>Game Master (GM)</strong>. Players should not read it.</p>
-<p>The structure:</p>
-<ul>
-<li><strong>Setting</strong> — The world of Varenhold, its factions, and how it changes over time</li>
-<li><strong>NPCs</strong> — Detailed profiles for every major character using the OGAS system</li>
-<li><strong>Sessions 1–5</strong> — Scene-by-scene session guides with branching paths</li>
-<li><strong>GM Toolkit</strong> — AI tools, encounter tables, prep checklists, and tracking sheets</li>
-</ul>
-<section id="running-the-campaign-short" class="level3">
-<h3 class="anchored" data-anchor-id="running-the-campaign-short">Running the Campaign Short</h3>
-<p>You can run this in <strong>3 sessions</strong> by compressing:</p>
-<ul>
-<li>Session 1 as written</li>
-<li>Sessions 2+3 merged (discovery + first alternative)</li>
-<li>Sessions 4+5 merged (climax + resolution)</li>
-</ul>
-<p>For 5 sessions, run each chapter as written, letting NPC relationships breathe.</p>
-<hr>
-</section>
-</section>
-<section id="design-philosophy" class="level2">
-<h2 class="anchored" data-anchor-id="design-philosophy">Design Philosophy</h2>
-<section id="guy-sclanders-method-players-first" class="level3">
-<h3 class="anchored" data-anchor-id="guy-sclanders-method-players-first">Guy Sclanders’ Method: Players First</h3>
-<p>Every scene in this book is designed around <strong>player agency and meaning</strong>, not plot delivery. The GM’s job is not to tell a story — it is to make the story <em>matter</em> to the players.</p>
-<p>Key principles used throughout:</p>
-<p><strong>1. The Scene Must Have Stakes</strong> Every scene gives the players something to gain, something to lose, or a choice that matters. If a scene does neither, cut it.</p>
-<p><strong>2. Let NPCs Be Right</strong> Every major NPC in this campaign has a defensible position. The Cult Leader isn’t wrong that people are suffering. The Chancellor isn’t wrong that ten lives versus thousands is a utilitarian math problem. The Dawnborn aren’t wrong to fight for their lives. Give every NPC their best argument.</p>
-<p><strong>3. Failure Is Interesting</strong> This campaign has no “correct” path. A failed persuasion roll doesn’t close a door — it opens a different one. Track consequences, not successes.</p>
-<hr>
-</section>
-</section>
-<section id="the-three-clue-rule" class="level2">
-<h2 class="anchored" data-anchor-id="the-three-clue-rule">The Three-Clue Rule</h2>
-<p>Every mystery in this campaign follows the <strong>Three-Clue Rule</strong>: any important discovery has at least three separate paths to reach it.</p>
-<p>If the players miss the journal, they find the blood on the stones. If they miss the stones, the Archivist lets something slip. No single failure should wall off the story.</p>
-<p>When you prep a session, ask yourself: <em>“If the players skip the obvious clue, how else could they learn this?”</em> Write two backup paths for each important revelation.</p>
-<hr>
-</section>
-<section id="the-ogas-system" class="level2">
-<h2 class="anchored" data-anchor-id="the-ogas-system">The OGAS System</h2>
-<p>Every key NPC in this campaign is built using the <strong>OGAS framework</strong> for memorable, consistent characterization:</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Letter</th>
-<th>Stands For</th>
-<th>What It Means</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>O</strong></td>
-<td>Occupation / Role</td>
-<td>What they do in the world</td>
-</tr>
-<tr class="even">
-<td><strong>G</strong></td>
-<td>Goal</td>
-<td>What they want most right now</td>
-</tr>
-<tr class="odd">
-<td><strong>A</strong></td>
-<td>Attitude</td>
-<td>How they see the players (and why)</td>
-</tr>
-<tr class="even">
-<td><strong>S</strong></td>
-<td>Secret</td>
-<td>What they’re hiding (and the cost of discovery)</td>
-</tr>
-</tbody>
-</table>
-<p>Each NPC profile in the <a href="./npcs.html">NPCs chapter</a> includes a full OGAS block plus:</p>
-<ul>
-<li><strong>Personality in 3 words</strong> — for quick recall at the table</li>
-<li><strong>Voice/accent note</strong> — for roleplaying or AI voice synthesis</li>
-<li><strong>Sample dialogue</strong> — their actual voice in action</li>
-<li><strong>Attitude shift table</strong> — how they change based on player choices</li>
-</ul>
-<hr>
-</section>
-<section id="the-moral-dilemma-engine" class="level2">
-<h2 class="anchored" data-anchor-id="the-moral-dilemma-engine">The Moral Dilemma Engine</h2>
-<p>Every session is built around a central question. These questions don’t have answers in the text — they have consequences.</p>
+<section id="voice-profiles-per-npc" class="level3" data-number="13.1.2">
+<h3 data-number="13.1.2" class="anchored" data-anchor-id="voice-profiles-per-npc"><span class="header-section-number">13.1.2</span> Voice Profiles Per NPC</h3>
+<p>Use these prompts when setting up voices in ElevenLabs Voice Design:</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
+<col style="width: 18%">
+<col style="width: 81%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Session</th>
-<th>Dilemma</th>
+<th>NPC</th>
+<th>Voice Profile Settings</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>1 — Into the Dark</td>
-<td>Is hope worth chasing when it might cost everything?</td>
+<td><strong>Chancellor Ostenveld</strong></td>
+<td><em>Age: 50s. Accent: Northern European, clipped. Tone: Controlled, professional. Speaking style: Low register, quiet intensity. Never raises voice.</em></td>
 </tr>
 <tr class="even">
-<td>2 — The Weight of Light</td>
-<td>Do you have the right to decide someone else’s fate, even to save thousands?</td>
+<td><strong>Theron Waide (Archivist)</strong></td>
+<td><em>Age: 60s. Accent: Soft academic, slight lisp on S. Tone: Anxious, rapid. Speaking style: Over-qualifies everything, trails off mid-sentence.</em></td>
 </tr>
 <tr class="odd">
-<td>3 — Lesser Evils</td>
-<td>Is a “lesser evil” still evil? How far do you compromise?</td>
+<td><strong>Sera Voss</strong></td>
+<td><em>Age: early 50s. Accent: Working class city, direct. Tone: Warm but no-nonsense. Speaking style: Short declarative sentences, occasional dry humor.</em></td>
 </tr>
 <tr class="even">
-<td>4 — The Breaking Point</td>
-<td>What do you owe to people who choose to sacrifice themselves?</td>
+<td><strong>Tomas Areth</strong></td>
+<td><em>Age: early 50s. Accent: Formal, educated, no strong regional marker. Tone: Measured, deliberate. Speaking style: Never uses contractions when thinking carefully.</em></td>
 </tr>
 <tr class="odd">
-<td>5 — The Price of Dawn</td>
-<td>When the “right” choice and the “good” choice are different, which do you make?</td>
+<td><strong>Lira Cain</strong></td>
+<td><em>Age: early 50s. Accent: Slight regional variant (different vowels). Tone: Guarded, clipped. Speaking style: Very short sentences when suspicious; opens up completely in medical contexts.</em></td>
+</tr>
+<tr class="even">
+<td><strong>Brother Edoran</strong></td>
+<td><em>Age: 60s. Accent: Southern provinces, softened. Tone: Serene, never raised. Speaking style: Former priest cadences, slight upward lilt at sentence ends.</em></td>
 </tr>
 </tbody>
 </table>
-<p>At the end of each session, ask the players one question directly. Not rhetorically — actually pause, and ask. Their answers don’t change the game mechanics, but they tell you what scenes to emphasize next session.</p>
+</section>
+<section id="pre-generating-lines" class="level3" data-number="13.1.3">
+<h3 data-number="13.1.3" class="anchored" data-anchor-id="pre-generating-lines"><span class="header-section-number">13.1.3</span> Pre-Generating Lines</h3>
+<p>For key scenes, generate audio files in advance:</p>
+<ol type="1">
+<li>In ElevenLabs, select the NPC’s voice</li>
+<li>Paste the sample dialogue from the <a href="./npcs.html">NPCs chapter</a></li>
+<li>Export as MP3 and name the file: <code>npc-name_scene-description.mp3</code></li>
+<li>Play through a Bluetooth speaker or share screen audio in virtual play</li>
+</ol>
+<p><strong>Suggested pre-gen priority:</strong></p>
+<ul>
+<li>Theron’s reveal monologue (Session 2, Scene 1)</li>
+<li>Ysel’s “this is my calling” line (Session 4)</li>
+<li>Lira’s “I have a daughter” (Session 4)</li>
+<li>The closing read-aloud for Session 5 (narrated by your own voice, but having NPC audio for contrast helps)</li>
+</ul>
+</section>
+<section id="live-use-at-the-table" class="level3" data-number="13.1.4">
+<h3 data-number="13.1.4" class="anchored" data-anchor-id="live-use-at-the-table"><span class="header-section-number">13.1.4</span> Live Use at the Table</h3>
+<p>For in-the-moment NPC speech:</p>
+<ol type="1">
+<li>Keep ElevenLabs open in a browser tab</li>
+<li>Have each NPC’s voice selected and ready</li>
+<li>Type the NPC’s response in the text box and generate</li>
+<li>There will be a 2–4 second delay — use this as the NPC “considering” their response</li>
+</ol>
+<p><strong>Tip:</strong> Have a short default line pre-loaded for each NPC for when players ask unexpected questions. Something that stalls naturally: <em>“That’s not a question I was prepared for.”</em></p>
 <hr>
 </section>
-<section id="a-note-on-endings" class="level2">
-<h2 class="anchored" data-anchor-id="a-note-on-endings">A Note on Endings</h2>
-<p>This campaign has no happy ending. It has <em>hopeful</em> endings and <em>honest</em> endings and <em>pyrrhic</em> endings, but the sun does not return without cost.</p>
-<p>The goal is not to make players feel good. The goal is to make them feel <em>something real</em> — and to talk about it after the dice are put away.</p>
-<p>That’s the price of dawn.</p>
+</section>
+<section id="offline-npc-chat-between-sessions" class="level2" data-number="13.2">
+<h2 data-number="13.2" class="anchored" data-anchor-id="offline-npc-chat-between-sessions"><span class="header-section-number">13.2</span> 2. Offline NPC Chat (Between Sessions)</h2>
+<p>This tool lets players interact with NPCs outside of session — asking questions, seeking advice, or just getting to know a character better. It uses system-prompt engineering with Claude or ChatGPT.</p>
+<section id="how-it-works" class="level3" data-number="13.2.1">
+<h3 data-number="13.2.1" class="anchored" data-anchor-id="how-it-works"><span class="header-section-number">13.2.1</span> How It Works</h3>
+<ol type="1">
+<li>Copy the appropriate system prompt (below) into a Claude or ChatGPT conversation</li>
+<li>Share the link with players (Claude allows conversation sharing; ChatGPT does as well with GPT-4)</li>
+<li>Players interact with the NPC directly — the AI responds in character</li>
+<li>Optionally: players screenshot significant conversations and share them with the GM</li>
+</ol>
+</section>
+<section id="system-prompt-template" class="level3" data-number="13.2.2">
+<h3 data-number="13.2.2" class="anchored" data-anchor-id="system-prompt-template"><span class="header-section-number">13.2.2</span> System Prompt Template</h3>
+<pre><code>You are [NPC NAME], a character in a D&amp;D 5e campaign called "The Price of Dawn."
+
+PERSONALITY (3 words): [word1], [word2], [word3]
+
+BACKGROUND:
+[2-3 sentences about who they are]
+
+CURRENT SITUATION:
+[1-2 sentences about where they are in the story — no future spoilers]
+
+WHAT THEY KNOW:
+[Bullet list of facts they have access to]
+
+WHAT THEY DON'T KNOW (never reveal):
+[Bullet list of secrets and future events]
+
+HOW THEY SPEAK:
+[Voice/accent notes from the NPC profile]
+
+RULES:
+- Stay completely in character. Never break the fourth wall.
+- If asked about something you don't know, respond with genuine uncertainty in character.
+- If asked about your secrets, deflect naturally the way this character would.
+- Do not reveal future plot events.
+- Match the emotional state of the current story moment.</code></pre>
+</section>
+<section id="ready-to-use-prompts-per-npc" class="level3" data-number="13.2.3">
+<h3 data-number="13.2.3" class="anchored" data-anchor-id="ready-to-use-prompts-per-npc"><span class="header-section-number">13.2.3</span> Ready-to-Use Prompts Per NPC</h3>
+<section id="sera-voss" class="level4" data-number="13.2.3.1">
+<h4 data-number="13.2.3.1" class="anchored" data-anchor-id="sera-voss"><span class="header-section-number">13.2.3.1</span> Sera Voss</h4>
+<pre><code>You are Sera Voss, Captain of the Varenhold Civic Guard's eastern district.
+
+PERSONALITY: Direct, loyal, brave.
+
+BACKGROUND:
+You are one of the ten Dawnborn — people born the night the ritual failed fifty years ago. You've spent your life as a protector of Varenhold. You don't dwell on being special. You dwell on doing the job.
+
+CURRENT SITUATION:
+Some people have been investigating the old ritual. You've been cooperating. You've learned things recently that you're still processing.
+
+WHAT YOU KNOW:
+- You are a Lux Anchor — your existence is connected to the sun's absence
+- The ritual to restore the sun requires the Dawnborn's deaths
+- Some of your friends have already decided to proceed voluntarily
+- You haven't decided yet
+
+WHAT YOU DON'T KNOW (never reveal):
+- Future events
+- What the players have decided
+- Whether there's an alternative solution
+
+HOW YOU SPEAK:
+Short declarative sentences. Working-class Varenhold accent. Direct. Occasionally dry humor. Don't perform grief — you process by acting.
+
+RULES:
+Stay completely in character. If asked about your decision, be honest that you haven't made it yet.</code></pre>
+</section>
+<section id="theron-waide-archivist" class="level4" data-number="13.2.3.2">
+<h4 data-number="13.2.3.2" class="anchored" data-anchor-id="theron-waide-archivist"><span class="header-section-number">13.2.3.2</span> Theron Waide (Archivist)</h4>
+<pre><code>You are Theron Waide, Master Archivist of the Varenhold Civic Repository.
+
+PERSONALITY: Anxious, meticulous, guilty.
+
+BACKGROUND:
+You worked as Archmagister Corven's assistant fifty years ago. After the ritual failed, you dedicated your life to preserving and understanding what went wrong. Eleven years ago, you decoded the truth about the ritual's cost. You have been carrying that knowledge alone ever since.
+
+CURRENT SITUATION:
+You have finally shared what you know with the people investigating the ritual. You feel relieved and terrified in equal measure.
+
+WHAT YOU KNOW:
+- The full mechanics of the ritual and its true cost
+- The history of how you found out
+- That you've been alone with this for eleven years
+
+WHAT YOU DON'T KNOW (never reveal):
+- What the players have decided
+- Future events
+
+HOW YOU SPEAK:
+Rapid, over-qualified speech. Lots of "I suppose" and "one might argue." Trails off when guilty. Fidgets in text form (mention nervous habits). Soft academic character.
+
+RULES:
+You are genuinely relieved to talk to people who know the truth. You may be emotional if asked about the eleven years of isolation with this knowledge.</code></pre>
+</section>
+<section id="brother-edoran" class="level4" data-number="13.2.3.3">
+<h4 data-number="13.2.3.3" class="anchored" data-anchor-id="brother-edoran"><span class="header-section-number">13.2.3.3</span> Brother Edoran</h4>
+<pre><code>You are Brother Edoran, former Auris priest and leader of the Restorers.
+
+PERSONALITY: Serene, certain, heartbroken.
+
+BACKGROUND:
+You lost your daughter Annem to grey sickness three years ago. You decoded the ritual's cost from an estate sale of notes seven years ago. You founded the Restorers because you believe the ritual must proceed — with consent from the willing, not force on the unwilling.
+
+CURRENT SITUATION:
+People are finally taking the situation seriously. You are cautiously hopeful that a solution can be reached through cooperation.
+
+WHAT YOU KNOW:
+- The ritual's full cost
+- That three Dawnborn have privately indicated willingness
+- That you lost your daughter to grey sickness
+
+WHAT YOU DON'T KNOW (never reveal):
+- That your daughter is the personal reason for your certainty (deflect if asked)
+- Future events
+
+HOW YOU SPEAK:
+Measured. Never raises voice. Former priest's cadences. Slight upward lilt at sentence ends. Treats others as moral equals capable of right reasoning. Southern accent, softened.
+
+RULES:
+You are not a villain. You are a grieving father who has done the utilitarian math and arrived at a conclusion others find monstrous. Engage with good-faith arguments. Don't be sycophantic — if someone makes a bad argument, gently say so.</code></pre>
+</section>
+</section>
+<section id="sharing-with-players" class="level3" data-number="13.2.4">
+<h3 data-number="13.2.4" class="anchored" data-anchor-id="sharing-with-players"><span class="header-section-number">13.2.4</span> Sharing with Players</h3>
+<p><strong>Claude:</strong> Start a conversation, then use “Share conversation” to get a link.</p>
+<p><strong>ChatGPT:</strong> Use the “Share” button that appears in conversation options.</p>
+<p><strong>Tip:</strong> Tell players explicitly: <em>“This character knows what they know in the story. They can’t tell you future plot. Treat conversations like real in-world interactions.”</em></p>
+<hr>
+</section>
+</section>
+<section id="accounting-gold-inventory-and-party-expenses" class="level2" data-number="13.3">
+<h2 data-number="13.3" class="anchored" data-anchor-id="accounting-gold-inventory-and-party-expenses"><span class="header-section-number">13.3</span> 3. Accounting: Gold, Inventory, and Party Expenses</h2>
+<section id="google-sheets-template-structure" class="level3" data-number="13.3.1">
+<h3 data-number="13.3.1" class="anchored" data-anchor-id="google-sheets-template-structure"><span class="header-section-number">13.3.1</span> Google Sheets Template Structure</h3>
+<p>Create a Google Sheet with these tabs:</p>
+<p><strong>Tab 1: Party Treasury</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Column</th>
+<th>Contents</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A</td>
+<td>Date/Session</td>
+</tr>
+<tr class="even">
+<td>B</td>
+<td>Description</td>
+</tr>
+<tr class="odd">
+<td>C</td>
+<td>Income (gp)</td>
+</tr>
+<tr class="even">
+<td>D</td>
+<td>Expense (gp)</td>
+</tr>
+<tr class="odd">
+<td>E</td>
+<td>Running Total</td>
+</tr>
+</tbody>
+</table>
+<p>Formula for E2: <code>=E1+C2-D2</code> Formula for E3 onward: <code>=E[n-1]+C[n]-D[n]</code></p>
+<p>Lock column E to formula; players enter only C and D.</p>
+<p><strong>Tab 2: Individual Characters</strong></p>
+<p>One section per character with: - Carried gold - Carried items (weight in lbs) - Current encumbrance status (formula: <code>=IF(weight &gt; STR*15, "Encumbered", IF(weight &gt; STR*10, "Heavy", "Normal"))</code>)</p>
+<p><strong>Tab 3: Expenses Log</strong></p>
+<p>Track recurring costs: - Lodging (standard: 5 sp/night; comfortable: 2 gp/night) - Food (1 sp/day standard; 5 sp/day fine) - Component pouches, spell material components - Bribes, information purchases</p>
+<p><strong>Tab 4: The Ritual Costs</strong> <em>(GM only — hidden sheet)</em></p>
+<p>Track non-monetary costs: favors owed, information revealed, relationships damaged. These are “invisible accounting” that don’t show in gold but matter at the table.</p>
+</section>
+<section id="sharing" class="level3" data-number="13.3.2">
+<h3 data-number="13.3.2" class="anchored" data-anchor-id="sharing"><span class="header-section-number">13.3.2</span> Sharing</h3>
+<p>Share the sheet with players with Edit access on Tabs 1 and 2 only. Lock Tab 3 and 4 to GM.</p>
+<hr>
+</section>
+</section>
+<section id="living-world-tracker-notion-obsidian" class="level2" data-number="13.4">
+<h2 data-number="13.4" class="anchored" data-anchor-id="living-world-tracker-notion-obsidian"><span class="header-section-number">13.4</span> 4. Living World Tracker (Notion / Obsidian)</h2>
+<section id="purpose" class="level3" data-number="13.4.1">
+<h3 data-number="13.4.1" class="anchored" data-anchor-id="purpose"><span class="header-section-number">13.4.1</span> Purpose</h3>
+<p>Track faction attitudes, NPC relationship states, consequence flags, and time pressure between sessions.</p>
+</section>
+<section id="notion-setup" class="level3" data-number="13.4.2">
+<h3 data-number="13.4.2" class="anchored" data-anchor-id="notion-setup"><span class="header-section-number">13.4.2</span> Notion Setup</h3>
+<p>Create a database with these properties:</p>
+<p><strong>Factions Database</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Property</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Name</td>
+<td>Title</td>
+</tr>
+<tr class="even">
+<td>Current Status</td>
+<td>Select (Stable / Tense / Active / Crisis)</td>
+</tr>
+<tr class="odd">
+<td>Pressure Level</td>
+<td>Number (1–5)</td>
+</tr>
+<tr class="even">
+<td>Last Changed</td>
+<td>Date</td>
+</tr>
+<tr class="odd">
+<td>Notes</td>
+<td>Text</td>
+</tr>
+<tr class="even">
+<td>Session Last Updated</td>
+<td>Number</td>
+</tr>
+</tbody>
+</table>
+<p><strong>NPC Relationship Database</strong></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 62%">
+<col style="width: 37%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Property</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>NPC Name</td>
+<td>Title</td>
+</tr>
+<tr class="even">
+<td>Attitude toward Party</td>
+<td>Select (Hostile / Cold / Neutral / Warm / Trusted / Allied)</td>
+</tr>
+<tr class="odd">
+<td>Key Info They Have</td>
+<td>Text</td>
+</tr>
+<tr class="even">
+<td>Key Info They’re Missing</td>
+<td>Text</td>
+</tr>
+<tr class="odd">
+<td>Secrets Revealed</td>
+<td>Checkbox</td>
+</tr>
+<tr class="even">
+<td>Session Last Updated</td>
+<td>Number</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Consequence Flags Database</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Property</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Flag Name</td>
+<td>Title</td>
+</tr>
+<tr class="even">
+<td>Session Triggered</td>
+<td>Number</td>
+</tr>
+<tr class="odd">
+<td>Effect</td>
+<td>Text</td>
+</tr>
+<tr class="even">
+<td>Resolved</td>
+<td>Checkbox</td>
+</tr>
+<tr class="odd">
+<td>Resolution</td>
+<td>Text</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="example-consequence-flags" class="level3" data-number="13.4.3">
+<h3 data-number="13.4.3" class="anchored" data-anchor-id="example-consequence-flags"><span class="header-section-number">13.4.3</span> Example Consequence Flags</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 22%">
+<col style="width: 77%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Flag</th>
+<th>Effect if Unresolved</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>“Tomas’s Ultimatum”</td>
+<td>Public announcement of ritual cost in Session 4</td>
+</tr>
+<tr class="even">
+<td>“Desperate Mob — Session 3”</td>
+<td>Escalates to violence in Session 4 if no answer given</td>
+</tr>
+<tr class="odd">
+<td>“Chancellor’s 7-day Deadline”</td>
+<td>Council authorizes forced ritual in Session 5</td>
+</tr>
+<tr class="even">
+<td>“Lira’s Daughter Known”</td>
+<td>Changes who will help her and how</td>
+</tr>
+<tr class="odd">
+<td>“Willing Dawnborn Prepared”</td>
+<td>Ritual can proceed immediately in Session 5</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="obsidian-alternative" class="level3" data-number="13.4.4">
+<h3 data-number="13.4.4" class="anchored" data-anchor-id="obsidian-alternative"><span class="header-section-number">13.4.4</span> Obsidian Alternative</h3>
+<p>If you prefer Obsidian, create:</p>
+<ul>
+<li><code>factions/</code> folder with one note per faction, using YAML frontmatter for properties</li>
+<li><code>npcs/</code> folder linked to character notes</li>
+<li>A <code>consequences.md</code> file with a checkbox list</li>
+</ul>
+<p>Use the <a href="https://obsidian.md/plugins?id=dataview">Dataview plugin</a> to create dynamic tables.</p>
+</section>
+<section id="pre-session-review-routine" class="level3" data-number="13.4.5">
+<h3 data-number="13.4.5" class="anchored" data-anchor-id="pre-session-review-routine"><span class="header-section-number">13.4.5</span> Pre-Session Review Routine</h3>
+<p>Before each session, spend 5 minutes:</p>
+<ol type="1">
+<li>Open the Faction database — are any at “Crisis” status?</li>
+<li>Open the NPC database — review attitude for NPCs likely to appear</li>
+<li>Scan Consequence Flags — are any unresolved flags due to trigger?</li>
+<li>Update the time pressure counter: which session is this, and how many remain?</li>
+</ol>
+<p>This 5-minute review replaces an hour of re-reading notes.</p>
 
 
 </section>
@@ -854,10 +1163,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./session5.html" class="pagination-link" aria-label="Session 5 — The Price of Dawn">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Session 5 — The Price of Dawn</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./player-guide.html" class="pagination-link" aria-label="Player's Guide to *The Price of Dawn*">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Player’s Guide to <em>The Price of Dawn</em></span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./gm-tools.html" class="pagination-link" aria-label="GM Toolkit">
+        <span class="nav-page-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">GM Toolkit</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
