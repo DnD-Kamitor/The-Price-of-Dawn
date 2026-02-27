@@ -28,6 +28,72 @@ The city's golden age ran roughly from 100 years ago to the night the sun vanish
 
 The light has changed since.
 
+---
+
+## Varenhold Through Time: A 250-Year Chronology
+
+*Varenholders do not count years from a monarch's birth or a founding charter. They count from the Night of the Ritual - Year 0, the night the sun stopped rising. Everything before that is "Before" (abbreviated B), everything after is numbered.*
+
+| Era | Year | Event | What Changed |
+|-----|------|-------|-------------|
+| **Founding** | ~250 B | A fortified trading post established at the river crossing by a consortium of eight merchant families | Varenhold exists |
+| | ~220 B | The three trade roads formalized as "the Reach Roads" - the crossroads becomes an official waypoint | Transit tax revenue begins |
+| | ~200 B | Population reaches five thousand; the first guilds chartered | The city becomes a city |
+| **The Golden Era** | ~150 B | The Spire founded - initially a single tower for a single scholar; expands within a generation | Scholarly reputation begins |
+| | ~130 B | First amber lanterns produced commercially in what becomes the Dawnhalls district | The export that will define Varenhold |
+| | ~100 B | The Amber Hall completed; the lantern concert tradition formally established | Cultural golden age begins |
+| | ~80 B | Population peaks at approximately sixty thousand | The city at its largest |
+| | ~70 B | The Merchants' Compact charter signed, unifying three competing guilds | The Compact's lasting institutional shape |
+| | ~60 B | Varenhold brokers the Treaty of the Reach Roads - a formal neutrality agreement between Solenne, the Compact, and the Holds | The city's most important diplomatic achievement |
+| **The Ritual Era** | ~20 B | Archmagister Corven appointed to head the Spire's Theoretical Division | The beginning of the end |
+| | ~15 B | Corven's first publication on "solar amplification through sympathetic binding" - widely celebrated | The academic groundwork for the ritual |
+| | ~10 B | Construction begins on the Ashring: a permanent outdoor ritual space in the city plaza | The ritual is becoming real |
+| | ~5 B | Corven approaches the High Penitent of Solenne for formal religious approval of the ritual | The only approval he seeks outside Varenhold |
+| | ~2 B | The Primer Stones installed in the Ashring; preliminary ritual tests conducted (limited effect) | The ritual infrastructure in place |
+| | 1 B | Corven declares the ritual ready; city council approves; public announcement made | Half the city plans to watch |
+| **Year Zero** | **0** | **The Night of the Ritual: the Ritual of Eternal Dawn performed; something goes wrong; the sun stops rising** | **Everything** |
+| | 0 | Ten children born across the city in the hours following the ritual - premature, healthy, faintly luminous | The Dawnborn arrive |
+| | 0 | Corven found dead in the Ashring; the cause is listed as "backlash"; the ritual documents sealed by his assistant | The truth begins to be buried |
+| **The First Winter** | 1 | Crop yields fall fifteen percent; the first serious food shortage in Varenhold's history | The city realizes this is not temporary |
+| | 2 | The Spire begins formal investigation of the twilight mechanism; initial estimate is "a few months to resolution" | The optimism that will not survive |
+| | 3 | The first Dawnhall established in the Lowmark - originally an emergency food distribution point | The institution that defines the next fifty years |
+| | 5 | Population begins declining; the first significant emigration wave, mostly younger families | Varenhold loses twenty percent of its people in the decade |
+| | 8 | The grey sickness formally named and described by Healers' Guild - an affliction that seems connected to the absence of sunlight | The second great crisis begins |
+| | 10 | The Dawnborn, now ten years old, begin exhibiting abilities - strength, insight, healing - that no one can explain | The city's protectors appear |
+| **The Compact Era** | 15 | The Merchants' Compact formally establishes the credit-writ system to stabilize commerce | The economic adaptation that works |
+| | 20 | The Restorer movement formally organized - previously informal grief circles become a structured advocacy group | Political pressure for restoration begins |
+| | 22 | The Desperate Winter: food stores drop to fifteen percent; Dawnhalls ration for four months; political unrest; the Dawnborn Lira begins developing her compound | The closest the city came to collapse |
+| | 23 | Lira's first grey sickness compound distributed through the Healers' Guild - partial management, not cure | The city's health stabilizes somewhat |
+| | 25 | The Spire's hundredth paper on the twilight published; still no consensus on mechanism | Fifty years later, this number is over three hundred |
+| | 30 | The first mark debasement - the city begins recoining copper marks at lower content | Economic strain made visible in the currency |
+| | 35 | The Dawnborn, now adults, become formal public figures; Sera stops a building collapse that would have killed forty people | The Dawnborn mythology solidifies |
+| **The Quiet Decades** | 35-45 | Relative stability: food supply managed, grey sickness managed, amber lanterns funding the economy | The years that felt like progress |
+| | 40 | Tomas Areth establishes the informal arbitration system in the Outer Ring that becomes the city's primary dispute resolution | Tomas at his most effective |
+| | 42 | Archivist Theron Waide discovers the sealed ritual documents in the Archive lower levels | The information that changes everything - and that he tells no one |
+| | 45 | The Dusk Sitting tradition formally established - previously informal grief gatherings become civic ritual | Varenhold names its grief |
+| **The Recent Era** | 45-50 | The grey sickness rate begins climbing again; food stores declining; trade partners pulling back | The slow deterioration accelerates |
+| | 47 | Chancellor Mira Ostenveld elected; begins eleven years of careful governance | Current era begins |
+| | 48 | Brother Edoran, a junior Restorer, obtains partial information about the ritual's true cost from a source he has never named | The Reckoning begins to form in Edoran's mind |
+| | 49 | The Reckoning founded as a faction; initially small, mostly former city guard and Restorer frustration cases | The militant option exists |
+| | **50** | **Campaign begins** | **The players arrive** |
+
+*Note: Dates marked "~" are approximate. Varenhold historians disagree on the precise founding date by as much as thirty years. Everything from Year 0 onward is precisely documented.*
+
+---
+
+### What Varenholders Call These Times
+
+History has its official dates. Varenholders have their own names for the eras that feel true.
+
+- **"Before"** - Any time before Year 0. Pre-twilight Varenhold. A mythologized golden age in most people's mental image, whether or not their grandparents actually lived better.
+- **"The First Winter"** - Years 1-5. The initial shock, the food shortages, the realization that this wasn't going to resolve quickly.
+- **"The Building Time"** - Years 5-20. When the Dawnhalls were built, the Compact system was formalized, the workshops adapted. The generation that built the city's survival infrastructure.
+- **"The Desperate Winter"** - Specifically Year 22, the winter of near-collapse. Referenced as a benchmark. "It was bad, but not Desperate Winter bad."
+- **"The Quiet Decades"** (Years 35-45) - The period that felt, briefly, like things might stay stable. People who grew up then have a different sense of the city's possible futures than people who grew up before or after.
+- **"The Now"** - The present. Not optimistic. Not despairing. Just the thing that is currently happening.
+
+---
+
 ### What Varenhold Is Now
 
 The twilight is not darkness. This surprises most newcomers. Varenhold exists in a permanent deep dusk - the light of a sun perpetually below the horizon, refracted through the atmosphere into a sourceless grey-amber glow. You can see. You can read, walk, work. But there are no shadows. There is no warmth in the light. And there has been no day for fifty years.
