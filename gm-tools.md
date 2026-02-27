@@ -40,6 +40,228 @@ For travel to or from the Ashfen Gate or the Restorer compound.
 
 ---
 
+## The Living World System
+
+*Use this section between sessions to track how Varenhold changes based on player actions and the passage of time. The city should feel like it's moving whether the players are watching it or not.*
+
+---
+
+### The Crisis Escalation Track
+
+The city's overall crisis level affects what encounters the players find, how NPCs behave, and which faction actions fire automatically. Track pressure on a 1-10 scale.
+
+| Level | City State | Automatic Effects |
+|-------|-----------|------------------|
+| 1-2 | **Stable** | No faction escalation; players can operate without urgency |
+| 3-4 | **Tense** | Restorers hold public meetings; Desperate vigils appear; Council holds emergency session |
+| 5-6 | **Active Crisis** | Desperate demonstrations; Restorer-Reckoning split; Chancellor's ultimatum issued |
+| 7-8 | **Near Collapse** | Riots possible; Council considers martial law; Dawnborn publicly split; food rationing |
+| 9-10 | **Collapse** | Violence in streets; Dawnborn decisions forced; players must act this session |
+
+**Starting pressure at campaign start:** Level 3-4.
+
+**What moves pressure up (+1 each):**
+- Another food rationing announcement
+- A Dawnborn publicly abandons the city
+- Public evidence that the Council knew and concealed the ritual cost
+- Players are seen taking no action for more than one session
+- Reckoning commits visible violence
+- Any session ends with no player progress toward resolution
+
+**What moves pressure down (-1 each):**
+- Players visibly address the Desperate (genuine conversation, not dismissal)
+- Partial ritual brightening (temporary; returns to prior level after two sessions)
+- Players expose a faction's bad faith in a way that satisfies the city
+- A clear progress milestone announced publicly (e.g., "the alternative is being tested")
+- Chancellor publicly signals confidence in players' investigation
+
+---
+
+### Faction Action Tables
+
+*What each faction does if players don't interact with them in a given session. Use these to keep the world moving.*
+
+**The Restorers (if ignored)**
+
+| Session | Automatic Action |
+|---------|-----------------|
+| 1 | Distribute pamphlets in the Lowmark; Edoran meets privately with Ysel |
+| 2 | Edoran sends a letter to the Chancellor requesting a meeting; Jaret's faction recruits aggressively |
+| 3 | Edoran meets with a willing Dawnborn (not players present); Fanatics hold a rally; pressure +1 |
+| 4 | Jaret's Fanatics break from Edoran; form the Reckoning; Edoran cannot control them; pressure +1 |
+| 5 | Edoran watches. The Reckoning acts without him. |
+
+**The Desperate (if ignored)**
+
+| Session | Automatic Action |
+|---------|-----------------|
+| 1 | Lowmark food distributor announces reduced portions; quiet vigil outside Council Hall |
+| 2 | Senna Kard's first public speech; 200 people; demanding a timeline; pressure +1 |
+| 3 | March on Council Hall; two people injured in crowd control incident; Council demands results |
+| 4 | Second march; larger; Senna's language has turned: "we will not wait for their comfort"; pressure +2 |
+| 5 | The Desperate have made their decision; either behind a solution or in front of one |
+
+**The Council (if ignored)**
+
+| Session | Automatic Action |
+|---------|-----------------|
+| 1 | Holds routine meeting; no action taken; cautious optimism about players |
+| 2 | Classified session; Maret Lonn asks pointed questions about player progress |
+| 3 | Closed session; Ashby pushes for a deadline; Solm objects; no vote but the tension is visible |
+| 4 | Ostenveld issues seven-day ultimatum; votes to authorize "whatever means necessary" 3-2 |
+| 5 | The vote is cast; the Chancellor implements the decision |
+
+**The Reckoning (Sessions 4-5 only; if Reckoning faction hasn't been neutralized)**
+
+| Session | Automatic Action |
+|---------|-----------------|
+| 4 | Harran establishes positions around the Ashring; approaches players for parley |
+| 5 | Final intervention at the Ashring; the last stand |
+
+---
+
+### Rumor Mill Tables
+
+*What players hear if they ask around in each session. Roll 1d6 or choose. Items marked (A) are accurate; items marked (D) are distorted; items marked (F) are false.*
+
+**Session 1 Rumors**
+
+| d6 | Rumor | Accuracy |
+|----|-------|---------|
+| 1 | "The Chancellor hired outside investigators because the Spire couldn't solve it." | A |
+| 2 | "The Dawnborn have been meeting secretly with the Restorers for months." | D (Ysel has met with Edoran; it's not secret to him, but it wasn't announced) |
+| 3 | "Archmagister Corven was murdered by the Council to prevent him from revealing the ritual's cost." | F (he died in the backlash) |
+| 4 | "There's something in the Archive's restricted section that would change everything." | A |
+| 5 | "The grey sickness is getting worse in the Lowmark. Sevra Dain's numbers are different from the official ones." | A |
+| 6 | "The Dawnborn are already starting to lose their abilities. Sera's been having trouble." | D (she has strange dreams, not power loss) |
+
+**Session 2 Rumors**
+
+| d6 | Rumor | Accuracy |
+|----|-------|---------|
+| 1 | "Theron Waide was seen burning documents in his back office." | A (he destroys notes periodically) |
+| 2 | "The ritual cost is real. Someone found the original documents." | D (close; depends on what players found) |
+| 3 | "The Dawnborn are immortal - that's why the ritual energy is taking so long to drain." | F |
+| 4 | "The Chancellor has been meeting with someone from the Arveth Compact about the ritual." | A (Saret Onn is aware of the negotiations) |
+| 5 | "Brother Edoran has already convinced three Dawnborn to volunteer." | D (one - Ysel; Davin is sympathetic but not formally committed) |
+| 6 | "The Spire is hiding a second set of ritual documents from the Council." | D (Warden Keseph has been suppressing the energy depletion data, not ritual documents) |
+
+**Session 3 Rumors**
+
+| d6 | Rumor | Accuracy |
+|----|-------|---------|
+| 1 | "Isolde Menth has a way to do the ritual without anyone dying. Why isn't anyone listening to her?" | A (but incomplete; it requires the Cathedral) |
+| 2 | "The grey sickness is caused by the Dawnborn's energy slowly poisoning the air." | F |
+| 3 | "Lira Anwick has a child. That's why she won't volunteer." | A (but delicate information) |
+| 4 | "Three of the Dawnborn are in the Spire undergoing testing. Without their consent." | D (Orya went voluntarily; no coercion yet) |
+| 5 | "The Spire's been suppressing data about how fast the Dawnborn are declining." | A (Keseph and the depletion rate) |
+| 6 | "Senna Kard is organizing something larger than a march. She has Reckoning contacts." | D (she doesn't; but the Reckoning is aware of her) |
+
+**Session 4 Rumors**
+
+| d6 | Rumor | Accuracy |
+|----|-------|---------|
+| 1 | "The Ashring primer stones are activated. Something is about to happen." | A |
+| 2 | "Tomas Areth's Asymmetry Journal proves the ritual only needs five people, not ten." | D (it needs five specific people for efficiency, not an alternative to all-ten) |
+| 3 | "The Chancellor has been secretly in contact with the Reckoning." | A |
+| 4 | "Petra Vane is dead." | F (she left; she's hiding in Greenhollow) |
+| 5 | "A rogue Spire Scholar has been paying the Reckoning to stop the ritual." | D (Keseph has interests against the ritual but hasn't funded the Reckoning) |
+| 6 | "Brother Edoran has a personal reason for wanting the ritual done quickly. His family died." | A |
+
+**Session 5 Rumors**
+
+| d6 | Rumor | Accuracy |
+|----|-------|---------|
+| 1 | "The Dawnborn have made their final decisions. It's happening today." | A |
+| 2 | "The inversion pathway exists - the ritual doesn't have to kill anyone." | A (and potentially actionable) |
+| 3 | "The Chancellor is planning to arrest anyone who interferes with the ritual today." | D (she authorized "whatever means necessary" but hasn't specified arrest) |
+| 4 | "Corven left a letter that changes everything." | A |
+| 5 | "The Reckoning is going to try something at the Ashring this morning." | A |
+| 6 | "Lira Anwick has agreed to participate." | D (or A, depending on campaign state - adjust) |
+
+---
+
+### District Daily Life Snapshots
+
+*What each district looks like at each session's start. Paste these into your notes for quick description when players move through the city.*
+
+**Session 1:**
+- *Ashring Quarter:* Quiet and historical; tourists from Solenne; Edoran seen at the plaza edge at dawn
+- *Lowmark:* Morning market crowded; Wess's Grain Measure queue normal length; Lira's Healing House sign says "long wait"
+- *Spire Quarter:* Academic routine; Keseph seen entering the Theoretical Division early
+- *Dawnhalls:* Active; Sera's district patrol is visible; assembly posters advertising next month's Dusk Sitting
+- *Outer Ring:* Chancellor's Hall lit at both ends (early meeting); Cathedral divided choir audible from the street
+- *Ashfen Gate:* Normal caravan traffic; Restorer pamphlets on the gate wall; Wayward Tenn's horse at the Wanderer's Rest
+
+**Session 3:**
+- *Ashring Quarter:* Noticeably more foot traffic than usual; people are looking at the Primer Stones; three different conversations visible about what the carved symbols mean
+- *Lowmark:* Grain Measure queue longer than normal; two Healing House patients turned away (capacity); Senna Kard's group visible at the Dawnhall steps
+- *Spire Quarter:* Theoretical Division has three extra lanterns burning (working late); two Compact scholars visible taking notes on the Archive exterior
+- *Dawnhalls:* Tense; Orya's absence from her mapping post has been noticed; speculation in the halls
+- *Outer Ring:* Council Hall guards doubled; Auris Cathedral forecourt discussion between faction leaders is visibly louder than usual
+- *Ashfen Gate:* Restorer compound openly lit; two newcomers arriving from the Dusk Parishes carrying documents
+
+**Session 5:**
+- *Ashring Quarter:* Crowds from first light; people standing in the streets watching the Primer Stones glow; no merchants operating
+- *Lowmark:* Empty. Everyone has gone to the Ashring quarter or the Dawnhalls. The Grain Measure is closed. Sevra Dain is at the Healing House with all her staff, waiting.
+- *Spire Quarter:* Abandoned except for essential staff. Maret Lonn is visible in the Archive's upper window, watching.
+- *Dawnhalls:* Nessa has lit every lamp in the Great Dawnhall's memorial room.
+- *Outer Ring:* Chancellor's Hall locked; all councillors at the Council chamber. Cathedral: both choirs have come outside. They are standing in the same courtyard. They are not arguing.
+- *Ashfen Gate:* Wayward Tenn has saddled his horse. He has not left yet.
+
+---
+
+### Consequence Echo Tables
+
+*When players make a significant choice, use these tables to track downstream effects in later sessions.*
+
+**If players were honest with the Dawnborn about the ritual cost:**
+
+| Session | Effect |
+|---------|--------|
+| Immediate | Dawnborn begin processing; Tomas confirms their suspicion; Sera's trust jumps to Allied |
+| Next | The Dawnborn are actively engaged rather than passive; they have been thinking; they have questions |
+| Two sessions later | Players have genuine allies among the Dawnborn; the willing/unwilling split happens through choice, not shock |
+| Session 5 | All Dawnborn say, in various ways, thank you for telling us the truth |
+
+**If players concealed information from the Dawnborn:**
+
+| Session | Effect |
+|---------|--------|
+| Immediate | Short-term friction avoided; trust maintained at current level |
+| Next | Dawnborn find out anyway; source is less reliable than the players; Tomas in particular registers the gap |
+| Two sessions later | Lira explicitly states she found out another way; every Dawnborn's trust is reduced by 1 step |
+| Session 5 | No Dawnborn says "thank you for telling us." Sera's epilogue is different. |
+
+**If players sided openly with the Restorers (attended services, worked with Edoran):**
+
+| Session | Effect |
+|---------|--------|
+| Next | Edoran treats them as trusted contacts; Fanatic wing is warmer; Lira is significantly colder |
+| Two sessions later | Edoran gives them intelligence the Chancellor doesn't have; Lira won't meet privately |
+| Session 4 | The Reckoning knows the players' name; Harran approaches them as potential allies, not obstacles |
+| Session 5 | Edoran will testify at the Council if players ask; he is credible |
+
+**If players built relationships with the Desperate (genuinely listened to Senna or Brin):**
+
+| Session | Effect |
+|---------|--------|
+| Next | Pressure level -1; Senna's public rhetoric is measurably less extreme |
+| Two sessions later | Brin provides street-level intelligence that the Council doesn't have |
+| Session 4 | The Desperate march happens but is peaceful; no injuries; players are credited |
+| Session 5 | When the ritual resolves, the Desperate's reaction reflects the players' treatment of them |
+
+**If players exposed the Chancellor's Reckoning contact:**
+
+| Session | Effect |
+|---------|--------|
+| Immediate | Political crisis for Ostenveld; Maret Lonn's swing vote shifts toward protection of Dawnborn |
+| Next | Councillor Solm demands an inquiry; Ashby defends Ostenveld; Council is paralyzed for 48 hours |
+| Same or next | Lira hears about the contact; this is the single most effective move for protecting the unwilling |
+| Session 5 | Ostenveld is diminished but still in office; her authority to force the ritual is legally questioned |
+
+---
+
 ## Dawnborn Reaction Tracker
 
 Track each Dawnborn's current attitude and known information state. Print or copy to your session notes.
