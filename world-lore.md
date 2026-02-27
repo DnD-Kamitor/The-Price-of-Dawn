@@ -238,7 +238,25 @@ This makes them somewhat suspicious of newcomers - not hostile, usually, but wat
 
 The city's relationship to grief is complex. There is a local tradition called *the Dusk Sitting* - twice a year, the whole city essentially stops for a day, and people gather in the Dawnhalls or in private to mark the passing of time without the sun. It is not a religious practice (though some have religious dimensions); it is closer to a civic ritual. Newcomers sometimes find it profoundly moving. Some find it morbid. Locals generally appreciate visitors who engage with it seriously.
 
+### Songs of Varenhold
+
+Three songs are known across the city and are often heard in Dawnhalls, taverns, and quiet rooms alike.
+
+**"The First Winter"** - The oldest of the twilight songs, composed in Year 3 by an unnamed Dawnhall cook. Slow, written in a minor key that resolves to something that is not quite major. The words are practical: an inventory of what you need to survive. Preserved fish. Lamp oil. A neighbor who will check on you. The final verse is just the word *staying* repeated seven times, each slightly quieter. Nobody knows why it became the thing people sing when they need to feel less alone, but it is.
+
+**"Amber Watch"** - A call-and-response song used by lantern-carrier apprentices to identify each other in the market crowds. Officially a training exercise; culturally a symbol of the lantern-carrier tradition's place in the city. Tourists hear it and think it's charming. Varenholders hear it and feel something complicated about what it means that children learn it.
+
+**"Before"** - The controversial one. Written about forty years ago by a singer whose name is debated; the existing copies attribute it to three different people. It describes the sun in terms nobody living has experienced directly - the warmth on your face in the morning, the specific quality of afternoon light on stone. It is a fabrication built from old accounts, and it is probably not accurate, and it is devastating to hear it sung well. The Dusk Keepers don't like it because they believe it builds false longing. The Restorers love it for the same reason.
+
+The **amber style** of music has developed over fifty years: slow tempos, unresolved chords, instruments chosen for warmth of tone over brightness (cello favored over violin; drum rather than horn). The lanternhalt form - a ballad that ends on an unresolved chord, as if waiting for something that hasn't come - is Varenhold's most original musical contribution.
+
 ### Arts
+
+**Named Living Artist:** **Ceva Doss** (she/her), 60s, older sister of Orya (the mapmaker Dawnborn). Has painted Varenhold for forty years. Her current series is called "Before Paintings" - large-scale works depicting imagined sunny-day versions of actual Varenhold locations. A sunny-day Ashring. A sunny-day Lowmark market. A sunny-day Highmark arcade. She paints them from old accounts, from descriptions in the Archive, from the way things look and then imagining them warmer.
+
+Critics in the Compact call these paintings nostalgic and sentimental. In Varenhold they sell for 100-400 writs each, which is more than most Varenholders make in a month. Three of them are in the Chancellor's residence. One is at the entrance to the Lowmark Healing House, where it has hung for fifteen years.
+
+OGAS: *Occupation:* Working artist in the Highmark district. *Goal:* Paint every major space in Varenhold as it would look in sunlight - a complete record before memory of sunlight fades entirely. *Attitude:* Warm, observant, slightly sad. Has absorbed every political debate about the ritual but does not participate. *Secret:* She has been receiving anonymous patrons for the past three years. She doesn't know it's Edoran.
 
 The amber-lantern concert tradition is Varenhold's most famous artistic export. The concerts use specifically calibrated amber lamps to create a light environment that approximates, imperfectly, a warmly lit interior - and musicians compose and perform for that light. The scores specify both sound and light, written in a notation system unique to Varenhold. At their best, they are moving in a way that's hard to describe to people who haven't experienced them; at their worst, they're a kind of elaborate nostalgia exercise that doesn't accomplish much.
 
@@ -265,3 +283,32 @@ Varenholders dress in layers - the twilight is not dramatically colder than full
 The **lantern-carrier** tradition - certain people, usually guild members or city employees, who carry larger lanterns and light the way in public spaces - has evolved from a practical service into something closer to a civic institution. Children aspire to be lantern-carriers. There are lantern-carrier songs.
 
 A small Varenhold-specific fashion: a knotted cord worn at the wrist, in colors that indicate something about the wearer's connection to the city. Red for a native Varenholder. Blue for a resident of at least five years. Yellow for a visitor. Green for a merchant with regular business in the city. No one enforces this system; no one quite knows when it started; no one stops doing it.
+
+### Seasonal Customs and Ceremonies
+
+Without the sun, the sky doesn't change with the seasons. Varenholders have kept their own calendar - maintained by the city's bell system and the river's water level, which still reflects seasonal patterns even if the light doesn't.
+
+**The Dusk Sitting (Twice Yearly):** The city's most distinctive civic ritual, held at the midpoints of what would have been summer and winter. For one full day, all non-essential commerce stops. People gather in the Dawnhalls or in private homes. There is no formal agenda - it is simply a day to be still, to mark the passage of time, and to feel the community's presence. Visitors find it eerie. Residents find it necessary. The bell that marks the end of the Sitting - rung at the same time in all districts - is the most emotionally significant sound in the city's daily life.
+
+**The Lantern Remembrance (Year 0 Anniversary):** On the anniversary of the Night of the Ritual, a small formal ceremony is held at the Ashring. Candles are placed on the scorched stones - one for each year, so this year there are fifty. City officials attend. The Dawnborn attend. The public may watch from the plaza's edge. No speeches are given. The candles burn until they go out. The ceremony lasts about two hours; most of it is silence.
+
+**The Firstlight Festival (Community, Informal):** Any time a child in the city reaches seven years old, their family is expected to light a lantern in the family window and leave it burning for a full day. The tradition started in Year 5 when a father who had lost two children to illness during the first hard winter left a light in the window "so she can find her way home." It spread. It now means roughly: *a child made it to seven, and seven years is enough to be worth celebrating*. Varenholders don't explain this to outsiders; they usually just say "it's a birthday thing."
+
+**The Amber Giving (Dawnhall Ceremony, Weekly):** Every Dawnhall holds a weekly ceremony in which the ledgers of the food stores are read aloud to anyone who wants to hear them. This is entirely practical - it is a public accounting of what the city has and what it needs - but over fifty years it has acquired a ceremonial weight. People come not just for the information but for the ritual of the information being shared. It is, in its way, the city's most egalitarian tradition: the Chancellor's household's consumption is counted the same as the Lowmark dock worker's.
+
+### The Language of Varenhold
+
+Varenholders speak the common tongue of the Reaches, but fifty years of specific conditions have generated specific expressions. Players who use these correctly will be noticed; players who use them wrong will be gently corrected.
+
+| Expression | Meaning | Context |
+|------------|---------|---------|
+| **"A stayer"** | The highest compliment - someone who chose to remain when leaving was easier | Used with quiet pride: "She's a stayer." Not used sarcastically. |
+| **"First light"** | The theoretical moment of sunrise that would happen if the ritual were complete. Used metaphorically for hope. | "We're working toward first light." Also used skeptically: "He's always talking about first light." |
+| **"Deep amber"** | The period in what would be late night when the twilight is at its darkest. Metaphor for the worst of anything. | "That was a deep amber conversation." "She's in deep amber right now." |
+| **"Keeping time"** | Doing the necessary thing when there's no good reason to hope it matters - holding things together in the dark | "The healers are keeping time." High praise. |
+| **"Before"** | Pre-twilight, as an adjective meaning *when things worked* or *when this was easier*. | "A before lamp" (a high-quality pre-twilight lantern). "Before thinking" (naive optimism). |
+| **"The count"** | The number of Dawnborn who are willing, as a matter of political and emotional shorthand | "What's the count?" Asking this is considered somewhat rude by people who know the Dawnborn personally. |
+| **"Walking the Ashfen"** | Doing something risky for no reward anyone can see; going somewhere that might not help | "I'm just walking the Ashfen on this one." No guarantee. No blame either. |
+| **"Lumenbread thinking"** | Adapting to the situation rather than waiting for conditions to improve | "That's some real lumenbread thinking." Practical compliment. |
+| **"She's a three"** | (Lowmark primarily) Someone is at Stage 3 grey sickness. Quiet, never said in front of the person. | "Her mother's a three now." Delivered with the weight of a death sentence, because it is. |
+| **"Light the cord"** | Offer someone belonging; welcome someone as part of the community | Comes from the wristcord tradition. "We lit the cord for him when he showed up." Can be used figuratively. |
