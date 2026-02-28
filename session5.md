@@ -38,6 +38,8 @@
 
 ---
 
+![The Inversion Circle prepared at the Ashring - all ten positions marked, the Primer Stones set, the shape of the ritual and what it costs laid out in the scorched stone](images/session5-opening.svg)
+
 ## Five Senses Opening
 
 *Read or paraphrase before anything else. Set the day.*

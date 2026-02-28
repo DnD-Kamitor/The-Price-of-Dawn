@@ -36,6 +36,8 @@
 
 ---
 
+![The restricted section of the Varenhold Archive - towering shelves in amber lanternlight, dust motes drifting, the smell of fifty years of paper and secrets](images/session1-opening.svg)
+
 ## The Hook
 
 The players receive a formal summons - letter, messenger, or personal approach depending on party background - to meet with Chancellor Mira Ostenveld at the Council Hall.

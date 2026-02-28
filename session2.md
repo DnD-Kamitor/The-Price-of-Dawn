@@ -35,6 +35,8 @@
 
 ---
 
+![The ritual diagram unrolled on a stone table - ten circles in the Inversion notation, names at each position, the whole shape of the cost made visible](images/session2-opening.svg)
+
 ## Opening: What Changed While You Were Away
 
 Start Session 2 with a brief "what has the city been doing." Pick 1-2 of these depending on the Living World state:

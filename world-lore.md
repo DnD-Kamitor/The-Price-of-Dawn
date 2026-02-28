@@ -36,6 +36,8 @@ The light has changed since.
 
 ---
 
+![The Ashring the moment the light changed - fifty years ago, the stones glowing, the sky shifting from deep night to sourceless amber, the last moment of darkness Varenhold ever saw](images/the-night-of-the-ritual.svg)
+
 It was hot.
 
 That's the thing nobody writes down in the history books because it seems too small, but the people who were there say it first: it was hot, that last day. A late-summer heat with no wind, the kind that makes stone walls feel warm even after dark. The market smells were stronger than usual - preserved fish, lamp oil, the sweetness of the amber-lantern workshops at full production in the Dawnhalls district. Shadows everywhere. Long ones in the morning, short ones at noon, long again by afternoon, the specific way a shadow tells you where the sun is by its direction and angle. Nobody thought about this. Why would they?
@@ -308,6 +310,8 @@ The **amber style** of music has developed over fifty years: slow tempos, unreso
 Critics in the Compact call these paintings nostalgic and sentimental. In Varenhold they sell for 100-400 writs each, which is more than most Varenholders make in a month. Three of them are in the Chancellor's residence. One is at the entrance to the Lowmark Healing House, where it has hung for fifteen years.
 
 OGAS: *Occupation:* Working artist in the Highmark district. *Goal:* Paint every major space in Varenhold as it would look in sunlight - a complete record before memory of sunlight fades entirely. *Attitude:* Warm, observant, slightly sad. Has absorbed every political debate about the ritual but does not participate. *Secret:* She has been receiving anonymous patrons for the past three years. She doesn't know it's Edoran.
+
+![Ceva Doss's "Lowmark Market at Noon" - the famous "Before Painting" showing the market in actual sunlight, shadows pointing right, people squinting, the warmth visible in the specific angle of the light](images/ceva-doss-sunlight-painting.svg)
 
 The amber-lantern concert tradition is Varenhold's most famous artistic export. The concerts use specifically calibrated amber lamps to create a light environment that approximates, imperfectly, a warmly lit interior - and musicians compose and perform for that light. The scores specify both sound and light, written in a notation system unique to Varenhold. At their best, they are moving in a way that's hard to describe to people who haven't experienced them; at their worst, they're a kind of elaborate nostalgia exercise that doesn't accomplish much.
 

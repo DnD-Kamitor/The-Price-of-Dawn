@@ -138,15 +138,217 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
+---
+
+### `varenhold-last-morning.svg`
+**Used in:** `world-lore.md`, in the "The Last Day Before" section
+
+**What it shows:** The Ashring in the moment the light changed — fifty years ago, the Primer Stones glowing, the night sky shifting from true darkness to sourceless amber for the first time. The last real dark Varenhold ever saw. There are no people visible; just the stones, the sky, the transition.
+
+**Prompt suggestion:**
+> An ancient stone plaza at night, ten large stones arranged in a ring, each glowing with soft amber magical energy, the sky above shifting from true dark to a sourceless amber twilight, no figures visible, only the stones and the moment. Oil painting, dark fantasy, the precise instant something irreversible happened, amber and deep shadow palette, eerie quiet.
+
+---
+
+### `corven-notebook.svg`
+**Used in:** `session-recording.md`, before the Corven's Notebook section
+
+**What it shows:** A small leather notebook, six inches by four, cover worn smooth from years of handling. Open to a page of extremely dense handwriting — corrections in the margins, arrows and revisions, the notation of a mind arguing with itself. A quill rests beside it. Amber candlelight.
+
+**Prompt suggestion:**
+> A small worn leather notebook lying open on a stone desk, pages covered in extremely dense handwritten notation with marginal corrections and revisions in different inks, a quill set down beside it, amber candlelight. The handwriting of someone brilliant and relentless. Oil painting, dark fantasy, intimate and slightly unsettling, warm amber light on aged paper.
+
+---
+
+### `the-night-of-the-ritual.svg`
+**Used in:** `world-lore.md`, at the opening of "The Last Day Before" section
+
+**What it shows:** The Ashring plaza the moment the ritual completed — fifty years ago. The scorched circle visible in the stones. The sky transitioning. No figures needed, or just silhouettes at a distance watching. The sense of something irreversible in process.
+
+**Prompt suggestion:**
+> An ancient stone plaza at night, a circle of scorched stones glowing with dying magical energy, the sky above shifting from dark to sourceless amber twilight, two or three distant silhouettes watching from the edge, unable to undo what has just happened. Oil painting, dark fantasy, deep shadow and amber, the precise moment of catastrophe, no drama — just the quiet arrival of the permanent.
+
+---
+
+### `theron-archive-stacks.svg`
+**Used in:** `deep-archive.md`, before Part Two: Corven's True Story
+
+**What it shows:** Archivist Theron Waide in the deep Archive. Towering shelves of documents, amber lantern held at head height, everything else in shadow. He is looking for something — or trying not to look for something. He is older. He has been down here many times.
+
+**Prompt suggestion:**
+> An elderly archivist in a deep library holding an amber lantern, surrounded by towering shelves of documents and rolled maps, shadows above and behind him, the amber light catching dust motes, his face showing the particular exhaustion of someone who has known something for a long time. Oil painting, dark fantasy, amber lanternlight in deep shadow, warmth in a cold stone place.
+
+---
+
+### `ashring-scorched-stones.svg`
+**Used in:** `setting.md` (Ashring Quarter section), `discovery-quests.md` (Ashring at 4 AM location)
+
+**What it shows:** The Ashring plaza seen from ground level — the circle of scorched stones, exactly as they have been for fifty years. Maybe a single candle burned down near the centre. No drama, no magic glow. Just stone that was changed, permanently, on one night. A heron at the edge, optionally.
+
+**Prompt suggestion:**
+> A stone plaza at the pre-dawn hour, a circle of scorched stones at the centre approximately thirty feet across, the scorch marks unchanged after fifty years, one nearly-burned-out candle near the centre, the sky the sourceless deep amber of the city's darkest hour, a heron at the edge of the plaza. Oil painting, dark fantasy, quiet and permanent damage, no figures, amber and grey-brown stone palette.
+
+---
+
+### `lowmark-care-house.svg`
+**Used in:** `setting.md` (Lowmark section), `discovery-quests.md` (Care House location)
+
+**What it shows:** The care house ward at night — cots in rows, amber lantern kept low, a night practitioner moving between patients. Some patients are asleep. One is awake, staring at the ceiling. The painting hanging on the wall (Ceva Doss, the market in sunlight) is visible in the background.
+
+**Prompt suggestion:**
+> The interior of a care ward at night, cots in rows, patients asleep and one awake staring at the ceiling, a young practitioner moving carefully between them with an amber lantern, a painting on the wall showing a market in bright sunlight as the only warmth in the room. Oil painting, dark fantasy, amber lanternlight in a stone room, quiet grief, warmth and loss coexisting.
+
+---
+
+### `session1-opening.svg`
+**Used in:** `session1.md`, at the start of the session
+
+**What it shows:** The restricted section of the Varenhold Archive — towering shelves extending into shadow, amber lanternlight falling across stacked documents, dust motes suspended. The sense of being in a place full of things that have been hidden rather than lost.
+
+**Prompt suggestion:**
+> The restricted section of a deep fantasy library — high shelves extending into shadow beyond the lanternlight, stacked documents and rolled maps, dust motes in amber light, the sense of things hidden rather than lost. One amber lantern. No figures. Oil painting, dark fantasy, amber and deep shadow, warm light on aged paper, secrets as atmosphere.
+
+---
+
+### `session2-opening.svg`
+**Used in:** `session2.md`, at the start of the session
+
+**What it shows:** A ritual diagram unrolled on a stone table — an ink diagram showing ten circles arranged in a specific pattern, names written at each position, the notation system Corven invented. The whole shape of what the ritual costs, made visible as a document.
+
+**Prompt suggestion:**
+> A large parchment ritual diagram unrolled on a stone table, ten circles arranged in a specific pattern with names written at each position in dense notation, amber lanternlight illuminating the edges, the diagram showing something significant that the viewer cannot quite parse. Oil painting, dark fantasy, warm amber on aged parchment, the weight of a document that changes everything.
+
+---
+
+### `session3-opening.svg`
+**Used in:** `session3.md`, at the start of the session
+
+**What it shows:** The Spire laboratory — bench space, arcane equipment, and the Resonance Rods: tuning-fork shaped devices on stands, faintly humming, glowing with stored ritual energy in the amber light. The tools of fifty years of failed scholarship.
+
+**Prompt suggestion:**
+> A scholar's laboratory in a fantasy tower, long workbenches with arcane equipment, and prominently displayed: several large tuning-fork shaped metal rods on stands, glowing faintly amber, humming with stored energy. Papers pinned to boards, amber lanternlight, the organized chaos of fifty years of investigation. Oil painting, dark fantasy, amber and grey-blue stone, the tools of work that hasn't solved what it was meant to solve.
+
+---
+
+### `session4-opening.svg`
+**Used in:** `session4.md`, at the start of the session
+
+**What it shows:** The Ashring at night with all ten Primer Stones active — each stone glowing amber, the circle now visible as a complete mechanism rather than just marked positions. The shape of the ritual, lit at last.
+
+**Prompt suggestion:**
+> The Ashring plaza at the deepest amber hour, all ten Primer Stones in the outer ring glowing with warm amber light, the circle visible as a complete mechanism for the first time in fifty years, no figures, just the lit stones and the scorched ground between them and the sourceless sky above. Oil painting, dark fantasy, amber light on dark stone, the shape of consequence made visible.
+
+---
+
+### `session5-opening.svg`
+**Used in:** `session5.md`, at the start of the session
+
+**What it shows:** The Inversion Circle prepared at the Ashring — ten positions marked, the ritual configuration set, every element in place. The sense of a moment before an irreversible decision. The city behind, the stones ahead, the sky unchanged.
+
+**Prompt suggestion:**
+> The Ashring plaza with ten positions marked in a circle, each one lit or marked with amber chalk, the city walls visible in the background, the sourceless sky above, no figures yet — just the empty circle waiting for its ten participants, the shape of a choice that cannot be undone. Oil painting, dark fantasy, amber and grey stone, the stillness before a decisive moment.
+
+---
+
+### `erem-wadewalker.svg`
+**Used in:** `deep-archive.md`, before Part Five: The Oral Histories
+
+**What it shows:** An Ashfen Clan Wadewalker at the marsh's edge — dark waders, tools of the trade carried at ease, unhurried movement, watching the water. Not exotic or dangerous — just present, in a landscape that belongs to them.
+
+**Prompt suggestion:**
+> A figure in dark waders standing at the edge of a marsh, tools of trade carried at ease, watching the still water with the attention of someone who knows what the land is saying, the sourceless amber sky reflected in the water, mist at the marsh's edge. Oil painting, dark fantasy, green-grey marsh tones, amber sky reflection, the particular quiet of someone at home in a place others find difficult.
+
+---
+
+### `corven-sealed-letter.svg`
+**Used in:** `deep-archive.md`, before Document B6: Corven's Final Letter
+
+**What it shows:** A small sealed letter on an Archive shelf, between two document boxes. No address. The wax seal is unbroken — not because no one found it, but because no one opened it for fifty years. The shelf number (4-17-3) is just visible on the shelf tag.
+
+**Prompt suggestion:**
+> A small sealed letter on a stone archive shelf, between two document boxes, the wax seal unbroken, no address written on the front, a shelf tag reading 4-17-3 visible below it. Amber lanternlight. The weight of fifty years of being unopened visible in the quality of the object's stillness. Oil painting, dark fantasy, amber and shadow, the sealed thing that changes everything.
+
+---
+
+### `the-spire-tower.svg`
+**Used in:** `setting.md`, before the Spire Quarter section
+
+**What it shows:** The Spire tower rising above the surrounding Scholars' Quarter — grey-blue stone base, multiple additional floors and extensions bolted on over the centuries, glass panels glowing faintly amber and blue. The building that was supposed to solve all of this and hasn't.
+
+**Prompt suggestion:**
+> A tall scholar's tower in grey-blue stone, multiple additional floors and glass extensions added over centuries, the newer additions visible as architectural patches, glass panels glowing faintly amber and pale blue with active research energy, the surrounding scholar's quarter visible below. Oil painting, dark fantasy, grey-blue stone and amber, the institutional weight of fifty years of failed investigation.
+
+---
+
+### `grey-sickness-ward.svg`
+**Used in:** `setting.md`, before The Grey Sickness section
+
+**What it shows:** Stage 3 grey sickness patients in the care house — not dying, but absent. Eyes open and unfocused. Not looking at anything. The particular quality of someone who has gone somewhere medicine cannot follow. A single practitioner in the background, tending to those still in earlier stages.
+
+**Prompt suggestion:**
+> A care ward in a stone building, cots in rows, two or three patients visible with eyes open but completely unfocused, staring at nothing, present in body but absent in every other way — and in the background, a healer tending someone still in an earlier stage. Amber lanternlight. Oil painting, dark fantasy, the grey stillness of Stage 3, amber and grey-stone palette, grief as medical reality.
+
+---
+
+### `ceva-doss-sunlight-painting.svg`
+**Used in:** `world-lore.md`, after the Ceva Doss OGAS block
+
+**What it shows:** Ceva Doss's famous "Lowmark Market at Noon, Year 0 (Before)" — this is a painting of a painting. The market is full of people in actual sunlight: the light comes from the left, high up. Shadows pointing right. People squinting. This is what sunlight looks like, painted by someone who has spent forty years trying to remember.
+
+**Prompt suggestion:**
+> A painting-within-a-painting: a large canvas depicting a medieval market at noon in actual sunlight, light source high and to the left, shadows pointing right, people squinting, the warmth of real solar light on stone and fabric and faces. The frame visible at the edge — this is a painting of a painting, and the sunlight in the image is the only real sunlight in this world. Oil painting style, warm golden light, shadows visible, realistic brightness, joy and absence coexisting.
+
+---
+
+### `varenhold-district-map.svg`
+**Used in:** `setting.md`, before the Districts section
+
+**What it shows:** A hand-drawn city map of Varenhold showing all six districts: the Ashring Quarter (oldest, centre-ish), the Lowmark (working class, west), the Spire Quarter (scholars, north), the Dawnhalls District (communal, east), the Outer Ring (newer, south), and the Ashfen Gate District (gateway, south). The river along the south-west edge. Roads connecting districts. The Spire tower marked.
+
+**Prompt suggestion:**
+> A hand-drawn city map of a medieval fantasy city, showing six named districts with hand-lettered labels: Ashring Quarter at the centre-left, Lowmark to the west, Spire Quarter to the north with a tower symbol, Dawnhalls District to the east, Outer Ring to the south, Ashfen Gate District at the south gate. A river along the south-west edge. Roads connecting districts. Cartographic style, aged parchment, ink lines, compass rose. Sepia and amber tones.
+
+---
+
+### `restorer-compound-dawn.svg`
+**Used in:** `discovery-quests.md`, before the Restorer Compound location description
+
+**What it shows:** The Restorer compound entrance in early amber light — a plain building with grey cord banners hanging over the door, steps at the front. A young woman in her mid-twenties sits on the steps with a cup of something hot and a small pamphlet she folds away at the sight of a visitor. Not threatening. Not certain.
+
+**Prompt suggestion:**
+> A plain stone building entrance with grey fabric banners hanging over the door, a young woman sitting on the steps in morning amber light with a hot drink and a folded pamphlet in her hands, looking up at an unseen arrival. Not threatening — uncertain. Not a radical, not a true believer yet. Just someone who has been waiting a long time. Oil painting, dark fantasy, amber light, grey and ochre tones.
+
+---
+
+### `highmark-council-hall.svg`
+**Used in:** `setting.md`, near the City Council section
+
+**What it shows:** The Council Hall entrance — stone steps, the city's official seal carved above the doors, two guards at the entrance. The building where the city's official position on the ritual is formed and protected. It should look permanent and slightly forbidding.
+
+**Prompt suggestion:**
+> The entrance to a medieval civic hall — wide stone steps, a carved official seal above closed double doors, two guards standing at attention with amber lanterns, the building's architecture signaling authority and permanence. Oil painting, dark fantasy, grey stone, amber lanternlight, civic weight, the building where decisions are made.
+
+---
+
+### `inversion-circle-diagram.svg`
+**Used in:** `session5.md`, near the Inversion Circle puzzle section
+
+**What it shows:** A schematic of the Inversion Circle — ten Primer Stones in a ring, each numbered 1-10, with activation timing windows marked. The ritual configuration as a technical diagram. Should look like a combination of magical notation and engineering schematic.
+
+**Prompt suggestion:**
+> A technical schematic diagram of a ritual circle — ten stones numbered 1 through 10 arranged in a ring, with timing annotations and lines indicating activation sequence, drawn in a combination of magical notation and engineering precision. Ink on parchment, amber lanternlight, the ritual as mechanism rather than mystery. A note in the margin reads "6 seconds." Cartographic/technical style, aged paper.
+
+---
+
 ## Replacing Placeholders
 
 When you have your generated PNGs ready:
 
 1. Save each file in this `images/` folder with the exact `.png` filename listed above.
-2. Open each markdown file and change the image extension from `.svg` to `.png` in the `![]()` references — or use this one-liner from the project root:
+2. Open each markdown file and change the extension from `.svg` to `.png` — use this one-liner from the project root:
 
 ```bash
-sed -i 's/\(images\/[^)]*\)\.svg/\1.png/g' world-lore.md pantheon.md factions-guide.md player-handout.md
+sed -i 's/\(images\/[^)]*\)\.svg/\1.png/g' *.md session1.md session2.md session3.md session4.md session5.md setting.md deep-archive.md discovery-quests.md session-recording.md
 ```
 
 3. Run `quarto render` to rebuild the book.

@@ -38,6 +38,8 @@
 
 ---
 
+![The Ashring at night with the Primer Stones active - ten stones glowing amber in the scorched circle, the ritual's shape made finally visible](images/session4-opening.svg)
+
 ## Five Senses Opening
 
 *Read or paraphrase before the d6 table. Ground the players before the crisis lands.*

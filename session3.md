@@ -36,6 +36,8 @@
 
 ---
 
+![The Spire laboratory - the Resonance Rods on their stands, tuning-fork shapes in amber light, the faint hum of stored ritual energy](images/session3-opening.svg)
+
 ## Opening: The Clock Gets Real
 
 **Scene goal:** Establish urgency without melodrama. Tomas gives the players a number, not a feeling.
