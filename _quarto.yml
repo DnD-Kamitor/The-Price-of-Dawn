@@ -35,7 +35,12 @@ book:
         - running-the-campaign.md
         - ai-tools.md
         - gm-tools.md
+        - deep-archive.md
         - appendix.md
+    - part: "Player's Companion"
+      chapters:
+        - discovery-quests.md
+        - session-recording.md
 
 format:
   html:

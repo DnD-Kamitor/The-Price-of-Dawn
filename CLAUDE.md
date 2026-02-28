@@ -128,6 +128,198 @@ Apply Graeme Sherwood's methods systematically across the whole campaign.
 
 ---
 
+## Wave 2: Milestones 11-20
+
+### Milestone 11: Varenhold History Timeline
+**File:** `world-lore.md` (add to existing file)
+Add a 250-year chronological timeline, player-safe. Key eras: founding (trade crossroads), golden age (Spire peak, amber lantern invention), the ritual era (what Corven promised), the Night of the Twilight, and the 50 years of adaptation by decade. Name specific events the way Varenholders name them - "The First Winter," "The Year of the Compact," "The Desperate Winter of Year 23." Include a table showing Year / Event / What Changed. No GM secrets - present-day players only know the official story of the ritual.
+
+### Milestone 12: Session Zero - Full Safety and Character Guide
+**File:** `player-guide.md` (expand significantly)
+This campaign deals with themes of sacrifice, grief, and forced moral choice. The player guide needs a real session zero section:
+- Content warnings (specific: death of beloved characters, moral coercion, grief, body horror of grey sickness)
+- Safety tools: how to use the X-card in this campaign, suggested lines/veils, the open door policy
+- Six character archetypes with class suggestions and background hooks specifically tailored to this campaign's moral engine
+- Session zero ritual: 5 questions to answer as a group before Session 1 begins
+- How to create a character who will care about the dilemma (backstory hooks tied to Varenhold)
+
+### Milestone 13: GM Session Prep Cards - The 15-Minute Method Applied
+**File:** `gm-tools.md` (new section)
+The 15-minute prep method referenced in running-the-campaign.md, applied specifically to each of the 5 sessions. For each session:
+- The 3 NPCs you must have ready (with current want/fear/lie filled in)
+- The 2 scene beats you must hit no matter what
+- The 1 consequence to carry forward from last session
+- The 1 wild card to have ready
+- The "minimum viable prep" checkbox list
+- What to cut if running short of time
+
+### Milestone 14: Post-Campaign Epilogues
+**File:** `session5.md` (expand the endings section)
+Each of the 6 endings gets a full epilogue passage: what the city looks like one year later, what happened to each Dawnborn who survived (or is remembered), how the neighboring powers responded. Each epilogue ends with a final read-aloud - the last words the GM speaks at the table. Also add: a "debrief question guide" - 8 questions the GM asks the players after the final scene, and how to use their answers to close the campaign with meaning.
+
+### Milestone 15: The Grey Sickness - Full Medical and Social Expansion
+**File:** `setting.md` (expand the grey sickness section)
+The grey sickness is central to the campaign's emotional weight but currently underserved. Expand to:
+- Three-stage progression: Stage 1 (fog, fatigue, weeks), Stage 2 (cognitive decline, visible symptoms, months), Stage 3 (care-dependent, terminal, years)
+- What it looks like physically: the specific symptoms, why the name
+- Why proximity to the Dawnborn seems to slow progression (Lux Anchor proximity effect - GM-only explanation)
+- Social consequences: employment, housing, family abandonment, the care-house culture
+- Lira's compound: what it contains, how she synthesizes it, why she cannot scale production, what happens when it runs out
+- The black market alternative: Mave's compounds, variable quality, the risk of Stage 2 acceleration
+
+### Milestone 16: Varenhold Culture - Arts, Music, Food, Language
+**File:** `world-lore.md` (expand culture section)
+Make Varenhold feel inhabited. Add:
+- Music: three named songs/ballads with their subject matter and when they're sung; the "amber style" of music that developed under twilight
+- Art: the "before paintings" collector market; the shift to amber-tinted aesthetics; one named living artist (with a brief OGAS)
+- Food culture: Lowmark stew as ritual and narrative (not a recipe, but what it means to eat it); the Dawnhall meal as communal ceremony; Greywheel cheese's origin story
+- Seasonal customs: how Varenholders mark time without the sun (the Lantern Festivals, the Day of Remembrance)
+- Language and slang: 8-10 Varenholder expressions that have developed under twilight ("a stayer," "first light," "deep amber," etc.)
+
+### Milestone 17: Seeking Audiences - Faction Interaction Guide
+**File:** `factions-guide.md` (expand significantly)
+Players need to know HOW to engage each faction, not just what they do. For each faction:
+- Who to approach first and where to find them
+- The access check: DC, skill, and what success/failure looks like
+- What the faction will ask in return for cooperation
+- What happens to the faction relationship if players work with a rival faction
+- Faction loyalty tensions: which pairs are incompatible, which can coexist
+- The point of no return: what action makes a faction permanently hostile
+
+### Milestone 18: District Street Encounters - Social and Investigation Tables
+**File:** `gm-tools.md` (expand encounter table section)
+The d6 encounter tables added in Milestone 3 are combat-light. Expand to full d10 social/investigation encounter tables per district:
+- What's happening in the square today (6 entries per district, keyed to session)
+- Overheard conversations (5 per session, 30% accurate intel, 70% rumor distortion)
+- Ambient details tables: light quality, smell, sound, weather, crowd mood - all twilight-specific
+- "What do the players notice en route to..." tables for each major location (Archive, Cathedral, Restorer compound, Ashring, Isolde's lab)
+
+### Milestone 19: Running It Differently - Adaptations and Play Styles
+**File:** `running-the-campaign.md` (expand significantly)
+- Running online (VTT): ambient audio suggestions (what Varenhold sounds like), handout distribution, tactical map notes for key scenes, camera framing for dramatic moments
+- One-shot version: 3-hour condensed play - what to cut, what to keep, how to land the moral dilemma in a single session
+- Shorter campaign (3 sessions): scene-by-scene compression guide
+- For different player types: the pure roleplayer, the tactical problem-solver, the combat-focused player - how to engage each type in this campaign's material
+- Tone calibration: running it lighter (low tragedy), as written, or darker (high tragedy) - what changes at each level
+
+### Milestone 20: The Appendix - Quick Reference
+**File:** `appendix.md` (new file; add to `_quarto.yml` as final chapter)
+A complete quick-reference section for use during play:
+- All DC and skill check table across all 5 sessions in one place
+- Complete NPC roster: name, role, location, faction, attitude at campaign start, session introduced
+- All stat block index: creature name, CR, session number, page reference
+- Price reference: all items from trade.md in compact 2-column format
+- Ritual mechanics quick reference: key steps, inversion conditions, partial effects
+- All faction state tables by session (simplified)
+- Moral scorecard blank template (printable)
+- The 10 Dawnborn at a glance: name, public role, personality word, position on the ritual
+
+---
+
+## Wave 3: Milestones 21-30 (Depth and Weight - The LotR Layer)
+
+*Goal: make the world feel ancient, the loss feel specific, and give players things to discover and carry. Every milestone in this wave adds something players can encounter OFFLINE - through the AI character tool, through discoverable documents, through between-session exploration.*
+
+### Milestone 21: The Deep Archive - Discoverable In-World Documents
+**File:** `deep-archive.md` (new file; add to GM Toolkit part in `_quarto.yml`)
+A collection of 15 in-world documents that the GM can release selectively - not as dumps, but as discoveries. Each document is a primary source: a letter, a report, a pamphlet, a journal entry. Format each with a heading showing what it is and where it was found. Documents span the 50-year period. GM notes indicate when in the campaign each document becomes findable and what it reveals. Examples:
+- Corven's research grant application (Year 15 B): what he said the ritual would do, in his own optimistic words
+- The official Healers' Guild report on Year 1 grey sickness (Year 1): the first time anyone named it
+- A Restorer pamphlet from Year 20 (the movement's earliest days): how they spoke before they became organized
+- Theron Waide's private accession log for the sealed documents (Year 11): the moment he found them and chose to say nothing
+- The High Penitent's reply to Corven's ritual approval request (Year 5 B): approval, with conditions that were never met
+- A letter from an emigrating family (Year 8): saying goodbye to neighbors they'll never see again
+- A Compact trade report noting Varenhold's decline (Year 25): cold, accurate, devastating
+- Sevra Dain's first grey sickness mortality report (Year 23): the year the Desperate Winter killed 400 people
+- A child's school essay on "What the Sun Looks Like" (Year 30): she's never seen it and is describing from an old painting
+- Five more documents of similar weight
+
+### Milestone 22: Corven's True Story - The Archmagister's Record
+**File:** `deep-archive.md` (dedicated section)
+The Archmagister has been a name and a mistake. Make him a person. A sequence of 6 documents in his voice, released in order across the campaign:
+1. **"The Solar Hypothesis" abstract** (Year 25 B): his brilliant, optimistic early theory - what he thought he'd found
+2. **A letter to his student Theron** (Year 15 B): explaining why he's so certain this will work
+3. **Research journal entry** (Year 3 B): the first sign something is wrong with his calculations
+4. **His letter to the High Penitent** (Year 5 B): requesting approval, hiding his uncertainty
+5. **A note to himself found in his desk** (the night before the ritual): "If I am wrong about the anchor mechanism, the children will not emerge as symbols. They will emerge as the cost."
+6. **The sealed letter at shelf 4-17-3** (the night of the ritual): his final words, already known from Session 5 - but now devastating in context
+
+When players have read all 6, they understand exactly who Corven was: a brilliant man who knew he might be wrong and chose to proceed. Not a villain. A person who made the worst kind of mistake - the kind you can rationalize.
+
+### Milestone 23: NPC Private Journals - Inner Life Documents
+**File:** `deep-archive.md` (dedicated section)
+Six journal entries, one per major NPC, set the week before the campaign begins. Each 250-350 words, in first person, in the NPC's voice. These are not public knowledge - the GM releases them when players build significant trust (the specific threshold is noted). They reveal what the NPC cannot say aloud and serve as the emotional foundation for the AI character prompts.
+- **Theron Waide's journal** (written the night after the players first arrive in Varenhold): what it feels like to watch them investigate what he's been hiding
+- **Sera Voss's journal** (three days before Session 1): she's known for weeks that something is coming; what she's afraid of
+- **Tomas Areth's journal** (the day he finishes his asymmetry calculations): what he found, and why he hasn't told anyone yet
+- **Lira Anwick's journal** (a night she stays late at the care house): about Mira, and what she's willing to do for her, and what she isn't
+- **Brother Edoran's journal** (one year after his daughter's death): not grief - something past grief, harder and quieter
+- **Harran's journal** (the day he formed the Reckoning): what he told himself, and what he didn't
+
+### Milestone 24: Letters Never Sent
+**File:** `deep-archive.md` (dedicated section)
+Eight letters that were written and never delivered - found tucked in books, hidden under floorboards, sealed and forgotten. These are the emotional core of the LotR appendix feeling: the world continues to exist whether you read it or not.
+- Sera to a Dawnborn who died in Year 12 (before the players' time): she addresses them by name
+- Theron to the Chancellor (Year 42): explaining, in full, what he found and why he said nothing. Never sent.
+- Lira to her daughter Mira (written to be opened when she's sixteen): assumes Lira won't be alive to give it herself
+- Edoran to Corven (Year 35): the letter you write to someone who can't answer; rage and grief in equal measure
+- A Parish mother to her child who moved to Varenhold (Year 22): urging them to come home before the Desperate Winter kills them. The child stayed. They survived. The letter was never sent because the mother died before she finished it.
+- Cormac Drell to himself (Year 45): a list of things to do if the ritual is ever completed, mundane and specific (get a garden, sleep in, visit the coast)
+- Aldric Stone to the Chancellor (five years ago): explaining why he can't say yes and why he can't say no and asking for help nobody can give him
+- A Compact merchant to her partner in another city (Year 48): describing Varenhold accurately, then saying she's not leaving
+
+### Milestone 25: The Last Day Before - Memory of Light
+**File:** `world-lore.md` (new section at the beginning of the history chapter)
+The LotR layer demands this: what was the world like on the last day? Not history - experience. A 700-word present-tense account of Varenhold on the morning before the night of the ritual. Sensory. Specific. Sunlight on the plaza stones. Children playing in real shadows. A baker who complains about the heat. The specific smell of a city in full sunlight. Then five brief testimonies (50 words each) from people who were there for the Night itself - what they saw, heard, felt in the hours it happened. This section should make players feel the loss as something that happened to specific people, not as a plot condition.
+
+### Milestone 26: The Lost Generation - Named Lives
+**File:** `setting.md` (add to the grey sickness section)
+The grey sickness killed approximately 3,000 people in the Desperate Winter of Year 22 alone. Statistics are abstractions. Give ten of those deaths a name, a face, and three sentences each. Not all famous. Not all elderly. One was a twelve-year-old girl. One was a Spire scholar who had a theory that would have mattered. One was Edoran's daughter (named here for the first time with full context). One was a dock worker named Cormac Drell remembers specifically, by name, without being asked. These entries go in the care house setting section and the memorial room description. Players who read them will feel the city's grief differently.
+
+### Milestone 27: The Ashfen Oral Histories
+**File:** `deep-archive.md` (dedicated section); also reference in `world-lore.md`
+The Clans preserved the true story of the twilight in oral tradition. Five fragments of oral history in the telling-style of Wadewalker tradition: a call-and-response structure, specific repeated phrases, images from the marsh. Written to feel ancient and immediate simultaneously. Subjects:
+1. "The Night the Stars Stayed" - the Clan account of the ritual night (accurate about the anchor mechanism; the Spire dismissed it as metaphor)
+2. "The Wandering Light" - about the Dawnborn's birth and what it means in Clan understanding (they knew immediately what the Dawnborn were)
+3. "The Void Between" - the sympathetic void theory, expressed as a story about a marsh bird that stops singing (Erem's theory, in its original oral form)
+4. "What the Heron Knows" - about the grey sickness and its connection to the missing light, told through marsh ecology
+5. "The Return Song" - a ritual chant sung when they believe something is about to be restored; it was last sung fifty years ago
+
+Players who earn Erem's trust hear these. The AI character for Erem knows all five and will share them in sequence when asked.
+
+### Milestone 28: Deep AI Character Prompts - Three-Tier System
+**File:** `ai-tools.md` (major expansion)
+The current AI character system gives players a surface-level NPC to interact with. Expand to a three-tier system for every major NPC:
+
+**Tier 1 (Stranger):** The public face. What they say to someone they've just met. Polite, consistent with public reputation, no real information.
+
+**Tier 2 (Trusted):** Unlocked when the player demonstrates specific knowledge or relationship (the unlock condition is stated in the prompt). Inner thoughts about the ritual. Real feelings about their situation. The thing they've been thinking about.
+
+**Tier 3 (Vulnerable):** Unlocked only at specific moments (stated in the prompt - usually after a major session revelation). What they'd say if they stopped managing the conversation. Their actual fear. What they'd do if no one was watching.
+
+Write full prompts for all three tiers for: Theron Waide, Sera Voss, Tomas Areth, Lira Anwick, Brother Edoran, Chancellor Ostenveld, Harran, Erem the Wadewalker. The prompts should be loadable directly into the AI character tool described in the existing `ai-tools.md`.
+
+### Milestone 29: Between-Session Discovery Quests
+**File:** `discovery-quests.md` (new file; add to Player's Guide part in `_quarto.yml`)
+For each of the five sessions, a set of 3 structured offline activities that players can pursue between sessions. These are delivered to players by the GM after each session. Each activity is:
+- **An interview** (one NPC to approach via AI character tool, one specific question to ask, what they might learn)
+- **A document** (one thing to find in the Deep Archive if they ask the right person/look in the right place)
+- **A location** (a written "what you find if you revisit X" - a 200-word sensory account the GM releases when players say they want to go there between sessions)
+
+Between-session discoveries should reward players who engage with the world, not punish those who don't. All offline-discovered content is recapped at the start of the next session for players who didn't engage.
+
+### Milestone 30: Three Essays from the World
+**File:** `deep-archive.md` (dedicated section)
+Three in-world essays, 500-600 words each, written by named Varenholder authors. These are the LotR-appendix layer: optional, deep, for players who want to understand the world fully.
+
+1. **"On Staying"** by Councillor Anwen Doss (Year 40): a philosophical meditation on what it means to remain in Varenhold after fifty years. Not political. Personal. What staying costs and what it gives. Written for herself, published in the Dawnhall notice boards by accident.
+
+2. **"The Lux Anchor: A Hypothesis on the Dawnborn's Nature"** by Spire Scholar Verin Thal (Year 15): an early, wrong Spire paper on the Dawnborn - it treats them as an interesting phenomenon rather than as people. The paper is not cruel, which makes it worse. Verin Thal died in Year 23. He would have revised his views.
+
+3. **"What We Owe Each Other in the Dark"** by the Healers' Guild (Year 45, anonymous): an internal Guild document on the psychological effects of the twilight on the city's population - not the grey sickness specifically, but what fifty years of waiting has done to how people think, plan, trust, and love. Contains the line: "We have become a city of people who do not make plans more than a few weeks ahead. This is not despair. It is an adaptation. We are not sure there is a difference."
+
+---
+
 ## Execution Notes
 
 - Commit and push after each milestone
