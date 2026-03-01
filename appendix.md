@@ -1,6 +1,6 @@
 # Appendix: Quick Reference
 
-*Print this. Put it in front of you when you run the campaign. Everything in this appendix is a condensed version of something covered in more detail elsewhere in the book.*
+*A condensed reference for players and GMs. NPC roster, skill check DCs, stat block index, prices, ritual mechanics, and travel times are all player-visible. Ending outcomes and the moral scorecard are GM-only — collapsed below.*
 
 ---
 
@@ -205,7 +205,8 @@
 
 ---
 
-## Faction State by Ending
+<details class="gm-only">
+<summary>GM Only — Faction State by Ending</summary>
 
 | Ending | Council | Dawnborn | Restorers | Desperate | Healers |
 |--------|---------|----------|-----------|-----------|---------|
@@ -216,9 +217,12 @@
 | **E** (forced) | Quietly ashamed; publicly claiming necessity | Survivors carry the moral weight of being chosen | Conflicted; some vindicated, some horrified | Split; some satisfied, some fled | Managing trauma alongside illness |
 | **F** (collapse) | Surviving; may not be the same Council | Still present; no ritual change | Reorganizing; leadership transition | Most active they've ever been | Essential services; city depends on them |
 
+</details>
+
 ---
 
-## Moral Scorecard (Blank Template)
+<details class="gm-only">
+<summary>GM Only — Moral Scorecard (Session Tracking)</summary>
 
 *Fill this in session by session. Use at Session 5 to guide which ending feels true.*
 
@@ -233,6 +237,8 @@
 **Likely ending based on dominant axes:** _______________
 
 *Notes on specific choices that shifted the pattern:*
+
+</details>
 
 ---
 

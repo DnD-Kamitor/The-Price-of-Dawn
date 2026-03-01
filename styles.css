@@ -1,0 +1,33 @@
+/* GM-Only Collapse Sections */
+details.gm-only {
+  border: 2px solid #7a1a1a;
+  border-radius: 6px;
+  padding: 0.75em 1.25em;
+  margin: 1.5em 0;
+  background: #fdf5f5;
+}
+
+details.gm-only summary {
+  color: #7a1a1a;
+  font-weight: 700;
+  cursor: pointer;
+  user-select: none;
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+details.gm-only summary::before { content: "▸ "; }
+details.gm-only[open] summary::before { content: "▾ "; }
+details.gm-only[open] { background: #fdf0f0; }
+
+/* Player-facing callout boxes */
+.player-callout {
+  border-left: 4px solid #2a6496;
+  background: #f0f6fc;
+  padding: 0.75em 1.25em;
+  margin: 1em 0;
+  border-radius: 0 6px 6px 0;
+}
+
+.player-callout p { margin: 0; }

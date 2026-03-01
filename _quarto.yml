@@ -37,11 +37,11 @@ book:
         - running-the-campaign.md
         - ai-tools.md
         - gm-tools.md
-        - deep-archive.md
-        - knowledge-tiers.md
-        - appendix.md
     - part: "Player's Companion"
       chapters:
+        - appendix.md
+        - knowledge-tiers.md
+        - deep-archive.md
         - discovery-quests.md
         - crafting-and-professions.md
         - session-recording.md
@@ -49,3 +49,4 @@ book:
 format:
   html:
     theme: cosmo
+    css: styles.css
