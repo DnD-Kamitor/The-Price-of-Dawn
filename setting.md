@@ -258,7 +258,7 @@ No one, until very recently, understood *why* they were the way they were.
 
 ## The Ritual's True Cost
 
-*This section is GM-only and must not reach the players until Session 2.*
+*Don't share this with players until Session 2.*
 
 The Ritual of Eternal Dawn did not fail in the ordinary sense. It succeeded - and then broke. The sun's light reached Varenhold, amplified, and then the anchor point of the ritual - a living conduit, never intended to survive - burned out.
 
@@ -272,7 +272,7 @@ The Archivist has known this for eleven years. He has told no one.
 
 ## The Ritual in Detail
 
-*GM-only. This section gives the full mechanical and historical picture of the Ritual of Eternal Dawn. Use it to answer player questions accurately and to run the ritual scenes in Sessions 4-5.*
+*The full picture — what actually happened, what the ritual actually does, and how to run the Sessions 4-5 ritual scenes accurately.*
 
 ### What Corven Believed He Was Building
 
@@ -360,7 +360,7 @@ The Dawnborn's extraordinary qualities are direct expressions of the sealed sola
 
 ### What the Spire Has Tried in Fifty Years
 
-*Background information for the GM; useful if players ask Isolde or the Spire Scholars what's been attempted.*
+*Useful background if players ask Isolde or the Spire Scholars what's been attempted.*
 
 | Approach | Attempted By | Why It Failed |
 |----------|-------------|--------------|

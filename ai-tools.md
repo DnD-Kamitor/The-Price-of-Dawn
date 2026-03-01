@@ -214,7 +214,7 @@ When a player starts a conversation, they optionally include one of these phrase
 - *"I know what you found."* - Tier 2: Trusted mode. Real feelings. Inner thoughts.
 - *"I've read the letter."* - Tier 3: Vulnerable mode. What they'd only say once.
 
-The unlock phrases are in-world - they reference specific things the players discovered in play. The GM controls which tier players have access to. When they earn Tier 2 or 3 trust, tell them which phrase to use.
+The unlock phrases are in-world - they reference specific things the players discovered in play. You control which tier players have access to. When they earn Tier 2 or 3 trust, tell them which phrase to use.
 
 ---
 

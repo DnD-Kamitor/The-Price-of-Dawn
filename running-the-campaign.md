@@ -1,12 +1,10 @@
 # Running The Price of Dawn
 
-*This chapter is for the GM only.*
-
 ---
 
 ## How to Use This Book
 
-This book is written for the **Game Master**. Players should not read beyond the Player's Guide.
+This is yours. Players should stop at the Player's Guide — everything past that point is for you.
 
 The structure:
 
@@ -31,7 +29,7 @@ For 5 sessions, run each chapter as written and let NPC relationships breathe. T
 
 ### Players First
 
-Every scene in this book is designed around **player agency and meaning**, not plot delivery. The GM's job is not to tell a story - it is to make the story *matter* to the players.
+Every scene in this book is designed around **player agency and meaning**, not plot delivery. Your job is not to tell a story - it is to make the story *matter* to the players.
 
 **The Scene Must Have Stakes.** Every scene gives the players something to gain, something to lose, or a choice that matters. If a scene does neither, cut it.
 
@@ -106,7 +104,7 @@ The key things to track:
 - **Dawnborn positions** - who is willing, unwilling, undecided; this shifts based on player behavior
 - **Living World state** - the grey sickness rate, food supply, political pressure; these create urgency
 
-The Living World rules are in the GM Toolkit chapter. Use them. The players should feel the city getting worse in real time - not as a countdown timer, but as a texture in every scene.
+The Living World rules are in the GM Toolkit. Use them. The players should feel the city getting worse in real time - not as a countdown timer, but as a texture in every scene.
 
 ---
 

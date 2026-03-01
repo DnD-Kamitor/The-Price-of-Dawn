@@ -20,7 +20,7 @@ Each session is built around a genuine moral dilemma with no correct answer. You
 
 ## Spoiler Map: What You May Read
 
-This book contains both player-facing and GM-facing content. Read freely within the Player's Guide. Stop before the GM sections.
+Everything in the Player's Guide is yours to read freely. Past that point — The World, the Sessions, the GM Toolkit — those chapters are for your GM's eyes only. Reading them will cost you discoveries you're meant to make at the table.
 
 | Chapter | Safe for Players? |
 |---------|------------------|
@@ -121,7 +121,7 @@ Suggested lines for most tables running this campaign: detailed depictions of ch
 
 Suggested veils (off-camera but acknowledged): specific deaths of named beloved NPCs, aftermath of violence.
 
-Add your own. The GM will note what's agreed before Session 1 and honor it.
+Add your own. Write them down. The table agrees before Session 1 and holds to what it decided.
 
 **The Open Door**
 Any player can step away from the table at any time, for any reason, without explaining why. They do not miss anything that can't be caught up on. The campaign will wait.
@@ -130,12 +130,11 @@ Any player can step away from the table at any time, for any reason, without exp
 
 ### Lines and Veils Conversation
 
-Before Session 1, your group should have this conversation out loud. It takes ten minutes. It prevents much larger problems.
+Have this conversation out loud before Session 1. It takes ten minutes. It prevents much larger problems.
 
-*The GM asks:*
 1. Is there anything you need to not see described at this table - even briefly?
 2. Is there anything you're okay with happening in the story but want handled off-camera?
-3. Is there a topic that you'd like the campaign to engage with more carefully or slowly than a default approach might?
+3. Is there a topic you'd like the campaign to engage with more carefully or slowly?
 
 Write the answers down. Put them somewhere everyone can see them. Update them between sessions if needed.
 
@@ -268,7 +267,7 @@ Then go home, build your character, read the player chapters, and come back read
 
 Between sessions, you can talk to the Varenhold NPCs through a simple offline chat tool. Ask them questions, test ideas, or just explore who they are. The tool uses their OGAS profiles (Occupation, Goal, Attitude, Secret) to stay in character.
 
-The AI-tools chapter in the GM section describes how this is set up. Ask your GM to share the relevant prompt file so you can use it on your own. The NPCs in the tool do not know the campaign's secrets - they know only what they would actually tell you. Trying to extract information they wouldn't share will get you their polite (or impolite) deflection.
+Ask your GM to share the relevant prompt file so you can use it between sessions. The NPCs in the tool do not know the campaign's secrets - they know only what they would actually tell you. Trying to extract information they wouldn't share will get you their polite (or impolite) deflection.
 
 ---
 

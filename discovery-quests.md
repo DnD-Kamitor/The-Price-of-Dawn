@@ -1,6 +1,6 @@
 # Between-Session Discovery Quests
 
-*This chapter is for players. It gives you structured things to do between sessions - offline interviews with NPCs, documents to track down, locations to revisit on your own time.*
+*Structured things to do between sessions - offline interviews with NPCs, documents to track down, locations to revisit on your own time.*
 
 *You don't have to do any of this. The campaign works without it. But if you're the kind of person who wants to sit with a world between sessions rather than waiting for it to come back to you - this is for you.*
 

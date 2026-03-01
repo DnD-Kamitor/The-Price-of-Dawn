@@ -74,7 +74,7 @@ That is the price of dawn.
 
 If you are a **player**, the next section of this book - the Player's Guide - is written for you. It will tell you everything you need to know to create a character and arrive at the first session ready. Read it freely; everything in it is yours.
 
-If you are the **Game Master**, the Player's Guide is also worth reading - your players will likely have read it, and knowing what they know shapes how you run the first session. The GM-facing material begins with *The World* section and continues through the Sessions and GM Toolkit.
+If you are the **Game Master**, the Player's Guide is also worth reading - your players will likely have read it, and knowing what they know shapes how you run the first session. The world-building, session guides, and full toolkit start at *The World* and continue from there.
 
 One request for everyone at the table, player and GM alike:
 

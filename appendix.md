@@ -157,7 +157,7 @@
 
 ## Ritual Mechanics Quick Reference
 
-*Key numbers for the GM during Session 5. Full mechanics in setting.md.*
+*Key numbers for Session 5. Full mechanics in setting.md.*
 
 **The Inversion Pathway (Ending A):**
 - All 10 Dawnborn must be within the Ashring circle simultaneously

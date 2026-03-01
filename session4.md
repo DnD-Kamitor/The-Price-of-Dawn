@@ -531,7 +531,7 @@ Two Veterans always coordinate on a single target. The remaining Veterans hold e
 
 *Medium humanoid, neutral good*
 
-*Note: Aldric is not a combatant by default. These statistics model him if he's grabbed, fights to escape, or the GM needs to resolve an unexpected player action toward him.*
+*Note: Aldric is not a combatant by default. These statistics model him if he's grabbed, fights to escape, or you need to resolve an unexpected player action toward him.*
 
 **Armor Class** 11 (Lux glow - no armor)
 **Hit Points** 14 (4d8 - 4)

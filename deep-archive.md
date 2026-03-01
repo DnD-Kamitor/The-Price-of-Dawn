@@ -1,6 +1,6 @@
 # The Deep Archive
 
-*This chapter is for the GM only. It contains primary source documents - letters, journals, reports, pamphlets - that players can discover across all five sessions. Each entry notes where it is found and when it becomes available. Release them as discoveries, not as information dumps. The documents are most powerful when players ask the right question and receive the answer as something real.*
+*Primary source documents — letters, journals, reports, pamphlets — that players can discover across all five sessions. Each entry notes where it's found and when it becomes available. Release them as discoveries, not as information dumps. The documents are most powerful when players ask the right question and receive the answer as something real.*
 
 *Documents marked [PLAYER-SAFE] can be handed to players directly. Documents marked [GM READ-ALOUD] should be paraphrased or read selectively. Documents marked [GM ONLY] inform GM play and are not shared unless players discover them through specific actions.*
 
@@ -575,7 +575,7 @@
 
 ## Part Four: Letters Never Sent
 
-*These are not in the Archive. They are found in personal effects - desks, hidden in books, under floorboards, tucked into clothing never collected. The GM decides when players might find each one.*
+*These are not in the Archive. They are found in personal effects - desks, hidden in books, under floorboards, tucked into clothing never collected. You decide when players find each one.*
 
 ---
 
@@ -727,7 +727,7 @@
 
 *These five fragments are in the storytelling tradition of the Wadewalkers: call-and-response structure, repeated phrases, images drawn from the marsh. Erem knows them all. She will share them in order when a player demonstrates genuine respect for Clan knowledge - not extraction, but listening. The AI character prompt for Erem includes all five.*
 
-*The GM reads these aloud in a slow, slightly formal cadence. They are meant to be heard, not read.*
+*Read these aloud in a slow, slightly formal cadence. They are meant to be heard, not read.*
 
 ---
 
@@ -926,7 +926,7 @@
 
 ## Part Six: Three Essays from the World
 
-*These are for players who want to understand the world at depth. The GM can share them between sessions, or have the AI characters reference them, or leave them discoverable in the Archive's public reading room.*
+*For players who want to understand the world at depth. Share them between sessions, have the AI characters reference them, or leave them discoverable in the Archive's public reading room.*
 
 ---
 

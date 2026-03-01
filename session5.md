@@ -674,7 +674,7 @@ Keseph positions at maximum spell range and uses *slow* in Round 1 to reduce the
 
 ### Ritual Activation Marker (Reference)
 
-*This is not a stat block - it is a tracking tool for the GM during the ritual scene.*
+*This is not a stat block - it is a tracking tool for you during the ritual scene.*
 
 | Position | Dawnborn | Status | Stone Color |
 |----------|----------|--------|-------------|

@@ -42,7 +42,7 @@ For travel to or from the Ashfen Gate or the Restorer compound.
 
 ## District Social and Investigation Encounters
 
-*These tables are for the GM who wants each district to feel distinct. Use them when players move through a district without a specific destination, or when you want to establish atmosphere at the start of a scene. These are not combat encounters - they're texture, information, and moral weight.*
+*Use these when players move through a district without a specific destination, or when you want to establish atmosphere at the start of a scene. These are not combat encounters - they're texture, information, and moral weight.*
 
 ---
 
@@ -461,7 +461,7 @@ Track each Dawnborn's current attitude and known information state. Print or cop
 
 ## Moral Dilemma Scorecards
 
-These are for the GM's use only - not shown to players. Track choices without judgment. Use the patterns to calibrate NPC responses.
+Keep these to yourself — not shown to players. Track choices without judgment. Use the patterns to calibrate NPC responses.
 
 ### The Player Compass
 
@@ -1079,7 +1079,7 @@ That's it. Put the book away. Go run the session.
 
 ---
 
-## The GM's Final Reminder
+## Before You Sit Down
 
 You are not the storyteller. You are the *conditions* of the story.
 
