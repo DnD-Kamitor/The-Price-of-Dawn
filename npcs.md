@@ -8,6 +8,8 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 ### Chancellor Mira Ostenveld
 
+![Chancellor Mira Ostenveld - the weight of fifty years of governance visible in how she holds herself; the most powerful person in Varenhold, and therefore the most aware of how little power matters here](images/npc-chancellor-ostenveld.svg)
+
 > *"I am not asking you to do anything wrong. I am asking you to find out what can be done."*
 
 **OGAS Block**
@@ -46,6 +48,8 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 ## The Archivist
 
 ### Theron Waide
+
+![Theron Waide - older than he looks, quieter than he should be; the Archivist who found the sealed documents eleven years ago and chose to say nothing, and has been living with that choice ever since](images/npc-theron-waide.svg)
 
 > *"Knowledge has weight, young one. I have been carrying this particular weight for eleven years. You'll understand, when you've held it as long."*
 
@@ -89,6 +93,8 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 ### Brother Edoran
 
+![Brother Edoran - grief that has organized itself into something harder and quieter; a former priest of Auris who lost his daughter and rebuilt himself around the conclusion that grief reaches when it is honest](images/npc-brother-edoran.svg)
+
 > *"I am not asking for their deaths. I am asking when we stop pretending that they are alive in the way we need them to be."*
 
 **OGAS Block**
@@ -130,6 +136,8 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 ## The Featured Dawnborn
 
 ### Sera Voss - The Protector
+
+![Sera Voss - the person the Lowmark calls before they call the watch; practical clothing, the particular stillness of someone who has talked people down from ledges many times and knows exactly when that option ends](images/npc-sera-voss.svg)
 
 > *"If I have to die for this city to live, that's not even a question. But I want to know it's actually true first."*
 
@@ -208,6 +216,8 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 ---
 
 ### Lira Cain - The Unwilling
+
+![Lira Cain - steady hands, a healer's satchel, the compound she synthesises that is never enough; the Dawnborn who has done the most good in the city and is the most certain that her death would not be worth it](images/npc-lira-cain.svg)
 
 > *"I never asked to be born special. I never asked to be a symbol. And I am not going to die as one."*
 

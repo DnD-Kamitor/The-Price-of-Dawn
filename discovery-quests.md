@@ -194,6 +194,8 @@ After each session, your GM will tell you which quests are available. There are 
 
 ### Location: The High Passes at Altitude
 
+![At altitude above Varenhold - a Hold-man showing the cloth with shadow-marks from forty-three events over five years, the clearest evidence of the twilight's cycle that exists anywhere, given to someone who seemed less rude than the Spire people](images/high-passes-shadow-cloth.svg)
+
 **Tell your GM:** *"My character travels with a supply caravan to the Graymere Holds. What happens at altitude?"*
 
 **What you find:**

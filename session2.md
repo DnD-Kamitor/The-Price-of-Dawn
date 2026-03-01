@@ -51,6 +51,8 @@ Start Session 2 with a brief "what has the city been doing." Pick 1-2 of these d
 
 ## Scene 1: The Archivist Breaks
 
+![Theron's disclosure - the Archive's restricted level, the sealed documents on the table between them, eleven years of silence ending in a single sentence](images/session2-theron-disclosure.svg)
+
 **Location:** The Civic Repository, a different room than before - less organized, as if Theron has been pulling things and not putting them back.
 
 ### Two Entry States

@@ -206,6 +206,8 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 
 ## The Living World System
 
+![The Ashfen marsh road south of Varenhold - reed channels, amber sky reflected in still water, the Clans who live here knowing things the Spire has been dismissing as metaphor for fifty years](images/ashfen-marsh-travel.svg)
+
 *Use this section between sessions to track how Varenhold changes based on player actions and the passage of time. The city should feel like it's moving whether the players are watching it or not.*
 
 ---
@@ -460,6 +462,8 @@ Track each Dawnborn's current attitude and known information state. Print or cop
 ---
 
 ## Moral Dilemma Scorecards
+
+![Six axes of moral choice tracked across five sessions - not judgment, just the shape of who the table decided to be when the decisions were real](images/moral-scorecard-table.svg)
 
 Keep these to yourself — not shown to players. Track choices without judgment. Use the patterns to calibrate NPC responses.
 

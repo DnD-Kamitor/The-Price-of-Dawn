@@ -1,5 +1,7 @@
 # Player's Guide to *The Price of Dawn*
 
+![A gaming table set up before Session 1 - character sheets, pencils, the map, the particular anticipation of a story that hasn't started yet](images/character-creation-table.svg)
+
 Welcome to the campaign. This guide tells you everything you need to arrive at Session 1 ready to play - and nothing you're not supposed to know yet.
 
 ---

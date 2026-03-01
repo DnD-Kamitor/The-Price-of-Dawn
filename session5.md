@@ -189,6 +189,8 @@ Players might ask: can a non-Dawnborn stand at a stone for an unwilling Dawnborn
 
 ## The Ashring, One Last Time
 
+![All ten Dawnborn gathered at the Ashring for the first time - the ritual positions visible, the city watching from the plaza's edge, the choice finally real](images/session5-ashring-assembly.svg)
+
 *Run this just before the combat - as the ritual is being set up.*
 
 > The Ashring at the end of things looks exactly like it did at the beginning of things. The scorch marks. The amber light. The smell of old stone.

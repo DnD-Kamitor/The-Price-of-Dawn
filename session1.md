@@ -53,6 +53,8 @@ The players receive a formal summons - letter, messenger, or personal approach d
 
 ## Scene 1: The Chancellor's Request
 
+![The Chancellor's private study - the fire that does not help, amber sky through high windows, the request she's about to make sitting between them on the desk](images/session1-chancellors-study.svg)
+
 **Location:** The Chancellor's private study in Council Hall. Evening (always evening, in Varenhold). A fire burns. It does not help.
 
 ### Read-Aloud

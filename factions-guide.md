@@ -6,6 +6,8 @@
 
 ## The City Council
 
+![The Council chamber - high stone walls, the city seal above empty chairs at a long table; the room where Varenhold's official position on the ritual has been maintained, unchanged, for fifty years](images/council-hall-interior.svg)
+
 **What they are:** Varenhold's governing body, consisting of seven Councillors who represent the city's major interest groups - trade, scholars, healers, the guard, the working districts, and two at-large seats. The Chancellor serves as the Council's presiding officer and primary executive.
 
 **Public reputation:** Generally competent, occasionally noble, visibly exhausted. The Council has kept the city functioning through fifty years of crisis, which is not nothing. They maintain the Dawnhalls, subsidize the Healers' Guild, negotiate aid from neighboring powers, and manage the city's shrinking revenue. Cynics in the city will tell you they've also kept themselves in power through fifty years of promising a solution they haven't delivered, but this critique doesn't fully account for what they've prevented: Varenhold has not collapsed, starved, or fractured into civil war, and that reflects real governance.
@@ -53,6 +55,8 @@ The three Dawnborn most publicly visible:
 ---
 
 ## The Desperate
+
+![A gathering of the Desperate movement in a Lowmark square - not a mob yet, just people who have been waiting too long and have stopped waiting quietly](images/the-desperate-lowmark.svg)
 
 **What they are:** Less a formal organization than a movement with a name. "The Desperate" is what people call the loose network of Varenholders - and Dusk Parishes emigrants - who believe the city's current approach is inadequate and are willing to take actions the Council would not sanction. The Desperate's tactics vary enormously across different cells: some are simply people talking about things they shouldn't, some organize unauthorized protests, and some - the fringe - are willing to do more.
 

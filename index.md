@@ -2,6 +2,8 @@
 
 ---
 
+![Varenhold seen from the river approach - amber lanterns on the walls, the Spire rising above grey-blue stone, the haze holding everything in sourceless gold, no shadows anywhere](images/varenhold-river-approach.svg)
+
 ## The City at the Edge of Morning
 
 There is a city that has not seen the sun in fifty years.
@@ -55,6 +57,8 @@ And somewhere at the edge of all this - in the Restorers' compound near the Ashf
 That is where you come in.
 
 ---
+
+![Several Dawnborn at a Dawnhall event - beloved, the city's hope and its heaviest burden, not knowing yet that these are the same thing](images/the-dawnborn-public.svg)
 
 ## What Kind of Story This Is
 

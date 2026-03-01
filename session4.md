@@ -304,6 +304,8 @@ Players will surprise you. Let them. Track the consequences and adapt.
 
 ## Combat: The Reckoning Strikes at the Ashring
 
+![The Reckoning confrontation at the Ashring - Harran's people at the plaza's edges, the players in the centre, the moment before this becomes something that cannot be taken back](images/session4-reckoning-street.svg)
+
 *The lightning discharge from a wrong Primer Stone sequence, or simply the crowd gathering at the Ashring, draws attention the players couldn't prevent. The Reckoning has been watching the Ashring for days.*
 
 ### Setup

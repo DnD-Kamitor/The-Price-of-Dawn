@@ -82,6 +82,8 @@ Fifty years of economic decline have produced specific currency phenomena unique
 
 ## The Amber Workshop Economy
 
+![Inside an amber lantern workshop in the Dawnhalls district - craftspeople calibrating lanterns on benches, the warm glow of active amber the only colour in the room, the smell of oil and hot glass](images/amber-workshop-interior.svg)
+
 The amber workshops are Varenhold's most successful surviving industry and its defining export. Understanding how they work explains a great deal about the city's economic structure.
 
 ### How the Workshops Operate
@@ -164,6 +166,8 @@ The black market in Varenhold is not hidden - it is available to anyone who asks
 ---
 
 ## The Dawnhall Food Network
+
+![The Dawnhall communal kitchen at the morning meal - long tables, free food, the particular mood of people who are grateful and tired of being grateful at the same time](images/dawnhall-food-kitchen.svg)
 
 *How the city's communal food system actually works.*
 

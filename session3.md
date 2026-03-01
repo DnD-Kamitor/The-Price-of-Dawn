@@ -123,6 +123,8 @@ On him is a small carved wooden disc on a cord around his neck - a token he had 
 
 **Source:** A Spire Quarter mage named **Isolde Menth**, who has been studying the Dawnborn for years without their full understanding of what she was observing.
 
+![Isolde's laboratory - cramped, unauthorized, brilliant; the resonance cage at the centre of the room like the skeleton of a lantern, specimen jars on the shelf, the smell of reagents and hot metal](images/session3-isolde-lab.svg)
+
 **Scene:** Isolde's laboratory, a cluttered room on the third floor of a Spire annex building. The smell of reagents and hot metal. A faint electrical hum. The resonance cage sits in the center of the room like the skeleton of a lantern - all brass framework and exposed wire, glowing faintly at the joints where the rods are installed.
 
 *Players who look around the room before speaking to Isolde: a shelf of specimen jars. One contains a bird, perfectly preserved, drained of color. A second contains a mouse, alive but grey - it moves, but everything natural about its movement is slightly wrong, like watching something walk through water. Isolde notices them noticing.*

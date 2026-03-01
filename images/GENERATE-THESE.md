@@ -340,6 +340,208 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
+---
+
+### `npc-chancellor-ostenveld.png`
+**Used in:** `npcs.md`, before the Chancellor's OGAS block
+
+**What it shows:** Chancellor Mira Ostenveld — a woman in her fifties, formal dress appropriate to authority, the weight of fifty years of governance visible in how she holds herself. Not imperious. Just very tired, very capable, and very aware of how little power matters when the problem is the sun itself.
+
+**Prompt suggestion:**
+> Portrait of a female city chancellor in her fifties, formal civic dress, seated in an official setting, amber lanternlight, the look of someone who has held things together through fifty years of crisis and is not sure she can hold them together through fifty-one. Oil painting, dark fantasy, grey and amber palette, authority and exhaustion coexisting.
+
+---
+
+### `npc-theron-waide.png`
+**Used in:** `npcs.md`, before Theron's OGAS block
+
+**What it shows:** Theron Waide — an older archivist, somewhere in his seventies, thin, with the slightly hunched posture of someone who has spent decades in low-ceilinged stacks. He looks like he's been awake too long for too many years. The eyes are the thing — intelligent, careful, carrying something.
+
+**Prompt suggestion:**
+> Portrait of an elderly male archivist, thin, slightly stooped, in dark scholar's robes, amber lanternlight, eyes that are intelligent and burdened, the quiet of someone who found something he shouldn't have found and has been deciding what to do with it ever since. Oil painting, dark fantasy, amber and deep shadow, the weight of knowledge as a physical thing.
+
+---
+
+### `npc-brother-edoran.png`
+**Used in:** `npcs.md`, before Edoran's OGAS block
+
+**What it shows:** Brother Edoran — a man in his sixties, still wearing Auris priestly vestments (grey-and-gold, somewhat worn), seated, hands clasped. The grief is not visible on his face. He has moved past the visible part of grief into something harder, quieter, more organized. He does not look like a fanatic. He looks like someone who has done the math.
+
+**Prompt suggestion:**
+> Portrait of an older male former priest, grey and gold vestments worn with time, seated with hands clasped, the look of someone who has moved past grief into something quieter and more resolved. Not a villain's face — just someone who has done the utilitarian math and arrived at a conclusion. Oil painting, dark fantasy, grey-gold and amber palette, solemn and very still.
+
+---
+
+### `npc-sera-voss.png`
+**Used in:** `npcs.md`, before Sera's OGAS block
+
+**What it shows:** Sera Voss — a woman in her fifties, practical clothing (not armor, not robes — what you'd wear if you were the person the neighbourhood calls before they call the watch), standing rather than seated. The look of someone who has spent decades in physical proximity to other people's crises and is deeply calm about it.
+
+**Prompt suggestion:**
+> Portrait of a woman in her fifties in practical working clothing — not a warrior's outfit, just good sensible clothes for someone who is out in the city every day — standing, amber lanternlight, the particular calm of someone who has talked many people down from many ledges and knows exactly what it costs. Oil painting, dark fantasy, ochre and amber palette, warmth and readiness coexisting.
+
+---
+
+### `npc-lira-cain.png`
+**Used in:** `npcs.md`, before Lira's OGAS block
+
+**What it shows:** Lira Cain — a woman in her fifties, healer's satchel visible, perhaps in the care house or at a desk with her compound notes. The expression is steady in the way that people who work around terminal illness develop steadiness — not numb, but disciplined. There is something in her face that is being held back.
+
+**Prompt suggestion:**
+> Portrait of a female healer in her fifties, healer's satchel over one shoulder, amber lanternlight in a stone room, the look of someone whose hands are steady because they have to be and whose face is holding something back. Not tragic — just present, and carrying more than she shows. Oil painting, dark fantasy, warm amber and grey-stone palette, the quiet weight of someone who heals what she can and lives with the rest.
+
+---
+
+### `varenhold-river-approach.png`
+**Used in:** `index.md`, at the very opening of the book
+
+**What it shows:** Varenhold seen from across the river — the city's full skyline, the Spire rising above everything else, amber lanterns visible along the walls and at the gate, the river flat and lightless in the foreground. The sky is the sourceless grey-amber of the twilight. No shadows anywhere. This is the first image in the book; it should set the whole tone.
+
+**Prompt suggestion:**
+> A medieval fantasy city seen across a broad river at amber twilight, no sun, sourceless grey-gold sky, stone walls with amber lanterns, a tall scholar's tower rising above, the water flat and reflecting nothing dramatic, a few figures on the near bank. The mood: a place where something important happened and has not been resolved. Full cityscape, cinematic composition. Oil painting, dark fantasy, amber and grey-blue stone, melancholy and scale.
+
+---
+
+### `the-dawnborn-public.png`
+**Used in:** `index.md`, near the "What Kind of Story This Is" section
+
+**What it shows:** Several Dawnborn at a public Dawnhall event — not a formal portrait, more of a candid scene. They are beloved. People are near them, children near the edges. But there is something in the Dawnborn's faces that the people around them don't quite see — they know what they are, and the city doesn't, not fully. The light they carry is slightly warmer than the ambient amber.
+
+**Prompt suggestion:**
+> Three or four adults at a communal gathering in amber lanternlight — the Dawnborn among an ordinary crowd at a Dawnhall event, beloved by the people near them, children at the edges, the Dawnborn's faces carrying something the crowd around them doesn't fully see. The light around the Dawnborn is slightly warmer. Oil painting, dark fantasy, warm amber and ochre, the weight of being loved for what you are when you don't know yet what that costs.
+
+---
+
+### `character-creation-table.png`
+**Used in:** `player-guide.md`, at the very opening
+
+**What it shows:** A gaming table seen from above or from the side — character sheets spread out, pencils, dice, a candle or lantern, the map of Varenhold visible. The atmosphere of before — before the session starts, before the choices are made. A cup of tea. The sense of possibility.
+
+**Prompt suggestion:**
+> A tabletop RPG setup seen from above — character sheets, pencils, dice, a hand-drawn map, a lit candle, a cup of tea, the particular atmosphere of a session that hasn't started yet. Warm candlelight, wooden table, papers and notebooks, the sense that something is about to begin. Oil painting style, warm amber and brown palette, intimate, the stillness before a story starts.
+
+---
+
+### `amber-workshop-interior.png`
+**Used in:** `trade.md`, before The Amber Workshop Economy section
+
+**What it shows:** Inside an amber lantern workshop — craftspeople at benches calibrating lanterns. Rows of lantern frames in different stages of completion. The warm glow of active amber crystals is the dominant light source — these workers spend their days in the closest thing Varenhold has to sunlight, which is the light of the thing they make.
+
+**Prompt suggestion:**
+> Inside a medieval workshop, craftspeople at long benches assembling and calibrating amber lanterns, the warm amber glow of active crystals lighting their work, rows of lanterns in various stages of completion, the smell implied by visual details (heat, metal, glass). The warmest interior in the city, ironically. Oil painting, dark fantasy, warm amber as the dominant palette, working people in a workspace that glows.
+
+---
+
+### `dawnhall-food-kitchen.png`
+**Used in:** `trade.md`, before The Dawnhall Food Network section
+
+**What it shows:** The communal Dawnhall kitchen at meal time — long stone tables, people of all ages eating together. The food is simple. The atmosphere is the particular mix of gratitude and exhaustion of people who are glad this exists and tired of needing it. A Dawnborn might be visible, serving or simply present.
+
+**Prompt suggestion:**
+> A large communal stone hall at a shared meal — long tables, people of all ages eating simple preserved food together, amber lanternlight, the mood of a community that has been doing this for fifty years and has complicated feelings about it. Possibly a Dawnborn figure in the background, warmly present. Oil painting, dark fantasy, amber and stone-grey, warmth and weariness together.
+
+---
+
+### `the-desperate-lowmark.png`
+**Used in:** `factions-guide.md`, before The Desperate section
+
+**What it shows:** A gathering of the Desperate movement in a Lowmark square — not a riot, not yet. People standing in the amber light, listening to someone speak from a step or a raised position. Signs or grey cloth visible. The faces of people who have been waiting for fifty years and have stopped being willing to wait quietly. There are children in the crowd.
+
+**Prompt suggestion:**
+> A crowd gathering in a medieval city square at amber twilight — ordinary people standing together, listening, some holding signs or grey cloth, children at the edges, the speaker visible from a raised position, no violence yet but the mood of people who have decided that patience has run out. Oil painting, dark fantasy, amber and grey, the texture of a movement at the tipping point.
+
+---
+
+### `council-hall-interior.png`
+**Used in:** `factions-guide.md`, before The City Council section
+
+**What it shows:** The Council Hall chamber — a long stone table with seven chairs, a carved city seal on the wall above the presiding officer's seat, high windows with the amber sky outside. The chamber is currently empty. It should look like it has seen fifty years of the same argument and has not resolved it.
+
+**Prompt suggestion:**
+> An empty medieval council chamber — a long stone table, seven chairs, a carved city seal on the wall above the head seat, high arched windows showing the sourceless amber sky outside, amber lanterns on the walls. The room of fifty years of governance and fifty years of failed resolution. Oil painting, dark fantasy, grey stone and amber light, institutional weight, the particular silence of an empty room where important things have happened.
+
+---
+
+### `session1-chancellors-study.png`
+**Used in:** `session1.md`, before Scene 1
+
+**What it shows:** The Chancellor's private study — a fire burning in the grate (the brightest light in the room), high windows showing the amber sky, a formal desk, two chairs. The request that is about to be made is somehow implied by the arrangement of the room. The Chancellor hasn't sat down yet.
+
+**Prompt suggestion:**
+> A private study in a civic building — a stone fireplace with a real fire burning, the brightest light in the scene, high arched windows with amber twilight outside, a formal desk, papers, two chairs arranged for a private meeting. The room of a person who is about to ask for something difficult. Oil painting, dark fantasy, firelight warmth against amber haze, the intimacy of a private office where public decisions get made.
+
+---
+
+### `session2-theron-disclosure.png`
+**Used in:** `session2.md`, before Scene 1: The Archivist Breaks
+
+**What it shows:** Theron's disclosure — the Archive's restricted level, a stone table with sealed documents unrolled on it, Theron standing across the table. He has finally said the thing he has been not saying for eleven years. The room is around him but he is the room. The documents on the table are the evidence.
+
+**Prompt suggestion:**
+> An older archivist standing across a stone table from an unseen viewer, sealed documents unrolled between them, amber lanternlight, the look of someone who has finally said the thing they've been not saying for eleven years. The Archive's restricted level visible in the background — shelves, deep shadow, the weight of everything that's been kept here. Oil painting, dark fantasy, amber and shadow, the specific quiet of a confession.
+
+---
+
+### `session3-isolde-lab.png`
+**Used in:** `session3.md`, before the Isolde's Lab section
+
+**What it shows:** Isolde Menth's laboratory — a cluttered third-floor Spire room. The resonance cage is the centrepiece: a brass-framework structure the size of a wardrobe, all exposed wire and joints glowing faintly. Specimen jars on a shelf. Papers pinned everywhere. The sense of work that has been done obsessively and without anyone's permission.
+
+**Prompt suggestion:**
+> A cluttered magical laboratory in a stone room — a large brass-framework resonance cage at the centre, glowing faintly at the joints, specimen jars on shelves (one contains a grey mouse, alive, wrong), papers pinned to every surface, the organized chaos of years of unauthorized research. Oil painting, dark fantasy, amber and pale blue-green glow, the workshop of someone brilliant and slightly out of control.
+
+---
+
+### `session4-reckoning-street.png`
+**Used in:** `session4.md`, before The Reckoning Strikes section
+
+**What it shows:** The Reckoning confrontation at the Ashring — Harran's people positioned at the plaza's edges, the players in the centre (implied), the amber-lit stones between them. This is the moment before the scene resolves one way or another. It could be a fight. It could be a conversation. The image doesn't show which.
+
+**Prompt suggestion:**
+> A tense standoff in a stone plaza at amber twilight — figures at the edges of a circle of scorched stones, the plaza itself between the parties, the moment before something decides which direction this goes. No weapons drawn yet. The faces of people who have made up their minds. Oil painting, dark fantasy, amber and shadow, the specific stillness of a standoff.
+
+---
+
+### `session5-ashring-assembly.png`
+**Used in:** `session5.md`, before The Ashring One Last Time
+
+**What it shows:** All ten Dawnborn gathered at the Ashring — the first time they've all been in the same place since they were born there. The ritual positions are visible in the stone. The city is visible at the edges, watching. This is the moment the whole campaign has been building toward. The image should feel enormous and very quiet.
+
+**Prompt suggestion:**
+> Ten adults standing at ten positions around a circle of scorched stones, facing inward, the city visible in the background at the plaza's edge, amber twilight, the Spire behind them. The ten who were born here, fifty years ago, now standing where it happened. The image of a decision that cannot be undone. Oil painting, dark fantasy, amber and grey stone, scale and silence, the specific weight of an ending.
+
+---
+
+### `ashfen-marsh-travel.png`
+**Used in:** `gm-tools.md`, before The Living World System section
+
+**What it shows:** The marsh road south of Varenhold — reed channels on either side, the amber sky reflected in still water, a traveller visible on the road ahead. The Ashfen Clans live here. They know things about the twilight that the Spire has been calling metaphor for fifty years. The image should feel like a threshold — entering territory where different knowledge applies.
+
+**Prompt suggestion:**
+> A causeway road through a flat marsh, amber twilight reflected in the water on both sides, reeds, a lone figure ahead on the road, the sourceless grey-gold sky above. The feeling of entering somewhere that operates by different rules. Oil painting, dark fantasy, grey-green and amber, the particular mood of threshold spaces, quiet and watchful.
+
+---
+
+### `moral-scorecard-table.png`
+**Used in:** `gm-tools.md`, before the Moral Dilemma Scorecards section
+
+**What it shows:** Six axes of choice arranged as a compass or table — consent vs. utility, loyalty vs. honesty, individual vs. collective, action vs. inaction, truth vs. mercy, justice vs. forgiveness. Not as a game graphic but as something that might actually be on a notepad, marked up across five sessions. The tool of pattern recognition.
+
+**Prompt suggestion:**
+> A handwritten tracking chart on parchment or aged paper — six rows of moral choice axes (consent/utility, loyalty/honesty, individual/collective, action/inaction, truth/mercy, justice/forgiveness) with handwritten marks across five columns representing five sessions, notes in the margins, amber candlelight. Not a computer graphic — a real document someone used across five evenings. Warm candlelight, aged paper texture, the look of something actually kept.
+
+---
+
+### `high-passes-shadow-cloth.png`
+**Used in:** `discovery-quests.md`, before The High Passes at Altitude location
+
+**What it shows:** A mountain holdsman showing a piece of worn cloth marked with shadow-lines — the calendar of forty-three events over five years where the light at altitude briefly cast real shadows. The cloth is the most important piece of evidence about the twilight's cycle that exists anywhere, and it's been kept by someone who found the Spire people rude.
+
+**Prompt suggestion:**
+> A mountain holdsman at altitude holding out a piece of worn cloth covered in careful pencil shadow-marks, a handwritten calendar visible beside him showing forty-three circled dates over five years, the grey-gold sky visible behind him with hints of something warmer in the light quality. The piece of evidence that exists outside any official record. Oil painting, dark fantasy, grey mountain stone and amber-gold light, the intimacy of someone sharing something they've kept carefully.
+
+---
+
 ## Replacing Placeholders
 
 When you have your generated PNGs ready:
