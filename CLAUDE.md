@@ -329,3 +329,89 @@ Three in-world essays, 500-600 words each, written by named Varenholder authors.
 - Apply theGreatGM principles: stakes in every scene, NPCs with want/fear/lie, secondary objectives in all combats, five-senses openings, encounter beats
 - When adding stat blocks, use D&D 5e format matching sessions 1-4
 - When adding named NPCs, use OGAS format matching npcs.md
+
+---
+
+## Audio Generation with Piper
+
+The campaign book supports embedded audio via piper-sample-generator. Audio files live in `audio/` (project root) and are automatically copied to `docs/audio/` on `quarto render` via the `resources` entry in `_quarto.yml`.
+
+### Tool Location
+
+```
+/home/chris/Documents/Projects/piper-sample-generator/
+```
+
+Available models:
+- `voices/en_US-lessac-medium.onnx` — American English, medium quality, single speaker. Reliable, fast.
+- `models/en-us-libritts-high.pt` — Multi-speaker PyTorch model, higher quality, supports speaker blending. Requires more memory.
+
+### Quick Start
+
+```bash
+cd /home/chris/Documents/Projects/piper-sample-generator
+source .venv/bin/activate
+
+python3 generate_samples.py "Your text here." \
+  --model voices/en_US-lessac-medium.onnx \
+  --max-samples 1 \
+  --output-dir /home/chris/Documents/Projects/visualization-curriculum/audio/
+```
+
+Output: `audio/0.wav` (22050 Hz, 16-bit mono). Rename immediately to something descriptive.
+
+### Key Arguments
+
+| Argument | What it does |
+|---|---|
+| `--max-samples N` | How many wav files to generate (cycles through variation parameters) |
+| `--length-scales 0.75 1.0 1.25` | Speaking speed: <1 faster, >1 slower |
+| `--noise-scales 0.667 0.9` | Voice variability; default 0.667 |
+| `--model path` | Use `.onnx` for single voice, `.pt` for multi-speaker generator |
+| `--output-dir path` | Where to write wav files (always use absolute path to `audio/`) |
+
+To generate multiple variations of the same text (useful for atmospheric variety):
+```bash
+python3 generate_samples.py "The sunrise bells have been silent for fifty years." \
+  --model voices/en_US-lessac-medium.onnx \
+  --max-samples 4 \
+  --length-scales 0.85 1.0 1.15 1.3 \
+  --output-dir /home/chris/Documents/Projects/visualization-curriculum/audio/
+# Produces 0.wav through 3.wav at different speaking speeds
+```
+
+### Naming Convention
+
+Name files descriptively before committing. Pattern: `[location-or-npc]-[brief-description].wav`
+
+Examples:
+- `opening-line.wav` — campaign opener read-aloud
+- `session1-archive-opening.wav` — Session 1 five-senses opener
+- `sera-voss-intro.wav` — Sera's first appearance read-aloud
+- `ashring-plaza-description.wav` — atmospheric location description
+
+### Embedding in Markdown
+
+Use a raw HTML audio element. Place it immediately after the relevant text passage:
+
+```html
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/filename.wav" type="audio/wav">
+</audio>
+```
+
+The `src` path is always relative to the document root (`audio/filename.wav`), not relative to the markdown file. This works correctly across all chapters because Quarto resolves resource paths from the book root.
+
+### What to Record
+
+Good candidates for audio in this campaign:
+- **Five-senses scene openers** at the start of each session (GMs can play these to open the scene)
+- **Key NPC introductions** — the first sentence a major NPC speaks
+- **Read-aloud passages** — any text marked as GM read-aloud to players
+- **Atmospheric location descriptions** — the Ashring plaza, the Lowmark Healing House, the Archive
+
+Do not record: GM-only content, mechanical rules text, or anything containing campaign secrets (audio files are player-visible in the HTML book).
+
+### Spoiler Rule
+
+Audio files embedded in player-facing chapters (Player's Guide, The World, The Sessions) must be player-safe. GM Toolkit chapters can reference audio if needed, but audio files are served in the public `docs/` directory — treat them as visible to players at all times.

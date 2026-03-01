@@ -8,6 +8,10 @@
 
 There is a city that has not seen the sun in fifty years.
 
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/opening-line.wav" type="audio/wav">
+</audio>
+
 Not darkness - the light is still there, sourceless and amber, suspended somewhere between dusk and a dawn that never arrives. You can read by it. You can work by it. Children play in it and call it normal, because they have never known anything else. The lanterns in the Dawnhalls burn day and night not because the streets are dark, but because people need to feel something warm.
 
 The city is called Varenhold.
