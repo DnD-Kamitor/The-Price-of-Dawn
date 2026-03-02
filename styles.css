@@ -1,10 +1,16 @@
+/* ============================================================
+   THE PRICE OF DAWN — Component Styles
+   Works alongside custom.scss for GM and player-facing boxes
+   ============================================================ */
+
 /* GM-Only Collapse Sections */
 details.gm-only {
   border: 2px solid #7a1a1a;
   border-radius: 6px;
   padding: 0.75em 1.25em;
-  margin: 1.5em 0;
+  margin: 1.8em 0;
   background: #fdf5f5;
+  box-shadow: inset 2px 0 0 #7a1a1a;
 }
 
 details.gm-only summary {
@@ -12,8 +18,8 @@ details.gm-only summary {
   font-weight: 700;
   cursor: pointer;
   user-select: none;
-  font-size: 0.85em;
-  letter-spacing: 0.08em;
+  font-size: 0.82em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 
@@ -23,11 +29,24 @@ details.gm-only[open] { background: #fdf0f0; }
 
 /* Player-facing callout boxes */
 .player-callout {
-  border-left: 4px solid #2a6496;
-  background: #f0f6fc;
-  padding: 0.75em 1.25em;
-  margin: 1em 0;
+  border-left: 4px solid #c9922a;
+  background: linear-gradient(to right, #fdf3e0, #fdf8f0 85%);
+  padding: 0.8em 1.25em;
+  margin: 1.2em 0;
   border-radius: 0 6px 6px 0;
+  box-shadow: 0 1px 3px rgba(201, 146, 42, 0.15);
+}
+
+.player-callout::before {
+  content: "Player Knowledge";
+  display: block;
+  font-size: 0.72em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #c9922a;
+  margin-bottom: 0.45em;
+  font-family: 'Cinzel', 'Palatino Linotype', serif;
 }
 
 .player-callout p { margin: 0; }
