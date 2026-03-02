@@ -942,6 +942,99 @@ The 5-Room Dungeon is not only for dungeons. It applies to any investigation sit
 
 ---
 
+## Start-of-Session Recap Template
+
+*Use this at the opening of each session. Read it aloud or adapt it into your own words. It takes about two minutes and prevents "wait, where were we?" from consuming the first twenty minutes of play.*
+
+*Fill this out before the session. The blanks are intentional — your answers will be different every time.*
+
+---
+
+### The Recap Format (One Page, Read Aloud or Summarized)
+
+---
+
+**"Last session, you..."**
+
+*(One sentence per significant player action. Three is usually enough. More than five is too many.)*
+
+1. ________________________________
+2. ________________________________
+3. ________________________________
+
+---
+
+**"Since then, the city has..."**
+
+*(What the Living World did while the players weren't watching. One action per active faction — only the ones that matter this session.)*
+
+- **City Council:** ________________________________
+- **Restorers / Reckoning:** ________________________________
+- **[Most relevant faction right now]:** ________________________________
+
+---
+
+**"The Dawnborn count stands at..."**
+
+*Willing: _____ / 10*
+
+*(Name any Dawnborn whose position changed since last session. Don't name those who haven't changed — it's easier to track delta than state.)*
+
+________________________________
+
+---
+
+**"One thing that's different today..."**
+
+*(One consequence from last session that has changed the situation. This is the sentence that tells players their choices mattered.)*
+
+________________________________
+
+---
+
+**"The question this session will ask you..."**
+
+*(The session's moral axis, stated plainly. Not a spoiler — a frame. Players know they're walking into a question, not a plot.)*
+
+________________________________
+
+---
+
+**"And you should know..."**
+
+*(Optional: one piece of ambient information about the city's current state. The crisis level, a rumor that's circulating, something visible. Makes the world feel alive before play starts.)*
+
+________________________________
+
+---
+
+### How to Use This Template
+
+**Filling it out:** Takes 5-10 minutes if you've run the previous session recently. If you're coming back after a gap, consult the tracker.md and your own session notes first.
+
+**Reading it aloud:** Read it slowly. Pause after each item. Players will interrupt with questions — that's good. Those questions tell you what matters to them.
+
+**Adapting it:** The format is a scaffold, not a script. If your players prefer a "previously on..." video game style, summarize. If they prefer immersive narrative, recast the items as in-world reports. If they prefer to do their own recap, hand them the previous session's items and let them reconstruct it.
+
+**The moral question:** This is the most important item. Name the question, not the answer. "This session asks: what does a community owe someone who chose this?" is a frame. "You need to decide whether to let Lira participate" is a directive. Frame it as a question.
+
+**What to skip:** If nothing changed for a faction between sessions, don't mention it. Silence is information — if you list all seven factions every session, players learn to filter you. Say less; say what changed.
+
+---
+
+### Quick Version (30 Seconds)
+
+*If you're short on time, cover exactly these four items:*
+
+1. **"Last session, the most important thing that happened was..."** (one sentence)
+2. **"Since then, the city moved..."** (one sentence about one faction)
+3. **"The Dawnborn count is now..."** (number, plus one name if it changed)
+4. **"This session's question is..."** (one sentence)
+
+That's it. Start playing.
+
+---
+
 ## Session Prep Cards: The 15-Minute Method Per Session
 
 *For each session: the minimum you need to have in your head before sitting down. Not pages of notes - just the three NPCs you need, the two beats you must hit, and one wild card.*
