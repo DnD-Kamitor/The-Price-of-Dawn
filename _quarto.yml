@@ -33,11 +33,6 @@ book:
         - session3.md
         - session4.md
         - session5.md
-    - part: "GM Toolkit"
-      chapters:
-        - running-the-campaign.md
-        - ai-tools.md
-        - gm-tools.md
     - part: "Player's Companion"
       chapters:
         - appendix.md
@@ -49,6 +44,11 @@ book:
         - travel.md
         - tracker.md
         - session-recording.md
+    - part: "GM Toolkit"
+      chapters:
+        - running-the-campaign.md
+        - ai-tools.md
+        - gm-tools.md
 
 format:
   html:
