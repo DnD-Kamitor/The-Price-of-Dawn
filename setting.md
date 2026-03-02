@@ -71,6 +71,13 @@ The Ashring quarter is quieter than it was, but still inhabited - a mix of longt
 
 **District Hook:** Meva the junior archivist has been cross-referencing the official record against a private account she found misfiled. The private account - written by a midwife who delivered three of the Dawnborn that night - contradicts the official record on two key points: the births happened before the ritual's backlash, not after, and all three mothers said they heard the same word in the moment of birth. The word is not recorded. Meva doesn't know what to do with this.
 
+**What you might see here:**
+- A stonemason cleans the scorch stones twice a week — not restoring them, just keeping them from getting worse. She can't explain why she feels responsible.
+- A group of children taking turns standing in the center of the scorch circle with their eyes closed. "I'm trying to feel it," one says. Neither they nor anyone nearby knows exactly what they're trying to feel.
+- Two Auris priests — one Penitent, one Wounded — arguing quietly on the plaza steps. They are clearly old friends. They are clearly not going to agree.
+- A traveling artist sketching the scorch pattern for a Compact commission. "The most important thing that happened in the last hundred years," they said. She doesn't seem certain they're right.
+- A child asking their parent what the marks are. The parent explains the ritual. The child asks: "Did anyone get hurt?" The pause before the answer is visible from thirty feet away.
+
 ---
 
 ### The Lowmark
@@ -101,6 +108,13 @@ The Lowmark is where the city's survival infrastructure lives. People here work 
 | 6 | Orya Doss is doing a Dawnhall supply run - she's carrying an unreasonable amount of preserved goods in a pack and looking calm. If the players offer to help, she accepts without ceremony and tells them everything she knows about the district's situation. |
 
 **District Hook:** Wess's fifteen-year food ledgers contain an anomaly: a three-year period roughly a decade ago when the food supply briefly stabilized, even slightly improved. The cause was never identified. The stabilization ended abruptly. No one has investigated. If the players do: the period corresponds to when three of the ensemble Dawnborn (Davin, Nin, and Cormac) were spending regular time in the Lowmark Dawnhall. Their presence - their Lux Anchor energy, ambient and uncontrolled - was slightly improving crop growth in the surrounding gardens.
+
+**What you might see here:**
+- A healer from the Guild doing a free street consultation because the person couldn't make it to the care house. Other people watch respectfully from a few feet away. One of them is also ill. She doesn't approach.
+- A woman selling homemade "treatment compound" from a cart. The compound is marsh herbs and wishful thinking. A Guild practitioner watches from across the street, deciding whether to intervene.
+- Children playing a game where one is Sera (protecting the others), one is Tomas (settling disputes about the rules), and one is Lira (telling anyone who gets "hurt" that they'll be okay).
+- The Grain Measure's evening ledger posted publicly by Dawnhall tradition. A small crowd reads it. The numbers are worse than last month. Three people in the crowd understand exactly what this means.
+- Cormac Drell supervising an unloading at the docks — visibly stronger and faster than the dock workers, apparently unaware of the gap. He treats helping when a crate slips as unremarkable.
 
 ---
 
@@ -135,6 +149,13 @@ The Spire Quarter is a bubble. The people who live and work here have spent fift
 
 **District Hook:** The Spire has been monitoring the Dawnborn's energy levels (passively, without their knowledge or consent) for thirty years using a long-range resonance tracker. The records show that Dawnborn energy depletion has accelerated in the last two years - by approximately 300%. This is not being reported to the Council. Keseph suppressed it because it undermines his research timeline. A junior scholar named Maret knows about the suppression and is looking for someone trustworthy to give the records to.
 
+**What you might see here:**
+- A junior scholar conducting an outdoor experiment involving a lux-measurement device and amber plates. She looks frustrated — the device isn't producing expected results. She'll explain at length to anyone who asks, and is visibly relieved to have someone to explain it to.
+- Two scholars debating loudly in the reading room about the twilight's mechanism. One says it's a sympathetic void. The other says it's a direct inversion. They are both partially right. Neither knows this.
+- A graduate student noting that Isolde Menth's light has been on late three weeks in a row. She only does this when she's close to something.
+- A former Spire student waiting to see if her old thesis advisor will meet with her. The advisor left two years ago. Nobody has told her yet.
+- The weekly faculty coffee hour audible from the hallway — a heated argument about whether the Compact's research funding creates an obligation to share results. The underlying argument is about something else entirely.
+
 ---
 
 ### The Dawnhalls District
@@ -165,6 +186,13 @@ The Dawnhalls district is the most functional place in Varenhold. It is not the 
 | 6 | The Lantern Workshop is having a shift change. The outgoing workers are singing - a lantern-carrier's song, rhythmic, worn smooth by repetition. The incoming workers join halfway through. |
 
 **District Hook:** The memorial room contains a photograph of a woman who died of grey sickness four years ago. Her name is Annem Edoran. Brother Edoran has never visited the memorial. Players who discover the connection and bring it to him carefully may unlock a significant shift in his attitude.
+
+**What you might see here:**
+- The morning meal being served. The queue is longer than yesterday. The kitchen manager is quietly counting portions and doing math she doesn't like the answer to.
+- Sera Voss eating breakfast in the public hall — not a separate room, just sitting with people. A child has come to sit next to her and is explaining their week. She's listening with her whole body.
+- A notice posted about the food stores: 37%, down from 40% last week. Someone wrote in small letters at the bottom: "This is not fine." The note has not been taken down.
+- Neighbors doing maintenance on a shared building. Not organized, no meeting called — they just showed up because the window needed fixing. This is how most Dawnhall maintenance gets done.
+- Lira passing through on her way to the care houses, tired in the way of someone always tired. A neighbor stops her to ask about her daughter; the warmth that crosses her face for about three seconds before she answers is genuinely arresting.
 
 ---
 
@@ -197,6 +225,13 @@ The Outer Ring is where power is performed. People who work here are aware of st
 
 **District Hook:** The temporary wall dividing the Cathedral was built over the original altar - which is also, according to Corven's original ritual documents, one of the three backup resonance nodes for the ritual. The inversion pathway can technically be triggered from the Cathedral as a secondary site if the Ashring is somehow unavailable. This has not been discovered because the wall built over the altar has been there for twelve years. The Wounded faction's head priest knows something is under the wall. He has not told the Penitents. He has been waiting for a reason to open it.
 
+**What you might see here:**
+- The two Cathedral choirs competing simultaneously. The sound is extraordinary — not pleasant, but striking. Passersby have stopped in the street. Neither choir will stop first.
+- A street performer playing a *lanternhalt* ballad in the Highmark arcade. Small audience. The unresolved final chord lands and nobody moves for a long moment afterward.
+- A nobleman who left Varenhold fifteen years ago walking through the Highmark comparing what he sees to his memory. He keeps stopping at things that no longer match. He isn't distressed — he's genuinely curious.
+- The Council Registrar's queue: a grey sickness patient needing care house priority, a merchant with a Compact dispute, and a third person who has been waiting three months for a different matter and is here again.
+- The Chancellor's window is lit early. A citizen who passes it every morning has developed a superstition: if it's lit before the first bell, it's a difficult day. He's been right more often than chance.
+
 ---
 
 ### The Ashfen Gate District
@@ -227,6 +262,13 @@ The Ashfen Gate district is the most transient part of Varenhold - people are al
 | 6 | The Wanderer's Wayshrine outside the gate has fresh offerings this morning - food, small coins, a child's toy. Someone traveling in great need passed through the gate last night. The gate guard doesn't know who. |
 
 **District Hook:** Helka's twenty-year guest book contains an entry from eleven years ago - the same year Theron Waide decoded the ritual's cost. A traveler signed in under a false name (obvious, the handwriting is forced) and stayed two nights. Their notes in the margins of the guest page mention "documents transferred" and "Archive contact confirmed." Helka has never investigated. The false name used is close to an Arveth Compact merchant family name.
+
+**What you might see here:**
+- A caravan from the Dusk Parishes just arrived. The driver is carrying unofficial Parish correspondence alongside the official goods and is trying to find someone to take it without questions.
+- A pilgrim freshening the Wanderer's Wayshrine just outside the gate. He ties a yellow cord to the railing — traveler's courtesy, requesting safe passage. Several other cords are already there.
+- A group of Dusk Parish children at the gate for market day, looking at everything with enormous eyes. One walks to the edge of the amber lantern light and back again, testing where it ends.
+- An Ashfen Clan Wadewalker waiting for customs clearance on marsh herbs. While she waits she writes in a small notebook — documenting changes in the city's ambient magical field. Her third visit this year.
+- More activity than usual at the Restorer compound. People coming and going, something being organized. A neighbor who has been watching the compound for years says this is new. She doesn't know what changed.
 
 ---
 

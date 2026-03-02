@@ -6,7 +6,8 @@ Quick-reference tools for running The Price of Dawn: random encounters, NPC trac
 
 ## Random Encounter Tables
 
-### Twilight City Encounters (Urban - Any Session)
+<details class="gm-only">
+<summary>GM Only — Twilight City Encounters (d12, Any Session)</summary>
 
 Roll 1d12 when the players are moving through Varenhold without a specific destination.
 
@@ -25,7 +26,10 @@ Roll 1d12 when the players are moving through Varenhold without a specific desti
 | 11 | A child gives the players a flower - a twilight bloom, a variety that only grows in the amber half-light. She says it's the prettiest flower she knows. It is pretty. |
 | 12 | A mage from the Spire Quarter stops the players and asks - politely but intensely - if the rumors about the Dawnborn are true. He has a theory. His theory is wrong but adjacent to right in an interesting way. |
 
-### Ashfen Marshes Encounters (Travel - Sessions 2–4)
+</details>
+
+<details class="gm-only">
+<summary>GM Only — Ashfen Marshes Encounters (d6, Sessions 2–4)</summary>
 
 For travel to or from the Ashfen Gate or the Restorer compound.
 
@@ -37,6 +41,8 @@ For travel to or from the Ashfen Gate or the Restorer compound.
 | 4 | A patrol of city guards is watching the Restorer compound from a distance. Their orders are to observe only. They are bored and want company. |
 | 5 | A grey heron stands in the marsh looking at the players with enormous patience. There is nothing supernatural about this. It is just a heron. It is very compelling. |
 | 6 | A cart has broken down. A merchant is unloading grain sacks into the mud, swearing. The grain is 20% of the Lowmark's supply for this week. |
+
+</details>
 
 ---
 
@@ -57,7 +63,8 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 
 ---
 
-### The Ashring Quarter: d10 Social Encounters
+<details class="gm-only">
+<summary>GM Only — The Ashring Quarter: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -72,9 +79,12 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 | 9 | Someone has left a dozen candles burning in the scorch circle - not the formal Remembrance ceremony, just someone who came and lit candles. A city worker is deciding whether to extinguish them. He decides not to. |
 | 10 | A child is asking their parent what the marks are. The parent is explaining the ritual. The child asks: "Did anyone get hurt?" The parent's pause before answering is visible from thirty feet away. |
 
+</details>
+
 ---
 
-### The Lowmark: d10 Social Encounters
+<details class="gm-only">
+<summary>GM Only — The Lowmark: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -89,9 +99,12 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 | 9 | A Parish delegate - not Harrow Seld, a younger one - is asking questions at the docks about barge schedules. She seems to be counting something. If the players ask what she's counting, she says: "How much food left the city this week that didn't come back." |
 | 10 | The Grain Measure's evening ledger is being posted publicly (per Dawnhall tradition). A small crowd is reading it. The numbers are worse than last month. Three people reading the list know exactly what this means. Their faces show it. |
 
+</details>
+
 ---
 
-### The Spire Quarter: d10 Social Encounters
+<details class="gm-only">
+<summary>GM Only — The Spire Quarter: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -106,9 +119,12 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 | 9 | A scholar is leaving the Spire carrying a box of personal items. She resigned this morning. She doesn't explain why to anyone, but her face says "I have been here long enough." |
 | 10 | The weekly faculty coffee hour is audible from the hallway - a heated disagreement about whether the Compact's continued funding of the Spire's research constitutes an obligation to share results with the Compact. The underlying argument is about something else entirely. |
 
+</details>
+
 ---
 
-### The Dawnhalls District: d10 Social Encounters
+<details class="gm-only">
+<summary>GM Only — The Dawnhalls District: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -123,9 +139,12 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 | 9 | Lira is passing through on her way to the care houses. She looks tired. She is always tired. A neighbor stops her to ask how her daughter is doing; the warmth that crosses Lira's face for about three seconds before she answers is genuinely arresting. |
 | 10 | The evening community meeting is winding down. The vote on something minor (which lantern routes to expand next month) went smoothly. The vote on something major (whether to formally request the Council address the food supply in public session) did not. The room still has some of that energy in it. |
 
+</details>
+
 ---
 
-### The Outer Ring: d10 Social Encounters
+<details class="gm-only">
+<summary>GM Only — The Outer Ring: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -140,9 +159,12 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 | 9 | A nobleman who left Varenhold fifteen years ago is walking through the Highmark comparing what he sees to his memory. He keeps stopping and looking at something that no longer matches. He is not distressed about this. He is genuinely curious. |
 | 10 | A Dawnhall supply cart is making deliveries to the Outer Ring's private care house (for wealthy patients who don't use the public care houses). The driver is Cormac Drell. He makes this run once a week because someone has to and he wanted to be the person doing it. |
 
+</details>
+
 ---
 
-### The Ashfen Gate District: d10 Social Encounters
+<details class="gm-only">
+<summary>GM Only — The Ashfen Gate District: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -157,9 +179,12 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 | 9 | A former Reckoning member is leaving the city. He has a bag, he has a direction, and he is not looking at anyone. If stopped by the players (who may have met him in an earlier session), he says: "Some of us figured out we were wrong. Some of us didn't." He does not explain further. |
 | 10 | The Restorer compound is visible from the gate. Today there's more activity than usual - people coming and going, something being organized. A neighbor who has been watching the compound for three years says this is a new level of activity. She doesn't know what changed. |
 
+</details>
+
 ---
 
-### Overheard Conversations: d8 by Session
+<details class="gm-only">
+<summary>GM Only — Overheard Conversations: d8 by Session</summary>
 
 *Roll when players pass through any public space and you want ambient information. Mark each as A (accurate), D (distorted), or F (fabricated).*
 
@@ -201,6 +226,8 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 | 6 | "There's a compound that accelerates the sickness. Someone's making it on the black market." | A (Mave's bad batch problem) |
 | 7 | "One of the Dawnborn has already said yes. Someone told me." | D (more than one; the source doesn't know who) |
 | 8 | "The Compact has been paying someone in the Spire. Someone important." | A |
+
+</details>
 
 ---
 
