@@ -1,6 +1,6 @@
 # Factions & Public Knowledge
 
-*This chapter is fully player-safe. It describes only what a newcomer to Varenhold could reasonably learn in the first few weeks - public reputation, where to find people, what they say they want.*
+*This chapter covers what your characters can learn through ordinary observation and interaction. The public face of each faction is visible here. The GM truth layers — true agendas, internal splits, real leadership dynamics — are in the collapsed sections below each faction.*
 
 ---
 
@@ -17,6 +17,28 @@
 **How to get an audience:** Formal petitions through the Council Registrar in the Highmark district, on Seconday and Fourthday mornings. Emergency matters can be flagged to the Chancellor's aide, a young man named Perrin who is overworked and sympathetic. Trade matters route through the Compact liaison office. Security matters to the Guard Captain. An introduction from any recognized faction leader significantly accelerates the process.
 
 **What they're known for:** Emergency food distribution infrastructure, the Dawnhalls system, maintaining scholarly neutrality, the long-term aid negotiations with Solenne. Less admirably: a decade of expensive Spire research grants that have produced papers but not solutions.
+
+> **Trust gate:** The Chancellor's private meetings and candid views are available only after the players have demonstrated they can handle difficult information without causing a crisis. Bring her evidence, not just questions — and understand that what she tells you in private may not match her public position.
+
+<details class="gm-only">
+<summary>GM Only — City Council: True Agenda & Internal Splits</summary>
+
+**True agenda:** The Chancellor wants the ritual resolved on terms that don't destroy the Dawnborn publicly — but she will accept a forced resolution if the alternative is the city's collapse. She has a fragment of Corven's original ritual notes and knows the cost is real. She hired the players specifically because they're outsiders who can absorb the political consequences of finding the answer she can't look for directly.
+
+**Internal Council splits:**
+- *Pragmatists* (Ostenveld, Holt, Ashby): Resolve the ritual on whatever terms are achievable. Dawnborn consent is ideal, not required.
+- *Moralists* (Solm, and one swing vote): Dawnborn consent is required, full stop. A forced ritual is not an acceptable outcome regardless of outcome.
+- *Swing vote* (Maret Lonn): Has not committed. Is waiting for more information. She has evidence of Keseph's Solennite funding and has not used it yet.
+
+**What the Chancellor knows but hasn't said:**
+- The food stores will hit rationing threshold in approximately four months. When rationing begins, the Desperate loses its moderate wing. She is watching this clock.
+- She has been in indirect contact with Edoran through a third party (not Perrin). She does not know that Renn Vask overheard a separate channel between Harran and someone in her staff.
+
+**Keseph:** Warden Keseph (Spire Theoretical Division) has been receiving Solennite funding through a private channel for six years. The Chancellor is aware this is possible but has not confirmed it. Maret Lonn has confirmed it and has said nothing yet.
+
+**The contingency:** The Chancellor has identified a secondary ritual site at the old Founding Plaza if the Ashring is compromised. This is the "contingency" Renn Vask overheard referenced. It is not an alternative to the Ashring — it is a backup location if the Reckoning destroys the primary site.
+
+</details>
 
 ---
 
@@ -38,6 +60,30 @@ The three Dawnborn most publicly visible:
 
 **The Dawnhalls** are associated with the Dawnborn but not run by them - they're city infrastructure. The name reflects the timing of their founding (during the early years of the twilight) and the Dawnborn's involvement in their establishment, not an ongoing governance role.
 
+> **Trust gate:** You can meet any of the Dawnborn without a check — they're public figures. What they'll actually say about the ritual, and about themselves, requires treating them as people rather than symbols. Their genuine trust takes time, and it's worth the investment.
+
+<details class="gm-only">
+<summary>GM Only — The Dawnborn: True Internal Dynamics</summary>
+
+**What the public doesn't know about each Dawnborn's current position:**
+
+- **Sera Voss:** Has been willing for six months. Has not told anyone. Is waiting for the right moment to say it out loud, because once she does, it's real.
+- **Tomas Areth:** Has calculated the asymmetry (five surge-phase anchors carry twice the load of the other five). Has prepared a will. Has not shared his findings. The Asymmetry Journal is the Session 4 discovery.
+- **Lira Anwick:** Has privately decided she would say yes if no alternative survives — but has told no one, because doing so makes it real, and her daughter is three years old.
+- **Ysel Maren:** Told Edoran yes months before the campaign starts. Has been waiting for someone to ask whether her consent was genuinely free.
+- **Davin Shore:** Effectively willing; frames it as "not afraid of the alternative" rather than willing. Hears a low hum that has been getting louder.
+- **Cormac Drell:** Told Edoran yes nine weeks ago. Is now privately wavering and terrified of saying so.
+- **Aldric Stone:** Skeptical of the evidence. Will accept it when provided with physical, demonstrable proof. Cried alone when he was finally convinced.
+- **Orya Doss:** Conditional — believes the problem hasn't been mapped correctly. The Spire subbasement she's found in her mapping discrepancies may matter.
+- **Nin Fletch:** Pragmatic; will commit if he believes it's the most ethical path. His Archive theft history may become relevant.
+- **Petra Vane:** Has been hiding in the Dusk Parishes for two years. Is not running from the decision — she needed distance to think without pressure. Finding her is Session 4.
+
+**What the Dawnborn collectively know:** Nothing. They have not all spoken to each other about the ritual's true cost. Sera, Tomas, and Lira have each reached their conclusions independently. None of the ten has had an honest conversation with the others about what they each believe or what they've privately decided.
+
+**The silence is significant.** Part of the campaign's moral weight is that ten people have been carrying this alone, in parallel, for months. The players may be the first people who speak to all ten.
+
+</details>
+
 ---
 
 ## The Restorers
@@ -51,6 +97,27 @@ The three Dawnborn most publicly visible:
 **Where to find them:** Sevenday evening meetings at the Auris temple's public hall. Their pamphlets appear on Dawnhall notice boards throughout the week. The Restorers have a small coordination office in the Highmark district that is technically a "scholarly society" for administrative purposes. Ask at the Auris temple; the Wounded-faction clergy are sympathetic and will direct you.
 
 **How to be seen as an ally vs. a threat:** Show up to a meeting, introduce yourself, ask questions before offering opinions. The Restorers have dealt with enough people who parachuted in claiming to have solutions that they are appropriately skeptical of newcomers with answers. People who demonstrate they understand the complexity of the situation get further than people who arrive confident. If you're representing a church or scholarly institution with relevant expertise, say so early.
+
+> **Trust gate:** Getting past the public meetings and reaching Edoran requires attending at least two sessions and demonstrating genuine commitment — not clever arguments. He's not hiding. He's vetting. The introduction to the inner circle comes after you've earned it.
+
+<details class="gm-only">
+<summary>GM Only — The Restorers: True Agenda & Internal Splits</summary>
+
+**Three factions within the Restorers:**
+
+- *The Grieving* (largest group): Members who have lost people to grey sickness. They are driven by personal loss and believe the ritual is a moral obligation. Edoran leads this group. They want consent — they are not willing to force anything. They are organized around grief, and grief has limits.
+
+- *The Idealists* (second-largest): Principled advocates who believe the ritual is right in principle regardless of personal stakes. They are the most patient and the most likely to accept a slower path if one becomes available.
+
+- *The Fanatics* (a minority, led by a man named Jaret): Willing to use force. They have not told Edoran the full extent of what they're planning. Edoran suspects but has not confirmed. If the players discover the Fanatics and report them to Edoran, he will be shocked and will take action — but he will also be forced to acknowledge that he has been less in control of his own organization than he believed.
+
+**Edoran's real position:** He is not above strategic deception. He has made it very hard to say no to the ritual without forcing anything. He believes the distinction between "creating conditions where consent becomes inevitable" and "coercion" is morally meaningful. Players may disagree. His journal entry (deep-archive.md) reveals that he is not certain he's right.
+
+**The Harran connection:** Edoran has been in contact with Harran through at least two intermediaries over the past year. He believes Harran's methods are wrong. He has not cut contact because he still believes Harran's timeline diagnosis is correct. This is a significant moral compromise he has not examined carefully.
+
+**What the Restorers know about the ritual cost:** Edoran knows. The Grieving leadership suspects. The Idealists and Fanatics have not been told. This is a deliberate choice on Edoran's part — he does not believe the rank and file can hold this information without fracturing.
+
+</details>
 
 ---
 
@@ -68,6 +135,23 @@ The three Dawnborn most publicly visible:
 
 **How to be seen as an ally vs. a threat:** Do not arrive representing the Council, the Spire, or a foreign government. Be direct about what you can offer. The Desperate are experienced at identifying people who want to use them for someone else's purposes, and they are not interested in being managed. If you're genuinely sympathetic to the cause and honest about your limitations, they respond to that. If you're trying to gather intelligence about them, assume they already suspect it.
 
+> **Trust gate:** The Desperate don't have a front door. Help with a real problem first — securing food, treating patients, delivering information they can't get themselves. The inner network opens when you've demonstrated genuine stakes.
+
+<details class="gm-only">
+<summary>GM Only — The Desperate: True Agenda & Leadership</summary>
+
+**True leadership:** The Desperate's Lowmark network is led by a woman named Nessa. She is not the visible face — the visible faces are rotating organizers who absorb legal risk. Nessa is the strategic center. She has been organizing in the Lowmark for twenty years. She knows the grain supply numbers better than the Council does.
+
+**The Grain Measure ledgers:** Nessa has maintained a parallel record of actual food distribution vs. official numbers for twelve years. The discrepancy — what the Council says is distributed vs. what arrives in the Lowmark — is approximately 15-20% consistently. This is not dramatic corruption; it is the accumulated effect of inefficiency, informal skimming at multiple levels, and bad-faith measurement. The ledgers are the most politically dangerous document in the city that most people don't know exists.
+
+**The trigger:** If food rationing is announced — which happens when stores hit 20% capacity, approximately four months from campaign start — Nessa loses control of the moderate wing. Not because she loses her argument, but because people who have been managing their grief through hope will, at rationing, switch to managing it through action. She has said this publicly. She has said it privately. She means it and she is not exaggerating.
+
+**The moderate/radical split:** The Desperate has people who believe the ritual is the right answer (aligned with the Restorers) and people who believe it doesn't matter — that the immediate problem is the food supply and the governance failure, and the ritual is a distraction from organizing for practical change. Nessa is personally in the latter camp but leads both groups. The split becomes critical if the players try to use the Desperate for ritual-related pressure.
+
+**What they don't know:** The Desperate have no intelligence on the Reckoning's actual plans or capabilities. They know the Reckoning exists. They think it's a small group of people who are angry in an unproductive way. They are significantly underestimating it.
+
+</details>
+
 ---
 
 ## The Healers' Guild
@@ -81,6 +165,23 @@ The three Dawnborn most publicly visible:
 **As an information source:** The Healers see more of Varenhold than almost anyone else. Their practitioners move through every district, every social class, every faction. They hear things in care houses that people say without thinking. Guild policy prohibits practitioners from sharing patient information, but the Guild collectively has a very accurate read on the city's real condition - the spread of grey sickness, the stress in different communities, what people are actually afraid of. A relationship with a guild practitioner is valuable. They will not share confidential information, but they will tell you what they can observe, and what they can observe is considerable.
 
 **How to get access:** The Healers' Guild headquarters is in the Highmark district. Walk in. They take volunteers and welcome observers (non-intrusively) in their public care spaces. If you have healing training, the Guild administrator will probably have you doing useful work within an hour. If you have relevant research expertise (arcane, alchemical, herbal), the guild's research arm is worth meeting. If you just want to ask questions, be patient and be honest about why.
+
+> **Trust gate:** The Guild's full research data — the real numbers on grey sickness progression, the cases Sevra Dain hasn't reported — becomes available once you've demonstrated you'll handle it responsibly and won't weaponize it for factional purposes.
+
+<details class="gm-only">
+<summary>GM Only — The Healers' Guild: True Agenda & Hidden Data</summary>
+
+**Sevra Dain's real numbers:** The grey sickness rate has increased 23% over the last two years. The Council's official numbers are 15%. Sevra counts her own patients. She has not corrected the official numbers publicly because doing so would trigger a political crisis she doesn't believe would help the patients currently in front of her. This is not corruption — it is a judgment call she will defend and does not feel good about.
+
+**The proximity correlation (Tier 4 information):** Sevra has tracked that patients who spend significant time near a Dawnborn progress through Stage 1 at one-third the normal rate. She has not published this because the implication is uncomfortable — and because she doesn't know what it means for what happens to grey sickness patients if the Dawnborn die in the ritual. If the Lux energy releasing into the solar mechanism has the same proximity effect at scale, it might significantly benefit Stage 1-2 patients. If it doesn't, those patients lose their primary source of progression slowdown simultaneously. She is sitting on this data because she doesn't trust herself to be objective about it. (See knowledge-tiers.md, Grey Sickness Tier 4, for the full implication.)
+
+**The waterway data:** Sevra has been tracking a pattern suggesting an environmental cause specific to the Lowmark waterways that accelerates Stage 2 progression. She hasn't reported it because she doesn't know what to do with the information and is afraid of the political consequences. This is solvable with DC 15 Investigation + access to her records. She will cooperate if players ask about it directly.
+
+**Lira's compound issues:** Two confirmed cases of grey sickness acceleration from black market versions of Lira's compound. Sevra knows about both. She has not reported them publicly to protect Lira — and because reporting them would create a public health panic that discredits the only effective treatment available.
+
+**What the Guild knows about the ritual:** Nothing specific. They know the ritual involves the Dawnborn and is being actively investigated. Sevra suspects the Dawnborn's proximity effect is mechanically relevant to both the grey sickness and the ritual's resolution. She has not shared this with anyone, including the players, until trust is established.
+
+</details>
 
 ---
 
@@ -96,6 +197,24 @@ The three Dawnborn most publicly visible:
 
 **How to get access:** The Spire has public lecture days every Firstday afternoon, open to any Varenholder. The library's general collection is publicly accessible with a day-pass from the front desk. The research archives require a formal scholarly introduction or a Council authorization. Individual scholars are approachable in the public reading rooms and at the weekly faculty coffee hour (Fifthday morning, the Spire's ground floor common room) - they are more forthcoming one-on-one than they seem in institutional contexts. Having relevant expertise to offer, or questions that advance their research rather than just requesting information, is the best approach.
 
+> **Trust gate:** The restricted research archives need formal authorization or a senior scholar's introduction. Isolde Menth can shortcut this if you have something useful to offer. Warden Keseph controls a gated section of the Theoretical Division — getting past him requires either the Chancellor's authorization or leverage he doesn't expect you to have.
+
+<details class="gm-only">
+<summary>GM Only — The Spire Scholars: True Agenda & Internal Splits</summary>
+
+**Warden Keseph:** The head of the Theoretical Division has been receiving Solennite funding through a private channel for six years — approximately 800 amber script in total. The funding comes through a Compact intermediary to a personal account. In exchange, Keseph has been managing which theories receive institutional support and which don't. Specifically: Isolde's transfer method has been starved of resources, and the competing Theorist faction (which would produce papers validating Solennite's position that the ritual cannot be safely resolved) has been amplified. This is the "Keseph payment trail" in the Session 3 Investigation check (DC 16). Maret Lonn already has this evidence. She hasn't used it.
+
+**Three competing teams:**
+- *Keseph's Theorists:* Believe complete formal understanding is required before any action. Currently publishing papers that find new complications in the inversion path. Keseph has been quietly guiding this team toward "interesting problems" that delay a resolution date. He genuinely believes in careful theory — he is not entirely cynical — but his funding has distorted which careful theories he supports.
+- *Isolde's Practitioners:* Believe the transfer method is viable and should be tested. Believe Keseph's team is using rigor as cover for political obstruction. They are correct about the obstruction and nearly correct about the transfer method — their mortality estimate is 15-20% rather than the stated 20-30%, and Isolde knows this.
+- *The Architects of the True Dawn (secular):* Split from the Spire proper fifteen years ago over the Theorist/Practitioner divide. They have been working independently and have made progress that neither main faction knows about.
+
+**Isolde's hidden number:** Her transfer method's mortality risk is 15-20% probability that one or two Dawnborn anchors become unstable during the transfer process and the ritual takes the destructive path for those individuals. She has been trying to resolve this. She has not yet succeeded. She presents the method to players as "approximately 20-30% risk" — overstating it slightly in the hope that the additional scrutiny will help her find the flaw. She wants to be wrong about the risk.
+
+**What the Spire knows about the ritual:** The most technically accurate picture of any faction — except for the Ashfen Clans, whose oral tradition maps the mechanism more accurately. The Spire knows the inversion path exists. They have three competing theories about what it requires. None has been tested. Tomas Areth's asymmetry calculation, when players bring it to the Spire, will be the first genuinely new data they've received in four years.
+
+</details>
+
 ---
 
 ## The Merchants' Compact
@@ -109,6 +228,23 @@ The three Dawnborn most publicly visible:
 **As an information source:** The Compact knows who's doing business with whom throughout the Reaches. They track supply chains, political relationships that affect trade, and movements of goods that sometimes have significance beyond their commercial value. A Compact contact who trusts you can tell you things about the regional political situation that aren't available anywhere else. The Compact charges for everything, including information - sometimes literally, sometimes in favors, sometimes just in the form of a relationship obligation. Nothing is free.
 
 **How to get access:** The Compact House is in the Highmark district, adjacent to the old Exchange building. Walk in during business hours and state your business. If you're a merchant or represent commercial interests, you'll be treated as a peer. If you're something else, you'll be treated as a potential client or a potential complication, both of which have their uses. Having a letter of introduction from any Compact member anywhere in the Reaches is worth a great deal.
+
+> **Trust gate:** Saret Onn's real position — what the Arveth Compact actually plans to do depending on the ritual's outcome — requires building a transactional relationship first. The Compact trades information for information. Know what you're offering before you ask.
+
+<details class="gm-only">
+<summary>GM Only — The Merchants' Compact: True Agenda & Economic Pressure</summary>
+
+**Saret Onn's real position:** He personally wants the ritual resolved. He understands the economics better than almost anyone outside the Compact: Varenhold has approximately four to six months before the credit-writ system becomes unstable, which happens when the Arveth Compact withdraws its guarantee. The Compact will do this when the food stores hit 20% capacity — not because it is punitive, but because the Compact's risk assessment at that point makes the guarantee unsupportable. Saret knows this number. He will not volunteer it. He will confirm it if players demonstrate they already know the general shape of the problem.
+
+**What the Compact will do if the ritual succeeds:** Renegotiate Varenhold's trade status from emergency partner to full partner within six months. Property values in Varenhold would increase significantly within five years. The Compact has already prepared draft terms. This is what "first-mover advantage" means in the twenty-five-year-old trade report (Document A7 in deep-archive.md).
+
+**What the Compact will do if the ritual fails indefinitely:** Begin transition planning for alternative northern routes. Withdraw the credit-writ guarantee at the food rationing trigger. This would collapse Varenhold's formal credit economy within months of rationing beginning — a compounding crisis on top of a food crisis.
+
+**Factor Dara Mell:** The current Compact factor in Varenhold (not Saret Onn, who is the senior representative — Mell handles the day-to-day analysis). She has an updated version of Document A7, with numbers that are significantly worse. She does not leave it where people can find it. If players somehow access it (DC 18 Investigation of the Compact's inner office, or Saret Onn's deep trust), the current version shows food viability at 30% below what the Council is publicly stating, and estimates population viability dropping below city-scale within fifteen years if the twilight doesn't resolve.
+
+**Helka's information network:** The proprietor of the Wayfarer's Rest (Ashfen Gate district) maintains a long-standing information-sharing relationship with the Compact — she tells them who's arriving, who's staying, what they're asking about. In exchange, the Compact tips her about trade disruptions that affect her supply lines. She is not a spy in the conventional sense — she doesn't report on her guests' private conversations — but she does flag significant arrivals. Saret Onn knew the players were in Varenhold before the Chancellor did.
+
+</details>
 
 ---
 
@@ -240,3 +376,21 @@ The three Dawnborn most publicly visible:
 - *Skeptical* - doubt about the other's methods or motives
 - *Wary* - limited trust, potentially competitive
 - *Hostile* - active opposition or significant animosity
+
+<details class="gm-only">
+<summary>GM Only — Hidden Faction Relationships</summary>
+
+The public map above reflects how factions present their relationships. Below are the hidden links players can discover through investigation:
+
+| Hidden Link | What Players Can Learn | How |
+|---|---|---|
+| Edoran ↔ Chancellor | Indirect contact through a third party; she knows about the Restorers' inner timeline | Renn Vask's intel, or DC 16 Insight after meeting both separately |
+| Edoran ↔ Harran | Communication through two intermediaries; Edoran believes Harran is wrong in method, not diagnosis | Restorer Fanatics wing, or Harran himself |
+| Keseph ↔ Solennite | Active funding channel worth ~800 amber script over six years; distorting Spire research priorities | Maret Lonn's evidence, or DC 16 Investigation in Session 3 |
+| Saret Onn ↔ Helka | Information-sharing arrangement; Helka flags significant arrivals | DC 14 Investigation or Helka's trust |
+| Harran ↔ Council aide | Renn Vask overheard a contact between the Reckoning's intelligence and a Council aide (not Perrin); the "contingency" discussion | Renn Vask in the Wanderer's Rest |
+| Compact ↔ Nin Fletch's past | The client who paid for the Archive theft fifteen years ago was Compact-connected | DC 17 Investigation or Nin Fletch's full trust |
+
+**The Reckoning** is not in the public map because its existence is nominally unconfirmed. The hidden relationships involving Harran (with the Council, with Edoran's periphery, with former Restorers) make the Reckoning far more embedded in Varenhold's politics than any faction publicly acknowledges.
+
+</details>
