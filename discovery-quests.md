@@ -48,7 +48,7 @@ After each session, your GM will tell you which quests are available. There are 
 
 ### Location: The Ashring at 4 AM
 
-![The Ashring plaza empty before dawn - the scorched stones exactly as they were fifty years ago, a single candle burned nearly down at the centre, the city quiet in deep amber](images/ashring-scorched-stones.svg)
+![The Ashring plaza empty before dawn - the scorched stones exactly as they were fifty years ago, a single candle burned nearly down at the centre, the city quiet in deep amber](images/ashring-scorched-stones.png)
 
 **Tell your GM:** *"Between sessions, my character goes to the Ashring before the city is awake. What do they find?"*
 
@@ -106,7 +106,7 @@ After each session, your GM will tell you which quests are available. There are 
 
 ### Location: The Lowmark Care House, After Hours
 
-![The care house at night - amber lantern low, the ward quiet, a night practitioner moving between cots with the precise and non-intrusive movement all Guild healers develop over years](images/lowmark-care-house.svg)
+![The care house at night - amber lantern low, the ward quiet, a night practitioner moving between cots with the precise and non-intrusive movement all Guild healers develop over years](images/lowmark-care-house.png)
 
 **Tell your GM:** *"My character goes to the Lowmark care house after the evening shift to see what it's like when Lira's not there."*
 
@@ -152,7 +152,7 @@ After each session, your GM will tell you which quests are available. There are 
 
 ### Location: The Restorer Compound at Dawn
 
-![The Restorer compound in early amber - grey cord banners over the door, a young woman on the steps with a cup of something hot and a pamphlet she folds away when she sees you](images/restorer-compound-dawn.svg)
+![The Restorer compound in early amber - grey cord banners over the door, a young woman on the steps with a cup of something hot and a pamphlet she folds away when she sees you](images/restorer-compound-dawn.png)
 
 **Tell your GM:** *"My character shows up at the Restorer compound before the morning session. What do they see?"*
 
@@ -194,7 +194,7 @@ After each session, your GM will tell you which quests are available. There are 
 
 ### Location: The High Passes at Altitude
 
-![At altitude above Varenhold - a Hold-man showing the cloth with shadow-marks from forty-three events over five years, the clearest evidence of the twilight's cycle that exists anywhere, given to someone who seemed less rude than the Spire people](images/high-passes-shadow-cloth.svg)
+![At altitude above Varenhold - a Hold-man showing the cloth with shadow-marks from forty-three events over five years, the clearest evidence of the twilight's cycle that exists anywhere, given to someone who seemed less rude than the Spire people](images/high-passes-shadow-cloth.png)
 
 **Tell your GM:** *"My character travels with a supply caravan to the Graymere Holds. What happens at altitude?"*
 

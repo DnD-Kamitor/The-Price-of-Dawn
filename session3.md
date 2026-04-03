@@ -34,9 +34,15 @@
 - [ ] Set Senna Kard's emotional state: has anything changed since the last mob scene? Who are her children?
 - [ ] Decide: are the willing Dawnborn actively preparing, or still waiting?
 
+### Player Companion Touchpoints
+
+- **Downtime leverage (`shops.md`):** Path 3 hinges on trust with Spire resources. If the party cultivated Scholar Fenn or the Amber Guild Workshop, pay that off now — Fenn can waive access checks in the annex; Helv Onn can vouch for the legitimacy of Isolde's rod order. Conversely, failing those side quests means bureaucratic resistance. Call out the proprietors' wants/fears (Fenn wants accurate archives, fears political erasure; Helv wants quality control, fears Compact dilution) so the stakes feel personal.
+- **Restorer territory travel (`travel.md`):** The Ashfen Paths descriptions give you ready-made five-senses beats when the party visits Edoran or the willing Dawnborn near the Gate. Use the Reed Crossing complication if they head deeper into Clan territory for alternative solutions.
+- **Live tracker updates (`tracker.md`):** After each alternative path scene, change the Dawnborn consent checkboxes and City Crisis level in front of the players. Seeing the marks shift is the encounter beat that sells Tomas's chart.
+
 ---
 
-![The Spire laboratory - the Resonance Rods on their stands, tuning-fork shapes in amber light, the faint hum of stored ritual energy](images/session3-opening.svg)
+![The Spire laboratory - the Resonance Rods on their stands, tuning-fork shapes in amber light, the faint hum of stored ritual energy](images/session3-opening.png)
 
 ## Opening: The Clock Gets Real
 
@@ -123,7 +129,7 @@ On him is a small carved wooden disc on a cord around his neck - a token he had 
 
 **Source:** A Spire Quarter mage named **Isolde Menth**, who has been studying the Dawnborn for years without their full understanding of what she was observing.
 
-![Isolde's laboratory - cramped, unauthorized, brilliant; the resonance cage at the centre of the room like the skeleton of a lantern, specimen jars on the shelf, the smell of reagents and hot metal](images/session3-isolde-lab.svg)
+![Isolde's laboratory - cramped, unauthorized, brilliant; the resonance cage at the centre of the room like the skeleton of a lantern, specimen jars on the shelf, the smell of reagents and hot metal](images/session3-isolde-lab.png)
 
 **Scene:** Isolde's laboratory, a cluttered room on the third floor of a Spire annex building. The smell of reagents and hot metal. A faint electrical hum. The resonance cage sits in the center of the room like the skeleton of a lantern - all brass framework and exposed wire, glowing faintly at the joints where the rods are installed.
 

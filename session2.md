@@ -33,9 +33,15 @@
 - [ ] Have Brother Edoran ready to enter if the players haven't met him yet
 - [ ] Place the Ritual Diagram puzzle (see below) in the Archive layout
 
+### Player Companion Touchpoints
+
+- **City pressure in play (`shops.md`):** When you open with rationing or market tension, anchor it in Wess Dalk's Grain Measure or Lira's Healing House. Their OGAS blocks (want: feed the Lowmark / keep patients alive; fear: shortages and false cures; lie: that they're coping fine) give you instant NPC stakes if the party wants to intervene between scenes.
+- **Chasing or outrunning news (`travel.md`):** If the Reckoning flees with documents or the players rush to warn a Dawnborn in another district, grab the Eastern Track or River Trade encounters. The route complications already include Compact surveillance and Parish distress — perfect contrast to the party's own secrets.
+- **Update the shared sheet (`tracker.md`):** After Theron's reveal and again after Scene 4, mark the Dawnborn consent table and the crisis level. Let the table watch the "willing" boxes change; it makes every conversation with Sera/Tomas/Lira land harder.
+
 ---
 
-![The ritual diagram unrolled on a stone table - ten circles in the Inversion notation, names at each position, the whole shape of the cost made visible](images/session2-opening.svg)
+![The ritual diagram unrolled on a stone table - ten circles in the Inversion notation, names at each position, the whole shape of the cost made visible](images/session2-opening.png)
 
 ## Opening: What Changed While You Were Away
 
@@ -51,7 +57,7 @@ Start Session 2 with a brief "what has the city been doing." Pick 1-2 of these d
 
 ## Scene 1: The Archivist Breaks
 
-![Theron's disclosure - the Archive's restricted level, the sealed documents on the table between them, eleven years of silence ending in a single sentence](images/session2-theron-disclosure.svg)
+![Theron's disclosure - the Archive's restricted level, the sealed documents on the table between them, eleven years of silence ending in a single sentence](images/session2-theron-disclosure.png)
 
 **Location:** The Civic Repository, a different room than before - less organized, as if Theron has been pulling things and not putting them back.
 
@@ -155,6 +161,28 @@ Three Reckoning Guards enter the Archive from the front while a Reckoning Fanati
 - The Archive is narrow aisles and tall shelving. Movement costs extra (treat rows as difficult terrain).
 - The texts are flammable. If the Reckoning is losing, the Captain orders one guard to start burning shelves as a distraction. Players must choose between pursuing the Raiders and saving the documents.
 - Theron will panic and hide rather than help. If the players don't tell him where to go, he runs toward the fight instinctively (wrong direction).
+
+### Combat: Secondary Objectives
+
+Winning the initiative roll isn't the point. What matters is what survives the raid.
+
+| Objective | Condition | Reward |
+|-----------|-----------|--------|
+| **Protect the ritual text** | No folio leaves the room and any fire is extinguished within 2 rounds of ignition | All Session 3 clues stay available; players gain advantage on the next Archive-based Investigation check |
+| **Evacuate Theron** | Spend an action to direct/escort him to the secured reading alcove; no attack hits him | Theron’s trust increases immediately; he shares one extra piece of information at the end of the scene |
+| **Capture a Reckoning operative** | Reduce the Captain or at least one guard to 0 HP non-lethally (or restrain via magic) and succeed on a DC 14 Intimidation/Persuasion check after the fight | Intelligence on the Reckoning’s next target (useful foreshadowing for Sessions 3-4) |
+
+Failing an objective is a Living World consequence: missing pages raise the DC of Isolde's work; Theron taking damage delays his confession; no prisoners means guessing at the Reckoning’s agenda later.
+
+### The Encounter Beat: The Stacks Ignite
+
+At the start of the **round immediately after two Reckoning operatives drop** (guards or fanatic), Captain Marsh snaps: *"Burn it."* One guard topples a lantern into the nearest shelf. The moment the flame hits:
+
+- A 10-foot section of shelving becomes **difficult terrain** and emits heavy smoke; creatures entering or starting their turn there make a DC 13 Constitution save or gain disadvantage on attack rolls until the start of their next turn.
+- Anyone adjacent when the fire ignites must succeed on a DC 13 Dexterity save or take 6 (2d6) fire damage and drop whatever they're holding.
+- Each round the fire remains unchecked, it spreads 5 feet further and destroys one random document bundle (fail the “Protect the ritual text” objective after two bundles burn).
+
+Players can spend an action (or a 1st-level spell slot such as *create water*) to douse a 5-foot section. Clever solutions (mage hand lantern toss, gust of wind, etc.) apply as normal. The beat is the point where the combat becomes a race; make sure the urgency is felt.
 
 ### Combat Tactics
 

@@ -8,7 +8,7 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 ### Chancellor Mira Ostenveld
 
-![Chancellor Mira Ostenveld - the weight of fifty years of governance visible in how she holds herself; the most powerful person in Varenhold, and therefore the most aware of how little power matters here](images/npc-chancellor-ostenveld.svg)
+![Chancellor Mira Ostenveld - the weight of fifty years of governance visible in how she holds herself; the most powerful person in Varenhold, and therefore the most aware of how little power matters here](images/npc-chancellor-ostenveld.png)
 
 > *"I am not asking you to do anything wrong. I am asking you to find out what can be done."*
 
@@ -56,6 +56,32 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Insight (after trust) | 15 | She knows more about the ritual's cost than she admits. The fragment she references has been read, reread, and partially understood. She is hoping the players return with a different answer than the one she already has. |
 | Investigation (Chancellor's Hall office) | 15 | A locked drawer contains a partial transcript in Corven's notation, annotated in the Chancellor's hand. Three words are circled and underlined: "willing participants only." |
 
+<details class="skillgate">
+<summary>Skill Gate — Insight DC 14: Drawer of Willing Participants</summary>
+
+**Scene Beat:** Amber firelight catches on the lacquered cedar drawer at her elbow; the office smells of parchment glue and citrus oil while rain needles the window glass.  
+**Trigger:** During the commission scene, when the players pause to consider her offer or press about risk.  
+**Stakes:** Catching the note gives them leverage with every faction; being caught fraying her privacy costs trust and future access.  
+**Check:** Insight DC 14 (passive) to notice she left the drawer key inside the ledger stack; then a Sleight of Hand or Thieves' Tools DC 15 to lift the transcript while she stands at the window (one attempt total).  
+**Success:** They glimpse the circled phrase *"willing participants only"* and pocket a wax impression. Once per campaign they may cite it for advantage on a Persuasion or Intimidation check arguing that the ritual must remain voluntary (Council floor, Restorer debate, Dawnborn appeal).  
+**Failure:** She quietly re-locks the drawer mid-conversation, her tone cooling. All further social checks with her this scene suffer disadvantage until the party makes a costly show of respect (returning the key, volunteering an uncomfortable truth, etc.).  
+**Secondary Objective:** Choosing not to exploit the opening after noticing it earns a wordless nod. She sends them to Theron with an unofficial seal, granting automatic success on their first attempt to access the restricted stacks.  
+
+</details>
+
+<details class="skillgate">
+<summary>Skill Gate — Persuasion DC 15 or Religion DC 13: The Oath Candle</summary>
+
+**Scene Beat:** A pewter Auris sun sits beside a short candle that smells of burnt honey; the Chancellor keeps glancing at it while the lamplight paints everything gold.  
+**Trigger:** Any player appeals to faith, civic duty, or public accountability rather than money.  
+**Stakes:** Winning formal backing lets them move through the city openly, but swearing in Auris's sight creates an obligation the Chancellor will collect on.  
+**Check:** Persuasion DC 15, or Religion DC 13 if the character uses Auris liturgy, to convince her to light the oath candle.  
+**Success:** She invites the party to the balcony brazier for a ten-second oath in the chill air. They gain a signed writ of investigative authority (advantage on one City Council, Guard, or Compact interaction when flashing it). The writ also records the table's stated boundaries; breaking them later imposes a -2 ongoing trust penalty and gives the Restorers gossip leverage.  
+**Failure:** She leaves the candle unlit, keeps the meeting purely transactional, and the party must rely on favors instead of credentials; reaching Theron or Spire contacts now requires an extra social roll.  
+**Secondary Objective:** If a player voluntarily includes a personal sacrifice clause in the oath ("I will tell you the truth even when it hurts me"), the Chancellor reciprocates by sharing one additional rumor about Restorer movements on the spot.  
+
+</details>
+
 </details>
 
 ---
@@ -64,7 +90,7 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 ### Theron Waide
 
-![Theron Waide - older than he looks, quieter than he should be; the Archivist who found the sealed documents eleven years ago and chose to say nothing, and has been living with that choice ever since](images/npc-theron-waide.svg)
+![Theron Waide - older than he looks, quieter than he should be; the Archivist who found the sealed documents eleven years ago and chose to say nothing, and has been living with that choice ever since](images/npc-theron-waide.png)
 
 > *"Knowledge has weight, young one. I have been carrying this particular weight for eleven years. You'll understand, when you've held it as long."*
 
@@ -115,6 +141,32 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Insight (after trust) | 15 | The guilt is the thing. He found the truth eleven years ago, made a choice to say nothing, and has been paying for it since. Whatever absolution he's looking for, it isn't from the players — it's from the people he protected by staying silent. |
 | Investigation (Archive stacks) | 14 | A section of the notation key contains a small asterisk beside one symbol. Following it leads to a shelf that doesn't appear in the main catalog. One bound volume, plain cover, nothing on the spine. |
 
+<details class="skillgate">
+<summary>Skill Gate — Investigation DC 15: Sorting Table Margins</summary>
+
+**Scene Beat:** Dust motes hang in the lamplight above Theron's sorting table, the air thick with lamp oil and scraped parchment while the Archivist mutters about "cross-referencing."  
+**Trigger:** Whenever the players offer to help reorganise the stacks or keep him talking.  
+**Stakes:** Reading his margin system early unlocks the Archive trail; riffling too aggressively convinces him to purge evidence.  
+**Check:** Investigation DC 15 (Arcana DC 13 if proficient) while he is distracted fetching hot water; one character makes the roll with help from another.  
+**Success:** The party deciphers his pencil symbols and spots shelf mark 4-17-3 — the exact location of Corven's sealed letter. They may later request that shelf outright without additional checks, and gain advantage on their next attempt to locate any Archive clue.  
+**Failure:** Theron returns mid-rummage, cheeks pale. He spends the night "rebalancing" the stacks, burns three fragile folios, and trust drops; raise all future DCs to move him toward confession by 2.  
+**Secondary Objective:** If the party leaves behind neat replacement tabs or donates a proper indexing kit, Theron interprets it as care and will volunteer one extra clue about the notation key without prompting.  
+
+</details>
+
+<details class="skillgate">
+<summary>Skill Gate — Persuasion DC 15: Lantern Walk Confession</summary>
+
+**Scene Beat:** Close, echoing Archive corridors at midnight; the smell of damp stone and the lone glow of Theron's hand-lantern playing over brass shelf numbers while rain drums outside.  
+**Trigger:** Invite Theron on an after-hours walk or insist on escorting him home when he claims to be "fine."  
+**Stakes:** Get his secret in session two instead of three, but risk shattering him emotionally in the middle of the stacks.  
+**Check:** Persuasion DC 15 (Insight DC 13 first to notice he wants to talk but needs permission — succeeding grants advantage on the Persuasion roll).  
+**Success:** Mid-walk he stops beside the sealed reading room, presses the brass key into a player's hand, and says, "If you read it, you have to tell me whether I was right to be afraid." They now control the key to the restricted room; opening it lets them skip one obstacle in Session 2 and counts as one trust step with Theron.  
+**Failure:** He shuts down, mutters apologies, and double-locks the room for another week. Future Persuasion checks must be made at disadvantage until someone shares a vulnerability of equal weight.  
+**Secondary Objective:** If the party guides him through a grounding ritual (Medicine or Performance DC 12, describing five sensory details), he regains composure and will volunteer a specific lead toward Tomas Areth.  
+
+</details>
+
 </details>
 
 ---
@@ -123,7 +175,7 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 ### Brother Edoran
 
-![Brother Edoran - grief that has organized itself into something harder and quieter; a former priest of Auris who lost his daughter and rebuilt himself around the conclusion that grief reaches when it is honest](images/npc-brother-edoran.svg)
+![Brother Edoran - grief that has organized itself into something harder and quieter; a former priest of Auris who lost his daughter and rebuilt himself around the conclusion that grief reaches when it is honest](images/npc-brother-edoran.png)
 
 > *"I am not asking for their deaths. I am asking when we stop pretending that they are alive in the way we need them to be."*
 
@@ -174,6 +226,32 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Insight (after trust) | 16 | The movement is personal. The question "who did you lose?" would land. It wouldn't be answered. But the silence afterward would confirm it. |
 | Investigation (Restorer compound) | 14 | In Edoran's study: a girl's prayer cord on the window frame, the kind given at Auris coming-of-age. Faded, at least a decade old. The name woven into the border reads "Annem." |
 
+<details class="skillgate">
+<summary>Skill Gate — Religion DC 14 or Performance DC 15: Midnight Vigil Canticle</summary>
+
+**Scene Beat:** The Restorer chapel glows with coals and frankincense; ten candles spit resin while Edoran's voice leads a low chant that reverberates off damp stone.  
+**Trigger:** When the players agree to attend any Restorer vigil rather than only interrogating him in daylight.  
+**Stakes:** Joining the chant proves respect and earns access to grief circles; stumbling brands them as opportunists and hardens Edoran's following.  
+**Check:** Religion DC 14 to recite the penitent's counter-verse, or Performance (Oratory or Singing) DC 15 to lead a harmony line.  
+**Success:** Edoran breaks cadence long enough to study the character who carried the verse and, afterward, invites the party to share warm spiced wine in the reliquary. They gain advantage on their next request for Restorer logistical help (moving crowds, hiding someone, distributing pamphlets).  
+**Failure:** The chant falters, murmurs ripple through the gathered mourners, and Edoran closes the vigil early. Restorer attitude shifts toward suspicion; increase the cost of calling on their aid by one step (an extra favor or proof of sincerity).  
+**Secondary Objective:** Leaving a tangible offering (a ration, a personal memento) alongside the vigil candles reduces potential fallout, granting a re-roll on the check or cancelling the distrust penalty.  
+
+</details>
+
+<details class="skillgate">
+<summary>Skill Gate — Insight DC 16 or Intimidation DC 15: Naming the Fear</summary>
+
+**Scene Beat:** Edoran's private cell smells of damp parchment and dried herbs; a chalk diagram of the Ashring glows faintly in lamplight while rain taps the shutters.  
+**Trigger:** After the players present new evidence (Theron's confession, Tomas's math, etc.) and demand to know his timeline.  
+**Stakes:** Calling out his hidden fear (that waiting will make the Dawnborn's deaths meaningless) can extract a temporary stand-down; pushing the wrong way drives him toward martyrdom.  
+**Check:** Insight DC 16 to articulate his private dread, or Intimidation DC 15 to remind him what uncontrolled violence would cost.  
+**Success:** He admits he has a Desperate contact ready to escalate within two days and agrees to hold all Restorer actions for 24 hours, buying the party a full scene to pursue another lead. He also hands them a coded note that can countermand Restorer patrols once.  
+**Failure:** He stiffens, dismisses them, and accelerates his timetable (advance the Restorer escalation clock by one scene).  
+**Secondary Objective:** If the party couples the confrontation with a concrete alternative (a promise to brief the Dawnborn, an offer to speak at the Dawnhalls), Edoran adds an extra day to the pause without another roll.  
+
+</details>
+
 </details>
 
 ---
@@ -182,7 +260,7 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 ### Sera Voss — The Protector
 
-![Sera Voss - the person the Lowmark calls before they call the watch; practical clothing, the particular stillness of someone who has talked people down from ledges many times and knows exactly when that option ends](images/npc-sera-voss.svg)
+![Sera Voss - the person the Lowmark calls before they call the watch; practical clothing, the particular stillness of someone who has talked people down from ledges many times and knows exactly when that option ends](images/npc-sera-voss.png)
 
 > *"If I have to die for this city to live, that's not even a question. But I want to know it's actually true first."*
 
@@ -231,6 +309,32 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Insight (first meeting) | 12 | She has already decided something. The warmth is genuine; so is the certainty. She is not deliberating — she is waiting to act on a decision already made. |
 | Insight (after trust) | 14 | She is afraid for everyone except herself. The fear is entirely outward-directed. She has not spent meaningful time worrying about what the ritual means for her specifically. |
 | Investigation (Sera's patrol station) | 13 | A carved wooden calendar on her desk has forty-odd days marked. The marks started eleven years ago and are consistent. If asked: "The first time someone thanked me after a ritual healing. I count from then." |
+
+<details class="skillgate">
+<summary>Skill Gate — Athletics or Acrobatics DC 13: Rooftop Patrol Drill</summary>
+
+**Scene Beat:** Cool mist off the Dawnhall roof, wet shingles underfoot, Sera's lantern casting long shards of amber while bells echo.  
+**Trigger:** The players ask to accompany her on a patrol or she invites them to "see what the district looks like above street level."  
+**Stakes:** Matching her physical pace earns immediate camaraderie and a tactical map; slipping or hesitating reinforces her instinct to work alone.  
+**Check:** Athletics or Acrobatics DC 13 for each character participating (group check; at least half must succeed).  
+**Success:** Sera marks three rapid-response routes on the party's city map and gives them a Lowmark Guard token. Once per session they can flash it to summon two guard squads for assistance or to bypass a Dawnhall checkpoint.  
+**Failure:** Someone slides, tiles clatter, a lantern nearly tumbles. Sera catches them but concludes "this isn't your terrain" — future attempts to request guard support require an additional persuasion step.  
+**Secondary Objective:** If any player narrates watching for threats (Perception DC 12 during the run), they spot Reckoning symbols or Restorer lookouts as foreshadowing for later scenes.  
+
+</details>
+
+<details class="skillgate">
+<summary>Skill Gate — Medicine DC 14 or Insight DC 15: Grey Sickness Triage Run</summary>
+
+**Scene Beat:** Steam from Lowmark stew mingles with antiseptic herbs; Sera kneels beside a Stage 2 patient, her aura palpably warmer than the air.  
+**Trigger:** After any combat or tense crowd scene when Sera diverts to check on the injured.  
+**Stakes:** Helping convinces her the party values the people she protects; mishandling a patient brands them as reckless outsiders.  
+**Check:** Medicine DC 14 to assist triage, or Insight DC 15 to read the family's unspoken worries and speak to them kindly.  
+**Success:** The patient remarks on the "calm heat" near Sera, hinting at the Dawnborn/Lux correlation. Sera, moved, offers to escort the party through the Dawnhalls' internal passageways whenever they need to arrive somewhere unnoticed (counts as advantage on one Stealth or Deception attempt inside Dawnhall territory).  
+**Failure:** An improvised treatment goes wrong or a poorly chosen phrase sparks panic; Sera spends the rest of the scene damage-controlling and trust slips (no Dawnhall escort for the next two sessions).  
+**Secondary Objective:** Leave behind supplies worth at least 25 gp or a spell slot and Sera repays the gesture later with an extra guard team or personal assistance in Session 3's crisis.  
+
+</details>
 
 </details>
 
@@ -286,13 +390,39 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Insight (after trust) | 16 | He has already done the math. The surge-phase asymmetry means five specific Dawnborn can effectively shelter the weaker five if the stronger ones choose first. He hasn't told anyone because confirming this would also confirm the sacrifice. |
 | Investigation (Tomas's Highmark office) | 14 | A locked notebook (visible pages through the cover) contains a branching decision tree. One branch: "all ten, confirmed." Another: "five, with margin." A third, in different ink and later: "who decides the margin?" |
 
+<details class="skillgate">
+<summary>Skill Gate — Investigation DC 16: Chalk Decision Tree</summary>
+
+**Scene Beat:** Tomas's office smells of old vellum and bergamot; candlelight throws sharp silhouettes of the chalk diagram etched across the slate wall.  
+**Trigger:** Any pause while Tomas fetches tea or a case file, leaving the players alone with his notes.  
+**Stakes:** Reading the diagram early tells them which five Dawnborn carry double load, but rifling through it risks him labeling them presumptuous meddlers.  
+**Check:** Investigation DC 16 (Arcana DC 15 if proficient) to decode the symbols quickly without smudging them.  
+**Success:** The party learns the identities of the five surge anchors (Sera, Tomas, Ysel, Lira, Petra) and the order he believes minimizes harm. They gain immediate narrative leverage: advantage on convincing any of those five that Tomas already trusts the players.  
+**Failure:** Chalk dust on their fingers gives them away; Tomas closes the wall, locking the room for future meetings and imposing disadvantage on their next attempt to gain his confidence.  
+**Secondary Objective:** Leaving a neatly transcribed copy of the decision tree on his desk (History DC 12) wins him over — he respects rigor, rewarding them with an extra legal precedent clue.  
+
+</details>
+
+<details class="skillgate">
+<summary>Skill Gate — Persuasion DC 15 or History DC 14: Co-Signed Verdict Draft</summary>
+
+**Scene Beat:** Judge's parchment, faint tea steam, the muffled buzz of the Highmark hallway outside his door.  
+**Trigger:** After debate about ethics but before Tomas commits to helping, a player suggests putting shared principles in writing.  
+**Stakes:** Securing his signature grants formal standing but binds the party to return with evidence; defaulting ruins his regard.  
+**Check:** Persuasion DC 15 focusing on community impact, or History DC 14 citing a precedent where outside investigators partnered with the court.  
+**Success:** Tomas drafts a "Joint Inquiry Writ" naming the party as temporary adjunct magistrates. Once per session they can flash it to compel cooperation from bureaucrats or to gain advantage on gathering official records. They must deliver a written update within a week or he rescinds it.  
+**Failure:** Tomas interprets the request as grandstanding. He keeps their relationship informal and routes them through standard petitions (adding 1d4 hours of downtime before any city document can be retrieved).  
+**Secondary Objective:** If the party voluntarily limits the writ's scope (e.g., "confined to ritual matters"), Tomas sees humility and later shares a personal letter to Corven that foreshadows Session 4's dilemma.  
+
+</details>
+
 </details>
 
 ---
 
 ### Lira Anwick — The Unwilling
 
-![Lira Anwick - steady hands, a healer's satchel, the compound she synthesises that is never enough; the Dawnborn who has done the most good in the city and is the most certain that her death would not be worth it](images/npc-lira-cain.svg)
+![Lira Anwick - steady hands, a healer's satchel, the compound she synthesises that is never enough; the Dawnborn who has done the most good in the city and is the most certain that her death would not be worth it](images/npc-lira-cain.png)
 
 > *"I never asked to be born special. I never asked to be a symbol. And I am not going to die as one."*
 
@@ -342,6 +472,32 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 | Insight (first meeting) | 14 | She has made her peace with the ritual's cost in private. The professional exhaustion is real, but underneath it she has already decided and is waiting for everyone else to catch up. |
 | Insight (after trust) | 15 | The one thing she hasn't processed is her daughter. Everything else has been worked through. She can talk about dying in the abstract. She cannot talk about Mira. |
 | Investigation (Lowmark Healing House, Lira's treatment room) | 13 | One private shelf holds personal items: a child's drawing, a folded letter sealed and addressed in a child's handwriting. The envelope has not been opened. |
+
+<details class="skillgate">
+<summary>Skill Gate — Medicine or Alchemist's Supplies DC 15: Compound Bench Assist</summary>
+
+**Scene Beat:** Bitter marsh-oil steam clouds the air while glass tubing rattles; Lira rolls up her sleeves, copper bracelets chiming against metal trays.  
+**Trigger:** The party volunteers to help during a grey sickness surge or offers downtime to the Healing House.  
+**Stakes:** A steady hand earns tangible proof of goodwill (and a portable miracle); a clumsy assist ruins a day's ration of reagents.  
+**Check:** Medicine DC 15 or Alchemist's Supplies DC 15 (with proper tools). One attempt per outbreak.  
+**Success:** Lira grants the party two vials of stabilized compound. Each vial can, once, remove one level of exhaustion or grant advantage on a single saving throw against grey sickness effects for an ally. She also shares the exact marsh herb ratio, letting the players reproduce the dose with a long rest of work and 50 gp of ingredients.  
+**Failure:** The mixture curdles, going slate grey; Lira has to scrap the batch and the Lowmark loses a day's worth of doses. Trust drops sharply and no further lab access is allowed until they compensate the Dawnhalls with resources or a major favor.  
+**Secondary Objective:** Donating fresh reagents or a new set of clean glass alembics (cost 75 gp) after the attempt removes the penalty and earns inspiration for the helper, reflecting Lira's begrudging gratitude.  
+
+</details>
+
+<details class="skillgate">
+<summary>Skill Gate — Perception DC 15 or Insight DC 16: Mira's Door (Requires Prior Trust)</summary>
+
+**Scene Beat:** Late-night Healing House hallway, lanterns turned low, the faint smell of lavender oil drifting from a half-hidden door near Lira's cot.  
+**Trigger:** Only after the party has completed at least one meaningful favor for Lira (curing a patient, stopping ration theft, etc.) and spends a quiet evening on-site.  
+**Stakes:** Learning about her daughter binds them together forever if they keep the secret — or destroys the relationship if they mishandle it.  
+**Check:** Perception DC 15 to notice the small pair of boots by the door, or Insight DC 16 to realize Lira's schedule includes unexplained hour-long absences every night.  
+**Success:** The character pieces together that someone else lives behind the door. If they immediately promise (Persuasion DC 13) to protect that secret, Lira grants them unwavering aid: once per campaign they can auto-succeed on convincing her to come with them or to provide resources.  
+**Failure:** Lira catches them hovering near the door, face gone cold. She ejects them from the Healing House, raising all future DCs with her by 2 and alerting Sera that the party can't respect boundaries.  
+**Secondary Objective:** Bringing a tangible comfort (a toy, a twilight bloom) for the unseen child without prying gives Lira a reason to open the door herself later, framing the reveal as a gift rather than a discovery.  
+
+</details>
 
 </details>
 

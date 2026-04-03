@@ -1,6 +1,6 @@
 # Player's Guide to *The Price of Dawn*
 
-![A gaming table set up before Session 1 - character sheets, pencils, the map, the particular anticipation of a story that hasn't started yet](images/character-creation-table.svg)
+![A gaming table set up before Session 1 - character sheets, pencils, the map, the particular anticipation of a story that hasn't started yet](images/character-creation-table.png)
 
 Welcome to the campaign. This guide tells you everything you need to arrive at Session 1 ready to play - and nothing you're not supposed to know yet.
 
@@ -56,6 +56,8 @@ You could play:
 - A Dawnborn admirer who came to meet their heroes - or a skeptic who came to verify the legends
 
 The handout chapter includes six specific background hooks if you want something more structured.
+
+**Need a ready-to-play character?** Flip to `characters.md` in the Player Companion for five pre-made level 1 builds (returnee, Lowmark child, scholar, Parish farmer, Compact factor). Each comes with ability scores, moral hooks, and built-in connections to the Dawnborn. They slot directly into Session Zero questions.
 
 ### What Makes a Good Character for This Campaign
 
@@ -262,6 +264,16 @@ After session zero, everyone at the table should know:
 - That the X-Card exists and where it is
 
 Then go home, build your character, read the player chapters, and come back ready for Session 1.
+
+### Where to Find Player-Facing Reference Material
+
+Once characters exist, point the table at these additional resources when they want to plan between sessions without hitting spoilers:
+
+- **City Shops & Reputation (`shops.md`):** Six establishments with reputation tracks and side quests that convert downtime into tangible advantages.
+- **Travel in the Reaches (`travel.md`):** Route guides that describe what each road feels like plus hidden GM encounter tables for when plans change.
+- **Campaign State Trackers (`tracker.md`):** Printable sheets the GM updates between games and shows the table so everyone feels the city's pressure.
+
+The Player Companion chapters are safe for players; everything beyond that remains GM territory.
 
 ---
 

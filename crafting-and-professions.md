@@ -54,7 +54,7 @@ Each profession requires a specific tool set.
 
 ### Amber Lampwork
 
-![An amber lampworker at the calibration bench, turning a housing by hand in the glow of the heating oven - the smell of warm resin, the particular focus of someone who makes light for a city that cannot afford to be dark](images/amber-lampwork-bench.svg)
+![An amber lampworker at the calibration bench, turning a housing by hand in the glow of the heating oven - the smell of warm resin, the particular focus of someone who makes light for a city that cannot afford to be dark](images/amber-lampwork-bench.png)
 
 The amber workshops are Varenhold's most recognizable craft and its primary export. Before the twilight, glasswork in the city was ordinary — lanterns, windows, decorative pieces. After Year 1 of the permanent dusk, making light became the city's most important industry.
 

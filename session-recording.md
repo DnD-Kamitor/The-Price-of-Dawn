@@ -12,6 +12,18 @@ This chapter tells you how to do that.
 
 ---
 
+### Companion Files as Source Material
+
+The Player Companion chapters double as ready-made appendices for any book you produce:
+
+- **`tracker.md`** captures faction reputation, Dawnborn consent, and crisis pressure. Photograph or export these sheets at the end of every session; the delta between sessions becomes your story outline.
+- **`shops.md`** and **`travel.md`** summarize the downtime quests and road scenes that often vanish from recordings. Pull their tables directly into your session log so readers know why the Grain Measure suddenly trusts you.
+- **`characters.md`** gives you stat blocks, moral hooks, and relationship diagrams for the five pregens — perfect for character pages or epilogues.
+
+Because they're player-safe, you can share these artifacts with the whole table without spoiling later chapters. Treat them as the campaign's primary sources.
+
+---
+
 ## Before You Start: What Kind of Book Do You Want?
 
 There are three different projects here, and they require different approaches.
@@ -167,7 +179,7 @@ These interludes are what makes the collaborative novel feel like a novel. They 
 
 ---
 
-![Corven's notebook - a worn leather journal, six inches by four, cover smooth from years of handling, inside packed with dense notation in a hand that argues with itself across twenty years](images/corven-notebook.svg)
+![Corven's notebook - a worn leather journal, six inches by four, cover smooth from years of handling, inside packed with dense notation in a hand that argues with itself across twenty years](images/corven-notebook.png)
 
 Among the items in the Archive's restricted section is a small leather notebook, six inches by four, worn smooth on the cover and packed with dense notation in Corven's hand. The Spire catalogued it in Year 5. Nobody has been able to read it since.
 

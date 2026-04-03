@@ -4,7 +4,7 @@
 
 ---
 
-![The road to Varenhold under perpetual amber twilight - the city's lantern-lit walls at the end of a journey, no sun in the grey-gold sky](images/ashfen-gate-arrival.svg)
+![The road to Varenhold under perpetual amber twilight - the city's lantern-lit walls at the end of a journey, no sun in the grey-gold sky](images/ashfen-gate-arrival.png)
 
 ## The Short Version
 
@@ -28,7 +28,7 @@ The buildings are stone and dark wood, layered like the clothes the people wear 
 
 The Ashfen Gate is where you enter, if you've come from the south. There is a wayshrine at the gate - a smooth stone pillar, ancient, worn to a gentle curve by generations of hands pressing it. A local tradition says you touch it when you arrive, and the Wanderer marks your passage. A few people ahead of you on the road do it without breaking stride, automatic as breathing.
 
-![The wayshrine at the Ashfen Gate - an ancient stone pillar worn smooth by generations of hands, small offerings at its base](images/ashfen-wayshrine.svg)
+![The wayshrine at the Ashfen Gate - an ancient stone pillar worn smooth by generations of hands, small offerings at its base](images/ashfen-wayshrine.png)
 
 The city is quieter than its size suggests. Sixty thousand people lived here once. Now perhaps forty thousand remain, and they move through the broader streets like people who remember when there were more of them. The Dawnhalls - great communal halls lit with amber lanterns - are the centers of activity. Everything else is smaller than the architecture suggests it should be.
 

@@ -359,7 +359,7 @@ If players encounter the Desperate and ask about ordinary members — who are th
 
 ## Part Two: Corven's True Story
 
-![Archmagister Corven Ash at his study desk in the Spire, surrounded by twenty years of notes, the lamp burning late, the confident handwriting of a man who does not yet know he is wrong](images/theron-archive-stacks.svg)
+![Archmagister Corven Ash at his study desk in the Spire, surrounded by twenty years of notes, the lamp burning late, the confident handwriting of a man who does not yet know he is wrong](images/theron-archive-stacks.png)
 
 *Release these six documents in order, across the campaign. Theron can guide players to them in the Archive once he trusts them. They transform the Archmagister from a name into a person. The early documents establish his voice before his tragedy. The final one — B6, Corven's sealed letter — is the campaign's moral center.*
 
@@ -505,7 +505,7 @@ This is the moment Corven saw the problem and talked himself out of it. "I hope 
 
 ### Document B6: Corven's Final Entry — The Sealed Letter
 
-![A small sealed letter on a stone Archive shelf — no address on the front, the wax seal unbroken for fifty years, shelf 4-17-3, the weight of what's inside visible in the quality of the silence around it](images/corven-sealed-letter.svg)
+![A small sealed letter on a stone Archive shelf — no address on the front, the wax seal unbroken for fifty years, shelf 4-17-3, the weight of what's inside visible in the quality of the silence around it](images/corven-sealed-letter.png)
 
 *This is the letter already referenced in Sessions 1 and 5 (shelf 4-17-3). It is placed here as the sixth document in the sequence, where it lands with its full weight.*
 
@@ -998,7 +998,7 @@ This is the most player-safe document in the campaign. It can be handed over any
 
 ## Part Five: The Oral Histories of the Ashfen Clans
 
-![An Ashfen Wadewalker at the marsh's edge — dark waders, the tools of the trade, unhurried movement, watching the water with the attention of someone who knows what the land is saying](images/erem-wadewalker.svg)
+![An Ashfen Wadewalker at the marsh's edge — dark waders, the tools of the trade, unhurried movement, watching the water with the attention of someone who knows what the land is saying](images/erem-wadewalker.png)
 
 *These five fragments are in the storytelling tradition of the Wadewalkers: call-and-response structure, repeated phrases, images drawn from the marsh. Erem knows them all. She will share them in order when a player demonstrates genuine respect for Clan knowledge — not extraction, but listening.*
 

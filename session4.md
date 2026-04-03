@@ -18,6 +18,12 @@
 - [ ] Has Cormac's wavering (the "two willing become two" complication from Session 3) been revealed?
 - [ ] Is Petra Vane's location known to the players?
 
+### Player Companion Touchpoints
+
+- **State tracker in the open (`tracker.md`):** Bring the Dawnborn consent grid to the table as a literal prop during the Ashring gathering. When someone commits or retracts consent, mark it in front of the players. It's the simplest way to show the stakes of Lira's arrival and the Chancellor's ultimatum.
+- **Where crowds congregate (`shops.md`):** Helka at the Wayfarer's Rest and Wess at the Grain Measure become your rumor mill. Their wants (accurate manifests, a safe inn) and fears (Compact seizure, Reckoning surveillance) give you NPC voices to drop into the opening d6 event or to foreshadow the Reckoning strike. Use their side quests as leverage: players who solved them earlier can call on their help now for crowd control or safe houses.
+- **Moving Dawnborn off-map (`travel.md`):** If the party races to retrieve Petra or escort Lira, use the Eastern Track and Ashfen Paths tables. Their complications (Compact assessment rider, Reed Clan patrol) keep the tension high even when the scene leaves the Ashring.
+
 ---
 
 ## Pacing Guide
@@ -38,7 +44,7 @@
 
 ---
 
-![The Ashring at night with the Primer Stones active - ten stones glowing amber in the scorched circle, the ritual's shape made finally visible](images/session4-opening.svg)
+![The Ashring at night with the Primer Stones active - ten stones glowing amber in the scorched circle, the ritual's shape made finally visible](images/session4-opening.png)
 
 ## Five Senses Opening
 
@@ -304,7 +310,7 @@ Players will surprise you. Let them. Track the consequences and adapt.
 
 ## Combat: The Reckoning Strikes at the Ashring
 
-![The Reckoning confrontation at the Ashring - Harran's people at the plaza's edges, the players in the centre, the moment before this becomes something that cannot be taken back](images/session4-reckoning-street.svg)
+![The Reckoning confrontation at the Ashring - Harran's people at the plaza's edges, the players in the centre, the moment before this becomes something that cannot be taken back](images/session4-reckoning-street.png)
 
 *The lightning discharge from a wrong Primer Stone sequence, or simply the crowd gathering at the Ashring, draws attention the players couldn't prevent. The Reckoning has been watching the Ashring for days.*
 

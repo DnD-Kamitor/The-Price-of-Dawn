@@ -38,7 +38,7 @@ Both factions claim legitimacy. Both have historical precedents for their theolo
 
 **Praying to Auris in Varenhold feels different.** This is something people report rather than something that can be verified. Auris clergy from outside the Reaches who visit Varenhold consistently describe the same phenomenon: prayer to Auris here has a quality of distance - as though reaching across a longer gap than usual. Whether this means anything theological is debated.
 
-![Auris, the Dawnbringer - the sun god in a time of his absence; a devotional image of grief and enduring hope](images/god-auris.svg)
+![Auris, the Dawnbringer - the sun god in a time of his absence; a devotional image of grief and enduring hope](images/god-auris.png)
 
 **The Temple:**
 Varenhold's Auris Cathedral is in the Outer Ring - a grand building that would have been impressive in the pre-twilight era and is now divided by a temporary-permanent wall down the center nave. The northern half belongs to the Penitents: plain, white-washed, hung with mourning cloth, the altar bare except for an empty lamp. The southern half belongs to the Wounded: flowers on the altar, warm candlelight, devotional paintings covering every surface, a constant low murmur of prayer. The forecourt is shared and contested.
@@ -72,7 +72,7 @@ The twilight has given Morthis-worship an unusual texture. The liturgical calend
 
 The grey sickness has dramatically increased the Ushers' caseload and their civic prominence. They are more present in Varenhold now than before the twilight, more respected, and - quietly - more worried.
 
-![Morthis, the Usher - god of passage and transition; the grey ferryman at the threshold between the living world and what comes after](images/god-morthis.svg)
+![Morthis, the Usher - god of passage and transition; the grey ferryman at the threshold between the living world and what comes after](images/god-morthis.png)
 
 **The Temple:**
 The Morthis Death-House is in the Lowmark, adjacent to the Healing House. It is not called a temple - the Ushers resist that language. It is a working building: clean, plain, stone-floored, smelling of herbs used in preparation rites. There is a reception room where families meet with Ushers, a preparation room (private), and a small meditation space with a single grey-clothed altar. The building runs continuously; there is always an Usher on duty.
@@ -110,7 +110,7 @@ Veth is the patron of scholars (who know things they can't yet publish), archivi
 
 Veth-practitioners in Varenhold are generally known by reputation rather than by observation. You don't see them worship; you hear afterward that so-and-so is "Veth-touched," which is the colloquial term. Whether this is a compliment depends on context.
 
-![Veth, Keeper of Closed Things - the god of secrets and private knowledge; a candlelit desk, a locked box, a sealed letter](images/god-veth.svg)
+![Veth, Keeper of Closed Things - the god of secrets and private knowledge; a candlelit desk, a locked box, a sealed letter](images/god-veth.png)
 
 **The Temple:**
 There is no Veth temple. The closest thing is the back reading room of the Archive, which Theron Waide has informally dedicated to Veth over eleven years of private worship. He has never said this explicitly to anyone. The Archive is generally understood to be under Veth's informal protection - librarians and archivists across the Reaches acknowledge this, though they would word it differently.
@@ -145,7 +145,7 @@ In the twilight, Dara-worship has become more prominent rather than less. When t
 
 Dara and Morthis are understood to be in a complementary relationship - not married in the human sense, but mutually reinforcing. Where Dara holds communities together in life, Morthis holds them through the passage of death. Clergy from both orders often work in parallel.
 
-![Dara, the Hearthkeeper - goddess of community and shared meals; amber lanternlight on a long table, clasped hands, the warmth of gathered people](images/god-dara.svg)
+![Dara, the Hearthkeeper - goddess of community and shared meals; amber lanternlight on a long table, clasped hands, the warmth of gathered people](images/god-dara.png)
 
 **The Temple:**
 No temple. The Great Dawnhall is Dara's de facto home in Varenhold. The central kitchen hearth in the Great Dawnhall has been burning continuously for thirty-five years - it was lit by a Dara-devoted cook during the worst winter of the first decade of the twilight, and the tradition of never letting it go out has been maintained ever since. To some Varenholders, that hearth is the most sacred object in the city.
@@ -180,7 +180,7 @@ The Wanderer's clergy - called Wayward, a term they've chosen and seem to enjoy 
 
 The god has no known position on the twilight. The Wanderer's theology has always been about movement, not destination. If anything, the twilight has given the god's more philosophically inclined priests something to think about: the Reaches are, in some sense, stuck at a particular moment, unable to pass through to what comes next. The Wanderer is the god of passage. What does passage mean when nothing moves?
 
-![The Wanderer - god of roads and passage; an ancient wayshrine at a crossroads, worn smooth by generations of hands, the road receding into amber twilight](images/god-wanderer.svg)
+![The Wanderer - god of roads and passage; an ancient wayshrine at a crossroads, worn smooth by generations of hands, the road receding into amber twilight](images/god-wanderer.png)
 
 **The Temple:**
 The Ashfen Gate Wayshrine is a rough stone obelisk about four feet tall, worn smooth at chest height where hands have touched it for generations. It sits just outside the city gate in a small cleared space. Someone - probably multiple someones over the years - has built a low stone border around it and occasionally brings offerings: coins, food, a worn shoe. No one is responsible for maintaining it officially. It is always maintained.
@@ -215,7 +215,7 @@ The Twin Crowns' temple in Varenhold is in the Guard Quarter. It is active, freq
 
 **A note on the name Mira:** The name appears in the campaign in multiple places - the Chancellor's name, the name of a child mentioned elsewhere, and this ancient deity. The god Mira predates both of the others by centuries. The Chancellor's parents were devout Twin Crowns worshippers and named their daughter after the goddess; this is not uncommon in Varenhold. Treat each usage by context; the deity and the person are distinct.
 
-![Kael and Mira, the Twin Crowns - war and mercy worshipped as one; the two-faced crown, the sword and the open hand](images/god-twin-crowns.svg)
+![Kael and Mira, the Twin Crowns - war and mercy worshipped as one; the two-faced crown, the sword and the open hand](images/god-twin-crowns.png)
 
 **The Temple:**
 The Twin Crowns Hall is a single-story stone building in the Guard Quarter with two equal halves: the Kael nave (bare stone, weapon racks along the walls, a central altar with crossed swords) and the Mira nave (carved wood, soft lighting, the central altar bearing an open-palmed stone hand). The building is always unlocked. Guards coming off difficult shifts often sit in the Mira nave for half an hour before going home. No one comments on this.

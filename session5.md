@@ -18,6 +18,12 @@
 - [ ] Have epilogue entries prepared for: Sera, Tomas, Lira, Edoran, the Chancellor, and 2-3 ensemble Dawnborn most present in your campaign
 - [ ] Prepare debrief questions - review the list at the end of this session
 
+### Player Companion Touchpoints
+
+- **Final tracker snapshot (`tracker.md`):** Freeze the faction reputation, Dawnborn consent, and crisis levels before the session starts, then update them live as last-minute choices land. The before/after photo becomes part of the campaign artifact and feeds the Session Recording workflow.
+- **Logistics allies (`shops.md`):** Any proprietor the players reached Partner-level with can now pay off mechanically. Helka can smuggle Dawnborn past Reckoning blockades; the Ironbell Forge can reinforce the Ashring barricades; the Grain Measure can feed the waiting crowd. Call out their wants/fears so the table remembers why these allies matter.
+- **Roadblocks and retrievals (`travel.md`):** If Petra, Lira, or any Dawnborn still need convincing, you'll likely hit the Eastern Track or River Trade one last time. Use those tables to show the city reacting on the way to the finale.
+
 ---
 
 ## Pacing Guide
@@ -38,7 +44,7 @@
 
 ---
 
-![The Inversion Circle prepared at the Ashring - all ten positions marked, the Primer Stones set, the shape of the ritual and what it costs laid out in the scorched stone](images/session5-opening.svg)
+![The Inversion Circle prepared at the Ashring - all ten positions marked, the Primer Stones set, the shape of the ritual and what it costs laid out in the scorched stone](images/session5-opening.png)
 
 ## Five Senses Opening
 
@@ -153,6 +159,8 @@ The players have roughly two hours before the Council session. They can visit:
 
 ## Puzzle: The Inversion Circle
 
+![A technical schematic of the Inversion Circle: ten numbered stones arranged in a ring with activation timing annotations and the "6 seconds" margin note, ink lines blending ritual notation and engineering precision](images/inversion-circle-diagram.png)
+
 *Set up at the Ashring, in the time between the Council session and the ritual beginning. The puzzle is about coordination, not code-breaking.*
 
 ### What Players Find
@@ -189,7 +197,7 @@ Players might ask: can a non-Dawnborn stand at a stone for an unwilling Dawnborn
 
 ## The Ashring, One Last Time
 
-![All ten Dawnborn gathered at the Ashring for the first time - the ritual positions visible, the city watching from the plaza's edge, the choice finally real](images/session5-ashring-assembly.svg)
+![All ten Dawnborn gathered at the Ashring for the first time - the ritual positions visible, the city watching from the plaza's edge, the choice finally real](images/session5-ashring-assembly.png)
 
 *Run this just before the combat - as the ritual is being set up.*
 

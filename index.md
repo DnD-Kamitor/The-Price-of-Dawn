@@ -2,7 +2,7 @@
 
 ---
 
-![Varenhold seen from the river approach - amber lanterns on the walls, the Spire rising above grey-blue stone, the haze holding everything in sourceless gold, no shadows anywhere](images/varenhold-river-approach.svg)
+![Varenhold seen from the river approach - amber lanterns on the walls, the Spire rising above grey-blue stone, the haze holding everything in sourceless gold, no shadows anywhere](images/varenhold-river-approach.png)
 
 ## The City at the Edge of Morning
 
@@ -62,7 +62,7 @@ That is where you come in.
 
 ---
 
-![Several Dawnborn at a Dawnhall event - beloved, the city's hope and its heaviest burden, not knowing yet that these are the same thing](images/the-dawnborn-public.svg)
+![Several Dawnborn at a Dawnhall event - beloved, the city's hope and its heaviest burden, not knowing yet that these are the same thing](images/the-dawnborn-public.png)
 
 ## What Kind of Story This Is
 
@@ -89,3 +89,14 @@ One request for everyone at the table, player and GM alike:
 *Take the Dawnborn seriously.* They are not plot devices. They are not symbols. They are people who have been treated as symbols for fifty years and are tired of it. The campaign is only as good as the moment when that stops being abstract.
 
 Everything else follows from there.
+
+### Player Companion at a Glance
+
+This book now carries a full Player Companion between the world chapters and the GM toolkit. Point players there when they want more than the core guide without touching spoilers:
+
+- **`characters.md`** — five fully statted pre-made characters tied to Varenhold, plus a table of their relationships. Use them straight out of session zero or mine them for personal hooks.
+- **`shops.md`** — six named establishments with reputation tracks and side quests. Drop-in-friendly for Session 2 onward when the party wants to invest in the city.
+- **`travel.md`** — route writeups and sensory travel beats for every road leaving the city, with GM-only encounter tables collapsed beneath the player descriptions.
+- **`tracker.md`** — the campaign state trackers you can print between sessions: faction reputation, Dawnborn consent, crisis pressure, and living-world notes.
+
+Players can safely read all four chapters; GMs can use them as ready-made handouts to make the city feel alive between headline scenes.

@@ -12,6 +12,17 @@ The structure:
 - **NPCs** - Detailed profiles for every major character using the OGAS system
 - **Sessions 1-5** - Scene-by-scene session guides with branching paths
 - **GM Toolkit** - AI tools, encounter tables, prep checklists, tracking sheets
+- **Player Companion** - Player-safe addenda (pre-made characters, shops, travel, trackers) you can hand out without exposing secrets
+
+### Point Players at the Companion
+
+When players ask where to find more texture between sessions, send them to the Player Companion chapters:
+
+- `characters.md` for instant pregens and relationship hooks
+- `shops.md` and `travel.md` for downtime investments and route prep
+- `tracker.md` for the shared campaign state sheet you update between games
+
+Treat those files as handouts: share PDFs, screenshot individual tables, or drop them into your VTT. Everything else in this book stays on your side of the screen.
 
 ### Running the Campaign Short
 

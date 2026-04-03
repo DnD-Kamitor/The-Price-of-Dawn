@@ -42,13 +42,13 @@ The sky above Varenhold is never fully dark and never fully bright. It sits in a
 
 *Detailed entries for each district. Use these for scene-setting, random encounters, and atmosphere.*
 
-![A city map of Varenhold showing all six districts - the Highmark, Lowmark, Scholars' Quarter, Merchant Quarter, Ashring Quarter, and River Ward, with the Spire rising from the centre](images/varenhold-district-map.svg)
+![A city map of Varenhold showing all six districts - the Highmark, Lowmark, Scholars' Quarter, Merchant Quarter, Ashring Quarter, and River Ward, with the Spire rising from the centre](images/varenhold-district-map.png)
 
 ---
 
 ### The Ashring Quarter
 
-![The Ashring plaza - the scorched stones in a circle exactly thirty feet across, unchanged in fifty years, children sometimes playing at the edges, the central stones simply wrong in a way that can't be cleaned away](images/ashring-scorched-stones.svg)
+![The Ashring plaza - the scorched stones in a circle exactly thirty feet across, unchanged in fifty years, children sometimes playing at the edges, the central stones simply wrong in a way that can't be cleaned away](images/ashring-scorched-stones.png)
 
 **What it looks like:**
 The oldest part of the city, dense with pre-twilight stone buildings whose upper stories lean toward each other across narrow streets. The Ashring plaza itself is open and striking - the scorch marks on the central stones form a rough circle approximately thirty feet in diameter, and no amount of cleaning, resanding, or resurfacing has ever made them fade. The stone is not burned - it is *changed*, at a molecular level the Spire scholars cannot fully explain.
@@ -126,7 +126,7 @@ The Lowmark is where the city's survival infrastructure lives. People here work 
 
 ### The Spire Quarter
 
-![The Spire tower rising above the grey-blue stone of the Scholars' Quarter - magical additions bolted to the exterior, glass panels glowing amber and pale blue, the building that should have solved this by now](images/the-spire-tower.svg)
+![The Spire tower rising above the grey-blue stone of the Scholars' Quarter - magical additions bolted to the exterior, glass panels glowing amber and pale blue, the building that should have solved this by now](images/the-spire-tower.png)
 
 **What it looks like:**
 The Spire itself is a tower complex three hundred years old, built in the Reaches' characteristic grey-blue stone but encrusted with decades of magical additions: extra floors bolted onto the exterior, bridges connecting wings that were clearly built separately, glass panels that glow faintly in colors that shift between amber and pale blue depending on the research happening inside. The surrounding quarter is Varenhold's cleanest district - not prosperous, exactly, but maintained. Scholars care about their environment.
@@ -203,6 +203,8 @@ The Dawnhalls district is the most functional place in Varenhold. It is not the 
 ---
 
 ### The Outer Ring
+
+![The Council Hall entrance with stone steps, the carved city seal, two lantern-lit guards on duty, the building's permanent weight visible even as the city frays](images/highmark-council-hall.png)
 
 **What it looks like:**
 The Outer Ring is the city's former prestige district - the arc of wide streets and grand buildings that was developed during Varenhold's golden age to house the merchant guilds, the major temples, the Chancellor's Hall, and the homes of the wealthy. It is still the most architecturally impressive district, but the grandeur is fraying. Several of the merchant guild halls are operating at reduced capacity or leased to secondary purposes. The Auris Cathedral is the largest building in the city and is visibly divided - one half maintained by the Penitents (clean, draped in mourning cloth), one half maintained by the Wounded faction (actively decorated, flowers on the altar, arguing with the Penitents in the forecourt).
@@ -586,7 +588,7 @@ The Healers' Guild is one of the few institutions in Varenhold that all factions
 
 ### The Grey Sickness: Medical and Social Reality
 
-![Stage 3 grey sickness patients in the care house - alive but absent, eyes open and unfocused, the particular stillness of those who have gone somewhere the light cannot reach](images/grey-sickness-ward.svg)
+![Stage 3 grey sickness patients in the care house - alive but absent, eyes open and unfocused, the particular stillness of those who have gone somewhere the light cannot reach](images/grey-sickness-ward.png)
 
 *The grey sickness is not a disease in the conventional sense. It does not spread between people. It spreads through absence - through the slow removal of something the body needs that medicine cannot fully replace.*
 

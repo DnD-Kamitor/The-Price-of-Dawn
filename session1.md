@@ -34,9 +34,15 @@
 - [ ] Set the visual tone: dim amber light, sourceless, the smell of lamp oil everywhere, no shadows
 - [ ] Place the three notation key fragments (see Puzzle section) on your session map before play
 
+### Player Companion Touchpoints
+
+- **Arrival Texture (`travel.md`):** Use the Northern Road / Eastern Track entries to open the campaign with five-senses detail. Each route description includes NPC wants and fears baked into the waypoints; pick the one that matches how the party arrived and start with that sensory beat.
+- **First Downtime Hooks (`shops.md`):** As soon as the Chancellor's briefing ends, ask players what resources they want when they leave Council Hall. Point them at the Grain Measure or Wayfarer's Rest entries; both proprietors have clear stakes (feeding the Lowmark; keeping travelers safe) that dovetail with Scene 3's introduction to Sera.
+- **Shared Tracker (`tracker.md`):** Print the faction reputation + Dawnborn consent sheet now and set it on the table blank. Let players see that their choices will start filling it next session, which frames Scene 4's Restorer encounter as more than a random fight.
+
 ---
 
-![The restricted section of the Varenhold Archive - towering shelves in amber lanternlight, dust motes drifting, the smell of fifty years of paper and secrets](images/session1-opening.svg)
+![The restricted section of the Varenhold Archive - towering shelves in amber lanternlight, dust motes drifting, the smell of fifty years of paper and secrets](images/session1-opening.png)
 
 ## The Hook
 
@@ -53,7 +59,7 @@ The players receive a formal summons - letter, messenger, or personal approach d
 
 ## Scene 1: The Chancellor's Request
 
-![The Chancellor's private study - the fire that does not help, amber sky through high windows, the request she's about to make sitting between them on the desk](images/session1-chancellors-study.svg)
+![The Chancellor's private study - the fire that does not help, amber sky through high windows, the request she's about to make sitting between them on the desk](images/session1-chancellors-study.png)
 
 **Location:** The Chancellor's private study in Council Hall. Evening (always evening, in Varenhold). A fire burns. It does not help.
 
@@ -257,6 +263,26 @@ He hands them a sealed note and speaks quietly, urgently:
 **Jaret (Restorer Zealot):** Stays at range. Uses Sacred Flame and Inflict Wounds. His goal is to create enough threat that the players stop and talk, not to kill anyone. If reduced to 10 HP or below, he raises both hands and says: *"We yield. Please read the note."*
 
 **Terrain:** City street, narrow. Two-deep formation favors grappling. Nearby market stalls provide cover and improvised weapons (produce crates, a hanging lantern). Bystanders will scatter within one round and summon city watch in three rounds - which creates time pressure for both sides.
+
+### Combat: Secondary Objectives
+
+The fight is never about winning initiative. It is about what message the players send to the Restorers, the Chancellor, and the watching crowd.
+
+| Objective | Condition | Reward |
+|-----------|-----------|--------|
+| **Keep it non-lethal** | No Restorer or bystander drops to 0 HP | Restorers stay neutral or friendly; Edoran's invitation remains on the table |
+| **Beat the watch** | Resolve or disengage before the start of round 3 (or succeed on a DC 13 group Stealth check to slip away) | Avoid Council inquiries and public charges; Chancellor trust does not drop |
+| **Take Jaret alive** | Grapple or reduce him to 0 HP with non-lethal damage and succeed on a DC 13 Persuasion/Intimidation check | Gain the Restorer compound address, timing for Edoran's meeting, and +1 clue toward Dawn faction politics |
+
+### The Encounter Beat: The Watch Bell
+
+At the start of **round 3**, the street bells ring twice — the signal that the city watch has been alerted and is two rounds out. From this moment:
+
+- All Charisma checks with bystanders are at disadvantage; everyone is panicking.
+- Any lethal attack after the bell automatically draws the watch's attention to the attacker (expect arrests or reputation fallout in downtime).
+- Players who choose to talk can use the bell as leverage: *"We have two minutes before the watch arrives. Decide now."* Checks made in the round after the bell gain advantage as urgency spikes.
+
+If the confrontation is still unresolved when the watch arrives, treat the scene as failed diplomacy: the Chancellor is briefed, and the Restorers consider the players hostile until repaired later.
 
 > **GM Tip:** This note is designed to create paranoia and intrigue, not to give anything away. "The cost is real" is the hook. Don't let the players dismiss it - but don't explain it either. Not yet.
 

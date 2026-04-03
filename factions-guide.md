@@ -6,7 +6,7 @@
 
 ## The City Council
 
-![The Council chamber - high stone walls, the city seal above empty chairs at a long table; the room where Varenhold's official position on the ritual has been maintained, unchanged, for fifty years](images/council-hall-interior.svg)
+![The Council chamber - high stone walls, the city seal above empty chairs at a long table; the room where Varenhold's official position on the ritual has been maintained, unchanged, for fifty years](images/council-hall-interior.png)
 
 **What they are:** Varenhold's governing body, consisting of seven Councillors who represent the city's major interest groups - trade, scholars, healers, the guard, the working districts, and two at-large seats. The Chancellor serves as the Council's presiding officer and primary executive.
 
@@ -56,7 +56,7 @@ The three Dawnborn most publicly visible:
 
 **Lira Anwick** is the Dawnborn most associated with the healing arts specifically. She trained formally with the Healers' Guild and is their most skilled practitioner of the treatment approaches developed specifically for grey sickness. She is less publicly visible than Sera or Tomas - she works in the care houses, which are not public spaces - but is deeply known and trusted within the communities most affected by the sickness. People in the Lowmark speak of her with particular affection.
 
-![Sera, Tomas, and Lira - the three most publicly visible Dawnborn; protector, mediator, and healer, lit by amber lanterns at a Dawnhall entrance](images/dawnborn-trio.svg)
+![Sera, Tomas, and Lira - the three most publicly visible Dawnborn; protector, mediator, and healer, lit by amber lanterns at a Dawnhall entrance](images/dawnborn-trio.png)
 
 **The Dawnhalls** are associated with the Dawnborn but not run by them - they're city infrastructure. The name reflects the timing of their founding (during the early years of the twilight) and the Dawnborn's involvement in their establishment, not an ongoing governance role.
 
@@ -123,7 +123,7 @@ The three Dawnborn most publicly visible:
 
 ## The Desperate
 
-![A gathering of the Desperate movement in a Lowmark square - not a mob yet, just people who have been waiting too long and have stopped waiting quietly](images/the-desperate-lowmark.svg)
+![A gathering of the Desperate movement in a Lowmark square - not a mob yet, just people who have been waiting too long and have stopped waiting quietly](images/the-desperate-lowmark.png)
 
 **What they are:** Less a formal organization than a movement with a name. "The Desperate" is what people call the loose network of Varenholders - and Dusk Parishes emigrants - who believe the city's current approach is inadequate and are willing to take actions the Council would not sanction. The Desperate's tactics vary enormously across different cells: some are simply people talking about things they shouldn't, some organize unauthorized protests, and some - the fringe - are willing to do more.
 
