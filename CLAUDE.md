@@ -32,7 +32,7 @@ All 30 original milestones complete. The book is fully built and publication-rea
 | `crafting-and-professions.md` | Complete | 5 professions with full tables; background knowledge auto-unlocks |
 | `appendix.md` | Complete | Quick reference: DCs, NPC roster, stat block index, price table, ritual reference |
 | `images/` | In progress | Replacing PNG set with sourced public-domain / CC photography per batch plan |
-| `audio/` | In progress | TTS via piper-sample-generator; opener + Graymere overview + Twilight City narration |
+| `audio/` | In progress | TTS via piper-sample-generator; opener + world-lore narrations + district tours |
 
 ---
 

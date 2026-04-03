@@ -50,6 +50,12 @@ The sky above Varenhold is never fully dark and never fully bright. It sits in a
 
 ![The Ashring plaza - the scorched stones in a circle exactly thirty feet across, unchanged in fifty years, children sometimes playing at the edges, the central stones simply wrong in a way that can't be cleaned away](images/ashring-scorched-stones.png)
 
+*Audio tour:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/setting-district-ashring.wav" type="audio/wav">
+</audio>
+
 **What it looks like:**
 The oldest part of the city, dense with pre-twilight stone buildings whose upper stories lean toward each other across narrow streets. The Ashring plaza itself is open and striking - the scorch marks on the central stones form a rough circle approximately thirty feet in diameter, and no amount of cleaning, resanding, or resurfacing has ever made them fade. The stone is not burned - it is *changed*, at a molecular level the Spire scholars cannot fully explain.
 
@@ -87,6 +93,12 @@ The Ashring quarter is quieter than it was, but still inhabited - a mix of longt
 ---
 
 ### The Lowmark
+
+*Audio tour:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/setting-district-lowmark.wav" type="audio/wav">
+</audio>
 
 **What it looks like:**
 The Lowmark runs along the city's river-facing edge, lower in elevation than the rest of Varenhold (hence the name) and subject to the cold, damp air that rolls off the Graymere River before dawn - or what would be before dawn if there were a dawn. Buildings here are older and more crowded than in other districts, with washing lines strung between upper stories and small market stalls occupying every available ground-floor space. The Dawnhall at the center of the district is the largest in the city.
@@ -128,6 +140,12 @@ The Lowmark is where the city's survival infrastructure lives. People here work 
 
 ![The Spire tower rising above the grey-blue stone of the Scholars' Quarter - magical additions bolted to the exterior, glass panels glowing amber and pale blue, the building that should have solved this by now](images/the-spire-tower.png)
 
+*Audio tour:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/setting-district-spire-quarter.wav" type="audio/wav">
+</audio>
+
 **What it looks like:**
 The Spire itself is a tower complex three hundred years old, built in the Reaches' characteristic grey-blue stone but encrusted with decades of magical additions: extra floors bolted onto the exterior, bridges connecting wings that were clearly built separately, glass panels that glow faintly in colors that shift between amber and pale blue depending on the research happening inside. The surrounding quarter is Varenhold's cleanest district - not prosperous, exactly, but maintained. Scholars care about their environment.
 
@@ -165,6 +183,12 @@ The Spire Quarter is a bubble. The people who live and work here have spent fift
 ---
 
 ### The Dawnhalls District
+
+*Audio tour:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/setting-district-dawnhalls.wav" type="audio/wav">
+</audio>
 
 **What it looks like:**
 The Dawnhalls district is the city's social center - the area built up around the original Dawnhall complex, which was constructed in the first decade of the twilight as emergency communal infrastructure and has been expanding ever since. The buildings are newer than most of Varenhold - built over the past forty years in the twilight era's characteristic heavy-timber style, warm-toned wood and covered walkways. The Dawnhalls themselves are long, low, well-lit (this district uses more lamp oil than any other, by deliberate choice).
@@ -206,6 +230,12 @@ The Dawnhalls district is the most functional place in Varenhold. It is not the 
 
 ![The Council Hall entrance with stone steps, the carved city seal, two lantern-lit guards on duty, the building's permanent weight visible even as the city frays](images/highmark-council-hall.png)
 
+*Audio tour:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/setting-district-outer-ring.wav" type="audio/wav">
+</audio>
+
 **What it looks like:**
 The Outer Ring is the city's former prestige district - the arc of wide streets and grand buildings that was developed during Varenhold's golden age to house the merchant guilds, the major temples, the Chancellor's Hall, and the homes of the wealthy. It is still the most architecturally impressive district, but the grandeur is fraying. Several of the merchant guild halls are operating at reduced capacity or leased to secondary purposes. The Auris Cathedral is the largest building in the city and is visibly divided - one half maintained by the Penitents (clean, draped in mourning cloth), one half maintained by the Wounded faction (actively decorated, flowers on the altar, arguing with the Penitents in the forecourt).
 
@@ -243,6 +273,12 @@ The Outer Ring is where power is performed. People who work here are aware of st
 ---
 
 ### The Ashfen Gate District
+
+*Audio tour:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/setting-district-ashfen-gate.wav" type="audio/wav">
+</audio>
 
 **What it looks like:**
 The southernmost district, named for the gate that opens toward the Ashfen marshes and the trade roads beyond. This is the entrance district - where caravans arrive, where travelers stay, where the city shows its face to outsiders. The Wayshrine of the Wanderer stands just outside the gate, maintained by the city regardless of religious affiliation. Inside the gate, the streets are slightly wider (designed for cart traffic) and the buildings are predominantly inns, stables, storage houses, and the Restorer compound, which occupies what was formerly a trading post.
