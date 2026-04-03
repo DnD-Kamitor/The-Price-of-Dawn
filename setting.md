@@ -318,6 +318,10 @@ The Ashfen Gate district is the most transient part of Varenhold - people are al
 
 ## History: The Night the Sun Died
 
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/setting-history-night.wav" type="audio/wav">
+</audio>
+
 ### Before the Twilight
 
 Fifty years ago, Varenhold was at its height. The city's ruling Council had hired a cadre of the most powerful mages in three kingdoms to perform the **Ritual of Eternal Dawn** - an amplification of the sun's blessing meant to ensure Varenhold's crops would never fail and its people would never suffer the harsh winters of the surrounding regions.
