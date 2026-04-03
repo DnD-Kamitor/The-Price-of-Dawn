@@ -145,4 +145,11 @@ Goal: swap legacy AI/placeholders with sourced historical photography or paintin
 - `amber-workshop-interior.png` — Photograph *Wu Duen-Hou Lantern Workshop* (Taichung City Government, 2015), via Wikimedia Commons `Special:FilePath/Wu_Duen-Hou_Lantern_Workshop.jpg`.
 - `dawnhall-food-kitchen.png` — Imperial War Museums photo *Communal Feeding in Britain during the First World War (Q30634)*, via Wikimedia Commons `Special:FilePath/Communal_Feeding_in_Britain_during_the_First_World_War_Q30634.jpg`.
 
+### Batch 2 — Completed
+- `amber-lantern-concert.png` — Carol I of Romania, *Peleș Castle Interior – Royal Concert Hall* (2022 photo), via Wikimedia Commons `Special:FilePath/Peles_Castle_Interior_-_Royal_Concert_Hall.jpg` (CC BY-SA 4.0).
+- `ashfen-gate-arrival.png` — Johannes Lingelbach, *A street scene by a Roman city gate* (c.1660–1670), via Wikimedia Commons `Special:FilePath/A_street_scene_by_a_Roman_city_gate,_Johannes_Lingelbach.jpeg` (public domain).
+- `ashfen-marsh-travel.png` — Richard Law, *Crossing Llanrhidian Marsh on the causeway* (2011), via Wikimedia Commons `Special:FilePath/Crossing_Llanrhidian_Marsh_on_the_causeway_-_geograph.org.uk_-_2687559.jpg` (CC BY-SA 2.0).
+- `ashfen-wayshrine.png` — Jacques Verlaeken, *Stone wayside column shrine, Gornja Radgona* (2015), via Wikimedia Commons `Special:FilePath/Gornja_Radgona_1525_Wayside_shrine_Christ.jpg` (CC BY-SA 4.0).
+- `ashring-scorched-stones.png` — David Smith, *Scorhill stone circle* (2020), via Wikimedia Commons `Special:FilePath/Scorhill_stone_circle_-_geograph.org.uk_-_6668933.jpg` (CC BY-SA 2.0).
+
 Upcoming batches continue alphabetically through `images/GENERATE-THESE.md` priorities.
