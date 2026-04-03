@@ -3,6 +3,8 @@
 Generate each image and save it as a `.png` in this folder with the exact filename listed.
 Then run `quarto render` — the book will automatically use the `.png` files in place of `.svg` placeholders.
 
+> GitHub runners now run `tools/generate_campaign_art.py` inside the `Quarto Build` workflow, so every push to `master` regenerates the PNG art before Quarto renders the site.
+
 ## Style Notes (apply to all images)
 
 **Overall aesthetic:** Dark fantasy, painterly, melancholy. Think oil painting rather than digital concept art. No bright sunlight anywhere. The palette throughout is deep ochres, amber, grey-brown stone, shadow-blue, with amber lantern-glow as the warmest colour present.
@@ -140,7 +142,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `varenhold-last-morning.svg`
+### `varenhold-last-morning.png`
 **Used in:** `world-lore.md`, in the "The Last Day Before" section
 
 **What it shows:** The Ashring in the moment the light changed — fifty years ago, the Primer Stones glowing, the night sky shifting from true darkness to sourceless amber for the first time. The last real dark Varenhold ever saw. There are no people visible; just the stones, the sky, the transition.
@@ -150,7 +152,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `corven-notebook.svg`
+### `corven-notebook.png`
 **Used in:** `session-recording.md`, before the Corven's Notebook section
 
 **What it shows:** A small leather notebook, six inches by four, cover worn smooth from years of handling. Open to a page of extremely dense handwriting — corrections in the margins, arrows and revisions, the notation of a mind arguing with itself. A quill rests beside it. Amber candlelight.
@@ -160,7 +162,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `the-night-of-the-ritual.svg`
+### `the-night-of-the-ritual.png`
 **Used in:** `world-lore.md`, at the opening of "The Last Day Before" section
 
 **What it shows:** The Ashring plaza the moment the ritual completed — fifty years ago. The scorched circle visible in the stones. The sky transitioning. No figures needed, or just silhouettes at a distance watching. The sense of something irreversible in process.
@@ -170,7 +172,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `theron-archive-stacks.svg`
+### `theron-archive-stacks.png`
 **Used in:** `deep-archive.md`, before Part Two: Corven's True Story
 
 **What it shows:** Archivist Theron Waide in the deep Archive. Towering shelves of documents, amber lantern held at head height, everything else in shadow. He is looking for something — or trying not to look for something. He is older. He has been down here many times.
@@ -180,7 +182,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `ashring-scorched-stones.svg`
+### `ashring-scorched-stones.png`
 **Used in:** `setting.md` (Ashring Quarter section), `discovery-quests.md` (Ashring at 4 AM location)
 
 **What it shows:** The Ashring plaza seen from ground level — the circle of scorched stones, exactly as they have been for fifty years. Maybe a single candle burned down near the centre. No drama, no magic glow. Just stone that was changed, permanently, on one night. A heron at the edge, optionally.
@@ -190,7 +192,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `lowmark-care-house.svg`
+### `lowmark-care-house.png`
 **Used in:** `setting.md` (Lowmark section), `discovery-quests.md` (Care House location)
 
 **What it shows:** The care house ward at night — cots in rows, amber lantern kept low, a night practitioner moving between patients. Some patients are asleep. One is awake, staring at the ceiling. The painting hanging on the wall (Ceva Doss, the market in sunlight) is visible in the background.
@@ -200,7 +202,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `session1-opening.svg`
+### `session1-opening.png`
 **Used in:** `session1.md`, at the start of the session
 
 **What it shows:** The restricted section of the Varenhold Archive — towering shelves extending into shadow, amber lanternlight falling across stacked documents, dust motes suspended. The sense of being in a place full of things that have been hidden rather than lost.
@@ -210,7 +212,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `session2-opening.svg`
+### `session2-opening.png`
 **Used in:** `session2.md`, at the start of the session
 
 **What it shows:** A ritual diagram unrolled on a stone table — an ink diagram showing ten circles arranged in a specific pattern, names written at each position, the notation system Corven invented. The whole shape of what the ritual costs, made visible as a document.
@@ -220,7 +222,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `session3-opening.svg`
+### `session3-opening.png`
 **Used in:** `session3.md`, at the start of the session
 
 **What it shows:** The Spire laboratory — bench space, arcane equipment, and the Resonance Rods: tuning-fork shaped devices on stands, faintly humming, glowing with stored ritual energy in the amber light. The tools of fifty years of failed scholarship.
@@ -230,7 +232,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `session4-opening.svg`
+### `session4-opening.png`
 **Used in:** `session4.md`, at the start of the session
 
 **What it shows:** The Ashring at night with all ten Primer Stones active — each stone glowing amber, the circle now visible as a complete mechanism rather than just marked positions. The shape of the ritual, lit at last.
@@ -240,7 +242,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `session5-opening.svg`
+### `session5-opening.png`
 **Used in:** `session5.md`, at the start of the session
 
 **What it shows:** The Inversion Circle prepared at the Ashring — ten positions marked, the ritual configuration set, every element in place. The sense of a moment before an irreversible decision. The city behind, the stones ahead, the sky unchanged.
@@ -250,7 +252,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `erem-wadewalker.svg`
+### `erem-wadewalker.png`
 **Used in:** `deep-archive.md`, before Part Five: The Oral Histories
 
 **What it shows:** An Ashfen Clan Wadewalker at the marsh's edge — dark waders, tools of the trade carried at ease, unhurried movement, watching the water. Not exotic or dangerous — just present, in a landscape that belongs to them.
@@ -260,7 +262,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `corven-sealed-letter.svg`
+### `corven-sealed-letter.png`
 **Used in:** `deep-archive.md`, before Document B6: Corven's Final Letter
 
 **What it shows:** A small sealed letter on an Archive shelf, between two document boxes. No address. The wax seal is unbroken — not because no one found it, but because no one opened it for fifty years. The shelf number (4-17-3) is just visible on the shelf tag.
@@ -270,7 +272,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `the-spire-tower.svg`
+### `the-spire-tower.png`
 **Used in:** `setting.md`, before the Spire Quarter section
 
 **What it shows:** The Spire tower rising above the surrounding Scholars' Quarter — grey-blue stone base, multiple additional floors and extensions bolted on over the centuries, glass panels glowing faintly amber and blue. The building that was supposed to solve all of this and hasn't.
@@ -280,7 +282,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `grey-sickness-ward.svg`
+### `grey-sickness-ward.png`
 **Used in:** `setting.md`, before The Grey Sickness section
 
 **What it shows:** Stage 3 grey sickness patients in the care house — not dying, but absent. Eyes open and unfocused. Not looking at anything. The particular quality of someone who has gone somewhere medicine cannot follow. A single practitioner in the background, tending to those still in earlier stages.
@@ -290,7 +292,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `ceva-doss-sunlight-painting.svg`
+### `ceva-doss-sunlight-painting.png`
 **Used in:** `world-lore.md`, after the Ceva Doss OGAS block
 
 **What it shows:** Ceva Doss's famous "Lowmark Market at Noon, Year 0 (Before)" — this is a painting of a painting. The market is full of people in actual sunlight: the light comes from the left, high up. Shadows pointing right. People squinting. This is what sunlight looks like, painted by someone who has spent forty years trying to remember.
@@ -300,7 +302,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `varenhold-district-map.svg`
+### `varenhold-district-map.png`
 **Used in:** `setting.md`, before the Districts section
 
 **What it shows:** A hand-drawn city map of Varenhold showing all six districts: the Ashring Quarter (oldest, centre-ish), the Lowmark (working class, west), the Spire Quarter (scholars, north), the Dawnhalls District (communal, east), the Outer Ring (newer, south), and the Ashfen Gate District (gateway, south). The river along the south-west edge. Roads connecting districts. The Spire tower marked.
@@ -310,7 +312,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `restorer-compound-dawn.svg`
+### `restorer-compound-dawn.png`
 **Used in:** `discovery-quests.md`, before the Restorer Compound location description
 
 **What it shows:** The Restorer compound entrance in early amber light — a plain building with grey cord banners hanging over the door, steps at the front. A young woman in her mid-twenties sits on the steps with a cup of something hot and a small pamphlet she folds away at the sight of a visitor. Not threatening. Not certain.
@@ -320,7 +322,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `highmark-council-hall.svg`
+### `highmark-council-hall.png`
 **Used in:** `setting.md`, near the City Council section
 
 **What it shows:** The Council Hall entrance — stone steps, the city's official seal carved above the doors, two guards at the entrance. The building where the city's official position on the ritual is formed and protected. It should look permanent and slightly forbidding.
@@ -330,7 +332,7 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 
 ---
 
-### `inversion-circle-diagram.svg`
+### `inversion-circle-diagram.png`
 **Used in:** `session5.md`, near the Inversion Circle puzzle section
 
 **What it shows:** A schematic of the Inversion Circle — ten Primer Stones in a ring, each numbered 1-10, with activation timing windows marked. The ritual configuration as a technical diagram. Should look like a combination of magical notation and engineering schematic.
@@ -547,12 +549,12 @@ Then run `quarto render` — the book will automatically use the `.png` files in
 When you have your generated PNGs ready:
 
 1. Save each file in this `images/` folder with the exact `.png` filename listed above.
-2. Open each markdown file and change the extension from `.svg` to `.png` — use this one-liner from the project root:
+2. If you import legacy content that still references `.svg`, swap to `.png` with this helper:
 
 ```bash
 sed -i 's/\(images\/[^)]*\)\.svg/\1.png/g' *.md session1.md session2.md session3.md session4.md session5.md setting.md deep-archive.md discovery-quests.md session-recording.md
 ```
 
-3. Run `quarto render` to rebuild the book.
+3. Run `quarto render` locally, or push to `master` and let the GitHub runner rebuild the art plus docs.
 
-The `.svg` placeholder files can be deleted once replaced, or kept as backups.
+Delete any remaining `.svg` placeholder files once the `.png` versions exist.

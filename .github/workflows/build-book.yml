@@ -1,8 +1,14 @@
-name: Build and Publish Book
+name: Quarto Build
 
 on:
   push:
-    branches: [master]
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
   workflow_dispatch:
 
 permissions:
@@ -28,10 +34,16 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install "altair>=4,<5" vega_datasets pandas ipykernel
+          pip install "altair>=4,<5" vega_datasets pandas ipykernel pillow
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Check Quarto installation
+        run: quarto check --no-cache
+
+      - name: Generate campaign art
+        run: python tools/generate_campaign_art.py
 
       - name: Render book
         run: quarto render

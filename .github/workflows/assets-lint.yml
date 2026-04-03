@@ -1,0 +1,22 @@
+name: Asset Guard
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
+
+jobs:
+  validate-assets:
+    name: Validate Art & Audio Assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Run asset validation script
+        run: python3 .github/scripts/check_assets.py
