@@ -8,6 +8,12 @@
   <source src="audio/world-lore-graymere-overview.wav" type="audio/wav">
 </audio>
 
+*Full-page narration (Graymere overview through the city's golden age):*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/world-lore-page1.wav" type="audio/wav">
+</audio>
+
 ---
 
 ## The Graymere Reaches
@@ -18,7 +24,7 @@ For most of the Reaches' recorded history, this arrangement worked well. Each po
 
 Then the sun went out.
 
-![A hand-drawn regional map of the Graymere Reaches, showing Varenhold at the crossroads with Solenne to the north, the Arveth Compact to the west, the Dusk Parishes to the east, the Ashfen Clans to the south, and the Graymere Holds to the northwest](images/map-graymere-reaches.svg)
+![A hand-drawn regional map of the Graymere Reaches, showing Varenhold at the crossroads with Solenne to the north, the Arveth Compact to the west, the Dusk Parishes to the east, the Ashfen Clans to the south, and the Graymere Holds to the northwest](images/map-graymere-reaches.png)
 
 ---
 
@@ -42,7 +48,7 @@ The light has changed since.
 
 ---
 
-![The Ashring the moment the light changed - fifty years ago, the stones glowing, the sky shifting from deep night to sourceless amber, the last moment of darkness Varenhold ever saw](images/the-night-of-the-ritual.svg)
+![The Ashring the moment the light changed - fifty years ago, the stones glowing, the sky shifting from deep night to sourceless amber, the last moment of darkness Varenhold ever saw](images/the-night-of-the-ritual.png)
 
 It was hot.
 
@@ -85,7 +91,7 @@ At 10 PM, the Archmagister lit the first of the Primer Stones.
 
 ---
 
-![The last morning before the Night - Varenhold's market plaza, lanterns not yet lit, shadows long in real sunlight for the last time, people going about their day unaware](images/varenhold-last-morning.svg)
+![The last morning before the Night - Varenhold's market plaza, lanterns not yet lit, shadows long in real sunlight for the last time, people going about their day unaware](images/varenhold-last-morning.png)
 
 ---
 
@@ -171,7 +177,7 @@ History has its official dates. Varenholders have their own names for the eras t
 
 The twilight is not darkness. This surprises most newcomers. Varenhold exists in a permanent deep dusk - the light of a sun perpetually below the horizon, refracted through the atmosphere into a sourceless grey-amber glow. You can see. You can read, walk, work. But there are no shadows. There is no warmth in the light. And there has been no day for fifty years.
 
-![Varenhold's skyline seen from the river approach - stone buildings, the Spire rising above the walls, amber lanterns at the gate, the sky a sourceless grey-gold with no shadows anywhere](images/varenhold-twilight-cityscape.svg)
+![Varenhold's skyline seen from the river approach - stone buildings, the Spire rising above the walls, amber lanterns at the gate, the sky a sourceless grey-gold with no shadows anywhere](images/varenhold-twilight-cityscape.png)
 
 The current population is estimated at thirty-five to forty thousand. The rest have left - slowly, family by family, over decades. The ones who remain are the ones who couldn't leave, or wouldn't, or who have been waiting for something to change.
 
@@ -409,11 +415,11 @@ Critics in the Compact call these paintings nostalgic and sentimental. In Varenh
 
 OGAS: *Occupation:* Working artist in the Highmark district. *Goal:* Paint every major space in Varenhold as it would look in sunlight - a complete record before memory of sunlight fades entirely. *Attitude:* Warm, observant, slightly sad. Has absorbed every political debate about the ritual but does not participate. *Secret:* She has been receiving anonymous patrons for the past three years. She doesn't know it's Edoran.
 
-![Ceva Doss's "Lowmark Market at Noon" - the famous "Before Painting" showing the market in actual sunlight, shadows pointing right, people squinting, the warmth visible in the specific angle of the light](images/ceva-doss-sunlight-painting.svg)
+![Ceva Doss's "Lowmark Market at Noon" - the famous "Before Painting" showing the market in actual sunlight, shadows pointing right, people squinting, the warmth visible in the specific angle of the light](images/ceva-doss-sunlight-painting.png)
 
 The amber-lantern concert tradition is Varenhold's most famous artistic export. The concerts use specifically calibrated amber lamps to create a light environment that approximates, imperfectly, a warmly lit interior - and musicians compose and perform for that light. The scores specify both sound and light, written in a notation system unique to Varenhold. At their best, they are moving in a way that's hard to describe to people who haven't experienced them; at their worst, they're a kind of elaborate nostalgia exercise that doesn't accomplish much.
 
-![The interior of the Amber Hall during a lantern concert - musicians performing under banks of calibrated amber lanterns, the score specifying both sound and light](images/amber-lantern-concert.svg)
+![The interior of the Amber Hall during a lantern concert - musicians performing under banks of calibrated amber lanterns, the score specifying both sound and light](images/amber-lantern-concert.png)
 
 Varenhold's visual art has shifted in fifty years. The amber-tinted, warmly lit paintings that defined the pre-twilight period gave way first to starker grey-and-ochre work, then to a more recent movement that tries to find beauty in the twilight itself - paintings of the sourceless light on water, portraits of people by lamplight, large-scale depictions of the Dawnhalls' interior glow. Critics outside Varenhold sometimes find this work claustrophobic. Critics inside find the outside critics missing the point.
 

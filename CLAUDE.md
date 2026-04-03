@@ -80,6 +80,18 @@ python3 generate_samples.py "Your text here." \
 
 Output: `audio/0.wav` (22050 Hz, 16-bit mono). Rename immediately to something descriptive.
 
+### Repository Helper
+
+Inside this repo, `tools/generate_audio.py` wraps the command above and automatically writes to `audio/`:
+
+```bash
+python3 tools/generate_audio.py \
+  --text-file audio/scripts/world-lore-page1.txt \
+  --output-name world-lore-page1.wav
+```
+
+Set `PIPER_ROOT` or `PIPER_VOICE` env vars to override defaults.
+
 ### Key Arguments
 
 | Argument | What it does |
