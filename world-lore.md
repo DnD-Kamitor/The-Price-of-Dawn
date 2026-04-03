@@ -2,6 +2,12 @@
 
 *This chapter is fully player-safe. Read it before or between sessions.*
 
+*Optional narration:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/world-lore-graymere-overview.wav" type="audio/wav">
+</audio>
+
 ---
 
 ## The Graymere Reaches

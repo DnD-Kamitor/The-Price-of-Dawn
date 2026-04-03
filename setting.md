@@ -8,6 +8,12 @@ The sunset bells still ring, by tradition.
 
 The sunrise bells have been silent for fifty years.
 
+*Optional narration:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/setting-twilight-city.wav" type="audio/wav">
+</audio>
+
 ### What Permanent Twilight Looks Like
 
 The sky above Varenhold is never fully dark and never fully bright. It sits in a state of eternal pre-dawn - deep blue fading to amber at the horizon, stars visible overhead but dimmed, shadows long and permanent. Artists call it "the golden melancholy." The people who grew up in it call it normal. Visitors find it deeply unsettling.

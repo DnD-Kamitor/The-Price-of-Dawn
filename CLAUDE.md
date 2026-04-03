@@ -31,8 +31,8 @@ All 30 original milestones complete. The book is fully built and publication-rea
 | `knowledge-tiers.md` | Complete | 4-tier information system for 8 topics; Tier 3-4 contains campaign secrets |
 | `crafting-and-professions.md` | Complete | 5 professions with full tables; background knowledge auto-unlocks |
 | `appendix.md` | Complete | Quick reference: DCs, NPC roster, stat block index, price table, ritual reference |
-| `images/` | Placeholder | 32 SVG placeholders with AI generation prompts in GENERATE-THESE.md |
-| `audio/` | In progress | TTS via piper-sample-generator; one file so far (opening-line.wav) |
+| `images/` | Complete | SVG placeholders replaced with PNG art per GENERATE-THESE.md prompts |
+| `audio/` | In progress | TTS via piper-sample-generator; opener + Graymere overview + Twilight City narration |
 
 ---
 
@@ -45,6 +45,7 @@ All 30 original milestones complete. The book is fully built and publication-rea
 - Apply theGreatGM principles: stakes in every scene, NPCs with want/fear/lie, secondary objectives in all combats, five-senses openings, encounter beats
 - When adding stat blocks, use D&D 5e format matching sessions 1-4
 - When adding named NPCs, use OGAS format matching npcs.md
+- Asset Guard workflow runs `python3 .github/scripts/check_assets.py` on CI to enforce PNG-only art in `images/` + `docs/images/` and WAV-only audio in `audio/`
 
 ---
 
@@ -111,6 +112,7 @@ The `src` path is always relative to the document root (`audio/filename.wav`). W
 
 ### What to Record
 
+- **Campaign & history narration** — player-safe primers for chapters like `index.md`, `world-lore.md`, and `setting.md`
 - **Five-senses scene openers** at the start of each session (GMs can play these to open the scene)
 - **Key NPC introductions** — the first sentence a major NPC speaks
 - **Read-aloud passages** — any text marked as GM read-aloud to players
