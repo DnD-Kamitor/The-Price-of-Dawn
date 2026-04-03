@@ -31,7 +31,7 @@ All 30 original milestones complete. The book is fully built and publication-rea
 | `knowledge-tiers.md` | Complete | 4-tier information system for 8 topics; Tier 3-4 contains campaign secrets |
 | `crafting-and-professions.md` | Complete | 5 professions with full tables; background knowledge auto-unlocks |
 | `appendix.md` | Complete | Quick reference: DCs, NPC roster, stat block index, price table, ritual reference |
-| `images/` | Complete | SVG placeholders replaced with PNG art per GENERATE-THESE.md prompts |
+| `images/` | In progress | Replacing PNG set with sourced public-domain / CC photography per batch plan |
 | `audio/` | In progress | TTS via piper-sample-generator; opener + Graymere overview + Twilight City narration |
 
 ---
@@ -131,3 +131,18 @@ The `src` path is always relative to the document root (`audio/filename.wav`). W
 - **Atmospheric location descriptions** — the Ashring plaza, the Lowmark Healing House, the Archive
 
 Do not record: GM-only content, mechanical rules text, or anything containing campaign secrets (audio files are served in the public `docs/` directory — treat them as player-visible at all times).
+
+---
+
+## Image Replacement Tracker
+
+Goal: swap legacy AI/placeholders with sourced historical photography or paintings, five images per batch. After each batch: rebuild Quarto, run asset guard, commit, push.
+
+### Batch 1 — Completed
+- `varenhold-river-approach.png` — John Atkinson Grimshaw, *Liverpool Quay by Moonlight* (1887), via Wikimedia Commons `Special:FilePath/John_Atkinson_Grimshaw_-_Liverpool_Quay_by_Moonlight_(1887).jpg`.
+- `the-dawnborn-public.png` — Jean-Léon Gérôme, *Prayer in the Mosque* (1871), via Wikimedia Commons `upload.wikimedia.org/.../Prayer_in_the_Mosque.jpg`.
+- `character-creation-table.png` — Photograph *Dungeons and Dragons game* (Alan De Smet, 2007), via Wikimedia Commons `Special:FilePath/Dungeons_and_Dragons_game.jpg`.
+- `amber-workshop-interior.png` — Photograph *Wu Duen-Hou Lantern Workshop* (Taichung City Government, 2015), via Wikimedia Commons `Special:FilePath/Wu_Duen-Hou_Lantern_Workshop.jpg`.
+- `dawnhall-food-kitchen.png` — Imperial War Museums photo *Communal Feeding in Britain during the First World War (Q30634)*, via Wikimedia Commons `Special:FilePath/Communal_Feeding_in_Britain_during_the_First_World_War_Q30634.jpg`.
+
+Upcoming batches continue alphabetically through `images/GENERATE-THESE.md` priorities.

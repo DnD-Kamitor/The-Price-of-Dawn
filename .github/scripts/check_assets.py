@@ -10,7 +10,7 @@ from typing import Dict, Iterable
 DIRECTORY_RULES: Dict[str, set[str]] = {
     "images": {".png"},
     "docs/images": {".png"},
-    "audio": {".wav"},
+    "audio": {".wav", ".txt"},
 }
 
 ALLOWED_SIDEFILES = {Path("images/GENERATE-THESE.md")}
