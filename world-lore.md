@@ -105,6 +105,10 @@ At 10 PM, the Archmagister lit the first of the Primer Stones.
 
 *Varenholders do not count years from a monarch's birth or a founding charter. They count from the Night of the Ritual - Year 0, the night the sun stopped rising. Everything before that is "Before" (abbreviated B), everything after is numbered.*
 
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/world-lore-chronology.wav" type="audio/wav">
+</audio>
+
 | Era | Year | Event | What Changed |
 |-----|------|-------|-------------|
 | **Founding** | ~250 B | A fortified trading post established at the river crossing by a consortium of eight merchant families | Varenhold exists |

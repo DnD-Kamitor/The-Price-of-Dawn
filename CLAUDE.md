@@ -61,7 +61,7 @@ The campaign book supports embedded audio via piper-sample-generator. Audio file
 
 Available voices (all in `voices/`):
 - `en_US-danny-low.onnx` — **Preferred for this campaign.** Deepest available male voice. Use for atmospheric narration and serious read-alouds.
-- `en_US-ryan-high.onnx` — Deep American male, high quality. Good for NPC voices and read-alouds.
+- `en_US-ryan-high.onnx` — Deep American male, high quality. Slight rasp reads as older; use for elder narrators.
 - `en_US-lessac-medium.onnx` — American female voice, medium quality. Lighter tone.
 - `models/en-us-libritts-high.pt` — Multi-speaker PyTorch model, supports speaker blending. Requires more memory.
 
