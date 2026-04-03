@@ -46,6 +46,12 @@ The light has changed since.
 
 *The day before the ritual. Not history - memory. Five people who were there.*
 
+*Audio retelling:*
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/world-lore-last-day-before.wav" type="audio/wav">
+</audio>
+
 ---
 
 ![The Ashring the moment the light changed - fifty years ago, the stones glowing, the sky shifting from deep night to sourceless amber, the last moment of darkness Varenhold ever saw](images/the-night-of-the-ritual.png)
