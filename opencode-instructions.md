@@ -29,6 +29,12 @@
 - Skill check callouts should specify skill + DC + effect + consequence on failure. Whenever possible, add a secondary, non-roll solution (leveraging relationships, resources, or earlier clues) to keep agency high.
 - When a Barrier ties to a faction or Dawnborn stance, note which tracker entry to update and what reputation threshold/ally is required to bypass the check entirely.
 
+## Session & Encounter Content
+- Expand session chapters with breathable boxed text and **room descriptions** that open on sensory detail (light, sound, temperature) before mechanics. If an area has moving parts (NPC routines, environmental hazards), list them in quick bullets beneath the read-aloud.
+- For each new or revised scene, outline encounter beats (Hook → Complication → Escalation → Resolution) and identify which beats tie to the Living World trackers or Dawnborn consent tally.
+- **Monster/foe notes** live directly under their encounter headers: include tactical guidance, secondary objectives, and how they react to parley. If reusing existing stat blocks, reference the source (`appendix.md` table or MM page); if adding a stat block, follow the Session 1 format and embed it at the end of the chapter.
+- Room/encounter entries should end with quick-reference tables: `What They Want`, `What Fails Looks Like`, and `Tracker Impact` so GMs can see consequences at a glance.
+
 ## Asset Coordination
 - Leave audio scripts, Piper runs, and image sourcing untouched unless explicitly asked; note any recommended snippets for the audio/image teams in TODO comments or the tracker rather than implementing them yourself.
 - Keep the Asset Guard workflow in mind when expanding content (don't add unsupported media types), but defer the actual asset work to the dedicated pipelines.
