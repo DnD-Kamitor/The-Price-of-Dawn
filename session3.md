@@ -50,6 +50,10 @@
 
 **What the players hear and smell first:** The Archive's back reading room. Old paper, amber lamp oil, the faint char of last session's confrontation if the Reckoning burned anything. Tomas is already there - he found them, not the other way around.
 
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/session3-opening.wav" type="audio/wav">
+</audio>
+
 ### Read-Aloud
 
 > Tomas Areth finds you before you find him. He's been doing math.

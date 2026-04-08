@@ -44,6 +44,20 @@
 
 ![The restricted section of the Varenhold Archive - towering shelves in amber lanternlight, dust motes drifting, the smell of fifty years of paper and secrets](images/session1-opening.png)
 
+## Five Senses Opening
+
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/session1-opening.wav" type="audio/wav">
+</audio>
+
+### Read-Aloud
+
+> The Chancellor's summons still smells faintly of hot wax when you cross the Council Hall threshold. Amber lanterns hang in rows along the corridor and none of them flicker; the light is patient, sourceless, and relentless. The air tastes of polished wood and lamp oil, with the sharper tang of ink from the clerk's desk outside her office.
+>
+> Beyond the atrium windows, Varenhold is a smear of lantern glow and slate roofs. Couriers jog between buildings with their collars up against a wind that never quite arrives. In the courtyard below, two Dawnhall stewards shepherd a line of petitioners toward the food registry. No one raises their voice. Everyone is listening for something.
+>
+> When the Chancellor's aide opens the door for you, the firelight spills out and the heat hits your face like a memory of sunlight. She does not say welcome. She says: "She's ready." The city has been waiting fifty years for someone to answer this letter.
+
 ## The Hook
 
 The players receive a formal summons - letter, messenger, or personal approach depending on party background - to meet with Chancellor Mira Ostenveld at the Council Hall.

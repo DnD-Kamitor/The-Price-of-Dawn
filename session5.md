@@ -50,6 +50,10 @@
 
 *Read or paraphrase before anything else. Set the day.*
 
+<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
+  <source src="audio/session5-opening.wav" type="audio/wav">
+</audio>
+
 > The city smells different this morning. It takes a moment to identify why. Then you have it: there is no lamp oil smell. The Dawnhalls have not lit their morning lanterns. The people moving through the streets are quiet - not the usual silence of early hours, but a held-breath kind of quiet, the kind that has weight and direction.
 >
 > The amber sky is doing what it always does. But there is a crowd gathering at the Ashring quarter, not urgently - they're not running - but steadily. The way people move toward something they've been waiting for their entire lives.
