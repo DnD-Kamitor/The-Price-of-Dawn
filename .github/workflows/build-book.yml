@@ -40,7 +40,7 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Check Quarto installation
-        run: quarto check --no-cache
+        run: quarto check
 
       - name: Generate campaign art
         run: python tools/generate_campaign_art.py
