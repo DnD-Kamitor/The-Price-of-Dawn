@@ -26,13 +26,6 @@ book:
         - setting.md
         - npcs.md
         - trade.md
-    - part: "The Sessions"
-      chapters:
-        - session1.md
-        - session2.md
-        - session3.md
-        - session4.md
-        - session5.md
     - part: "Player's Companion"
       chapters:
         - appendix.md
@@ -44,6 +37,13 @@ book:
         - travel.md
         - tracker.md
         - session-recording.md
+    - part: "The Sessions"
+      chapters:
+        - session1.md
+        - session2.md
+        - session3.md
+        - session4.md
+        - session5.md
     - part: "GM Toolkit"
       chapters:
         - running-the-campaign.md
