@@ -4,6 +4,15 @@ Apply theGreatGM (Graeme Sherwood / TPGtbaGGM) principles throughout: every scen
 
 ---
 
+## Open Tasks
+
+### Skill Check Interactive Prototype
+The skill check system uses two tiers: `skill-passive` (auto-known by qualified characters, green toggle) and `skill-reveal` (requires a roll, amber toggle). Both are `<details>` elements players click manually.
+
+**TODO:** Build a JavaScript prototype on world-lore.md where players can enter their skill modifiers and the page auto-shows/hides passive entries. Pattern: each `details.skill-passive` gets a `data-skill` and `data-threshold` attribute (e.g. `data-skill="history" data-threshold="5"`). A panel lets players input their modifiers; JS compares and toggles `open` on qualifying entries. Build on world-lore.md first, then roll out to other files.
+
+---
+
 ## Current State
 
 All 30 original milestones complete. The book is fully built and publication-ready.

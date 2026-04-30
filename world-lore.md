@@ -158,6 +158,20 @@ At 10 PM, the Archmagister lit the first of the Primer Stones.
 
 **Skill Checks: History of Varenhold**
 
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Varenhold was the Reaches' premier trade city for two centuries before the Night: politically neutral, sitting at the junction of three major roads, home to the Spire university and the famous amber workshops. The ritual changed everything. The sun stopped, the population began to leave, and the city has been in slow decline for fifty years while still functioning. The Council governs. The Dawnborn are public figures with a known connection to the ritual's ongoing effect.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>History +5</strong></summary>
+
+The city's population halved in the first twenty years. The Merchants' Compact introduced the credit-writ system in Year 15 to stabilize commerce after coin confidence collapsed. The Spire's Archive restricted access to all ritual documentation from Year 1 onward, officially pending review, never reopened. The Dawnhalls were built as emergency infrastructure in the first decade and are now the city's main civic spaces.
+
+</details>
+
 <details class="skill-reveal">
 <summary><strong>History (DC 0 — automatic)</strong></summary>
 
@@ -243,6 +257,20 @@ Solenne was Varenhold's most important trading partner before the crisis. The re
 
 **Skill Checks: Solenne**
 
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Solenne is a theocratic city-state four days north, governed by its High Penitent through Auris religious law. The city has been in official mourning since Year 0. Solenne was Varenhold's most important trade partner before the Night. That relationship has cooled significantly, with Solennite clergy divided on whether continued trade with Varenhold constitutes participation in its sin.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+The twilight split Auris worshippers into two major theological positions. Penitent: Varenhold caused the twilight through sinful ritual and must atone before the sun returns. Wounded: the ritual damaged Auris rather than angering them, and the twilight is a symptom, not a punishment. Both positions have adherents throughout the Reaches. Neither has resolved the question of what restoring the sun actually requires.
+
+</details>
+
 <details class="skill-reveal">
 <summary><strong>History (DC 11)</strong></summary>
 
@@ -296,6 +324,20 @@ Some Compact merchants still maintain permanent presence in Varenhold, because e
 <div class="player-callout">
 
 **Skill Checks: The Arveth Compact**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Arveth Compact is a mercantile republic of seven western cities united by trade charter. It is the most economically powerful entity in the Reaches. Varenhold's local Merchants' Compact shares a name but is a separate organisation with historical ties, not an Arveth member. Compact trade through Varenhold has dropped sharply over fifty years as alternative routes were developed.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Merchant confederacies rarely spend political capital on crises that do not benefit their members. Any organisation publicly supporting restoration while quietly funding alternative infrastructure is managing a conflict of interest, not resolving one. Reading the difference between official position and economic incentive is basic commercial literacy.
+
+</details>
 
 <details class="skill-reveal">
 <summary><strong>History (DC 10)</strong></summary>
@@ -353,6 +395,27 @@ Politically, the Parishes have no unified voice, but their de facto representati
 
 **Skill Checks: The Dusk Parishes**
 
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Dusk Parishes are farming communities east of Varenhold, culturally close to the city. Lowmark families have Parish roots, and Lowmark Stew is a Parish recipe. Fifty years without reliable growing light has devastated their agriculture. Their grey sickness rate is the highest in the region outside Varenhold's Lowmark. Delegate Harrow Seld has been the loudest voice for immediate restoration at every Council consultation.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Survival (proficient)</strong></summary>
+
+The cold-tolerant agriculture the Parishes developed over two generations is a sophisticated body of knowledge: deep root vegetables, indoor growing chambers lit by amber lanterns, winter-preserved river fish. It is not primitive fallback. It is fifty years of adaptive expertise that does not exist anywhere else in the Reaches, and Parish farmers can teach things no Spire agronomist knows.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Medicine (proficient)</strong></summary>
+
+Grey sickness progresses faster in communities with less ambient light. Stage 1 (pallor, fatigue, slow wound healing) is near-universal in children born after Year 20 in the deeper Parishes. Anyone with healing training recognises the progression immediately upon entering a Parish village. The Healers' Guild has no field presence east of Varenhold; the Parishes manage it themselves with traditional remedies of limited effectiveness.
+
+</details>
+
 <details class="skill-reveal">
 <summary><strong>History (DC 10)</strong></summary>
 
@@ -399,6 +462,27 @@ The Clans are formally neutral in Varenhold's political situation but have their
 <div class="player-callout">
 
 **Skill Checks: The Ashfen Clans**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Ashfen Clans are independent marsh communities south of Varenhold, organised by clan rather than civic structure. They predate the city and have never permitted external governance. Their senior practitioners, called Wadewalkers, use magical traditions the Spire classifies as pre-systematic. The Clans trade with Varenhold and speak the common tongue but maintain strict autonomy.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Nature (proficient)</strong></summary>
+
+The Ashfen marsh is a complex ecosystem that has been visibly destabilised by fifty years of reduced light. Species adapted to seasonal cycles have declined or disappeared from the northern reaches of the marsh. The disruption is obvious to anyone with nature training within an hour of traveling the Ashfen paths, and the Clans have been documenting it in detail for decades.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Arcana (proficient)</strong></summary>
+
+Pre-systematic magical traditions predate formal arcane frameworks and operate on principles not codified in academic curricula. They are not weaker than institutional magic; they are differently structured, rooted in direct environmental observation rather than theoretical models. A Wadewalker's knowledge of local magical fields is likely more practically current than anything the Spire holds in its formal archives.
+
+</details>
 
 <details class="skill-reveal">
 <summary><strong>History (DC 11)</strong></summary>
@@ -454,6 +538,20 @@ Trade through the Holds has decreased as Varenhold has declined, but not as dram
 
 **Skill Checks: The Graymere Holds**
 
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Graymere Holds are a mountain confederation northwest of Varenhold, controlling the passes that connect the Reaches to northern routes. Fifteen to twenty semi-independent holds share road maintenance costs and toll income under the Passage-Warden, a practical elected role rather than a hereditary title. The current Passage-Warden, Herath Koss, has held the post for twelve years.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>History +5</strong></summary>
+
+High-altitude Hold settlements have reported periodic brief moments of something approaching natural light for decades. The Spire has wanted to study this formally for years. The Holds have been selective about granting research access since a Spire expedition twelve years ago ended badly. The relationship between the Spire and the Holds is formally polite and practically frozen.
+
+</details>
+
 <details class="skill-reveal">
 <summary><strong>History (DC 11)</strong></summary>
 
@@ -494,6 +592,27 @@ What has replaced some of this revenue is grimmer: aid. Solenne sends relief shi
 <div class="player-callout">
 
 **Skill Checks: Trade and Economy**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Varenhold's economy before the Night rested on transit taxes, amber workshop production, and scholar export. All three have declined. Transit trade sits at roughly forty percent of pre-twilight volume. The amber workshops produce more units at lower margins, facing Compact competition. The credit-writ system introduced in Year 15 now functions as the city's primary commercial instrument; coin is still accepted but treated with mild suspicion by larger merchants.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Investigation (proficient)</strong></summary>
+
+Public trade ledgers at the Compact House and the Grain Measure are accessible to anyone with a legitimate commercial reason to review them. Reading the difference between declared shipment manifests and actual goods in transit is a standard auditing skill. The records are not falsified; they are simply incomplete in ways that a trained eye can identify.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Persuasion (proficient)</strong></summary>
+
+Varenhold's longer-resident merchants have developed informal assessments for pre-twilight currency (minted before Year 0, recognisable by thicker copper and older die stamps) distinct from the official credit-writ face value. Knowing this distinction exists, and knowing how to ask about it without causing offence, is basic commercial knowledge among traders who work the city regularly.
+
+</details>
 
 <details class="skill-reveal">
 <summary><strong>History (DC 11)</strong></summary>
@@ -610,6 +729,27 @@ Varenholders speak the common tongue of the Reaches, but fifty years of specific
 <div class="player-callout">
 
 **Skill Checks: Varenholder Culture**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Three cultural practices define public life in Varenhold: the Dusk Sitting (a twice-yearly civic day of collective reflection, not religious in origin), the Lantern Remembrance (an annual ceremony on the anniversary of the Night, held every year without exception since Year 1), and lanternholt (a musical form developed for amber-lantern acoustics, now the city's primary performance tradition). Any visitor who has spent a week in the city knows all three.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Varenholders have a specific cultural hierarchy built around who stayed and who left. "A stayer" is quiet praise for someone who remained through the difficult decades rather than emigrating. Newcomers are watched with patience rather than hostility, but they are watched. Demonstrating genuine engagement with Varenholder cultural forms, rather than treating them as curiosities, opens doors that formal introductions do not.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Performance (proficient)</strong></summary>
+
+"The First Winter" is the defining song of the twilight era, composed in Year 3, tracing the first winter without sun through a Lowmark resident's voice. Every musician who has spent meaningful time in Varenhold knows it. Every musician who has spent meaningful time in the Parishes or the Ashfen knows a version of it. Playing it accurately in public is a reliable signal of genuine connection to the region.
+
+</details>
 
 <details class="skill-reveal">
 <summary><strong>History (DC 10)</strong></summary>

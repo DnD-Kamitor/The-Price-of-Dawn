@@ -90,6 +90,33 @@ The Ashring quarter is quieter than it was, but still inhabited - a mix of longt
 - A traveling artist sketching the scorch pattern for a Compact commission. "The most important thing that happened in the last hundred years," they said. She doesn't seem certain they're right.
 - A child asking their parent what the marks are. The parent explains the ritual. The child asks: "Did anyone get hurt?" The pause before the answer is visible from thirty feet away.
 
+<div class="player-callout">
+
+**Skill Checks: The Ashring Quarter**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Ashring Quarter is the oldest part of Varenhold, built around the plaza where the Ritual of Eternal Dawn was performed fifty years ago. The scorch marks on the central stones have never faded despite repeated attempts to clean or resurface them. The secondary Archive in the quarter holds the official city account of the ritual's failure, which is public and is known to be incomplete.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Arcana (proficient)</strong></summary>
+
+The scorch marks on the Ashring plaza are not the product of heat. The stone is changed at a fundamental level, recognisable to anyone with magical training as residual transformation rather than combustion. Something permanently altered the material structure here. The fact that fifty years of study has not explained it suggests the mechanism falls outside standard arcane frameworks.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 13, at the secondary Archive)</strong></summary>
+
+The official account of the ritual's failure contradicts three contemporary witness statements also held in the Archive. The contradictions are small but specific: the sequence of the backlash, and which primer stones activated last. The original ink is detectably different from a later correction. Someone edited the official account after the fact.
+
+</details>
+
+</div>
+
 ---
 
 ### The Lowmark
@@ -133,6 +160,33 @@ The Lowmark is where the city's survival infrastructure lives. People here work 
 - Children playing a game where one is Sera (protecting the others), one is Tomas (settling disputes about the rules), and one is Lira (telling anyone who gets "hurt" that they'll be okay).
 - The Grain Measure's evening ledger posted publicly by Dawnhall tradition. A small crowd reads it. The numbers are worse than last month. Three people in the crowd understand exactly what this means.
 - Cormac Drell supervising an unloading at the docks — visibly stronger and faster than the dock workers, apparently unaware of the gap. He treats helping when a crate slips as unremarkable.
+
+<div class="player-callout">
+
+**Skill Checks: The Lowmark**
+
+<details class="skill-passive">
+<summary><strong>Medicine (proficient)</strong></summary>
+
+Grey sickness is visibly concentrated in the Lowmark. Stage 1 symptoms (pallor, persistent fatigue, slow healing) are present in a significant portion of the adult population. Stage 2 (loss of coordination, pronounced anaemia, difficulty with sustained physical exertion) is visible in roughly one in six. The Healers' Guild care house here is the largest medical facility in the city and runs at permanent capacity.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Lowmark residents have a specific relationship to outside help that newcomers often misread. They are not hostile to assistance; they are experienced with assistance attached to agendas. The difference between someone who comes to help and someone who comes to be seen helping is immediately apparent to anyone who has lived here for more than a season.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 12, Grain Measure records)</strong></summary>
+
+Wess keeps fifteen years of food supply ledgers, posted publicly each evening by Dawnhall tradition. Reading them against each other reveals a three-year stabilisation period about a decade ago that was never explained and never repeated. The period ended abruptly. The records do not say why.
+
+</details>
+
+</div>
 
 ---
 
@@ -179,6 +233,33 @@ The Spire Quarter is a bubble. The people who live and work here have spent fift
 - A graduate student noting that Isolde Menth's light has been on late three weeks in a row. She only does this when she's close to something.
 - A former Spire student waiting to see if her old thesis advisor will meet with her. The advisor left two years ago. Nobody has told her yet.
 - The weekly faculty coffee hour audible from the hallway — a heated argument about whether the Compact's research funding creates an obligation to share results. The underlying argument is about something else entirely.
+
+<div class="player-callout">
+
+**Skill Checks: The Spire Quarter**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Spire is Varenhold's scholarly center, a three-hundred-year-old tower complex that has been studying the twilight problem for fifty years without producing a solution. This is known throughout the Reaches. The institution's academic reputation has suffered accordingly. The Archive attached to the Spire is the largest document collection in the region; its public floors are open to anyone.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Arcana (proficient)</strong></summary>
+
+The Theoretical Division of the Spire currently maintains three competing research teams working on the twilight problem. They share space and equipment. Their theoretical frameworks are incompatible. This is not unusual in academic magical research; it is unusual that none of the three frameworks has produced a practical result in fifty years of active investigation.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 14, Spire public records)</strong></summary>
+
+The Spire's published research output on the twilight dropped sharply about twelve years ago. Papers from before that point show genuine methodological diversity. Papers after show a consistent narrowing toward a single theoretical position: Warden Keseph's. Other approaches are present in the literature but receive no institutional resources. The shift is visible in publication funding records, which are part of the public archive.
+
+</details>
+
+</div>
 
 ---
 

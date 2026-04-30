@@ -58,6 +58,33 @@ The Auris schism is entirely a product of the twilight. Before the ritual, Auris
 **Playing an Auris Cleric:**
 Which faction? This matters in Varenhold. Penitents will be regarded by many Varenholders as passive; Wounded as politically engaged to the point of partisanship. A cleric who maintains neutrality between factions will be respected by almost everyone and trusted by neither faction's leadership. The theological weight of "why did the god let this happen" is a permanent ambient pressure. Auris clerics in Varenhold are asked for answers they don't have, daily.
 
+<div class="player-callout">
+
+**Skill Checks: Auris**
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+Auris-worship in Varenhold has split into two factions with significant tension between them. Penitents believe the twilight is divine withdrawal: Auris turned away in response to the ritual's offense, and restoration requires humility rather than further magical intervention. The Wounded believe Auris was harmed by the ritual and that worship should be framed as healing work for the god. Both factions maintain the dawn-vigil. They disagree on everything else.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Religion +5</strong></summary>
+
+The Penitent position has a theological problem it rarely addresses publicly: if Auris withdrew in punishment, why has fifty years of contrition not been sufficient? The Wounded position has its own problem: if Auris was harmed, why has the god shown no sign of recovery? Both questions circulate in scholarly theology. The clergy who privately acknowledge this tend to be the most useful to players who can find them.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Religion (DC 14)</strong></summary>
+
+Praying to Auris in Varenhold has a consistent quality that outside clergy reliably report: a sense of distance, as though reaching across a longer gap than usual. This has been documented in clergy correspondence for fifty years and formally catalogued by the Spire in Year 12 as "ambient divine field disruption." What it actually means is the question no one has resolved.
+
+</details>
+
+</div>
+
 ---
 
 ### Morthis - The Usher
@@ -95,6 +122,26 @@ The twilight has been, in a grim sense, good for the Morthis clergy. They are ne
 
 **Playing a Morthis Cleric:**
 Ushers in Varenhold are among the most practically respected people in the city. They are not feared; they are the people you call when you need someone steady. The theological weight is existential: the god of transition presides over a city that cannot transition. The grey sickness is, in some readings, a spiritual failure as much as a physical one - the city is slowly dying in the transition-state. Morthis clerics often feel a quiet urgency about the ritual question that is entirely separate from politics.
+
+<div class="player-callout">
+
+**Skill Checks: Morthis**
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+Morthis is the god of death understood as transition rather than ending. His clergy, called Ushers, tend the dying and run the death-houses. In Varenhold they are more prominent than in any other major city because the grey sickness has dramatically increased their caseload. The Morthis Death-House in the Lowmark runs continuously. They are not a frightening institution; they are a practical one.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Medicine (proficient)</strong></summary>
+
+The Ushers work closely with the Healers' Guild on grey sickness cases. Their practical involvement in end-stage care has made them unusually knowledgeable about the disease's progression, specifically the transition from Stage 2 to Stage 3. Healers who need to understand late-stage grey sickness often consult Ushers rather than Guild records, because the Ushers have seen it more often and more recently.
+
+</details>
+
+</div>
 
 ---
 
