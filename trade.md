@@ -21,6 +21,33 @@ Fifty years of economic decline have produced specific currency phenomena unique
 - **Credit culture:** The Merchants' Compact extended a formal credit-writ system forty years ago - small paper documents representing credit against account balances, usable like currency for amounts between 1 and 5 writs. Credit-writs require a Compact-registered merchant to issue. Outside Varenhold they are mostly worthless; inside the city they are accepted everywhere.
 - **Barter persistence:** The Lowmark and parts of the Ashfen Gate district run on significant informal barter - preserved food, services, Dawnhall meal credits - alongside coin. Players who lack coin can sometimes negotiate in kind.
 
+<div class="player-callout">
+
+**Skill Checks: Currency and Economy**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Varenhold uses a three-tier currency system: copper marks, silver writs, and amber script. The Merchants' Compact extended a credit-writ system forty years ago; small paper documents usable like coin inside the city, accepted everywhere. Outside Varenhold they are mostly worthless. Pre-twilight marks are visibly thicker and worth slightly more to savvy merchants; the city has been recoining at reduced copper content since Year 30.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Investigation +5</strong></summary>
+
+The credit-writ system has a structural vulnerability that most Varenholders do not think about: the writs are backed by the Merchants' Compact's guarantee, not by the city itself. If the Compact withdraws the guarantee, the credit system collapses. Anyone who understands how the system actually works knows this. Not many people think about it carefully enough to get there.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 13, at the Compact office or talking with Lowmark traders)</strong></summary>
+
+Credit-writ circulation in the Lowmark has been quietly contracting for the past six months. Traders who accepted five-writ writs without question now ask for coin instead, or impose a small discount for writs over two. This is not official Compact policy; it is individual risk assessment spreading through the market. Something about the city's financial stability has shifted in how the people who actually trade every day feel about it.
+
+</details>
+
+</div>
+
 ---
 
 ## What Things Cost
@@ -128,6 +155,33 @@ Varenhold's black market is not dramatic. It is a survival economy operating in 
 ### Access
 
 The black market in Varenhold is not hidden - it is available to anyone who asks the right people the right way. A DC 12 Charisma (Persuasion) or Intelligence (Investigation) check, plus spending an hour in the Lowmark or the Ashfen Gate district, locates a contact. Asking directly about specific restricted items adds DC 3.
+
+<div class="player-callout">
+
+**Skill Checks: The Black Market**
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Anyone who has spent time in the Lowmark or the Ashfen Gate district knows the black market is not hidden. The gap between what the city permits and what people need is wide enough to sustain a substantial informal economy. The key figures are known to both the Compact and the City Guard, who maintain informal tolerance because the alternative is worse. This is not corruption; it is triage.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Investigation +5</strong></summary>
+
+The most interesting items in Varenhold's black market are not food or false papers. They are information: copies of ritual documents the Council has classified, pre-twilight correspondence connected to the Archmagister's original notes, and Spire research that Warden Keseph's office has suppressed from official publication. All three categories have active buyers. None of them are publicly asking.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 13, spending time in the Lowmark market)</strong></summary>
+
+One section of the black market is run with unusual professionalism: the grey sickness compound distribution. The distributor, known as Mave, insists on quality standards and has refused to carry compounds she considers dangerous, even at significant personal cost. She knows who Lira Anwick is and refuses to sell anything that undercuts the Guild's legitimate distribution. This is not charity; she has concluded that patient deaths are bad for business long-term.
+
+</details>
+
+</div>
 
 ---
 

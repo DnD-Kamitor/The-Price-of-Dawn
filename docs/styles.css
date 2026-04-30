@@ -50,3 +50,47 @@ details.gm-only[open] { background: #fdf0f0; }
 }
 
 .player-callout p { margin: 0; }
+
+/* Skill Check Reveal Toggles */
+details.skill-reveal {
+  margin: 0.25em 0 0.4em 0;
+}
+
+details.skill-reveal summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: #6b4c11;
+  user-select: none;
+  list-style: none;
+}
+
+details.skill-reveal summary::-webkit-details-marker { display: none; }
+details.skill-reveal summary::before { content: "▸ "; font-style: normal; }
+details.skill-reveal[open] summary::before { content: "▾ "; }
+
+details.skill-reveal > p {
+  margin: 0.35em 0 0.1em 1.1em;
+  color: #333;
+}
+
+/* Skill Passive (Auto-Known) Knowledge */
+details.skill-passive {
+  margin: 0.25em 0 0.4em 0;
+}
+
+details.skill-passive summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: #1f6e4a;
+  user-select: none;
+  list-style: none;
+}
+
+details.skill-passive summary::-webkit-details-marker { display: none; }
+details.skill-passive summary::before { content: "◆ "; font-size: 0.8em; vertical-align: middle; }
+details.skill-passive[open] summary::before { content: "◇ "; font-size: 0.8em; vertical-align: middle; }
+
+details.skill-passive > p {
+  margin: 0.35em 0 0.1em 1.1em;
+  color: #333;
+}

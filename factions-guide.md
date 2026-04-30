@@ -20,6 +20,33 @@
 
 > **Trust gate:** The Chancellor's private meetings and candid views are available only after the players have demonstrated they can handle difficult information without causing a crisis. Bring her evidence, not just questions — and understand that what she tells you in private may not match her public position.
 
+<div class="player-callout">
+
+**Skill Checks: The City Council**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The City Council has governed Varenhold for the full fifty years of the twilight. Seven Councillors represent major interest groups; the Chancellor presides. The Council maintains the Dawnhalls, subsidizes the Healers' Guild, and manages the city's food supply contracts. Chancellor Mira Ostenveld has held the position for eleven years and won reappointment twice.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Anyone who has spent time in Varenhold's civic spaces knows the Council is under pressure. Their public statements are carefully hedged, and they have been promising a solution to the twilight for decades. The city is patient but not indefinitely.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>History (DC 12, reviewing Council documents at the Registrar)</strong></summary>
+
+The Council's internal decision record shows a significant vote six years ago on "escalating investigation priorities." The motion passed 4-3. The minority position, preserved in the public record, argued for "broader disclosure to affected parties." The measure that passed did not include that clause.
+
+</details>
+
+</div>
+
 <details class="gm-only">
 <summary>GM Only — City Council: True Agenda & Internal Splits</summary>
 
@@ -62,6 +89,33 @@ The three Dawnborn most publicly visible:
 
 > **Trust gate:** You can meet any of the Dawnborn without a check — they're public figures. What they'll actually say about the ritual, and about themselves, requires treating them as people rather than symbols. Their genuine trust takes time, and it's worth the investment.
 
+<div class="player-callout">
+
+**Skill Checks: The Dawnborn**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Dawnborn are the ten adults born on the night the ritual failed, fifty years ago. All ten are known by name and face in Varenhold; they are public figures who have spent their lives doing visible civic work. None hold formal government positions, but their informal authority in the city is significant.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Anyone who has observed the Dawnborn over time notices something: they are individually carrying weight they do not discuss with each other. The warmth between them in public is real. The conversations they are not having are equally visible to anyone paying attention.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 13, speaking with any Dawnborn individually)</strong></summary>
+
+When asked about the ritual, each Dawnborn pauses before answering in a way that suggests they have thought about it considerably. Their answers are careful and slightly different from each other in ways that matter. They are not reading from the same script.
+
+</details>
+
+</div>
+
 <details class="gm-only">
 <summary>GM Only — The Dawnborn: True Internal Dynamics</summary>
 
@@ -100,6 +154,33 @@ The three Dawnborn most publicly visible:
 
 > **Trust gate:** Getting past the public meetings and reaching Edoran requires attending at least two sessions and demonstrating genuine commitment — not clever arguments. He's not hiding. He's vetting. The introduction to the inner circle comes after you've earned it.
 
+<div class="player-callout">
+
+**Skill Checks: The Restorers**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Restorers are a reformist movement within Auris-worship, organized around the belief that restoring the sun is a moral obligation. They have operated openly in Varenhold for over thirty years, working through petitions, public meetings, and pamphlets. Their current leader is Brother Edoran, a former Auris priest.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+The Restorers draw primarily from the Wounded faction of Auris-worship. Their theological position places them in tension with the Penitents, who believe active restoration attempts overstep human authority. The Wounded clergy at the Auris temple are sympathetic and will direct newcomers to the Sevenday meetings.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 12, attending a Restorer meeting)</strong></summary>
+
+The public meetings show a movement that is larger and more emotionally urgent than their pamphlets suggest. Most attendees have lost someone to grey sickness or know someone who has. The theology is secondary to the grief, for most of them.
+
+</details>
+
+</div>
+
 <details class="gm-only">
 <summary>GM Only — The Restorers: True Agenda & Internal Splits</summary>
 
@@ -137,6 +218,33 @@ The three Dawnborn most publicly visible:
 
 > **Trust gate:** The Desperate don't have a front door. Help with a real problem first — securing food, treating patients, delivering information they can't get themselves. The inner network opens when you've demonstrated genuine stakes.
 
+<div class="player-callout">
+
+**Skill Checks: The Desperate**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Desperate is the loose network of Varenholders and Dusk Parish emigrants who have concluded the current approach is insufficient and are willing to act outside Council sanction. They have no formal structure and no single leader. The name was given to them by others and has stuck.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+People who have spent time in the Lowmark know the difference between the Desperate and simple desperation. The movement has structure under its apparent informality: people who know people, information channels that function, and a memory for who has helped and who has not.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 14, Lowmark Dawnhall notice boards)</strong></summary>
+
+Some notices on Dawnhall boards are not what they appear. Routine food supply updates and neighborhood announcements occasionally contain secondary information readable to someone who knows the pattern: coded references to meeting times, supply chain irregularities, and movement in and out of the Parishes that the Council's official records do not capture.
+
+</details>
+
+</div>
+
 <details class="gm-only">
 <summary>GM Only — The Desperate: True Agenda & Leadership</summary>
 
@@ -167,6 +275,33 @@ The three Dawnborn most publicly visible:
 **How to get access:** The Healers' Guild headquarters is in the Highmark district. Walk in. They take volunteers and welcome observers (non-intrusively) in their public care spaces. If you have healing training, the Guild administrator will probably have you doing useful work within an hour. If you have relevant research expertise (arcane, alchemical, herbal), the guild's research arm is worth meeting. If you just want to ask questions, be patient and be honest about why.
 
 > **Trust gate:** The Guild's full research data — the real numbers on grey sickness progression, the cases Sevra Dain hasn't reported — becomes available once you've demonstrated you'll handle it responsibly and won't weaponize it for factional purposes.
+
+<div class="player-callout">
+
+**Skill Checks: The Healers' Guild**
+
+<details class="skill-passive">
+<summary><strong>Medicine (proficient)</strong></summary>
+
+The Healers' Guild is Varenhold's professional medical organization. They run care houses in every district, maintain clinical standards, and have the most detailed practical knowledge of grey sickness progression of any institution in the city. Guild practitioners are universally politically neutral; this is both ethics and policy.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+The Guild's political neutrality has a cost: they often know things they cannot say without being seen as taking sides. A practitioner who trusts you may share what they observe in general terms. The information they hold in aggregate about sickness rates and community stress is more accurate than the Council's official numbers.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Medicine (DC 12, volunteering at the Lowmark care house)</strong></summary>
+
+The patient intake numbers at the Lowmark care house run consistently higher than what the Guild reports publicly. Practitioners tracking their own caseloads show a gap between what they are treating and what ends up in the official count. The gap is consistent enough to be a pattern, not a recording error.
+
+</details>
+
+</div>
 
 <details class="gm-only">
 <summary>GM Only — The Healers' Guild: True Agenda & Hidden Data</summary>
@@ -199,6 +334,33 @@ The three Dawnborn most publicly visible:
 
 > **Trust gate:** The restricted research archives need formal authorization or a senior scholar's introduction. Isolde Menth can shortcut this if you have something useful to offer. Warden Keseph controls a gated section of the Theoretical Division — getting past him requires either the Chancellor's authorization or leverage he doesn't expect you to have.
 
+<div class="player-callout">
+
+**Skill Checks: The Spire Scholars**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Spire is Varenhold's scholarly center, a three-hundred-year-old institution that has been studying the twilight problem for fifty years. Its archives hold the most comprehensive collection of ritual documents and arcane research in the region. Public lectures are open every Firstday afternoon; the library's general collection is accessible with a day-pass.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Arcana (proficient)</strong></summary>
+
+The Spire currently runs three competing theoretical frameworks on the twilight's mechanism. None has produced a practical path forward. Internal disagreement between the Theorists and the Practitioners is visible to anyone who spends time in the public reading rooms. They share space and equipment; their professional contempt is open knowledge.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 13, attending a Spire public lecture)</strong></summary>
+
+The questions asked at public lectures reveal the institution's internal politics. Scholars from different teams never acknowledge each other's findings. The questions Warden Keseph fields assume a different theoretical framework than those Isolde Menth fields. They are not working together in any meaningful sense.
+
+</details>
+
+</div>
+
 <details class="gm-only">
 <summary>GM Only — The Spire Scholars: True Agenda & Internal Splits</summary>
 
@@ -230,6 +392,33 @@ The three Dawnborn most publicly visible:
 **How to get access:** The Compact House is in the Highmark district, adjacent to the old Exchange building. Walk in during business hours and state your business. If you're a merchant or represent commercial interests, you'll be treated as a peer. If you're something else, you'll be treated as a potential client or a potential complication, both of which have their uses. Having a letter of introduction from any Compact member anywhere in the Reaches is worth a great deal.
 
 > **Trust gate:** Saret Onn's real position — what the Arveth Compact actually plans to do depending on the ritual's outcome — requires building a transactional relationship first. The Compact trades information for information. Know what you're offering before you ask.
+
+<div class="player-callout">
+
+**Skill Checks: The Merchants' Compact**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Merchants' Compact is the consolidated merchant organization formed twenty years into the twilight when three competing guilds concluded that cooperation was cheaper than competition. They maintain Varenhold's remaining trade relationships with five regional partners and manage the city's credit-writ system. Their headquarters is in the Outer Ring.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>History +5</strong></summary>
+
+The Compact's relationship to Varenhold has shifted across the twilight period. In the early years they were investors. In the middle years, emergency trade partners. Currently they function primarily as a credit guarantor: the city's ability to purchase imported food depends on the Compact's continued backing of the writ system. This is a significant lever of influence the Compact does not publicize.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 12, visiting the Compact office during business hours)</strong></summary>
+
+The Compact's junior factors move with urgency that does not match the calm tone of public-facing meetings. Correspondence is read and replied to quickly. Dispatch riders arrive and leave more frequently than a stable trade relationship requires. Something in their information network is more active than the office's public posture suggests.
+
+</details>
+
+</div>
 
 <details class="gm-only">
 <summary>GM Only — The Merchants' Compact: True Agenda & Economic Pressure</summary>

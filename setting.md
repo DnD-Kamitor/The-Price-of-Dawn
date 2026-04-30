@@ -305,6 +305,33 @@ The Dawnhalls district is the most functional place in Varenhold. It is not the 
 - Neighbors doing maintenance on a shared building. Not organized, no meeting called — they just showed up because the window needed fixing. This is how most Dawnhall maintenance gets done.
 - Lira passing through on her way to the care houses, tired in the way of someone always tired. A neighbor stops her to ask about her daughter; the warmth that crosses her face for about three seconds before she answers is genuinely arresting.
 
+<div class="player-callout">
+
+**Skill Checks: The Dawnhalls District**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Dawnhalls system was built in the first decade of the twilight as emergency communal infrastructure. The Great Dawnhall in this district is the largest of twelve such buildings across Varenhold, providing free meals twice daily, medical support, and civic meeting space. The name comes from the timing of their founding and the Dawnborn's role in their early establishment.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+The Dawnhalls run on volunteers and goodwill, but they are not disorganized. The people running them have been doing so for decades and have a specific way of identifying who is here to help and who is here for other reasons. Genuine presence earns genuine welcome; performance earns polite distance.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Perception (DC 11, at the Great Dawnhall memorial room)</strong></summary>
+
+The memorial room holds photographs and objects belonging to people who died of grey sickness. It is maintained carefully. One entry, dated approximately six years ago, shows a young woman around seventeen years old. The family name on the entry is Edoran.
+
+</details>
+
+</div>
+
 ---
 
 ### The Outer Ring
@@ -351,6 +378,33 @@ The Outer Ring is where power is performed. People who work here are aware of st
 - The Council Registrar's queue: a grey sickness patient needing care house priority, a merchant with a Compact dispute, and a third person who has been waiting three months for a different matter and is here again.
 - The Chancellor's window is lit early. A citizen who passes it every morning has developed a superstition: if it's lit before the first bell, it's a difficult day. He's been right more often than chance.
 
+<div class="player-callout">
+
+**Skill Checks: The Outer Ring**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Outer Ring is Varenhold's former prestige district, built during the city's pre-twilight height to house the merchant guilds, major temples, and the Chancellor's Hall. The architecture is grander than the rest of the city but visibly strained; several guild halls are operating at reduced capacity. The Auris Cathedral, the largest building in the city, is divided between two factions who share the building but not its theology.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+The Auris Cathedral division is formal and permanent. The Penitent faction controls the northern nave; the Wounded faction controls the southern. A wall separating them was installed twelve years ago and has not come down. Both factions conduct separate services, maintain separate clergy, and occasionally attempt formal dialogue. The forecourt is shared. The dialogue rarely goes well.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 12, at the Chancellor's Hall)</strong></summary>
+
+The Chancellor's Hall is in continuous use at hours that suggest urgency. Staff move between departments with documents that do not pass through the normal registry. The public-facing pace of the Council does not match the private pace of the people running it.
+
+</details>
+
+</div>
+
 ---
 
 ### The Ashfen Gate District
@@ -394,6 +448,33 @@ The Ashfen Gate district is the most transient part of Varenhold - people are al
 - A group of Dusk Parish children at the gate for market day, looking at everything with enormous eyes. One walks to the edge of the amber lantern light and back again, testing where it ends.
 - An Ashfen Clan Wadewalker waiting for customs clearance on marsh herbs. While she waits she writes in a small notebook — documenting changes in the city's ambient magical field. Her third visit this year.
 - More activity than usual at the Restorer compound. People coming and going, something being organized. A neighbor who has been watching the compound for years says this is new. She doesn't know what changed.
+
+<div class="player-callout">
+
+**Skill Checks: The Ashfen Gate District**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Ashfen Gate is Varenhold's main southern entrance, named for the marshes it faces. Caravans from the Dusk Parishes and the broader Reaches arrive here. The district is the most transient in the city: inns, stables, storage houses, and the Restorer compound, which occupies a former trading post. The Wayshrine of the Wanderer stands just outside the gate.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Nature (proficient)</strong></summary>
+
+The cold air blowing in from the Ashfen marshes is detectably different from the city's usual air. Experienced travelers and naturalists can tell how recently the gate has been open and whether anything unusual came through by the quality of the marsh smell, a combination of wet vegetation and Ashfen oil that shifts noticeably with changes in traffic or weather.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 13, at the Wayfarer's Rest)</strong></summary>
+
+Helka's guest book covers twenty years of arrivals. Reading it as a document rather than a register, looking at patterns rather than individual entries, shows something: the rate of travelers arriving without a stated destination has increased steadily over the past four years. More people are arriving in Varenhold without saying where they came from or why.
+
+</details>
+
+</div>
 
 ---
 

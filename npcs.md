@@ -14,6 +14,33 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 **What players observe:** Impeccably composed — the weight of governance visible in how she holds herself still. She greets the players with professional warmth, carefully calibrated: neither cold nor familiar. She is the most powerful person in Varenhold, and she knows exactly how much that means when the city is dying. She offers the players a commission, not a friendship. She is trusting them with something she cannot afford to misplace.
 
+<div class="player-callout">
+
+**Before meeting the Chancellor**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Chancellor Mira Ostenveld has governed Varenhold for eleven years and won reappointment twice. She is associated with the Restorer movement's goals but maintains relationships across the political spectrum. She is known to work long hours, dislike rhetorical excess, and have a dry sense of humor she deploys sparingly.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Anyone who has followed Varenhold's politics knows the Chancellor is under pressure that is not fully visible in public. She has kept the city functioning through a crisis that would have collapsed a lesser administration. The people who deal with her regularly say she has become harder to read in the last year.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 13, reviewing public Council minutes)</strong></summary>
+
+The Chancellor has made two procedural changes to Council operations in the last eighteen months: an expansion of the emergency discretionary fund and a quiet reclassification of certain investigative expenditures as "Chancellor's discretion." Both changes were routine on their face and passed without debate. Together they create the capacity to hire outside investigators without Council approval.
+
+</details>
+
+</div>
+
 <details class="gm-only">
 <summary>GM Only — OGAS, Personality & Attitude Shifts: Chancellor Ostenveld</summary>
 
@@ -95,6 +122,33 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 > *"Knowledge has weight, young one. I have been carrying this particular weight for eleven years. You'll understand, when you've held it as long."*
 
 **What players observe:** Older than he looks, quieter than he should be for a man with nothing to hide. He has the archive smell — old paper, lamp oil — and a habit of placing documents slightly out of reach, then reconsidering. He answers most questions with questions. He is helpful in a way that has been carefully calibrated to fall just short of being actually helpful. Something is costing him, and he has been paying it for a long time.
+
+<div class="player-callout">
+
+**Before meeting the Archivist**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Theron Waide is the Master Archivist of the Varenhold Civic Repository, the largest document collection in the Graymere Reaches. He has held the position for over thirty years and was previously an assistant to Archmagister Corven. The Archive's public floors are open to any Varenholder; the restricted collection requires his personal authorization.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+People who have dealt with the Archive for any length of time know Theron Waide as helpful, meticulous, and slightly evasive on specific subjects. He deflects questions about the ritual's original documentation with the particular care of someone who has been deflecting them for a long time and has become very practiced at it.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Religion (DC 12, asking Archive staff about Theron's habits)</strong></summary>
+
+Theron Waide's junior archivists know he maintains a small private reading space at the back of the restricted section that he visits alone, after hours. He refers to it as his "thinking corner." The staff do not know its contents. One has noticed that the door is always locked from the inside when he is there, and that he emerges looking either lighter or heavier, never the same as when he went in.
+
+</details>
+
+</div>
 
 <details class="gm-only">
 <summary>GM Only — OGAS, Personality & Attitude Shifts: Theron Waide</summary>
@@ -181,6 +235,33 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 **What players observe:** Serene in a way that takes time to read correctly. He does not raise his voice or perform urgency. He is patient with disagreement in the way of someone who has already argued both sides with himself and reached a conclusion. The grief is present, if you know what you're looking for — organized into something harder and quieter than grief usually is. He treats the players as moral equals capable of reaching the right conclusion, and this is not condescension. He actually believes it.
 
+<div class="player-callout">
+
+**Before meeting Brother Edoran**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Brother Edoran is a former Auris priest who now leads the Restorers, the largest organized movement pressing for active ritual restoration. He has operated openly in Varenhold for over twenty years. He is known for measured public argument, patience with opposition, and a quality of certainty that some find reassuring and others find unsettling.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+The Restorers draw their theology primarily from the Wounded faction of Auris-worship, but Edoran himself is no longer formally affiliated with either faction of the Auris church. His theological position is close to the Wounded's but more specific: the ritual is not merely the right response, it is the only morally defensible one. He says this plainly and without apology.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 13, when meeting Penitent or Wounded clergy)</strong></summary>
+
+Auris clergy who knew Edoran before his Restorer role describe a significant change. He left the priesthood following a personal loss he has never discussed publicly. What emerged was the same intelligence and the same commitment, but with something removed: the hesitation. Whatever he lost took his doubt with it. People who find him frightening tend to name this, specifically.
+
+</details>
+
+</div>
+
 <details class="gm-only">
 <summary>GM Only — OGAS, Personality & Attitude Shifts: Brother Edoran</summary>
 
@@ -266,6 +347,33 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 
 **What players observe:** Direct, physically present, the kind of person who walks into a room and immediately notes where the exits are. The Lowmark calls her before they call the city watch. She assumes competence and goodwill in the players until proved otherwise — which is both her greatest strength and how she has been disappointed before. There is something in her eyes when the ritual is mentioned: not fear, but the particular steadiness of someone who has already made a decision and is waiting for the world to catch up.
 
+<div class="player-callout">
+
+**Before meeting Sera Voss**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Sera Voss is one of the three most publicly visible Dawnborn. She grew up in the Lowmark and has spent her adult life working with the Healers' Guild as an emergency responder. She is probably the most recognized face in the city after the Chancellor. The Lowmark calls her before they call the guard; this is not an exaggeration and she has earned it specifically, through specific remembered incidents.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Anyone who has observed Sera Voss in public knows she is exactly what she appears to be. There is no gap between her public and private selves that her neighbors have ever detected, which is itself unusual for someone of her visibility. The Lowmark trusts her specifically because she has never asked for anything.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 12, when the ritual is mentioned in conversation)</strong></summary>
+
+Sera's response to the ritual topic has shifted in the past several months. Previously she would engage with it as an open question. Now she listens with the stillness of someone who has already reached a position and is waiting to see how the conversation develops. She is not afraid. She is waiting for something.
+
+</details>
+
+</div>
+
 <details class="gm-only">
 <summary>GM Only — OGAS, Personality & Attitude Shifts: Sera Voss</summary>
 
@@ -345,6 +453,33 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 > *"The math is actually quite clear, if you're willing to look at it. I just don't think anyone should be forced to act on math alone."*
 
 **What players observe:** Unhurried in a way that makes most rooms slow down to his tempo. He listens completely before speaking — no finishing sentences, no impatience. The formality is precision, not coldness. He is assessing the players as people before he decides what to trust them with, and this assessment is not performative; he genuinely does not commit until he has enough data. He has been preparing something for a long time and is almost ready.
+
+<div class="player-callout">
+
+**Before meeting Tomas Areth**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Tomas Areth is the Dawnborn most associated with mediation and informal justice. He operates out of a small office in the Highmark district. His judgments are not legally binding but are generally respected and usually followed. He is known for patience, precision, and giving the impression of someone who has heard a great deal and is not easily surprised.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Anyone who has dealt with Tomas Areth professionally knows he assesses people before committing to them. This is not paranoia and it is not coldness; it is the habit of a man who has spent decades hearing both sides of disputes and has learned to distinguish between people who want answers and people who want validation. He invests in the former.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 12, Highmark district public records)</strong></summary>
+
+Tomas Areth has filed several unusual requests with the Spire's public research desk in the past three years: astronomical records, old Corven-era documentation on ritual energy distribution, and a request for any materials relating to what he called "asymmetric load-bearing in multi-anchor ritual systems." The Spire's public desk filled two of the three requests. The third was referred elsewhere and the referral is not recorded.
+
+</details>
+
+</div>
 
 <details class="gm-only">
 <summary>GM Only — OGAS, Personality & Attitude Shifts: Tomas Areth</summary>
@@ -427,6 +562,33 @@ Every key NPC in this campaign is built on the **OGAS framework**: Occupation, G
 > *"I never asked to be born special. I never asked to be a symbol. And I am not going to die as one."*
 
 **What players observe:** Defensive from the first sentence, and honest about why — she has learned that people who want things from the Dawnborn eventually want everything. Her hands are steady. Her eyes check the door. She will soften exactly to the degree the players earn it, and not one degree further. She is the Dawnborn doing the most visible good in the city, and she carries this with neither pride nor patience for people who use it as leverage.
+
+<div class="player-callout">
+
+**Before meeting Lira Anwick**
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Lira Anwick is the Dawnborn most associated with healing specifically. She trained formally with the Healers' Guild and is their most skilled practitioner of grey sickness treatment. She is less publicly visible than Sera or Tomas; she works in the care houses, which are not public spaces. People in the Lowmark speak of her with particular affection.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Medicine (proficient)</strong></summary>
+
+Lira's compound is the most effective treatment for early-stage grey sickness available in Varenhold. The Guild cannot reproduce it at scale. She synthesises it herself and distributes it through the Lowmark care houses. Demand always exceeds supply. Guild practitioners who work alongside her describe the compound's effect as unusual: it slows progression more than the active ingredients alone should account for.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 13, speaking with Lowmark Healing House staff)</strong></summary>
+
+People who work alongside Lira at the care house describe her as one of the most protective individuals they have encountered: protective of her patients, protective of her time, protective of some part of her life that she does not bring to the workplace. She does not discuss herself. Staff who have worked with her for years can name her professional habits but not her personal ones.
+
+</details>
+
+</div>
 
 <details class="gm-only">
 <summary>GM Only — OGAS, Personality & Attitude Shifts: Lira Anwick</summary>

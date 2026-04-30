@@ -178,6 +178,33 @@ The twilight has made Varenhold into a city of secrets - the ritual's cost, the 
 **Playing a Veth Cleric:**
 Veth clerics are rare - the god has no formal clergy - but "Veth-touched" characters who use their connection to the god in play are the people who carry difficult knowledge carefully, who act as confessors and archivists and keepers-of-trust. In Varenhold, a Veth-oriented character will find themselves in the center of every information asymmetry in the campaign. They may know things they cannot share. This is the god's gift and its cost.
 
+<div class="player-callout">
+
+**Skill Checks: Veth**
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+Veth is the god of secrets: the knowledge held in trust, the truth kept private, the information carried because it cannot yet be shared. There are no Veth temples and no formal clergy. Worship is private, unwitnessed, and self-defined. In the Reaches, practitioners are known as "Veth-touched," a term that may or may not be complimentary depending on who says it.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Anyone who understands Veth-worship recognizes it when they see it: the person in the room carrying something that cannot be said aloud, the archivist whose silences tell you more than his words, the advisor who knows more than he shows. In Varenhold, a city with fifty years of unspoken things, this description fits an unusually high proportion of the population.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Religion (DC 14, speaking with Theron Waide about the Archive's structure)</strong></summary>
+
+Theron Waide's organization of the Archive follows a logic that goes beyond professional librarianship. The most restricted section is not the most dangerous information; it is the information he has been waiting to share with someone he could trust with it. The locked-box theology of Veth, hold the secret until the time comes, is visible in how he has structured access to the collection.
+
+</details>
+
+</div>
+
 ---
 
 ### Dara - The Hearthkeeper
@@ -213,6 +240,33 @@ Dara-worship has arguably gotten *better* since the twilight, in the sense that 
 **Playing a Dara Cleric:**
 Dara clerics are practical community organizers in clerical robes. In Varenhold, they will be immediately trusted by Lowmark and Dawnhall residents and viewed with slight suspicion by Spire Quarter types (who find civic theology unsophisticated). The theological burden is not existential but emotional: the god of community presides over a community that is slowly losing people, and a Dara cleric will feel every death, every emigration, every person the grey sickness takes as a personal failing of their work.
 
+<div class="player-callout">
+
+**Skill Checks: Dara**
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+Dara is the goddess of hearth and community, the most widely worshipped deity in Varenhold in the specific sense that more households maintain small Dara shrines than explicitly worship any other god. There are no Dara temples or clergy. Worship is the work: feeding neighbors, maintaining communal spaces, showing up when someone needs help. The Dawnhalls, while not officially religious, are theologically Dara's most significant institution in the city.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Insight (proficient)</strong></summary>
+
+Dara-devoted people are recognizable by what they do rather than what they say. They organize meals. They maintain things. They notice who is missing from the table and do something about it. In Varenhold this describes a large, overlapping network of people who do not necessarily know each other by name but recognize each other by practice.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Perception (DC 11, in any residential district)</strong></summary>
+
+Small Dara shrines appear at the end of almost every residential block in the city: a shelf or ledge with a small lamp and objects from meals. In neighborhoods where the grey sickness is worst, the lamps are lit more consistently. The shrine-keeping has become more careful in proportion to how frightening things have gotten.
+
+</details>
+
+</div>
+
 ---
 
 ### The Wanderer - Of No Fixed Address
@@ -247,6 +301,33 @@ The Wanderer's theology has an unexpected resonance in the twilight city. The Wa
 
 **Playing a Wanderer Cleric:**
 Wanderer clerics (Wayward) are outsiders by design. They don't stay anywhere permanently, which makes them excellent player characters arriving in Varenhold for the first time - and unusual ones if they stay through the campaign. The theological question the twilight poses for a Wanderer character is genuine: can the god of roads help a city that cannot move forward? The answer may be the campaign's resolution.
+
+<div class="player-callout">
+
+**Skill Checks: The Wanderer**
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+The Wanderer is the god of roads, travel, and passage. He is worshipped at wayshrines with brief, practical prayers. His clergy, called Wayward, are itinerant and do not maintain permanent congregations. The Ashfen Gate Wayshrine in Varenhold is one of the oldest continuously active wayshrines in the Reaches. Local tradition says you should touch it when you arrive and when you leave.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Nature (proficient)</strong></summary>
+
+Experienced travelers recognize Wanderer-worship in practice: the specific posture at a wayshrine, the traveler's words said quietly before departure, the yellow cord tied to a shrine railing as a courtesy request for safe passage. A Wayward priest can read how heavily a road has been traveled and in which direction by the condition and density of shrine offerings.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 12, at the Ashfen Gate Wayshrine)</strong></summary>
+
+The offerings at the Ashfen Gate Wayshrine are more varied and more recent than declining trade traffic would suggest. Someone has been making regular offerings over a long period: the same type of object, left at consistent intervals. Not a traveler's thank-offering but something closer to a standing vigil. The shrine has been actively tended by someone who is not the city's formal maintenance crew.
+
+</details>
+
+</div>
 
 ---
 
@@ -285,6 +366,33 @@ The Twin Crowns have become increasingly relevant in the twilight era, as the ci
 
 **Playing a Twin Crowns Cleric:**
 The campaign is specifically designed for Twin Crowns questions. A double-sworn character will find the ritual dilemma sits directly in their theological center: is this a case where harm is necessary, and if so, whose consent matters? The theological framework requires honesty about costs, not justification. A Twin Crowns cleric cannot rationalize - they can only reckon. This is the hardest and most rewarding character to play in this campaign.
+
+<div class="player-callout">
+
+**Skill Checks: Kael and Mira**
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+Kael and Mira are the Twin Crowns, worshipped as a pair: war and mercy, force and healing. Their theology is for people who must cause harm to prevent greater harm. The Twin Crowns Hall in Varenhold's Guard Quarter is always unlocked. Guards coming off difficult shifts often sit in the Mira nave before going home. The core practice is the reckoning: speaking aloud what you did and what it cost.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Twin Crowns have become increasingly relevant in Varenhold as the twilight has forced decisions with clear moral costs. The question of whether compelling the Dawnborn into the ritual constitutes a Twin Crowns-sanctioned necessary harm is currently the most active theological debate in the temple. Head Cleric Thessa Morr, a retired guard captain, has not given a public answer.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 13, at the Twin Crowns Hall)</strong></summary>
+
+The Twin Crowns Hall attracts people who have made or are about to make a decision with moral weight. Sitting in the Mira nave long enough, you notice the guards who come in are carrying something specific: not guilt yet, but the anticipatory weight of being asked to do something they may not be able to reckon with afterward. The theological debate about the Dawnborn ritual is not abstract for these people.
+
+</details>
+
+</div>
 
 ---
 

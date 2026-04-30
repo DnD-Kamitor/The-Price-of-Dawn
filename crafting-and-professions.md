@@ -94,6 +94,33 @@ The amber infusion process was developed by trial and error over the first five 
 
 An **enhanced amber lantern** (DC 14) is one of the most useful craftable items for this campaign's investigation scenes. The Archive's restricted sections, Isolde's lower lab, and the approach to the Ashring at night all benefit from extended light range. Being a known lampworker in the Dawnhalls district opens social doors — Helv Onn remembers the craftspeople who use her workspace.
 
+<div class="player-callout">
+
+**Craft Knowledge: Amber Lampwork**
+
+<details class="skill-passive">
+<summary><strong>Proficient (Glassblower's tools)</strong></summary>
+
+A proficient amber lampworker knows the basic infusion process: heat the amber resin to the resonance point, introduce it into the cooling glass housing, and set the wick calibration. They know which amber grades produce which light qualities, how long a standard lantern lasts between refuelling, and why the Varenhold workshops guard their temperature tolerances carefully.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The amber lantern technique was developed in the first five years of the twilight, out of necessity. It is now Varenhold's most successful export and the city's defining craft. The light a Varenhold amber lantern produces is warmer and steadier than oil flame, with a spectral quality Spire scholars have been arguing about for decades. The lampworkers don't discuss the theories. They discuss tolerances.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Arcana (DC 12, studying an amber lantern in detail)</strong></summary>
+
+The amber lantern's light is not purely mundane. The infusion process does something to the amber's resonant properties that standard physics of illumination doesn't fully account for. The Spire's public position is "interesting but not meaningful." Their private research files contain considerably more interest and considerably less certainty.
+
+</details>
+
+</div>
+
 ---
 
 ### Herbalism
@@ -139,6 +166,33 @@ Varenhold's herbalism has a specific character: it is not focused on wound care 
 
 **Lira's compound (partial)** is the most politically significant craftable item in this campaign. A character capable of producing it becomes relevant to every faction: the Desperate want wider distribution, the Council worries about unsanctioned compound production, and Lira herself has complicated feelings about another person synthesizing her formula. It also creates a personal stake in the grey sickness storyline that doesn't depend on a player character being personally affected by the condition.
 
+<div class="player-callout">
+
+**Craft Knowledge: Herbalism**
+
+<details class="skill-passive">
+<summary><strong>Medicine (proficient)</strong></summary>
+
+A proficient herbalist in Varenhold knows the major Ashfen plant compounds used in grey sickness treatment, the common substitution chains when supply runs short, and the difference between what helps and what only feels like it helps. Cold-shade root is the base reagent for most compounds. Marsh oil is the carrier. The exact ratios that actually slow Stage 1 progression are less widely known.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Nature (proficient)</strong></summary>
+
+The Ashfen marsh ecosystem has adapted to the twilight over fifty years in specific ways that affect plant potency. A proficient naturalist or herbalist knows which plants are more potent now than before the twilight, which ones have degraded, and that the Ashfen Clans' knowledge of this is more current and more accurate than any Spire publication on the subject.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Medicine (DC 13, working at the Lowmark Healing House)</strong></summary>
+
+Lira's compound produces results that exceed what the listed ingredients should produce. A careful herbalist who works alongside the Guild practitioners long enough begins to notice the gap. The most common theory among Healing House staff: the compound interacts with something in Lira's preparation process that is not entirely reducible to technique. This is not a comfortable conclusion for anyone.
+
+</details>
+
+</div>
+
 ---
 
 ### Alchemy
@@ -181,6 +235,33 @@ Most Spire-trained alchemists will tell you their field advanced significantly u
 #### Campaign Integration
 
 **Void-detection powder** (DC 16) becomes directly useful from Session 3 onward, when investigation scenes involve ritual-adjacent sites. A character who made it before that point has an advantage that feels earned rather than provided. The powder doesn't tell you why something is active — it tells you something is. That distinction matters to both the player and the story.
+
+<div class="player-callout">
+
+**Craft Knowledge: Alchemy**
+
+<details class="skill-passive">
+<summary><strong>Arcana (proficient)</strong></summary>
+
+A proficient alchemist in Varenhold knows the standard compounds for Lux energy detection, residual ritual-site analysis, and the specific interaction between Ashfen reagents and twilight atmospheric chemistry. This is knowledge developed nowhere else in the Reaches. Spire-trained alchemists carry it as a professional marker; it is worth more outside Varenhold than inside.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>Investigation +5</strong></summary>
+
+The alchemical equipment at the Spire Quarter apothecary is the most complete in the region, but it has been calibrated for the Spire's theoretical priorities. A careful observer working there notices that certain research lines are well-supplied and others are not, and that the pattern of well-supplied versus undersupplied research does not obviously follow the merit of the work.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Arcana (DC 14, examining residual lux particulate near the Primer Stones)</strong></summary>
+
+The residual Lux energy near the Ashring's Primer Stones is not decaying at the rate the Spire's public models predict. A proficient alchemist who collects a sample and analyses it can detect the discrepancy. The energy is being sustained by something. The Spire's public models assume passive decay from the ritual's failure. They may be wrong about the mechanism.
+
+</details>
+
+</div>
 
 ---
 
@@ -225,6 +306,33 @@ Smithing in Varenhold has shifted over fifty years. The city's most in-demand me
 
 The **Primer Stone mount** (DC 14) connects to Session 4 and the final events of Session 5. The Inversion Circle puzzle requires precise timing and positioning. A player character who crafted mounts in advance — perhaps without fully knowing what they would be used for — finds that earlier downtime work becomes mission-critical. The GM should drop hints about Primer Stone geometry before Session 4 begins.
 
+<div class="player-callout">
+
+**Craft Knowledge: Smithing**
+
+<details class="skill-passive">
+<summary><strong>Proficient (Smith's tools)</strong></summary>
+
+A proficient smith working in Varenhold knows that the most in-demand metalwork is structural and precise: lantern brackets, calibration frames, mounting hardware. Decorative ironwork is a dead market. The Ironbell forge's specialty is amber-tempered alloy, which produces a slightly warm-tinted metal valued for lantern housings. The technique is Henna Bract's and she does not teach it.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Ironbell forge has been operating for eighty years. It survived the Night of the Ritual without damage; the forge master at the time reportedly lit her fire the morning after the twilight began, on the grounds that iron doesn't care what the sky is doing. Her granddaughter Henna runs it now. The forge is one of the few pre-twilight businesses operating in its original premises under its original family.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 12, reviewing Ironbell commissions)</strong></summary>
+
+The Ironbell's recent commission board includes several precision components whose specifications do not match standard lantern hardware. The dimensions are consistent with ritual circle anchoring brackets, the kind used to fix resonance-chalk circles to stone permanently. The commission name is not one the Compact's trade registry recognizes.
+
+</details>
+
+</div>
+
 ---
 
 ### Jewelcrafting
@@ -266,6 +374,33 @@ The three current masters arrived at similar craft specializations through compl
 #### Campaign Integration
 
 The **resonance gem setting** (DC 16) is directly relevant to Session 3's investigation puzzle. The Resonance Rods function without a gem setting, but a set rod has a wider effective range — mechanically meaningful in the puzzle's spatial constraints. A character who built one before Session 3 has a tool they made, not a tool they were handed.
+
+<div class="player-callout">
+
+**Craft Knowledge: Jewelcrafting**
+
+<details class="skill-passive">
+<summary><strong>Proficient (Jeweler's tools)</strong></summary>
+
+A proficient jewelcrafter in Varenhold knows the difference between pre-twilight clear glass and the warmer, amber-tinted glass produced since, and can use both decoratively. The city's current luxury market favors practical elegance: a well-made amber-set brooch that also holds a small reserve of lamp oil is more interesting to Varenholders than one that only catches light.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+Varenhold's amber inlay craft began in the lampworks, but the jewelcrafting guilds picked up the technique within a decade. Pre-twilight jewelry from Varenhold referenced the sun: bright, golden, decorative. Post-twilight Varenhold jewelry uses amber's warmth differently: as something precious specifically because it approximates the sun's color, not as decorative shorthand for wealth. The shift in intention is visible to anyone who knows what to look for.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 12, Spire Quarter jewelry workshops)</strong></summary>
+
+Several Spire Quarter workshops have received unusual commissions in the past year: amber pieces with specific geometric inlay patterns, consistent across different workshops, placed by different buyers. The buyers pay above market and do not negotiate. The patterns are not decorative standards. A player who sketches the pattern and shows it to anyone with Arcana proficiency will recognize it as a simplified resonance diagram.
+
+</details>
+
+</div>
 
 ---
 
