@@ -158,13 +158,33 @@ At 10 PM, the Archmagister lit the first of the Primer Stones.
 
 **Skill Checks: History of Varenhold**
 
-**History (DC 0 — automatic):** The night the sun stopped, the Ritual of Eternal Dawn, Archmagister Corven, and the Dawnborn's existence are common knowledge throughout the Reaches.
+<details class="skill-reveal">
+<summary><strong>History (DC 0 — automatic)</strong></summary>
 
-**History (DC 11):** The Desperate Winter of Year 22 (the worst food crisis in the twilight era), Lira Anwick's grey sickness compound, and the formation of the Restorers are known to anyone with general regional awareness.
+The night the sun stopped, the Ritual of Eternal Dawn, Archmagister Corven, and the Dawnborn's existence are common knowledge throughout the Reaches.
 
-**History (DC 14):** Theron Waide has worked in the Archive since before the Night of the Ritual. The ritual documents were sealed immediately after Corven's death. The Spire's official position has consistently been that the twilight mechanism is "under investigation."
+</details>
 
-**History (DC 17):** The Reckoning was founded specifically by former Restorer frustration cases in Year 49, not as a separate faction from the beginning. Its funding sources have never been made public.
+<details class="skill-reveal">
+<summary><strong>History (DC 11)</strong></summary>
+
+The Desperate Winter of Year 22 (the worst food crisis in the twilight era), Lira Anwick's grey sickness compound, and the formation of the Restorers are known to anyone with general regional awareness.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>History (DC 14)</strong></summary>
+
+Theron Waide has worked in the Archive since before the Night of the Ritual. The ritual documents were sealed immediately after Corven's death. The Spire's official position has consistently been that the twilight mechanism is "under investigation."
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>History (DC 17)</strong></summary>
+
+The Reckoning was founded specifically by former Restorer frustration cases in Year 49, not as a separate faction from the beginning. Its funding sources have never been made public.
+
+</details>
 
 </div>
 
@@ -223,13 +243,33 @@ Solenne was Varenhold's most important trading partner before the crisis. The re
 
 **Skill Checks: Solenne**
 
-**History (DC 11):** Solenne is ruled by religious authority (the High Penitent); Auris worship is mandatory and the city has been officially in mourning since Year 0. It is four days' ride north.
+<details class="skill-reveal">
+<summary><strong>History (DC 11)</strong></summary>
 
-**History (DC 13):** The Solennite Penitent faction in Varenhold receives correspondence from High Penitent Ven personally. Solenne's transit trade has been reduced to a fraction of its former volume — officially for logistical reasons, not theological ones.
+Solenne is ruled by religious authority (the High Penitent); Auris worship is mandatory and the city has been officially in mourning since Year 0. It is four days' ride north.
 
-**Religion (DC 14):** The theological split between Penitent (Varenhold caused this through sin and must atone) and Wounded (Auris was damaged by the ritual, not angered) predates the Auris Cathedral's own internal schism in Varenhold.
+</details>
 
-**Insight (DC 14, when meeting Penitent clergy):** Solenne's official neutrality masks active investment in a specific theological outcome. They want the ritual resolved in a way that confirms Auris's role — a secular solution would be genuinely difficult for them.
+<details class="skill-reveal">
+<summary><strong>History (DC 13)</strong></summary>
+
+The Solennite Penitent faction in Varenhold receives correspondence from High Penitent Ven personally. Solenne's transit trade has been reduced to a fraction of its former volume — officially for logistical reasons, not theological ones.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Religion (DC 14)</strong></summary>
+
+The theological split between Penitent (Varenhold caused this through sin and must atone) and Wounded (Auris was damaged by the ritual, not angered) predates the Auris Cathedral's own internal schism in Varenhold.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 14, when meeting Penitent clergy)</strong></summary>
+
+Solenne's official neutrality masks active investment in a specific theological outcome. They want the ritual resolved in a way that confirms Auris's role — a secular solution would be genuinely difficult for them.
+
+</details>
 
 </div>
 
@@ -257,13 +297,33 @@ Some Compact merchants still maintain permanent presence in Varenhold, because e
 
 **Skill Checks: The Arveth Compact**
 
-**History (DC 10):** The Arveth Compact is a mercantile republic of seven cities; Varenhold's Merchants' Compact is a local organization with ties to, but not part of, the Arveth Compact. Compact trade has shifted away from Varenhold over fifty years.
+<details class="skill-reveal">
+<summary><strong>History (DC 10)</strong></summary>
 
-**History (DC 13):** The bypass roads the Compact built give them financial incentive against Varenhold's full recovery — their road investment would lose value. They officially support restoration. Their economic structure does not.
+The Arveth Compact is a mercantile republic of seven cities; Varenhold's Merchants' Compact is a local organization with ties to, but not part of, the Arveth Compact. Compact trade has shifted away from Varenhold over fifty years.
 
-**Investigation (DC 15, Compact trade records):** The Compact's payment records from fifteen years ago show transactions with Spire Quarter addresses. Finding the terminal address requires Compact registry access (3m) or a contact within the trade house.
+</details>
 
-**Insight (DC 12, when meeting Compact representatives):** Saret Onn is a pragmatist genuinely invested in Varenhold's survival. Most other Compact representatives are calculating exit terms. The difference is visible if you know what to look for.
+<details class="skill-reveal">
+<summary><strong>History (DC 13)</strong></summary>
+
+The bypass roads the Compact built give them financial incentive against Varenhold's full recovery — their road investment would lose value. They officially support restoration. Their economic structure does not.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 15, Compact trade records)</strong></summary>
+
+The Compact's payment records from fifteen years ago show transactions with Spire Quarter addresses. Finding the terminal address requires Compact registry access (3m) or a contact within the trade house.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 12, when meeting Compact representatives)</strong></summary>
+
+Saret Onn is a pragmatist genuinely invested in Varenhold's survival. Most other Compact representatives are calculating exit terms. The difference is visible if you know what to look for.
+
+</details>
 
 </div>
 
@@ -293,11 +353,26 @@ Politically, the Parishes have no unified voice, but their de facto representati
 
 **Skill Checks: The Dusk Parishes**
 
-**History (DC 10):** The Parishes are farming communities east of Varenhold, devastated by the loss of growing seasons. They have the highest grey sickness rate outside Varenhold itself. Harrow Seld is their delegate.
+<details class="skill-reveal">
+<summary><strong>History (DC 10)</strong></summary>
 
-**Survival (DC 11):** The cold-tolerant crops the Parishes developed (root vegetables, indoor growing, winter-stored fish) are recognizable as sophisticated adaptations, not primitive fallbacks.
+The Parishes are farming communities east of Varenhold, devastated by the loss of growing seasons. They have the highest grey sickness rate outside Varenhold itself. Harrow Seld is their delegate.
 
-**Insight (DC 12, when meeting Harrow Seld):** His impatience is not political positioning. He is genuinely running out of time. Something specific is driving the urgency he hasn't disclosed — and it is more immediate than the general Parish situation.
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Survival (DC 11)</strong></summary>
+
+The cold-tolerant crops the Parishes developed (root vegetables, indoor growing, winter-stored fish) are recognizable as sophisticated adaptations, not primitive fallbacks.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 12, when meeting Harrow Seld)</strong></summary>
+
+His impatience is not political positioning. He is genuinely running out of time. Something specific is driving the urgency he hasn't disclosed — and it is more immediate than the general Parish situation.
+
+</details>
 
 </div>
 
@@ -325,13 +400,33 @@ The Clans are formally neutral in Varenhold's political situation but have their
 
 **Skill Checks: The Ashfen Clans**
 
-**History (DC 11):** The Ashfen Clans are independent marsh-dwellers south of the city. They use pre-systematic magic the Spire categorizes as non-standard. Wadewalkers are their senior practitioners.
+<details class="skill-reveal">
+<summary><strong>History (DC 11)</strong></summary>
 
-**Arcana (DC 12):** "Pre-systematic" magic means it predates formal arcane frameworks and operates on different principles — not weaker, just differently structured. A Wadewalker's knowledge of the marsh's magical field is likely more current than the Spire's.
+The Ashfen Clans are independent marsh-dwellers south of the city. They use pre-systematic magic the Spire categorizes as non-standard. Wadewalkers are their senior practitioners.
 
-**Nature (DC 12):** The marsh ecosystem has been observably disrupted by fifty years of reduced light. Anyone with nature training notices this within an hour of traveling the Ashfen paths.
+</details>
 
-**Insight (DC 13, when meeting Erem):** She has been dismissed before. She is checking whether these visitors are genuinely different from the Spire scholars who came and took notes and left without crediting the work.
+<details class="skill-reveal">
+<summary><strong>Arcana (DC 12)</strong></summary>
+
+"Pre-systematic" magic means it predates formal arcane frameworks and operates on different principles — not weaker, just differently structured. A Wadewalker's knowledge of the marsh's magical field is likely more current than the Spire's.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Nature (DC 12)</strong></summary>
+
+The marsh ecosystem has been observably disrupted by fifty years of reduced light. Anyone with nature training notices this within an hour of traveling the Ashfen paths.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 13, when meeting Erem)</strong></summary>
+
+She has been dismissed before. She is checking whether these visitors are genuinely different from the Spire scholars who came and took notes and left without crediting the work.
+
+</details>
 
 </div>
 
@@ -359,11 +454,26 @@ Trade through the Holds has decreased as Varenhold has declined, but not as dram
 
 **Skill Checks: The Graymere Holds**
 
-**History (DC 11):** The Holds control the mountain passes north-northwest of Varenhold. They are a confederation, not a unified state. The Passage-Warden (currently Herath Koss) manages road maintenance and transit.
+<details class="skill-reveal">
+<summary><strong>History (DC 11)</strong></summary>
 
-**History (DC 13):** The Holds have been subsidizing Varenhold's road maintenance for eight years as the city's transit revenue declined. This arrangement is not public; the Holds have been absorbing the cost quietly.
+The Holds control the mountain passes north-northwest of Varenhold. They are a confederation, not a unified state. The Passage-Warden (currently Herath Koss) manages road maintenance and transit.
 
-**Arcana (DC 14, upon hearing about the natural light events):** Light appearing consistently at three specific locations at 40-day intervals is not random atmospheric variation. A pattern this regular suggests the twilight's mechanism has a periodic structure — something the Spire's ground-level instruments would miss.
+</details>
+
+<details class="skill-reveal">
+<summary><strong>History (DC 13)</strong></summary>
+
+The Holds have been subsidizing Varenhold's road maintenance for eight years as the city's transit revenue declined. This arrangement is not public; the Holds have been absorbing the cost quietly.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Arcana (DC 14, upon hearing about the natural light events)</strong></summary>
+
+Light appearing consistently at three specific locations at 40-day intervals is not random atmospheric variation. A pattern this regular suggests the twilight's mechanism has a periodic structure — something the Spire's ground-level instruments would miss.
+
+</details>
 
 </div>
 
@@ -385,11 +495,26 @@ What has replaced some of this revenue is grimmer: aid. Solenne sends relief shi
 
 **Skill Checks: Trade and Economy**
 
-**History (DC 11):** Transit trade is at forty percent of pre-twilight volume. The amber workshops still function but face Compact competition. The credit-writ system was introduced in Year 15 and has been the primary commercial instrument since.
+<details class="skill-reveal">
+<summary><strong>History (DC 11)</strong></summary>
 
-**Investigation (DC 13, at the Compact House or Grain Measure):** The gap between official trade figures and actual goods flowing through the city can be identified from public ledgers. The discrepancy isn't large, but it's consistent — and it's been consistent for three years.
+Transit trade is at forty percent of pre-twilight volume. The amber workshops still function but face Compact competition. The credit-writ system was introduced in Year 15 and has been the primary commercial instrument since.
 
-**Investigation (DC 15, at the Compact registry):** Pre-twilight marks (thicker copper) are treated differently by savvy merchants: worth approximately 12 marks to the writ rather than 10. Knowing this can save or earn money on larger transactions.
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 13, at the Compact House or Grain Measure)</strong></summary>
+
+The gap between official trade figures and actual goods flowing through the city can be identified from public ledgers. The discrepancy isn't large, but it's consistent — and it's been consistent for three years.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 15, at the Compact registry)</strong></summary>
+
+Pre-twilight marks (thicker copper) are treated differently by savvy merchants: worth approximately 12 marks to the writ rather than 10. Knowing this can save or earn money on larger transactions.
+
+</details>
 
 </div>
 
@@ -486,12 +611,32 @@ Varenholders speak the common tongue of the Reaches, but fifty years of specific
 
 **Skill Checks: Varenholder Culture**
 
-**History (DC 10):** The Dusk Sitting, the Lantern Remembrance, and the lanternhalt musical form are common knowledge throughout the Reaches. Visitors know Varenhold has a distinctive culture shaped by fifty years of twilight.
+<details class="skill-reveal">
+<summary><strong>History (DC 10)</strong></summary>
 
-**Insight (DC 11):** Using Varenholder expressions naturally — calling someone "a stayer," referencing "lumenbread thinking" — signals to locals that you have spent real time in the city or have genuine connections here. Using them incorrectly is noticed but not held against you.
+The Dusk Sitting, the Lantern Remembrance, and the lanternhalt musical form are common knowledge throughout the Reaches. Visitors know Varenhold has a distinctive culture shaped by fifty years of twilight.
 
-**Performance (DC 12):** Knowing "The First Winter" lyrics marks you as someone who has spent meaningful time in Varenhold. Locals who hear you sing it (or even hum it) will be noticeably warmer.
+</details>
 
-**History (DC 13, upon attending the Lantern Remembrance):** The ceremony has been held every year since Year 1 without exception. There are no records of any chancellor, crisis, or faction conflict ever interrupting it. This continuity is deliberate — the ceremony is the one thing everyone has agreed not to use as leverage.
+<details class="skill-reveal">
+<summary><strong>Insight (DC 11)</strong></summary>
+
+Using Varenholder expressions naturally — calling someone "a stayer," referencing "lumenbread thinking" — signals to locals that you have spent real time in the city or have genuine connections here. Using them incorrectly is noticed but not held against you.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Performance (DC 12)</strong></summary>
+
+Knowing "The First Winter" lyrics marks you as someone who has spent meaningful time in Varenhold. Locals who hear you sing it (or even hum it) will be noticeably warmer.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>History (DC 13, upon attending the Lantern Remembrance)</strong></summary>
+
+The ceremony has been held every year since Year 1 without exception. There are no records of any chancellor, crisis, or faction conflict ever interrupting it. This continuity is deliberate — the ceremony is the one thing everyone has agreed not to use as leverage.
+
+</details>
 
 </div>
