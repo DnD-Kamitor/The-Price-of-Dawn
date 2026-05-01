@@ -157,6 +157,39 @@ The general population does not know this happened. The Council's official histo
 
 The Restorers found this place because someone with Spire access gave them a method, a map, and the door sequence. That person has not been identified.
 
+### Faction Stakes — Who Wins If the Ritual Runs
+
+The anchor is not broken. It is doing exactly what it was designed to do. If it runs to completion without interruption, it performs a second failed ritual — quieter than the first, but with consequences.
+
+| Faction | If ritual completes and fails again | Why |
+|---|---|---|
+| **Restorers** | Short-term win | Proof of concept. Martyrdom fuel. Recruitment spike. Leadership escapes prosecution. |
+| **The Spire** | Win | Justification to crack down on Restorer cells, seize vault evidence, expand jurisdiction into the Lowmark. May have wanted it to run long enough to gather intelligence. |
+| **Healers' Guild** | Loss | Grey sickness cases spike. Dawnhall reputation damaged. They hold the human cost. |
+| **Lowmark residents** | Loss | Anchor flare harms the sick immediately. Dawnhall becomes unsafe for weeks. |
+| **Compact** | Nervous | Another failed ritual accelerates Varenhold's decline as a trade hub. |
+
+**The horrible positive:** A completed-and-failed anchor leaves a *resonance scar* — a permanent magical dead zone. Grey sickness accelerates in a 3-block radius. But the resonance burn also destroys the Spire's forensic evidence. Restorer leadership walks free. They have a new martyr site and a new recruitment story.
+
+**The party is the only actor that loses nothing from stopping this and gains everything from evidence preserved.**
+
+### The Useful Idiots Outside
+
+The Restorer Scouts on the street were not told about the vault. They were paid four silver each to manage crowd overflow for "a private Restorer vigil." They believe it. If captured and pressed: *"We were told it was a ceremony. We were paid to keep the crowd from getting too large. That is all we know."*
+
+Whoever hired them had operational resources in the Lowmark — the kind of reach that does not come from a street-level faction. This is a thread.
+
+### The Removed Warnings
+
+The original makers left warnings throughout the vault approach. Someone removed them recently — crude plastering over carved text, chisel marks above doorframes, plaster still pale against the older stone.
+
+What was removed:
+- Above the Phase 3 doorframe: *"The error was in the foundation. Do not repeat it."*
+- On the Phase 4 staircase wall: a diagram showing the correct anchor calibration range (which would have made Phase 7 much easier)
+- On the vault door surround: a line warning that the door sequence encodes the *order of failure*, not the order of success
+
+Who removed it: the same person who gave Maerin the door sequence and the map. They did not want the party — or anyone else — to solve this too cleanly.
+
 ### Connections to Sessions 1-5
 
 | This Session | Connects To |
@@ -361,8 +394,11 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 | Investigation | 13 | Fresh tool marks around the door frame. Someone forced this door from the other side recently - the Restorers came up this way and went back down. |
 | History | 15 | The door frame is older than the building above. The stones around it are pre-Ritual civic construction. This basement connects to something built before the Night of the Ritual. |
 | Religion | 13 | The chalk marks include two Elder Futhark runes: ᚾ Nauthiz and ᛊ Sowilo - need and sun. A scholar used this room as a reference point for something below. |
+| Investigation | 12 | Above the reinforced doorframe: chisel marks where text was carved into the stone and then removed. Only fragments remain: "...THE ERROR WAS IN THE..." and "...DO NOT...". The removal is recent - the stone is clean where it was chiseled, the surrounding surface decades darker. |
 
 *The two runes visible here are the 2nd and 4th runes in the vault door sequence. Smart players will note them.*
+
+*The scraped warning above the doorframe is the first sign that someone deliberately removed the makers' safety information. Whoever gave Maerin the sequence also made sure the warnings were gone.*
 
 ---
 
