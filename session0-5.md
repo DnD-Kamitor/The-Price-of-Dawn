@@ -268,13 +268,13 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 
 **Three ways through:**
 
-**Fight:** 2 Restorer Scouts. CR 1/8 each. They deal subdual damage and try to disengage and warn the others if one goes down. If both drop in the same round, no warning reaches below.
+**Fight:** 3 Restorer Scouts. CR 1 each. They have Flash Vials (DC 12 Con save or blinded), use Pack Tactics, and try to disengage and warn the others if one goes down. If all three drop in the same round, no warning reaches below.
 
 **Stealth (DC 13):** The crowd gives cover. A character moving with the foot traffic can approach without drawing attention. All four must succeed or the scouts notice the stragglers.
 
 **Social (DC 13 Deception or Persuasion):** Posing as Healers' Guild responders, late Dawnhall workers, or concerned locals. The scouts are not hard to fool - they are frightened volunteers, not trained agents. A convincing story with appropriate framing (mention Ilya Ren, the Guild, or the steward) drops the DC to 10.
 
-**If the scouts warn the vault:** The Bridge Guard is alert when the party arrives (see Phase 5). He uses his Brace reaction on the first attack.
+**If the scouts warn the vault:** The Bridge Guard is alert when the party arrives (see Phase 5). Two scouts follow the party down to Phase 5, arriving at the start of round 2 from the upper basement stairwell. The Guard uses his Set Against Charge reaction on the first attack.
 
 **If the scouts are captured and questioned:** They know there is a group below working on something. They do not know what it is. They were told to watch and delay. They do not know the vault door sequence.
 
@@ -409,7 +409,7 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 
 **The bridge:** 40 ft long, 4 ft wide (one square), 20-ft drop to dark water below. The drop is survivable (2d6 bludgeoning, land in 5 ft of water, swimming DC 12 to keep gear). Being shoved off is a real threat. Difficult terrain does not apply - the bridge is smooth - but any creature that starts its turn prone on the bridge must succeed on a DC 11 Dexterity save or slide toward the edge.
 
-**The Bridge Guard:** One Restorer Bridge Guard. He was left to delay. He does not know the party's strength. He knows the vault door sequence (3 of the 4 runes; Maerin did not tell him the full set deliberately).
+**The Bridge Guard:** One Restorer Bridge Guard (CR 5). He was left to delay. He does not know the party's strength. He knows the vault door sequence (3 of the 4 runes; Maerin did not tell him the full set deliberately). His Ritual Lantern of Warding is his opening move - it will frighten at least one party member unless they pass DC 14 Wisdom.
 
 **Tactical notes:**
 - The Guard begins at the far end (40 ft from the party)
@@ -418,7 +418,7 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 - Keiran can cover 45 ft in one turn with Disengage as bonus action
 - Darkness cast on the Guard's position: he makes DC 15 Dex save or is blinded; a blinded creature on the bridge has disadvantage on Dex saves against sliding
 
-**Surrender condition:** If the Guard is reduced below 10 HP and offered a non-lethal option, he stops. He will give the party 3 of the 4 door runes in exchange for not being killed: ᚺ Hagalaz, ᚾ Nauthiz, ᛊ Sowilo. He does not know the third (ᚲ Kenaz) - Maerin kept it to herself.
+**Surrender condition:** If the Guard is reduced below 20 HP and offered a non-lethal option, he stops. He will give the party 3 of the 4 door runes in exchange for not being killed: ᚺ Hagalaz, ᚾ Nauthiz, ᛊ Sowilo. He does not know the fourth (ᚲ Kenaz) - Maerin kept it to herself.
 
 *Why Maerin kept Kenaz: she is not fully certain of the sequence herself. Kenaz was the rune she had to derive, and she does not trust others with incomplete knowledge.*
 
@@ -731,15 +731,19 @@ These people are desperate, not foolish.
 
 ### 3 Gestalt Characters
 
-Remove 1 Anchor-Bearer, 1 Dawnhall Desperate, 1 Light-Sick Echo. Reduce anchor HP to 32. Final flare 3d6 not 4d6. Allow 3 stabilization failures before flare. Maerin more willing to talk.
+Remove both Anchor-Bearers, 2 Desperates, 1 Echo. Reduce anchor HP to 28. Maerin CR 4 (62 HP). Final flare 3d6 not 4d6. Allow 3 stabilization failures before flare. Maerin opens with negotiation, not combat.
 
 ### 4 Gestalt Characters
 
-Default setup as written.
+Remove 1 Anchor-Bearer and 1 Echo. Reduce anchor HP to 34. Maerin as written.
 
-### 5-6 Gestalt Characters
+### 5 Gestalt Characters (Default)
 
-Add 1 Desperate and 1 Echo. Increase anchor HP to 48. For 6: add 1 Anchor-Bearer; add a second pressure point - a lantern regulator near the vault entrance overheating (DC 14 to cool; if ignored 2 rounds, bursts and threatens anyone on the stairs).
+As written. This is the baseline encounter balance.
+
+### 6 Gestalt Characters
+
+Add 1 Anchor-Bearer and 1 Echo. Increase anchor HP to 48. Add a second pressure point: a lantern regulator near the vault entrance overheating (DC 14 to cool; if ignored 2 rounds, it bursts — all creatures on the stairs make DC 13 Dex save or take 2d8 fire damage).
 
 ### If the Party Is Struggling
 
@@ -782,9 +786,17 @@ Party learns the second attempt failed for the same reason as the first - but th
 
 ## Rewards
 
-**Coin:** 150 gp from Berric Halven (emergency fund) or Healers' Guild via Ilya Ren
+**Coin:** 150 gp from Berric Halven (emergency fund) or Healers' Guild via Ilya Ren. Plus combat loot: ~3d8 gp from Bridge Guard, 4d10 gp from Maerin, 2d8 sp from scouts.
 
 **Consumables:** 2 potions of healing, 1 healer's kit
+
+**Combat Loot (see stat blocks for full detail):**
+- Flash Vials (up to 6 from scouts) — thrown blinding grenades, DC 12 Con save
+- Ritual Lantern of Warding (from Bridge Guard) — frighten effect, 3 charges, recharges
+- Ritual Chain (from Bridge Guard) — +1 flail, reach 10 ft, grapple on hit
+- Primer Lantern (from Maerin) — +7 ranged, 2d8 radiant + blind, limited charges
+- Charged Amber Shards (up to 4 from Bearers) — 1d8 radiant thrown, 1 hour of charge remaining
+- Restorer Lieutenant Token (from Guard) — faction dialogue opener Sessions 2–3
 
 **Evidence (if preserved):**
 - Anchor fragments and calibration rings
@@ -809,165 +821,191 @@ Party learns the second attempt failed for the same reason as the first - but th
 ### Restorer Scout
 *Medium humanoid (any), neutral*
 
-**AC** 12 (leather armor) | **HP** 11 (2d8+2) | **Speed** 30 ft.
+**AC** 13 (leather armor) | **HP** 22 (4d8+4) | **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 11 (+0) | 13 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
+| 11 (+0) | 16 (+3) | 12 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
-**Skills** Perception +2, Stealth +3
-**Senses** passive Perception 12 | **Languages** Common | **CR** 1/8 (25 XP)
+**Skills** Perception +3, Stealth +5
+**Senses** passive Perception 13 | **Languages** Common | **CR** 1 (200 XP)
 
 **Traits**
-- *Lookout.* Advantage on Perception checks when standing watch.
+- *Pack Tactics.* Advantage on attack rolls against a creature if at least one ally is within 5 ft of the target and not incapacitated.
 - *Non-Lethal Intent.* Deals non-lethal damage unless ordered otherwise.
 
 **Actions**
-- *Shortsword.* *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) piercing (non-lethal).
-- *Hand Crossbow.* *Ranged Weapon Attack:* +3 to hit, range 30/120 ft., one target. *Hit:* 4 (1d6+1) piercing.
+- *Amber Baton.* *Melee Weapon Attack:* +5 to hit, reach 5 ft. *Hit:* 6 (1d6+3) bludgeoning (non-lethal by default).
+- *Flash Vial (2/encounter).* Thrown, range 20/40 ft. All creatures within 5 ft of impact make DC 12 Constitution save or are blinded until end of their next turn. No attack roll required.
+- *Amber-Tipped Crossbow.* *Ranged Weapon Attack:* +5 to hit, range 30/120 ft. *Hit:* 6 (1d6+3) piercing + 2 (1d4) radiant.
 
-**Morale:** If one scout drops, the other flees to warn below. If both drop in the same round, no warning reaches the vault. Neither knows the vault door sequence.
+**Bonus Action**
+- *Disengage or Dash.*
+
+**Morale:** If one scout drops, the others retreat to warn below. If all three drop in the same round, no warning reaches the vault. None know the vault door sequence.
+
+**Loot (per scout):** 2 Flash Vials (DC 12 Con save or blinded, thrown 20/40 ft), amber-tipped crossbow bolts (10), Restorer sash (advantage on Persuasion with Restorer-sympathetic Lowmark residents), 1d6 sp.
 
 ---
 
 ### Restorer Bridge Guard
 *Medium humanoid (human), neutral*
 
-**AC** 15 (chain shirt, shield) | **HP** 39 (6d8+12) | **Speed** 30 ft.
+**AC** 18 (chain mail, shield) | **HP** 82 (11d8+33) | **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) |
+| 18 (+4) | 11 (+0) | 16 (+3) | 10 (+0) | 13 (+1) | 12 (+1) |
 
-**Skills** Athletics +5, Perception +3
-**Senses** passive Perception 13 | **Languages** Common | **CR** 2 (450 XP)
+**Saving Throws** Str +7, Con +6
+**Skills** Athletics +7, Intimidation +4, Perception +4
+**Senses** passive Perception 14 | **Languages** Common | **CR** 5 (1,800 XP)
 
 **Traits**
-- *Bridge Position.* While on the bridge, the Guard has advantage on Athletics checks to shove, and shoves push 10 ft instead of 5.
-- *Defensive Stand.* While no ally is within 10 feet, advantage on all saving throws.
+- *Bridge Mastery.* While on the bridge: cannot be knocked prone, pushed, or moved without his consent. Athletics shove attempts against him automatically fail.
+- *Relentless (1/day).* When reduced to 0 HP, drops to 1 HP instead.
 
 **Actions**
-- *Multiattack.* Two weapon attacks.
-- *Warhammer.* *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) bludgeoning (non-lethal by default).
-- *Shove.* Contested Athletics (+5). Success: target pushed 10 ft.
+- *Multiattack.* Two Ritual Chain attacks.
+- *Ritual Chain.* *Melee Weapon Attack:* +7 to hit, reach 10 ft. *Hit:* 11 (2d6+4) bludgeoning. On hit, target makes DC 15 Strength save or is grappled (escape DC 15). While grappled on the bridge, target makes DC 12 Dexterity save at the start of each of its turns or is dragged 5 ft toward the edge.
+- *Ritual Lantern of Warding (3 charges).* Action. All creatures within 30 ft of the Guard make DC 14 Wisdom save or are frightened of the Guard for 1 minute (Constitution save DC 14 ends). 1 charge per use.
+
+**Bonus Action**
+- *Hurl.* When a creature is grappled by the Guard, attempt to throw them (Guard makes Athletics +7 vs. target's Athletics or Acrobatics). Success: target is thrown up to 10 ft. If thrown off the bridge: 2d6 bludgeoning from the fall into the cistern (5 ft of water, DC 12 Athletics to keep gear, action required to climb out).
 
 **Reactions**
-- *Brace.* When a creature moved 15+ ft in a straight line before attacking the Guard, he can impose disadvantage on that attack roll.
+- *Set Against Charge.* When a creature moves 20+ ft before attacking the Guard, he makes one Ritual Chain attack against them before their attack resolves.
 
-**Morale:** Surrenders below 10 HP if offered a non-lethal option. Will give 3 of the 4 door runes (ᚺ ᚾ ᛊ) in exchange. Does not have ᚲ Kenaz - Maerin kept it deliberately.
+**Morale:** Surrenders below 20 HP if offered a non-lethal option. Gives 3 of 4 door runes (ᚺ ᚾ ᛊ) in exchange. Does not have ᚲ Kenaz — Maerin kept it deliberately.
+
+**Loot:** Ritual Lantern of Warding (remaining charges; regains 1d3 at dawn; bright light 30 ft as free action), Ritual Chain (functions as +1 flail, reach 10 ft, grapple on hit; loses enchantment after 1 week outside ritual context), Chain Mail, Shield, 3d8 gp, Restorer Lieutenant Token (recognized by Restorer rank-and-file — useful in Sessions 2–3).
 
 ---
 
 ### Maerin Voss, Restorer Lantern-Saint
 *Medium humanoid (human), neutral*
 
-**AC** 12 | **HP** 45 (7d8+14) | **Speed** 30 ft.
+**AC** 14 (studded leather) | **HP** 78 (12d8+24) | **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 12 (+1) | 14 (+2) | 14 (+2) | 16 (+3) | 16 (+3) |
+| 10 (+0) | 14 (+2) | 14 (+2) | 16 (+3) | 15 (+2) | 18 (+4) |
 
-**Saving Throws** Wis +5, Cha +5
-**Skills** Insight +5, Persuasion +5, Religion +4
-**Senses** passive Perception 13 | **Languages** Common | **CR** 3 (700 XP)
+**Saving Throws** Wis +5, Cha +7
+**Skills** Arcana +6, History +6, Insight +5, Persuasion +7, Religion +6
+**Senses** passive Perception 12 | **Languages** Common, Elvish | **CR** 5 (1,800 XP)
 
-**Spellcasting.** 5th-level spellcaster (Wis, DC 13, +5 to hit):
-- Cantrips: *sacred flame, guidance*
-- 1st level (4 slots): *bless, command, detect magic, sanctuary*
-- 2nd level (3 slots): *calm emotions, hold person, silence*
+**Spellcasting.** 9th-level caster (Wis, spell save DC 15, +7 to hit):
+- Cantrips: *sacred flame* (2d8 radiant, DC 15 Dex save), *guidance, light*
+- 1st level (4 slots): *bless, command* (DC 15 Wis)*, guiding bolt, healing word*
+- 2nd level (3 slots): *hold person* (DC 15 Wis)*, silence, spiritual weapon*
+- 3rd level (2 slots): *daylight, dispel magic*
 
 **Traits**
-- *Anchor Bond.* Within 30 feet of the Primer Anchor, advantage on Wisdom saves and cannot be frightened.
-- *Voice of Conviction.* Sincere arguments that appeal to genuine values: listeners make social saving throws at disadvantage (GM discretion).
+- *Anchor Bond.* Within 30 ft of the active Primer Anchor: advantage on Wisdom saves and cannot be frightened.
+- *Voice of Conviction.* When Maerin makes a sincere argument appealing to a listener's genuine values, they make social saving throws at disadvantage (DC 14 Wis). Does not function with arguments she does not herself believe.
 
 **Actions**
-- *Ritual Staff.* *Melee Weapon Attack:* +2 to hit. *Hit:* 3 (1d6) bludgeoning. Used only if cornered.
-- *Anchor Command (Recharge 5-6).* Creatures within 20 ft make DC 13 Wisdom save. Fail: cannot willingly approach the anchor until start of Maerin's next turn.
+- *Primer Lantern (5 charges, regains 1d3 at dawn).* *Ranged/Melee Attack:* +7 to hit, range 30 ft. *Hit:* 9 (2d8) radiant. Target makes DC 15 Constitution save or is blinded until end of its next turn. 1 charge per use.
+- *Anchor Command (Recharge 5–6).* Creatures within 20 ft make DC 15 Wisdom save. Fail: cannot willingly approach within 5 ft of the anchor until start of Maerin's next turn.
+- *Spellcasting.* (See above.)
+
+**Bonus Action**
+- *Redirect Anchor (3/day).* The anchor's next pulse (initiative 20) affects a 15-ft radius centered on a point Maerin chooses within 60 ft — or she suppresses the next pulse entirely.
 
 **Reactions**
-- *Shield the Work.* When an ally within 5 feet is hit, Maerin can impose disadvantage on the attack roll (declared before the roll).
+- *Anchor Shield.* When targeted by an attack, Maerin expends 1 Primer Lantern charge to gain +3 AC against it.
 
-**Tactics:** Opens with words. Round 1: *bless* on Anchor-Bearers. Uses *silence* near anchor to prevent spellcasting close to it. Uses *calm emotions* on panicking locals. If two allies fall or a civilian is harmed by the anchor: she calls for a halt - one round of negotiation.
+**Tactics:** Opens with words. Round 1: *bless* on Anchor-Bearers, *spiritual weapon* (bonus action, glowing lantern shape). Uses *silence* near anchor to prevent close-range spellcasting. Uses *hold person* on the fastest threat. *Healing word* on herself if below 30 HP. Calls for a halt if two allies fall or a civilian is hurt by the anchor: demands one round of negotiation.
+
+**Loot:** Primer Lantern (remaining charges; +7 to hit, range 30 ft, 2d8 radiant + DC 15 Con save or blinded; *daylight* at will costs 2 charges; bright light 30 ft free action), Restorer Codex (hand-bound journal: second-attempt history, three scholar names still living, partial anchor-network site map, the method she was given — critical plot item for Sessions 1–3), Restorer Lantern-Saint Vestments (25 gp; advantage on Persuasion with Restorer rank-and-file), 4d10 gp.
 
 ---
 
 ### Restorer Anchor-Bearer
 *Medium humanoid (human), neutral*
 
-**AC** 14 (chain shirt, shield) | **HP** 32 (5d8+10) | **Speed** 30 ft.
+**AC** 15 (chain mail, shield) | **HP** 52 (8d8+16) | **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) |
+| 16 (+3) | 11 (+0) | 14 (+2) | 10 (+0) | 13 (+1) | 8 (-1) |
 
-**Skills** Athletics +4, Perception +3
-**Senses** passive Perception 13 | **Languages** Common | **CR** 1 (200 XP)
+**Saving Throws** Str +5
+**Skills** Athletics +5, Perception +3
+**Damage Resistances** radiant (while within 30 ft of active anchor)
+**Senses** passive Perception 13 | **Languages** Common | **CR** 3 (700 XP)
 
 **Traits**
-- *Anchor Guard.* Within 10 feet of anchor, advantage on saves against spells.
-- *Non-Lethal Focus.* Non-lethal damage by default. No attack penalty.
+- *Anchor-Infused.* While within 30 ft of active anchor: resistance to radiant damage, +1d6 radiant on all melee hits.
+- *Anchor Burst.* When reduced to 0 HP within 30 ft of active anchor: 10-ft radius burst. Creatures in range make DC 13 Constitution save. Fail: 1d10 radiant. Success: half.
 
 **Actions**
-- *Multiattack.* Two melee attacks.
-- *Shortsword.* *Melee Weapon Attack:* +4 to hit. *Hit:* 5 (1d6+2) bludgeoning (non-lethal).
-- *Shove.* Instead of one attack; contested Athletics (+4); push 10 ft or knock prone.
-- *Grapple.* Instead of one attack; contested Athletics (+4).
+- *Multiattack.* Two Charged Shard Strike attacks.
+- *Charged Shard Strike.* *Melee or Thrown (range 20/40 ft):* +5 to hit. *Hit:* 8 (1d10+3) bludgeoning + 1d6 radiant (while anchor active). Non-lethal option (declared before roll): 1d10+3 bludgeoning only.
+- *Anchor Surge (Recharge 5–6).* 15-ft cone. DC 13 Constitution save or 2d8 radiant and blinded until end of next turn. Half damage and not blinded on success.
 
 **Reactions**
-- *Block the Path.* When a creature moves toward the anchor, one free Shove attempt.
+- *Block the Path.* When a creature moves toward the anchor, one free Shove attempt (+5 vs. DC 13 Str save). Failure: creature pushed 5 ft away from anchor.
 
-**Tactics:** Block and grapple. Do not kill. Follow Maerin's orders. Disengage and flee if Maerin falls.
+**Tactics:** Protect anchor and plinth zones. Grapple or shove any character reaching a plinth. Use Anchor Surge when three or more enemies cluster. Disengage and flee if Maerin falls.
+
+**Loot (per bearer):** Chain mail, shield, 2 Charged Amber Shards (thrown +5 to hit, 1d8 radiant, range 20/40 ft; retain anchor energy for 1 hour after combat, then inert 1d4 bludgeoning stones), 1d8 gp.
 
 ---
 
 ### Dawnhall Desperate
 *Medium humanoid (any), unaligned*
 
-**AC** 10 | **HP** 9 (2d8) | **Speed** 30 ft.
+**AC** 10 | **HP** 13 (2d8+4) | **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+| 12 (+1) | 10 (+0) | 14 (+2) | 10 (+0) | 8 (-1) | 10 (+0) |
 
-**Senses** passive Perception 10 | **Languages** Common | **CR** 0 (10 XP)
+**Senses** passive Perception 9 | **Languages** Common | **CR** 1/4 (50 XP)
 
-*Not fighters. Frightened Lowmark residents blocking the party because they believe the Restorers may be right.*
+*Not fighters. Lowmark residents who followed the Restorers down, believing the dawn could return.*
 
 **Traits**
-- *Panic Threshold.* If a creature within 30 feet drops to 0 HP, DC 12 Wisdom save or flee toward stairs.
-- *Desperate Block.* Reaction: contested Strength check (+0) to stop movement through their space. Takes 3 (1d6) on failure.
+- *Desperate Courage.* Does not flee from the vault. Immediately stops fighting if a PC heals them or anyone visibly suffering near them.
+- *Panic Threshold.* If a creature within 30 ft drops to 0 HP, DC 12 Wisdom save or spend movement fleeing toward stairs.
 
 **Actions**
-- *Shove.* Contested Strength (+0); push 5 ft.
-- *Throw Debris.* +2 to hit, range 20/60 ft. Hit: 2 (1d4) bludgeoning.
+- *Improvised Weapon.* *Melee:* +3 to hit, reach 5 ft. *Hit:* 4 (1d4+2) bludgeoning or slashing (crowbar, wrench, plank).
+- *Grab and Hold.* Melee grapple +3 vs. target. On success: target is grappled (escape DC 11). Grappled creatures have disadvantage on attacks not targeting this creature.
 
-**Morale:** DC 13 Persuasion (action) to calm if they saw a PC protect someone or heal a patient. Stand down without check if anchor visibly harms someone near them.
+**Morale:** DC 13 Persuasion (action) to calm if PC protected someone or healed a patient upstairs. Stands down without check if anchor visibly harms someone near them.
+
+**Loot:** Personal effects only — a locket, a worn prayer card, a coin with a name scratched on it. Each is a name, a face, a reason they are down here.
 
 ---
 
 ### Light-Sick Echo
 *Medium undead, unaligned*
 
-**AC** 12 | **HP** 18 (4d8) | **Speed** 0 ft., fly 30 ft. (hover)
+**AC** 13 | **HP** 32 (5d8+10) | **Speed** 0 ft., fly 40 ft. (hover)
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 6 (-2) | 14 (+2) | 10 (+0) | 3 (-4) | 6 (-2) | 3 (-4) |
+| 6 (-2) | 16 (+3) | 14 (+2) | 3 (-4) | 6 (-2) | 3 (-4) |
 
-**Damage Immunities** poison, psychic | **Damage Vulnerabilities** thunder
-**Condition Immunities** charmed, exhaustion, frightened, poisoned, prone
-**Senses** darkvision 60 ft., passive Perception 8 | **Languages** none | **CR** 1/2 (100 XP)
+**Damage Immunities** poison, psychic, radiant | **Damage Vulnerabilities** thunder
+**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+**Senses** darkvision 60 ft., passive Perception 8 | **Languages** none | **CR** 2 (450 XP)
 
 **Traits**
 - *Anchor-Tethered.* When the anchor is fully calibrated or destroyed, drops to 0 HP and vanishes.
-- *Radiant Weeping.* When it takes damage, sheds bright light 10-ft radius until start of its next turn.
-- *Incorporeal Movement.* Moves through creatures and objects as difficult terrain. Takes 5 (1d10) force damage if it ends its turn inside an object.
+- *Incorporeal Movement.* Can move through creatures and objects as difficult terrain. Takes 5 (1d10) force damage if it ends its turn inside an object.
+- *Radiant Weeping.* When it takes damage, sheds bright light in a 10-ft radius until the start of its next turn.
 
 **Actions**
-- *Draining Touch.* *Melee Weapon Attack:* +4 to hit. *Hit:* 7 (2d6) radiant. Target makes DC 12 Con save or HP maximum reduced by 3 (1d6) until long rest.
-- *Lantern Burst (Recharge 6).* Creatures within 10 ft make DC 12 Con save. Fail: 7 (2d6) radiant and blinded until end of next turn. Success: half, not blinded.
+- *Draining Touch.* *Melee Weapon Attack:* +5 to hit. *Hit:* 9 (2d8) radiant. Target makes DC 13 Constitution save or HP maximum reduced by 1d6 until long rest.
+- *Lantern Burst (Recharge 5–6).* Creatures within 10 ft make DC 13 Constitution save. Fail: 9 (2d8) radiant and blinded until end of next turn. Success: half, not blinded.
 
-**Tactics:** Move toward nearest living creature. Attack. No tactics. No retreat. Destroying them does not stop the anchor.
+**Tactics:** Move toward nearest living creature. Attack. No tactics, no retreat. Destroying them does not stop the anchor.
+
+*No loot — incorporeal, dissolve when anchor handled.*
 
 ---
 
