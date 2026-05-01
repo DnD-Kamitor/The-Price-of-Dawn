@@ -176,12 +176,12 @@ In the upper basement, an Investigation DC 14 check finds a basement access entr
 
 ## Character Hooks
 
-### Frank (Rogue/Wizard, Lowmark native)
+### Pel (Rogue/Wizard, Lowmark native)
 
-Frank grew up here. This Dawnhall is not abstract - it is where people in his district go when there is nowhere else. Berric Halven will mention that Sera Voss came asking about the basement three days ago and never came back. For Frank: the ledger entry is dated six weeks ago. Same as her letter. He can connect that without being told.
+Pel grew up here. This Dawnhall is not abstract - it is where people in his district go when there is nowhere else. Berric Halven will mention that Sera Voss came asking about the basement three days ago and never came back. For Pel: the ledger entry is dated six weeks ago. Same as her letter. He can connect that without being told.
 
 **Gestalt spotlight - Portent + Sneak Attack:**
-The trapped staircase glyph and the vault door sequence are exactly the kind of problems Frank's Investigation + Arcana combination is built for. His Portent dice can guarantee a critical stabilization check when the anchor is near flare. Sneak Attack fires on every Echo when any ally is adjacent - one action can drop an Echo per round.
+The trapped staircase glyph and the vault door sequence are exactly the kind of problems Pel's Investigation + Arcana combination is built for. His Portent dice can guarantee a critical stabilization check when the anchor is near flare. Sneak Attack fires on every Echo when any ally is adjacent - one action can drop an Echo per round.
 
 ### Serah Tallon (Paladin/Sorcerer, Wanderer devotee)
 
@@ -274,7 +274,7 @@ Either outcome: Ixa's player knows this place means something. The rest of the t
 - He has not been able to get them out
 - Sera Voss came by three days ago asking about the basement records. He showed her the access entry. She said to send word if anything happened. He sent word this morning. She has not come.
 
-*The ledger entry is dated six weeks ago - same as when Sera wrote to Frank.*
+*The ledger entry is dated six weeks ago - same as when Sera wrote to Pel.*
 
 **What Ilya tells the party (if asked):**
 - Grey sickness patients are worsening above baseline
@@ -316,7 +316,7 @@ Either outcome: Ixa's player knows this place means something. The rest of the t
 **Restorer supply cache** (southwest corner, Investigation DC 11 to notice): A small crate with water skins, ritual chalk, a folded cloth marked with the Restorer sigil, and a handwritten note in a simple substitution cipher. The note reads (once decoded with DC 13 Intelligence or Investigation): *"Three nights. If no word by dawn - and there is no dawn - pull back. The sequence is confirmed. The Saint has what she needs."*
 
 **The reinforced door** (south wall east): Iron bands added recently. Locked from below with a heavy mechanism.
-- Frank's Thieves' Tools: DC 14
+- Pel's Thieves' Tools: DC 14
 - *Knock* spell: automatic
 - Athletics (forcing): DC 18 (the bands are solid; possible but loud - alerts the Bridge Guard)
 - Finding the key: the Bridge Guard has a copy (discovered if he is captured)
@@ -978,7 +978,7 @@ This line can open Session 1 directly.
 | Protected civilians | Ilya Ren vouches for them with Healers' Guild |
 | Preserved vault evidence | Spire takes notice; Council wants report |
 | Calibrated anchor (not destroyed) | Maerin may contact them. Not yet. Later. |
-| Found ledger entry | Frank arrives Session 1 already suspicious of who had access |
+| Found ledger entry | Pel arrives Session 1 already suspicious of who had access |
 | Killed a local | Lowmark reputation starts damaged |
 | Opened the sealed alcove | Unexpected thread opens immediately in Session 1 |
 
