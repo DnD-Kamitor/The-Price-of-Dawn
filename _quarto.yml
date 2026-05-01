@@ -41,6 +41,7 @@ book:
       chapters:
         - session0-5.md
         - props-session0-5.md
+        - print-props-session0-5.md
         - session1.md
         - session2.md
         - session3.md
