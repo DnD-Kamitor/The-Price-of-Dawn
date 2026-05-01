@@ -1265,6 +1265,62 @@ People who work alongside Lira at the care house describe her as one of the most
 
 ---
 
+---
+
+### Maerin Voss - Restorer Lantern-Saint
+
+*First appears in Session 0.5. May recur in Sessions 1-3 depending on party choices.*
+
+> *"I do not want them hurt. But I will not let fear bury the dawn again."*
+
+**What players observe:** Calm under pressure in a way that reads as either true conviction or trained performance - players will not be sure which. She speaks clearly, does not shout, and makes eye contact when she says the difficult things. She is not performing zealotry. She is describing what she believes, and what she believes is specific and coherent. That is what makes her dangerous.
+
+<details class="gm-only">
+<summary>GM Only - OGAS, Personality and Attitude Shifts: Maerin Voss</summary>
+
+**OGAS Block**
+
+| | |
+|-|-|
+| **Occupation** | Restorer preacher and ritual witness; formerly a Dawnhall worker in the Lowmark |
+| **Goal** | Prove that the old ritual was not a complete failure - that something survives that can still be recovered, and that the city has not lost everything |
+| **Attitude** | Toward the party: wary respect if they protected civilians; cold hostility if they destroyed evidence or killed her people without cause; genuine openness if they stabilized rather than destroyed |
+| **Secret** | Someone told her about the Primer Anchor beneath the Dawnhall and gave her a method for connecting it to the lantern system. She believed the source was a fellow Restorer. She was wrong. She does not know who actually gave her this information or what they wanted from the experiment. If the party ever tells her this, her certainty cracks. |
+
+**Personality:** Measured. Convinced. Not cruel.
+
+**Voice:** Quiet and direct. She does not use more words than necessary. When she does speak at length, it is because she thinks the person she is speaking to is worth the effort.
+
+**Sample Dialogue:**
+
+*On the anchor:*
+> "You feel it, don't you? This is not dead stone. This is an answer."
+
+*If the party stabilizes rather than destroys:*
+> "That was... better than I expected from people sent to stop us."
+
+*If confronted with proof the anchor was harming people:*
+> "I know what it costs. I knew before you came down here. Show me proof that the cost outweighs what we might have found and I will stop. Not because you are right. Because the living matter more than the proof."
+
+*If she survives and the party spared her:*
+> She does not contact them immediately. She waits. If they prove trustworthy in Session 1 or 2, she sends a single unsigned note: "The person who told me about the basement was not who I thought. I think you already know this. We should talk."
+
+**Attitude Shifts:**
+
+| Trigger | Shift |
+|---|---|
+| Party protects civilians | Moves from hostile to wary; will negotiate |
+| Party destroys anchor with evidence | Hostile for Sessions 1-2; may soften later |
+| Party preserves evidence | Cautious respect; may become a contact |
+| Party kills her allies without cause | Becomes an active Restorer informant against them |
+| Party shows her the ledger entry | Her certainty cracks; she becomes an involuntary ally |
+
+**Relationship Web:** Connected to the Restorer network but not to its leadership. She acts independently. She does not know Edoran personally. She was given access information by an intermediary she trusted. That intermediary has Spire connections.
+
+</details>
+
+---
+
 ## Using NPCs at the Table
 
 ### The Quick Reference

@@ -8,6 +8,42 @@
 
 ---
 
+## Before Play Begins
+
+### What This World Is
+
+Read this aloud to the table before the first scene:
+
+> Fifty years ago, the people of Varenhold tried to bring back the sun.
+>
+> The ritual failed.
+>
+> The sun did not rise. It has not risen since. Varenhold lives in permanent amber twilight - not darkness, not true day, but the light of ten thousand lanterns burning to fill a gap the sky refuses to close.
+>
+> People got sick. Not all at once. Slowly, over years, the grey sickness spread through the city. It starts as cold sensitivity, fatigue, a feeling of light running out. It ends worse. The Healers slow it. No one stops it. Children born after the Night of the Ritual - the night the sun died - have a slightly lower rate. No one knows why. The Healers are still counting.
+>
+> The Dawnhalls are what the city built to survive. Community halls in every district - food, warmth, medical care, grief, and argument. They run on amber lanterns, volunteer labor, and the stubborn belief that keeping people alive is not political. It always is.
+>
+> There are people in this city called Restorers. They believe the ritual can be finished. That dawn can return. That the price has already been paid - fifty years of twilight, a spreading sickness, the people who died in the Night itself - and that refusing to collect what was bought is its own kind of cowardice.
+>
+> Most people think they are dangerous.
+>
+> Most people also understand, in the part of themselves they do not say aloud, why someone would want to believe them.
+
+### What the Characters Know
+
+Each character came to Varenhold for their own reason. They do not need a shared history. They need a shared problem.
+
+That problem is waiting for them in a Dawnhall basement.
+
+### The Grey Sickness - What Players Can Know
+
+Give this to any player whose character has relevant background (Healer, Medicine proficiency, Lowmark native):
+
+> Grey sickness progresses in three stages. Stage one looks like ordinary illness - fatigue, sensitivity to cold, slow healing. Stage two brings the greyness: a faint discoloration of the extremities, disrupted sleep, and a deepening sensitivity to magical light. Stage three is not survivable without extraordinary intervention. Most people in Varenhold's Lowmark are somewhere in stage one. Have been for years. The lanterns help. No one is sure why, but proximity to amber light slows progression. The Dawnhalls are not charity. They are medicine.
+
+---
+
 ## Pacing Guide
 
 | Time | Scene | Type |
@@ -184,6 +220,9 @@ A curtained sickroom at the back. Grey sickness patients behind the cloth. Someo
 - The lanterns started burning wrong yesterday night
 - The sick in the sickroom got worse this morning
 - He has not been able to get them out
+- A woman named Sera Voss came by three days ago asking questions about the basement records. He showed her the access entry. She told him to send word if anything happened. He sent word this morning. She has not come.
+
+*GM note: The ledger entry is dated six weeks ago - the same timeframe as Sera's letter to Frank ("Something is happening in Varenhold. Come if you still trust me."). She noticed something was wrong before the danger became visible. She is not here now. Let that land for Frank's player. Do not explain it. This is the thread that runs into Session 1.*
 
 **What Ilya tells the party (if asked):**
 
@@ -719,6 +758,54 @@ Party learns the Restorers did not act alone. Maerin may secretly contact them l
 - *Lantern Burst (Recharge 6).* The Echo pulses with grey-amber light. Each creature within 10 feet makes a DC 12 Constitution saving throw. Failure: 7 (2d6) radiant damage and blinded until end of next turn. Success: half damage, not blinded.
 
 **Tactics:** Echoes move toward the nearest living creature and attack. They do not retreat, communicate, or respond to social interaction. Their Draining Touch is dangerous in a long fight - the cumulative HP maximum reduction becomes a real threat if the party takes too long to address the anchor.
+
+---
+
+## Bridge to Session 1
+
+This session is not self-contained. It seeds threads the party will pull on for the rest of the campaign.
+
+### What the Party Knows After Session 0.5
+
+- The Restorers are active in Lowmark right now, not a distant rumor
+- Someone with official document access helped them into the basement six weeks ago
+- The anchor was not an origin point - it was a component of something larger
+- Sera Voss was investigating this. She sent for people she trusted. She did not come when the crisis broke.
+- Grey sickness gets worse when ritual residue is loose in the city
+
+### What They Do Not Know Yet
+
+- Where Sera Voss is and why she did not come
+- What the ritual documents Frank was hired to find actually contain
+- Who gave the Restorers the access entry and why
+- What Primer Stones are, and how many there are
+- What Edoran knows
+
+These questions are Session 1.
+
+### Transition Line
+
+At the end of this session, Berric Halven says one more thing before the party leaves:
+
+> "She asked me to send word the moment anything happened. I sent it hours ago. She lives three streets away. She would have heard the bell."
+>
+> He looks at the stairs.
+>
+> "Something is wrong."
+
+This line can open Session 1 directly.
+
+### Faction Standing Going In
+
+Track what the party earned here and carry it into Session 1:
+
+| Party Action | Session 1 Starting Condition |
+|---|---|
+| Protected civilians | Ilya Ren vouches for them with the Healers' Guild |
+| Preserved evidence | The Spire takes notice; the Council wants a report |
+| Killed a local | Lowmark reputation starts damaged |
+| Spared Maerin | She may send word. Not yet. But later. |
+| Found the ledger entry | Frank arrives in Session 1 already suspicious of who had access |
 
 ---
 
