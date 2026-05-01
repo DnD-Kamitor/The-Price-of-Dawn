@@ -2,9 +2,9 @@
 
 **Central Dilemma:** Can you stop something dangerous without destroying the hope it carries?
 
-**Session Goal:** Introduce Varenhold, the Lowmark, grey sickness, and the Restorers through immediate pressure. Test the gestalt system. Show that power in this city always costs something.
+**Session Goal:** Introduce Varenhold and the Lowmark through escalating pressure. Test every part of the gestalt system across seven distinct challenges. End with a moral and mechanical climax that the players earned.
 
-**GM Principle for This Session:** Run the situation, not a script. The anchor escalates whether or not people are ready. The locals are not stupid. The Restorers are not villains. Let the players feel that before they decide anything.
+**GM Principle for This Session:** Each phase tests something different. Let each character shine in their moment. The vault is the payoff - do not rush to it.
 
 ---
 
@@ -20,11 +20,11 @@ Read this aloud to the table before the first scene:
 >
 > The sun did not rise. It has not risen since. Varenhold lives in permanent amber twilight - not darkness, not true day, but the light of ten thousand lanterns burning to fill a gap the sky refuses to close.
 >
-> People got sick. Not all at once. Slowly, over years, the grey sickness spread through the city. It starts as cold sensitivity, fatigue, a feeling of light running out. It ends worse. The Healers slow it. No one stops it. Children born after the Night of the Ritual - the night the sun died - have a slightly lower rate. No one knows why. The Healers are still counting.
+> People got sick. Not all at once. Slowly, over years, the grey sickness spread through the city. It starts as cold sensitivity, fatigue, a feeling of light running out. It ends worse. The Healers slow it. No one stops it.
 >
 > The Dawnhalls are what the city built to survive. Community halls in every district - food, warmth, medical care, grief, and argument. They run on amber lanterns, volunteer labor, and the stubborn belief that keeping people alive is not political. It always is.
 >
-> There are people in this city called Restorers. They believe the ritual can be finished. That dawn can return. That the price has already been paid - fifty years of twilight, a spreading sickness, the people who died in the Night itself - and that refusing to collect what was bought is its own kind of cowardice.
+> There are people in this city called Restorers. They believe the ritual can be finished. That dawn can return. That the price has already been paid and refusing to collect what was bought is its own kind of cowardice.
 >
 > Most people think they are dangerous.
 >
@@ -34,82 +34,110 @@ Read this aloud to the table before the first scene:
 
 Each character came to Varenhold for their own reason. They do not need a shared history. They need a shared problem.
 
-That problem is waiting for them in a Dawnhall basement.
+That problem is waiting beneath a Dawnhall in Lowmark.
 
 ### The Grey Sickness - What Players Can Know
 
-Give this to any player whose character has relevant background (Healer, Medicine proficiency, Lowmark native):
+Give this to any player whose character has Medicine proficiency, a Lowmark background, or a healing role:
 
-> Grey sickness progresses in three stages. Stage one looks like ordinary illness - fatigue, sensitivity to cold, slow healing. Stage two brings the greyness: a faint discoloration of the extremities, disrupted sleep, and a deepening sensitivity to magical light. Stage three is not survivable without extraordinary intervention. Most people in Varenhold's Lowmark are somewhere in stage one. Have been for years. The lanterns help. No one is sure why, but proximity to amber light slows progression. The Dawnhalls are not charity. They are medicine.
+> Grey sickness progresses in three stages. Stage one looks like ordinary illness - fatigue, sensitivity to cold, slow healing. Stage two brings the greyness: discoloration of the extremities, disrupted sleep, deepening sensitivity to magical light. Stage three is not survivable without extraordinary intervention. Most people in the Lowmark are somewhere in stage one. Have been for years. The Dawnhall lanterns help slow it. No one is sure why. The Dawnhalls are not charity. They are medicine.
 
 ---
 
 ## Pacing Guide
 
-| Time | Scene | Type |
+| Time | Phase | Type |
 |------|-------|------|
-| 0:00-0:15 | Scene 1: Arrival at the Dawnhall | Roleplay / Investigation |
-| 0:15-0:30 | Scene 2: First Decision Point | Social / Tension |
-| 0:30-1:30 | Scene 3: The Basement | Combat / Social / Hazard |
-| 1:30-1:50 | Scene 4: Aftermath | Roleplay / Consequences |
-| 1:50-2:00 | Closing beat and faction fallout | Narrative |
-| 2:00-2:05 | Post-session question | OOC |
+| 0:00-0:20 | Phase 1: Street Approach | Combat / Stealth / Social |
+| 0:20-0:40 | Phase 2: The Dawnhall Above | Investigation / Social / Medicine |
+| 0:40-0:55 | Phase 3: Upper Basement | Lockpicking / Arcana / Clues |
+| 0:55-1:05 | Phase 4: The Trapped Staircase | Perception / Disable / Hazard |
+| 1:05-1:25 | Phase 5: The Bridge | Tactical Combat |
+| 1:25-1:45 | Phase 6: The Vault Door | Riddle / Rune Knowledge / Ixa |
+| 1:45-2:45 | Phase 7: The Vault | Everything |
+| 2:45-3:00 | Aftermath and Closing Beat | Roleplay / Consequences |
 
-*This session runs 2.5 to 4 hours depending on how much the players talk. The anchor escalation ensures that too much talking has a cost. If a scene runs long, let the anchor pulse to push it forward.*
+*Phases 1-5 are the marathon. Phase 6 is the threshold. Phase 7 is the klapper op de vuurpijl. Do not rush Phases 1-5 - they are the point.*
 
 ---
 
 ## Pre-Session Checklist
 
-### What to Draw
+### What to Draw - Map 1: Upper Basement
 
-Draw the basement map before play. Use a standard 1-inch grid (1 square = 5 ft). The basement is roughly 40 ft wide (east-west) by 30 ft deep (north-south) - 8 x 6 squares.
+Dimensions: 30 x 20 ft (6 x 4 squares). Standard maintenance room.
 
-**Place these elements:**
-
-| Symbol | Element | Location |
-|---|---|---|
-| S | Stairs (only exit, 5 ft wide, difficult terrain) | Northwest corner |
-| A | Primer Anchor (5 ft ring, ritual markings in 10-ft circle) | Center of room, slightly south |
-| L | Lantern rack (5x5, cover) | North wall east section |
-| L | Lantern rack (5x5, cover) | South wall west section |
-| P | Broken pipes and wet floor (difficult terrain, 10 ft zone) | South wall east section |
-| H | Ledger alcove (hidden clue location) | Northeast corner |
-| R | Rubble patches x2 (difficult terrain, 5x5 each) | East-center of room |
-| C | Storage shelves (cover) | East wall |
-
-**Enemy starting positions:**
-
-| Enemy | Starting Position |
+| Element | Location |
 |---|---|
-| Maerin Voss | 10 ft south of anchor, facing the stairs |
-| Anchor-Bearer 1 | Between anchor and stairs, blocking direct path (northwest of anchor) |
-| Anchor-Bearer 2 | East side of anchor, near north lantern rack |
-| Dawnhall Desperate 1 and 2 | Base of the stairs, blocking the bottom step |
-| Dawnhall Desperate 3 and 4 | Near south lantern rack, watching |
-| Light-Sick Echoes | Do not place at start - they appear during the encounter |
+| Stairs down from Dawnhall (S) | North wall, center |
+| Storage shelves (cover) | East wall |
+| Pipe cluster and valve wheel | South wall west |
+| Lantern equipment rack | West wall |
+| Restorer supply cache (small crate) | Southwest corner |
+| Reinforced door to lower stairs (D) | South wall east |
+| Ritual chalk marks on floor | Around door frame |
 
-**Draw ritual markings:** A faint circle connecting the anchor to two points on the north wall where pipes connect to the lantern system. This shows players what the Restorers did.
+### What to Draw - Map 2: The Vault (Phase 7)
+
+Dimensions: 50 x 40 ft (10 x 8 squares). Older stone, lower ceiling, air tastes different.
+
+| Element | Location |
+|---|---|
+| Vault entrance from stairs (V) | North wall west |
+| Primer Anchor - ring of stone (A) | Center of room |
+| Plinth 1 - Bell ring (P1) | Northwest quadrant |
+| Plinth 2 - Chain ring (P2) | Northeast quadrant |
+| Plinth 3 - Eye ring (P3) | Southeast quadrant |
+| Plinth 4 - Flame ring (P4) | Southwest quadrant |
+| Ancient workbenches (cover) | East and west walls |
+| Sealed containment alcoves (3) | South wall |
+| Restorer candles and ritual chalk | Around anchor, 10-ft radius |
+| Wall inscriptions (clues) | North and east walls |
+| Difficult terrain - broken apparatus | Northeast and southwest corners |
+
+**Enemy starting positions in vault:**
+- Maerin Voss: 10 ft south of anchor, facing entrance
+- Anchor-Bearer 1: northwest of anchor, blocking left path
+- Anchor-Bearer 2: northeast of anchor, blocking right path
+- Dawnhall Desperate 1 and 2: near vault entrance, blocking
+- Dawnhall Desperate 3 and 4: near south plinths, watching
+
+### Dial Reference Card
+
+Copy this to an index card. Pass to the players when they find the first plinth inscription.
+
+```
+CALIBRATION DIAL - 4 rings, 4 settings
+
+Ring 1 - Bell:    Top [ ᛗ ]  Bottom [ ᚨ ]
+Ring 2 - Chain:   Top [ ᚾ ]  Bottom [ ᛃ ]
+Ring 3 - Eye:     Top [ ᛖ ]  Bottom [ ᛈ ]
+Ring 4 - Flame:   Top [ ᚦ ]  Bottom [ ᛊ ]
+
+Wrong setting: ring stays cold, no damage.
+Correct setting: ring warms. Make stabilization check.
+```
+
+*Do not pass this card until players find the first plinth. Let them earn each line.*
 
 ### Anchor Tracking Card
-
-Write this on an index card and keep it in front of you:
 
 ```
 PRIMER ANCHOR
 AC 15  |  HP [   40   ]
 Resist: Radiant, Fire  |  Vulnerable: Thunder
-Stabilize: [ ] [ ] [ ] success  /  [ ] [ ] failure
+Rings calibrated: [ Bell ][ Chain ][ Eye ][ Flame ]
+Stabilize: [  ][  ][  ] success  /  [  ][  ] failure
 Round: [1][2][3][4][5][6]
 ```
 
 ### Other Prep
 
-- [ ] Decide: does Maerin know the party by reputation, or is this a first meeting?
-- [ ] Give one of the four Dawnhall Desperates a personal connection (a sick child upstairs, a name on the patient list). This is the one who breaks first.
-- [ ] Know Maerin's three lines of dialogue by heart - she speaks before anyone fights
-- [ ] Know what Ilya Ren shouts from above - she never comes downstairs, but her voice matters
-- [ ] Set ambient tone before you open the session: amber light too bright, no proper shadows, faint bell-metal hum, smell of stone and burned oil and stew from above
+- [ ] Know the Futhark sequence for the vault door: ᚺ ᚾ ᚲ ᛊ - and why that order
+- [ ] Decide which Dawnhall Desperate has a sick child upstairs - this is the one who breaks first
+- [ ] Know Maerin's three lines by heart before play
+- [ ] Decide: does the Bridge Guard know the door sequence? (Recommended: yes, he knows 3 of 4 and will bargain with the 4th if below half HP)
+- [ ] Set ambient tone before Phase 1: amber lanterns too bright, Lowmark crowd uneasy, something wrong in the air
 
 ---
 
@@ -117,28 +145,32 @@ Round: [1][2][3][4][5][6]
 
 This session takes place shortly before Session 1.
 
-### What This Scene Establishes
+### The Vault's History
 
-- The Dawnhalls are real places people depend on, not backdrop
-- Grey sickness is not only medical - it is social, political, and dangerous to exploit
-- The Restorers are already active in Lowmark
-- The Primer Anchor is connected to the larger Primer Stone network (a thread running through Sessions 1-5)
-- Someone gave the Restorers access to the basement and a method for connecting the anchor to the lantern system. That person is not named in this session. The players may find a ledger entry that points toward Edoran, or toward a name they do not yet recognize.
+The vault beneath the Dawnhall is not storage. It is a second-attempt site.
+
+Fifty years ago the first ritual failed. Most people accepted this. Some did not. A small group of scholars - the same group who created the Dawnborn - continued working in secret. They believed the failure was a calibration error. That the ritual could be corrected. That a network of Primer Anchors, properly aligned, could complete what the first attempt could not.
+
+They built this vault. They installed the Primer Anchor. They sealed it with their own analytical framework encoded in Elder Futhark. Then they failed again - quietly, without public disaster - and sealed the vault from the inside.
+
+The general population does not know this happened. The Council's official history does not mention a second attempt. The Spire has documents. Most are sealed.
+
+The Restorers found this place because someone with Spire access gave them a method, a map, and the door sequence. That person has not been identified.
 
 ### Connections to Sessions 1-5
 
 | This Session | Connects To |
 |---|---|
-| Maerin Voss, Restorer Lantern-Saint | Restorer faction in Sessions 1-3; may return as contact or adversary |
-| Primer Anchor fragment evidence | Primer Stone investigation in Sessions 2-4 |
-| Lowmark Dawnhall location | Lowmark district, healing house, Sera Voss connections |
-| Grey sickness worsening under anchor influence | Medical investigation thread |
-| Ledger access clue | Archive break-in in Session 1 |
-| Basement ritual markings | Ashring ritual connection; Corven's notes |
+| Maerin Voss, Restorer Lantern-Saint | Restorer faction in Sessions 1-3 |
+| Vault as second-attempt site | Primer Stone investigation Sessions 2-4 |
+| The sealed containment alcoves in the vault | Dawnborn research thread |
+| Ledger access clue - Spire handwriting | Archive break-in in Session 1 |
+| The door sequence given to the Restorers | Who helped them - Edoran thread |
+| Ixa's reaction to the vault | Her backstory arc across campaign |
 
-### The Ledger Clue (Hidden, Session Bridge)
+### The Ledger Clue
 
-In the ledger alcove (northeast corner), an Investigation DC 14 check reveals a basement access entry dated six weeks ago. The handwriting does not match Berric Halven's. If the party later shows it to Theron Waide, the City Archivist (Session 1), he recognizes the handwriting style as consistent with documents from the Spire's outer administrative staff. This suggests someone with Spire access - not a Restorer - facilitated the operation. The party does not need to find this now. If they do, reward it.
+In the upper basement, an Investigation DC 14 check finds a basement access entry dated six weeks ago in handwriting that does not match the steward's. If shown to Theron Waide (Session 1, City Archivist), he recognizes it as consistent with Spire administrative documents.
 
 ---
 
@@ -146,34 +178,37 @@ In the ledger alcove (northeast corner), an Investigation DC 14 check reveals a 
 
 ### Frank (Rogue/Wizard, Lowmark native)
 
-Frank grew up here. The Dawnhall is not an abstraction - it is where people in the Lowmark go when there is nowhere else. He may recognize a face in the crowd. He likely knows Berric Halven slightly, or knows who Berric is. His Investigation and Arcana are exactly what the anchor challenge needs.
-
-*If Frank investigates the ledger alcove and finds the access record, let him feel the weight of it. Someone with document access helped the Restorers into his neighborhood's lifeline.*
+Frank grew up here. This Dawnhall is not abstract - it is where people in his district go when there is nowhere else. Berric Halven will mention that Sera Voss came asking about the basement three days ago and never came back. For Frank: the ledger entry is dated six weeks ago. Same as her letter. He can connect that without being told.
 
 **Gestalt spotlight - Portent + Sneak Attack:**
-Frank's Portent dice (Divination Wizard) let him replace any d20 roll after seeing the result. At the moment the anchor is about to trigger the Round 6 final flare - when one stabilization check stands between success and disaster - Frank can swap in a Portent die to guarantee the roll. This is the most powerful single action he has. Make sure his player knows it is available. Also: whenever Frank attacks a Light-Sick Echo and an ally is within 5 feet of it, he adds 2d6 Sneak Attack damage. Echoes have 18 HP. One Sneak Attack + cantrip combination can drop one per round.
+The trapped staircase glyph and the vault door sequence are exactly the kind of problems Frank's Investigation + Arcana combination is built for. His Portent dice can guarantee a critical stabilization check when the anchor is near flare. Sneak Attack fires on every Echo when any ally is adjacent - one action can drop an Echo per round.
 
 ### Serah Tallon (Paladin/Sorcerer, Wanderer devotee)
 
-The Wanderer protects travelers and the lost. The sick in the sickroom are lost in their own way. Serah's Lay on Hands can ease a grey sickness patient's symptoms - not cure them, but give visible, human relief. If she uses it on a patient where desperate locals can see, treat it as a successful Persuasion check against one of them (no roll needed).
-
-*The child's voice asking "Is it dawn?" should land hard for Serah. Use it.*
+The Wanderer protects travelers and the lost. The sick upstairs are lost. Serah's Lay on Hands used visibly on a grey sickness patient - in sight of the desperate locals - ends one Desperate's hostility without a roll. Her Lucky feat can flip a failed Constitution save against the anchor's final flare. She is the party's safety valve.
 
 **Gestalt spotlight - Lay on Hands + Lucky:**
-Round 3, the sickroom above is in crisis. One grey sickness patient is failing. If Serah goes upstairs and uses Lay on Hands in sight of the desperate locals, one of them stops fighting immediately - no roll. This is the only action in the session that ends a fight without words or damage. Her Lucky feat (2 luck points) can flip a failed Constitution save against the anchor's Round 2 or Round 6 damage, or give her advantage on a stabilization check. She is the party's safety valve. Her player should feel that.
+In Phase 2, before they go below, Serah can spend Lay on Hands on a visible patient. If desperate locals see it, one of them will not be in the vault fighting the party. This is the only action in the session that removes an enemy before combat begins.
 
 ### Keiran (Monk/Ranger, Warrior of Shadow)
 
-Keiran's mobility - Speed 45, Darkness, Stealth - makes them the natural choice to flank, scout, and navigate the basement's difficult terrain. The Anchor-Bearers are positioned to block the direct path to the anchor. Keiran can go around them.
+Speed 45, Disengage as bonus action, Darkness from Shadow Arts. On the bridge, Keiran can cross the whole span in one turn and attack from the far side. In the vault, Step of the Wind bypasses both Anchor-Bearers to reach the anchor in a single turn.
 
-*If Keiran casts Darkness and it overlaps the anchor's light zone, the anchor flares in response. Increase the next stabilization DC by 1. Describe it: the darkness burns away at the edges, as if the anchor refuses the shadow.*
+**Gestalt spotlight - Bridge combat:**
+The bridge fight is designed for Keiran. Narrow terrain punishes straight fighters. Keiran can Disengage past the Guard's opportunity attack, cross 45 ft of bridge, and attack from behind in the same turn. Shadow Arts Darkness cast on the Guard's position blinds him (DC 15 Dex save) and opens the path for the rest of the party.
 
-**Gestalt spotlight - Step of the Wind + Darkness:**
-Keiran can Disengage as a bonus action (Step of the Wind, 1 Focus Point) and reach the anchor in a single turn past both Anchor-Bearers. If an Anchor-Bearer would get an opportunity attack, Keiran is already past them. Shadow Arts Darkness (1 Focus Point) cast on an Anchor-Bearer's space imposes blindness on creatures that fail a DC 15 Dexterity save, opening a corridor to the anchor. At Speed 45 with Disengage, Keiran can also reach the sickroom stairs and return in the same round that others are fighting - splitting the action economy across two fronts simultaneously.
+### Ixa (Dawnborn, made in a laboratory)
 
-### Fourth Character
+The general population does not know Ixa's nature. She may not fully know it herself. The vault was built by the same people who made her, or people working from the same research. When she approaches it, something is wrong in a way she cannot explain.
 
-If the fourth player does not have a prepared backstory, give them a simple hook: hired by someone in the Healers' Guild to investigate the disturbance, or they owe Ilya Ren a favor from previous work in the Lowmark. Enough to be present and invested.
+**Vault door moment:**
+When Ixa comes within 10 feet of the vault door, she recognizes things. The stonework. The symbols carved into it. The pattern of the marks. She has seen these before - not with her eyes, in memory.
+
+**Wisdom DC 15:**
+- **Fail:** The recognition overwhelms her. Fragmented memories: voices, a laboratory, hands setting calibration rings, the makers' faces. She doubles over with a splitting headache, stunned until end of her next turn. Other players see distress - it reads as sensitivity to old magic. When she recovers, she knows at least two runes from the door sequence and one dial combination.
+- **Success:** The flashes come but do not break her. She keeps functioning. She can describe one fragment clearly - enough to identify one rune in the door sequence or confirm one dial setting the party has already guessed.
+
+Either outcome: Ixa's player knows this place means something. The rest of the table does not know why. Let that sit.
 
 ---
 
@@ -183,129 +218,283 @@ If the fourth player does not have a prepared backstory, give them a simple hook
   <source src="audio/session0-5-opening.wav" type="audio/wav">
 </audio>
 
-### Read-Aloud: Arrival at the Dawnhall
+### Read-Aloud: Approaching the Dawnhall
 
-> The Dawnhall is louder than it should be.
+> The Lowmark smells like lamp oil and old bread and something underneath both of those things that never quite leaves - damp stone, the residue of years of amber light burning where sunlight used to be.
 >
-> Amber lanterns burn above the entrance, too bright in the grey half-light of Lowmark. People crowd the doorway. Some are arguing, some are praying, and some are simply standing still with the tired look of people who have run out of better choices.
+> The Dawnhall ahead is easy to find. It is the building with the lanterns burning too bright.
 >
-> From inside, you hear coughing.
+> You can see it from here: the amber light in the windows is not the usual warm dim. It presses against the glass. One pane is already cracked. There are people crowded outside who should be inside - some watching the door, some watching the street.
 >
-> Then a bell rings once from somewhere within the hall.
->
-> Not a warning yet.
->
-> A plea.
-
-**Sensory texture to layer in as players explore:**
-
-- *Smell:* lamp oil, woodsmoke, boiled grain, something metallic underneath it all
-- *Sound:* low argument at the food counter, shuffled feet, the bell still fading, coughing from the back room
-- *Sight:* lanterns burning too bright, faces pale and watching, a notice board with ration lists and one name crossed out this week
-- *Touch:* warmer than outside, pressing, like standing too close to a forge
-- *Taste:* nothing, but your mouth feels dry
+> Two of them are watching you.
 
 ---
 
-## Scene 1: The Dawnhall Above
+## Phase 1: The Street Approach
 
-**What the party sees when they enter:**
+**What is happening:** Two Restorer Scouts are posted outside the Dawnhall watching for a Guild or Council response. They are not soldiers. They are watchers. They will try to delay and warn before they fight.
 
-A wide communal room with long tables, amber lanterns, notice boards, prayer cloths, and people trying to keep daily life moving under unusual pressure. The lanterns are too bright. Workers move too quickly. A woman near the food counter is keeping a line of people calm while a pot boils over unattended.
+**Three ways through:**
 
-A curtained sickroom at the back. Grey sickness patients behind the cloth. Someone coughs from behind it.
+**Fight:** 2 Restorer Scouts. CR 1/8 each. They deal subdual damage and try to disengage and warn the others if one goes down. If both drop in the same round, no warning reaches below.
 
-**Key figures here:**
+**Stealth (DC 13):** The crowd gives cover. A character moving with the foot traffic can approach without drawing attention. All four must succeed or the scouts notice the stragglers.
 
-**Ilya Ren** - Moving fast between the food area and the sickroom. She is too busy to give much attention but will stop if directly approached. She knows the problem is below. She wants it stopped now. She never goes downstairs.
+**Social (DC 13 Deception or Persuasion):** Posing as Healers' Guild responders, late Dawnhall workers, or concerned locals. The scouts are not hard to fool - they are frightened volunteers, not trained agents. A convincing story with appropriate framing (mention Ilya Ren, the Guild, or the steward) drops the DC to 10.
 
-**Berric Halven** - Near the notice board, watching the stairs down with arms crossed. He looks like a man deciding whether to lock the basement from the outside or go down himself. He is relieved to see the party. He will answer questions.
+**If the scouts warn the vault:** The Bridge Guard is alert when the party arrives (see Phase 5). He uses his Brace reaction on the first attack.
 
-**What Berric tells the party (no check required):**
+**If the scouts are captured and questioned:** They know there is a group below working on something. They do not know what it is. They were told to watch and delay. They do not know the vault door sequence.
 
-- A group came in three nights ago with access records he did not issue
-- They claimed to be doing routine maintenance
-- He did not question it because the records looked official
-- The lanterns started burning wrong yesterday night
+---
+
+## Phase 2: The Dawnhall Above
+
+### Read-Aloud
+
+> Inside, the Dawnhall is doing what it always does - trying to hold the district together with food and warmth and the belief that tomorrow is worth planning for.
+>
+> Today that is harder than usual.
+>
+> The lanterns are wrong. Not flickering - burning too steadily, too brightly. The amber light has a grey edge to it that amber light should not have. At the back of the room, behind a curtain, someone coughs with the thick sound of grey sickness in its second stage.
+>
+> A man near the notice board is watching the door to the left of the food counter. He looks like he has been watching it for several hours and does not know what to do next.
+
+**Key figures:**
+
+**Berric Halven** - The steward. He will answer questions. He has been trying to decide whether to lock the basement door from outside or go down himself. He is relieved to see the party.
+
+**Ilya Ren** - The healer. Moving fast between the food area and the sickroom. Will stop if directly approached. Never goes downstairs.
+
+**What Berric tells the party (no check):**
+- A group arrived three nights ago with access records he did not issue
+- The records looked official; he did not question them
+- The lanterns started behaving wrong yesterday night
 - The sick in the sickroom got worse this morning
 - He has not been able to get them out
-- A woman named Sera Voss came by three days ago asking questions about the basement records. He showed her the access entry. She told him to send word if anything happened. He sent word this morning. She has not come.
+- Sera Voss came by three days ago asking about the basement records. He showed her the access entry. She said to send word if anything happened. He sent word this morning. She has not come.
 
-*GM note: The ledger entry is dated six weeks ago - the same timeframe as Sera's letter to Frank ("Something is happening in Varenhold. Come if you still trust me."). She noticed something was wrong before the danger became visible. She is not here now. Let that land for Frank's player. Do not explain it. This is the thread that runs into Session 1.*
+*The ledger entry is dated six weeks ago - same as when Sera wrote to Frank.*
 
 **What Ilya tells the party (if asked):**
-
-- The grey sickness patients are worsening above baseline
-- The pulse from below is doing something to them
-- She does not know what
-- She does not care about history or politics
+- Grey sickness patients are worsening above baseline
+- The pulse from below is affecting them directly
+- She does not care about history or ritual evidence
 - She needs the pulse stopped before someone dies
 
-> "Whatever is below us, it is killing them now."
+**Skill opportunities in Phase 2:**
 
-> "You can argue after they can breathe."
+| Check | DC | Information or Effect |
+|---|---:|---|
+| Investigation | 12 | The basement hatch is behind the food counter, under a rug. Recently used - the rug is slightly off-center. |
+| Investigation | 14 | Ledger alcove: access entry six weeks ago in handwriting that does not match Berric's. |
+| Arcana | 12 | The ambient magic is wrong. Something below is pulling light upward through the lantern system. |
+| Medicine | 11 | The sickroom patients are in late stage one, early stage two. The grey tinge is worse than it should be for their recorded intake. |
+| Insight | 11 | The desperate locals in the crowd are not aggressive. They are waiting. Some of them believe what the Restorers are doing might be the right thing. |
+| History | 13 | Dawnhalls built in the first twenty years after the Night of the Ritual often have older foundations. Some pre-Ritual civic buildings were incorporated rather than demolished. |
 
----
+**Serah's moment:** If Serah uses Lay on Hands on a visible grey sickness patient before going below, one of the four Dawnhall Desperates in the vault will not fight. When the party later encounters them, that Desperate stands aside.
 
-## Scene 2: First Decision Point
-
-When the party descends, read the basement opening aloud. Then pause.
-
-Let the room breathe for one beat.
-
-Give Maerin Voss one chance to speak. Use her lines from the NPC section below. Give the players one chance to respond. Then at initiative count 20 of the first round, the anchor pulses for the first time.
-
-**Do not start with initiative unless the players force it.**
-
-### Read-Aloud: Entering the Basement
-
-> The stairs down are narrow and warm.
->
-> At the bottom, the basement opens into a cramped chamber of stone, pipes, storage shelves, and trembling lantern racks. In the center of the room, something old is awake.
->
-> A ring of stone and metal pulses with grey-amber light.
->
-> Restorers stand around it, hands raised, voices low. A few Lowmark locals block the path behind them. They look frightened, not brave.
->
-> The lantern glass rattles.
->
-> Above you, someone coughs hard enough to choke.
-
-### Read-Aloud: Lantern-Saint Speech
-
-> The Restorer at the anchor turns toward you.
->
-> Their face is calm, but their hands are shaking.
->
-> "Do not touch it."
->
-> They glance up, toward the sickroom above.
->
-> "I know what it is doing. I know what it costs. But this is the first answer this city has given us in fifty years."
->
-> The anchor pulses behind them.
->
-> "If you came only to destroy it, then you came too late."
-
-### What the Party Can Do
-
-Each choice has a cost.
-
-| Choice | Immediate Benefit | Cost |
-|---|---|---|
-| Talk to Maerin | Delays combat, opens negotiation | Anchor keeps escalating |
-| Push past locals | Gets closer to anchor | Locals become hostile |
-| Attack first | Removes opposition quickly | Locals panic; Restorers become martyrs |
-| Rush the anchor | Targets the real danger | Backlash hits first person; Anchor-Bearers intercept |
-| Protect civilians | Earns local goodwill | Gives Restorers more time |
-| Investigate | Better information | Costs time |
-| Split up | Handles multiple problems at once | Isolated characters under pressure |
-
-The correct answer is not fixed. Each choice should work, but each choice should cost something.
+**Finding the hatch:** The hatch is behind the food counter, under a worn rug, with a simple iron ring. It is not locked. Someone went down recently and did not lock it behind them.
 
 ---
 
-## Scene 3: The Basement
+## Phase 3: The Upper Basement
+
+### Read-Aloud
+
+> The air below the Dawnhall is colder than it should be - not the cold of stone, but the cold of something drawing warmth upward.
+>
+> The upper basement is a maintenance room: pipe systems, lantern oil storage, racks of spare glass, crates of cloth and dry goods. Functional. Unremarkable.
+>
+> Except the floor.
+>
+> Someone has drawn chalk marks near the far door - not maintenance marks. Ritual marks. And the door itself is reinforced with iron bands that were not part of the original construction. They are new. The door is locked from below.
+
+**What the party finds here:**
+
+**Restorer supply cache** (southwest corner, Investigation DC 11 to notice): A small crate with water skins, ritual chalk, a folded cloth marked with the Restorer sigil, and a handwritten note in a simple substitution cipher. The note reads (once decoded with DC 13 Intelligence or Investigation): *"Three nights. If no word by dawn - and there is no dawn - pull back. The sequence is confirmed. The Saint has what she needs."*
+
+**The reinforced door** (south wall east): Iron bands added recently. Locked from below with a heavy mechanism.
+- Frank's Thieves' Tools: DC 14
+- *Knock* spell: automatic
+- Athletics (forcing): DC 18 (the bands are solid; possible but loud - alerts the Bridge Guard)
+- Finding the key: the Bridge Guard has a copy (discovered if he is captured)
+
+**Skill checks in the upper basement:**
+
+| Check | DC | Result |
+|---|---:|---|
+| Arcana | 12 | The ritual chalk marks are a stabilization guide - someone drew reference marks for calibrating something below. They are incomplete. One symbol is smudged. |
+| Investigation | 13 | Fresh tool marks around the door frame. Someone forced this door from the other side recently - the Restorers came up this way and went back down. |
+| History | 15 | The door frame is older than the building above. The stones around it are pre-Ritual civic construction. This basement connects to something built before the Night of the Ritual. |
+| Religion | 13 | The chalk marks include two Elder Futhark runes: ᚾ Nauthiz and ᛊ Sowilo - need and sun. A scholar used this room as a reference point for something below. |
+
+*The two runes visible here are the 2nd and 4th runes in the vault door sequence. Smart players will note them.*
+
+---
+
+## Phase 4: The Trapped Staircase
+
+### Read-Aloud
+
+> The stairs beyond the door go down steeply - cut from older stone than everything above. The air changes immediately. Cooler. Dryer. The smell of lamp oil disappears, replaced by something older: mineral dust, and beneath that, the faint metallic scent of ritual residue.
+>
+> The stairs are narrow. Single file.
+>
+> The third step down does not look right.
+
+**The trap:** The Restorers laid a ritual alarm glyph on the third step - a disc of chalk and wax pressed into the stone's grain, partially covered by a dusting of debris to look like old grime.
+
+| Check | DC | Result |
+|---|---:|---|
+| Perception | 14 | Spots the glyph before stepping on it. |
+| Investigation | 13 | Identifies it as an alarm glyph - not a damage trap. Knows it can be disabled. |
+| Arcana | 12 | Recognizes the glyph type. With one minute of work, can neutralize it (no check needed if Arcana 12 succeeds). |
+| Sleight of Hand | 12 | Carefully scrapes the glyph off the stone without triggering it. |
+
+**If triggered:** A burst of grey-amber light fills the stairwell. Each creature on the stairs makes a DC 13 Constitution save - failure: 2d6 radiant damage and blinded until end of next turn. Success: half damage, not blinded. The Bridge Guard below hears the burst and is no longer surprised.
+
+**If disabled:** The party descends without incident. The Bridge Guard does not know they are coming.
+
+---
+
+## Phase 5: The Bridge
+
+### Read-Aloud
+
+> The stairs end at a landing.
+>
+> Beyond the landing, the walls fall away.
+>
+> You are standing at one end of a narrow stone arch - maybe four feet wide, maybe forty feet long - spanning a drop into old darkness. Below, twenty feet down, water moves slowly in what was once a civic cistern. The stone of the bridge is pre-Ritual: older, smoother, carved with marks that predate the Dawnhall above by at least a century.
+>
+> On the far side, a man stands with his back to the door.
+>
+> He turns.
+>
+> He does not look surprised.
+
+**The bridge:** 40 ft long, 4 ft wide (one square), 20-ft drop to dark water below. The drop is survivable (2d6 bludgeoning, land in 5 ft of water, swimming DC 12 to keep gear). Being shoved off is a real threat. Difficult terrain does not apply - the bridge is smooth - but any creature that starts its turn prone on the bridge must succeed on a DC 11 Dexterity save or slide toward the edge.
+
+**The Bridge Guard:** One Restorer Bridge Guard. He was left to delay. He does not know the party's strength. He knows the vault door sequence (3 of the 4 runes; Maerin did not tell him the full set deliberately).
+
+**Tactical notes:**
+- The Guard begins at the far end (40 ft from the party)
+- His Shove pushes 10 ft - toward the edge if target is near it
+- Ranged attacks are unimpeded
+- Keiran can cover 45 ft in one turn with Disengage as bonus action
+- Darkness cast on the Guard's position: he makes DC 15 Dex save or is blinded; a blinded creature on the bridge has disadvantage on Dex saves against sliding
+
+**Surrender condition:** If the Guard is reduced below 10 HP and offered a non-lethal option, he stops. He will give the party 3 of the 4 door runes in exchange for not being killed: ᚺ Hagalaz, ᚾ Nauthiz, ᛊ Sowilo. He does not know the third (ᚲ Kenaz) - Maerin kept it to herself.
+
+*Why Maerin kept Kenaz: she is not fully certain of the sequence herself. Kenaz was the rune she had to derive, and she does not trust others with incomplete knowledge.*
+
+**What the party learns from the Guard (if captured or surrendered):**
+- There is a vault on the other side of the door
+- It is old - pre-Ritual. Nobody knew it was there
+- Someone gave Maerin the sequence and a partial map
+- He does not know who. He was not told.
+- Three of the four door runes if bargaining. The fourth he genuinely does not have.
+
+---
+
+## Phase 6: The Vault Door
+
+### Read-Aloud
+
+> The door at the end of the bridge is not what you expected.
+>
+> It is old stone - older than the bridge, older than the Dawnhall, possibly older than Varenhold's current form. It stands eight feet tall with no handle, no keyhole, no visible mechanism.
+>
+> What it has is runes.
+>
+> All twenty-four Elder Futhark runes are carved into its face in a ring, each precise, each deep-cut. They are not decorative. In the center of the ring, four of the twenty-four are slightly raised - proud of the surface by perhaps a finger's width.
+>
+> Below the ring of runes, a single line of text in old academic Varenhold:
+>
+> *"We did not come here to celebrate the failure. We came here to understand it. Press what you know in the order that it happened."*
+
+**The puzzle:** Four of the twenty-four runes are raised and can be pressed. The party must identify which four they are (they can feel the slight raise with DC 10 Investigation or by touch) and press them in the correct order.
+
+The four raised runes: **ᚺ Hagalaz, ᚾ Nauthiz, ᚲ Kenaz, ᛊ Sowilo**
+
+**The inscription is the key:** *"In the order that it happened."*
+
+- ᚺ Hagalaz: the disruption - the first ritual's failure - came first
+- ᚾ Nauthiz: the need - what drove the second attempt - came second
+- ᚲ Kenaz: the controlled fire - the method, the correction - came third
+- ᛊ Sowilo: the sun - the goal - has not arrived yet, but is pressed last as a claim
+
+**The sequence: ᚺ → ᚾ → ᚲ → ᛊ**
+
+Wrong order: nothing. The door does not respond. No punishment. Players can try again.
+
+**Clues gathered across the session:**
+
+| Source | Clue |
+|---|---|
+| Bell inscription (existing, upstairs in hall) | Positions the sequence within ritual theory |
+| Upper basement chalk marks | ᚾ Nauthiz and ᛊ Sowilo visible - 2nd and 4th |
+| Bridge Guard (if cooperative) | ᚺ Hagalaz, ᚾ Nauthiz, ᛊ Sowilo - 1st, 2nd, 4th |
+| Religion DC 14 at the door | The makers acknowledged failure before claiming restoration; Hagalaz first |
+| History DC 13 at the door | Recognizes the inscription's language as consistent with second-generation ritual scholarship |
+| Ixa's vision (fail or success) | Fills in whatever is still missing |
+
+**The missing rune:** ᚲ Kenaz is the hardest to identify because it represents the correction the makers believed in - controlled fire, directed method. It is not mentioned in any clue unless Ixa's vision provides it. This is intentional. The sequence cannot be completed without either:
+- Knowing Elder Futhark and reasoning through the inscription
+- Ixa's memory
+
+**Ixa at the door:**
+
+When Ixa comes within 10 feet, she recognizes things. The stonework pattern. The specific depth of the rune cuts. The shape of the text beneath the ring. She has seen these before in a way she cannot locate in any specific memory. It is like recognizing a handwriting style rather than a face.
+
+**Wisdom DC 15:**
+
+**Fail:** She doubles over. Fragmented memories come hard and fast: a laboratory, makers in work coats, the vault door being sealed from the inside, calibration rings spinning, a voice saying something she cannot quite hear. She is stunned until the end of her next turn. Other players see her in distress - it looks like old magic sensitivity, nothing more. When she recovers, she can name ᚲ Kenaz with certainty and describe one vault plinth inscription she has not yet read.
+
+**Success:** The flashes come in controlled bursts. She does not go down. She describes a fragment - hands pressing runes, the last one being fire-related - enough to confirm ᚲ Kenaz as the third rune if the party is stuck. She cannot explain how she knows.
+
+Either result: she is the only reason the third rune is findable without a DC 14+ Religion check. Her past is built into this door.
+
+**When the sequence is pressed correctly:**
+
+> The door does not swing. It does not grind. It simply... recedes. One inch into itself, then slides aside on a mechanism that has not moved in fifty years.
+>
+> The air that comes out is old and cold and smells like mineral dust and something that was once burning and is not anymore.
+>
+> Beyond the door is a vault.
+
+---
+
+## Phase 7: The Vault
+
+### Read-Aloud: Entering the Vault
+
+> The room beyond is large - larger than anything above it should contain. The stone is dark and smooth and carved everywhere with text, diagrams, and notation systems that mix academic script with Elder Futhark with something else you do not have a name for.
+>
+> Four stone plinths stand at the room's corners, each supporting a bronze ring with calibration marks. Each plinth has a short inscription in Futhark at its base.
+>
+> In the center of the room, a ring of stone and metal the size of a wagon wheel pulses with grey-amber light. Not steadily. Like breathing. Like something wounded.
+>
+> Around it, Restorers work with raised hands and low voices.
+>
+> A woman at the anchor turns toward you.
+>
+> Her face is calm. Her hands are shaking.
+
+### The Second-Attempt Site
+
+The wall inscriptions (History DC 13 or Investigation DC 12 to read partially) reveal:
+
+- This vault was built approximately forty years after the Night of the Ritual
+- It was a second attempt at ritual restoration, conducted in secret
+- The makers believed the first failure was a calibration error in the Primer Anchor network
+- The second attempt also failed - not catastrophically, but completely
+- The makers sealed the vault from the inside and did not leave
+- There are three containment alcoves in the south wall. Two are empty. One is sealed.
+
+*What is in the sealed alcove: do not reveal this in Session 0.5. It connects to the Dawnborn research thread in Sessions 2-4.*
 
 ### Running the Scene
 
@@ -313,143 +502,92 @@ Four things are happening simultaneously. Track all four.
 
 | Element | Status at Start | Changes When |
 |---|---|---|
-| The Anchor | Active, escalating | Stabilized, destroyed, or round 6 |
+| The Anchor | Active, escalating | Calibrated and stabilized, or destroyed |
 | The Sickroom Above | Worsening | Anchor stops, or someone helps upstairs |
-| The Restorers | Defensive, not yet fighting | Party acts aggressively, anchor event triggers |
+| The Restorers | Defensive, not yet fighting | Party acts aggressively, or anchor event triggers |
 | The Locals | Blocking, scared | Civilian protected, blood spilled, anchor harms someone |
 
-**Every round, remind the players that the Dawnhall is above them. Use one short detail:**
-
+**Every round, one detail from above:**
 - Someone coughs hard above
-- Dust falls from the ceiling
-- The lanterns ring like glass bells
-- A child starts crying
-- A healer shouts for quiet
-- A pot crashes in the public hall
-- The anchor pulse makes the whole floor throb
+- Dust falls from the vault ceiling
+- The anchor pulse makes the stone floor vibrate
+- A lantern in the upper basement flickers through the stairwell
+- The grey light from the anchor makes the Futhark wall inscriptions hard to read
 
 ---
 
 ## The Primer Anchor
 
-**The anchor acts on initiative count 20 each round.** Stop using the escalation table if stabilized or destroyed.
+**AC** 15 | **HP** 40 | **Damage Resistances** radiant, fire | **Damage Vulnerability** thunder | **Damage Immunities** poison, psychic | **Condition Immunities** all
 
-### Anchor Statistics
+The anchor acts on initiative count 20 each round. Stop escalation if stabilized or destroyed.
 
-**AC** 15 | **HP** 40 | **Damage Resistances** radiant, fire | **Damage Vulnerability** thunder | **Damage Immunities** poison, psychic | **Condition Immunities** all conditions
-
-The anchor is an object. It does not move. It does not think. It reacts.
-
-### Round Escalation Table
+### Round Escalation
 
 | Round | Effect at Initiative Count 20 |
 |---|---|
-| 1 | The anchor pulses. Lantern glass rings. Everyone feels pressure behind the eyes. No damage yet. |
-| 2 | Creatures within 10 feet of the anchor make a DC 13 Constitution save or take 2d6 radiant damage. Half on success. |
-| 3 | The sickroom above worsens. Ilya Ren shouts: "Someone is seizing. Stop the pulse." Social checks against locals are at disadvantage until someone goes upstairs or the anchor is addressed. |
-| 4 | One Light-Sick Echo appears near the north lantern rack. Roll initiative for it. |
+| 1 | Pulse. Pressure behind the eyes. No damage. The wall inscriptions seem to shift for a moment. |
+| 2 | Creatures within 10 feet make DC 13 Constitution save. Fail: 2d6 radiant. Success: half. |
+| 3 | Sickroom above worsens. Ilya Ren shouts: *"Someone is seizing. Stop the pulse."* Social checks against locals at disadvantage until someone helps above or the anchor is addressed. |
+| 4 | One Light-Sick Echo appears near Plinth 1 (Bell). Roll initiative for it. |
 | 5 | The anchor pulls at memory and grief. Each PC hears a voice from above asking for dawn. DC 13 Wisdom save or disadvantage on next attack roll or ability check. |
-| 6 | Final flare. All creatures in the basement make a DC 14 Constitution save. Failure: 4d6 radiant damage and blinded until end of next turn. Success: half damage, not blinded. |
+| 6 | Final flare. All creatures in vault make DC 14 Constitution save. Fail: 4d6 radiant damage and blinded until end of next turn. Success: half, not blinded. |
 
-### Escalation Triggers
+### Calibrating the Anchor (The Dial Puzzle)
 
-Use these when appropriate. Do not use every trigger every time.
+The cleanest solution. Each of the four calibration rings must be set with the physical dial before a stabilization check can succeed on that ring.
 
-| Trigger | Effect |
+**Setting the dial:** Player physically sets the two-layer dial to the correct alignment, announces it, describes what their character does to the ring mechanism.
+
+**If alignment is correct:** Ring warms. Make the stabilization skill check (DC 14).
+
+**If alignment is wrong:** Ring stays cold. No damage. Try again next action.
+
+**Stabilization skill check (DC 14, one ring per action):**
+
+| Skill | How |
 |---|---|
-| First blood | One desperate local tries to flee upstairs unless calmed |
-| First death | Maerin either calls for everyone to stop, or commits fully. Choose based on who died and how. |
-| Anchor damaged | Screams with light; creatures within 10 ft make DC 13 Con save or take 2d6 radiant |
-| Anchor stabilized | Echoes weaken; Restorers lose morale; locals easier to calm |
-| Civilian endangered | Everyone reacts, even enemies |
-| Party uses radiant magic | Anchor flares in response; next stabilization DC +1 |
-| Party invokes a god | Maerin listens for one moment; next social check against her has advantage if sincere |
-| Party mentions Corven | Maerin becomes suspicious; demands to know what party knows |
-| Party mentions the Night of the Ritual | Room goes quiet one breath; anchor pulses harder; advance escalation by 1 round |
+| Arcana | Understand the magical feedback of this specific ring |
+| Religion | Recognize the ritual logic of the ring's purpose |
+| Investigation | Find the physical calibration marks on the ring housing |
+| Sleight of Hand | Adjust the ring's internal lens with precision |
+| Athletics | Force the ring into correct physical alignment |
 
-### Stabilizing the Anchor
+On success: mark ring as calibrated. Pulse weakens slightly.
+On failure: 1d6 radiant damage to acting character. DC increases to 16 until end of their next turn.
 
-3 successes before 3 failures. Each attempt is an action.
+**All 4 rings calibrated:** Anchor stabilizes. Echoes vanish. Sick above stop worsening. Restorers lose their immediate reason to fight.
 
-**Default DC:** 14. Raise to 16 if: character is under attack, anchor has been damaged, an Anchor-Bearer is actively interfering.
+**Plinth inscriptions (translated from Futhark - Investigation or Religion DC 11 to read each):**
 
-| Skill | How It Helps |
-|---|---|
-| Arcana | Understand magical feedback |
-| Religion | Understand ritual or divine logic |
-| Investigation | Find physical calibration marks |
-| Sleight of Hand | Adjust delicate lantern lenses |
-| Athletics | Force the anchor ring out of alignment |
-| Medicine | Read patient symptoms through the pulse rhythm |
+| Plinth | Rune Setting | Inscription |
+|---|---|---|
+| Bell (P1) | ᛗ top, ᚨ bottom | *"The bell speaks when the hand of man carries the word of god"* |
+| Chain (P2) | ᚾ top, ᛃ bottom | *"The chain holds when necessity grasps the turning year"* |
+| Eye (P3) | ᛖ top, ᛈ bottom | *"The eye sees when trust opens what is hidden"* |
+| Flame (P4) | ᚦ top, ᛊ bottom | *"The flame arrives when the giant force is pointed at the sun"* |
 
-On success: mark 1 success, pulse weakens, sickroom quiets.
-On failure: mark 1 failure, acting character takes 1d6 radiant damage, lanterns flare.
-On 3 successes: anchor stabilizes; Echoes vanish; sick stop worsening; Restorers lose their reason to fight.
-On 3 failures: trigger Round 6 final flare immediately.
-
-One character can help another by describing how. Helping gives advantage. One helper per check.
-
-### The Calibration Puzzle
-
-The anchor has four bronze calibration rings set into its outer face, each engraved with a symbol. To stabilize the anchor properly, the rings must be adjusted in the correct order. Adjusting them in the wrong order counts as a stabilization failure and deals 1d6 radiant damage to the character touching it.
-
-**The four symbols:**
-
-| Symbol | Meaning |
-|---|---|
-| Bell | The call before gathering - resonance, the signal |
-| Chain | Memory and binding - what holds the ritual in place |
-| Eye | Awareness and witness - perception, presence |
-| Flame | Dawn itself - the destination of the working |
-
-**Finding the correct order:**
-
-The Restorers have drawn new chalk ritual markings over the old calibration text, but the partial order survives. Investigation DC 12 reveals: Bell first, Chain second, then two symbols obscured by chalk.
-
-The third and fourth symbols can be recovered by:
-
-- **Religion DC 13:** In Kael and Mira's dawn liturgy, the Eye always precedes the Flame. Awareness must witness before fire can arrive.
-- **Reading the old inscription** (see The Inscription below): the riddle's answer names the Bell and implies the sequence.
-- **Talking to Maerin (Persuasion DC 13):** She recites the ritual order instinctively if asked sincerely: "Bell. Chain. Eye. Flame. Always in that order. That is not in question."
-
-**Correct order: Bell → Chain → Eye → Flame**
-
-If the party solves the order before attempting stabilization, each stabilization check has advantage. If they attempt stabilization without solving the order, use the standard rules - they are adjusting blind.
-
-### The Inscription
-
-On the north wall, partially hidden under Restorer chalk markings, there is an old carved inscription in the civic maintenance style of Old Varenhold. A character who examines the north wall notices it automatically. Reading it requires no check - it is in Common, just old-fashioned.
-
-Read this aloud when the party finds it:
-
-> *I am called when gathering ends.*
-> *I am present when eyes close.*
-> *I measure the distance between heartbeats.*
-> *I ring before what you are waiting for arrives.*
-> *What am I?*
-
-**Answer:** The Bell. The old Varenhold term for the interval before dawn - the dark hour when the city used to ring its bells to mark that light was coming. In the fifty years since the Night of the Ritual, the bells ring but the dawn never follows.
-
-**Mechanical reward:** The character who answers correctly understands the first calibration ring immediately. They have advantage on the first stabilization check regardless of other conditions.
-
-**Roleplay weight:** Let this land for a moment. The inscription was carved before the Night of the Ritual, when the bells actually worked. Someone maintained this basement for fifty years after and never removed it.
+Players who know their Futhark meanings can derive the settings directly. Others need Religion DC 13 or History DC 12 to interpret.
 
 ### Destroying the Anchor
 
-Bring HP to 0. Stops danger immediately. Echoes vanish. Evidence of the active pattern is lost. Restorers are furious. Evidence that survives: broken fragments, burn marks, ritual markings, witness testimony.
+Reduce to 0 HP. Stops danger. Echoes vanish. Sick stop worsening. Evidence of the active pattern is lost. Restorers are furious. Fragments, burn marks, and the vault itself remain.
 
-When the anchor takes 15 or more damage in one round, backlash: creatures within 10 feet make DC 13 Constitution save. Failure: 2d6 radiant. Success: half.
+When anchor takes 15+ damage in one round, backlash: creatures within 10 ft make DC 13 Con save. Fail: 2d6 radiant. Success: half.
 
-### Misusing the Anchor
+### Escalation Triggers
 
-A character may try to draw power from the anchor, redirect its pulse, or force a vision. DC 16 Arcana or Religion. On success: one useful effect (see below) plus anchor escalates. On failure: 2d6 radiant damage and anchor triggers its next escalation immediately.
-
-Possible useful effects:
-
-- Reveal a vision of the old ritual
-- Stun one Light-Sick Echo for 1 round
-- Give advantage on the next stabilization check
-- Force Maerin to realize the anchor is unstable
+| Trigger | Effect |
+|---|---|
+| First blood | One desperate local tries to flee toward stairs |
+| Anchor damaged | Light screams; creatures within 10 ft DC 13 Con save or 2d6 radiant |
+| Anchor calibrated (any ring) | That Echo weakens; Restorers lose morale for one round |
+| Civilian endangered | Everyone reacts, even enemies |
+| Party uses radiant magic near anchor | Anchor flares; next stabilization DC +1 |
+| Party invokes a god | Maerin listens one moment; next social check against her has advantage if sincere |
+| Party mentions Corven | Maerin becomes suspicious; demands to know what party knows |
+| Party mentions the Night of the Ritual | Room goes quiet one breath; anchor pulses harder; advance escalation 1 round |
+| Party notices the sealed alcove | Maerin's eyes go to it. She says nothing. She knows something about it. |
 
 ---
 
@@ -458,47 +596,26 @@ Possible useful effects:
 ### Maerin Voss, Restorer Lantern-Saint
 
 **Occupation:** Restorer preacher and ritual witness
-**Goal:** Keep the anchor active long enough to prove it contains a path toward restoration
+**Goal:** Keep the anchor active long enough to prove the second attempt contains a correctable path
 **Attitude:** Calm, intense, compassionate - dangerous when challenged
-**Stake:** Very high. This is the first proof she has believed in for years.
+**Stake:** Very high. She believes this is proof the makers were right.
 
 **What she says:**
-
 > "You feel it, don't you? This is not dead stone. This is an answer."
 
 > "If we shut this down now, we may lose the first proof we have had in fifty years."
 
 > "I do not want them hurt. But I will not let fear bury the dawn again."
 
-**What she is wrong about:** The harm is not temporary. The anchor is not awakening anything - it is creating feedback. She does not understand this.
+**What she does not know:** Someone gave her the door sequence and the map. She believes it came from a Restorer contact in the Spire. It did not. She was used as a delivery mechanism. If the party can make her understand this, her certainty cracks.
 
-**What makes her stop:** Proof the anchor is harming people now. A credible promise to preserve the evidence. Seeing desperate locals injured because of her plan. If two allies fall, she calls for a halt.
-
----
-
-### Restorer Anchor-Bearers (unnamed)
-
-**Goal:** Protect Maerin and keep the anchor active
-**Attitude:** Disciplined, tense, defensive
-
-**What they say:**
-
-> "Stay back."
-
-> "You do not get to take this from us."
-
-**What makes them stop:** Maerin orders it. The anchor clearly endangers civilians. Two allies fall. The party offers surrender without humiliation.
+**What makes her stop:** Proof the anchor is harming people now. A credible promise to preserve the evidence. Seeing locals injured because of her plan. If shown the ledger entry and told the access was provided by someone with Spire connections who is not a Restorer.
 
 ---
 
-### Ilya Ren, Dawnhall Healer
+### Ilya Ren, Dawnhall Healer (upstairs, voice only)
 
-**Occupation:** Dawnhall healer
-**Goal:** Get the anchor stopped before patients die
-**Attitude:** Urgent, practical, frightened but focused
-
-**What she says (from upstairs, never comes down):**
-
+**What she says (shout from above):**
 > "Whatever is below us, it is killing them now."
 
 > "You can argue after they can breathe."
@@ -509,38 +626,31 @@ Possible useful effects:
 
 ### Berric Halven, Dawnhall Steward
 
-**Goal:** Keep the Dawnhall from becoming a battlefield
-
 **What he says:**
-
 > "Not here. Please, not here."
 
 > "This hall feeds people."
 
-> "If you break this place, where do they go tomorrow?"
+> "She asked me to send word. I sent it hours ago. She lives three streets away. She would have heard the bell."
 
 ---
 
-### Dawnhall Desperates (4 unnamed locals)
-
-**Goal:** Protect the only thing that looks like hope
-**Attitude:** Afraid, angry, exhausted
+### Dawnhall Desperates
 
 **What they say:**
-
 > "You always come to stop things. Who comes to fix them?"
 
 > "My daughter is upstairs."
 
 > "If this is a chance, even a small one, we cannot throw it away."
 
-**What makes them stop:** A PC protects one of them. A PC visibly helps a sick person. The anchor harms someone near them. The Restorers begin acting recklessly.
+**What makes them stop:** A PC protects one of them. A PC visibly heals a sick person. The anchor harms someone near them. The Restorers begin acting recklessly.
 
 ---
 
 ## Social Conflict
 
-**Short sentences during combat are free** (warning, plea, question, command). Actual persuasion requires an action.
+**Short sentences during combat are free.** Actual persuasion requires an action.
 
 | Situation | DC |
 |---|---:|
@@ -553,66 +663,35 @@ Possible useful effects:
 | Argument | Target | Effect |
 |---|---|---|
 | Protect the sick above | Locals, Maerin | Reduces hostility |
-| Preserve the evidence | Maerin | Opens negotiation |
-| This is harming Lowmark | Locals | Makes them hesitate |
-| You are being used | Anchor-Bearers | Creates doubt |
-| We can stop this without killing | Everyone | Opens non-lethal path |
-| Let us stabilize it, not destroy it | Maerin | Buys one round |
+| The makers' second attempt also failed | Maerin | Opens real negotiation |
+| Preserve the evidence from the vault | Maerin | Buys time, opens compromise |
+| You were given that sequence by someone who used you | Maerin | Her certainty cracks if believable |
+| We can stabilize it, not destroy it | Maerin | Buys one round |
 
-**Arguments that should not work easily:**
-
+**Arguments that fail:**
 - "The Council knows best"
-- "You are all criminals"
 - "Stand down or die"
 - "Your hope is stupid"
 
-These people are desperate, not foolish. Disrespect makes them harder to reach.
-
-**Social turning points:**
-
-| PC Action | Effect |
-|---|---|
-| Protects a civilian | Locals become easier to calm |
-| Heals a sick person | Healers support party openly |
-| Stabilizes part of the anchor | Maerin becomes willing to listen |
-| Destroys evidence recklessly | Restorers harder to calm |
-| Kills a local | Social resolution almost collapses |
-| Offers a real compromise | Lantern-Saint may pause the fight |
+These people are desperate, not foolish.
 
 ---
 
-## Clues and Information
+## Clues Across the Session
 
-Do not hide essential information behind a roll. Use checks to give better, faster, or more specific information.
-
-**Before the encounter:**
-
-| Skill | DC | Information |
-|---|---:|---|
-| Investigation | 12 | The basement door was opened recently. The lock was not forced. Someone had access. |
-| Insight | 12 | The locals are frightened, not aggressive by nature. They expect to be pushed aside. |
-| Religion | 13 | The markings are not ordinary prayer marks. They are tied to restoration, dawn, and ritual memory. |
-| Arcana | 13 | The lanterns are in feedback, not a stable ritual. The anchor can be stabilized. |
-| Medicine | 12 | The grey sickness patients worsen whenever the lanterns flare. The pulse is affecting them directly. |
-| History | 14 | Old civic buildings sometimes hide sealed infrastructure from before or shortly after the Night of the Ritual. |
-
-**During the encounter:**
-
-| Skill | DC | Information |
-|---|---:|---|
-| Perception | 11 | The next Light-Sick Echo is forming near the most unstable lantern rack. |
-| Arcana | 12 | The anchor can be stabilized. Destroying it is not the only option. |
-| Religion | 14 | The ritual logic is incomplete. The Restorers are working from fragments. |
-| Medicine | 13 | The sickroom above is close to crisis. If the pulse continues, someone may die. |
-
-**After the encounter:**
-
-| Skill | DC | Information |
-|---|---:|---|
-| Investigation (ledger alcove) | 14 | An access entry dated six weeks ago in handwriting that does not match the steward's. |
-| Arcana | 14 | The anchor was not creating dawn. It was amplifying unstable ritual residue. |
-| History | 13 | This was likely a minor ritual component, not the heart of the old working. |
-| Insight | 13 | Maerin believed what she was saying. Someone may have given her the method. |
+| Phase | Check | DC | Information |
+|---|---|---:|---|
+| Phase 2 | Investigation | 12 | Basement hatch found |
+| Phase 2 | Investigation | 14 | Ledger access entry - wrong handwriting |
+| Phase 2 | Arcana | 12 | Ambient magic pulling downward through lanterns |
+| Phase 3 | Religion | 13 | ᚾ Nauthiz and ᛊ Sowilo visible in chalk marks |
+| Phase 3 | History | 15 | Foundations pre-Ritual, older than Dawnhall |
+| Phase 5 | Persuasion/Intimidation | 13 | Guard gives 3 of 4 door runes |
+| Phase 6 | Religion | 14 | Hagalaz pressed first - acknowledge failure before claiming restoration |
+| Phase 6 | Ixa vision | DC 15 Wis | ᚲ Kenaz identified, one plinth inscription |
+| Phase 7 | Investigation | 12 | Read plinth inscriptions for dial settings |
+| Phase 7 | History | 13 | Wall inscriptions - second-attempt site, sealed by makers |
+| Phase 7 | Arcana | 14 | The anchor is not failing. It is doing exactly what it was designed to do. It is the design that was wrong. |
 
 ---
 
@@ -620,80 +699,130 @@ Do not hide essential information behind a roll. Use checks to give better, fast
 
 ### 3 Gestalt Characters
 
-Remove 1 Anchor-Bearer, 1 Dawnhall Desperate, 1 Light-Sick Echo. Reduce anchor HP to 32. Reduce final flare from 4d6 to 3d6. Allow 3 stabilization failures instead of 2.
+Remove 1 Anchor-Bearer, 1 Dawnhall Desperate, 1 Light-Sick Echo. Reduce anchor HP to 32. Final flare 3d6 not 4d6. Allow 3 stabilization failures before flare. Maerin more willing to talk.
 
 ### 4 Gestalt Characters
 
-Use default setup as written.
+Default setup as written.
 
 ### 5-6 Gestalt Characters
 
-Add 1 Dawnhall Desperate and 1 Light-Sick Echo. Increase anchor HP to 48. One Anchor-Bearer starts closer to the stairs. For 6 characters: add 1 Anchor-Bearer; add a second pressure point (lantern regulator near the stairs overheating - DC 14 Arcana/Investigation/Sleight of Hand to cool; if ignored 2 rounds, it bursts and threatens civilians above).
+Add 1 Desperate and 1 Echo. Increase anchor HP to 48. For 6: add 1 Anchor-Bearer; add a second pressure point - a lantern regulator near the vault entrance overheating (DC 14 to cool; if ignored 2 rounds, bursts and threatens anyone on the stairs).
 
 ### If the Party Is Struggling
 
-- Delay the Round 4 Echo
+- Let the Bridge Guard surrender early
+- Delay Round 4 Echo
 - Let Maerin call for restraint
-- Let one local change sides after seeing the anchor hurt someone
 - Reduce anchor pulse damage by 1d6
-- Let Ilya Ren shout useful information
-- Allow partial success if the party stabilizes part of the anchor
+- Let one Desperate change sides after seeing the anchor hurt someone
 
 ---
 
 ## Consequences
 
 ### Clean Success
-*Anchor stabilized, civilians protected, evidence preserved, no unnecessary deaths*
+*Anchor calibrated and stabilized, civilians protected, evidence preserved*
 
-Healers' Guild trusts the party. Lowmark hears the party protected people. Maerin may become a future contact. Party gains useful evidence. The Council wants a private report.
+Healers' Guild trusts the party. Lowmark hears the party protected people. Maerin may become a future contact. Party gains vault access and evidence. The Council wants a private report. The Spire takes interest in the preserved anchor.
 
 ### Practical Success
-*Anchor stopped, some harm caused, some evidence lost, violence happened but not excessively*
+*Anchor stopped, some harm, some evidence lost*
 
-Dawnhall survives but people are shaken. Healers grateful but frustrated. Restorers blame the party. Lowmark opinion divided. Party gets partial information.
+Dawnhall survives but shaken. Healers grateful but frustrated. Restorers blame the party. Lowmark divided. Partial information.
 
 ### Brutal Success
-*Anchor stopped, Restorers killed, locals harmed or terrified*
+*Anchor destroyed, Restorers killed, locals terrified*
 
-Immediate danger ends. Lowmark fears the party. Restorers gain martyrs. Future social encounters in Lowmark harder. Council may publicly distance from party.
+Danger ends. Lowmark fears the party. Restorers gain martyrs. Future Lowmark encounters harder.
 
 ### Failure
-*Anchor flares, civilians harmed, evidence destroyed*
+*Anchor flares, civilians harmed*
 
-Dawnhall becomes unsafe. Grey sickness cases worsen. Restorers claim the party destroyed hope. Party starts Session 1 with damaged Lowmark reputation.
+Dawnhall unsafe. Grey sickness cases worsen. Restorers claim the party destroyed hope. Session 1 begins with damaged Lowmark reputation.
 
-### Secret Success (Hidden Clue Found)
-*Ledger access entry discovered, Maerin spared, evidence quietly recovered*
+### Secret Success
+*Sealed alcove noticed, ledger found, Maerin convinced of being used*
 
-Party learns the Restorers did not act alone. Maerin may secretly contact them later. The campaign gains an investigation thread about who gave them access.
+Party learns the second attempt failed for the same reason as the first - but the makers knew why and wrote it on the wall. Maerin may contact them later. The sealed alcove is a thread. The Spire intermediary becomes a named target.
 
 ---
 
 ## Rewards
 
-**Coin:** 150 gp from Berric Halven (Dawnhall emergency fund) or Healers' Guild payment arranged by Ilya Ren
+**Coin:** 150 gp from Berric Halven (emergency fund) or Healers' Guild via Ilya Ren
 
 **Consumables:** 2 potions of healing, 1 healer's kit
 
-**Evidence (if preserved):** Anchor fragments, burned ritual markings, lantern calibration notes, basement access ledger
+**Evidence (if preserved):**
+- Anchor fragments and calibration rings
+- Vault wall inscriptions (photographic record or rubbing)
+- Plinth Futhark texts (translatable with time)
+- Basement ledger access entry
+- The dial (if the party takes it - it is the original calibration tool)
 
-**Contacts gained:**
-
-- Ilya Ren, Dawnhall healer (medical information, grey sickness leads)
-- Berric Halven, Dawnhall steward (Lowmark access, civic intelligence)
-- Maerin Voss, if spared or convinced (future Restorer contact)
+**Contacts:** Ilya Ren, Berric Halven, Maerin Voss (if spared)
 
 **Information leads:**
-
-- The anchor was part of a larger structure, not an isolated object
-- The anchor reacted like a minor calibration point tied to greater stones elsewhere (Primer Stones)
-- The sickness worsened when the anchor drew on the lantern system
-- Someone gave the Restorers a method, a map, or access - and it was not another Restorer
+- The second attempt failed. The wall says why. The same calibration error as the first.
+- Someone with Spire document access gave Maerin the sequence and the map
+- The sealed alcove exists
 
 ---
 
 ## Stat Blocks
+
+---
+
+### Restorer Scout
+*Medium humanoid (any), neutral*
+
+**AC** 12 (leather armor) | **HP** 11 (2d8+2) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 11 (+0) | 13 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Perception +2, Stealth +3
+**Senses** passive Perception 12 | **Languages** Common | **CR** 1/8 (25 XP)
+
+**Traits**
+- *Lookout.* Advantage on Perception checks when standing watch.
+- *Non-Lethal Intent.* Deals non-lethal damage unless ordered otherwise.
+
+**Actions**
+- *Shortsword.* *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) piercing (non-lethal).
+- *Hand Crossbow.* *Ranged Weapon Attack:* +3 to hit, range 30/120 ft., one target. *Hit:* 4 (1d6+1) piercing.
+
+**Morale:** If one scout drops, the other flees to warn below. If both drop in the same round, no warning reaches the vault. Neither knows the vault door sequence.
+
+---
+
+### Restorer Bridge Guard
+*Medium humanoid (human), neutral*
+
+**AC** 15 (chain shirt, shield) | **HP** 39 (6d8+12) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) |
+
+**Skills** Athletics +5, Perception +3
+**Senses** passive Perception 13 | **Languages** Common | **CR** 2 (450 XP)
+
+**Traits**
+- *Bridge Position.* While on the bridge, the Guard has advantage on Athletics checks to shove, and shoves push 10 ft instead of 5.
+- *Defensive Stand.* While no ally is within 10 feet, advantage on all saving throws.
+
+**Actions**
+- *Multiattack.* Two weapon attacks.
+- *Warhammer.* *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) bludgeoning (non-lethal by default).
+- *Shove.* Contested Athletics (+5). Success: target pushed 10 ft.
+
+**Reactions**
+- *Brace.* When a creature moved 15+ ft in a straight line before attacking the Guard, he can impose disadvantage on that attack roll.
+
+**Morale:** Surrenders below 10 HP if offered a non-lethal option. Will give 3 of the 4 door runes (ᚺ ᚾ ᛊ) in exchange. Does not have ᚲ Kenaz - Maerin kept it deliberately.
 
 ---
 
@@ -710,25 +839,23 @@ Party learns the Restorers did not act alone. Maerin may secretly contact them l
 **Skills** Insight +5, Persuasion +5, Religion +4
 **Senses** passive Perception 13 | **Languages** Common | **CR** 3 (700 XP)
 
-*Maerin is the ideological heart of this encounter, not a damage dealer. She fights to protect the anchor and the people she has brought here. She will not kill for it - but she will not stop easily.*
-
-**Spellcasting.** Maerin is a 5th-level spellcaster (Wis, DC 13, +5 to hit). Spells prepared:
+**Spellcasting.** 5th-level spellcaster (Wis, DC 13, +5 to hit):
 - Cantrips: *sacred flame, guidance*
 - 1st level (4 slots): *bless, command, detect magic, sanctuary*
 - 2nd level (3 slots): *calm emotions, hold person, silence*
 
 **Traits**
-- *Anchor Bond.* While within 30 feet of the Primer Anchor, Maerin has advantage on Wisdom saving throws and cannot be frightened.
-- *Voice of Conviction.* When Maerin speaks in good faith during a social conflict, creatures that can hear and understand her must make Wisdom saving throws against her social checks at disadvantage if the appeal is sincere and speaks to their genuine values (GM discretion).
+- *Anchor Bond.* Within 30 feet of the Primer Anchor, advantage on Wisdom saves and cannot be frightened.
+- *Voice of Conviction.* Sincere arguments that appeal to genuine values: listeners make social saving throws at disadvantage (GM discretion).
 
 **Actions**
-- *Ritual Staff.* *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage. Maerin uses this only if cornered.
-- *Anchor Command (Recharge 5-6).* Maerin channels through the anchor. Each creature within 20 feet makes a DC 13 Wisdom saving throw. On a failure, the creature cannot willingly move closer to the anchor until the start of Maerin's next turn.
+- *Ritual Staff.* *Melee Weapon Attack:* +2 to hit. *Hit:* 3 (1d6) bludgeoning. Used only if cornered.
+- *Anchor Command (Recharge 5-6).* Creatures within 20 ft make DC 13 Wisdom save. Fail: cannot willingly approach the anchor until start of Maerin's next turn.
 
 **Reactions**
-- *Shield the Work.* When an ally within 5 feet is hit by an attack, Maerin can impose disadvantage on the attack roll (declared before the roll is made).
+- *Shield the Work.* When an ally within 5 feet is hit, Maerin can impose disadvantage on the attack roll (declared before the roll).
 
-**Tactics:** Maerin opens with words, not weapons. Round 1 she casts *bless* on the Anchor-Bearers if combat begins. She uses *silence* near the anchor to prevent spellcasting close to it. She uses *calm emotions* on panicking locals if they are endangered. If two allies fall or a civilian is visibly harmed by the anchor, she calls for everyone to stop - give the scene one round of negotiation.
+**Tactics:** Opens with words. Round 1: *bless* on Anchor-Bearers. Uses *silence* near anchor to prevent spellcasting close to it. Uses *calm emotions* on panicking locals. If two allies fall or a civilian is harmed by the anchor: she calls for a halt - one round of negotiation.
 
 ---
 
@@ -745,19 +872,19 @@ Party learns the Restorers did not act alone. Maerin may secretly contact them l
 **Senses** passive Perception 13 | **Languages** Common | **CR** 1 (200 XP)
 
 **Traits**
-- *Anchor Guard.* While within 10 feet of the Primer Anchor, the Anchor-Bearer has advantage on saving throws against spells and magical effects.
-- *Non-Lethal Focus.* The Anchor-Bearer deals non-lethal damage unless ordered otherwise. No attack roll penalty.
+- *Anchor Guard.* Within 10 feet of anchor, advantage on saves against spells.
+- *Non-Lethal Focus.* Non-lethal damage by default. No attack penalty.
 
 **Actions**
-- *Multiattack.* The Anchor-Bearer makes two melee attacks.
-- *Shortsword.* *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) bludgeoning damage (non-lethal by default).
-- *Shove.* Instead of one attack, the Anchor-Bearer attempts to shove one creature up to 10 feet away or knock it prone (contested Strength (Athletics) check, Anchor-Bearer uses +4).
-- *Grapple.* Instead of one attack, the Anchor-Bearer attempts to grapple a Medium or smaller creature (contested Strength (Athletics) check, Anchor-Bearer uses +4).
+- *Multiattack.* Two melee attacks.
+- *Shortsword.* *Melee Weapon Attack:* +4 to hit. *Hit:* 5 (1d6+2) bludgeoning (non-lethal).
+- *Shove.* Instead of one attack; contested Athletics (+4); push 10 ft or knock prone.
+- *Grapple.* Instead of one attack; contested Athletics (+4).
 
 **Reactions**
-- *Block the Path.* When a creature attempts to move past the Anchor-Bearer toward the anchor, the Anchor-Bearer can make one Shove attempt as a reaction.
+- *Block the Path.* When a creature moves toward the anchor, one free Shove attempt.
 
-**Tactics:** Anchor-Bearers stand between the party and the anchor. They shove and grapple rather than deal damage. If Maerin falls or calls for retreat, they disengage and attempt to escape. They do not fight to the death.
+**Tactics:** Block and grapple. Do not kill. Follow Maerin's orders. Disengage and flee if Maerin falls.
 
 ---
 
@@ -772,17 +899,17 @@ Party learns the Restorers did not act alone. Maerin may secretly contact them l
 
 **Senses** passive Perception 10 | **Languages** Common | **CR** 0 (10 XP)
 
-*These are not fighters. They are frightened Lowmark residents - someone's parent, sibling, neighbor. They are blocking the party because they believe the Restorers may be right. They do not want to die.*
+*Not fighters. Frightened Lowmark residents blocking the party because they believe the Restorers may be right.*
 
 **Traits**
-- *Panic Threshold.* If a creature within 30 feet is reduced to 0 HP, the Desperate must succeed on a DC 12 Wisdom saving throw or spend their action fleeing toward the stairs.
-- *Desperate Block.* When a creature moves through the Desperate's space, the Desperate can use its reaction to make a contested Strength check (+0) to stop the movement. On success, the creature's movement stops. The Desperate takes 3 (1d6) bludgeoning damage from the shove-through.
+- *Panic Threshold.* If a creature within 30 feet drops to 0 HP, DC 12 Wisdom save or flee toward stairs.
+- *Desperate Block.* Reaction: contested Strength check (+0) to stop movement through their space. Takes 3 (1d6) on failure.
 
 **Actions**
-- *Shove.* The Desperate attempts to push one creature up to 5 feet (contested Strength check, uses +0).
-- *Throw Debris.* *Ranged Attack:* +2 to hit, range 20/60 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+- *Shove.* Contested Strength (+0); push 5 ft.
+- *Throw Debris.* +2 to hit, range 20/60 ft. Hit: 2 (1d4) bludgeoning.
 
-**Morale:** A Desperate who watches a PC protect a civilian or heal a sick person can be calmed with a DC 13 Persuasion check (action required). If the anchor visibly harms someone near them, they stand down without a check.
+**Morale:** DC 13 Persuasion (action) to calm if they saw a PC protect someone or heal a patient. Stand down without check if anchor visibly harms someone near them.
 
 ---
 
@@ -795,51 +922,46 @@ Party learns the Restorers did not act alone. Maerin may secretly contact them l
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 6 (-2) | 14 (+2) | 10 (+0) | 3 (-4) | 6 (-2) | 3 (-4) |
 
-**Damage Immunities** poison, psychic
-**Damage Vulnerabilities** thunder
+**Damage Immunities** poison, psychic | **Damage Vulnerabilities** thunder
 **Condition Immunities** charmed, exhaustion, frightened, poisoned, prone
 **Senses** darkvision 60 ft., passive Perception 8 | **Languages** none | **CR** 1/2 (100 XP)
 
-*A Light-Sick Echo is not an enemy in the traditional sense. It is what happens when an old ritual anchor bleeds. It appears, presses toward the living, and when the anchor stops, it vanishes. Destroying them does not end the problem.*
-
 **Traits**
-- *Anchor-Tethered.* When the Primer Anchor is stabilized or destroyed, this Echo immediately drops to 0 HP and vanishes.
-- *Radiant Weeping.* When the Echo takes damage, it sheds bright light in a 10-foot radius until the start of its next turn.
-- *Incorporeal Movement.* The Echo can move through creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+- *Anchor-Tethered.* When the anchor is fully calibrated or destroyed, drops to 0 HP and vanishes.
+- *Radiant Weeping.* When it takes damage, sheds bright light 10-ft radius until start of its next turn.
+- *Incorporeal Movement.* Moves through creatures and objects as difficult terrain. Takes 5 (1d10) force damage if it ends its turn inside an object.
 
 **Actions**
-- *Draining Touch.* *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) radiant damage. The target must succeed on a DC 12 Constitution saving throw or have its HP maximum reduced by 3 (1d6) until it finishes a long rest. A creature reduced to 0 maximum HP this way dies.
-- *Lantern Burst (Recharge 6).* The Echo pulses with grey-amber light. Each creature within 10 feet makes a DC 12 Constitution saving throw. Failure: 7 (2d6) radiant damage and blinded until end of next turn. Success: half damage, not blinded.
+- *Draining Touch.* *Melee Weapon Attack:* +4 to hit. *Hit:* 7 (2d6) radiant. Target makes DC 12 Con save or HP maximum reduced by 3 (1d6) until long rest.
+- *Lantern Burst (Recharge 6).* Creatures within 10 ft make DC 12 Con save. Fail: 7 (2d6) radiant and blinded until end of next turn. Success: half, not blinded.
 
-**Tactics:** Echoes move toward the nearest living creature and attack. They do not retreat, communicate, or respond to social interaction. Their Draining Touch is dangerous in a long fight - the cumulative HP maximum reduction becomes a real threat if the party takes too long to address the anchor.
+**Tactics:** Move toward nearest living creature. Attack. No tactics. No retreat. Destroying them does not stop the anchor.
 
 ---
 
 ## Bridge to Session 1
 
-This session is not self-contained. It seeds threads the party will pull on for the rest of the campaign.
-
 ### What the Party Knows After Session 0.5
 
-- The Restorers are active in Lowmark right now, not a distant rumor
-- Someone with official document access helped them into the basement six weeks ago
-- The anchor was not an origin point - it was a component of something larger
-- Sera Voss was investigating this. She sent for people she trusted. She did not come when the crisis broke.
-- Grey sickness gets worse when ritual residue is loose in the city
+- The Restorers are already active in Lowmark, not a distant rumor
+- There was a second attempt at ritual restoration. It also failed. The vault wall says why.
+- Someone with Spire document access gave Maerin the door sequence and map
+- Sera Voss was investigating this. She sent word to people she trusted. She did not come.
+- The sealed alcove exists. No one opened it.
 
 ### What They Do Not Know Yet
 
 - Where Sera Voss is and why she did not come
-- What the ritual documents Frank was hired to find actually contain
-- Who gave the Restorers the access entry and why
-- What Primer Stones are, and how many there are
+- Who gave Maerin the sequence and what they wanted from the experiment
+- What the sealed alcove contains
+- What Primer Stones are and how many exist
 - What Edoran knows
 
 These questions are Session 1.
 
 ### Transition Line
 
-At the end of this session, Berric Halven says one more thing before the party leaves:
+Before the party leaves, Berric says:
 
 > "She asked me to send word the moment anything happened. I sent it hours ago. She lives three streets away. She would have heard the bell."
 >
@@ -849,29 +971,32 @@ At the end of this session, Berric Halven says one more thing before the party l
 
 This line can open Session 1 directly.
 
-### Faction Standing Going In
-
-Track what the party earned here and carry it into Session 1:
+### Faction Standing Tracker
 
 | Party Action | Session 1 Starting Condition |
 |---|---|
-| Protected civilians | Ilya Ren vouches for them with the Healers' Guild |
-| Preserved evidence | The Spire takes notice; the Council wants a report |
+| Protected civilians | Ilya Ren vouches for them with Healers' Guild |
+| Preserved vault evidence | Spire takes notice; Council wants report |
+| Calibrated anchor (not destroyed) | Maerin may contact them. Not yet. Later. |
+| Found ledger entry | Frank arrives Session 1 already suspicious of who had access |
 | Killed a local | Lowmark reputation starts damaged |
-| Spared Maerin | She may send word. Not yet. But later. |
-| Found the ledger entry | Frank arrives in Session 1 already suspicious of who had access |
+| Opened the sealed alcove | Unexpected thread opens immediately in Session 1 |
 
 ---
 
 ## DM Quick Reference
 
-### What Matters Most
+### The Seven Phases at a Glance
 
-- The anchor is the real danger; run it as a clock, not just an obstacle
-- Maerin is not a villain; she is specifically wrong about one thing
-- The locals are desperate, not stupid
-- Violence works, but everyone sees it
-- The Dawnhall above is not empty
+| Phase | Core Challenge | Key System |
+|---|---|---|
+| 1. Street | 2 scouts: fight, sneak, or bluff | Combat basics, Stealth, Deception |
+| 2. Hall | Find hatch, talk to Berric and Ilya | Investigation, Social, Medicine |
+| 3. Upper Basement | Locked door, clues, chalk runes | Lockpicking, Arcana, History |
+| 4. Stairs | Alarm glyph | Perception, Sleight of Hand, Arcana |
+| 5. Bridge | Guard on narrow arch, 20-ft drop | Tactical combat, Shove, Mobility |
+| 6. Vault Door | 24 Futhark runes, 4 in sequence | Riddle, Religion, Ixa's moment |
+| 7. Vault | Full encounter, dial calibration | Everything |
 
 ### Fast DCs
 
@@ -882,26 +1007,15 @@ Track what the party earned here and carry it into Session 1:
 | Hard under danger | 16 |
 | Very hard or risky | 18 |
 
-### If You Get Stuck, Pick One
+### If You Get Stuck in Phase 7, Pick One
 
-- The anchor pulses (advance escalation)
-- Ilya Ren shouts something from above
+- Anchor pulses (advance escalation)
+- Ilya Ren shouts from above
 - Maerin makes a demand
-- A local panics at the anchor effects
-- A Light-Sick Echo appears
+- A local panics
+- A Light-Sick Echo appears near a plinth
 - An Anchor-Bearer moves to block a player
-- A civilian stumbles toward the stairs
-
-### Enemy Morale Summary
-
-| Event | Enemy Reaction |
-|---|---|
-| Anchor stabilized | Restorers hesitate or stop |
-| Lantern-Saint falls | Anchor-Bearers attempt retreat or surrender |
-| Two desperate locals fall | Remaining locals panic |
-| Civilian is harmed | Everyone reacts, even enemies |
-| Light-Sick Echoes multiply | Restorers begin to doubt |
-| Party protects civilians | Locals easier to calm |
+- Maerin glances at the sealed alcove
 
 ### Post-Session Question (Out of Character)
 
