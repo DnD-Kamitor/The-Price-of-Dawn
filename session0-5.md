@@ -150,17 +150,26 @@ Frank grew up here. The Dawnhall is not an abstraction - it is where people in t
 
 *If Frank investigates the ledger alcove and finds the access record, let him feel the weight of it. Someone with document access helped the Restorers into his neighborhood's lifeline.*
 
+**Gestalt spotlight - Portent + Sneak Attack:**
+Frank's Portent dice (Divination Wizard) let him replace any d20 roll after seeing the result. At the moment the anchor is about to trigger the Round 6 final flare - when one stabilization check stands between success and disaster - Frank can swap in a Portent die to guarantee the roll. This is the most powerful single action he has. Make sure his player knows it is available. Also: whenever Frank attacks a Light-Sick Echo and an ally is within 5 feet of it, he adds 2d6 Sneak Attack damage. Echoes have 18 HP. One Sneak Attack + cantrip combination can drop one per round.
+
 ### Serah Tallon (Paladin/Sorcerer, Wanderer devotee)
 
 The Wanderer protects travelers and the lost. The sick in the sickroom are lost in their own way. Serah's Lay on Hands can ease a grey sickness patient's symptoms - not cure them, but give visible, human relief. If she uses it on a patient where desperate locals can see, treat it as a successful Persuasion check against one of them (no roll needed).
 
 *The child's voice asking "Is it dawn?" should land hard for Serah. Use it.*
 
+**Gestalt spotlight - Lay on Hands + Lucky:**
+Round 3, the sickroom above is in crisis. One grey sickness patient is failing. If Serah goes upstairs and uses Lay on Hands in sight of the desperate locals, one of them stops fighting immediately - no roll. This is the only action in the session that ends a fight without words or damage. Her Lucky feat (2 luck points) can flip a failed Constitution save against the anchor's Round 2 or Round 6 damage, or give her advantage on a stabilization check. She is the party's safety valve. Her player should feel that.
+
 ### Keiran (Monk/Ranger, Warrior of Shadow)
 
 Keiran's mobility - Speed 45, Darkness, Stealth - makes them the natural choice to flank, scout, and navigate the basement's difficult terrain. The Anchor-Bearers are positioned to block the direct path to the anchor. Keiran can go around them.
 
 *If Keiran casts Darkness and it overlaps the anchor's light zone, the anchor flares in response. Increase the next stabilization DC by 1. Describe it: the darkness burns away at the edges, as if the anchor refuses the shadow.*
+
+**Gestalt spotlight - Step of the Wind + Darkness:**
+Keiran can Disengage as a bonus action (Step of the Wind, 1 Focus Point) and reach the anchor in a single turn past both Anchor-Bearers. If an Anchor-Bearer would get an opportunity attack, Keiran is already past them. Shadow Arts Darkness (1 Focus Point) cast on an Anchor-Bearer's space imposes blindness on creatures that fail a DC 15 Dexterity save, opening a corridor to the anchor. At Speed 45 with Disengage, Keiran can also reach the sickroom stairs and return in the same round that others are fighting - splitting the action economy across two fronts simultaneously.
 
 ### Fourth Character
 
@@ -379,6 +388,51 @@ On 3 successes: anchor stabilizes; Echoes vanish; sick stop worsening; Restorers
 On 3 failures: trigger Round 6 final flare immediately.
 
 One character can help another by describing how. Helping gives advantage. One helper per check.
+
+### The Calibration Puzzle
+
+The anchor has four bronze calibration rings set into its outer face, each engraved with a symbol. To stabilize the anchor properly, the rings must be adjusted in the correct order. Adjusting them in the wrong order counts as a stabilization failure and deals 1d6 radiant damage to the character touching it.
+
+**The four symbols:**
+
+| Symbol | Meaning |
+|---|---|
+| Bell | The call before gathering - resonance, the signal |
+| Chain | Memory and binding - what holds the ritual in place |
+| Eye | Awareness and witness - perception, presence |
+| Flame | Dawn itself - the destination of the working |
+
+**Finding the correct order:**
+
+The Restorers have drawn new chalk ritual markings over the old calibration text, but the partial order survives. Investigation DC 12 reveals: Bell first, Chain second, then two symbols obscured by chalk.
+
+The third and fourth symbols can be recovered by:
+
+- **Religion DC 13:** In Kael and Mira's dawn liturgy, the Eye always precedes the Flame. Awareness must witness before fire can arrive.
+- **Reading the old inscription** (see The Inscription below): the riddle's answer names the Bell and implies the sequence.
+- **Talking to Maerin (Persuasion DC 13):** She recites the ritual order instinctively if asked sincerely: "Bell. Chain. Eye. Flame. Always in that order. That is not in question."
+
+**Correct order: Bell → Chain → Eye → Flame**
+
+If the party solves the order before attempting stabilization, each stabilization check has advantage. If they attempt stabilization without solving the order, use the standard rules - they are adjusting blind.
+
+### The Inscription
+
+On the north wall, partially hidden under Restorer chalk markings, there is an old carved inscription in the civic maintenance style of Old Varenhold. A character who examines the north wall notices it automatically. Reading it requires no check - it is in Common, just old-fashioned.
+
+Read this aloud when the party finds it:
+
+> *I am called when gathering ends.*
+> *I am present when eyes close.*
+> *I measure the distance between heartbeats.*
+> *I ring before what you are waiting for arrives.*
+> *What am I?*
+
+**Answer:** The Bell. The old Varenhold term for the interval before dawn - the dark hour when the city used to ring its bells to mark that light was coming. In the fifty years since the Night of the Ritual, the bells ring but the dawn never follows.
+
+**Mechanical reward:** The character who answers correctly understands the first calibration ring immediately. They have advantage on the first stabilization check regardless of other conditions.
+
+**Roleplay weight:** Let this land for a moment. The inscription was carved before the Night of the Ritual, when the bells actually worked. Someone maintained this basement for fifty years after and never removed it.
 
 ### Destroying the Anchor
 
