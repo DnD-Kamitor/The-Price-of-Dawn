@@ -271,3 +271,168 @@ pre {
   font-size: 0.85rem;
   color: #7a6a55;
 }
+
+// ============================================================
+// PRINTABLE PROPS
+// ============================================================
+
+.props-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5em;
+  margin: 2em 0;
+}
+
+.prop-card {
+  border: 1px solid #c9922a;
+  border-radius: 6px;
+  padding: 1.2em 1.4em;
+  background: #fffbf4;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  position: relative;
+}
+
+.prop-card h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: #c9922a;
+  margin: 0 0 0.6em 0;
+  border-bottom: 1px solid #e8d5a8;
+  padding-bottom: 0.3em;
+}
+
+.prop-card .prop-when {
+  font-size: 0.75rem;
+  font-style: italic;
+  color: #7a6a55;
+  margin-bottom: 0.8em;
+}
+
+.prop-handout {
+  background: linear-gradient(135deg, #fdf3e3 0%, #f9eedc 100%);
+  border: 2px solid #c9922a;
+  font-style: italic;
+  font-size: 0.96rem;
+}
+
+.prop-handout h4 {
+  font-style: normal;
+}
+
+.prop-item {
+  border-color: #1a2d4a;
+  background: #f7f3ff;
+}
+
+.prop-item h4 {
+  color: #1a2d4a;
+  border-bottom-color: #c3b8d8;
+}
+
+.prop-gm {
+  border-color: #5c3d11;
+  background: #1a2d4a;
+  color: #e8d5b0;
+}
+
+.prop-gm h4 {
+  color: #c9922a;
+  border-bottom-color: #2a4a6a;
+}
+
+.prop-gm p, .prop-gm li, .prop-gm td {
+  color: #e8d5b0;
+}
+
+.prop-gm table {
+  font-size: 0.82rem;
+}
+
+.prop-gm thead th {
+  background: #0e1d33;
+  font-size: 0.7rem;
+}
+
+.prop-gm tbody td {
+  border-color: #2a4a6a;
+  background: transparent;
+}
+
+.prop-gm tbody tr:nth-child(even) td {
+  background: rgba(255,255,255,0.05);
+}
+
+.prop-gm tbody tr:hover td {
+  background: rgba(201,146,42,0.1);
+}
+
+.rune-ring {
+  font-family: 'Courier New', monospace;
+  font-size: 1.05rem;
+  line-height: 1.9;
+  text-align: center;
+  padding: 0.5em;
+  letter-spacing: 0.15em;
+}
+
+.rune-raised {
+  font-weight: bold;
+  color: #c9922a;
+  border: 1px solid #c9922a;
+  border-radius: 3px;
+  padding: 0 3px;
+}
+
+.prop-cut-line {
+  border: none;
+  border-top: 1px dashed #c9922a;
+  margin: 2em 0;
+  opacity: 0.5;
+}
+
+.prop-cut-line::after {
+  content: "✂  cut here";
+  font-size: 0.7rem;
+  color: #c9922a;
+  letter-spacing: 0.1em;
+}
+
+@media print {
+  .props-grid {
+    display: block;
+  }
+
+  .prop-card {
+    display: inline-block;
+    width: 45%;
+    margin: 0.5em;
+    vertical-align: top;
+  }
+
+  .prop-handout {
+    width: 90%;
+    display: block;
+    margin: 1em auto;
+  }
+
+  .prop-gm {
+    background: white !important;
+    color: black !important;
+    border: 2px solid black;
+  }
+
+  .prop-gm h4, .prop-gm p, .prop-gm td {
+    color: black !important;
+  }
+
+  nav, #quarto-sidebar, .nav-footer, #TOC {
+    display: none !important;
+  }
+
+  .page-columns {
+    grid-template-columns: 1fr !important;
+  }
+}
