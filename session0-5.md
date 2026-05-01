@@ -212,6 +212,38 @@ Either outcome: Ixa's player knows this place means something. The rest of the t
 
 ---
 
+## The Entrance Scene
+
+*This session opens with four strangers arriving at the same building for different reasons. Address each player individually before reading the Five-Senses Opening — one sentence of context, then "You approach the Dawnhall." Once all four have been placed at the entrance, read the opening aloud.*
+
+### Why Each Character Is Here
+
+**Pel** — He has been asking around the Lowmark for Sera Voss since her letter arrived. A cloth-merchant two streets over told him Sera came to this Dawnhall three days ago asking about basement access and was never seen leaving. This building is the last known point. He needs to get inside.
+
+**Serah** — She has been working the Lowmark sick-houses for days. Her patients are grey sickness sufferers who depend on this Dawnhall's lantern warmth and Ilya Ren's medicines. Two nights ago the medicine supply from this hall stopped. A family came to her door this morning: their daughter worsening since the Dawnhall stopped letting people in. She came to find out why Ilya stopped sending supplies — and what is wrong with the light.
+
+**Keiran** — He has been watching a Restorer cell move through the Lowmark for a week. Three nights ago they carried supplies — wrapped in oilskin, heavy — through the servants' entrance of this building. Nothing came back out. Tonight the lights in the windows changed color. He has been deciding whether to go in alone. The decision is made.
+
+**Ixa** — She noticed the lanterns two days ago. Wrong resonance. The amber light in this building has something underneath it — not warmth, not fire. She has walked past four times. Each time she slows. Tonight she stopped walking. She cannot explain why she needs to be inside this building, and that is almost reason enough not to trust it — but she is here anyway.
+
+### Why the Entrance is Crowded
+
+The Dawnhall serves the Lowmark every day: hot food, lantern warmth for the grey-sick, medicines from Ilya Ren. The Restorers did not announce themselves. They arrived with forged access records and moved downstairs. They are not blocking the front door — the food line and sickroom upstairs are still running — but there is a locked door where there used to be an open one, the lights are wrong, and people can feel something is off.
+
+The crowd outside is people who came for their usual service and found the atmosphere hostile. The Restorer scouts told some of them the hall is "under maintenance." Others felt the wrong light on their skin and did not go in. They are not blocking the entrance. They are waiting for someone to tell them it is safe.
+
+*This crowd matters: in Phase 2 they are the people the party is fighting for. In Phase 7, the Dawnhall Desperates came from among them — neighbours who followed the Restorers down believing they were protecting something.*
+
+### How the Party Forms
+
+The four arrive within minutes of each other — separately, on foot, from different directions. They do not know one another. The Restorer scouts notice all of them at approximately the same time.
+
+The scouts provide the catalyst. When two watchmen step toward one stranger and then clock a second and a third arriving behind her, they have a problem. The strangers have a choice: cooperate against a common obstacle, or waste time being suspicious of each other while the scouts call for help.
+
+*Let this moment breathe. Ask each player: "What does your character do when they realize they are not the only one here?" The scouts are not the threat — the question of whether these four strangers can trust each other enough to take a single step together is.*
+
+---
+
 ## Five-Senses Opening
 
 <audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
