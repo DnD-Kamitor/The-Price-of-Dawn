@@ -11,8 +11,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  REF: VLT-001     VAULT DOOR — ELEVATION VIEW     SCALE: 1:25   ║
-║  Material: pre-Ritual cut stone. Age estimated 260+ years.      ║
+║  VAULT WORKS — LOWMARK SITE              DOCUMENT 7 of 12       ║
+║  Vault Approach: Door Elevation    Drawn: T.H.  Check: M.A.     ║
+║  Scale 1:25          Year: 43 P.R. (forty-three, Post-Ritual)   ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║      ┌─────────────────────────────────────────────────┐        ║
@@ -28,16 +29,21 @@
 ║      │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│        ║
 ║      │                                                 │        ║
 ║      │  ┌─────────────────────────────────────────┐   │        ║
-║      │  │ "We did not come here to celebrate the  │   │        ║
-║      │  │  failure. We came here to understand    │   │        ║
-║      │  │  it. Press what you know in the order   │   │        ║
-║      │  │  that it happened."                     │   │        ║
+║      │  │  ARCH INSCRIPTION (see elevation detail  │   │        ║
+║      │  │  B): "Four marks upon the road of        │   │        ║
+║      │  │  return. [four lines — see detail B]     │   │        ║
+║      │  │  In the order that it happened."         │   │        ║
+║      │  │                                          │   │        ║
+║      │  │  LOWER PLAQUE: "We did not come here to  │   │        ║
+║      │  │  celebrate the failure. We came here to  │   │        ║
+║      │  │  understand it. Press what you know in   │   │        ║
+║      │  │  the order that it happened."            │   │        ║
 ║      │  └─────────────────────────────────────────┘   │        ║
 ║      └─────────────────────────────────────────────────┘        ║
 ║                                                                  ║
-║  All 24 Elder Futhark runes are present, arranged in a ring.    ║
-║  Door: 240cm H × 120cm W × 40cm D. No handle. No keyhole.      ║
-║  ✦ = central blind seal. Decorative only.                        ║
+║  Door: 240cm H × 120cm W × 40cm D. Stone: pre-existing fabric.  ║
+║  Rune ring: cut added by this team. Activation: see Document 4. ║
+║  ✦ Central face: blind seal. Structural only. Do not alter.      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 

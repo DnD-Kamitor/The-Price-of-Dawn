@@ -136,7 +136,7 @@ Round: [1][2][3][4][5][6]
 - [ ] Know the Futhark sequence for the vault door: ᚺ ᚾ ᚲ ᛊ - and why that order
 - [ ] Decide which Dawnhall Desperate has a sick child upstairs - this is the one who breaks first
 - [ ] Know Maerin's three lines by heart before play
-- [ ] Decide: does the Bridge Guard know the door sequence? (Recommended: yes, he knows 3 of 4 and will bargain with the 4th if below half HP)
+- [ ] Know that the Vault-Warden (Tolvin Heuschel's bind) has the FULL door sequence — it designed the vault. It gives it freely to anyone it believes is here to stop the ritual, not complete it. Ixa's presence makes it cooperative automatically.
 - [ ] Set ambient tone before Phase 1: amber lanterns too bright, Lowmark crowd uneasy, something wrong in the air
 
 ---
@@ -307,7 +307,7 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 
 **Social (DC 13 Deception or Persuasion):** Posing as Healers' Guild responders, late Dawnhall workers, or concerned locals. The scouts are not hard to fool - they are frightened volunteers, not trained agents. A convincing story with appropriate framing (mention Ilya Ren, the Guild, or the steward) drops the DC to 10.
 
-**If the scouts warn the vault:** The Bridge Guard is alert when the party arrives (see Phase 5). Two scouts follow the party down to Phase 5, arriving at the start of round 2 from the upper basement stairwell. The Guard uses his Set Against Charge reaction on the first attack.
+**If the scouts warn the vault:** The Vault-Warden is already alert (it is always alert). Two scouts follow the party down to Phase 5, arriving at the start of round 2 from the upper basement stairwell. The Warden's Threshold Challenge reaction fires the moment the first party member crosses the bridge midpoint.
 
 **If the scouts are captured and questioned:** They know there is a group below working on something. They do not know what it is. They were told to watch and delay. They do not know the vault door sequence.
 
@@ -383,8 +383,8 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 **The reinforced door** (south wall east): Iron bands added recently. Locked from below with a heavy mechanism.
 - Pel's Thieves' Tools: DC 14
 - *Knock* spell: automatic
-- Athletics (forcing): DC 18 (the bands are solid; possible but loud - alerts the Bridge Guard)
-- Finding the key: the Bridge Guard has a copy (discovered if he is captured)
+- Athletics (forcing): DC 18 (the bands are solid; possible but loud — the Vault-Warden on the bridge below hears it and is no longer surprised)
+- Finding the key: a Restorer soldier was stationed at the bridge landing before the Warden reactivated (his pack is still there — see Phase 5)
 
 **Skill checks in the upper basement:**
 
@@ -421,9 +421,9 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 | Arcana | 12 | Recognizes the glyph type. With one minute of work, can neutralize it (no check needed if Arcana 12 succeeds). |
 | Sleight of Hand | 12 | Carefully scrapes the glyph off the stone without triggering it. |
 
-**If triggered:** A burst of grey-amber light fills the stairwell. Each creature on the stairs makes a DC 13 Constitution save - failure: 2d6 radiant damage and blinded until end of next turn. Success: half damage, not blinded. The Bridge Guard below hears the burst and is no longer surprised.
+**If triggered:** A burst of grey-amber light fills the stairwell. Each creature on the stairs makes a DC 13 Constitution save - failure: 2d6 radiant damage and blinded until end of next turn. Success: half damage, not blinded. The Vault-Warden on the bridge below hears the burst and is no longer surprised.
 
-**If disabled:** The party descends without incident. The Bridge Guard does not know they are coming.
+**If disabled:** The party descends without incident. The Vault-Warden does not know they are coming (it lacks hearing beyond its tremorsense range on the bridge surface).
 
 ---
 
@@ -435,35 +435,45 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 >
 > Beyond the landing, the walls fall away.
 >
-> You are standing at one end of a narrow stone arch - maybe four feet wide, maybe forty feet long - spanning a drop into old darkness. Below, twenty feet down, water moves slowly in what was once a civic cistern. The stone of the bridge is pre-Ritual: older, smoother, carved with marks that predate the Dawnhall above by at least a century.
+> You are standing at one end of a narrow stone arch — maybe four feet wide, maybe forty feet long — spanning a drop into old darkness. Below, twenty feet down, water moves slowly in what was once a civic cistern. The stone of the bridge is pre-Ritual: older, smoother, carved with marks that predate the Dawnhall above by at least a century.
 >
-> On the far side, a man stands with his back to the door.
+> On the far side, something stands with its back to the vault door.
 >
-> He turns.
+> It is shaped like a person. But it is not a person.
 >
-> He does not look surprised.
+> When it hears you, it turns. The motion is unhurried and exact. Two smooth depressions in a face of grey-amber stone catch the light. Its chest holds an iron housing — old metal, amber-set — that pulses faintly. It has been standing here, you understand without being told, for a very long time.
 
-**The bridge:** 40 ft long, 4 ft wide (one square), 20-ft drop to dark water below. The drop is survivable (2d6 bludgeoning, land in 5 ft of water, swimming DC 12 to keep gear). Being shoved off is a real threat. Difficult terrain does not apply - the bridge is smooth - but any creature that starts its turn prone on the bridge must succeed on a DC 11 Dexterity save or slide toward the edge.
+**The bridge:** 40 ft long, 4 ft wide (one square), 20-ft drop to dark water below. The drop is survivable (2d6 bludgeoning, 5 ft water, DC 12 Athletics to keep gear). Prone creatures make DC 11 Dex save at start of their turn or slide 5 ft toward the edge.
 
-**The Bridge Guard:** One Restorer Bridge Guard (CR 5). He was left to delay. He does not know the party's strength. He knows the vault door sequence (3 of the 4 runes; Maerin did not tell him the full set deliberately). His Ritual Lantern of Warding is his opening move - it will frighten at least one party member unless they pass DC 14 Wisdom.
+**The Vault-Warden:** One Vault-Warden construct (CR 5). A bound spirit — the remnant of Tolvin Heuschel, architect of the second ritual attempt — sealed into a stone guardian 200 years ago so that someone would always know what went wrong. The Warden has been here ever since. It is not on the Restorers' side. It was not told to stand aside for them. It was told — two centuries ago — to let no unauthorized person through. It was given authorization codes by the same person who sent Maerin the map.
+
+A Restorer soldier was stationed here before the Warden unexpectedly reactivated. His orders and gear remain in a pack by the landing wall. He has retreated into the vault to warn Maerin and has not returned. The Warden did not follow. It is watching the party.
 
 **Tactical notes:**
-- The Guard begins at the far end (40 ft from the party)
-- His Shove pushes 10 ft - toward the edge if target is near it
-- Ranged attacks are unimpeded
-- Keiran can cover 45 ft in one turn with Disengage as bonus action
-- Darkness cast on the Guard's position: he makes DC 15 Dex save or is blinded; a blinded creature on the bridge has disadvantage on Dex saves against sliding
+- Warden begins at the far end (40 ft), blocking the vault door
+- Cannot be moved, pushed, or knocked prone on the bridge (Bridge Lock)
+- Has tremorsense 30 ft on the bridge surface — magical darkness does not blind it
+- Warden's Pulse (recharge 5–6): DC 14 Constitution save, 4d6 radiant + prone — devastating on a narrow bridge
+- Prone creatures who fail DC 11 Dex slide toward the edge; at the edge, a failed save is a 20-ft fall
+- Ranged attacks work freely; but the Warden's Threshold Challenge reaction stops the first creature to cross the midpoint
 
-**Surrender condition:** If the Guard is reduced below 20 HP and offered a non-lethal option, he stops. He will give the party 3 of the 4 door runes in exchange for not being killed: ᚺ Hagalaz, ᚾ Nauthiz, ᛊ Sowilo. He does not know the fourth (ᚲ Kenaz) - Maerin kept it to herself.
+**Gear on the landing (from the fleeing Restorer's abandoned pack):**
+- Ritual Lantern of Warding (3 charges), Ritual Chain (functions as +1 flail, reach 10 ft)
+- Restorer Lieutenant Token — **this is the bypass.** The Warden's Authorization sense recognizes it. A character who holds the Token openly before crossing the midpoint is not attacked.
 
-*Why Maerin kept Kenaz: she is not fully certain of the sequence herself. Kenaz was the rune she had to derive, and she does not trust others with incomplete knowledge.*
+**Social option:**
+If the party pauses and engages the Warden respectfully for one round (not attacking, not charging):
+- Persuasion DC 13 (automatic if Ixa is within 20 ft): Warden halts hostility for 1 minute and speaks
+- It will not help anyone it believes intends to complete the ritual
+- If convinced the party is here to stop the ritual: Persuasion DC 16 (DC 10 with Ixa), and it steps aside entirely, watching
 
-**What the party learns from the Guard (if captured or surrendered):**
-- There is a vault on the other side of the door
-- It is old - pre-Ritual. Nobody knew it was there
-- Someone gave Maerin the sequence and a partial map
-- He does not know who. He was not told.
-- Three of the four door runes if bargaining. The fourth he genuinely does not have.
+**What the Warden tells the party (if cooperative):**
+- The full vault door sequence, verbatim: *"Disruption. Need. Fire. Light. In the order we failed."* — ᚺ ᚾ ᚲ ᛊ
+- The warnings on this approach were removed. It is angry about this. It cannot leave the bridge to do anything about it.
+- If Ixa is present: it addresses her as *"one of the children."* The vault was built by the same hands that made her, or people working from the same research. It will tell her the third plinth setting specifically if asked — the one most parties struggle with.
+- Its name: Tolvin Heuschel. Architect of the second attempt. He sealed his own consciousness here so that the record would never be lost.
+
+*Why the Warden has the full sequence: it designed the vault. Maerin independently derived her sequence from the door and the letter she received. She got it right — but she did not know the Warden existed, or that it knew.*
 
 ---
 
@@ -473,17 +483,29 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 
 > The door at the end of the bridge is not what you expected.
 >
-> It is old stone - older than the bridge, older than the Dawnhall, possibly older than Varenhold's current form. It stands eight feet tall with no handle, no keyhole, no visible mechanism.
+> It is old stone — older than the bridge, older than the Dawnhall, possibly older than Varenhold's current form. It stands eight feet tall with no handle, no keyhole, no visible mechanism.
 >
 > What it has is runes.
 >
-> All twenty-four Elder Futhark runes are carved into its face in a ring, each precise, each deep-cut. They are not decorative. In the center of the ring, four of the twenty-four are slightly raised - proud of the surface by perhaps a finger's width.
+> All twenty-four Elder Futhark runes are carved into its face in a ring, each precise, each deep-cut. They are not decorative.
 >
-> Below the ring of runes, a single line of text in old academic Varenhold:
+> Above the rune ring, carved into the arch of the door frame in smaller, older lettering:
+>
+> *Four marks upon the road of return.*
+>
+> *First: what fell and made restoration necessary.*
+> *Second: what drove the work back into motion despite the fear.*
+> *Third: the flame they carried — contained, purposeful, not the bonfire.*
+> *Fourth: the name of what they worked toward. The morning not yet come.*
+>
+> Below the rune ring, a single line of text in old academic Varenhold:
 >
 > *"We did not come here to celebrate the failure. We came here to understand it. Press what you know in the order that it happened."*
 
-**The puzzle:** Four of the twenty-four runes are raised and can be pressed. The party must identify which four they are (they can feel the slight raise with DC 10 Investigation or by touch) and press them in the correct order.
+**The puzzle:** Four of the twenty-four runes are raised and can be pressed. There are two ways to identify them:
+
+1. **By touch** (DC 10 Investigation or simply running a hand along the ring): feel the four that stand slightly proud of the surface.
+2. **By the arch inscription**: the riddle above the ring describes all four runes by meaning, in order. Religion DC 12 or Arcana DC 13 lets a character match each description to a specific Elder Futhark rune — no need to find the raised ones first.
 
 The four raised runes: **ᚺ Hagalaz, ᚾ Nauthiz, ᚲ Kenaz, ᛊ Sowilo**
 
@@ -503,15 +525,14 @@ Wrong order: nothing. The door does not respond. No punishment. Players can try 
 | Source | Clue |
 |---|---|
 | Bell inscription (existing, upstairs in hall) | Positions the sequence within ritual theory |
-| Upper basement chalk marks | ᚾ Nauthiz and ᛊ Sowilo visible - 2nd and 4th |
-| Bridge Guard (if cooperative) | ᚺ Hagalaz, ᚾ Nauthiz, ᛊ Sowilo - 1st, 2nd, 4th |
+| Upper basement chalk marks | ᚾ Nauthiz and ᛊ Sowilo visible — 2nd and 4th |
+| Arch inscription (vault door frame) | Describes all four runes in order by meaning — Religion DC 12 or Arcana DC 13 to decode |
+| Vault-Warden (if cooperative) | Full sequence verbatim: *"Disruption. Need. Fire. Light."* — ᚺ ᚾ ᚲ ᛊ |
 | Religion DC 14 at the door | The makers acknowledged failure before claiming restoration; Hagalaz first |
-| History DC 13 at the door | Recognizes the inscription's language as consistent with second-generation ritual scholarship |
+| History DC 13 at the door | Inscription language consistent with second-generation ritual scholarship |
 | Ixa's vision (fail or success) | Fills in whatever is still missing |
 
-**The missing rune:** ᚲ Kenaz is the hardest to identify because it represents the correction the makers believed in - controlled fire, directed method. It is not mentioned in any clue unless Ixa's vision provides it. This is intentional. The sequence cannot be completed without either:
-- Knowing Elder Futhark and reasoning through the inscription
-- Ixa's memory
+**The missing rune:** ᚲ Kenaz (controlled fire, the torch, the smith's flame) is the hardest to identify. The arch inscription calls it "the flame — contained, purposeful, not the bonfire." A character who recognizes that description as Kenaz's meaning (Religion DC 12) can identify it without touching the door. Without that check or the Vault-Warden's help, only Ixa's vision provides it directly.
 
 **Ixa at the door:**
 
@@ -754,8 +775,10 @@ These people are desperate, not foolish.
 | Phase 2 | Arcana | 12 | Ambient magic pulling downward through lanterns |
 | Phase 3 | Religion | 13 | ᚾ Nauthiz and ᛊ Sowilo visible in chalk marks |
 | Phase 3 | History | 15 | Foundations pre-Ritual, older than Dawnhall |
-| Phase 5 | Persuasion/Intimidation | 13 | Guard gives 3 of 4 door runes |
-| Phase 6 | Religion | 14 | Hagalaz pressed first - acknowledge failure before claiming restoration |
+| Phase 5 | Persuasion | 13 | Vault-Warden halts to speak; DC 16 (10 with Ixa) to stand aside entirely |
+| Phase 5 | Arcana | 14 | Identify Warden as a bound-spirit construct; formal acknowledgement is the right approach |
+| Phase 6 | Religion/Arcana | 12/13 | Arch inscription: decode four rune meanings from the carved riddle |
+| Phase 6 | Religion | 14 | Hagalaz pressed first — acknowledge failure before claiming restoration |
 | Phase 6 | Ixa vision | DC 15 Wis | ᚲ Kenaz identified, one plinth inscription |
 | Phase 7 | Investigation | 12 | Read plinth inscriptions for dial settings |
 | Phase 7 | History | 13 | Wall inscriptions - second-attempt site, sealed by makers |
@@ -783,7 +806,7 @@ Add 1 Anchor-Bearer and 1 Echo. Increase anchor HP to 48. Add a second pressure 
 
 ### If the Party Is Struggling
 
-- Let the Bridge Guard surrender early
+- Let the Vault-Warden speak first rather than fight (Ixa's presence triggers this automatically)
 - Delay Round 4 Echo
 - Let Maerin call for restraint
 - Reduce anchor pulse damage by 1d6
@@ -822,14 +845,15 @@ Party learns the second attempt failed for the same reason as the first - but th
 
 ## Rewards
 
-**Coin:** 150 gp from Berric Halven (emergency fund) or Healers' Guild via Ilya Ren. Plus combat loot: ~3d8 gp from Bridge Guard, 4d10 gp from Maerin, 2d8 sp from scouts.
+**Coin:** 150 gp from Berric Halven (emergency fund) or Healers' Guild via Ilya Ren. Plus combat loot: 4d10 gp from Maerin, 2d8 sp from scouts.
 
 **Consumables:** 2 potions of healing, 1 healer's kit
 
 **Combat Loot (see stat blocks for full detail):**
 - Flash Vials (up to 6 from scouts) — thrown blinding grenades, DC 12 Con save
-- Ritual Lantern of Warding (from Bridge Guard) — frighten effect, 3 charges, recharges
-- Ritual Chain (from Bridge Guard) — +1 flail, reach 10 ft, grapple on hit
+- Ritual Lantern of Warding (from landing pack) — frighten effect, 3 charges, recharges
+- Ritual Chain (from landing pack) — +1 flail, reach 10 ft, grapple on hit
+- Amber Sentinel Core (from Vault-Warden, if destroyed) — warm amber crystal, magical focus, 100 gp to a scholar or artificer
 - Primer Lantern (from Maerin) — +7 ranged, 2d8 radiant + blind, limited charges
 - Charged Amber Shards (up to 4 from Bearers) — 1d8 radiant thrown, 1 hour of charge remaining
 - Restorer Lieutenant Token (from Guard) — faction dialogue opener Sessions 2–3
@@ -884,37 +908,48 @@ Party learns the second attempt failed for the same reason as the first - but th
 
 ---
 
-### Restorer Bridge Guard
-*Medium humanoid (human), neutral*
+### Vault-Warden (Tolvin Heuschel's Bind)
+*Large construct (bound spirit), neutral*
 
-**AC** 18 (chain mail, shield) | **HP** 82 (11d8+33) | **Speed** 30 ft.
+**AC** 16 (natural armor) | **HP** 85 (10d10+30) | **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 18 (+4) | 11 (+0) | 16 (+3) | 10 (+0) | 13 (+1) | 12 (+1) |
+| 20 (+5) | 8 (−1) | 17 (+3) | 14 (+2) | 16 (+3) | 10 (+0) |
 
-**Saving Throws** Str +7, Con +6
-**Skills** Athletics +7, Intimidation +4, Perception +4
-**Senses** passive Perception 14 | **Languages** Common | **CR** 5 (1,800 XP)
+**Saving Throws** Str +8, Con +6
+**Skills** Athletics +8, Perception +6
+**Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
+**Damage Immunities** poison, psychic
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+**Senses** darkvision 60 ft, tremorsense 30 ft (bridge surface only), passive Perception 16
+**Languages** Common (archaic), Elder Futhark; understands most languages spoken within range
+**CR** 5 (1,800 XP)
 
 **Traits**
-- *Bridge Mastery.* While on the bridge: cannot be knocked prone, pushed, or moved without his consent. Athletics shove attempts against him automatically fail.
-- *Relentless (1/day).* When reduced to 0 HP, drops to 1 HP instead.
+- *Bridge Lock.* While on the bridge: immune to forced movement, cannot be knocked prone. Athletics shove attempts automatically fail.
+- *Construct Nature.* Doesn't require air, food, drink, or sleep. Immune to mind-affecting effects.
+- *Token Authorization.* Creatures holding a Restorer Lieutenant Token visibly are not targeted. The Warden pauses and observes them. If a token is produced mid-combat, the Warden pauses for one round to assess.
+- *Imperfect Memory.* The spirit within the Warden retains fragments of its original mind. If the party pauses aggression and engages respectfully (Persuasion DC 13, automatic if Ixa is within 20 ft), the Warden halts for 1 minute to speak. It will not help anyone it believes intends to complete the ritual. If convinced the party is here to stop it: Persuasion DC 16 (DC 10 with Ixa), and it stands aside entirely.
+- *Recognize Kindred.* If Ixa approaches within 20 ft, the Warden pauses all hostility and addresses her as *"one of the children."* Automatic success on any Persuasion check while Ixa is present.
 
 **Actions**
-- *Multiattack.* Two Ritual Chain attacks.
-- *Ritual Chain.* *Melee Weapon Attack:* +7 to hit, reach 10 ft. *Hit:* 11 (2d6+4) bludgeoning. On hit, target makes DC 15 Strength save or is grappled (escape DC 15). While grappled on the bridge, target makes DC 12 Dexterity save at the start of each of its turns or is dragged 5 ft toward the edge.
-- *Ritual Lantern of Warding (3 charges).* Action. All creatures within 30 ft of the Guard make DC 14 Wisdom save or are frightened of the Guard for 1 minute (Constitution save DC 14 ends). 1 charge per use.
-
-**Bonus Action**
-- *Hurl.* When a creature is grappled by the Guard, attempt to throw them (Guard makes Athletics +7 vs. target's Athletics or Acrobatics). Success: target is thrown up to 10 ft. If thrown off the bridge: 2d6 bludgeoning from the fall into the cistern (5 ft of water, DC 12 Athletics to keep gear, action required to climb out).
+- *Multiattack.* Two Crushing Blow attacks.
+- *Crushing Blow.* *Melee Weapon Attack:* +8 to hit, reach 10 ft. *Hit:* 14 (2d8+5) bludgeoning. Target makes DC 15 Strength save or is pushed 5 ft toward the bridge edge and knocked prone.
+- *Warden's Pulse (Recharge 5–6).* The amber core releases a burst of grey-amber light. All creatures within 30 ft on the bridge make DC 14 Constitution save. Fail: 4d6 radiant damage and knocked prone. Success: half, not prone. Any prone creature on the bridge must immediately make DC 11 Dexterity save or slide 5 ft toward the edge.
 
 **Reactions**
-- *Set Against Charge.* When a creature moves 20+ ft before attacking the Guard, he makes one Ritual Chain attack against them before their attack resolves.
+- *Threshold Challenge.* When a creature crosses the bridge midpoint without authorization, the Warden makes one Crushing Blow against them as a reaction and the creature's movement stops for the turn.
 
-**Morale:** Surrenders below 20 HP if offered a non-lethal option. Gives 3 of 4 door runes (ᚺ ᚾ ᛊ) in exchange. Does not have ᚲ Kenaz — Maerin kept it deliberately.
+**What It Tells the Party (if cooperative):**
+- Full door sequence: *"Disruption. Need. Fire. Light. In the order we failed."* — ᚺ ᚾ ᚲ ᛊ
+- The warnings on this approach were removed. It is angry. It cannot leave the bridge.
+- If Ixa is present: the Plinth 3 (Eye ring) setting. The one most parties struggle with.
+- Its name: Tolvin Heuschel. Architect of the second attempt. Sealed himself here so the record would never be lost.
 
-**Loot:** Ritual Lantern of Warding (remaining charges; regains 1d3 at dawn; bright light 30 ft as free action), Ritual Chain (functions as +1 flail, reach 10 ft, grapple on hit; loses enchantment after 1 week outside ritual context), Chain Mail, Shield, 3d8 gp, Restorer Lieutenant Token (recognized by Restorer rank-and-file — useful in Sessions 2–3).
+**Morale:** Cannot be intimidated. Does not surrender. Steps aside willingly if convinced the party will stop the ritual (see Imperfect Memory trait).
+
+**Loot (if destroyed):** Amber Sentinel Core — a warm amber crystal extracted from the iron housing in the Warden's chest. Magical focus, 100 gp to a scholar or artificer. Faint inscription on the bridge stone beneath where it stood: TOLVIN HEUSCHEL — ARCHIT[ECT] — YEAR 43.
 
 ---
 
