@@ -1,38 +1,29 @@
-# Print Props — Session 0.5: The Bell Beneath the Dawnhall
+# Props & Handouts — Session 0.5
 
-::: {.callout-note}
-**To print:** Open this page in your browser, File → Print. Sidebar and navigation hide automatically. GM notes (amber boxes) are hidden when printing — they show only on screen. Cut props at dashed lines.
-:::
+*Click any item below to open it. Print individual props by opening them and using your browser's print function.*
 
----
+::: {.panel-tabset}
 
-## Technical Drawings
+## Maps & Drawings
 
----
-
-::: {.prop-handout .prop-card}
-#### Technical Drawing VLT-001 — Vault Door, Elevation View
-
-::: {.prop-gm-note}
-Give when party first reaches Phase 6. Hand out after the read-aloud.
-:::
+<details>
+<summary>Vault Door — Elevation View</summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  REF: VLT-001     VAULT DOOR — ELEVATION VIEW     SCALE: 1:25   ║
-║  Material: pre-Ritual cut stone. Age est. 260+ years.           ║
+║  Material: pre-Ritual cut stone. Age estimated 260+ years.      ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║      ┌─────────────────────────────────────────────────┐        ║
 ║      │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│        ║
 ║      │▓                                               ▓│        ║
-║      │▓   ᚠ   ᚢ   ᚦ   ᚨ   ᚱ  ⟦ᚲ⟧  ᚷ   ᚹ            ▓│        ║
-║      │▓ ᛟ                            ⟦ᚺ⟧             ▓│        ║
-║      │▓ ᛞ          ╭────────╮        ⟦ᚾ⟧             ▓│        ║
+║      │▓   ᚠ   ᚢ   ᚦ   ᚨ   ᚱ   ᚲ   ᚷ   ᚹ             ▓│        ║
+║      │▓ ᛟ                              ᚺ              ▓│        ║
+║      │▓ ᛞ          ╭────────╮          ᚾ              ▓│        ║
 ║      │▓ ᛜ          │   ✦    │          ᛁ              ▓│        ║
-║      │▓ ᛚ          │ (seal) │          ᛃ              ▓│        ║
-║      │▓             ╰────────╯                         ▓│        ║
-║      │▓   ᛗ   ᛖ   ᛒ   ᛏ  ⟦ᛊ⟧  ᛉ   ᛈ   ᛇ            ▓│        ║
+║      │▓ ᛚ          ╰────────╯          ᛃ              ▓│        ║
+║      │▓   ᛗ   ᛖ   ᛒ   ᛏ   ᛊ   ᛉ   ᛈ   ᛇ             ▓│        ║
 ║      │▓                                               ▓│        ║
 ║      │▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│        ║
 ║      │                                                 │        ║
@@ -44,22 +35,16 @@ Give when party first reaches Phase 6. Hand out after the read-aloud.
 ║      │  └─────────────────────────────────────────┘   │        ║
 ║      └─────────────────────────────────────────────────┘        ║
 ║                                                                  ║
-║  ⟦ ⟧ = Raised rune — proud of surface approx. 8mm, pressable    ║
-║    ✦  = Central blind seal — decorative only, cannot be pressed  ║
-║  Door: 240cm H × 120cm W × 40cm D (solid dressed stone)         ║
-║  All 24 Elder Futhark runes present. 4 are raised and operable.  ║
+║  All 24 Elder Futhark runes are present, arranged in a ring.    ║
+║  Door: 240cm H × 120cm W × 40cm D. No handle. No keyhole.      ║
+║  ✦ = central blind seal. Decorative only.                        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-:::
 
----
+</details>
 
-::: {.prop-handout .prop-card}
-#### Technical Drawing VLT-002 — Vault Floor Plan
-
-::: {.prop-gm-note}
-Give when party first enters the vault. Hand out after the read-aloud description.
-:::
+<details>
+<summary>Vault — Floor Plan</summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -72,9 +57,9 @@ Give when party first enters the vault. Hand out after the read-aloud descriptio
 ║  │  [V]                                                 │        ║
 ║  │   ↑                    ┌──────────────────┐          │        ║
 ║  │  VAULT         [P1]    │                  │  [P2]    │        ║
-║  │  ENTRY         BELL    │   WORKBENCH      │  CHAIN   │        ║
-║  │  (from         NW      │   (cover)        │  NE      │        ║
-║  │  bridge)               └──────────────────┘          │        ║
+║  │  ENTRY         ????    │   WORKBENCH      │  ????    │        ║
+║  │  (from bridge)         │   (cover)        │          │        ║
+║  │                        └──────────────────┘          │        ║
 ║  │                                                       │        ║
 ║  │                       ╔════════╗                      │        ║
 ║  │           ·  ·  ·  ·  ║        ║  ·  ·  ·  ·         │        ║
@@ -86,8 +71,8 @@ Give when party first enters the vault. Hand out after the read-aloud descriptio
 ║  │                                                       │        ║
 ║  │                ┌──────────────────┐                   │        ║
 ║  │  [P4]          │   WORKBENCH      │          [P3]     │        ║
-║  │  FLAME         │   (cover)        │          EYE      │        ║
-║  │  SW            └──────────────────┘          SE       │        ║
+║  │  ????          │   (cover)        │          ????     │        ║
+║  │                └──────────────────┘                   │        ║
 ║  │                                                        │        ║
 ║  │  [S1]          [S2]              [S3]                  │        ║
 ║  │  SEALED        SEALED            SEALED                │        ║
@@ -95,80 +80,61 @@ Give when party first enters the vault. Hand out after the read-aloud descriptio
 ║  └──────────────────────────────────────────────────────┘        ║
 ║  SOUTH                                                           ║
 ║                                                                  ║
-║  [V] Vault entry from bridge stairs (north wall, west side)      ║
-║  [A] Primer Anchor — ring of stone, 6ft diameter, waist height  ║
-║  [P1–P4] Calibration Plinths — each with two-layer dial          ║
-║  [S1–S3] Sealed alcoves — stone doors, no visible lock or hinge  ║
-║  ·  ·  ·  = Ritual chalk marks on floor (10ft radius from anchor)║
+║  [V]  Vault entry from bridge stairs (north wall, west side)     ║
+║  [A]  Primer Anchor — ring of stone, 6ft diameter, waist height  ║
+║  [P1–P4] Stone plinths, each bearing a carved symbol and a       ║
+║           two-layer rotating mechanism. Labels unknown.          ║
+║  [S1–S3] Sealed alcoves — stone doors, no visible mechanism      ║
+║  ·  ·  ·  = Ritual chalk marks (10ft radius from anchor)        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-:::
 
----
+</details>
 
-::: {.prop-handout .prop-card}
-#### Technical Drawing ANC-001 — Plinth Dial Mechanism, Side Section
-
-::: {.prop-gm-note}
-Give when party first successfully reads a plinth inscription. The bottom alignment table is the solution — only show if you want players to have it upfront; otherwise hand just the drawing and let them use the inscriptions to fill it in.
-:::
+<details>
+<summary>Plinth — Dial Mechanism (Side Section)</summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  REF: ANC-001   CALIBRATION PLINTH — SIDE SECTION   SCALE: 1:8  ║
-║  One of four identical mechanisms. Each bonded to one anchor ring║
+║  REF: ANC-001    CALIBRATION PLINTH — SIDE SECTION  SCALE: 1:8  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║                ┌──────────┐                                      ║
-║                │  CARVED  │  ← Symbol face (Bell / Chain /       ║
-║                │  SYMBOL  │    Eye / Flame — differs per plinth) ║
-║                │  FACE    │                                      ║
+║                │  CARVED  │  ← Symbol face — varies per plinth   ║
+║                │  SYMBOL  │                                      ║
 ║   ─────────────┤          ├───────── stone cap                   ║
 ║                │▓▓▓▓▓▓▓▓▓▓│                                      ║
-║  INNER RING →  │╔════════╗│  ← 4 runes. Rotates independently.  ║
-║  (Top layer)   │║  rune  ║│    Align to correct rune, hold.     ║
+║  INNER RING →  │╔════════╗│  4 runes. Rotates independently.    ║
+║  (Top layer)   │║        ║│  Turn until correct rune aligns.    ║
 ║                │╚════════╝│                                      ║
-║  OUTER RING →  │╔════════╗│  ← 8 runes. Second adjustment.      ║
-║  (Bot. layer)  │║  rune  ║│    Set after inner ring.            ║
+║  OUTER RING →  │╔════════╗│  8 runes. Second adjustment.        ║
+║  (Bot. layer)  │║        ║│  Set after inner ring.              ║
 ║                │╚════════╝│                                      ║
 ║                │▓▓▓▓▓▓▓▓▓▓│                                      ║
-║   ─────────────┤          ├───────── waist-height base           ║
-║                │░░░░░░░░░░│                                      ║
+║   ─────────────┤          ├───────── waist-height                ║
 ║                │░ PLINTH  │                                      ║
 ║                │░░ BODY ░░│                                      ║
 ║                └──────────┘                                      ║
 ║                                                                  ║
-║  CORRECT alignment: both rings warm to the touch.               ║
-║  WRONG alignment:   rings remain cold. No damage. Try again.    ║
+║  OPERATION: Set inner ring. Set outer ring.                      ║
+║  Correct alignment: mechanism warms noticeably.                  ║
+║  Wrong alignment: stays cold. No damage. Try again.             ║
 ║                                                                  ║
-║  ALIGNMENT TABLE (complete when all four plinths are read):     ║
-║  ┌────────┬────────────────────┬───────────────────────┐        ║
-║  │  Ring  │  Inner (top)       │  Outer (bottom)       │        ║
-║  ├────────┼────────────────────┼───────────────────────┤        ║
-║  │  Bell  │  _______________   │  _______________       │        ║
-║  │  Chain │  _______________   │  _______________       │        ║
-║  │  Eye   │  _______________   │  _______________       │        ║
-║  │  Flame │  _______________   │  _______________       │        ║
-║  └────────┴────────────────────┴───────────────────────┘        ║
+║  Each plinth carries an inscription that describes its setting.  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-:::
 
----
+</details>
 
-::: {.prop-handout .prop-card}
-#### Technical Drawing MAP-001 — Approach Map, Phases 2–5
-
-::: {.prop-gm-note}
-Give when party enters the Dawnhall interior (Phase 2). This shows the route down — not the vault layout, which they haven't seen yet.
-:::
+<details>
+<summary>Approach Map — Lower Levels</summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  REF: MAP-001    DAWNHALL LOWMARK — LOWER LEVELS    SCALE: 1:75  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  GROUND FLOOR (above this map)                                   ║
+║  GROUND FLOOR (above)                                            ║
 ║  ╔══════════════════════════════════════════╗                    ║
 ║  ║  [FOOD]  [SICKROOM]  [NOTICE]  [BERRIC]  ║                    ║
 ║  ║                  [HATCH ↓]               ║                    ║
@@ -177,41 +143,35 @@ Give when party enters the Dawnhall interior (Phase 2). This shows the route dow
 ║  ┌─────────────────────┴─────────────────────┐ UPPER BASEMENT   ║
 ║  │  [SHELVES]              [PIPE SYSTEMS]     │                  ║
 ║  │                                            │                  ║
-║  │   [RESTORER     · ᚾ · ᛊ ·  CHALK MARKS]  │                  ║
-║  │   CACHE SW]                                │                  ║
+║  │   [CRATE SW]    · chalk marks ·            │                  ║
+║  │                                            │                  ║
 ║  │                        [REINFORCED DOOR →] │──────────────→  ║
 ║  └────────────────────────────────────────────┘                  ║
 ║                                 │ stairs                         ║
-║  ┌──────────┐  TRAPPED STAIRCASE (single file)                   ║
+║  ┌──────────┐  STAIRCASE (narrow, single file)                   ║
 ║  │  step 1  │                                                    ║
 ║  │  step 2  │                                                    ║
-║  │ ⚠ step 3 │ ← alarm glyph (DC 14 Perception / DC 12 Arcana)   ║
+║  │  step 3  │                                                    ║
 ║  │  step 4  │                                                    ║
 ║  └────┬─────┘                                                    ║
 ║       │ landing                                                  ║
 ║  ┌────┴────────────────────────────────────────────┬──────┐      ║
-║  │[LAND-│≈≈≈≈≈≈≈≈ BRIDGE  (4ft wide / 40ft long) ≈│GUARD │→DOOR║
+║  │[LAND-│≈≈≈≈≈≈≈≈ BRIDGE  (4ft wide / 40ft long) ≈│      │→DOOR║
 ║  │ ING] │        20ft drop to cistern below         │      │     ║
 ║  └──────┴─────────────────────────────────────────┴──────┘      ║
 ║                                                                  ║
-║  ⚠ = alarm glyph. Triggered: 2d6 radiant + alerts bridge guard  ║
-║  ≈  = bridge surface (narrow — single file, no flanking)         ║
+║  ≈  = bridge surface. 4ft wide. Single file. No railing.        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-:::
+
+</details>
 
 ---
 
-## Player Handouts — Documents
+## Documents
 
----
-
-::: {.prop-handout .prop-card}
-#### Sera Voss's Letter
-
-::: {.prop-gm-note}
-Give to Pel's player at session start. It is already in his pocket — he has had it six weeks.
-:::
+<details>
+<summary>Sera Voss — Personal Letter</summary>
 
 Something is happening in Varenhold and I do not feel safe writing it plainly.
 
@@ -233,16 +193,10 @@ I have been down. I have seen something. I do not know what it is. I think I kno
 I am afraid of what that means.
 :::
 
-:::
+</details>
 
-<hr class="prop-cut-line">
-
-::: {.prop-handout .prop-card}
-#### The Dawnhall Ledger
-
-::: {.prop-gm-note}
-Give when Investigation DC 14 passed in Phase 2. Pel can connect the date to Sera's letter immediately — no prompt needed.
-:::
+<details>
+<summary>Dawnhall Maintenance Ledger</summary>
 
 **DAWNHALL — CRESTWICK LANE, LOWMARK**
 **MAINTENANCE AND ACCESS RECORD**
@@ -262,19 +216,10 @@ Date          Entry                              Auth.
 [3 wks ago]   Lantern oil, east wall, 3 units    B.H.
 ```
 
-::: {.prop-gm-note}
-The ░░░░ block is the anomalous Spire-hand entry — no name, no countersignature. Berric initialled all other entries. This one he did not write and did not challenge. If Pel makes an Insight check DC 11: Berric looked the other way because the record looked too official to question.
-:::
-:::
+</details>
 
-<hr class="prop-cut-line">
-
-::: {.prop-handout .prop-card}
-#### Restorer Supply Note
-
-::: {.prop-gm-note}
-Give when Arcana or Investigation DC 13 passed on the supply cache in Phase 3 upper basement. Hand the encoded version first. The decode key is on the same card — they have to earn finding it by examining the note closely (Religion DC 10 to notice the pattern, or 10 minutes of study).
-:::
+<details>
+<summary>Restorer Supply Note (Coded)</summary>
 
 *Found folded in a supply crate.*
 
@@ -288,124 +233,96 @@ DW WKH EXWWRQ ODQH ZHOO.
 ```
 
 ::: {.prop-alt-ink}
-*Key (written in pencil on the back, faint):*
+*Written in pencil on the back, faint:*
+
 SHIFT — THREE
 :::
 
-::: {.prop-gm-note}
-Decoded: "Three nights. If no word by dawn — and there is no dawn — pull back. The sequence is confirmed. The Saint has what she needs. Do not come down. If she sends word, meet at the Button Lane well. — C." Caesar cipher, shift 3 back. "C" is an unknown contact, not Maerin.
-:::
-:::
+</details>
 
-<hr class="prop-cut-line">
-
-::: {.prop-handout .prop-card}
-#### The Vault Sealing Document
-
-::: {.prop-gm-note}
-Give if Investigation DC 16 passed searching vault workbenches. The four rune names (Hagalaz, Nauthiz, Kenaz, Sowilo) are in the text — smart players extract the door sequence from it. The three partial signatures contain campaign threads (V. = Voss family connection; E. = Edoran thread).
-:::
+<details>
+<summary>Vault Sealing Document</summary>
 
 **DOCUMENT OF FORMAL SEALING**
 **Second Restoration Attempt — Final Record**
 
 We seal this vault as a record, not in shame.
 
-The order of our understanding is as follows:
+When the first ritual failed, it did not fail because the goal was wrong. It failed because the method was wrong, and because those who attempted it did not fully understand their own failure. We have spent twenty years understanding it.
 
-First: the disruption that began everything — the failure of the original ritual, the breaking of the natural cycle. We honour the courage of those who tried and name their error honestly. *Hagalaz. The hailstorm that cannot be recalled.*
+The nature of that failure is encoded in the door of this vault. We did not build a lock. We built a lesson. The door asks only that the one who opens it has understood what we understood, in the order in which we came to understand it.
 
-Second: the necessity that drove us here — the need of a people without their sun, the need of a city that built a thousand lanterns to replace one star. *Nauthiz. The need that cannot be ignored.*
+We began where all honest inquiry begins: with the storm that cannot be recalled, the disruption that made everything else necessary. Without acknowledging that — truly, not performatively — nothing that follows has meaning.
 
-Third: the correction we attempted. We believed we had identified the calibration error. We had. Our method was sound. Our application was wrong. The controlled flame was applied with too much force and too little patience. *Kenaz. The smith's fire, mishandled.*
+From that acknowledgment came the necessity that drove the second attempt: the need of a city without its sun, the need we could not set aside regardless of the risk. We did not pretend we were not desperate. Desperation honestly named is the only kind that can be worked with.
 
-Fourth: the goal that remains unreached. *Sowilo. The sun that waits.*
+The correction we devised was sound. The controlled flame of a smith who knows his metal — measured, sustained, patient. That is what the third mark asks for. We did not provide it with sufficient patience. That error is documented elsewhere in this vault.
 
-Let the one who opens this door know the order in which we understood our failure. It is the same order in which this door must be opened.
+The fourth mark is the goal we did not reach. We name it anyway. A claim made before the work is finished is not a lie. It is an intention.
+
+*Let whoever opens this door have read the walls.*
 
 *Signed: V. ——————   M. ——————   E. ——————*
-*(three signatures, names partially worn away)*
-:::
 
-<hr class="prop-cut-line">
+</details>
 
-::: {.prop-handout .prop-card}
-#### Calibration Manual Excerpt
+<details>
+<summary>Calibration Manual — Excerpt</summary>
 
-::: {.prop-gm-note}
-Give if Investigation DC 14 passed on vault workbenches. All four dial settings are in the text as paired rune names. The margin notes are part of the original document — read them aloud or let players find them.
-:::
+**PRIMER ANCHOR — CALIBRATION NOTES**
+*Working document, Second Attempt*
 
-**PRIMER ANCHOR — CALIBRATION GUIDE**
-*Operational notes, Second Attempt Working Group*
+The four plinths each house a two-layer adjustment mechanism. Both layers must align before the ring will accept stabilization.
 
-The four plinths each house a two-layer dial. Inner ring and outer ring must both be correctly aligned before stabilization can succeed.
+The inscriptions on each plinth describe the correct alignment. They are not metaphorical. They name the pairing directly, in the form of a relationship between two forces. Read them as equations.
 
-**Ring One — The Bell**
-Align the inner ring to *Mannaz* (Man) and the outer ring to *Ansuz* (God). The bell speaks when the hand of man carries the word of god.
+Each ring has a dominant force and a receiving force. The inner ring (smaller, top layer) carries the active element. The outer ring (larger, bottom layer) carries the purpose to which that force is directed.
 
-**Ring Two — The Chain**
-Align the inner ring to *Nauthiz* (Need) and the outer ring to *Jera* (Harvest, the turning year). The chain holds when necessity grasps the turning year.
+The bell sounds because a human hand is the instrument of a divine message. The chain holds because an immediate need is bound to the patience of seasons. The eye opens because trust between partners reveals what is hidden. The flame reaches its destination because a disruptive force has been given a singular direction.
 
-**Ring Three — The Eye**
-Align the inner ring to *Ehwaz* (Horse, trust) and the outer ring to *Perthro* (the Dice Cup, the hidden). The eye sees when trust opens what is hidden.
-
-**Ring Four — The Flame**
-Align the inner ring to *Thurisaz* (Giant, directed force) and the outer ring to *Sowilo* (Sun). The flame arrives when the giant force is pointed at the sun.
+These are not riddles. They are descriptions of what each ring is doing when it functions correctly. The runes that satisfy those descriptions are the correct settings.
 
 ::: {.prop-alt-ink}
-*Margin — Ring Three took us four attempts. Ehwaz is easily confused with Raidho. They are not the same. Ehwaz is partnership and trust. Raidho is travel and journey. The Eye cares about trust, not movement.*
+*Margin note, different hand:*
 
-*Margin — Ring Four: once Thurisaz and Sowilo align, make the check immediately. The Flame ring does not wait.*
-:::
-:::
+Ring Three. Ehwaz, not Raidho. Partnership and trust, not travel and journey. The Eye cares how you move toward something, not that you move. If the ring stays cold and you believe you have it right, you have Raidho. Try again with Ehwaz.
 
-<hr class="prop-cut-line">
-
-::: {.prop-handout .prop-card}
-#### Makers' Failure Analysis
-
-::: {.prop-gm-note}
-Give if History DC 14 passed examining the vault east wall. This is carved directly into the stone. Kenaz is named explicitly as the point of failure — and the solution ("hold it steady, do not rush") is given. Smart players who have this AND the Sealing Document have everything they need.
+Ring Four: once both runes align, make your check immediately. The Flame ring does not wait.
 :::
 
-**POST-ATTEMPT ANALYSIS — FOR WHOEVER COMES NEXT**
+</details>
+
+<details>
+<summary>Makers' Failure Analysis</summary>
+
+**FOR WHOEVER COMES NEXT**
 
 We are writing this quickly. The vault must be sealed before morning.
 
 The second attempt failed. We know why.
 
-**The failure was Kenaz.**
+**The failure was the third mark.**
 
-We understood the sequence correctly. Hagalaz, Nauthiz, Kenaz, Sowilo. This is right. We are confident in this.
+We understood the sequence correctly. We are confident in that. The error was not in what we knew but in how we used what we knew.
 
-The error was in how we used the third mark.
+The third mark governs controlled fire — the smith's flame, not the bonfire. It requires patience. A sustained, deliberate, measured burn. We pressed it too hard and too fast. We were certain we understood it. Certainty and patience are not the same thing. The ring amplified our urgency instead of our intention. The anchor overloaded.
 
-Kenaz is the controlled flame — the smith's fire, the torch held steady. It requires patience. A sustained, deliberate burn. We pressed Ring Three too hard and too fast. The Flame ring amplifies directed force toward the goal; it cannot handle an uncontrolled ignition. What should have been a correction became a surge. The anchor overloaded.
+The sequence is right. The calibration method is right. The correction is in the application.
 
-The sequence is not wrong. The calibration method is not wrong. The correction is in the application of the third step.
+Hold the third mark steady. Do not rush it. It is the one that fails people who believe they understand it.
 
-Hold Kenaz steady. Do not rush it. The third ring is the one that fails people who believe they understand it. Understanding is not enough. Patience with it is the requirement.
-
-The third attempt will succeed. We will not be alive to make it.
-
-Do not repeat our error with the sequence. Do not rush the sun.
+The third attempt will succeed. We will not be alive to make it. Whoever reads this: you have what we could not provide — knowledge of two failures instead of one. Use it.
 
 ::: {.prop-alt-ink}
-*Below, crowded into the corner as if added in the last minutes before sealing:*
+*Crowded into the corner, last entry before sealing:*
 
-The sealed alcoves contain what we could not bring ourselves to destroy. If you find them: be careful. They are not dangerous. They are sad.
+The sealed alcoves contain what we could not bring ourselves to destroy. Be careful with them. They are not dangerous. They are sad.
 :::
-:::
 
-<hr class="prop-cut-line">
+</details>
 
-::: {.prop-handout .prop-card}
-#### A Page from Maerin's Codex
-
-::: {.prop-gm-note}
-Give when Codex examined after combat or surrender. This is the first page — personal, passionate, and contains her growing doubt about the source of the letter. The doubt at the bottom is a thread.
-:::
+<details>
+<summary>Page from Maerin's Codex</summary>
 
 **MY RECORD OF THE SECOND ATTEMPT SITE**
 
@@ -424,20 +341,15 @@ I chose not to investigate the source. The work felt more important than the que
 ::: {.prop-alt-ink}
 *I should have investigated the source.*
 
-*I know that now. Someone gave me exactly what I needed to do exactly what they wanted me to do. I have been thinking about what that means since the party came down the stairs.*
+*Someone gave me exactly what I needed to do exactly what they wanted me to do. I have been thinking about what that means since the party came down the stairs.*
 
 *If I was used — what was I used for?*
 :::
-:::
 
-<hr class="prop-cut-line">
+</details>
 
-::: {.prop-handout .prop-card}
-#### The Letter Without a Sender
-
-::: {.prop-gm-note}
-Give when Codex fully examined (second page, folded inside back cover). The Spire administrative language connects to the ledger entry (same hand). The initial "E or T" points toward Edoran or Theron Waide — leave it ambiguous for now. "Tier 4 restriction" is meaningful context for Session 1's archive investigation.
-:::
+<details>
+<summary>The Letter Without a Sender</summary>
 
 The records I provide have been held under Tier 4 archive restriction for fifty-one years. They were not destroyed during the consolidation — only sealed. The door sequence encoded in the vault's own stone was not as obscured as the makers believed.
 
@@ -445,7 +357,7 @@ The floor plan was recovered from a civic survey conducted during the original c
 
 I provide these materials because the makers' work was correct and their failure was recoverable. What they built should not remain sealed. The city has waited long enough.
 
-I ask only that the work proceed without interference. The sequence is: Hagalaz, Nauthiz, Kenaz, Sowilo — in that order. The calibration manual is complete. The rest is execution.
+I ask only that the work proceed without interference. The sequence is encoded in the door itself and in the Sealing Document. The calibration manual is complete. The rest is execution.
 
 Do not attempt to find me.
 
@@ -454,26 +366,21 @@ Do not attempt to find me.
 ::: {.prop-alt-ink}
 *Maerin's handwriting, back of the page:*
 
-Tier 4. Civic survey archives. Spire administrative script. Deep access. Operational resources in the Lowmark. I chose not to ask. I am no longer certain that was wisdom.
-:::
+Tier 4. Civic survey archives. Spire administrative script. Deep access. Operational reach in the Lowmark. I chose not to ask. I am no longer certain that was wisdom.
 :::
 
-<hr class="prop-cut-line">
+</details>
 
-::: {.prop-handout .prop-card}
-#### Bridge Guard's Written Orders
-
-::: {.prop-gm-note}
-Give if Guard captured and searched. The note confirms he doesn't have the fourth rune — and that even within the Restorers, Maerin kept it to herself. Players who wonder why the Guard "betrays" three runes will understand: he literally cannot give them the fourth.
-:::
+<details>
+<summary>Bridge Guard's Written Orders</summary>
 
 You are holding the crossing. No one passes to the door.
 
-If they are armed and look capable: delay them. Talk. You have three of the four door marks. Do not give them all three at once. Do not give them the third mark freely — make them earn it. The Saint keeps the fourth herself and there is a reason for that.
+If they are armed and look capable: delay them. Talk. You have three of the four door marks. Do not give them freely. Make them earn it. The Saint keeps the fourth herself and there is a reason for that.
 
 If they take you down, you have done your job. The Saint will have enough time.
 
-You were not told the fourth mark because we do not have it. The Saint derived it herself from the vault wall on her first entry. She has not shared it with anyone. I trust her judgement.
+You were not told the fourth mark because we do not have it. The Saint derived it herself from the vault wall on her first entry. She has not shared it with anyone.
 
 Hold the bridge. That is the whole job.
 
@@ -484,16 +391,11 @@ I don't actually know what they're doing down there. I was told it was important
 
 I hope it is.
 :::
-:::
 
-<hr class="prop-cut-line">
+</details>
 
-::: {.prop-handout .prop-card}
-#### Dr. Ilya Ren — Case Notes
-
-::: {.prop-gm-note}
-Give if Medicine DC 11 passed, or if a player directly asks Ilya about her patients (she shouts from upstairs). The final paragraph explicitly connects the anchor to patient deterioration — useful pressure on the party to act.
-:::
+<details>
+<summary>Dr. Ilya Ren — Case Notes</summary>
 
 **LOWMARK DAWNHALL — PATIENT NOTES**
 
@@ -503,29 +405,22 @@ Grey sickness cases have worsened approximately 30% above baseline in 72 hours. 
 
 **Case 7-M** (man, 60s, stable for four months): now deteriorating. Asked if anything had changed. He said the light in the building felt wrong. Warmer than usual but hollow.
 
-The amber lanterns have a grey edge that amber lanterns should not have. I have noticed it since yesterday. I do not know what is causing it.
+The amber lanterns have a grey edge that amber lanterns should not have. I have noticed it since yesterday.
 
 I was told there is a ceremony in the basement and to leave it alone. The access record looked official. I respected that.
 
 I am no longer comfortable with that decision.
 
 ::: {.prop-alt-ink}
-*Cramped addition, recent ink:*
-
 Whatever is below this floor is running the lantern mechanism in reverse. The Dawnhall lanterns slow grey sickness progression. Something down there is accelerating it. If it does not stop tonight, Case 14 crosses Stage 2 by morning. I have nothing left to give her after that.
 
 Someone stop the pulse. I do not care how.
 :::
-:::
 
-<hr class="prop-cut-line">
+</details>
 
-::: {.prop-handout .prop-card}
-#### Restorer Street Pamphlet
-
-::: {.prop-gm-note}
-Found on scouts if searched (one copy each). Players may also find these posted around the Lowmark. This is public-facing Restorer propaganda — no secrets, just tone and motivation. Useful for understanding why desperate locals are down in the vault.
-:::
+<details>
+<summary>Restorer Street Pamphlet</summary>
 
 **THE DAWN IS NOT GONE. IT IS WAITING.**
 
@@ -549,20 +444,144 @@ We are proof that this city has not stopped trying to end it.
 **RESTORERS — LOWMARK CHAPTER**
 
 *Dawn returns when we stop accepting the dark as permanent.*
-:::
+
+</details>
 
 ---
 
-## Special Cards
+## Item Cards
+
+<details>
+<summary>Flash Vial</summary>
+
+**FLASH VIAL**
+*Consumable — thrown weapon*
+
+Thrown, range 20/40 ft. No attack roll required.
+
+All creatures within **5 ft of the impact point** make a **DC 12 Constitution save** or are **blinded until end of their next turn**.
+
+*A sealed vial of amber-resin compound. Shatters on impact and releases a burst of concentrated light.*
+
+</details>
+
+<details>
+<summary>Ritual Lantern of Warding</summary>
+
+**RITUAL LANTERN OF WARDING**
+*Wondrous Item*
+
+**Charges:** ☐ ☐ ☐ *(regain 1d3 at dawn)*
+
+**Action — 1 charge:** All creatures within 30 ft make **DC 14 Wisdom save** or are **frightened of the bearer for 1 minute** (Constitution save DC 14 ends on each of their turns).
+
+**Free action:** Bright light 30 ft, dim light 60 ft.
+
+*An iron lantern wrapped in ritual cord. The flame inside burns amber even in complete darkness.*
+
+</details>
+
+<details>
+<summary>Ritual Chain (+1 Flail)</summary>
+
+**RITUAL CHAIN**
+*Weapon — +1 Flail*
+
+**+7 to hit** | **Reach 10 ft** | **2d6+5 bludgeoning**
+
+On hit: target makes **DC 15 Strength save** or is **grappled** (escape DC 15).
+
+While grappled near a ledge or drop: **DC 12 Dexterity save** at start of each turn or dragged 5 ft toward the edge.
+
+*The enchantment fades after one week outside ritual context.*
+
+</details>
+
+<details>
+<summary>Primer Lantern</summary>
+
+**PRIMER LANTERN**
+*Wondrous Item (rare)*
+
+**Charges:** ☐ ☐ ☐ ☐ ☐ *(regain 1d3 at dawn)*
+
+**Attack — 1 charge:** +7 to hit, range 30 ft. Hit: **2d8 radiant**. Target makes **DC 15 Constitution save** or **blinded until end of its next turn**.
+
+**Daylight — 2 charges:** Cast *daylight* as an action.
+
+**Free action:** Bright light 30 ft, dim light 60 ft.
+
+*A lantern of worked bronze and amber glass. The flame responds to intent.*
+
+</details>
+
+<details>
+<summary>Charged Amber Shard ×4</summary>
+
+**CHARGED AMBER SHARD**
+*Consumable thrown weapon — 4 total*
+
+**+5 to hit** | Range 20/40 ft (thrown) | **1d8 radiant**
+
+Charged for **1 hour** after combat ends. After 1 hour: inert stone, deals 1d4 bludgeoning only.
+
+*Fragments of amber supersaturated with anchor energy. The glow fades as the charge bleeds out.*
+
+</details>
+
+<details>
+<summary>Restorer Sash</summary>
+
+**RESTORER SASH**
+*Wondrous Item (social)*
+
+While wearing this sash visibly:
+
+- **Advantage** on Persuasion checks with Restorer-sympathetic Lowmark residents.
+- **Disadvantage** on Deception checks when lying to those same people.
+
+*Deep red cloth with an amber-thread sunrise pattern. Unmistakable.*
+
+</details>
+
+<details>
+<summary>Restorer Lieutenant Token</summary>
+
+**RESTORER LIEUTENANT TOKEN**
+*Social item*
+
+A small carved bone disc stamped with a stylised lantern. Recognised by Restorer rank-and-file as a sign of authority within the movement.
+
+Opens faction dialogue with Restorers who would otherwise be hostile.
+
+Does **not** work on Restorer leadership — they know who holds a lieutenant rank.
+
+</details>
+
+<details>
+<summary>Restorer Codex</summary>
+
+**RESTORER CODEX**
+*Plot item — Maerin's hand-bound journal*
+
+Contains:
+
+- The history of the second ritual attempt as Maerin understood it
+- Three scholar names — the makers, still living
+- A partial map of anchor network sites across Varenhold
+- The door sequence and method she was given, with her own annotations
+- Her growing doubt, written in the margins, about who actually sent her the materials
+
+*Critical evidence. Multiple factions will want this. The Restorers will want it back.*
+
+</details>
 
 ---
 
-::: {.prop-handout .prop-card}
-#### Ixa's Memory Fragment
+## Special
 
-::: {.prop-gm-note}
-Pass face-down to Ixa's player only when she comes within 10ft of the vault door. Say: "Something happens — read this privately first." Other players should not see this. On Wisdom DC 15 FAIL: she receives all four fragments and is stunned until end of next turn. On SUCCESS: she receives one fragment of her choice and remains functional. Either way, she does not have to explain what she experienced.
-:::
+<details>
+<summary>Ixa — Memory Fragment [Ixa's player only]</summary>
 
 *When you come close to the door, something happens behind your eyes.*
 
@@ -576,19 +595,19 @@ You have seen these marks before. Not this door. Different stone, different room
 
 ---
 
-**Fragment Two — The Sequence**
+**Fragment Two — A Voice**
 
-A voice — not a memory of one, but the voice itself, clear as if spoken behind you. It says two things.
+A voice — not a memory of one, but the voice itself, clear as if spoken behind you.
 
-*"Hagalaz first. You acknowledge the failure before you claim the goal."*
+*"Acknowledge the failure before you claim the goal. The storm that cannot be recalled must be named first."*
 
-Then: *"Kenaz is the one that requires patience. Do not let them rush the third mark."*
+Then, quieter: *"The third mark is the one that requires patience. Do not rush it. Patience with it is the requirement."*
 
 ---
 
 **Fragment Three — The Hands**
 
-Hands adjusting calibration rings — two layers, exactly like the plinths inside. The hands are not yours. But you are present, nearby, aware of everything. The setting being adjusted: inner ring aligned to the rune that means Horse, outer ring to the rune that means the hidden Cup.
+Hands adjusting calibration rings — two layers, exactly like the mechanisms in the room beyond the door. The hands are not yours. But you are present, nearby, aware of everything. You cannot see what runes are being set. You can feel that it is being done with great care.
 
 ---
 
@@ -602,64 +621,54 @@ You are certain you should.
 
 ---
 
-*When the fragments pass: your hands are shaking slightly. You do not have to tell the others what you saw. You do not have to explain why this door felt like it knew you.*
+*When the fragments pass: your hands are shaking slightly. You do not have to tell the others what you saw.*
 
-*It did.*
-:::
+</details>
 
-<hr class="prop-cut-line">
-
-::: {.prop-handout .prop-card}
-#### Grey Sickness Reference
-
-::: {.prop-gm-note}
-Give to any player with Medicine proficiency, Healer background, or a healing class at session start. This is the medical context card — not a mystery, just information they would professionally know.
-:::
+<details>
+<summary>Grey Sickness — Clinical Reference</summary>
 
 **GREY SICKNESS — CLINICAL STAGES**
 *Healers' Guild Standard Reference*
 
 **Stage One** — most Lowmark residents
-Cold sensitivity. Fatigue. Slow healing. Minor light sensitivity. Manageable with warmth, amber-lantern exposure, regular medicines. Progression: months to years without intervention.
+Cold sensitivity. Fatigue. Slow healing. Minor light sensitivity. Manageable with warmth, amber-lantern exposure, regular medicines. Progression: months to years.
 
 **Stage Two** — approx. 10–15% of Lowmark population
-Visible grey-blue discolouration of extremities. Disrupted sleep. Moderate light sensitivity. Reduced stamina. The Dawnhall lanterns actively slow progression. Removal from lantern warmth for 48+ hours produces measurable deterioration.
+Visible grey-blue discolouration of extremities. Disrupted sleep. Moderate light sensitivity. Reduced stamina. The Dawnhall lanterns actively slow progression. Removal from lantern warmth for 48+ hours: measurable deterioration.
 
 **Stage Three** — rare, not typically survivable
-Full extremity discolouration. Inability to tolerate magical light. Organ involvement. Requires Tier 3+ healing or Restoration-adjacent intervention.
+Full extremity discolouration. Inability to tolerate magical light. Organ involvement. Requires Tier 3+ healing or direct Restoration-adjacent intervention.
 
 ---
 
-**What the Dawnhall lanterns do:** Amber-frequency light at sustained exposure stabilises Stage 1–2 progression at a cellular level. The mechanism is not fully understood. The effect is documented. The lanterns are not charity. They are medicine.
+**What the Dawnhall lanterns do:** Amber-frequency light at sustained exposure stabilises Stage 1–2 progression. The mechanism is not fully understood. The effect is documented. The lanterns are not charity. They are medicine.
 
-**What is happening to patients tonight:** Something below this building is running the mechanism in reverse — accelerating Stage 1 into Stage 2 in days instead of months. At least three current patients will cross the Stage 2 threshold by morning if the source is not stopped.
-:::
+</details>
 
-<hr class="prop-cut-line">
+<details>
+<summary>Calibration Dial — Tracker</summary>
 
-::: {.prop-handout .prop-card}
-#### Calibration Dial — Player Reference
+**PRIMER ANCHOR — CALIBRATION TRACKER**
 
-::: {.prop-gm-note}
-Give when the first plinth inscription is found. This is a player aid — not in-world text. It tracks the four settings as players discover them from the plinth inscriptions. The table starts blank; players fill it in.
-:::
+*Set the physical dial to the correct alignment for each ring. Wrong: stays cold, no damage. Correct: warms. Then make a skill check (DC 14).*
 
-**PRIMER ANCHOR — CALIBRATION REFERENCE**
+| Ring | Symbol | Inner Ring | Outer Ring | Calibrated |
+|:----:|:------:|:----------:|:----------:|:----------:|
+| 1 | ? | | | ☐ |
+| 2 | ? | | | ☐ |
+| 3 | ? | | | ☐ |
+| 4 | ? | | | ☐ |
 
-*One physical dial, two layers, four settings — one per plinth. Find each plinth inscription to confirm each setting. Wrong: ring stays cold (no damage). Correct: ring warms. Then make a skill check (DC 14).*
+*Fill in ring symbols and rune settings as you discover them from each plinth.*
 
-| Ring | Symbol | Inner Ring (top) | Outer Ring (bottom) |
-|:----:|:------:|:----------------:|:-------------------:|
-| 1 | Bell | | |
-| 2 | Chain | | |
-| 3 | Eye | | |
-| 4 | Flame | | |
-
-*Stabilization check — any skill, one per attempt:*
+**Stabilization check (any skill):**
 Arcana · Religion · Investigation · Sleight of Hand · Athletics
 
 Fail: 1d6 radiant to acting character. DC rises to 16 until end of next turn.
-Success: ring bonded. Anchor pulse weakens. Echo at that plinth fades.
 
-*All four rings calibrated: anchor stabilises. All Echoes vanish. The fight ends.*
+*All four rings calibrated: anchor stabilises. The fight ends.*
+
+</details>
+
 :::
