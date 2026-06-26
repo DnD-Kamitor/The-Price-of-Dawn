@@ -717,7 +717,7 @@ Lira has decided. She has been willing for six months. Like Sera, she hasn't sai
 
 **Release threshold:** After players have confronted Edoran about the full cost of the ritual and he has told them what he knows. Theron provides the journal after Edoran leaves the room.
 
-> *Year 44 of the Twilight — One year after Annem died*
+> *Year 45 of the Twilight — One year after Annem died*
 >
 > She was seventeen. She had the grey sickness since she was eleven. Six years.
 >
@@ -913,7 +913,7 @@ This is the Chancellor's character. She carries her own version of the same unce
 >
 > I know you're dead. I know this is not a letter that will be read. I am writing it anyway because I have been having this conversation with you in my head for ten years and it seems like I should just say it.
 >
-> My daughter is five years old. Her name is Annem. She has the grey sickness already — Stage 1, early, the healer says probably manageable. She is five years old.
+> My daughter is eight years old. Her name is Annem. She has the grey sickness already — Stage 1, early, the healer says probably manageable. She is eight years old.
 >
 > I want to ask you: did you know? When you ran your calculations, did the model show you what would happen? Did you see the biological substrate problem and proceed anyway? Or were you genuinely surprised, at the end?
 >
@@ -1128,9 +1128,9 @@ This is the most player-safe document in the campaign. It can be handed over any
 
 This is the most complete correct statement of the ritual's mechanism in the campaign. The Clans understand it as a void; the Spire understands it as a stored charge. Both descriptions have truth. The Clans are closer to the real mechanism.
 
-**"They are the path. They are not the cost."** This is the Clans' reading of what the inversion ritual means for the Dawnborn. They believe the Dawnborn survive — that they are the medium through which the light passes, not the fuel. This reading is *almost* correct. The Spire's model and Tomas's calculations suggest the Dawnborn survive the inversion as ordinary people, their Lux energy released.
+**"They are the path. They are not the cost."** This is the Clans' reading of what the inversion ritual means for the Dawnborn. They believe the Dawnborn survive — that they are the medium through which the light passes, not the fuel. This reading captures something true: the Dawnborn must choose this. Consent is what makes the inversion possible. In that sense, they are path. But the Clans are wrong that they survive — the inversion extinguishes the Dawnborn just as the destructive path does. The difference is that the inversion is the Dawnborn's own choice, and the energy goes where it was always meant to go. The Spire's model and Tomas's calculations have reached the same mistaken conclusion as the Clans: that willing participation means survival. It does not.
 
-When players hear this, they should feel they've learned something the Spire missed — and that the question of whether the Dawnborn are cost or path is exactly the moral question the campaign is asking.
+When players hear this, they should feel they've learned something the Spire missed — and then, at Session 5, learn that even the Clans' beautiful framing concealed the full price. The question is not whether the Dawnborn are cost or path. The answer is: both.
 
 </details>
 

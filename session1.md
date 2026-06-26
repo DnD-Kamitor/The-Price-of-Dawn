@@ -26,6 +26,21 @@
 
 ---
 
+## Campaign Structure: Levels and Progression
+
+**Starting level:** Player characters begin at **Level 4.** Subclass features fully active; gestalt characters have two complete class identities from session one.
+
+**Leveling milestones (one level per session):**
+- **End of Session 1 → Level 5.** The cost has been hinted at, the city's decay is real, the players have made their first choices. Extra Attack and 3rd-level spells come online for Session 2.
+- **End of Session 2 → Level 6.** The ritual's true cost has landed. Players carry the knowledge and the weight. Subclass capstones arrive.
+- **End of Session 3 → Level 7.** Three alternatives examined, at least one path committed to, Senna's mob faced. 4th-level spells and second wave of subclass features active for Session 4's decisive confrontation.
+- **End of Session 4 → Level 8.** All choices have converged. The Reckoning has been met. Players carry the full weight of what they've decided into the finale.
+- **Session 5 plays at Level 8.** Calibrated for a 6-player gestalt party at peak campaign power.
+
+**Gestalt note:** For gestalt characters (two classes simultaneously), treat each character as two characters for encounter difficulty calculations. A 6-player gestalt party at Level 3 encounters Medium difficulty at ~1,800 adjusted XP and Deadly at ~4,800 adjusted XP. See the Gestalt Scaling section at the end of each session for specific adjustments.
+
+---
+
 ## Pre-Session Checklist
 
 - [ ] Review Chancellor Ostenveld's OGAS block - know her secret and decide how much she accidentally reveals
@@ -236,6 +251,24 @@ Sera can offer:
 - A casual reference to the dreams she's been having: *"Probably nothing. Just weird. Lately it's like standing at the edge of a fire."* She does not elaborate. She moves on.
 - An introduction to one ensemble Dawnborn of your choice - someone who passes through briefly, who is clearly beloved, who has a name and a face
 
+### The Dawnhalls: What It Is and What It Costs
+
+Players who look around or ask about the building discover the Dawnhalls is both genuine community infrastructure and a system that makes it very hard to leave.
+
+**What players find with DC 13 Investigation or a direct question to Sera about her finances:**
+
+The Dawnhalls were established by the Council twenty years into the twilight. The Dawnborn receive a "Civic Contribution Allowance" — 8 silver per week from the city treasury. That is below apprentice wages. Below journeyman wages. Below almost any skilled labor in Varenhold.
+
+The Dawnhalls provides housing, meals, and materials. Without it, none of the Dawnborn could afford to live in Varenhold on their stipend. The system looks like gratitude and functions like dependency.
+
+Sera knows this. She has known it for years. She does not resent it with anger — she resents it with the specific exhaustion of someone who chose to stay anyway, for reasons that felt worth it and still feel worth it and are becoming harder to articulate.
+
+*If players ask her why she stays:* "Because the Lowmark needs me and I need them. The math on the money has always been what it is."
+
+*If players push — do the Dawnborn feel trapped?* She is quiet for a moment. Then: "I think some of us chose this. And I think the city made sure choosing anything else was difficult. Both things are true." She does not elaborate. She knows this is something the players will have to sit with.
+
+> **GM Note:** This is the first hint of the economic trap. The city built a system that makes the Dawnborn feel essential and keeps them financially unable to walk away. It doesn't make the city evil — it makes the city human, and the Dawnborn's situation genuinely complicated. When the ritual's cost is revealed in Session 2, players who noticed this will feel the weight differently: the Dawnborn were never fully free to leave, and now they're being asked to die.
+
 ### Key Decision Point 3: Do They Ask About the Ritual?
 
 If asked what she knows about the Ritual of Eternal Dawn:
@@ -374,6 +407,7 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 **Traits**
 - *Eidetic Index.* Theron can recall the exact shelf location of any document in the Repository on a successful DC 10 Intelligence check. He has advantage on all Intelligence (History) checks related to Varenhold or the ritual.
 - *Eleven Years of Guilt.* Theron has disadvantage on Charisma (Deception) checks when directly asked about the ritual's cost or what he knows.
+- *The Sealed Drawer.* Theron has had the key to Shelf 4, Row 17, Position 3 for eleven years. He has never used it. Players who ask why he hasn't opened a drawer he knows contains Corven's last writing must succeed on a DC 17 Persuasion check to get an honest answer: he is afraid that if he reads it, he will have to act on it, and he has spent eleven years not acting.
 
 ---
 
@@ -448,7 +482,7 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 
 **Traits**
 - *Dark Devotion.* Advantage on saving throws against charm and fear.
-- *De-Escalation.* As a bonus action, Jaret can call for a cessation of hostilities. All creatures within 30 feet that can hear him must succeed on a DC 12 Wisdom saving throw or have disadvantage on attack rolls against Jaret until the start of his next turn.
+- *De-Escalation.* As a bonus action, Jaret signals a halt. All Restorer Cultists within 30 feet who can hear him immediately default to non-lethal grapple actions rather than attacks until the start of Jaret's next turn — they maintain any existing grapples to restrain but do not strike. Any hostile creature within 30 feet that can hear him must succeed on a DC 12 Wisdom saving throw or have disadvantage on attack rolls until the start of Jaret's next turn, as they hesitate, sensing the sincerity of his appeal. *GM note: this ability resolves the tactical dissonance between "cultists are grappling" and "Jaret is de-escalating" — the grapples shift from offensive restraint to holding-position-while-negotiating, which is exactly what Jaret intends.*
 
 **Actions**
 - *Multiattack.* Jaret makes two attacks.
@@ -456,6 +490,27 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 - *Spellcasting.* Jaret casts a spell from his list.
 
 **Tactics:** Jaret avoids melee. He uses *sacred flame* at range and *hold person* on the most aggressive player. He casts *command* ("Stop!") on the first round if possible. He explicitly does not use *inflict wounds* unless his HP drops below 10 and he is in direct danger. If reduced to 10 HP, he yields.
+
+---
+
+## Gestalt / Large Party Scaling — Level 4
+
+*For a 6-player gestalt party at Level 4, treat as approximately 10 effective Level 4 characters for encounter math. Gestalt doubles class resources but not action economy — six players get six actions, not twelve. Effective XP thresholds: Easy ≈ 3,500 | Medium ≈ 7,000 | Hard ≈ 10,500 | Deadly ≈ 15,500.*
+
+**Session 1 combat as written (with any prior scaling):** Still Easy for this party. A 6-person gestalt party at Level 4 has enough burst damage, crowd control, and healing to end this encounter in two rounds without pressure.
+
+**Required adjustments for L4 Gestalt:**
+
+- **9 Restorer Cultists** (not 4 or 7). More bodies means grapple lines can stay active even when two or three drop.
+- **Jaret, Restorer Zealot:** Increase HP to 52 (8d8+8). Expand spell list: add *spiritual weapon* (2 slots) and *silence* (1 slot). He casts *silence* on Round 1 centered on the most spell-dependent player — this creates genuine tactical disruption without changing the de-escalation tone. He is still trying to stop the fight, not win it.
+- **Add Jaret's lieutenant** (second Zealot, same stat block as Jaret but no *silence* — uses *hold person* and *inflict wounds* only). Two casters, a full grapple line, and a *silence* zone is real pressure for any party.
+- **Coordinated Restraint** (use this): On Jaret's initiative, he directs two cultists to coordinate on the same target. Both roll grapple with advantage; if either succeeds, the target is Restrained (not just grappled) until freed with DC 15 Athletics. One player locked out of the fight per round creates meaningful stakes.
+
+**Adjusted XP:** ~5,500. Low Medium. **Appropriate for Session 1** — players should feel pressure without feeling threatened. The watch bell clock and secondary objectives carry the tension.
+
+**All puzzle DCs for L4 Gestalt:** Raise all Investigation/Arcana checks by +3 from base. Notation Key fragments: DC 13 / DC 15 / DC 15. Corven's riddle: DC 17. With multiple gestalt characters rolling and advantage sources, anything below DC 13 is a formality.
+
+**All social DCs for L4 Gestalt:** Floor is DC 15 for any meaningful check. Insight on the Chancellor: DC 16. Persuasion on Theron to press him: DC 17. These aren't punishing — they're ensuring the rolls feel like something at a table where one player routinely hits +10 to Persuasion.
 
 ---
 

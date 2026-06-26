@@ -132,9 +132,9 @@ Two of the ten anchor positions are connected to each other by a secondary line 
 > *Significance: This is the first hint of Isolde Menth's transfer method. The Cathedral now occupies adjacent ground. Players who notice this are a step ahead in Session 3.*
 
 **Tier 3 - DC 18 Arcana, or notation key + a successful History check DC 12:**
-There is a small symbol in the center of the diagram that Theron didn't mention - he may not have noticed it, or he may have been too focused on the cost to look further. The symbol indicates a "cancel mechanism" - the ritual can be aborted if all participants simultaneously withdraw. Players who find this in Session 2 know there is a stop button. They will need it in Session 4.
+There is a small symbol in the center of the diagram that Theron didn't mention — he may not have noticed it, or he may have been too focused on the cost to look further. The symbol indicates an **inversion pathway**: if all ten Lux Anchors are simultaneously present at the Ashring and *choose* to release the stored energy willingly, the ritual runs backward — the energy dissipates safely and the sun returns. No deaths required. But the key word, indicated twice in the notation, is *willing*. All ten. Simultaneously. The inversion cannot be partially completed; a single unwilling or absent anchor causes the default (destructive) path to activate instead. Players who find this in Session 2 know there is an alternative — they will understand its full requirements in Session 4.
 
-**If players share Tier 3 with Theron:** He stares at it for a long moment. "I have been reading this text for eleven years. How did I not -" He doesn't finish. He looks ashamed. Then: "This changes things. Slightly. But it changes them."
+**If players share Tier 3 with Theron:** He stares at it for a long moment. "I have been reading this text for eleven years. How did I not —" He doesn't finish. He looks ashamed. Then: "This changes things. Significantly. If it can be done willingly — if *all ten* choose it — no one has to die. But all ten. I don't know if that's possible."
 
 ---
 
@@ -150,9 +150,13 @@ A small leather journal is visible on Theron's desk, open to a recent page. The 
 
 - 4,017 days = approximately 11 years
 - The eldest Dawnborn turned 39 eleven years ago
-- An **Investigation (DC 12)** or **History (DC 10)** check connects this to a notable event: an estate sale eleven years ago where a large private document collection was dispersed - including the notes of the ritual's lead assistant, Corven's second
+- An **Investigation (DC 15)** or **History (DC 13)** check connects this to a notable event: an estate sale eleven years ago where a large private document collection was dispersed - including the notes of the ritual's lead assistant, Corven's second
 
 **What this reveals:** Theron didn't figure this out from the Archive. He bought the assistant's notes at a private estate sale. He has been sitting on definitive knowledge for eleven years and chose not to act because he couldn't face it. He is not a villain. He is a man who failed, and he knows it, and he has been counting the days.
+
+**The concrete cost of his silence:** If players push Theron after this revelation — *people died while you knew* — he has a specific answer. He does not dodge it. A merchant family named Aldwyne: husband, wife, two adult children. They came to him four years ago asking whether to emigrate to Solenne, where the climate was more stable. He told them he was "close to understanding something that might change everything" and encouraged them to stay. He was not close. He was stalling himself. They stayed. The father and eldest daughter died of grey sickness fourteen months later. The wife and younger son left six months after that. Theron has their address in Solenne on a piece of paper in his desk. He has never written to them. *"Every day I tell myself I'll write when I have something to tell them. I never have something to tell them."*
+
+This is not a plot point. This is a fact about who Theron is. It makes his eventual choice to help the players something players feel, not just note.
 
 **If players confront him with this:** He doesn't deny it. He says: *"I told myself I was waiting until I was certain. I was already certain. I was waiting until I had no other choice. You are my no other choice."*
 
@@ -190,7 +194,7 @@ Failing an objective is a Living World consequence: missing pages raise the DC o
 
 ### The Encounter Beat: The Stacks Ignite
 
-At the start of the **round immediately after two Reckoning operatives drop** (guards or fanatic), Captain Marsh snaps: *"Burn it."* One guard topples a lantern into the nearest shelf. The moment the flame hits:
+At the start of the **round immediately after two Reckoning operatives drop** (guards or fanatic), Captain Marsh snaps: *”Burn it.”* The surviving guard — or the Fanatic if both guards are down — topples a lantern into the nearest shelf as their action. Marsh does **not** retreat at this trigger; the fire is a tactical diversion to cover continued fighting, not a withdrawal signal. The moment the flame hits:
 
 - A 10-foot section of shelving becomes **difficult terrain** and emits heavy smoke; creatures entering or starting their turn there make a DC 13 Constitution save or gain disadvantage on attack rolls until the start of their next turn.
 - Anyone adjacent when the fire ignites must succeed on a DC 13 Dexterity save or take 6 (2d6) fire damage and drop whatever they're holding.
@@ -206,7 +210,7 @@ Players can spend an action (or a 1st-level spell slot such as *create water*) t
 
 **Captain Marsh:** Uses the environment aggressively - pushing bookshelves into players (DC 13 Dexterity saving throw or 2d6 bludgeoning damage + restrained until freed). Targets Theron as a secondary objective - if the Captain reaches Theron, he grabs him as a hostage.
 
-**Retreat Condition:** If two Guards fall, Captain Marsh orders a fighting retreat. He will not sacrifice himself for a failed raid. On retreat, if he can grab even one page of the ritual text, he will.
+**Retreat Condition:** When Captain Marsh is reduced to **20 HP or below**, he orders a fighting retreat. He will not sacrifice himself for a failed raid. On retreat, if he can grab even one page of the ritual text, he will. Note that this is a separate trigger from the fire order — two guards dropping causes the fire (a tactical diversion), but Marsh himself continues fighting until his own HP threshold is reached. This gives players a window to reduce him to 0 HP non-lethally before he can escape.
 
 > **GM Tip:** The burning of the Archive is the moral weight of this combat. The players may "win" the fight and still lose key documents. The Reckoning knows this and uses it. If session 3's Path 3 (Isolde's method) becomes relevant, the loss of specific pages can make Isolde's verification harder.
 
@@ -236,7 +240,9 @@ She will want to proceed with the ritual. She will be practical about it. She wi
 
 This is the first real meeting with Brother Edoran if they haven't had it. He already knows. He says so calmly. He is not triumphant - he is tired.
 
-> "I've known for seven years. I found Corven's assistant's notes in a private estate sale. I have been waiting for someone official to find it, because I knew what would happen when I said it myself: nobody would listen to a cultist." *(A pause.)* "Are you listening now?"
+> "I've known for seven years. I obtained a copy of Corven's assistant's notes through a Restorer contact — the documents passed through several hands after the original estate sale, and one of our members recognised what they were. I have been waiting for someone official to find it, because I knew what would happen when I said it myself: nobody would listen to a cultist." *(A pause.)* "Are you listening now?"
+
+> **GM Note:** The original documents were sold at a private estate sale eleven years ago — the same sale Theron attended (as players may have learned from his journal). Edoran obtained a copy four years later through Restorer channels; he did not attend the sale himself. Players who connect these timelines will realise Theron and Edoran have been separately sitting on the same knowledge for different lengths of time.
 
 He will propose cooperation. He knows the Dawnborn personally - several are people he cares about. He believes the ritual is the only answer. He will ask the players to help him find the willing ones and protect them from the unwilling ones. *He does not think the unwilling ones should be forced.*
 
@@ -297,6 +303,8 @@ Whether they tell him or not, he knows something changed today.
 ## Scene 4: Edoran's Perspective (If Not Yet Encountered)
 
 If the players haven't met Brother Edoran yet, he appears at the end of Session 2. He is waiting outside the Dawnhalls, or the Archive, or wherever the players are.
+
+> **GM Note — How Edoran knew to find them:** The Restorers have maintained an informal watch on the Civic Repository for years. Theron's restricted collection is the only place in Varenhold where the original ritual documents could plausibly resurface, and Edoran has always known that. He has two Restorer contacts — scholars who use the Archive regularly — who reported that a group was escorted to the sealed section by Theron personally, under unusual circumstances (closed-door session, Theron visibly distressed when they left). Word reached Edoran within two hours. He went to find them himself rather than send a message, because he couldn't trust a note not to be intercepted. The line "I can tell by how you're walking" is genuine — he's read people carrying hard knowledge for eleven years. He knows exactly what that looks like.
 
 > "You know now," he says simply. "I can tell by how you're walking."
 
@@ -372,7 +380,7 @@ Ask the players directly: *"If you found out today that ten specific people had 
 - Cantrips: *guidance, resistance, spare the dying*
 - 1st level (4 slots): *cure wounds, healing word, bless*
 - 2nd level (3 slots): *lesser restoration, prayer of healing*
-- 3rd level (2 slots): *mass healing word, remove curse*
+- 3rd level (3 slots): *mass healing word, remove curse, spirit guardians*
 - 4th level (2 slots): *death ward, guardian of faith*
 
 **Traits**
@@ -410,8 +418,10 @@ Ask the players directly: *"If you found out today that ten specific people had 
 - 3rd level (2 slots): *beacon of hope, mass healing word*
 
 **Traits**
-- *The Grieving Father.* Edoran's daughter died of grey sickness seven years ago. He cannot be magically charmed, and he has disadvantage on saving throws against effects that appeal to parental love or grief (he knows the manipulation, but it still works).
+- *The Grieving Father.* Edoran's daughter died of grey sickness six years ago. He cannot be magically charmed, and he has disadvantage on saving throws against effects that appeal to parental love or grief (he knows the manipulation, but it still works).
 - *Consent Above All.* Edoran will not willingly take an action that harms an unwilling Dawnborn. If compelled to do so by magic, he can make a DC 18 Wisdom saving throw to resist.
+- *The Failed Petition.* Eight years ago, Edoran formally petitioned Chancellor Aldric (Ostenveld's predecessor) with what he knew about the ritual's cost. He was detained for two weeks on public disturbance charges, his documents were confiscated and returned damaged, and Chancellor Aldric died of grey sickness six months later without acting. He has not trusted official channels since. Players who press him about why he didn't go to the Council sooner will find this — and will have to decide what it means that the city silenced the one person trying to protect the Dawnborn eight years ago.
+- *Seven Years of Shaping.* Edoran has been the primary outside confidant of three of the willing Dawnborn for seven years. He did not coerce them. He also did not step back. He counseled them through their hardest moments, validated their sense of purpose, and was present when no one else was. When Ysel and Davin say they have chosen willingly, they mean it. They also mean it within a relationship where Edoran's worldview has been the most consistent voice in the room. This is not manipulation. It is also not neutral. Players who confront Edoran about this — directly, carefully — will get an honest answer: *"I know. I've thought about it for five years. I believe their yes is real. I don't know how to prove it to you, and I'm not sure I can prove it to myself."*
 
 **Actions**
 - *Multiattack.* Edoran makes two attacks.
@@ -464,7 +474,7 @@ Ask the players directly: *"If you found out today that ten specific people had 
 ### Captain Marsh, Reckoning Commander
 *Medium humanoid (human), lawful evil*
 
-**AC** 16 (chain mail) | **HP** 52 (8d8+16) | **Speed** 30 ft.
+**AC** 18 (chain mail + shield) | **HP** 130 (20d8+40) | **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -472,11 +482,16 @@ Ask the players directly: *"If you found out today that ten specific people had 
 
 **Saving Throws** Str +5, Con +4
 **Skills** Athletics +5, Intimidation +3, Perception +3
-**Senses** passive Perception 13 | **Languages** Common | **CR** 3 (700 XP)
+**Senses** passive Perception 13 | **Languages** Common | **CR** 4 (1,100 XP)
+
+*Note: Marsh's three-attack Multiattack and Tactical Commander aura together produce CR 4–5 offensive output. His CR is listed as 4 to reflect this; GMs using XP-based encounter tracking should use 1,100 XP.*
 
 **Traits**
 - *Tactical Commander.* While Captain Marsh is conscious, Reckoning Guards within 30 feet have advantage on attack rolls against creatures that are within 5 feet of an ally.
 - *Ruthless Pragmatist.* When Marsh takes the Attack action, he can replace one attack with an attempt to push a creature 10 feet (contested Athletics check).
+- *Legendary Resistance (2/Day).* If Marsh fails a saving throw, he can choose to succeed instead.
+- *Flanking Commander.* When two Guards have the same target in reach of Marsh, his Bonus Action grants both of them advantage on their next attack against that target.
+- *Counterstrike.* When a Reckoning Guard within 30 feet drops to 0 HP, Marsh can use his Reaction to move up to 15 feet and make one longsword attack.
 
 **Actions**
 - *Multiattack.* Captain Marsh makes three attacks.
@@ -487,6 +502,27 @@ Ask the players directly: *"If you found out today that ten specific people had 
 - *Opportunist.* When a creature within 5 feet falls prone, Marsh can make a longsword attack against them.
 
 **Tactics:** Marsh sets his guards before he enters. He immediately identifies the highest-threat player and orders a guard to engage them, keeping Marsh's attention free. He goes for Theron as a secondary objective. If the ritual text is secured (or destroyed), he retreats regardless of HP. He will not die for a failed mission.
+
+---
+
+## Gestalt / Large Party Scaling — Level 5
+
+*Session 2 plays at Level 5. Extra Attack is now online for martials. 3rd-level spells (Fireball, Hypnotic Pattern, Counterspell) are active. Gestalt characters are in their most dangerous growth window — high damage output, robust spell lists, but not yet the defensive walls of L7-8. Effective thresholds for 6-player gestalt L5: Easy ≈ 5,000 | Medium ≈ 10,000 | Hard ≈ 15,000 | Deadly ≈ 23,000.*
+
+**The Reckoning Raid at L5 Gestalt:**
+
+The threat is no longer "can they kill us" — it's "can we do everything at once while the room is on fire." Lean into that.
+
+- **5 Reckoning Guards** with **Brutal Tactics**: on a successful grapple, immediate shortsword attack as a bonus action. Two coordinating Guards can lock a player in one turn. With Extra Attack online, losing one player's action to a Restrained condition matters.
+- **3 Reckoning Fanatics** staggered across Rounds 1, 2, and 3. Three *hold person* casters is real. A Fireball clears them if they cluster — make sure they don't cluster. They enter from three different positions.
+- **Captain Marsh** (see updated stat block above): 130 HP, AC 18, Legendary Resistance 2/day, Counterstrike reaction. A single Hypnotic Pattern cannot end this encounter. A single Fireball cannot end this encounter. Players must commit multiple actions to bring him down while the fire spreads. Retreat threshold: 30 HP.
+- **The fire** triggers when two operatives drop. It is the dominant threat. A party that burns both Fanatics in Round 1 with AOE has just started the clock on the Archive. Make sure they feel this.
+
+**Adjusted XP with stat block:** ~15,000 (with multiplier). Hard. Protecting the texts, keeping Theron alive, capturing Marsh — all compete simultaneously when Marsh has Legendary Resistance and the stacks are burning.
+
+**Puzzle DCs for L5 Gestalt:** Ritual Diagram Tier 3: DC 21 Arcana without notation key, DC 16 with key + History check. Tier 1: DC 15. Tier 2: DC 18.
+
+**Revelation pacing:** A gestalt party almost certainly solved Corven's riddle in Session 1. Theron's reveal is a confession to people who already know. That's harder than a reveal. Don't skip past his discomfort. Silence after *"It doesn't"* should last ten full seconds.
 
 ---
 

@@ -101,6 +101,8 @@ Something shifts. The scene becomes quiet in a way that isn't sad - it's resolve
 
 **Note on Cormac:** If the players discovered his wavering in Session 3 and haven't acted on it, this is where it surfaces. He is present with the willing group but standing slightly apart. A DC 12 Perception check notices he hasn't spoken since the players arrived.
 
+**Cormac's Resolution Window:** Before the Reckoning raid begins, players have a brief private moment if they seek it — Cormac drifts to the edge of the plaza while the group conversation continues. This is the structured beat: a player who follows him has roughly five minutes before the Reckoning positions become active. What resolves Cormac is not persuasion — he has to decide for himself. What he needs is someone to *stay* with the uncertainty without pushing toward a conclusion. If a player simply listens (no check required; this is a roleplay beat), Cormac talks through it: *"I gave my word when I thought I understood what I was giving it for. I understand it better now. I'm not sure the word still holds."* What he decides depends on what the player says next — or whether they say anything at all. If the raid interrupts before he resolves: his stone is amber (uncertain) during the ritual, not cold (refusing), but not gold either. The inversion cannot complete with an amber stone. This needs to be addressed before activation.
+
 ### The Unwilling: Lira, Aldric, Petra (and possibly others)
 
 Lira's position is absolute and human: she has a daughter, and she intends to watch her grow up.
@@ -162,9 +164,11 @@ When activated correctly, the central dais glows amber and faint carved text bec
 
 > *THE INVERSION IS THE KEY - ALL MUST STAND WHERE TEN STOOD - THE UNWOUND RITUAL REQUIRES THE WILLING OF ALL*
 
-This is the cancel mechanism, confirmed. The ritual can be run in reverse - undoing the twilight without killing anyone - but only if all ten Dawnborn participate willingly and simultaneously. Three willing out of ten isn't enough to cancel. It also isn't enough to restore the sun. The players now know precisely what the partial ritual *cannot* do: anything.
+This is the cancel mechanism, confirmed. The ritual can be run in reverse — undoing the twilight without killing anyone — but only if all ten Dawnborn participate willingly and simultaneously. Three willing out of ten isn't enough for the inversion. It also isn't enough for *complete* solar restoration via the inversion pathway. The inscription is specific: the inversion is all-or-nothing.
 
-**GM Note:** This changes the math of the session. The players now have confirmation that "some willing" is a false solution. Every path forward requires either all ten willing, or the original ritual with deaths. There is no clean middle ground. Let this land before moving to the riddle.
+**GM Note — Critical Distinction:** The Primer Stone inscription tells the players what the *inversion* requires. It does not invalidate the original destructive ritual. The original ritual — the one that costs lives — still functions with fewer willing participants: three to five Dawnborn releasing their energy would produce incomplete but real restoration (a brightening, not full dawn). What the Primer Stones confirm is that there is no easy middle path: the inversion requires all ten willing and no deaths, or the original ritual requires death and produces partial or full restoration depending on who participates. There is no option that produces full sun and costs nothing except the inversion — and the inversion needs everyone.
+
+Make this distinction explicit at the table if players conflate the two. The choice is not "some willing = something." The choice is "inversion (all-ten-willing, no deaths) vs. original ritual (deaths, partial or full sun depending on number and type of anchor)." Both paths are still open. Neither is clean. Let this land before moving to the riddle.
 
 ---
 
@@ -343,6 +347,24 @@ He is not entirely wrong.
 | **Keep 7+ Primer Stones intact** | Reckoning Fanatics will attempt to smash stones as a bonus action (AC 16, HP 10 each, resistant to all damage except bludgeoning) | If 4+ stones are destroyed, the cancel mechanism inscription cannot be re-read; players lose that knowledge permanently |
 | **Get Harran's intelligence** | Capture him (reduce to 0 HP with non-lethal, or DC 16 Persuasion after the Encounter Beat) | Harran reveals the Chancellor gave him advance warning of the seven-day ultimatum - blackmail material and a significant breach of trust |
 
+### Ashring Lair Actions
+
+*The Ashring is not a neutral battlefield. Fifty years of Lux Anchor proximity have saturated the standing stones and the central dais with stored ritual energy. When the Primer Stones are active and multiple Dawnborn are present simultaneously, the ambient charge reaches levels the site has never held before. The Ashring itself becomes a factor in the fight.*
+
+*On Initiative count 20 (losing all ties), the Ashring takes one Lair Action from the list below. Rotate through them in order each round, repeating from the top if the combat extends past Round 3.*
+
+**Round 1 — Amber Surge.** A pulse radiates from the central dais in a 30-foot radius. All creatures (except Dawnborn, who are immune) make a DC 14 Constitution saving throw or take 3d6 radiant damage and have disadvantage on their next attack roll as the energy washes through them.
+
+**Round 2 — Resonance Pull.** Two Primer Stones (GM's choice) flash simultaneously. All non-Dawnborn creatures within 15 feet of either stone make a DC 14 Strength saving throw or be pulled 10 feet toward the nearest stone and Restrained until the start of their next turn. Creatures already at a stone are immune. Dawnborn at their stones feel the pull but are not moved.
+
+**Round 3 — Lux Echo.** The Ashring recognises the Dawnborn's presence. Each Dawnborn currently at their stone regains 2d8+4 HP. Simultaneously, all hostile creatures (both sides) must make a DC 14 Wisdom saving throw or become Frightened of the central dais until the start of their next turn — the sheer weight of what this place wants to become is suddenly, briefly, perceptible.
+
+*After Round 3, the lair actions reset to Amber Surge.*
+
+> **GM Note:** The Lair Actions are not the party's enemy — they are the world. They create pressure that doesn't care which side it lands on. A Resonance Pull that drags a Reckoning Veteran into a clustered position is as likely as one that pulls a player away from Aldric. The Lux Echo simultaneously heals Dawnborn and frightens combatants. The Ashring is not helping the players. It is not helping the Reckoning. It is the accumulated weight of fifty years asking to be resolved, and it is getting louder.
+
+---
+
 ### The Encounter Beat: Round 2
 
 On Round 2, Harran calls out in a clear voice as a Bonus Action:
@@ -414,6 +436,25 @@ Ask the players directly: *"When someone chooses to sacrifice themselves, what d
 
 ---
 
+## Gestalt / Large Party Scaling — Level 7
+
+*Session 4 plays at Level 7. 4th-level spells active (Banishment, Confusion, Wall of Fire, Otiluke's Resilient Sphere). Second wave of subclass features fully online. At L7 gestalt, characters are at their most dangerous relative to standard MM stat blocks — this is the session where the combats need lair actions and legendary mechanics or they collapse in two rounds. Effective thresholds: Easy ≈ 7,500 | Medium ≈ 15,000 | Hard ≈ 22,500 | Deadly ≈ 34,000.*
+
+**The Reckoning at the Ashring — L7 Gestalt:**
+
+- **12 Reckoning Veterans** (not 8). Three assigned Stone Smasher duty from Round 1 — they walk past players toward stones unless physically intercepted. Three cut toward Aldric. Six hold the combat line. A 6-player party cannot cover all three secondary objectives without genuinely splitting.
+- **Harran** at 185 HP, AC 18, Legendary Resistance 2/day, 2 Legendary Actions per round. A focused single-target round from a L7 gestalt party can deal 120-150 damage; he needs this to survive past Round 1. His retreat threshold is now 20 HP.
+- **Ashring Lair Actions** (see section above) activate at Initiative 20. These are the key addition for L7 — they create pressure that doesn't scale with enemy HP. Amber Surge hits the whole field; Resonance Pull repositions combatants regardless of team; Lux Echo heals Dawnborn during combat. The Ashring is actively hostile to this many people fighting in it.
+- **Stone Smasher clarification:** The action ignores damage resistances. It's a trained strike, not a standard attack. Piercing weapons work.
+
+**Adjusted XP (with lair actions and multiplier):** Effectively Hard-to-Deadly. The lair actions make the encounter harder than the XP budget suggests — they don't add to the XP count but they add to the pressure. A party trying to AOE their way through the Veterans will also eat Amber Surge damage. That's intended.
+
+**Wrong Primer Stone sequence for L7 Gestalt:** With all three clue sources, auto-solve. Add: one stone's phase glyph is weather-chipped, ambiguous between two dates. DC 16 History or Arcana to resolve. On a failure: lightning discharge AND the Reckoning's scouts see it and the combat begins one full round early. The Reckoning was positioned for exactly this possibility.
+
+**Split-party imperative:** Six players need to split. Say it explicitly at the table before the combat starts: "You can see three Veterans moving toward the standing stones. Three more are cutting toward Aldric. Harran is in the middle. Where do you go?"
+
+---
+
 ## Session 4 Consequence Tracking
 
 | Outcome | Note |
@@ -443,8 +484,8 @@ Ask the players directly: *"When someone chooses to sacrifice themselves, what d
 
 *Medium humanoid, neutral*
 
-**Armor Class** 16 (chain mail and shield)
-**Hit Points** 65 (10d8 + 20)
+**Armor Class** 18 (chain mail + shield + defensive posture)
+**Hit Points** 185 (25d8 + 75)
 **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -466,11 +507,13 @@ Ask the players directly: *"When someone chooses to sacrifice themselves, what d
 
 **Traits**
 
-**The Argument.** On Round 2 of any combat, Harran calls for parley as a Bonus Action. Each creature that can hear him must succeed on a DC 13 Wisdom saving throw or have Disadvantage on its next attack roll against Harran as they hesitate.
+**Legendary Resistance (2/Day).** If Harran fails a saving throw, he can choose to succeed instead.
+
+**The Argument.** On Round 2 of any combat, Harran calls for parley as a Bonus Action. Each creature that can hear him must succeed on a DC 15 Wisdom saving throw or have Disadvantage on its next attack roll against Harran as they hesitate.
 
 **Guerrilla Commander.** Reckoning allies within 30 feet of Harran can use their Bonus Action to Disengage.
 
-**Not a Martyr.** When reduced to 15 HP or fewer, Harran calls for tactical withdrawal. He will retreat rather than fight to unconsciousness unless cornered. He can be captured with a grapple or reduced to 0 HP with non-lethal damage.
+**Not a Martyr.** When reduced to 20 HP or fewer, Harran calls for tactical withdrawal. He will retreat rather than fight to unconsciousness unless cornered. He can be captured with a grapple or reduced to 0 HP with non-lethal damage.
 
 ---
 
@@ -490,12 +533,24 @@ Ask the players directly: *"When someone chooses to sacrifice themselves, what d
 
 ---
 
+**Legendary Actions**
+
+Harran can take 2 Legendary Actions per round, choosing from the options below. Only one option at a time, only at the end of another creature's turn. Harran regains spent Legendary Actions at the start of his turn.
+
+**Command (1 action).** One Reckoning Veteran Harran can see within 60 feet makes one weapon attack or uses the Disengage action as a reaction.
+
+**Strike (1 action).** Harran makes one shortsword attack.
+
+**Reposition (2 actions).** Harran moves up to his speed without provoking opportunity attacks and makes one shortsword attack at the end of the movement.
+
+---
+
 **Tactics**
 
-Round 1: Harran positions between his operatives and the Dawnborn, establishing a line. He does not attack first unless attacked.
-Round 2: The Argument (Bonus Action). He then focuses on reaching Aldric - not to harm him, to get him behind Reckoning lines.
-Round 3+: If Aldric is secured, Harran's priority shifts to the Primer Stones. If not, he continues pushing toward Aldric.
-Retreat trigger: Any Reckoning operative killed, or reduced to 15 HP. He does not abandon wounded operatives - he will carry one out if he can.
+Round 1: Harran positions between his operatives and the Dawnborn, establishing a line. He does not attack first unless attacked. Uses Command Legendary Action at the end of the last player's turn to reposition a Veteran toward Aldric.
+Round 2: The Argument (Bonus Action), targeted at the player who has been most morally conflicted across the campaign — not the most dangerous, the most conflicted. He then focuses on reaching Aldric.
+Round 3+: If Aldric is secured, Harran's priority shifts to the Primer Stones (uses Command to direct Stone Smashers). If not, he continues toward Aldric.
+Retreat trigger: Any Reckoning operative killed, or reduced to 15 HP. He uses Command as his last Legendary Action to cover a wounded operative's retreat. He does not leave them behind.
 
 ---
 
@@ -521,7 +576,7 @@ Retreat trigger: Any Reckoning operative killed, or reduced to 15 HP. He does no
 
 **Pack Tactics.** The Veteran has Advantage on attack rolls against a creature if at least one of its allies is adjacent to the creature and not incapacitated.
 
-**Stone Smasher.** As an Action, the Veteran can strike a Primer Stone (AC 16, 10 HP, resistant to all damage except bludgeoning). A destroyed stone cannot be reactivated.
+**Stone Smasher.** As an Action, the Veteran can strike a Primer Stone (AC 16, 10 HP, resistant to all damage except bludgeoning). This action ignores the stone's damage resistance — the Stone Smasher technique is a focused strike the Veterans are trained for, not a standard weapon attack. A destroyed stone cannot be reactivated.
 
 ---
 
@@ -558,10 +613,10 @@ Two Veterans always coordinate on a single target. The remaining Veterans hold e
 **Challenge** 1/2 (100 XP)
 
 **OGAS**
-- *Occupation:* Mapmaker; has documented every district of Varenhold over thirty years
+- *Occupation:* Blacksmith; runs the most respected forge in the Lowmark
 - *Goal:* Stay alive and not be used. That's all. It doesn't feel like too much to ask.
 - *Attitude:* Toward players: guarded respect (they've been more honest with him than most). Toward the situation: exhausted, not resigned. There's a difference.
-- *Secret:* His maps include routes through the Archive that Theron doesn't know about. He mapped them years ago when he was interested in the building's history. He's been sitting on this in case he ever needed an exit.
+- *Secret:* He has a secondary workshop space beneath the forge that connects to a seldom-used service alley behind the Lowmark Healing House. He built the passage himself, years ago, for deliveries. He's been sitting on it in case he ever needed a way out that no one knew about.
 
 ---
 

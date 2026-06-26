@@ -920,7 +920,7 @@ People who work alongside Lira at the care house describe her as one of the most
 |-------|----|---------|
 | Insight (first meeting) | 13 | He has already made his decision — the "reluctant no" is not undecided. It is the position of someone who has calculated that no one has the right to ask this of him, and is tired of being asked. |
 | Insight (after trust) | 15 | The decision is about his children. He has two young children in the Dawnhalls. He has been running the numbers on what the ritual's outcome means for them specifically, and he does not trust anyone else's projections. |
-| Investigation (Aldric's dock office) | 13 | A shipping manifest on the wall has a secondary use: one corner is a personal calendar tracking days until his eldest child's seventh birthday. The ritual timeline would fall before or after it, depending on events. |
+| Investigation (Aldric's forge) | 13 | A wall calendar tracking supply orders has a secondary use: one corner marks days until his eldest child's seventh birthday in handwritten ink. The ritual timeline would fall before or after it, depending on events. |
 
 </details>
 

@@ -114,6 +114,14 @@ In Session 1, the assembled Notation Key contained a final line that produced a 
 > *- Archmagister V. Corven*
 > *Night of the Ritual*
 
+### How the Letter Survived
+
+Corven died on the ritual grounds. A junior assistant named Marit Solke survived the night — she was in the preparation room below, not the circle itself, when the backlash occurred. She found Corven's body the next morning. The letter was on his desk, sealed, addressed to no one. She brought it to the Archive with his other papers and materials, listed it in the intake log as "personal correspondence, night of the ritual," and filed it with the sealed ritual collection. She was twenty-three years old. She left Varenhold two years later and is not in any record the players can find.
+
+Theron Waide discovered the drawer eleven years ago when cataloguing the sealed collection. He found the intake log entry, found the drawer, and found the key. He did not open it. He has been keeping the key in his desk ever since. The key has a tag in his handwriting: *"4-17-3. Do not lose."*
+
+If players ask why he never opened it: "I knew whatever was in it would require me to do something. I have spent eleven years not being ready to do something."
+
 ### What This Changes
 
 This letter does three things:
@@ -219,11 +227,11 @@ Players might ask: can a non-Dawnborn stand at a stone for an unwilling Dawnborn
 
 ### Who Attacks
 
-**Default: The Reckoning** - Harran (or a successor) leads a final intervention force. They are here to stop any ritual that doesn't have unanimous, freely given consent. They watched the Council session. They saw the vote. They don't trust the outcome.
+**Default: The Reckoning** - Harran (or a successor) leads a final intervention force. They are here to stop any ritual that doesn't have unanimous, freely given consent. They watched the Council session. They saw the vote. They don't trust the outcome. *(Stat blocks: Harran and Reckoning Veterans in Session 4. Use 8 Veterans + Harran as the default force; reduce to 6 Veterans if Harran was captured non-lethally in Session 4.)*
 
-**If Reckoning was neutralized in Session 4:** A faction of Desperate commoners, led by someone radicalized by the crisis, makes a desperate play - not to harm the Dawnborn, but to force the ritual to happen *now*, before the window closes. They are terrified the players will find another delay.
+**If Reckoning was neutralized in Session 4:** A faction of Desperate commoners, led by someone radicalized by the crisis, makes a desperate play - not to harm the Dawnborn, but to force the ritual to happen *now*, before the window closes. They are terrified the players will find another delay. *(Stat blocks: use 8–10 Desperate Commoners + Senna Kard from Session 3, or substitute standard MM Cultists/Bandits if Senna was captured or died. This crowd fights like the Session 3 mob — de-escalatable, non-lethal-first, leader-dependent. The same tactics apply.)*
 
-**If both are neutralized:** Warden Keseph, a Spire Scholar who has been selling twilight-research access to Solenne for twenty years, makes his move. He has profited from the twilight academically and politically. He wants the twilight to continue. He has hired mercenaries. (Use his stat block below.)
+**If both are neutralized:** Warden Keseph, a Spire Scholar who has been selling twilight-research access to Solenne for twenty years, makes his move. He has profited from the twilight academically and politically. He wants the twilight to continue. He has hired mercenaries. *(Stat blocks: Warden Keseph, Mercenary Captain, and Mercenary Sellswords — all in this session's Stat Blocks section below.)*
 
 ### The Combat Setup
 
@@ -271,7 +279,7 @@ After the signal, the ritual proceeds. What happens depends on which Dawnborn ar
 
 | Round | Interruption Effect |
 |-------|-------------------|
-| 1 | One Dawnborn loses concentration. They can re-focus as a Bonus Action (DC 12 Concentration check). Ritual pauses but does not fail. |
+| 1 | One Dawnborn loses concentration. They can re-focus as a Bonus Action (DC 14 Concentration check). Ritual pauses but does not fail. |
 | 2 | The dais begins drawing ambient magical energy. All creatures within 30 feet take 2d6 lightning damage (DC 14 Dex save, half on success). The Dawnborn at the stones are immune. |
 | 3 | A Dawnborn is forcibly displaced from their stone (target the one in the most danger). They take 3d6 force damage and must return as a movement action. The ritual enters an unstable phase. |
 | 4+ | The ritual has locked into one path. If all ten were willing: inversion completes regardless of further interruption. If fewer than ten were willing: the destructive path activates. It cannot be stopped without all Dawnborn simultaneously stepping out. |
@@ -315,8 +323,10 @@ The ritual is performed at the Ashring. Ten people stand in the scorch circle. T
 
 **How to set this up:** Lira refused and was protected. Petra wasn't found or chose not to participate. But the willing three (Ysel, Davin, and possibly Sera or Cormac) proceeded anyway.
 
+**Surge-Phase Note for the GM:** The partial ritual's effectiveness scales with the raw *number* of willing participants, not their surge-phase amplitude. Surge-phase weighting matters for the inversion pathway (which requires precise resonance alignment across all ten). For the original destructive path, each willing anchor releases what it holds — regardless of whether it's a surge-phase anchor or not. Three participants produce a meaningful but incomplete effect: brightening, not full dawn. The surge-phase anchors (Sera, Tomas, Ysel, Lira, Petra) would yield a stronger partial result, but three standard-amplitude anchors still produce Ending B's described effects. The difference between "three willing including no surge-phase anchors" vs "three willing surge-phase anchors" is the *degree* of brightening — use this to texture the aftermath if the composition of the willing three becomes relevant.
+
 **What Happens:**
-The willing Dawnborn perform their portion. The city does not return to full daylight - but the twilight brightens. Crops improve. Grey sickness rates begin to fall. It is not a solution, but it is not nothing.
+The willing Dawnborn perform their portion. The city does not return to full daylight — but the twilight brightens. Crops improve marginally. Grey sickness progression slows. It is not a solution, but it is not nothing. The degree of improvement reflects who participated: if none of the three are surge-phase anchors, the brightening is subtle (candles seem warmer, the amber sky tilts slightly gold). If one or more surge-phase anchors participated, the improvement is more pronounced.
 
 ### Read-Aloud (Ending B)
 
@@ -388,24 +398,34 @@ The sun does not return. The players negotiated, organized, or fought for a futu
 
 **Conditions:** The Chancellor's deadline passed, the Council acted, or the players chose a path that required coercing unwilling Dawnborn.
 
-**How to set this up:** This ending is usually the result of inaction or of choosing the city's survival over individual consent. The Chancellor votes to proceed. The Council provides the mechanism. The players were part of this - or couldn't stop it.
+**How to set this up:** This ending is usually the result of inaction or of choosing the city's survival over individual consent. The Chancellor votes to proceed. The Council provides the mechanism. The players were part of this — or couldn't stop it.
+
+**Mechanics note for the GM:** The inversion pathway (no deaths) requires *all ten* Dawnborn to be genuinely willing. If any participant is coerced, absent, or unwilling, the inversion cannot complete.
+
+When the inversion fails mid-attempt due to forced or absent participants, the result is not a clean "default to the original ritual." The original ritual works through individual, sequential energy release — each anchor releasing what it holds in controlled sequence. The inversion requires all ten releasing simultaneously in a cooperative resonance. When that cooperative resonance is attempted and breaks — because one participant's energy is fighting the process — the simultaneous release becomes uncontrolled. The energy doesn't find its channels. It cascades. All ten Lux Anchors are discharged at once, including the ones who never agreed to be there.
+
+**In Ending E, all ten Dawnborn die.** The sun returns — the energy releases regardless — but it releases catastrophically, not elegantly. The willing died as they chose. The unwilling died because the ritual could not distinguish consent once the cascade began.
+
+This is the crucial distinction from Ending B: in Ending B, the players run the *original* destructive ritual with *only the willing participants*, who release their energy voluntarily and sequentially. The unwilling are not in the circle. They are not part of the process. They live. In Ending E, someone put the unwilling in the circle and attempted the inversion anyway. The cascade is the consequence of that choice.
+
+The memorial exists. The distinction between willing and unwilling names is visible if anyone looks. The city knows, eventually, what the difference was. How publicly that knowledge surfaces depends on what the players chose to do with Corven's letter and with Tomas's journal in the sessions before.
 
 **What Happens:**
-The sun returns. Not everyone chose it. The campaign ends with the players carrying something they can't put down.
+The sun returns. All ten Lux Anchors are extinguished — some by choice, some not. The campaign ends with the players carrying something they can't put down.
 
 ### Read-Aloud (Ending E)
 
 > The sun rises. It is real and warm and fifty years late.
 >
-> You are standing at the edge of the Ashring. The ritual is complete. The city is already waking up - you can hear it, a sound like relief, spreading outward from the plaza.
+> You are standing at the edge of the Ashring. The ritual is complete. The city is already waking up — you can hear it, a sound like relief, spreading outward from the plaza.
 >
-> Lira is not here. You don't know where she went. You may find out later. You may not.
+> Lira is not here. Neither is Aldric, or Cormac, or Petra — none of the ones who said no. They are gone, the same as the ones who said yes. The ritual does not distinguish.
 >
 > The sun is up. The cost was real. You knew it would be.
 >
 > Did you make the right choice? That's not a question with an answer. That's a question you'll be living with.
 
-**The Cost:** Specifically, Lira (and whichever other unwilling Dawnborn could not be protected). The players chose the city. That is a valid choice. It is not a clean one.
+**The Cost:** All ten Dawnborn. Some chose it. Some did not. The city can see the difference in the names on the memorial, if anyone looks closely enough. The players chose the city. That is a valid choice. It is not a clean one.
 
 ---
 
@@ -474,8 +494,38 @@ After the ending scene, take 5-10 minutes to run epilogues for each major NPC. A
 - A/C/E: She wins reelection. The city recovers. She does not speak publicly about what the ritual cost. She is very quiet at the annual commemoration.
 - B/D/F: She faces a no-confidence vote. She may survive it. Either way, she is diminished. She seems to feel that's appropriate.
 
+**Davin Shore**
+- A/E: He is remembered as the one who said yes first. The token — *"Of my own choosing"* — is reproduced on the memorial. Several copies end up in Lowmark homes. People who knew him say he would have found that embarrassing.
+- B/C/D: He is still alive. He continues his watchman rounds. He is very calm. People in the Ashring quarter notice that he smiles slightly more than he used to.
+
+**Ysel Maren**
+- A/E: The Cathedral's Wounded faction holds a special vigil in her name each year on the ritual anniversary. She would have appreciated the theology of it. She would have disputed two of the hymns they chose.
+- B/C/D: She is still alive. She continues leading the dawn-vigil services. The prayer cord on her windowsill now has eleven names on it.
+
+**Cormac Drell**
+- A (if his wavering was resolved and he chose willingly): He is remembered alongside Davin and Ysel. His decision came last. It came. That is what is noted.
+- A (if his wavering was not resolved and he was in the circle): He is remembered. Whether his was a free choice or a forced one is a question the city doesn't ask openly. The players know.
+- B/C/D: He is alive. He made his decision — whatever it was — and is living with it. He works the docks. He doesn't talk about it.
+- E: He is gone. Whether he chose it in the end, nobody is certain. Davin would have known. Davin is gone too.
+
+**Nin Fletch**
+- A/E: He is remembered as the one who had a past and chose something better anyway. The Compact document he'd been sitting on for fifteen years was never relevant to anything. He went to his death knowing that, and finding it funny in a dark way.
+- B/C/D: He is alive. He continues coordinating Dawnhall supply distribution. He files the old receipt. He doesn't open it again.
+
+**Orya Doss**
+- A/E: Her maps of the Spire subbasement are found in the Archive a year later. No one knows what the space was for. Scholars argue about it for a decade. She would have considered that a reasonable outcome.
+- B/C/D: She is alive. She starts mapping the subbasement herself. She finds something. She tells the players first, if they're still in the city.
+
+**Aldric Stone**
+- A/E: His forge is closed. The Lowmark keeps it closed on purpose — they're not ready to put someone else in it. On the ritual anniversary, someone leaves a piece of unworked iron on the threshold. Nobody takes credit.
+- B/C/D: He is alive. He returned to his forge within a week. He didn't explain why. The work was there. He does it.
+
+**Petra Vane**
+- A/E: She came back. She made her decision. The herbalism shop in Greenhollow is still there; the person who took it over sends a percentage of what she earns to Lira's daughter's childcare, continuing what Petra started anonymously. Someone told her what it was. She didn't stop it.
+- B/C/D: She is alive, back in Greenhollow or returned to Varenhold if the players gave her a reason. The anonymous payments to Mira's childcare continue. Lira knows now.
+
 **Theron Waide**
-- Any ending: He retires from the Archivist position within a year. He spends his remaining years writing a complete history of the ritual - including his own role in concealing the truth. It is the most honest thing he has ever written. He publishes it three years before he dies.
+- Any ending: He retires from the Archivist position within a year. He spends his remaining years writing a complete history of the ritual — including his own role in concealing the truth. It is the most honest thing he has ever written. He publishes it three years before he dies.
 
 ---
 
@@ -620,6 +670,104 @@ You don't need to answer these questions yourself, as the GM. But you can. Somet
 
 ---
 
+## Gestalt / Large Party Scaling — Level 8
+
+*Session 5 plays at Level 8. 4th-level spells fully developed. ASIs and subclass features complete. Two full class progressions. At L8 gestalt, a party can trivially end most published CR 8 encounters in two rounds. The Last Stand must use lair actions, legendary mechanics, and secondary objectives simultaneously — or it becomes a speed bump before the real scene (the ritual). Effective thresholds: Easy ≈ 9,000 | Medium ≈ 18,000 | Hard ≈ 27,000 | Deadly ≈ 39,000.*
+
+**The Last Stand (Default — Reckoning) at L8:**
+
+- **Harran** (Session 4 stat block, 185 HP, AC 18, Legendary Resistance 2/day, 2 Legendary Actions). If Harran was captured non-lethally in Session 4, use the **Reckoning Inquisitor** (new stat block below) as the commanding officer.
+- **12 Reckoning Veterans**. At L8 gestalt, Veterans die in one hit to most attacks. The threat is not their individual survival — it's that there are 12 of them simultaneously pursuing Dawnborn, stones, and the dais. They are coverage pressure, not damage pressure.
+- **2 Reckoning Fanatics** in addition to Veterans. At L8, *hold person* is a DC 12 Wisdom save that most builds pass. But *silence* (the Fanatics have it at this level: add to their spell list) drops on the player most dependent on verbal spell components. That player's whole turn changes.
+- **Ashring Lair Actions** activate at Initiative 20 (same as Session 4 but with the ritual now beginning to stir, one step stronger): Amber Surge deals 4d6 radiant (DC 16 Con). Resonance Pull pulls 20 feet (DC 16 Str). Lux Echo heals Dawnborn for 3d8+6. The Ashring has been building to this moment for 50 years.
+
+**The Last Stand (Desperate — Commoners) at L8:**
+
+- 12 Desperate Commoners + Senna Kard. These are civilians. Use L8 gestalt tools accordingly.
+- If the party uses AOE, 2d4 bystanders take collateral damage (they were in the crowd behind the combatants). This creates the same Epilogue consequence as Session 3 mob AOE, but amplified: the city watched the party use high-level magic against desperate civilians at the ritual site. The victory reads differently in every post-session epilogue table.
+- DC 15 Persuasion/Performance to talk Senna down mid-combat. With daughters' names: DC 11.
+
+**The Last Stand (Keseph) at L8:**
+
+Keseph as written (CR 3) is not a threat to a L8 gestalt party. Replace his stat block with the **enhanced Keseph** version: use the Archmage stat block (MM p.342, HP 130, 9th-level spells) reflavoured for his academic-political profile. His *Counterspell* reflex is now DC 17, and he has Legendary Resistance 1/day. He still folds when his treason is revealed — but surviving long enough for the reveal to land requires the players to not just incinerate him in Round 1.
+
+**Ritual Mechanics — L8 Gestalt:** Concentration check: DC 14 as written. The real pressure is the secondary objectives during combat, not the check.
+
+**Post-Combat Window:** Every player gets one moment before the activation signal — roughly 15 minutes for 6 players. Do not shortcut this. The activation signal is the last meaningful decision of the campaign. Give it silence. Give it weight. Give it whatever the table has earned.
+
+**Ritual Activation Marker:** Keep it visible throughout. Amber stones are the tension. Update it in front of players whenever a Dawnborn is displaced. At L8 with Ashring Lair Actions pulling people around the plaza, someone is going amber in Round 2. Make sure the table sees it happen.
+
+---
+
+### Reckoning Inquisitor
+
+*Use this stat block when Harran was captured or killed in Session 4 and the Reckoning still has operational capacity.*
+
+*Medium humanoid (human), neutral*
+
+**Armor Class** 17 (chain shirt + shield)
+**Hit Points** 143 (22d8 + 44)
+**Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 13 (+1) | 13 (+1) | 14 (+2) | 16 (+3) | 18 (+4) | 16 (+3) |
+
+**Saving Throws** Wis +8, Cha +7
+**Skills** Arcana +7, Insight +8, Investigation +7, Persuasion +7
+**Senses** passive Perception 14 | **Languages** Common, Elvish | **CR** 8 (3,900 XP)
+
+**OGAS**
+- *Occupation:* The Reckoning's intelligence and theological coordinator for the Varenhold chapter. Has been watching this campaign unfold from a distance for five sessions.
+- *Goal:* Stop the ritual from proceeding with coerced or absent participants. Unlike Harran, she would accept Ending A (genuinely full consent). She is here because the city is about to do the worst thing it can do — not the worst thing available, just the worst thing available *to it* — and she needs someone to see her refuse.
+- *Attitude:* Toward players: precise, informed respect. She knows which sessions she was watching. She has opinions about every choice. She will say so if asked, mid-combat or otherwise.
+- *Secret:* She is the one who told Harran about the Chancellor's advance warning. She thought it would stop him from acting; instead it gave him permission. She has been living with that since Session 4.
+
+---
+
+**Traits**
+
+**Legendary Resistance (1/Day).** If the Inquisitor fails a saving throw, she can choose to succeed instead.
+
+**The Long Watch.** The Inquisitor has observed every major decision the players have made since Session 1. She has advantage on Insight checks against any player character she has studied. In return, players who succeed on a DC 15 Insight check during conversation with her realise she knows things about them. Specific things. This is not magic. This is eleven weeks of watching.
+
+---
+
+**Actions**
+
+**Multiattack.** The Inquisitor makes two mace attacks, or one mace attack and casts one spell of 3rd level or lower.
+
+**Mace.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
+
+**Spellcasting.** 11th-level spellcaster (Wis, DC 16, +8 to hit):
+- Cantrips: *guidance, sacred flame, thaumaturgy*
+- 1st level (4 slots): *bless, command, healing word*
+- 2nd level (3 slots): *calm emotions, hold person, spiritual weapon*
+- 3rd level (3 slots): *beacon of hope, dispel magic, mass healing word*
+- 4th level (3 slots): *banishment, death ward, guardian of faith*
+- 5th level (2 slots): *flame strike, mass cure wounds*
+- 6th level (1 slot): *harm*
+
+---
+
+**Legendary Action**
+
+The Inquisitor can take 1 Legendary Action per round, only at the end of another creature's turn.
+
+**Cast (1 action).** The Inquisitor casts a cantrip.
+**Command Ally (1 action).** One Reckoning Veteran within 60 feet makes one weapon attack or uses Disengage as a reaction.
+
+---
+
+**Tactics**
+
+Round 1: *Banishment* on the most physically dangerous player (DC 16 Charisma save or removed for up to 1 minute). *Guardian of Faith* summoned adjacent to the central dais.
+Round 2: *Hold Person* on whichever player is closest to the Inquisitor. Legendary Action: Command Ally to go after a displaced Dawnborn.
+Round 3+: *Dispel Magic* on any ongoing player concentration effect. Uses *harm* if brought below 70 HP — she is not above ending a fight decisively.
+Surrender condition: Reduced to 0 HP with non-lethal damage, or if a player explicitly invokes her stated goal (stopping coerced sacrifice) and succeeds on DC 14 Persuasion. She stops fighting people who agree with her. She always has.
+
+---
+
 ## Stat Blocks
 
 ---
@@ -683,6 +831,97 @@ You don't need to answer these questions yourself, as the GM. But you can. Somet
 Keseph positions at maximum spell range and uses *slow* in Round 1 to reduce the number of players who can reach him. He prioritizes *hold person* on players who look physically threatening. If his treason is revealed during the combat, he uses *misty step* to flee immediately - he values survival over victory.
 
 **Capturing Keseph:** If reduced to 0 HP with non-lethal damage or captured, he will reveal his Solennite contacts in exchange for exile rather than execution. The players must decide if that deal is theirs to make.
+
+---
+
+### Mercenary Sellsword
+
+*Medium humanoid, neutral*
+
+*Use 6 of these alongside the Mercenary Captain and Keseph when the Keseph antagonist scenario is active. These are hired professionals, not ideologues — they fight for coin, not for the twilight.*
+
+**Armor Class** 14 (studded leather)
+**Hit Points** 22 (4d8 + 4)
+**Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 15 (+2) | 13 (+1) | 12 (+1) | 10 (0) | 10 (0) | 9 (-1) |
+
+**Skills** Athletics +4, Perception +2
+**Senses** passive Perception 12
+**Challenge** 1 (200 XP)
+
+---
+
+**Traits**
+
+**Hired Steel.** The Sellsword has no personal investment in the outcome. If the Mercenary Captain falls or surrenders, each Sellsword makes a DC 10 Wisdom saving throw. On a failure, they immediately disengage and leave the plaza. On a success, they continue fighting until combat ends.
+
+---
+
+**Actions**
+
+**Multiattack.** The Sellsword makes two attacks.
+
+**Shortsword.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+
+**Hand Crossbow.** *Ranged Weapon Attack:* +3 to hit, range 30/120 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
+
+---
+
+**Tactics**
+
+Sellswords guard Keseph's flanks in two pairs, focusing fire on any player who moves toward Keseph. They do not use lethal finishing blows — their contract was "protect the Warden," not "kill strangers." If a player surrenders or goes down, they hold rather than execute. They are not evil; they are mercenaries.
+
+---
+
+### Mercenary Captain
+
+*Medium humanoid, neutral*
+
+*Leads the six Sellswords. A former city militia sergeant who found private contracts more reliable than civic duty. Professional, controlled, and aware that Keseph's treason makes this contract very uncomfortable.*
+
+**Armor Class** 16 (chain mail, shield)
+**Hit Points** 45 (7d8 + 14)
+**Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 16 (+3) | 12 (+1) | 14 (+2) | 12 (+1) | 11 (0) | 14 (+2) |
+
+**Saving Throws** Str +5, Con +4
+**Skills** Athletics +5, Intimidation +4, Perception +2
+**Senses** passive Perception 12
+**Challenge** 2 (450 XP)
+
+---
+
+**Traits**
+
+**Contract Conscience.** If the players reveal Keseph's treason (proof of Solennite funding) during the combat, the Captain must succeed on a DC 12 Wisdom saving throw or immediately call his Sellswords off ("*I don't take traitor coin*") and allow them to pass. He will not fight for a man he believes has betrayed Varenhold. This is not weakness — it is the line he drew when he took his first contract.
+
+---
+
+**Actions**
+
+**Multiattack.** The Captain makes three attacks.
+
+**Longsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) if used two-handed.
+
+**War Cry.** *(Recharge 5–6)* The Captain rallies his forces. One allied Sellsword within 30 feet can immediately make one weapon attack as a reaction.
+
+---
+
+**Reactions**
+
+**Parry.** When a melee attack would hit the Captain, he adds +2 to his AC against that attack (must be wielding a melee weapon).
+
+---
+
+**Tactics**
+
+The Captain positions between Keseph and the most physically threatening player and uses War Cry to grant Keseph an extra attack opportunity on rounds when Keseph has already spent his Multiattack. He does not pursue — his job is to hold ground. If the treason revelation triggers Contract Conscience, he sheathes his sword, calls his Sellswords off, and says quietly: *"If what they're saying is true, Warden, we're done."*
 
 ---
 

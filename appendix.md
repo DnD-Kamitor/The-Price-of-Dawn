@@ -21,8 +21,8 @@
 | **Saret Onn** | Merchants' Compact senior rep | Compact House, Highmark | Merchants' Compact | Cordial - transactional |
 | **Helka** | Wayfarer's Rest proprietor | Ashfen Gate | Independent (Restorer sympathizer) | Helpful - knows everyone |
 | **Petra Vane** | Dawnborn (hiding) | Greenhollow village | Dawnborn | Frightened - needs approach carefully |
-| **Aldric Stone** | Dawnborn (dock master) | Lowmark docks | Dawnborn | Tired - wants this to be over |
-| **Cormac Drell** | Dawnborn (dock master, supply runs) | Lowmark | Dawnborn | Practical - do the work |
+| **Aldric Stone** | Dawnborn (blacksmith) | Lowmark forge | Dawnborn | Tired - wants this to be over |
+| **Cormac Drell** | Dawnborn (dock master) | Lowmark docks | Dawnborn | Practical - do the work |
 | **Ysel Maren** | Dawnborn (Auris faith) | Auris Cathedral | Dawnborn | Spiritual - has made peace |
 | **Harrow Seld** | Dusk Parish delegate | Lowmark / Ashfen Gate | Parishes | Impatient - suffering has run out of patience |
 | **Erem** | Ashfen Wadewalker | Saltgrass Clan territory | Ashfen Clans | Skeptical - been dismissed before |
@@ -196,12 +196,12 @@
 | **Tomas Areth** | Mediator / de facto judge | Precise | Undecided (calculating) |
 | **Lira Anwick** | Healer / grey sickness specialist | Devoted | Ambivalent (would say yes if alternatives fail) |
 | **Petra Vane** | Former city guard (hiding) | Frightened | Undecided (needs to be found) |
-| **Aldric Stone** | Dock master | Withdrawn | Reluctant no (almost yes) |
-| **Cormac Drell** | Dock master / supply runner | Grounded | Uncertain (doing the work while deciding) |
+| **Aldric Stone** | Blacksmith (Lowmark forge) | Withdrawn | Reluctant no (almost yes) |
+| **Cormac Drell** | Dock master | Grounded | Uncertain (doing the work while deciding) |
 | **Ysel Maren** | Auris faith practitioner | Peaceful | Willing (has made peace with it) |
 | **Orya Doss** | Mapmaker | Methodical | Conditional (wants proof the ritual works) |
-| **Davin Shore** | Tavern musician | Melancholy | Willing (has been waiting to decide for years) |
-| **Nin Fletch** | Spire apprentice researcher | Analytical | Opposed (believes in Isolde's alternative) |
+| **Davin Shore** | Night watchman / retired soldier | Melancholy | Willing (has been waiting to decide for years) |
+| **Nin Fletch** | Civic coordinator (Dawnhall supply) | Analytical | Opposed (believes in Isolde's alternative) |
 
 ---
 

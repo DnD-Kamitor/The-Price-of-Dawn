@@ -563,7 +563,7 @@ Corven's ritual proceeded in twelve stages, each requiring specific materials, p
 
 ### What the Inversion Actually Requires
 
-Corven designed a failsafe into Steps 6 and 7: an **inversion pathway** that would allow the anchors to release their energy voluntarily rather than through extinguishing. He built it because he understood that any living-resonance anchor might develop independent will over time (he was thinking about objects, not people, but the principle held).
+Corven designed a failsafe into Steps 6 and 7: an **inversion pathway** that would allow the anchors to release their energy voluntarily rather than through violent uncontrolled extinguishing. He built it because he understood that any living-resonance anchor might develop independent will over time (he was thinking about objects, not people, but the principle held). Corven believed the inversion would let the Dawnborn survive as ordinary people, their Lux energy released cleanly. He was wrong about this. The inversion extinguishes them — the difference is that their deaths are not violent and the energy completes the solar binding rather than releasing uncontrolled. The price remains ten lives. The inversion path means those lives count for something.
 
 The inversion pathway requires:
 
@@ -572,7 +572,7 @@ The inversion pathway requires:
 3. **The central inscription active** - the Primer Stones must be in resonance sequence before the simultaneous activation; the inscription serves as the focusing lens
 4. **No external magical interference** - any disruptive spell cast within 30 feet of the circle during activation attempts to hijack the inversion pathway
 
-If all four conditions are met: the energy releases upward, the solar binding completes, the sun rises. The Dawnborn survive, diminished - their extraordinary abilities fade over weeks as the stored energy disperses, but they live.
+If all four conditions are met: the energy releases upward, the solar binding completes, the sun rises. The ten Dawnborn are extinguished in the process — they do not survive. Their deaths are not violent and they do not appear to experience pain. The campaign ends with the sun and without the people who made it possible.
 
 **If even one anchor is absent or unwilling:** the inversion pathway cannot complete. The ritual either fails (if fewer than five anchors are present) or defaults to the destructive completion path (if five or more anchors are present and the ritual energy builds past a threshold without inversion).
 
@@ -585,12 +585,12 @@ If all four conditions are met: the energy releases upward, the solar binding co
 | Anchors Present and Willing | Ritual Result |
 |---------------------------|--------------|
 | 1-2 | Nothing. Insufficient energy to trigger any reaction. The stones pulse briefly. |
-| 3-4 | The twilight brightens slightly (from Session 1-2 resting state). Temporary. Fades within weeks. No change to grey sickness rates. |
+| 3-4 | The twilight brightens noticeably. Fades over weeks, but during that period grey sickness progression slows marginally. Not a solution, but measurably better than the current state. |
 | 5 (standard) | Measurable brightening; crops improve marginally; grey sickness slows. Not a solution. Repeating this requires 5 more willing Dawnborn - a diminishing resource. |
 | 5 (surge-phase anchors) | Better brightening; crops improve significantly; grey sickness halts. Still not a solution. The remaining 5 Dawnborn lose their surge-phase advantage if the 5 have contributed. |
 | 6-9 | Substantial improvement approaching pre-twilight conditions. The sun does not rise, but the sky is warm enough to approximate it. Some crops fail to notice the difference. |
 | 10 (all, destructive path) | Sun rises. All ten Dawnborn die. The process takes approximately three minutes. It does not appear painful from the outside. |
-| 10 (all, inversion path) | Sun rises. All ten Dawnborn survive. The process takes approximately thirty seconds. The Dawnborn describe it afterward as "letting something go." |
+| 10 (all, inversion path) | Sun rises. All ten Dawnborn are extinguished — they die, but without violence, and the energy completes the solar binding rather than releasing destructively. The process takes approximately thirty seconds. |
 
 ---
 

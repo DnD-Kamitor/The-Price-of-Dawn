@@ -10,6 +10,8 @@
 
 ## Pacing Guide
 
+*Target: 3 hours standard; 4.5–5.5 hours for 6-player parties. See Gestalt / Large Party Scaling section for recommended cuts.*
+
 | Time | Scene | Type |
 |------|-------|------|
 | 0:00-0:15 | Opening: Time Pressure (Tomas's chart) | Roleplay |
@@ -86,11 +88,15 @@ Each path is a real option. None of them are perfect. Present all three through 
 
 **What It Is:** An incomplete reading of the ritual texts suggests that *concentrated* rather than distributed extinguishing might work. Instead of all ten Lux Anchors, perhaps three with the strongest connections could provide enough energy to trigger the sun's return.
 
-**The Moral Cost:** This is speculation. Theron cannot verify it without the destroyed section of Corven's notes. There is approximately a 40% chance that three deaths would accomplish nothing and the remaining seven Lux Anchors would be permanently destabilized.
+**The Moral Cost:** This is speculation. Theron cannot verify it without the destroyed section of Corven's notes — the Reckoning raid in Session 2 burned the folios that contained Corven's full birth-phase analysis. What Theron has is a partial reconstruction. He can identify the three most prominent resonance signatures from the surviving data, but the complete picture likely includes more.
+
+*This matters: Tomas Areth will reveal in Session 4 that the full analysis shows five surge-phase anchors, not three. Theron's number is correct given his damaged source material — he simply doesn't have the rest. If players flag this discrepancy directly, Theron can confirm it: "If there are pages I haven't seen, then yes, there may be more. I was working from what survived."*
+
+There is approximately a 40% chance that three deaths would accomplish nothing and the remaining seven Lux Anchors would be permanently destabilized. And even if it works, the partial ritual — fewer than ten anchors releasing — produces incomplete restoration: a brightening, not full dawn. The sun does not fully return.
 
 Also: three people still die.
 
-**The encounter beat:** Theron, midway through his explanation, stops. He says: *"I need to tell you something I haven't told you yet. The three strongest anchors - based on the resonance data - are not who you might expect. It's not Sera, Tomas, and Lira. It's Sera, Tomas, and Ysel Maren. Ysel is one of the willing ones. That means if this path is correct, the three who would need to die are exactly the three who have already volunteered."* He looks at the table. "I don't know what to do with that."
+**The encounter beat:** Theron, midway through his explanation, stops. He says: *"I need to tell you something I haven't told you yet. The three strongest anchors — based on the resonance data I have — are not who you might expect. It's not Sera, Tomas, and Lira. It's Sera, Tomas, and Ysel Maren. Ysel is one of the willing ones. That means if this path is correct, the three who would need to die are exactly the three who have already volunteered."* He looks at the table. "I don't know what to do with that."
 
 **NPC Reactions:**
 - Sera: *"If it's verified, I'd do it. But I won't die on a maybe."*
@@ -121,9 +127,9 @@ But: if the willing three go first, and the ritual *begins*, does the momentum c
 
 **Key Decision Point:** Do the players facilitate the willing deaths? Do they try to use the partial ritual as cover? And once they start, can they stop?
 
-**Meeting Davin Shore:** If players go to meet Davin directly, they find him at the river docks doing what he always does - supervising cargo, moving crates, being useful. He talks to them between tasks.
+**Meeting Davin Shore:** If players go to meet Davin directly, they find him on his watchman's circuit through the Ashring quarter — moving at a patrol pace, pausing at corners, nodding to the people who know him. He's been walking this district for years. He talks to them without breaking stride.
 
-> "People keep expecting me to be afraid," he says, not looking up from a manifest he's checking. "I've had fifty years to figure out what I am. That's not nothing." He sets down the manifest. "I'm not doing this because someone told me to. I'm doing it because I've thought about it longer than any of you have." He hands the manifest to a dockworker. "Now. Do you have a plan or not?"
+> "People keep expecting me to be afraid," he says, scanning the street ahead out of habit. "I've had fifty years to figure out what I am. That's not nothing." He pauses at a corner, checks that the lane is clear, then looks at them. "I'm not doing this because someone told me to. I'm doing it because I've thought about it longer than any of you have." He turns and continues his round. "Now. Do you have a plan or not?"
 
 On him is a small carved wooden disc on a cord around his neck - a token he had made when he made his decision. On one side: his name. On the other: *"Of my own choosing."*
 
@@ -137,9 +143,17 @@ On him is a small carved wooden disc on a cord around his neck - a token he had 
 
 **Scene:** Isolde's laboratory, a cluttered room on the third floor of a Spire annex building. The smell of reagents and hot metal. A faint electrical hum. The resonance cage sits in the center of the room like the skeleton of a lantern - all brass framework and exposed wire, glowing faintly at the joints where the rods are installed.
 
-*Players who look around the room before speaking to Isolde: a shelf of specimen jars. One contains a bird, perfectly preserved, drained of color. A second contains a mouse, alive but grey - it moves, but everything natural about its movement is slightly wrong, like watching something walk through water. Isolde notices them noticing.*
+*Players who look around the room before speaking to Isolde: a shelf of specimen jars. One contains a bird, perfectly preserved, drained of color. A second contains a mouse, alive but grey - it moves, but everything natural about its movement is slightly wrong, like watching something walk through water. The third contains a potted flower from the Dawnhalls that has crystallized into something beautiful and inert.*
+
+*The mouse is the one to watch. It survived. But it does not act like a mouse anymore. It does not flinch when players approach the jar. It does not show fear or curiosity. It was a mouse before. Now it is something that looks like a mouse from a distance.*
+
+*DC 14 Medicine or DC 13 Arcana to name what players are seeing:* The mouse's energy was successfully extracted. It is alive. But the extraction didn't just remove the magical resonance — it removed something that was integrated into what the mouse was. Players who make this check understand the implication before Isolde says anything: a Dawnborn who survives the transfer might not be the person they were.
 
 > "The mortality estimate I gave you was the best-case projection," she says, before they can ask. "The actual range is wider. I've been working on improving it."
+
+*If players point at the mouse:* She is quiet for a moment longer than is comfortable. "The extraction worked. Technically. Every vital sign is normal." She does not look at the jar. "I am still deciding what 'normal' means in this context."
+
+> **GM Note — The Altered State Problem:** This is the adult problem at the heart of Path 3. The transfer does not kill the Dawnborn. It may do something harder to name. Fifty years of being a Lux Anchor is not just a magical condition — it is woven into how the Dawnborn process the world. Their heightened insight, their resilience, Sera's instinct for threat, Lira's particular attunement to what a body needs — these are not separable from the anchor. Post-transfer, they would survive. They might not recognize themselves. *This needs to be a player choice, not a GM revelation.* Let them figure out what the mouse means. Let them decide whether "alive but changed" is better or worse than "dead but whole." There is no correct answer. That is the point.
 
 **What It Is:** Isolde believes the Lux Anchor energy is transferable. If extracted from the Dawnborn and placed into a non-living anchor vessel with the correct sympathetic resonance, the ritual could proceed without anyone dying.
 
@@ -219,7 +233,9 @@ Without the notation key: **DC 15 Intelligence** to deduce the correct symbols f
 
 1. **Three specimen reports** - detailed notes on the extraction attempts: the bird (died immediately, energy dissipated), the mouse (survived but permanently altered - "extraction successful, residual cost unclear"), and a third subject (a potted flower from the Dawnhalls gift shop - it crystallized into something beautiful and inert).
 
-2. **Isolde's private journal, most recent entry:** *"The mortality estimate I gave them is 20-30%. The actual range from my models is 35-55%. I need to be honest about this. I will be honest about this. I am going to tell them tomorrow."* The date is eight days ago.
+2. **A fourth specimen report, separate from the others, face-down:** Notes on the mouse specifically, dated three months after the main extraction report. *"Day 94. Subject continues to survive. Appetite normal. Vital functions unchanged. However: subject no longer responds to stimuli it previously found threatening. No startle response. No social grooming behavior. No territorial displays. I have introduced a second mouse — unaltered — to the enclosure. The first mouse does not interact with it. It does not flee. It does not fight. It exists in the enclosure. I do not know what to call this. I do not know if it suffers. I do not know if the concept applies. This is the outcome I have been afraid to write down."*
+
+3. **Isolde's private journal, most recent entry:** *"The mortality estimate I gave them is 20-30%. The actual range from my models is 35-55%. I need to be honest about this. I will be honest about this. I am going to tell them tomorrow."* The date is eight days ago. On the next page, in smaller handwriting: *"What I have not told them, and what I do not know how to tell them: I do not know if surviving the transfer is better than dying in it. The mouse survived. I would not describe what the mouse is now as 'safe.' I have spent three months trying to find a word for it. I have not found one."*
 
 3. **A draft letter to the City Council,** never sent, requesting official research status and emergency resources for the transfer project.
 
@@ -265,6 +281,8 @@ They are both right.
 
 > **GM Tip:** This is the players' cue. They have limited time before the situation becomes public. Tomas is not bluffing. If the players have built trust with him, he'll give them the seven days. If not, the timeline compresses.
 
+**If players bring Isolde's Transfer option to the Chancellor:** She will listen fully, then ask three precise questions: *"What is the mortality risk for the Dawnborn during extraction? How certain is Isolde that it will work? And is she aware that I would be authorizing the destruction of the Cathedral?"* She is not sentimental about the Cathedral — she is calculating whether the political cost of destroying it (the Auris clergy, the Wounded faction, the city's cultural identity) is lower than the political cost of forced sacrifice. If the players have evidence of Isolde's successful resonance calibration (the cage producing stable amber resonance), the Chancellor will authorize Isolde to continue under official Spire oversight. If they have only Isolde's word, the Chancellor will say: *"Bring me proof it works. I will not gamble the Cathedral on a theory."* This is not obstruction — it is exactly the standard she should be applying. She is buying the players time while they get Isolde's full analysis, which is the correct order of operations before Session 4.
+
 ### Edoran and Ysel at the Cathedral
 
 Players may witness - or be told of - Edoran meeting Ysel at the Cathedral. Not secret. They are very calm. They are discussing timing.
@@ -281,7 +299,9 @@ Players may witness - or be told of - Edoran meeting Ysel at the Cathedral. Not 
 
 **When:** Late afternoon, as players are moving between locations. The Lowmark near the Dawnhalls.
 
-**What the players see, hear, smell:** A street that's been blocked at both ends. Maybe forty people - some holding tools, some just standing, some shouting. In the middle: Senna Kard, a woman in her thirties with a dockworker's build and the specific exhaustion of someone who has been awake for thirty hours. Beside her, two people are restraining **Davin Shore** - arms held, not hurt. Davin is not struggling. He is watching the players.
+**What the players see, hear, smell:** A street that's been blocked at both ends. Maybe forty people — some holding tools, some just standing, some shouting. In the middle: Senna Kard, a woman in her thirties with a dockworker's build and the specific exhaustion of someone who has been awake for thirty hours. Beside her, two people are restraining **Davin Shore** — arms held, not hurt. Davin is not struggling. He is watching the players.
+
+Near the back of the crowd, two figures stand slightly differently from the rest — shoulders squared, weight on their front feet, scanning exits. **DC 10 Perception** to notice that both wear city guard belt buckles and have the posture of trained fighters who are *containing* the mob rather than participating in it. They are off-duty guards who joined the crowd; killing them is a qualitatively different consequence than harming civilians. Players who notice them before the fight can call them out directly ("You're guards — you know this ends badly") with a DC 12 Persuasion check to get them to stand aside from the start.
 
 **What the players smell:** Woodsmoke from an overturned brazier. Unwashed wool. Someone's spilled fish broth.
 
@@ -445,7 +465,7 @@ Ask the players directly: *"If all the choices are bad, do you still have to cho
 
 ---
 
-### Davin Shore, Dawnborn Dock Master
+### Davin Shore, Dawnborn Night Watchman
 *Medium humanoid (human), neutral good*
 
 **AC** 15 (chain shirt + shield) | **HP** 52 (8d8+16) | **Speed** 30 ft.
@@ -468,14 +488,14 @@ Ask the players directly: *"If all the choices are bad, do you still have to cho
 - *Short Sword.* *Melee Weapon Attack:* +5 to hit. *Hit:* 6 (1d6+3) piercing.
 
 **OGAS:**
-- **O:** Dock Master, manages freight on the river wharves
+- **O:** Night watchman, Ashring quarter; retired soldier
 - **G:** To have his choice respected and acted upon; to not die waiting for someone to give him permission
 - **A:** Respectful of the players; faintly impatient with anyone who wants to debate instead of plan
 - **S:** He's afraid Cormac Drell (the other willing Dawnborn) is wavering. He hasn't said this to anyone.
 
 ---
 
-### Cormac Drell, Dawnborn Dock Worker
+### Cormac Drell, Dawnborn Dock Master
 *Medium humanoid (human), neutral*
 
 **AC** 12 | **HP** 26 (4d8+8) | **Speed** 30 ft.
@@ -491,7 +511,7 @@ Ask the players directly: *"If all the choices are bad, do you still have to cho
 - *The Wavering.* Cormac is reconsidering. Not because he's afraid - because he met someone last week. A woman from the Dusk Parishes with two children. He hasn't told Davin. He's telling himself it doesn't change anything.
 
 **OGAS:**
-- **O:** Day laborer at the river docks
+- **O:** Dock master; manages Varenhold's river port and the barge traffic that keeps the city fed
 - **G:** To make a decision that matters; to not disappear into a world that doesn't remember he was here
 - **A:** Quiet around the players, waiting to see what kind of people they are
 - **S:** He's wavering. He's not sure he's still willing. This changes the partial ritual math significantly if the players find out.
@@ -565,6 +585,29 @@ Ask the players directly: *"If all the choices are bad, do you still have to cho
 
 **Actions**
 - *Spear.* *Melee or Ranged Weapon Attack:* +4 to hit. *Hit:* 5 (1d6+2) piercing.
+
+---
+
+## Gestalt / Large Party Scaling — Level 6
+
+*Session 3 plays at Level 6. Subclass capstones are active. 4th-level spell slots available. Characters have two full class progressions worth of features and are functionally near-mythic by standard 5e benchmarks. Effective thresholds for 6-player gestalt L6: Easy ≈ 6,000 | Medium ≈ 12,000 | Hard ≈ 18,000 | Deadly ≈ 27,000.*
+
+**The hard truth about Senna's mob at L6:** A gestalt party at Level 6 can end the mob combat in one round of AOE without any secondary objectives at risk. Do not try to fix this with more HP. The combat is not the challenge — the cost of winning it badly is the challenge.
+
+**Make the moral stakes hurt instead:**
+- **5 Veteran Dockworkers** (Thug stat block). If players use AOE (Fireball, Spirit Guardians, etc.), rule that 1d4 non-combatant bystanders in the market stalls take collateral damage. They weren't listed as combatants. They weren't out of range. Track this: it affects the Epilogue tables and the city's relationship with the players.
+- **Senna at 45 HP**, 3 attacks, *Crowd's Voice* extends to Veterans. She can genuinely threaten an isolated player.
+- **De-escalation after Davin speaks: DC 14.** A table that auto-passes every social check should still have to say the right thing.
+- The secondary objective "Free Davin without harming the mob" now also includes: *without using magic that creates clear radii of devastation in a civilian street*. Players who cast Hypnotic Pattern on forty people get a different Scene 3B than players who don't.
+
+**Puzzle DCs for L6 Gestalt:**
+- Resonance Rods (with Midwife's Records + Astronomical Charts): DC 16 Arcana / DC 14 Investigation.
+- Without either document: DC 20 Arcana to deduce from Isolde's lab notes.
+- Laboratory Lock (with notation key): DC 15 Intelligence. Without key: DC 19.
+
+**The Altered State Problem:** The fourth specimen report and Isolde's extended journal entry are the emotional core of Session 3 for a sophisticated party. A L6 gestalt party will find both inside ten minutes. The challenge isn't finding it — it's what they do with it. Make sure each player at the table has said something about what they think "alive but changed" means before you move to Scene 4.
+
+**Pacing for large parties at L6:** 5–6 hours. Protect the Sera/Lira argument and mob scene regardless of what gets cut. The three paths + alt conversations will naturally fill a long session at this player count. If short on time: cut Path 1 (Theron's partial ritual) to a single exchange — the Asymmetry Journal in Session 4 supersedes it.
 
 ---
 

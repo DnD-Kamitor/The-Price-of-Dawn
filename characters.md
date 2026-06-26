@@ -87,7 +87,7 @@
 
 **Moral Hook:** Davan has spent his whole life doing the work without anyone asking if he was okay. The campaign will ask him, maybe for the first time, to make a choice rather than just respond to a situation. *Key tension: action vs. inaction. Is doing the work enough, or is there something he's been avoiding by staying in motion?*
 
-**Connections to Campaign:** Aldric Stone's dock office is two blocks from Davan's childhood home; he's seen Aldric his whole life and will have specific opinions about any decision Aldric makes. Lira Anwick has treated his mother for eight years.
+**Connections to Campaign:** Aldric Stone's forge is two blocks from Davan's childhood home; he's seen Aldric his whole life and will have specific opinions about any decision Aldric makes. Lira Anwick has treated his mother for eight years.
 
 ---
 
