@@ -39,6 +39,7 @@ book:
         - session-recording.md
     - part: "The Sessions"
       chapters:
+        - plot-overview.md
         - session0-5.md
         - props-session0-5.md
         - print-props-session0-5.md
