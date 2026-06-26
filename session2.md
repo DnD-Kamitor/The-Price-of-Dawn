@@ -12,16 +12,17 @@
 
 | Time | Scene | Type |
 |------|-------|------|
-| 0:00-0:15 | Opening: What Changed | Ambient / Roleplay |
-| 0:15-0:55 | Scene 1: The Archivist Breaks + Puzzle | Investigation / Revelation |
-| 0:55-1:15 | The Silence and Branching Point | Roleplay |
-| 1:15-1:40 | The Riddle: Theron's Journal | Investigation |
-| 1:40-2:10 | Scene 2/3: The Reckoning Raid (Combat) | Combat |
-| 2:10-2:40 | Scene 3A/3B/3C/3D: What Do You Do? | Roleplay |
-| 2:40-2:55 | Scene 4: Edoran's Perspective | Roleplay |
-| 2:55-3:00 | Closing beat + post-session question | Narrative |
+| 0:00-0:10 | Opening: What Changed | Ambient |
+| 0:10-0:45 | Scene 1: The Reckoning Raid (Archive) | **Combat** |
+| 0:45-1:05 | Scene 1B: The Ritual Diagram | **Puzzle** |
+| 1:05-1:25 | Scene 1C: Theron Breaks | RP Reveal |
+| 1:25-1:55 | Scene 2: Reckoning Vanguard (Dawnhalls) | **Combat** |
+| 1:55-2:10 | Scene 2B: Theron's Journal | **Riddle** |
+| 2:10-2:35 | Scene 2C: Do You Tell Them? | RP Branching |
+| 2:35-2:50 | Scene 3: Edoran (mid-aftermath) | RP |
+| 2:50-3:00 | Closing beat | Narrative |
 
-*The combat and the branching point can swap order. If players move immediately to tell the Dawnborn, let that scene happen first and drop the Reckoning into it (they raid the Dawnhalls instead of the Archive).*
+*Guy Sanders structure applied: every scene block is Combat → Puzzle → RP reveal. The information lands after they've fought for it. The Dawnborn are in the room when the branching choice happens — it's not abstract.*
 
 ---
 
@@ -69,37 +70,97 @@ Start Session 2 with a brief "what has the city been doing." Pick 1-2 of these d
 
 ---
 
-## Scene 1: The Archivist Breaks
+## Scene 1: The Reckoning Raid
 
-![Theron's disclosure - the Archive's restricted level, the sealed documents on the table between them, eleven years of silence ending in a single sentence](images/session2-theron-disclosure.png)
+**Guy Sanders structure: Combat → Puzzle → RP reveal**
 
-**Location:** The Civic Repository, a different room than before - less organized, as if Theron has been pulling things and not putting them back.
+![The Reckoning at the Archive — smoke in the stacks, documents at risk, Theron barricaded behind his reading alcove](images/session2-theron-disclosure.png)
 
-### Two Entry States
+**Location:** The Civic Repository. The party arrives to find the front door ajar. The duty clerk is gone. From upstairs: sounds of furniture moving. Fast. Purposeful.
 
-**If the players pressed him in Session 1:** He has prepared the original ritual text and is clearly exhausted from the decision to share it.
+### Read-Aloud
 
-> "I've been awake most of the night. I kept asking myself what Corven would have wanted - but that's not useful, he's dead. So I asked myself what I would want if I were in your position." *(He places the text on the table.)* "I would want to know."
+> The Repository's front door stands open six inches. No clerk at the desk. The amber light from the corridor lanterns falls across an overturned inkwell nobody has cleaned up.
+>
+> From the second floor, the sound of shelves being moved — not falling, not ransacked. Searched. Someone who knows what they're looking for.
+>
+> Then Theron's voice, through the floor: *"I have already told you — those documents are Council property, you cannot—"*
+>
+> A second voice, flat: *"We're past telling."*
 
-**If the players did *not* press him:** He is surprised to see them again - and immediately guilty-looking.
+The Reckoning got here first. Three Guards are on the second floor systematically pulling folios. A Fanatic entered from the upper window and has Theron cornered in his reading alcove. Captain Marsh is on the stairs — the pinch point between the party and Theron.
 
-> "Oh. You're back. Yes. I've been thinking - there are some passages I perhaps described too hastily as difficult. If you have time, I'd like to revisit that."
+### Combat: The Archive (Scene 1)
 
-Either path leads to the same place: the original ritual text, and Theron finally translating what it means.
+*Same terrain as Session 1. Players know this building now — use that.*
 
-### The Reveal
+**Combat order:**
+- **Round 1**: Marsh on stairs, blocking. 2 Guards on 2nd floor with Theron. 1 Fanatic at alcove with Theron.
+- **Round 2**: If Guards are not engaged, one begins bundling the ritual text (takes 2 actions to complete). Marsh calls: *"Get the text. We're not leaving without it."*
+- **Round 3 trigger**: If 2 operatives drop, Marsh orders the fire.
 
-Theron walks them through the ritual's actual mechanism slowly, in the language of a scholar who has been dreading this conversation for eleven years.
+**New wrinkle — Theron is a liability:**
+He is barricaded in his alcove. He will not leave on his own. Any player who reaches him must spend their Bonus Action giving him a clear route out before he moves. Until then, the Fanatic has him effectively hostage — attacking the Fanatic risks Theron taking the backlash.
 
-### Read-Aloud (Theron's Explanation)
+*Ixa's psionic range solves this quietly. Keiran can flank through the center gap. Kaelen's Commander's Strike calls a specific target so the Fanatic turns away from Theron first.*
+
+**Secondary objectives** — same as original, now with higher stakes:
+
+| Objective | Condition | Reward |
+|---|---|---|
+| **Protect the ritual text** | No folio leaves + fire doused in 2 rounds | All Session 3 clues intact; Investigation advantage on future Archive checks |
+| **Evacuate Theron** | BA to clear his route; no attack hits him | He trusts them completely — shares the one piece he was still holding back |
+| **Capture Marsh** | Reduce to 0 HP subdual or grapple (DC 14 STR) | Reckoning's next target; plus he knows where Petra Vane is |
+
+**The Stacks Ignite** (unchanged — see stat blocks section for fire mechanics)
+
+### After Combat: Document Recovery
+
+The fire is out (or still smoldering if they let it go). Theron emerges from the alcove. He looks at the text. He looks at his hands. He looks at them.
+
+*No combat note, no GM prompt — just the room, the smoke smell, the overturned shelves, and Theron standing in the middle of it holding the documents he couldn't bring himself to share.*
+
+---
+
+## Scene 1B: The Ritual Diagram (Puzzle)
+
+**Where it happens:** Theron spreads the ritual text on the cleared table while the smoke settles. The document recovery is still happening around them.
+
+**Setup:** The original ritual text survived. Players who examine it — or who help Theron sort and verify what's intact — discover the resonance diagram naturally, in the process of confirming nothing was destroyed.
+
+*Running this at the table:* Don't call it "the puzzle." Hand players the prop (or describe the diagram). Ask: *"You're checking what they were after. What do you look for?"*
+
+**The Mechanic — Three Tiers:**
+
+**Tier 1 — DC 12 Investigation or Arcana** *(down from 10 — the smoke is making it harder, the pages are disordered):*
+Ten anchor positions, one focal point: the Ashring plaza. Simultaneous activation required.
+
+**Tier 2 — DC 15 Investigation or Arcana, or Session 1 notation key:**
+Two anchor positions share a secondary link running through a demolished building on the Spire Quarter's eastern edge. Foundations are still there. The Cathedral now occupies adjacent ground.
+*Significance: First hint of Isolde's transfer method. Players who note this are ahead in Session 3.*
+
+**Tier 3 — DC 18 Arcana** *(DC 13 with notation key + History DC 12):*
+A symbol Theron missed — or chose not to mention. An **inversion pathway**: if all ten Lux Anchors are present at the Ashring and *choose willingly* to release stored energy simultaneously, the ritual runs backward. Safe dispersal. Sun returns. No deaths. The word "willing" appears twice in the notation. "All ten" appears three times. One unwilling or absent anchor defaults to the destructive path.
+
+*This is the alternative. Players who find it in Session 2 know it exists. They'll learn its full requirements in Session 4.*
+
+**If players find Tier 3 and show Theron:**
+
+> He stares at it for a long moment. *"I have been reading this text for eleven years."* He doesn't finish. He looks ashamed the way someone looks when they've been caught not looking hard enough at something they were afraid of. Then: *"This changes things. If all ten choose it — no one has to die. But all ten. Simultaneously. Willingly."* A pause. *"I don't know if that's possible."*
+
+---
+
+## Scene 1C: Theron Breaks (RP Reveal)
+
+*This is the reveal. It happens AFTER combat and AFTER the puzzle. They earned it.*
 
 > He flattens the text on the table and puts on his reading spectacles. His hands are very still now.
 >
-> "The Ritual of Eternal Dawn required a conduit. Something to anchor the solar energy as it was amplified, so it wouldn't simply disperse. Corven used a variant of sympathetic resonance - a binding that would create living receptors capable of holding the energy in stable form." He pauses. "The receptors were not supposed to be people."
+> "The Ritual of Eternal Dawn required a conduit. Something to anchor the solar energy as it was amplified, so it wouldn't simply disperse. Corven used a variant of sympathetic resonance — a binding that would create living receptors capable of holding the energy in stable form." He pauses. "The receptors were not supposed to be people."
 >
 > He looks up.
 >
-> "The backlash changed that. Ten children, born at the moment of inversion, absorbed the conduit function instead of the intended mechanism. They became - Corven's notation for this is 'Lux Anchors.' The energy is inside them. Has been for fifty years."
+> "The backlash changed that. Ten children, born at the moment of inversion, absorbed the conduit function instead of the intended mechanism. They became — Corven's notation for this is 'Lux Anchors.' The energy is inside them. Has been for fifty years."
 >
 > He takes off his spectacles.
 >
@@ -107,15 +168,115 @@ Theron walks them through the ritual's actual mechanism slowly, in the language 
 
 ### The Silence
 
-Give the table a moment. Don't rush past it.
+Give the table ten full seconds. Don't fill it.
 
 Then: *What do you do?*
 
-> **GM Tip:** The reveal should not come with a plan. Don't give them options yet. Don't say "you could try this alternative." Just let them sit with the fact. Players who are given options immediately don't feel the weight - they feel a puzzle. This is not a puzzle yet.
+> **GM Tip:** No options yet. No "you could try this alternative." Just the fact. The puzzle already showed them Tier 3 exists — but Theron just confirmed the default path. Both things are true simultaneously. That's where the weight is.
 
 ---
 
-## The Puzzle: The Ritual Diagram
+---
+
+## Scene 2: Reckoning Vanguard at the Dawnhalls
+
+**Guy Sanders structure: Combat → Riddle → RP branching**
+
+**When it happens:** The party moves to the Dawnhalls — either to warn the Dawnborn, or because Sera sends word that something is wrong. Either way, the Reckoning got there first.
+
+**What's wrong:** Petra Vane isn't missing. She's being held. The opening beat described her as absent from patrol — that was the Reckoning creating an opportunity. Two Reckoning Guards and one Fanatic are in the Dawnhalls lower corridor with Petra. A fourth operative, a Reckoning Infiltrator, has been inside the building for three days posing as a meal volunteer.
+
+**Setup when party arrives:**
+
+Sera meets them at the door. She's tense. *"Petra didn't check in. I found the volunteer missing from the kitchen. Something's in the lower level."* She already has her longsword out.
+
+### Combat: The Dawnhalls Lower Corridor
+
+**Terrain:**
+```
+╔═══════════════════════════════════════════════════════╗
+║  [KITCHEN ENTRY — narrow]   [VOLUNTEER QUARTERS →]    ║
+║       │                                               ║
+║  ─────┤ MAIN CORRIDOR (20ft × 50ft)                  ║
+║       │                                               ║
+║  [STORAGE ALCOVES × 3]   [LOWER STAIRS ↓]            ║
+║                                                       ║
+║  [PETRA — restrained in alcove 2, 30ft in]           ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+**Enemy positions:**
+- Reckoning Infiltrator: starts in volunteer quarters, flanks when combat begins. Knows the building layout.
+- Guard × 2: blocking the corridor. One has Petra by the arm.
+- Fanatic: at the lower stairs, ready to descend with Petra if things go wrong.
+
+**Complication:** Petra is a Dawnborn. If the Fanatic gets her down the lower stairs, they have leverage — and a test subject. Stopping the Fanatic before round 3 is the secondary objective.
+
+**Sera fights here.** She is controlled and efficient — use her Leadership action to give one player +d4 on their next roll each round. If Keothi goes Large, he blocks the corridor completely; Guards cannot pass. Ixa can reach the Fanatic by round 2 via the alcove route without triggering the Guards. Kaelen's Rally gives Petra enough Temp HP to stop her being dragged.
+
+**Secondary objectives:**
+
+| Objective | Condition | Reward |
+|---|---|---|
+| **Free Petra before round 3** | Disrupt Guard holding her by round 2 | Petra is unharmed; she becomes a key Session 3 ally with information about Reckoning patterns |
+| **Capture Infiltrator** | He knows where Reckoning safe houses are; DC 13 Athletics to grapple before he bolts | +2 safe house locations; advance intel for Session 3 |
+| **Keep the corridor clean** | No Dawnhalls civilians enter during the fight | No grey sickness complications; the ward-emitter from Session 1 isn't replicated |
+
+**Reckoning Infiltrator (new):**
+*Uses Scout stat block (MM p.349), +10 HP = 26 HP total*
+- Knows the building. Advantage on Stealth checks inside it.
+- **Saboteur**: As a bonus action (1/combat), can disable a light source within 10 ft, creating a 15 ft radius of dim light. Keiran benefits. Everyone else doesn't.
+- Morale: Runs if Marsh is captured or if 3 operatives drop. Does not fight to the death.
+
+### After Combat — Petra
+
+She is shaken but not hurt. She's been restrained for two hours. She looks at Sera, then at the party.
+
+*"They wanted to know about the dreams. They had a list of questions. Not about the ritual — about what it feels like. From inside."*
+
+> **GM note:** The Reckoning isn't just after the documents. They're studying the Dawnborn's subjective experience of the Lux Anchor function. Why? That's Session 3. Plant it and don't answer it.
+
+---
+
+## Scene 2B: Theron's Journal (Riddle)
+
+**Where it happens:** While the party is recovering from the Dawnhalls fight — waiting for Petra to be seen to, or when Theron is brought in. He has his journal on him. He's been carrying it.
+
+*He opens it himself this time. He doesn't hide it. He places it on the table.*
+
+> *Day 4,017. Still counting. Still unable to tell them. The mathematics of love and duty: I know the answer, and I cannot say it aloud. The day I found out, the day I should have gone to them immediately, I told myself I needed more time. That was 4,017 days ago. What kind of scholar am I?*
+
+**The Riddle — Day 4,017:**
+4,017 days = 11 years. Players who do the math: the eldest Dawnborn turned 39 eleven years ago. **History DC 13**: eleven years ago an estate sale dispersed the notes of Corven's second assistant. Theron attended. He didn't find out from the Archive. He bought the knowledge privately and sat on it.
+
+**If players push him — *people died while you knew*:**
+
+He has a specific answer. He gives it.
+
+The Aldwyne family. Merchant husband, wife, two adult children. Four years ago they asked whether to emigrate to Solenne. He told them he was "close to understanding something that might change everything." He encouraged them to stay. He was not close. The father and eldest daughter died of grey sickness fourteen months later. The surviving wife and son left. Their address in Solenne is on a piece of paper in his coat. He has never written to them.
+
+> *"I told myself I was waiting until I had something to tell them. I never had something to tell them."*
+
+**If players confront him:**
+> *"I told myself I was waiting until I was certain. I was already certain. I was waiting until I had no other choice. You are my no other choice."*
+
+This can deepen trust or break it. Both are valid. Don't correct either response.
+
+---
+
+## Scene 2C: The Branching Point — What Do You Do With This?
+
+*The Dawnborn are in the room. Petra is sitting against the wall. Sera is standing. They can see the party has been carrying something since the Archive.*
+
+**The central question: Do you tell them now?**
+
+There is no mechanic. Ask it at the table.
+
+---
+
+## The Riddle: Theron's Counting
+
+*[This section is now embedded in Scene 2B above — the journal is found at the Dawnhalls, not passively at his desk.]*
 
 **Where it happens:** During or after Theron's reveal, as players examine the ritual text.
 
@@ -138,177 +299,106 @@ There is a small symbol in the center of the diagram that Theron didn't mention 
 
 ---
 
-## The Riddle: Theron's Counting
+## The Riddle: Theron’s Counting
 
-**Where it happens:** While Theron is preparing the text, or if players search his desk while he's out of the room.
-
-A small leather journal is visible on Theron's desk, open to a recent page. The entry reads:
-
-> *Day 4,017. Still counting. Still unable to tell them. The mathematics of love and duty: I know the answer, and I cannot say it aloud. The day I found out, the day I should have gone to them immediately, I told myself I needed more time. That was 4,017 days ago. What kind of scholar am I?*
-
-**The Riddle:** Day 4,017 from when? If players calculate:
-
-- 4,017 days = approximately 11 years
-- The eldest Dawnborn turned 39 eleven years ago
-- An **Investigation (DC 15)** or **History (DC 13)** check connects this to a notable event: an estate sale eleven years ago where a large private document collection was dispersed - including the notes of the ritual's lead assistant, Corven's second
-
-**What this reveals:** Theron didn't figure this out from the Archive. He bought the assistant's notes at a private estate sale. He has been sitting on definitive knowledge for eleven years and chose not to act because he couldn't face it. He is not a villain. He is a man who failed, and he knows it, and he has been counting the days.
-
-**The concrete cost of his silence:** If players push Theron after this revelation — *people died while you knew* — he has a specific answer. He does not dodge it. A merchant family named Aldwyne: husband, wife, two adult children. They came to him four years ago asking whether to emigrate to Solenne, where the climate was more stable. He told them he was "close to understanding something that might change everything" and encouraged them to stay. He was not close. He was stalling himself. They stayed. The father and eldest daughter died of grey sickness fourteen months later. The wife and younger son left six months after that. Theron has their address in Solenne on a piece of paper in his desk. He has never written to them. *"Every day I tell myself I'll write when I have something to tell them. I never have something to tell them."*
-
-This is not a plot point. This is a fact about who Theron is. It makes his eventual choice to help the players something players feel, not just note.
-
-**If players confront him with this:** He doesn't deny it. He says: *"I told myself I was waiting until I was certain. I was already certain. I was waiting until I had no other choice. You are my no other choice."*
-
-This moment can either deepen trust with Theron or break it. Both are valid responses.
+*[Embedded in Scene 2B above — runs at the Dawnhalls after the rescue, not passively at his desk.]*
 
 ---
 
-## The Combat: The Reckoning Raid
+## The Combat: The Reckoning Raid (Archive)
 
-**When it happens:** While players are still at the Archive, or immediately after the revelation (within the same scene block).
+*[Moved to Scene 1 above — combat now opens the session, before any reveal. Theron breaks AFTER they save him.]*
 
-**Who are the Reckoning?** A splinter group that broke from the Restorers because they disagree with Brother Edoran's consent-based approach. Where Edoran believes the willing Dawnborn have the right to choose, the Reckoning believes the ritual should proceed with or without consent - the city's survival overrides individual autonomy. They are not Edoran's people. He despises them.
+**Who are the Reckoning?** Splinter group from Restorers. Edoran believes in consent; the Reckoning believes the city’s survival overrides individual autonomy. They are not Edoran’s people. He despises them.
 
-**What they want:** The original ritual text. If they have it, they can proceed without the Council, without the players, and without asking permission from the Dawnborn.
+**The Stacks Ignite** — fire mechanics (referenced in Scene 1):
 
-**The Attack:**
-Three Reckoning Guards enter the Archive from the front while a Reckoning Fanatic comes through an upper window. The Reckoning Captain enters last, gives Theron exactly three seconds to hand over the text, and then acts.
+At the start of the **round immediately after two Reckoning operatives drop**, Captain Marsh orders: *”Burn it.”*
 
-**What makes this combat difficult:**
-- The Archive is narrow aisles and tall shelving. Movement costs extra (treat rows as difficult terrain).
-- The texts are flammable. If the Reckoning is losing, the Captain orders one guard to start burning shelves as a distraction. Players must choose between pursuing the Raiders and saving the documents.
-- Theron will panic and hide rather than help. If the players don't tell him where to go, he runs toward the fight instinctively (wrong direction).
+- A 10-ft shelf section becomes difficult terrain + heavy smoke. DC 13 CON save or disadvantage on attacks until start of next turn.
+- Anyone adjacent when fire ignites: DC 13 DEX save or 2d6 fire + drop held item.
+- Each unchecked round: spreads 5 ft, destroys one document bundle. Two bundles = “Protect the text” objective fails.
+- **Douse**: action or 1st-level spell slot (create water) clears 5 ft section.
 
-### Combat: Secondary Objectives
+**Marsh retreat condition:** 20 HP or below. Tries to take one page. Separate trigger from fire order.
 
-Winning the initiative roll isn't the point. What matters is what survives the raid.
+### Reckoning Guard (per guard)
+*Stat block unchanged — see original below.*
 
-| Objective | Condition | Reward |
-|-----------|-----------|--------|
-| **Protect the ritual text** | No folio leaves the room and any fire is extinguished within 2 rounds of ignition | All Session 3 clues stay available; players gain advantage on the next Archive-based Investigation check |
-| **Evacuate Theron** | Spend an action to direct/escort him to the secured reading alcove; no attack hits him | Theron’s trust increases immediately; he shares one extra piece of information at the end of the scene |
-| **Capture a Reckoning operative** | Reduce the Captain or at least one guard to 0 HP non-lethally (or restrain via magic) and succeed on a DC 14 Intimidation/Persuasion check after the fight | Intelligence on the Reckoning’s next target (useful foreshadowing for Sessions 3-4) |
+**Reckoning Guards (3) tactics:** Pairs. One grapples, partner strikes the restrained target. Target: weakest player. They kill. Unlike the Restorers.
 
-Failing an objective is a Living World consequence: missing pages raise the DC of Isolde's work; Theron taking damage delays his confession; no prisoners means guessing at the Reckoning’s agenda later.
+**Reckoning Fanatic tactics:** Enters from upper floor, drops into combat. Opens with *inflict wounds* from elevation if possible. *Hold person* on most dangerous player and flees if losing.
 
-### The Encounter Beat: The Stacks Ignite
-
-At the start of the **round immediately after two Reckoning operatives drop** (guards or fanatic), Captain Marsh snaps: *”Burn it.”* The surviving guard — or the Fanatic if both guards are down — topples a lantern into the nearest shelf as their action. Marsh does **not** retreat at this trigger; the fire is a tactical diversion to cover continued fighting, not a withdrawal signal. The moment the flame hits:
-
-- A 10-foot section of shelving becomes **difficult terrain** and emits heavy smoke; creatures entering or starting their turn there make a DC 13 Constitution save or gain disadvantage on attack rolls until the start of their next turn.
-- Anyone adjacent when the fire ignites must succeed on a DC 13 Dexterity save or take 6 (2d6) fire damage and drop whatever they're holding.
-- Each round the fire remains unchecked, it spreads 5 feet further and destroys one random document bundle (fail the “Protect the ritual text” objective after two bundles burn).
-
-Players can spend an action (or a 1st-level spell slot such as *create water*) to douse a 5-foot section. Clever solutions (mage hand lantern toss, gust of wind, etc.) apply as normal. The beat is the point where the combat becomes a race; make sure the urgency is felt.
-
-### Combat Tactics
-
-**Reckoning Guards (3):** Work in pairs. One grapples to restrain; the other strikes. They deliberately target the physically weakest player first to create an opening. They do not take prisoners - they are willing to kill, unlike the Restorers.
-
-**Reckoning Fanatic:** Enters from elevation (upper floor, can drop down). Opens with *inflict wounds* from surprise if possible. If combat is going badly, uses *hold person* on the most dangerous character and runs.
-
-**Captain Marsh:** Uses the environment aggressively - pushing bookshelves into players (DC 13 Dexterity saving throw or 2d6 bludgeoning damage + restrained until freed). Targets Theron as a secondary objective - if the Captain reaches Theron, he grabs him as a hostage.
-
-**Retreat Condition:** When Captain Marsh is reduced to **20 HP or below**, he orders a fighting retreat. He will not sacrifice himself for a failed raid. On retreat, if he can grab even one page of the ritual text, he will. Note that this is a separate trigger from the fire order — two guards dropping causes the fire (a tactical diversion), but Marsh himself continues fighting until his own HP threshold is reached. This gives players a window to reduce him to 0 HP non-lethally before he can escape.
-
-> **GM Tip:** The burning of the Archive is the moral weight of this combat. The players may "win" the fight and still lose key documents. The Reckoning knows this and uses it. If session 3's Path 3 (Isolde's method) becomes relevant, the loss of specific pages can make Isolde's verification harder.
+**Captain Marsh tactics:** Environment-focused. Shelf shove (DC 13 DEX or 2d6 + restrained). Goes for Theron as hostage if given opening.
 
 ---
 
-## Scene 2: The Branching Point - What Do You Do With This?
+## Scene 2C (continued): The Branching Point
 
-The players now know something no one else (outside Theron and presumably Edoran) knows.
+Sera and Petra are in the room. Tomas will arrive within minutes — he heard something was wrong and is on his way. The Dawnborn are right here. The party doesn't have to go find them.
 
-The central question: **Do you tell the Dawnborn?**
+### Path A: They Tell Them Now
 
-There is no mechanic for this. It is simply a question. Ask it at the table.
+*The conversation happens with Sera and Petra present, Tomas walking in partway through. They are already shaken from the corridor.*
 
-### Path A: They Tell the Dawnborn
+**Sera** — Asks if it's verified. When told yes, she is very quiet. Then: *"Alright. What are the actual options?"* She does not cry. She is a captain.
 
-Go to Scene 3A.
+**Petra** — She was just held by people who were studying her. She says, very quietly: *"The questions they asked me. About the dreams. About what it feels like from inside."* She looks at Sera. *"That's what they wanted to know. They already knew the rest."*
 
-### Path B: They Don't Tell Them Yet
+**Tomas** — Arrives mid-conversation. Reads the room. Asks three precise clarifying questions. Says he has suspected. Is not angry. Asks: *"Is there an alternative mechanism? I saw a secondary notation in a diagram once, years ago. I wasn't sure what I was reading."* He noticed Tier 3. He didn't know it was real.
 
-Go to Scene 3B.
+**Lira** — Receives a message and comes to the Dawnhalls. Goes cold. *"No."* Looks around the room. *"Find another way."* Walks out. Not finished — just finished right now.
 
-### Path C: They Go to the Chancellor First
+| How players deliver it | Dawnborn response |
+|---|---|
+| Clinical and informational | Tomas respects it; Sera is steadied; Lira is colder |
+| Apologetic and uncertain | Creates distress; they end up steadying the players instead |
+| Direct but humanizing | Best outcome — they feel treated as people, not problems |
+| Incomplete or hedged | They sense it; Tomas presses; trust drops when they find out later |
 
-She will want to proceed with the ritual. She will be practical about it. She will say: "We don't have to tell them immediately. Find out if there's another way first." She is not wrong. Go to Scene 3B, but with the Chancellor's pragmatism as company.
+> **GM tip:** Let it be awkward. Someone pauses. Someone says the wrong thing first. The drama is in the human failure of the moment, not in any speech.
 
-### Path D: They Go to Edoran
+### Path B: They Don't Tell Them
 
-This is the first real meeting with Brother Edoran if they haven't had it. He already knows. He says so calmly. He is not triumphant - he is tired.
+Equally valid. They carry this alone for now.
 
-> "I've known for seven years. I obtained a copy of Corven's assistant's notes through a Restorer contact — the documents passed through several hands after the original estate sale, and one of our members recognised what they were. I have been waiting for someone official to find it, because I knew what would happen when I said it myself: nobody would listen to a cultist." *(A pause.)* "Are you listening now?"
+Dramatic irony: every subsequent moment with a Dawnborn is loaded. Every time Sera thanks them. Every time Petra laughs.
 
-> **GM Note:** The original documents were sold at a private estate sale eleven years ago — the same sale Theron attended (as players may have learned from his journal). Edoran obtained a copy four years later through Restorer channels; he did not attend the sale himself. Players who connect these timelines will realise Theron and Edoran have been separately sitting on the same knowledge for different lengths of time.
+**But the world doesn't wait:** Tomas arrives and says, carefully:
 
-He will propose cooperation. He knows the Dawnborn personally - several are people he cares about. He believes the ritual is the only answer. He will ask the players to help him find the willing ones and protect them from the unwilling ones. *He does not think the unwilling ones should be forced.*
+> *"You've been to see Theron. I know his handwriting on your papers. I've been waiting for someone to finally ask the right questions."* A pause. *"May I ask what you found?"*
 
----
+If they deflect: *"When you're ready to talk, I'll be ready to listen. I've had a long time to prepare for this conversation."*
 
-## Scene 3A: Telling the Dawnborn
+He knows something changed. He will find out eventually.
 
-**Location:** The Dawnhalls, or wherever the players can gather the featured Dawnborn.
+### Path C: Chancellor First
 
-Present Sera, Tomas, and Lira (or whichever Dawnborn the players are most connected to).
-
-### How the Three Respond
-
-**Sera** - pauses, then accepts it. Asks if it's verified. When told yes, she is very quiet, then: *"Alright. What are the actual options?"*
-
-**Tomas** - asks three precise clarifying questions. Confirms he had suspected. Says he needs time. Is not angry.
-
-**Lira** - goes cold. *"No."* Looks around the room. *"Find another way."* Walks out. She is not finished with this conversation - but she is finished with it right now.
-
-### The Moral Weight of This Scene
-
-The players told these people they might need to die for the city to live. How the Dawnborn receive that news is a direct reflection of who the players are being in this scene.
-
-| Approach | Dawnborn Response |
-|----------|------------------|
-| Clinical and informational | Tomas respects it; Sera is okay; Lira is colder |
-| Apologetic and uncertain | Creates more distress; they end up comforting the players |
-| Direct but humanizing | Best response; they feel treated as adults |
-| Incomplete or hedged | They sense it; press for full truth; trust drops when they find out later |
-
-> **GM Tip:** Let this scene be awkward. Real conversations about death are awkward. Don't let players or NPCs give polished speeches. Someone should pause. Someone should say the wrong thing first. That's where the drama is.
+She will want to proceed. She will be practical. *"We don't have to tell them immediately. Find out if there's another way first."* She is not wrong. Go to Path B but with her pragmatism as company.
 
 ---
 
-## Scene 3B: Not Telling the Dawnborn
+## Scene 3: Edoran's Perspective
 
-This path is equally valid. The players have chosen - consciously or through delay - to carry this information themselves for now.
+**When:** End of the session. He finds them — not in a street ambush. At the Dawnhalls door, or at the Archive entrance, depending on where they ended up. He came himself because he couldn't trust a note.
 
-**What this decision does:**
-- Creates dramatic irony: every subsequent interaction with a Dawnborn is loaded
-- Establishes the players as decision-makers about other people's fates
-- Buys time to explore alternatives (Session 3's focus)
+> **How he knew:** Restorer contacts watch the Archive. Word that a group had closed-door access to the restricted section, with Theron visibly distressed afterward, reached Edoran within two hours. He has been waiting eleven years for this visit.
 
-**But the world doesn't wait:**
+> "You know now," he says. "I can tell by how you're walking."
 
-Within this session, even if the players delay, **Tomas Areth** meets them by coincidence and asks, carefully:
+He is not triumphant. He is tired.
 
-> "You've been to see Theron. I know his handwriting on your papers. I've been waiting for someone to finally ask the right questions." *(He pauses.)* "May I ask what you found?"
+> "I've known for seven years. I obtained a copy of Corven's assistant's notes through a Restorer contact — the documents passed through several hands after the original estate sale, and one of our members recognised what they were. I have been waiting for someone official to find it, because I knew what would happen when I said it myself: nobody would listen to a cultist."
 
-This is his tell that he already suspects. If the players deflect, he doesn't push - but:
+*(A pause.)*
 
-> "When you're ready to talk, I'll be ready to listen. I've had a long time to prepare for this conversation."
+> "Are you listening now?"
 
-Whether they tell him or not, he knows something changed today.
+**What he offers:** Context. Empathy for the Dawnborn as individuals — he knows them personally. His position: the ritual must be completed, he hopes for consent, he has already spoken to those he believes are willing. He does not name them.
 
----
+**What he asks:** Help finding the willing ones and protecting them. He does not believe the unwilling ones should be forced.
 
-## Scene 4: Edoran's Perspective (If Not Yet Encountered)
-
-If the players haven't met Brother Edoran yet, he appears at the end of Session 2. He is waiting outside the Dawnhalls, or the Archive, or wherever the players are.
-
-> **GM Note — How Edoran knew to find them:** The Restorers have maintained an informal watch on the Civic Repository for years. Theron's restricted collection is the only place in Varenhold where the original ritual documents could plausibly resurface, and Edoran has always known that. He has two Restorer contacts — scholars who use the Archive regularly — who reported that a group was escorted to the sealed section by Theron personally, under unusual circumstances (closed-door session, Theron visibly distressed when they left). Word reached Edoran within two hours. He went to find them himself rather than send a message, because he couldn't trust a note not to be intercepted. The line "I can tell by how you're walking" is genuine — he's read people carrying hard knowledge for eleven years. He knows exactly what that looks like.
-
-> "You know now," he says simply. "I can tell by how you're walking."
-
-He will offer context, empathy for the Dawnborn as individuals, and his position: that the ritual must be completed, that he hopes it can be done with consent, and that he has already approached the ones he thinks might be willing. He does not name them.
+> **GM Note — the timeline players may notice:** The estate sale was eleven years ago. Theron attended. Edoran obtained a copy four years later through Restorer channels. They have been separately sitting on the same knowledge for different lengths of time. Players who connect this will understand: the city has been surrounded by people who knew and said nothing. For different reasons. With different costs.
 
 ---
 
