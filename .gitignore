@@ -13,3 +13,8 @@ visualization-curriculum.Rproj
 .ipynb_checkpoints/
 
 **/*.quarto_ipynb
+
+# KeePass & secrets
+passwords.kdbx
+*.kdbx
+.env.campaign
