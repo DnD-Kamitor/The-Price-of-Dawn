@@ -1,0 +1,41 @@
+{
+  "enabledPlugins": {
+    "caveman@caveman": true,
+    "ruflo-core@ruflo": true,
+    "ruflo-agentdb@ruflo": true,
+    "ruflo-aidefence@ruflo": true,
+    "ruflo-intelligence@ruflo": true,
+    "ruflo-rag-memory@ruflo": true,
+    "ruflo-sparc@ruflo": true,
+    "ruflo-swarm@ruflo": true,
+    "ruflo-workflows@ruflo": true
+  },
+  "extraKnownMarketplaces": {
+    "caveman": {
+      "source": {
+        "repo": "JuliusBrussee/caveman",
+        "source": "github"
+      }
+    },
+    "ruflo": {
+      "source": {
+        "repo": "ruvnet/ruflo",
+        "source": "github"
+      }
+    }
+  },
+  "permissions": {
+    "allow": [
+      "Bash(npx @claude-flow*)",
+      "Bash(npx claude-flow*)",
+      "Bash(quarto*)",
+      "Bash(python3 tools/*)",
+      "Bash(python3 .github/scripts/*)",
+      "Bash(git add*)",
+      "Bash(git commit*)",
+      "Bash(git push*)",
+      "Bash(git status*)",
+      "Bash(git diff*)"
+    ]
+  }
+}

@@ -1,5 +1,33 @@
 # The Price of Dawn - Campaign Reference
 
+## Ruflo / Claude Code Setup (new machine)
+
+Ruflo plugins load automatically from `.claude/settings.json` in this repo. On a fresh machine:
+
+```bash
+# 1. Install Claude Code CLI
+npm install -g @anthropic-ai/claude-code
+
+# 2. Optional: install claude-flow for swarm coordination
+npx @claude-flow/cli@latest init --minimal
+```
+
+No other install needed — ruflo plugins pull from GitHub marketplace on first use.
+
+**Piper audio** (machine-specific, skip if not on the machine with piper installed):
+```bash
+# Set PIPER_ROOT to your local piper-sample-generator checkout:
+export PIPER_ROOT=/path/to/piper-sample-generator
+# Then use: python3 tools/generate_audio.py ...
+```
+
+**Ruflo quick commands:**
+- Memory: `ToolSearch("memory_store")` → store session findings
+- Swarm: `ToolSearch("swarm_init")` → spawn parallel agents for large expansions
+- Research: `ToolSearch("agentdb_hierarchical-store")` → store lore decisions
+
+---
+
 Apply theGreatGM (Graeme Sherwood / TPGtbaGGM) principles throughout: every scene has stakes, NPCs want/fear/lie, encounters have secondary objectives, five-senses scene openings, encounter beats.
 
 ---
