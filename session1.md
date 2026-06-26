@@ -8,6 +8,13 @@
 
 ---
 
+**Supporting Documents**
+
+- [session1-props.md](session1-props.md) — Player handouts for Corven's Letter, Astronomical Record, Midwife Registry, Restorer Pamphlet, and Notation Key fragments. Print or display on screen.
+- [session1-ogas.md](session1-ogas.md) — GM quick-reference OGAS cards for all four Session 1 NPCs (Chancellor, Theron, Sera, Jaret) with attitude shift tables and relationship map.
+
+---
+
 ## Pacing Guide
 
 | Time | Scene | Type |
@@ -188,25 +195,66 @@ Players who push Theron on his "notation key" deflection can make a **Persuasion
 
 ## The Puzzle: The Notation Key
 
-**Where it happens:** Inside the Archive, while players are researching.
+*This section tells you exactly how to run this at the table, step by step. It's not complicated — Theron is being evasive, the players go looking, they find pieces of a cipher he left findable on purpose.*
 
-**Setup:** Theron mentions the "notation key" as a reason he can't share the ritual text. The key is actually physically present in the Archive - it was never lost, just separated and misfiled in the chaos of fifty years of reorganizing.
+---
 
-The key has three pieces, each filed under a different subject heading on different floors:
+### The Setup (1 sentence to players)
 
-| Piece | Location | How Found |
-|-------|----------|-----------|
-| Fragment A | "Celestial Events - Y.48-50" | Investigation DC 10, or Theron points to it if asked about the charts |
-| Fragment B | "Magical Resonance Theory, Vol. 3" | Investigation DC 12, or a character with Arcana proficiency spots the unusual notation in the margin |
-| Fragment C | "Historical Records - The Ritual Era" | Investigation DC 10, or simply found while looking at Clue B's midwife records (same shelf) |
+Theron says he can't share the ritual text because "the notation is specialized — I'm still working on the key to interpret it." He's lying. The key exists. It's in this building. He left it findable.
 
-**The Mechanic:** Each fragment is a single sheet with a partial symbol grid - meaningless alone. When laid side by side they form a complete notation cipher. Players who assemble all three can now decode any ritual-notation text - including the hidden message in Corven's letter (see Riddle section below) and, more importantly, unlock the full ritual text when Theron finally shares it in Session 2.
+---
 
-**If they find all three:** Theron goes quiet when he sees them assembled. He didn't tell them where to look. Someone must have left them findable deliberately. His expression suggests the someone was him, and that he hadn't decided yet whether he was glad.
+### What the Players Do
 
-**If they find only one or two:** They get partial benefit - a sense that Corven used notation for private communication, but not enough to decode the letter. They'll need to return in Session 2.
+They search the Archive. Theron will direct them toward the three research clues (Astronomical Records, Midwife Records, Corven's Letter). While they're looking at those, they may find the Notation Key fragments. If they don't look, prompt them: "There are three more levels of shelves above you. Theron has been here eleven years."
 
-**Reward for full completion:** Advantage on Arcana or Investigation checks related to the ritual texts for the remainder of the campaign.
+---
+
+### The Three Fragments — Where They Are and How Found
+
+**Fragment A — Upper floor, "Celestial Events Y.48-50"**
+Same area as Clue A (the Astronomical Record). If players examine that shelf: automatic find, no roll. If they skip that area: Investigation DC 13 to notice the odd single sheet tucked inside a ledger.
+
+*Hand players Prop 5 (Notation Key Fragment) when they find this.*
+
+**Fragment B — Second floor, "Magical Resonance Theory, Vol. 3"**
+A book Theron will recommend if asked about magical notation. Investigation DC 15, or automatic for any character with Arcana proficiency who specifically looks at the margins. The notation symbols appear in a marginal annotation in a slightly different hand.
+
+*Hand players Prop 5 again (same format, different content).*
+
+**Fragment C — Third floor, "Historical Records — The Ritual Era"**
+Same shelf as Clue B (the Midwife Registry). Players who examine that section find this automatically — it's physically tucked inside the midwife record folder.
+
+*Hand players Prop 5 again.*
+
+---
+
+### What Happens When They Assemble All Three
+
+Lay three copies of Prop 5 on the table. Tell the players: "When you put these side by side, the partial grids align into a complete symbol cipher. You now have the key to Corven's private notation."
+
+**Theron's reaction:** He goes quiet when he sees them. He didn't tell them where to look — or rather, he arranged for them to look in exactly the right places, and now they've done it, and he isn't sure what to feel. His expression is relief and shame at the same time. Do not explain this to the players. Let them read it.
+
+**The reward:** They can now decode the postscript in Corven's Letter (Clue C). Hand them Prop 1 and tell Frank specifically: "The notation symbols at the bottom — you can read them now." The decoded message is: *Ten lights born when ten lights were lost. Ask not what they are. Ask what they hold.*
+
+---
+
+### If They Only Find One or Two Fragments
+
+They know Corven used a private notation for sensitive material. They can't decode the postscript yet. Theron will not volunteer the third fragment — but if pressed (Persuasion DC 17), he points them toward it. They can return in Session 2.
+
+---
+
+### If They Skip the Puzzle Entirely
+
+Not a problem. Theron gives them a partial summary of what the ritual documents say — enough to proceed. The notation key becomes a Session 2 hook. The payoff is delayed, not lost.
+
+---
+
+### The Point of This Puzzle
+
+Theron secretly wants to be caught. Every fragment was placed findable on purpose. The puzzle isn't a lock — it's a confession he couldn't make directly. When the players solve it, they haven't beaten an obstacle. They've given a frightened man permission to stop hiding.
 
 ---
 
