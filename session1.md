@@ -94,15 +94,19 @@ The players receive a formal summons - letter, messenger, or personal approach d
 
 ### Read-Aloud
 
-> The fire in Chancellor Ostenveld's study is the brightest thing you've seen since entering Varenhold. Everything else is that same impossible amber - the sky through the high windows, the lamp-lit streets below, the faces of the guards who met you at the gate.
+> The Chancellor's study is smaller than you expected. Real power doesn't need space — it needs control. And this room is controlled: maps pinned with colored thread across the north wall, each thread marking a route or a boundary or a problem she's already measured. A desk stacked with documents in careful arrangement, nothing random about it. A hearth. A fire that burns cleanly and does nothing about the cold.
 >
-> She is already standing when you enter. Not to show respect - she was restless and the chair wasn't helping.
+> The amber light presses in through the high windows like it owns the place. Even here, in the brightest room you've entered since the city gates, it finds the corners first. The fire is warm but the light is patient, and the light is winning.
+>
+> Her chair is pushed back from the desk. She hasn't been sitting.
+>
+> She is already standing when you enter — not to show respect, she was restless and the chair wasn't helping. She looks at each of you once, the way someone looks when they've already read a report and are now confirming it.
 >
 > "Thank you for coming. I'll be direct." She moves to the window. "Varenhold has three good harvests left before we begin rationing in earnest. Perhaps five before the trade partners stop pretending the arrangement is mutual. The Grey Sickness takes twelve, fifteen people a month now. This city is dying, and I have run out of incremental solutions."
 >
 > She turns to face you.
 >
-> "Fifty years ago, a ritual was performed here. It failed. I believe the ritual can be completed - correctly this time. I am hiring you to find out how."
+> "Fifty years ago, a ritual was performed here. It failed. I believe the ritual can be completed — correctly this time. I am hiring you to find out how."
 
 ### What the Chancellor Tells Them
 
@@ -135,11 +139,17 @@ Players may roll **Insight (DC 12)** to notice she's not telling them everything
 
 ### Read-Aloud
 
-> The Archivist is a small man in a very large coat, surrounded by stacks of materials he is clearly in the middle of reorganizing. When you enter, he startles badly enough to knock over an inkwell.
+> The Varenhold Civic Repository smells of old paper and something older — the particular staleness of a room where the air has been circulating through the same documents for fifty years. The ground floor is already more shelves than floor: oak cases going up past the height a ladder could safely reach, scrolls and folios and bound ledgers squeezed into every available inch. There is a system here, but you would need years to learn it.
 >
-> "Oh! Yes. You're - yes. The Chancellor's people. Of course." He dabs at the spilled ink with his sleeve, makes it worse, stops trying. "I've been expecting someone eventually."
+> The amber light that suffuses everything outside is worse in here. Every document is the same color as the light it's stored in. You understand, looking at it, why the man who works here seems slightly worn.
 >
-> The way he says "eventually" is interesting.
+> Stairs lead up. Each level you can glimpse through the central gap is another version of this one — more shelves, more silence, more paper. The Repository holds fifty years of a city trying to understand what happened to it. Whatever you're looking for is in here somewhere.
+>
+> The Archivist is on the second floor, a small man in a very large coat surrounded by stacks of materials he is clearly in the middle of reorganizing. When you step off the stairs, he startles badly enough to knock over an inkwell.
+>
+> "Oh! Yes. You're — yes. The Chancellor's people. Of course." He dabs at the spilled ink with his sleeve, makes it worse, stops trying. "I've been expecting someone eventually."
+>
+> The way he says *eventually* is interesting.
 
 ### What Theron Waide Offers
 
@@ -358,6 +368,84 @@ End the session with the players having:
 ### Post-Session Question
 
 Ask the players directly: *"Is hope worth chasing, if you don't know yet what it costs?"*
+
+---
+
+## Player-Specific Hooks — Session 1
+
+*Use these to personalize each scene. Never announce "this is your moment" — let it emerge from the fiction naturally.*
+
+---
+
+### Pel Sephandrius (Frank) — Rogue/Wizard
+
+**Scene 1 — The Chancellor:** Pel came on a false contract. Someone hired him to retrieve ritual documents from the Archive before the players arrived. He has two clients now: the Chancellor (who hired the party) and whoever the false client is. When the Chancellor describes Theron as "cooperative but cautious," Pel should hear: *someone else wanted these documents, and Theron knows it.*
+
+**Scene 3 — Sera Voss:** Pel owes this woman his life. She pulled him from a burning building when he was a stranger; she remembered his name. When Sera turns and says "You're the Chancellor's people" — she doesn't know it's him yet. The moment she recognizes him (if she does) is entirely his. Don't rush it. Let him decide how to play it.
+
+**The Archive:** His natural environment. His Portent dice (Divination Wizard) mean he's been rolling flashes of futures all morning. Ask the player before they enter the Archive what numbers they rolled. Whatever they are, the Archive will need them.
+
+**Corven's Letter:** A forgery investigator reads documents differently. He notices the ink variation in the postscript before he can decode the notation. He knows someone added this line later. That's different from "the letter has a hidden message." That's *tampering evidence.*
+
+---
+
+### Ixa (Roos) — Psionic Soulknife
+
+**Scene 1 — The Chancellor:** Ixa spent years watching people say one thing while doing another. The Chancellor's calm professional warmth has a shape she recognizes — she's managing them, not trusting them. No Insight roll required for Ixa to sense this. The question is whether it matters yet.
+
+**Scene 3 — Dawnhalls:** Ixa spent years in a facility that provided everything — food, shelter, training, purpose — while making it impossible to leave. The Dawnhalls provides housing, meals, and stipends too small to live on elsewhere. She may see this before any Insight check. If she says something about it aloud, Sera Voss goes quiet for a beat before responding. Sera has been waiting for someone to name it correctly.
+
+**Corven's Letter — "living conduits":** Conduit. Vessel. Anchor. These are words with specific uses in institutional systems that process people as resources. If Ixa reads the letter, she understands the structure before she understands the magic. GM: watch her face when she reads it.
+
+**Scene 4 — Restorer Contact:** Ixa reads intent. Jaret believes everything he's saying. That's the part that should disturb her — not that he's lying, but that he isn't.
+
+---
+
+### Serah Tallon (Kirsten) — Paladin/Sorcerer
+
+**Arrival:** Serah travels with Brann, her Elk. Brann won't go fully into the city — the amber light makes him uneasy, the way animals sense wrong weather before humans do. She stables him at the East Gate. Keothi, arriving from farming country, recognizes a working animal. He may ask about him.
+
+**Scene 1 — Divine Sense:** Paladins detect celestials, fiends, and undead within 60 ft. as a Bonus Action. The Chancellor's study: nothing. The Archive: nothing. The Dawnhalls: something is different. Not evil, not undead — but Sera Voss registers as *present* in a way that ordinary people don't. Describe it as warmth. Like standing near a fire that hasn't been lit yet. Serah won't know what it means. She should note it.
+
+**Ixa:** These two have history the rest of the party doesn't share. In a room full of strangers, that creates a specific gravity. Let the players decide what it looks like — old trust, old debt, or something that doesn't have a clean name yet.
+
+**Scene 4 — Restorer Contact:** Her instinct is to protect travelers. These people cornered them in a street. Her sense of justice fires immediately — and so does the recognition that they're not attacking. Let the tension breathe before she decides.
+
+---
+
+### Keiran (Erwin) — Monk/Ranger (Warrior of Shadow)
+
+**Arrival:** Keiran navigates by stars. There are no stars in Varenhold — the amber light absorbs the sky entirely. No horizon, no orientation. A Sailor who finds north by the night sky is in a city that has no night. He's been here [X days] and he keeps reaching for something that isn't there. Trance helps. It doesn't fix this.
+
+**Scene 2 — The Archive:** He reads physical evidence rather than political significance. Investigation checks from Keiran feel like: *what happened here, exactly?* The astronomical records are charts of a sky that no longer exists. He would recognize what those readings meant, if he had ever seen that sky.
+
+**Scene 4 — Restorer Contact:** Nine people, loose circle, narrow street. He's counted the exits before Jaret finishes speaking. Shadow Arts — Darkness, movement, control. If this goes loud, he knows exactly where to be. If it doesn't, he's already disappointed the problem wasn't simpler.
+
+*Note: Keiran has no written backstory yet. Use Session 1 to establish what he notices and values before the moral weight lands. His actions here define who he is.*
+
+---
+
+### Keothi Rynor (Dennis) — Goliath Fighter/Bard (Glamour)
+
+**Scene 1 — Opening Read-Aloud:** The first thing Keothi notices isn't the Chancellor or the guards. It's the food registry line. Two stewards, a long queue, people waiting patiently in amber light. He came to find out how this city farms. That's the answer, right there. They don't. They queue.
+
+**Scene 1 — The Chancellor:** When she says "three good harvests left," Keothi knows exactly what that means and she doesn't. He has seen what a field looks like in its last good year. She's quoting a number. He's remembering a smell.
+
+**Scene 3 — The Dawnhalls:** He brought seeds from his farm. The Dawnhalls has no garden. The amber light is wrong for growing — any farmer sees this in thirty seconds. If he offers seeds to Sera or one of the Dawnborn, and they accept, it's the most human moment in Session 1. No roll required. Just the gesture.
+
+**Glamour Bard:** Keothi doesn't know he's the most socially magnetic person at the table. He talks to people the way farmers talk to neighbors: directly, practically, with genuine interest in their problems. Let his Persuasion and Performance rolls land as natural conversation. He isn't performing. That's what makes it work.
+
+---
+
+### Kaelen (Moustaffa) — Half-Elf Fighter/Bard (Battle Master)
+
+**Scene 1 — The Chancellor:** He knows a bad briefing. He's been given incomplete orders before — and people died for it. The Chancellor's careful omissions and her "cooperative but cautious" Archivist register to him as institutional information control. He wants the actual plan. The framing is secondary.
+
+**Varenhold Watch:** He has or had connections to the Watch. The guards in the streets may know him, or know of him, or know what happened to his unit. That's either a resource or a wound, depending on how his last assignment ended. The GM should decide this with Moustaffa before Session 1 begins.
+
+**Scene 4 — Restorer Contact:** He reads the formation in two seconds. Nine people, loose circle — designed to herd, not harm. Commander's Strike, Bait and Switch — he has the tools to end this tactically. But his ideal is that everyone walks away. He's the most likely player to de-escalate before it becomes a fight, and the most quietly furious if it does anyway.
+
+**Inspiring Leader (End of Session 1):** If Kaelen wants to address the group before they sleep — 10 minutes, the speech that gives everyone 7 Temp HP — what does he say? He has given pre-battle speeches. He has never given one before an investigation into whether hope is worth its cost. Let Moustaffa find the words. Don't script it. That's the scene.
 
 ---
 
