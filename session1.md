@@ -387,6 +387,12 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 
 **Corven's Letter:** A forgery investigator reads documents differently. He notices the ink variation in the postscript before he can decode the notation. He knows someone added this line later. That's different from "the letter has a hidden message." That's *tampering evidence.*
 
+**Combat:** Portent dice are pre-loaded fate — ask Frank what he rolled before Scene 4. A low number drops on the cultist mage's concentration check; a high one guarantees Pel's Sneak Attack lands. Insightful Fighting (BA Insight vs their Deception) unlocks Sneak Attack without needing an ally adjacent — he can work alone in the dark. Clockwork Amulet: if the Scene 4 street fight starts turning, a guaranteed 10 on his attack roll against a shielded cultist is exactly what Mechanus built it for.
+
+**Environment — Archive:** Cast Detect Magic (ritual, no slot cost) before touching anything. Shelf 4-17-3 glows. So does Theron's coat pocket. Neither of them has to know Pel noticed.
+
+**NPC — Theron:** Ear for Deceit means minimum 8 on any Insight check. When Theron says "I haven't opened that drawer" — Pel gets at least an 8. He knows this is technically true and completely dishonest. Don't tell him the number. Tell Frank: *he's not lying. He's hiding behind precision.* Pel knows that move intimately.
+
 ---
 
 ### Ixa (Roos) — Psionic Soulknife
@@ -398,6 +404,12 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 **Corven's Letter — "living conduits":** Conduit. Vessel. Anchor. These are words with specific uses in institutional systems that process people as resources. If Ixa reads the letter, she understands the structure before she understands the magic. GM: watch her face when she reads it.
 
 **Scene 4 — Restorer Contact:** Ixa reads intent. Jaret believes everything he's saying. That's the part that should disturb her — not that he's lying, but that he isn't.
+
+**Combat:** Psychic blades make no sound — no draw, no clatter, no weapon check. In Scene 4's street confrontation she can throw one from 15 ft without leaving cover. If things go loud, she can move and attack in the same turn without telegraphing. Let her feel like the only person in the fight the enemy never fully locates.
+
+**Environment — Dawnhalls:** There's a duty roster on the wall near the common room entrance. Shift schedules, patrol rotations, who sleeps where. It's formatted exactly like the Crucible's personnel tracking boards. Ixa recognises the system before she reads a single name.
+
+**NPC — Sera Voss:** Sera has the trait Born of the Ritual Night — she cannot be magically compelled to lie. Ixa can read intention without a spell. Tell Roos quietly: *Sera is telling you the truth. All of it. Including the part she wishes wasn't true.* That's the problem.
 
 ---
 
@@ -411,6 +423,12 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 
 **Scene 4 — Restorer Contact:** Her instinct is to protect travelers. These people cornered them in a street. Her sense of justice fires immediately — and so does the recognition that they're not attacking. Let the tension breathe before she decides.
 
+**Combat:** Command ("Stop") is a 1st-level spell that ends Scene 4 without a single attack roll — one word, DC 14 WIS save, the loudest cultist freezes. Sacred Weapon (+4 to all attacks for 1 min, uses Channel Divinity) makes her frightening the moment she activates it — describe the rapier catching the amber light differently. Lay on Hands used mid-combat to stabilize a downed ally costs no action economy; it just keeps someone in the fight.
+
+**Environment:** Her bronze scales catch the amber light and return it differently — warmer, more alive. In the Dawnhalls, people look at her twice. One of the Dawnborn children stares openly. She's the first person they've seen who seems built for a world that has sunlight.
+
+**NPC — Cormac Drell** (if they reach the docks): He stares at her scales. He does logistics. He handles materials, textures, loads. He asks what her scales feel like — not "what are you" but exactly that: *what do they feel like?* It's the most human question he knows how to ask.
+
 ---
 
 ### Keiran (Erwin) — Monk/Ranger (Warrior of Shadow)
@@ -422,6 +440,12 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 **Scene 4 — Restorer Contact:** Nine people, loose circle, narrow street. He's counted the exits before Jaret finishes speaking. Shadow Arts — Darkness, movement, control. If this goes loud, he knows exactly where to be. If it doesn't, he's already disappointed the problem wasn't simpler.
 
 *Note: Keiran has no written backstory yet. Use Session 1 to establish what he notices and values before the moral weight lands. His actions here define who he is.*
+
+**Combat:** Shadow Arts Darkness + Silence = two overlapping zones of sensory blackout. He can move through his own Darkness freely. Nobody else can see. Nobody in the Silence zone can cast verbal spells. In Scene 4: he can end a hostage situation without anyone in the street ever seeing how he did it. Let him be frightening in a way that requires no explanation.
+
+**Environment — Archive:** The astronomical charts on the upper shelves track star positions from 250 years ago. He navigates by stars. He would know this sky — or know exactly what's been removed from it. The ritual night is mapped in absent constellations. No roll required to notice this. Just ask: *does Keiran look up?*
+
+**NPC — Theron:** Theron has worked this Archive for 11 years. He knows every sound it makes — settling wood, draft from the north window, the specific creak of the third ladder rung. Keiran enters and makes none of them. Theron looks up from his desk and Keiran is just *there.* Give Erwin that beat. Theron doesn't know what to do with someone he cannot hear coming.
 
 ---
 
@@ -435,6 +459,12 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 
 **Glamour Bard:** Keothi doesn't know he's the most socially magnetic person at the table. He talks to people the way farmers talk to neighbors: directly, practically, with genuine interest in their problems. Let his Persuasion and Performance rolls land as natural conversation. He isn't performing. That's what makes it work.
 
+**Combat:** Greataxe Cleave — on a hit, one free extra attack vs an adjacent target, no action cost. Two cultists grappling a party member: one swing clears both. Mantle of Inspiration (spend Bardic Inspiration die): up to 2 allies within 60 ft each gain 2× the die roll as Temp HP, then can use their Reaction to move their full speed without provoking opportunity attacks — mid-fight repositioning that costs them nothing. Large Form (BA, 1/LR): he becomes Large for 10 minutes. He physically walls off a narrow street. No one gets past without going through him.
+
+**Environment — Dawnhalls Kitchen:** No fresh produce. Everything is dried, preserved, rationed to the gram. The cook is skilled and exhausted and doing the best they can with almost nothing. Keothi clocks this in thirty seconds. The kitchen smells like the last winter before a farm fails.
+
+**NPC — Kitchen Cook:** She hands him a wooden spoon while he's standing near the prep area. No words. Just: here, make yourself useful. He does. This is where the seeds land hardest — not as a gift to the Chancellor, but pressed into a stranger's palm in a kitchen that hasn't seen a fresh vegetable in months.
+
 ---
 
 ### Kaelen (Moustaffa) — Half-Elf Fighter/Bard (Battle Master)
@@ -446,6 +476,12 @@ Ask the players directly: *"Is hope worth chasing, if you don't know yet what it
 **Scene 4 — Restorer Contact:** He reads the formation in two seconds. Nine people, loose circle — designed to herd, not harm. Commander's Strike, Bait and Switch — he has the tools to end this tactically. But his ideal is that everyone walks away. He's the most likely player to de-escalate before it becomes a fight, and the most quietly furious if it does anyway.
 
 **Inspiring Leader (End of Session 1):** If Kaelen wants to address the group before they sleep — 10 minutes, the speech that gives everyone 7 Temp HP — what does he say? He has given pre-battle speeches. He has never given one before an investigation into whether hope is worth its cost. Let Moustaffa find the words. Don't script it. That's the scene.
+
+**Combat:** Commander's Strike (Bonus Action) — he gives up his second attack so an ally takes a free reaction attack and adds a d8 to damage. Call the target by name: "Pel — the caster." It sounds like a unit command because it is. Bait and Switch (1 Superiority Die): swap positions with willing ally within 5 ft; one of them gains AC equal to the die roll until next turn. Uses: swap Keothi into the front, pull Serah out of a grapple. Rally (Bonus Action): give a flagging ally Temp HP = d8 + 3 when they drop below half. He watches HP like he watches troop strength.
+
+**Environment — Chancellor's Map:** Military notation on the wall behind her desk. Supply routes, patrol schedules, district coverage. He reads logistics, not politics — the *gaps* in patrol coverage tell him where she doesn't want people looking. He gets this in two seconds. He doesn't say anything yet.
+
+**NPC — Sera Voss:** She gives full, complete answers. No institutional hedging, no "I'm not sure I'm the right person to speak to that." For someone who has only ever received incomplete briefings, this is almost suspicious. Kaelen may ask her the same question twice just to test it. She gives the same answer. He doesn't know what to do with someone who just tells the truth.
 
 ---
 
