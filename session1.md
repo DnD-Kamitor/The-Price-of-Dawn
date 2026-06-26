@@ -19,17 +19,16 @@
 
 | Time | Scene | Type |
 |------|-------|------|
-| 0:00-0:20 | Scene 1: The Chancellor's Request | Roleplay / Intrigue |
-| 0:20-0:55 | Scene 2: The Archive + The Puzzle | Investigation |
-| 0:55-1:20 | Scene 3: Meeting Sera Voss | Roleplay |
-| 1:20-1:30 | Transition - ambient Varenhold | Exploration |
-| 1:30-1:45 | The Riddle: Corven's Hidden Message | Investigation |
-| 1:45-2:20 | Scene 4: The Restorer Contact | Combat |
-| 2:20-2:40 | Aftermath + Edoran's note | Roleplay |
-| 2:40-2:55 | Closing beat | Narrative |
-| 2:55-3:00 | Post-session question | OOC |
+| 0:00-0:15 | Scene 1: The Chancellor's Request | Roleplay / Intrigue |
+| 0:15-0:45 | Scene 2: The Archive Infiltration | **Combat** + Investigation |
+| 0:45-1:00 | Scene 2B: The Sealed Drawer | **Puzzle** |
+| 1:00-1:20 | Scene 3: Dawnhalls Crisis + Watcher Chase | RP + **Chase** |
+| 1:20-1:35 | Scene 3B: Corven's Riddle | Investigation |
+| 1:35-2:10 | Scene 4: Restorer Ambush | **Combat** |
+| 2:10-2:30 | Aftermath + Edoran's note | Roleplay |
+| 2:30-2:45 | Closing beat | Narrative |
 
-*If a scene runs long, cut the ambient transition and compress Scene 3. Never cut the closing beat.*
+*Session has 2 full combats, 1 chase, 1 physical puzzle, mystery clues embedded in all of them. Cut Scene 1 or compress Dawnhalls RP if running long — never cut the ambush or the closing beat.*
 
 ---
 
@@ -154,11 +153,87 @@ Players may roll **Insight (DC 12)** to notice she's not telling them everything
 >
 > The Archivist is on the second floor, a small man in a very large coat surrounded by stacks of materials he is clearly in the middle of reorganizing. When you step off the stairs, he startles badly enough to knock over an inkwell.
 >
-> "Oh! Yes. You're — yes. The Chancellor's people. Of course." He dabs at the spilled ink with his sleeve, makes it worse, stops trying. "I've been expecting someone eventually."
+> "Oh! Yes. You're — yes. The Chancellor's people. Of course." He dabs at the spilled ink with his sleeve, makes it worse, stops trying. "I've been expecting someone—"
 >
-> The way he says *eventually* is interesting.
+> From the floor above: a crash. Heavy. The sound of a shelf striking another shelf. And then footsteps — fast, deliberate — moving toward the back of the third floor.
+>
+> Theron looks up. His face goes white.
+>
+> *"Someone's in the restricted section."*
 
-### What Theron Waide Offers
+---
+
+## Scene 2A: The Archive Infiltration
+
+**Guy Sanders structure: Combat → Puzzle → RP reveal**
+
+*Two Restorer Agents are on the third floor. They arrived twenty minutes before the party. They have a list of exact shelf codes — CR-44-09, CR-44-11, AST-48-Y — and have already located Corven's letter. They didn't expect anyone to arrive tonight. Now they're running.*
+
+### Combat: The Restricted Section
+
+**Terrain — third floor, "Historical Records — Ritual Era":**
+
+```
+╔════════════════════════════════════════════╗
+║  [STAIR ENTRY]   [CENTRAL GAP — 20ft drop] ║
+║    │                                        ║
+║    ↓              ┌──────────────────────┐  ║
+║  [SHELF ROW A]    │  SHELF ROW B — TALL  │  ║
+║  6ft, unstable    │  8ft, rolling ladder │  ║
+║                   └──────────────────────┘  ║
+║  [SHELF ROW C]    [THERON'S READING NOOK]   ║
+║  (nearest stair)  [candles — fire hazard]   ║
+╚════════════════════════════════════════════╝
+```
+
+**Hazards:**
+- **Topple a shelf** (Bonus Action, Shove vs DC 14 STR save): 15 ft push + prone + 1d6 bludgeoning; if it hits the next shelf: chain reaction, DC 12 DEX save for everyone in a 10 ft cone, 2d6.
+- **Rolling ladder**: Improvised ranged attack (+Str/Dex), 30 ft range, 1d6 bludgeoning, pushed 10 ft.
+- **Candle fire**: If unattended for 2 rounds, spreads 5 ft. Creatures passing through: 1d4 fire. Theron will scream incoherently.
+- **Central gap**: 20 ft fall, 2d6 bludgeoning. The agents know this. They stay away from the edge. Shove or Maneuver into it if players are clever.
+
+**Restorer Agent × 2** *(use Spy stat block, MM p.349, +2 HP each — 32 HP total)*
+- AC 13 (studded leather) | Speed 30 ft | Initiative +2
+- **Shortsword** +4, 1d6+2 piercing | **Hand crossbow** +4, 1d6+2 piercing, range 30/120
+- **Shadow Step** (1/encounter): teleport to any dim-light or dark space within 30 ft as BA
+- **Trained: non-lethal preference** — on a player reduced to 0 HP, they disengage rather than execute. They are not here to kill anyone.
+- **Morale**: If one agent drops OR the fire gets out of hand, the remaining agent throws down a **smoke canister** (20 ft radius heavily obscured, 2 rounds) and tries to flee through the stair gap.
+
+**Tactics**: Agent A holds the stair top to delay. Agent B grabs the documents and moves toward the back window (30 ft movement to escape if not stopped). Killing a player is not in their orders. *Killing a document is.* If they can't escape with the papers, Agent B will try to burn them.
+
+### Mystery Loot (examine downed/captured agents)
+
+**On Agent A — coded list:**
+```
+CR-44-09     [PRIORITY — retrieve]
+CR-44-11     [PRIORITY — retrieve]
+AST-48-Y     [burn in place if retrieval impossible]
+Shell 4-17-3 [do NOT open — leave sealed]
+```
+
+These are exact Archive shelf codes. Someone told them precisely what to take. And they were told to *leave the sealed drawer alone.*
+
+**On Agent A — wax seal stamp:**
+A seal stamped in red wax, pressed into a folded cloth for protection. It is the Chancellor's civic seal. Not a copy. The actual administrative stamp used for Council correspondence.
+
+> **Mystery hook:** How do Restorer field agents have the Chancellor's seal stamp? Did she give it to them? Was it stolen? Is she working with them? Let this land on the table and don't answer it yet.
+
+**On Agent B — a folded note (already decoded — they tore up the cipher):**
+> *"Edoran says: get in, get Corven, get out. Do not read them. Do not let anyone else read them. If the investigators arrive before you're done — abort. He needs more time."*
+
+### After Combat — Theron
+
+Theron emerges from behind his desk, shaking. He looks at the agents on the floor. Then at the shelf codes on the list. Then at the party.
+
+The combat cracked him open. He was already at his limit. Someone just tried to steal what he's been protecting for eleven years.
+
+**If players show him the list:** He reads it. His hands stop shaking. He goes very still. Then: *"Shelf 4, Row 17, Position 3. They were told not to open it. Someone told them I had the key. Someone told them what was in it."* He looks at them. *"That means someone else knows. And they don't want you to find it first."*
+
+He produces the key. He has never used it.
+
+---
+
+### What Theron Waide Offers (post-combat)
 
 - He is cooperative and knowledgeable
 - He will show them everything *except* the original ritual text (which he claims is "fragmentary and difficult to interpret without the notation key - which I'm still working on")
@@ -258,6 +333,59 @@ Theron secretly wants to be caught. Every fragment was placed findable on purpos
 
 ---
 
+## Scene 2B: The Sealed Drawer
+
+**Guy Sanders structure: Puzzle → RP reveal (combat already done)**
+
+*Theron has produced the key to Shelf 4, Row 17, Position 3. The key works — the physical lock turns. But the drawer doesn't open. There is a second mechanism: a notation cipher panel set into the drawer face, six symbol slots. The key only unlocks the physical bolt. The cipher unlocks whatever Corven actually sealed inside.*
+
+### The Physical Puzzle
+
+The drawer face shows six recessed symbol slots, each with a rotating dial showing the notation symbols from the cipher grid (see assembled Notation Key prop). Six symbols must be set in the correct sequence.
+
+**Where the answer comes from:**
+
+The sequence is embedded in the visible text of Corven's Letter (Clue C) — the first letter of each key phrase, read in order, translates to six notation symbols via the assembled key:
+
+> *"The **a**nchoring mechanism requires distributed sympathetic resonance..."*
+> *"**C**oncentrated application risks cascade failure..."*
+> *"The **t**iming window is narrow..."*
+> *"The **m**argin for error is not..."*
+> *"**B**urn this if you agree."*
+> + the first symbol of the hidden postscript: ✦ (T)
+
+First letters in sequence: **A-C-T-M-B-T** → notation symbols: **⊗ ▪ ✦ □ ○ ✦**
+
+**Running this at the table:**
+
+Show players the assembled cipher grid (Notation Key prop) and Corven's Letter (Prop 1). Ask: *"You have the key. The drawer has six symbol slots. What do you set them to?"*
+
+Let players work it out. This should take 5-10 minutes. It's meant to feel like cracking Corven's personal lock — he hid the answer inside his own words.
+
+**If they get it wrong:** The slots snap back to neutral. A faint ward crackles — 1d6 force damage to whoever touched it. The drawer doesn't lock again. Try again.
+
+**If they get it right:** The drawer slides open. Silence in the room.
+
+### What's Inside
+
+A single journal. Handwritten, pages dense, ink gone brown with age. Corven's personal record of the ritual — the version that was never filed.
+
+Players can extract the key information with **Investigation DC 15** in the session, or read it fully in downtime. The passage Theron recognises from the cover: *"The anchors are not lost. The light did not die. It redistributed. It is still here."*
+
+The key line, visible without a roll if anyone flips to the last entry: **"The anchors are living."**
+
+### RP Reveal: Theron Breaks
+
+He has been standing in the corner watching them work the puzzle. When the drawer opens, he doesn't move toward it.
+
+*"I've known for eleven years,"* he says. Not to anyone in particular. *"I decoded the notation. I found the midwife records. I saw what Corven wrote in that journal through the glass — I couldn't open it but I could read the spine entry. I knew what it meant. I told no one because..."* He stops. *"Because once I said it, someone would have to decide something. And I didn't want that to be me."*
+
+He looks at them. *"I think it has to be you."*
+
+> **GM note:** This is the RP payoff. Combat earned the trust, the puzzle proved their commitment. Now Theron confesses. Do not rush it. Let the players respond. His guilt is real and it's been crushing him. Eleven years is a long time to know something terrible and say nothing.
+
+---
+
 ## The Riddle: Corven's Hidden Message
 
 **Where it happens:** While examining Clue C (Corven's letter), after or during the Puzzle.
@@ -285,29 +413,70 @@ On a failure, they understand there's a connection but not what it means. Tomas 
 
 ---
 
-## Scene 3: Meeting Sera Voss
+## Scene 3: Dawnhalls Crisis
 
-**Location:** The Dawnhalls - a large communal building that serves as barracks, kitchen, and gathering place. Mid-morning (amber light, always).
+**Guy Sanders structure: Chase → Riddle → RP reveal**
+
+**Location:** The Dawnhalls — large communal building, barracks/kitchen/gathering place. Amber light, always.
 
 ### Read-Aloud
 
 > The Dawnhalls are louder than you expected. Three people are sparring in the central courtyard. Two more are at a table in the corner, deep in argument over a map.
 >
-> The one who notices you first is a woman with a Guard captain's insignia and a bruise on her jaw that's two days old. She finishes what she's saying to the map-argument people - something about patrol routes - and walks over without being asked.
+> The one who notices you first is a woman with a Guard captain's insignia and a bruise on her jaw that's two days old. She starts walking toward you — and then stops. Someone calls her name from the back hallway. Sharp. Urgent.
 >
-> "You're the Chancellor's people. Sera Voss." She shakes hands with whoever offers first. "You're looking into the ritual?"
+> Her expression shifts. She holds up one finger to you — *wait* — and moves fast.
 >
-> It's not a question. She already knew you were coming.
+> From the back of the building: raised voices. The words are hard to make out, but one of them is *"accelerating"* and another is *"an hour."*
 
-### What This Scene Does
+### What's Wrong
 
-This scene exists to make the players like Sera Voss before it matters that they like her. Let it breathe.
+A Dawnborn named **Cael** (young man, 22, groundskeeper at the Dawnhalls for six years) collapsed in the storage corridor two hours ago. Grey sickness. But wrong: he was Stage 1 yesterday. He is Stage 2 now. Grey sickness doesn't move like this — months, not hours.
 
-Sera can offer:
-- A street-level view of what the twilight is doing to the city (she knows the Lowmark, she sees grey sickness every week)
-- Warmth and directness - she is genuinely glad someone is taking this seriously
-- A casual reference to the dreams she's been having: *"Probably nothing. Just weird. Lately it's like standing at the edge of a fire."* She does not elaborate. She moves on.
-- An introduction to one ensemble Dawnborn of your choice - someone who passes through briefly, who is clearly beloved, who has a name and a face
+Sera is at his bedside when the party arrives. She looks scared. She doesn't let that show to the other Dawnborn, but the party can see it.
+
+**Investigation DC 13** (Medicine or Arcana) — something disrupted a magical resonance field in the past 6 hours. The disruption came from *below* the building.
+**Investigation DC 16** — the disruption pattern matches active ritual interference. Someone was *testing* something.
+
+### The Watcher
+
+In the storage room behind the kitchen: a Dawnhalls "volunteer" named **Brek** has been here three weeks. Does the sweeping. Never makes eye contact. One of the Restorers' long-term plants — he activated a small ward-emitter hidden beneath the floorboards when Cael started asking the wrong questions. He didn't expect anyone to come looking tonight.
+
+**When players start investigating** (asking questions, searching the area, or if Pel or Ixa use any detection ability): Brek hears them getting close to the storage room. He runs.
+
+### Chase: Through the Dawnhalls
+
+Use simplified chase rules — 4 rounds, each requires one check to close:
+
+| Round | Terrain | DC | Failure penalty |
+|---|---|---|---|
+| 1 | Storage corridor to kitchen | Athletics 12 | Brek gains 15 ft |
+| 2 | Kitchen to courtyard (sparring area) | Acrobatics 13 | Brek gains 15 ft |
+| 3 | Courtyard to side gate (narrow, locked) | Athletics or Thieves' Tools 13 | He gets the gate open; you have 1 round |
+| 4 | Lowmark alley | Athletics 14 | He reaches a safe house (door slams, gone) |
+
+**Multiple players chasing:** Let different players take different routes — Keiran can cut off the gate via rooftop (DC 14 Athletics, automatic success for Warrior of Shadow), Keothi can physically block the courtyard exit by going Large.
+
+**If caught:** Brek doesn't fight. He raises his hands immediately. He's a logistics plant, not a fighter. He has:
+- A **ward-emitter** (palm-sized carved stone, faintly warm, Arcana DC 12 to identify as a grey sickness accelerator — field test equipment)
+- A **coded note**: same cipher as Agent A from the Archive, but different content: *"Cael shows strongest resonance response. E. wants confirmation before moving to phase two."*
+- The **safe house address**: Crestwick Lane basement, which Jaret will be using in Scene 4
+
+**If he escapes:** He gets to the safe house. Scene 4's ambush has advance warning — Jaret's people are better positioned.
+
+### After the Chase — Sera
+
+Sera listens to what they found. She looks at the ward-emitter for a long time.
+
+*"They've been testing something. On Cael."* She sets it down carefully. *"This has been in our building for weeks."*
+
+She doesn't raise her voice. She doesn't cry. She picks up Cael's hand, checks his pulse, sets it down.
+
+*"Tell me what you found in the Archive."*
+
+> **This is the RP moment.** Let it happen naturally. She is giving them her full attention now — the warmth she offered before is still there, but underneath it is something harder. She is a soldier who just found out someone was using her people as test subjects. She needs to know everything. She will sit still and listen to all of it. This is what makes it matter when the cost is revealed.
+
+### What This Scene Does (still)
 
 ### The Dawnhalls: What It Is and What It Costs
 
@@ -340,56 +509,104 @@ If asked what she knows about the Ritual of Eternal Dawn:
 
 ---
 
-## Scene 4: The Restorer Contact
+## Scene 4: Restorer Ambush
 
-**This scene always happens.** The only variable is whether it becomes a combat.
+**Guy Sanders structure: Combat → Puzzle (enemy intel) → RP revelation**
 
-**What Happens:** As the players are leaving the Archive or the Dawnhalls, a group of Restorer members approaches them. Not to attack - to recruit. Four Restorer Cultists fan out to block the street while a fifth, a Restorer Zealot named **Jaret**, steps forward.
+**This combat always happens.** The only variable is how it ends.
 
-He hands them a sealed note and speaks quietly, urgently:
+Jaret received word through his network: his agents failed at the Archive. Someone else found Corven's papers. The players are now the biggest threat to the Restorers' timeline. He cannot wait for a polite introduction. He needs to know what they found — and he needs them off the board until Edoran is ready.
 
-> "Brother Edoran would like to meet with you. He believes you are looking for the same thing he is, and that cooperation would benefit everyone. We are not your enemies."
+**Setup:** The party is leaving the Dawnhalls. The street is narrow. They have to pass through a T-junction three blocks out. That's where Jaret is waiting.
 
-**The Sealed Note:**
-> *"The ritual's completion is possible. The cost is real. I have been waiting for someone willing to face both. If you want answers rather than comfortable ignorance, you know where to find me. - E."*
+### Ambush: The T-Junction
 
-### How This Scene Resolves
+*Jaret has 4 Restorer Cultists positioned before the party arrives. If Brek escaped in Scene 3, add 2 Restorer Veterans (use Veteran stat block, MM p.350).*
 
-**If players are neutral or receptive:** Jaret gives them an address and withdraws. No combat. The note is the hook.
+**Terrain — narrow Lowmark street:**
+```
+╔════════════════════════════════════╗
+║  [MARKET STALL]   [HANGING LANTERN]║
+║        │                    │      ║
+║  ──────┤ ← ALLEY (5ft)     │──── ║
+║        │                           ║
+║  [PC APPROACH →]     ← [CULTISTS] ║
+║                                    ║
+║  [STALL CRATES]    [WATCH BELL ↑] ║
+╚════════════════════════════════════╝
+```
 
-**If players are hostile or try to detain them:** Jaret orders a defensive formation. The cultists form a loose circle. He says: *"We are not doing this here."* If players persist, combat.
+**Environmental tools:**
+- **Hanging lantern**: rope can be cut (BA, Dex +3 attack) — drops, 2d6 fire in 5 ft, sets stall alight in 2 rounds
+- **Market stall crates**: half cover (+2 AC), improvised weapons (1d6 bludgeoning, throw 20/40)
+- **Watch bell**: visible at the corner. Any creature can ring it as an action — watch arrives in 3 rounds, which ends the fight one way or another
+- **Alley on left**: 5 ft wide, leads to the docks (Keiran can vanish into this; Keothi in Large form cannot fit)
 
-**If players attack without warning:** The Restorers defend themselves. Jaret tries to de-escalate even mid-fight: *"Stop! We are on the same side!"*
+### Jaret — Restorer Zealot
+*Medium humanoid, neutral*
 
-### Combat Tactics (if it comes to it)
+**AC** 14 (chain shirt) | **HP** 52 (8d8+16) | **Speed** 30 ft
 
-**Restorer Cultists (4):** Prioritize non-lethal. They use the grapple action to restrain rather than attack. They take subdual damage where possible. If a player drops, they stop and call for help rather than execute. They retreat if Jaret falls or if they take 50% casualties.
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 (+2) | 13 (+1) | 14 (+2) | 12 (+1) | 14 (+2) | 13 (+1) |
 
-**Jaret (Restorer Zealot):** Stays at range. Uses Sacred Flame and Inflict Wounds. His goal is to create enough threat that the players stop and talk, not to kill anyone. If reduced to 10 HP or below, he raises both hands and says: *"We yield. Please read the note."*
+**Skills** Insight +4, Persuasion +3, Religion +3
+**Saves** Wis +4, Cha +3
+**CR** 3 (700 XP)
 
-**Terrain:** City street, narrow. Two-deep formation favors grappling. Nearby market stalls provide cover and improvised weapons (produce crates, a hanging lantern). Bystanders will scatter within one round and summon city watch in three rounds - which creates time pressure for both sides.
+**Traits**
+- *True Believer.* Jaret cannot be frightened. He has disadvantage on Deception checks when stating the Restorer position — he believes it completely.
+- *Tactical Mercy.* If Jaret reduces a player to 0 HP, he does not follow through. He calls out: *"Down! Don't finish them!"* His cultists obey.
 
-### Combat: Secondary Objectives
+**Actions**
+- *Multiattack.* Two mace attacks.
+- *Mace.* +4, 1d6+2 bludgeoning.
+- *Sacred Flame (Cantrip).* DC 12 DEX save, 1d8 radiant. No cover benefit.
+- *Inflict Wounds (2/day).* Melee spell attack +4, 3d10 necrotic on hit.
 
-The fight is never about winning initiative. It is about what message the players send to the Restorers, the Chancellor, and the watching crowd.
+**Bonus Actions**
+- *Command (1/short rest).* One creature within 30 ft must succeed DC 12 WIS save or on its next turn must use its action to make a melee attack against a creature of Jaret's choice.
+
+### Restorer Cultist × 4
+*Use Cultist stat block (MM p.345) + 5 HP each (22 HP total)*
+- Tactics: Grapple priority on high-mobility players (Keiran, Ixa). Two engage front line, two circle for flanking.
+- Non-lethal: Drop to 0 HP without death blows. They are not executing anyone tonight.
+
+### Secondary Objectives
 
 | Objective | Condition | Reward |
-|-----------|-----------|--------|
-| **Keep it non-lethal** | No Restorer or bystander drops to 0 HP | Restorers stay neutral or friendly; Edoran's invitation remains on the table |
-| **Beat the watch** | Resolve or disengage before the start of round 3 (or succeed on a DC 13 group Stealth check to slip away) | Avoid Council inquiries and public charges; Chancellor trust does not drop |
-| **Take Jaret alive** | Grapple or reduce him to 0 HP with non-lethal damage and succeed on a DC 13 Persuasion/Intimidation check | Gain the Restorer compound address, timing for Edoran's meeting, and +1 clue toward Dawn faction politics |
+|---|---|---|
+| **Non-lethal** | No Restorer dies | Restorers remain accessible as faction in Session 2 |
+| **Beat the watch** | End combat before round 3 watch arrival, OR ring bell proactively as a negotiation move | No Chancellor reputation loss; no arrest warrants |
+| **Capture Jaret** | Reduce to 0 HP with subdual damage or grapple successfully (DC 13 STR contest) | He talks; gives Edoran's letter and address; explains the Archive agents |
+| **Use the safe house intel** | Show Jaret Brek's note mid-combat | He stops fighting. He didn't know they had it. This ends the encounter in one round. |
 
-### The Encounter Beat: The Watch Bell
+### The Encounter Beat: Round 3 Bell
 
-At the start of **round 3**, the street bells ring twice — the signal that the city watch has been alerted and is two rounds out. From this moment:
+At the start of round 3, the watch bell sounds if not already rung. Two rounds until arrival.
 
-- All Charisma checks with bystanders are at disadvantage; everyone is panicking.
-- Any lethal attack after the bell automatically draws the watch's attention to the attacker (expect arrests or reputation fallout in downtime).
-- Players who choose to talk can use the bell as leverage: *"We have two minutes before the watch arrives. Decide now."* Checks made in the round after the bell gain advantage as urgency spikes.
+- Jaret knows this. He will use this as his de-escalation opening: *"We have ninety seconds before this becomes both our problems. Read the note."* He reaches slowly into his coat and places Edoran's sealed letter on a crate.
+- Players who use the bell proactively as a signal (ringing it themselves) get Advantage on the next Persuasion or Intimidation check — the ticking clock is working for them.
 
-If the confrontation is still unresolved when the watch arrives, treat the scene as failed diplomacy: the Chancellor is briefed, and the Restorers consider the players hostile until repaired later.
+### RP Reveal: Edoran's Letter
 
-> **GM Tip:** This note is designed to create paranoia and intrigue, not to give anything away. "The cost is real" is the hook. Don't let the players dismiss it - but don't explain it either. Not yet.
+Whether through negotiation, Jaret's surrender, or finding it on his person:
+
+**The Sealed Note:**
+> *"The ritual's completion is possible. The cost is real. I have been waiting eleven years for someone willing to face both without flinching. The Chancellor knows part of what I know. She chose not to finish the sentence. I will finish it.*
+>
+> *If you want answers rather than comfortable ignorance — you know where to find me.*
+>
+> *— E."*
+
+Jaret, if alive and coherent, says only: *"He will tell you what Corven wrote. The rest is your decision."*
+
+He does not say what Corven wrote. He won't. That's Edoran's opening.
+
+> **GM note:** The fight was the cost of entry. The puzzle (enemy intel, coded notes, the Chancellor's seal) is the mystery they carry out. The letter is the hook that pulls them into Session 2. This is the end of Session 1 — they leave with more questions than answers, but every question came from something they fought for.
+
+> **Guy Sanders check:** Every scene this session had a combat objective AND a mystery embedded in the combat. The RP beats landed because players earned them through action. The Dawnborn aren't abstract — Cael collapsed, the ward-emitter is in Sera's hands, and Sera gave them the full truth because they showed up while her people were being tested.
 
 ---
 
