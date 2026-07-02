@@ -10,6 +10,21 @@ Ten people are carrying the sun inside them. The city needs it back. Whose choic
 
 ---
 
+## The Story Spine
+
+One sentence per beat. This is the campaign in sixty seconds.
+
+| Beat | Session | Sentence |
+|------|---------|----------|
+| **Inciting Incident** | 1 | Hired investigators arrive in Varenhold and discover that the fifty-year ritual failure was not a failure — the sun's energy redirected into ten living people who have spent their entire lives as the city's symbols of hope. |
+| **Rising Action 1** | 2 | The cost of completion lands: the Archivist confesses eleven years of silence, the Reckoning escalates to violence, and the players must decide whether to carry this knowledge or bury it. |
+| **Rising Action 2** | 3 | Three paths forward emerge, none clean — transfer the energy, split the burden, or pursue an inversion requiring unanimous free consent — while the hidden profiteer's bureaucratic interference begins closing doors. |
+| **Rising Action 3** | 4 | Everything converges at the Ashring: the Primer Stone reveals the Inversion path, Harran forces a confrontation, and players uncover who has been funding the chaos — Warden Keseph Vyne, backed by Solenne money. |
+| **Climax** | 5 | At the ritual site, with time running out, the players stand before the Dawnborn and execute whatever choice they have built toward across four sessions — and discover whether the people they fought for chose freely. |
+| **Resolution** | Post-5 | The sun returns or it doesn't, and the city must live with what was chosen — including who chose it, and whether they got to. |
+
+---
+
 ## The Big Bad — Three-Layer Antagonist Structure
 
 This campaign does not have one villain. It has three, each answering a different question about power and who gets to decide.
@@ -18,17 +33,37 @@ This campaign does not have one villain. It has three, each answering a differen
 
 ### Layer 1 — The Hidden Enemy: Warden Keseph Vyne
 
-**What he is:** Senior Scholar of the Spire Theoretical Division. A man who has been paid by Solenne — a neighbouring power — to suppress viable solutions to the twilight for twenty years.
+| Letter | Stands For | Detail |
+|--------|-----------|--------|
+| **O** | Occupation | Senior Warden of the Amber Compact; Varenhold's most influential trade arbitrator; unofficial gatekeeper of Spire research funding |
+| **G** | Goal | Keep the ritual unsolved. Not forever — indefinitely. Each year of twilight is another year of Compact dependency, another year Solenne's grain guarantees hold, another year the amber workshops produce for export instead of self-sufficiency. He does not hate Varenhold. He has simply built his life on its inability to save itself. |
+| **A** | Attitude | Invisible. Players will not meet Keseph until Session 4-5. Before then, they will meet his bureaucracy: access denials, revoked licenses, competing claims filed three hours after they are spotted entering the Spire. If confronted directly, he is courteous, regretful, procedurally immovable. He treats the players as people doing a job he cannot allow to succeed. |
+| **S** | Secret | He is funded by Solenne. The Compact's credit infrastructure in Varenhold is backed by Solenne grain guarantees — guarantees that become worthless the moment Varenhold restores its agricultural capacity. Keseph has been receiving ~800 amber script over six years through the Compact's external liaison office, justified as "diplomatic continuity fees." He knows exactly what it is. He has told himself it is simply good statecraft. |
 
-**Why he is the true villain:** The Reckoning is honest about what it wants. Edoran is honest about his grief. Keseph has been poisoning the well quietly, steering Spire research away from breakthroughs, underfunding Isolde's transfer method, and leaking ritual progress reports to foreign interests. The twilight has been his career. He wants it to continue.
+**Want:** The ritual to remain in institutional limbo for another decade — long enough that the question of consent becomes moot because the Dawnborn die of twilight exposure like everyone else.
 
-**What he wants:** Academic prestige. Solennite funding. A problem that never gets solved because unsolved problems require experts.
+**Fear:** Players assembling a complete picture: Solenne funding + his Archive interference + Isolde's suppressed research + the mercenary contracts = the evidence chain that ends his career and possibly his freedom.
 
-**What he fears:** Maret Lonn. She has had his documentation for two years and has been waiting for the right moment.
+**Lies about:** His concern for the ritual's "procedural legitimacy." He invokes institutional process as a weapon. Every delay he creates is framed as protecting the Dawnborn from a rushed decision. This is the most dangerous kind of lie — partly true.
 
-**What he will lie about:** Everything, with the specific confident fluency of someone who has been doing it for twenty years and has never been caught.
+**Solenne's Motive:** Solenne is not Varenhold's enemy. It is simply its creditor. For twenty years, Varenhold's twilight has meant Solenne controls the grain supply that keeps the city fed. Solenne's merchant houses hold the debt instruments that back the Compact. Varenhold producing its own food, restoring its own light, renegotiating its own trade terms — all of this restructures a relationship that has been very profitable for Solenne. Solenne's Chancellor has never ordered Keseph to suppress the ritual. She has simply made clear, twice, in private, that she hopes "the transition, when it comes, is managed carefully." Keseph is the management.
 
-**His move in Session 5 (if both Reckoning and Desperate neutralised):** Hired mercenaries at the Ashring. He is not a fighter. He is a man who pays fighters. When this happens, the players finally see the face behind everything that went wrong in the Spire.
+**Harran's Knowledge Source:** Harran knows about Isolde's transfer method through Varren Aldiss, a former Spire scholar who was on Isolde's original project team before Keseph's institutional review shut down the research. Varren was dismissed, radicalised, and now feeds Harran information on what the Spire actually knows versus what it publishes. This is why Harran is so certain: he has inside knowledge. It is also why he is so certain the transfer method is insufficient — Varren told him about the 15-20% mortality risk, and Harran decided this was "nearly the same as forced consent anyway."
+
+**Active Plan (what Keseph is doing right now):**
+- *Has done:* Suppressed Isolde's transfer research via institutional review; redirected Spire funding from active ritual research to ceremonial archive maintenance; maintained the Archive restriction on pre-failure ritual documents for eleven years
+- *Is doing:* Filing bureaucratic challenges to players' research access; using the Compact's Solenne liaison to slow any findings that reach the Chancellor; monitoring players via a Warden aide named Davan Crel
+- *Will do:* Activate Solenne mercenary contact in Session 4; deploy six mercenaries to Ashring perimeter; file a formal challenge to the ritual proceeding "without institutional oversight"
+
+**What Winning Looks Like:** If Keseph succeeds — if the ritual remains unsolved and the Dawnborn die of twilight exposure over the next decade — Varenhold in Year 60 is a client city. The Compact controls its credit. Solenne controls its grain. The amber workshops produce for export. The Spire survives as a ceremonial institution that validates Warden decisions rather than challenges them. Keseph himself is dead by then. His model isn't. The city is safest, he believes, when it cannot imagine solving its own problems.
+
+**Early Clues (Sessions 1-3) — Players Feel Keseph Before They Know Him:**
+
+*Session 1:* Players ask the Archive for access to pre-failure ritual research. A polite clerk explains the relevant collection is "temporarily restricted pending institutional review" — a review that has been pending for eleven years. The clerk doesn't know who filed it. Theron knows but won't say yet.
+
+*Session 2:* Players seeking Isolde Maren find her lab on the third Spire tier has been "reassigned to archive purposes." Her current location: a rented room in the Ashring district, working from personal notes because her institutional access was revoked two years ago. The revocation letter is signed "Office of the Senior Warden, Institutional Integrity Review." DC 15 Investigation reveals this office was created specifically to review Isolde's lab and has never reviewed anything else.
+
+*Session 3:* A player attempting official access to the Primer Stone vault is met by Warden's aide Davan Crel, who explains a "competing access claim" was filed that morning — someone else requested priority access to the same materials. Cross-referencing Compact records (DC 14 History) reveals the filing came from the office of Warden Keseph Vyne, three hours after players were seen entering the Spire.
 
 **theGreatGM note:** Keseph should not be a cartoon. He genuinely believes the city *benefits* from Spire expertise — he has told himself for twenty years that he is managing the crisis, not prolonging it. The moment that breaks him is when the players show him that Isolde's method would have worked three years ago. He goes quiet. That quiet is worse than an argument.
 
@@ -47,6 +82,10 @@ This campaign does not have one villain. It has three, each answering a differen
 **What he will lie about:** That there is no other option. He knows about Isolde's method. He does not mention it.
 
 **His encounter beat:** When Harran is defeated or captured, he says one thing before he stops talking: *"When the city collapses in six months, tell me which principle saved it."* He is not wrong that there is a clock. He is wrong about who gets to decide when it runs out.
+
+> **GM Note:** Commander Harran requires a full OGAS entry in `npcs.md` — he is currently the most mechanically present antagonist in the campaign (forces confrontations in Sessions 2 and 4) without a character sheet. Add his entry with: sample dialogue, attitude shift table based on ritual progress, and the skill gates for his two confrontation scenes. Key beats: his internal 14-day deadline (players can learn this), his Spire contact Varren Aldiss (discoverable), and the moment he realizes his own people have gone further than he intended.
+>
+> **His lie:** "There is no other option." He knows about Isolde's method. He chose not to offer it because it gives the Dawnborn leverage to stall. He is not wrong about the math. He is wrong about what the math means.
 
 ---
 
@@ -145,6 +184,20 @@ Every scene: stakes. Every NPC: want / fear / lie. Every encounter: secondary ob
 
 ---
 
+## The "Do Nothing" Timeline
+
+If players are passive or slow, Varenhold does not wait. Use this table to apply pressure between sessions.
+
+| Week | City State | Keseph | Harran | Edoran |
+|------|-----------|--------|--------|--------|
+| **Week 0** *(before Session 1)* | Grey sickness at 8%; food stores 65%; Dawnborn celebrated at public Dawning | Suppresses latest Spire energy-transfer paper; redirects funding from Isolde's lab to ceremonial archive maintenance | Recruits two ex-guard sergeants; begins drilling Reckoning members at the old foundry | Organizes prayer vigil; privately meets Ysel to confirm her continued willingness |
+| **Week 1** *(S1→S2)* | Grey sickness ticks to 9%; Healing House turns away patients for capacity; Dawning attendance drops | Calls in Compact favor to delay players' Archive access permit two days | Identifies players as threat after Archive visit; has them followed from Session 1 close | Hears players met Theron; sends Cormac to "accidentally" cross their path |
+| **Week 2** *(S2→S3)* | Rationing discussion begins in Council; Restorer sermon attendance doubles; Reckoning graffiti appears in Lowmark | Files bureaucratic challenge to Isolde's lab operational license; tips Reckoning to Spire access attempt | Sends warning to Dawnborn: players cannot protect them; begins organizing forced-ritual timeline | Calls emergency Restorer convocation; presents "moment of willingness" theology publicly for first time |
+| **Week 3** *(S3→S4)* | Food stores hit 50%; Chancellor cancels non-essential Council sessions; Ashfen Clan representatives withdraw | Activates Solenne contact; requests six mercenaries; attempts to have players removed via immigration review | Posts Reckoning guards at Ashring approach roads; issues internal 14-day ultimatum | Visits Lira at home; leaves without speaking; Lira knows what he came to ask |
+| **Week 4** *(S4→S5)* | Chancellor's seven-day ultimatum issued; food stores 35%; grey sickness 12%; city guard mobilized | Mercenaries arrive; deploys to Ashring perimeter; tells Council "outside interference has been engaged to secure the ritual site" | Moves Reckoning to Ashring — point of no return; will not leave without a ritual | Refuses to attend the Ashring; tells network: "If they go without asking the last three, it will fail. We will deserve what we get." |
+
+---
+
 ## The Endings
 
 | # | Name | Conditions | What Happens |
@@ -201,11 +254,31 @@ When two antagonist layers come into conflict directly (e.g., Harran arrests Edo
 
 ---
 
+## Key Scene Seeds
+
+### Cormac Ossel — The Wavering Yes
+
+Cormac told Edoran yes nine weeks ago. He has not told anyone he is reconsidering.
+
+**The Trigger:** In Session 3 or 4, Ysel asks Cormac directly — in a semi-public setting at the Dawnhall — whether he still means what he told Edoran. Cormac freezes. Does not answer. Players who witness this see a man who said yes to dying discover he does not actually want to. He leaves without speaking to anyone.
+
+**The Window:** If players follow up within 48 hours (before Session 4 ends), Cormac will say: *"I consented when I thought it would be over before I had time to think about it again. It kept not being over."*
+
+**The Stakes for Inversion Path:** Players who help Cormac arrive at genuine re-consent — not reassurance, actual examination of his choice — earn the "Cormac: renewed" trust flag. His stone activates at the Inversion Circle. Players who do not engage with him before Session 5 find his stone dim. The Inversion Circle requires a decision: proceed without him (path collapses to Ending A), or take thirty minutes to sit with him and ask again.
+
+---
+
 ## The Question the Campaign Is Always Asking
 
 *"Who gets to decide what someone's life is for?"*
 
-Every NPC, every faction, every encounter is answering this question differently. The players are not hired to find the truth — they find the truth in the first two sessions. They are hired to do something with it. That is the whole game.
+**YES — the community decides:** Ten people cannot hold thousands hostage to their preference for survival. The ritual was always the purpose the Dawnborn were shaped toward, not despite their lives — through them. To refuse is to privilege the few over the many in a city that cannot afford the luxury of individual veto.
+
+**NO — the individual decides:** No city, no ritual, no utilitarian calculation gives anyone the right to define another person's death as their purpose. Consent is not a courtesy — it is the precondition that makes the sun worth returning. A dawn built on coercion is not a dawn.
+
+Both answers are correct. Both answers are incomplete. Every NPC, every faction, and every encounter in this campaign is answering this question differently. The players are the only ones in the room with enough information to hold both answers at once.
+
+The players are not hired to find the truth — they find the truth in the first two sessions. They are hired to do something with it. That is the whole game.
 
 ---
 
@@ -421,6 +494,21 @@ Every scene falls into one or more of four modes. Knowing the mode stops GMs fro
 | **The Scholar** | Access to the most information-dense content (Spire, Archive, Tomas). Intellectual peers who challenge them. The discovery that knowledge does not confer authority to act on it. | Session 3: Isolde's lab and the transfer method as an actual engineering problem | May try to resolve everything intellectually. Give them Tomas as a mirror — he also tried this, and he is writing his will. |
 | **The Mercenary** | A job that becomes personal despite themselves. The moment completing the contract requires defining what they are actually for. | Session 2: the Chancellor wants their report and they know what is in it | May try to stay transactional. Let the Dawnborn make it impossible. Sera especially — she just assumes competence and goodwill until proved otherwise, which is somehow the most disarming thing imaginable. |
 | **The Dawnborn-Adjacent** | Early, deep access to their specific Dawnborn. The relationship made real before the cost lands. The moment they must choose between the person they love and something larger. | Session 4: when their Dawnborn announces their position | Protect this player from other players rushing past the relationship moments. Their arc is slower and it is worth it. |
+
+---
+
+### Archetype to Dawnborn Pairing
+
+Assign before Session 0 where possible. The Dawnborn-Adjacent archetype requires a specific pairing before the first session.
+
+| Archetype | Recommended Dawnborn | Rationale | Session 1 Hook Activation |
+|-----------|---------------------|-----------|--------------------------|
+| **Investigator** | Tomas Areth | Both are running out of time and know it — one writing his will, one building a case | Archive restriction notice: *this case has someone closing doors before you arrived* |
+| **Believer** | Sera Voss | Sera's faith-without-certainty mirrors and challenges everything the Believer brings | Sera says "I'm glad you're here" — first NPC in Varenhold who seems to mean it |
+| **Survivor** | Lira Anwick | Lira's daughter is the specific, personal refusal the Survivor's grief recognizes | Chancellor mentions casualty numbers as budget line items — one of those numbers has a name |
+| **Scholar** | Cormac Ossel | Cormac's wavering is an intellectual problem disguised as an emotional one | Theron mentions the ritual mechanism, gets a look, stops talking — a man sitting on eleven years of knowledge |
+| **Mercenary** | Ysel Thanis | Ysel is waiting for someone to ask if her consent was freely given — the Mercenary asks without an agenda | Sera pays in advance without negotiating — nobody does that; *why does she trust you already?* |
+| **Dawnborn-Adjacent** | Assign by backstory: Petra Innes (exile/protector), Naren Colth (grief/healer), Cori Wren (creative/legacy) | Pre-assigned relationship gives them early, deep access | Their Dawnborn is in the Dawnhall greeting and treats them differently — a flicker of recognition that shouldn't exist yet |
 
 ---
 
