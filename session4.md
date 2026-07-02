@@ -1,691 +1,151 @@
-# Session 4 - The Breaking Point
+# Session 4 — The Breaking Point (Level 7)
 
-**Central Dilemma:** What do you owe to people who choose to sacrifice themselves?
-
-**Session Goal:** All previous choices converge. The Dawnborn split. The players must navigate a crisis that has no clean resolution.
-
-**GM Principle for This Session:** Every consequence the players earned in Sessions 1-3 arrives simultaneously. Don't protect them from it.
+*Dilemma: What do you owe to people who choose to sacrifice themselves?*
 
 ---
 
-## Pre-Session Checklist
+## Scene 1 — Opening Combat: Solennite Blades
 
-- [ ] Review ALL three session trackers - this session is built from their contents
-- [ ] Map which Dawnborn are: willing, unwilling, or undecided
-- [ ] Check: has Tomas's deadline passed? Has the truth gone public?
-- [ ] Decide if Isolde's transfer option is still viable
-- [ ] The Desperate mob - what happened after Session 3? Track that faction's state
-- [ ] Has Cormac's wavering (the "two willing become two" complication from Session 3) been revealed?
-- [ ] Is Petra Vane's location known to the players?
+**Five senses:**
+- Sight: The road to the Ashring, morning. Six figures spread across the cobbles in a professional intercept formation — not blocking passage but making it clear passage will cost something.
+- Sound: Quiet. The Blades don't shout. One holds up a hand, palm out.
+- Smell: Leather oil and cold stone. The dry-electrical smell that has been building near the Ashring for days.
+- Touch: The road underfoot is older here — uneven, the stones slightly tilted from tree roots long dead.
+- Air: The usual amber-lit stillness. No wind.
 
-### Player Companion Touchpoints
+**Setup:** Six Solennite Blades — mercenaries on Keseph Vyne's retainer — intercept players on the road to the Ashring. They carry written contracts. Their orders are to incapacitate and detain, not kill. Keseph wants players arrested, not martyred. The Blades know this is a political operation and are professionally indifferent to the ethics of it.
 
-- **State tracker in the open (`tracker.md`):** Bring the Dawnborn consent grid to the table as a literal prop during the Ashring gathering. When someone commits or retracts consent, mark it in front of the players. It's the simplest way to show the stakes of Lira's arrival and the Chancellor's ultimatum.
-- **Where crowds congregate (`shops.md`):** Helka at the Wayfarer's Rest and Wess at the Grain Measure become your rumor mill. Their wants (accurate manifests, a safe inn) and fears (Compact seizure, Reckoning surveillance) give you NPC voices to drop into the opening d6 event or to foreshadow the Reckoning strike. Use their side quests as leverage: players who solved them earlier can call on their help now for crowd control or safe houses.
-- **Moving Dawnborn off-map (`travel.md`):** If the party races to retrieve Petra or escort Lira, use the Eastern Track and Ashfen Paths tables. Their complications (Compact assessment rider, Reed Clan patrol) keep the tension high even when the scene leaves the Ashring.
+**Secondary Objective (state before combat begins):** Capture at least one Blade alive AND recover the written contract one of them carries. The contract names Keseph Vyne as employer and references "Compact security arrangements" — the first hard evidence tying Keseph to active interference. Without it, Keseph remains a rumor. With it, players have leverage.
 
----
+**Enemies:**
+- Solennite Blades: 4, use Spy stats (MM p.349) with advantage on Perception and proficiency in Insight and Deception. Motivated by contract and payment, not ideology.
+- Solennite Commander: 2, use Bandit Captain stats. One carries the contract document folded inside their coat (DC 12 Perception to spot the paper's edge, or found automatically if they're captured or searched).
 
-## Pacing Guide
+**Combat ends when:** Players capture the Commander and display the contract — the remaining Blades stand down ("Our employer can't pay a dead contract"). Or when all six are incapacitated.
 
-*Target: 3.5-4 hours. Adjust the combat length or the Ashring social encounter to fit your table.*
-
-| Beat | Scene | Time | Type |
-|------|-------|------|------|
-| 1 | Five Senses Opening + d6 Event | 10 min | Atmosphere |
-| 2 | Approach to the Ashring | 15 min | Travel/social |
-| 3 | The Ashring Gathering | 25 min | Social (stakes) |
-| 4 | **Puzzle: The Primer Stones** | 20 min | Exploration |
-| 5 | **Riddle: Tomas's Asymmetry Journal** | 15 min | Investigation |
-| 6 | Lira Arrives: The Confrontation | 25 min | Roleplay (high tension) |
-| 7 | **Combat: The Reckoning Strikes** | 30 min | Combat (3 objectives) |
-| 8 | The Chancellor's Ultimatum | 15 min | Decision point |
-| 9 | Closing Beat + Post-Session Question | 10 min | Debrief |
+**What players learn:** Keseph Vyne's name, for the first time, as the person willing to use mercenaries to stop them reaching the Ashring.
 
 ---
 
-![The Ashring at night with the Primer Stones active - ten stones glowing amber in the scorched circle, the ritual's shape made finally visible](images/session4-opening.png)
+## Scene 2 — The Riddle: The Primer Stone Inscription
 
-## Five Senses Opening
+**Setup:** The Ashring — ten weathered standing stones in a circle around a scorched central dais. Each stone carries a partial inscription. Players approaching from the road can see the stones are older than the ritual, but the carvings are fresh by comparison — fifty years old, not five hundred.
 
-*Read or paraphrase before the d6 table. Ground the players before the crisis lands.*
+**The Riddle:** The ten partial inscriptions, assembled in clockwise order starting from the north stone, form a complete riddle:
 
-<audio controls style="width:100%;margin:0.5em 0 1.5em 0;">
-  <source src="audio/session4-opening.wav" type="audio/wav">
-</audio>
+> I am the moment before and the moment after.
+> I live where the fire was, not where it is.
+> I cannot be taken — only given.
+> I am what remains when everything chosen has been honored.
 
-> The amber light is doing what it always does today.
->
-> That's the thing nobody talks about anymore - how constant it is. Not peaceful. Constant. The quality of a held breath that has been held so long the body has stopped noticing it. The city smells of lamp oil and preserved fish and the particular dry cold of a place that hasn't had rain in six weeks, because without a proper sun cycle the weather has become sullen and irregular. The Ashring quarter smells of old stone and something else underneath it - something faintly electrical, like the air before lightning. That smell has been getting stronger.
->
-> The people you pass in the streets this morning are walking faster than usual. They know something is happening at the Ashring. In a city this size, secrets travel at the speed of children.
+**Answer:** DAWN. Or ASH. Or CONSENT. Any of the three spoken aloud at the center dais triggers the response — the stones recognize synonyms for the same thing.
 
-*After the read-aloud, roll or choose the opening event.*
+**Correct:** All ten stones glow amber simultaneously for the first time in fifty years. Secondary text appears on the center dais, carved underneath the weathered surface and only visible when the stones are active: *"If all ten give the word freely, the word becomes the sun."* This is the Inversion pathway, in plain language. Players who read it understand immediately: unanimous genuine consent undoes the ritual without anyone dying.
 
----
+**Wrong:** One stone glows. The others do not. Players learn something important about the mechanism even from the failure — the answer requires all ten to respond at once. This is a preview of the Inversion Circle's core problem: it cannot be partially completed.
 
-## Opening: Everything at Once
-
-Roll 1d6 and consult this table, or choose the entry most relevant to previous sessions:
-
-| d6 | Opening Event |
-|----|---------------|
-| 1-2 | Tomas has gone public. He announced the truth at a city gathering. There is chaos. |
-| 3-4 | The willing Dawnborn have convened at the Ashring. They are waiting for someone to facilitate what they've decided. |
-| 5 | Lira has disappeared with her daughter. A note says she's going. She doesn't say where. |
-| 6 | The Chancellor has been approached by two outer city-states offering military support - in exchange for the ritual proceeding within 30 days. |
-
-*Run whichever fits your table's history best, or combine elements.*
+**GM Note:** The riddle's answer requires giving, not taking. The Inversion path requires the same. Let that land before moving to the puzzle.
 
 ---
 
-## The Split
+## Scene 3 — The Puzzle: The Astronomical Activation Sequence
 
-This session, the ten Dawnborn divide into three groups, and the players are in the middle of it.
+**Setup:** The ten Primer Stones must be activated in the correct order — hands placed on each stone in sequence, the stone's star-name spoken aloud — before the Inversion inscription on the center dais becomes readable. The correct order is the ten brightest stars visible on the night of the original ritual fifty years ago, recorded in the Spire Observatory's sealed log. Wrong order: 1d10 radiant damage per incorrect stone as the stone discharges, then resets.
 
-### The Willing: Ysel, Davin, Cormac (and possibly Sera)
+**The Puzzle:** Players have three routes to the activation sequence:
 
-These three have made their peace. They are not performing bravery - they are genuinely, quietly ready. They have one request: that their choice be *respected*, not endlessly relitigated.
+1. **Observatory records** — requires Spire access. DC 13 Persuasion with Maret Lonn (the Observatory archivist, cautious but not hostile), or DC 15 Thieves' Tools on the Observatory archive lock if Lonn won't cooperate.
+2. **Corven's Notation Key** — if players assembled Fragment 1 (Session 1) and Fragment 2 (Session 2), the combined key maps the star sequence. Grants advantage on DC 12 Arcana to derive the order from the stone glyphs.
+3. **Tomas Areth** — he has memorized the sequence. He will give it if asked. But asking him means having the Inversion conversation, because he immediately asks: *"Why do you need the sequence? What are you planning to do with it?"*
 
-**What they want from the players:**
+**Solution:** Activate stones in star-brightness order (brightest to dimmest, from the ritual night's sky). Players must have at least one of the three source routes — the sequence cannot be guessed or brute-forced without catastrophic radiant damage accumulation.
 
-> **Ysel Maren:** *"I am not asking to be saved. I am asking to be believed when I say this is what I want. Can you do that?"*
+**Partial success:** 7-9 stones activated correctly before an error. The incorrect stone discharges (1d10 radiant, DC 12 Dexterity save for half). Stones reset. The center dais glows faintly — the inscription is almost visible but not readable. A second full attempt completes it.
 
-The players' challenge here: accepting someone's willing sacrifice is harder than it sounds. Every instinct says find another way. The Willing are asking the players to sit with the discomfort of saying *yes*.
+**Failure:** Fewer than 7 correct before an error. Full reset, full damage from the incorrect stone. The watching crowd at the plaza's edge takes a step back. Davan Crel, if present, notes the discharge and its timing in his report to Keseph.
 
-**If the players try to talk them out of it:**
-Davin, gently: *"We've had fifty years to think about what we are. You've had two sessions. Please don't tell me who I am."*
+**Success:** All ten activated in sequence. The center dais inscription glows amber and holds. The Inversion pathway is revealed and readable. Players now know that Ending B (all ten freely consent, no one dies) is mechanically possible — and that it requires every single Dawnborn at their exact stone position simultaneously.
 
-**If the players accept it:**
-Something shifts. The scene becomes quiet in a way that isn't sad - it's resolved. These characters have a kind of peace the players may not.
-
-**Note on Cormac:** If the players discovered his wavering in Session 3 and haven't acted on it, this is where it surfaces. He is present with the willing group but standing slightly apart. A DC 12 Perception check notices he hasn't spoken since the players arrived.
-
-**Cormac's Resolution Window:** Before the Reckoning raid begins, players have a brief private moment if they seek it — Cormac drifts to the edge of the plaza while the group conversation continues. This is the structured beat: a player who follows him has roughly five minutes before the Reckoning positions become active. What resolves Cormac is not persuasion — he has to decide for himself. What he needs is someone to *stay* with the uncertainty without pushing toward a conclusion. If a player simply listens (no check required; this is a roleplay beat), Cormac talks through it: *"I gave my word when I thought I understood what I was giving it for. I understand it better now. I'm not sure the word still holds."* What he decides depends on what the player says next — or whether they say anything at all. If the raid interrupts before he resolves: his stone is amber (uncertain) during the ritual, not cold (refusing), but not gold either. The inversion cannot complete with an amber stone. This needs to be addressed before activation.
-
-### The Unwilling: Lira, Aldric, Petra (and possibly others)
-
-Lira's position is absolute and human: she has a daughter, and she intends to watch her grow up.
-
-Aldric and Petra are less articulate but equally firm. They didn't choose to be Lux Anchors. They don't believe they owe anyone their death.
-
-**What they want from the players:**
-
-> **Lira:** *"I need you to either find an alternative or tell me honestly that there isn't one. Don't string me along."*
-
-The players' challenge: they may not have an alternative yet. They may be choosing between honesty (which breaks her) and false hope (which buys time but destroys trust).
-
-**Lira's Daughter:**
-If this hasn't come up yet, it does now. Mira (the daughter, age 3) is present in this scene - playing quietly in the corner. Lira doesn't introduce her. She doesn't have to.
-
-**If the players have an alternative (Isolde's transfer, partial ritual):**
-Lira wants to believe it. She pushes for specifics. She will commit to *nothing* that isn't verified - but she won't abandon the group either.
-
-**Note on Petra:** She is *not* present at the Ashring. She left Varenhold several days ago and has not returned. Aldric knows she went to the Dusk Parishes. The players can find her there (see Petra Vane stat block and OGAS below), but she will not be retrieved easily.
-
-### The Undecided: Tomas, Orya, Nin, and one or two others
-
-Tomas occupies a particular position: he already suspected the truth, he has made his peace *intellectually*, but he has not yet decided *personally*.
-
-> *"The question of whether the ritual is right, as a principle, is separate from the question of whether I will choose to be part of it. I know this is frustrating. It is frustrating to me as well."*
-
-The undecided are the swing votes. Whoever the players are most aligned with, whoever they've built the strongest relationships with, may tip in that direction.
+**Connected to:** Session 5 — the Inversion Circle requires all ten Dawnborn at these specific stone positions at the same moment. This puzzle establishes which stone belongs to which Dawnborn. Any stone not activated in Session 5 means that Dawnborn's consent is absent and the Inversion cannot complete.
 
 ---
 
-## Puzzle: The Ashring Primer Stones
+## Scene 4 — The RP Scene: Cormac's Wavering
 
-*Placed in the Ashring itself. The players can discover and solve this during Scene 1, before Lira arrives.*
+**NPC:** Cormac Ossel (with Ysel Thanis present and watching)
 
-### What the Players Find
+**Want:** Cormac wants to not have to decide again. He gave his answer nine weeks ago. He believed it then.
 
-The ten standing stones ringing the Ashring are older than the ritual. They predate Archmagister Corven by at least a century. But fifty years ago, someone carved fresh symbols into each one - star charts, Spire notation, phase glyphs. Anyone who assembled the Notation Key in Session 1 can read them. Anyone who retrieved Isolde's laboratory materials in Session 3 recognizes the astronomical notation.
+**Fear:** That his wavering will collapse the mathematics of who's willing — and that everyone will see it happen.
 
-Each stone displays a fragment of the night sky as it appeared during specific historical dates - not the ritual night itself, but the ten preceding nights, each stone showing one night running backward from the ritual.
+**Lie:** That his yes from nine weeks ago is still the same yes. It isn't. He knows it isn't.
 
-**The Puzzle:**
-The stones must be touched in reverse chronological order (from ten nights before the ritual forward to the night itself) to activate the central inscription. If activated correctly, a glow builds stone to stone and the inscription on the central dais illuminates.
+**Setup:** At the Dawnhall after players return from the Ashring. Ysel Thanis has been watching Cormac for three weeks. She has not said anything to him directly. Until now. She asks him, in the open, in front of players and two other Dawnborn seated at the far end of the table: *"Do you still mean what you told Edoran?"*
 
-**The Three Paths to the Answer (Three-Clue Rule):**
+**Five senses:**
+- Sight: Amber lantern light. The long Dawnhall table. Cormac's hands around a clay cup.
+- Sound: Food sounds from the kitchen. The specific silence of a room waiting for someone to speak.
+- Smell: Warm bread. Lamp oil. Old wood.
 
-| Path | Source | What It Provides |
-|------|--------|-----------------|
-| The Notation Key | Assembled in Session 1 | Recognizes the phase glyphs as time markers; DC 13 History to sequence them |
-| Isolde's astronomical chart | Retrieved in Session 3 | Contains the exact ritual night sky; DC 11 Arcana to work backward |
-| Ask Edoran | He is present at the plaza | He knows the sequence; DC 14 Persuasion, or he volunteers it if trust is high |
+**The Encounter Beat:** Cormac freezes. His mouth opens. He does not answer. He sets the cup down carefully, as if it might break. He stands up and walks out. The door does not slam. That's what makes it terrible.
 
-**If a player has both the Notation Key and Isolde's chart:** No check required. They have everything they need.
+Players who follow him within this scene — before Scene 5 begins — find him in the alley behind the Dawnhall. He is not crying. He is leaning against the wall with his eyes closed. If a player stays without immediately asking him to justify himself, he eventually says: *"I said yes when I thought it would be over before I had time to think about it again. It kept not being over."*
 
-**Wrong Sequence Consequence:**
-Two stones flare red and discharge: each creature within 20 feet must make a DC 13 Dexterity saving throw, taking 2d6 lightning damage on a failure or half on a success. The smell of ozone intensifies. The crowd at the edge of the plaza takes a step back. The Reckoning, watching from a distance, takes notice.
+What resolves Cormac is not persuasion. It is not reassurance. It is someone staying with the uncertainty without pushing it toward a conclusion. If a player simply listens — no check required, this is a roleplay beat — Cormac arrives at his own answer. What that answer is depends on what the player says or doesn't say next.
 
-**What the Inscription Reveals:**
-When activated correctly, the central dais glows amber and faint carved text becomes visible:
+If players help Cormac reach genuine re-consent through actual examination of his choice (not comfort, not urgency): flag "Cormac: renewed." His stone activates in Session 5.
 
-> *THE INVERSION IS THE KEY - ALL MUST STAND WHERE TEN STOOD - THE UNWOUND RITUAL REQUIRES THE WILLING OF ALL*
+If players do not follow up before Session 5 closes: his stone is dark at the Inversion Circle. The Inversion cannot complete.
 
-This is the cancel mechanism, confirmed. The ritual can be run in reverse — undoing the twilight without killing anyone — but only if all ten Dawnborn participate willingly and simultaneously. Three willing out of ten isn't enough for the inversion. It also isn't enough for *complete* solar restoration via the inversion pathway. The inscription is specific: the inversion is all-or-nothing.
+**Sample dialogue:**
+- Ysel (opening): *"Do you still mean what you told Edoran?"*
+- Cormac (if pressed before he's ready): *"I need you to stop asking me that."*
+- Cormac (most honest): *"I said yes when I thought it would be over before I had time to think about it again. It kept not being over."*
 
-**GM Note — Critical Distinction:** The Primer Stone inscription tells the players what the *inversion* requires. It does not invalidate the original destructive ritual. The original ritual — the one that costs lives — still functions with fewer willing participants: three to five Dawnborn releasing their energy would produce incomplete but real restoration (a brightening, not full dawn). What the Primer Stones confirm is that there is no easy middle path: the inversion requires all ten willing and no deaths, or the original ritual requires death and produces partial or full restoration depending on who participates. There is no option that produces full sun and costs nothing except the inversion — and the inversion needs everyone.
-
-Make this distinction explicit at the table if players conflate the two. The choice is not "some willing = something." The choice is "inversion (all-ten-willing, no deaths) vs. original ritual (deaths, partial or full sun depending on number and type of anchor)." Both paths are still open. Neither is clean. Let this land before moving to the riddle.
+**How it connects forward:** Cormac is one of the ten Dawnborn. His consent status determines whether Ending B is achievable. Players who treat this scene as a logistics problem will not reach him.
 
 ---
 
-## Scene 1: The Ashring
+## Scene 5 — Closing Combat: Harran at the Ashring
 
-**Location:** The original ritual site - the plaza at the center of old Varenhold where the stones are still scorched. This is where any ritual completion would take place.
+**Setup:** Evening. Players are at or returning to the Ashring perimeter. Commander Harran Lecht arrives with twelve Reckoning soldiers. He has not come to destroy the stones — he has come to claim the site and control ritual access. He knows about the Inversion inscription from his Spire contact Varren Aldiss. His calculation: if he controls the Ashring, he controls whether the Inversion happens or whether the forced version does. His ultimatum: players step aside, or the Reckoning proceeds without them.
 
-The willing Dawnborn have gathered here. Some of the undecided are present. Lira and the unwilling are not (yet).
+Aldric Oal, a willing Dawnborn, is already at his Primer Stone — he came to verify the activation sequence players demonstrated. The Reckoning needs Dawnborn present to begin any version of the ritual. Harran has instructed soldiers to secure Aldric first.
 
-### Read-Aloud
+**Secondary Objective (state before combat begins):** Keep Aldric at his Primer Stone position. Reckoning soldiers will attempt to physically pull him away — treat each pull attempt as a grapple (contested Athletics). If Aldric is removed from his stone, Harran has what he needs to begin a forced partial ritual tonight. Protecting Aldric matters more than defeating Harran.
 
-> The Ashring is quiet. The scorch marks on the stones are barely visible in the permanent amber light - you have to look for them, know to look for them. They've been there so long they feel permanent, like part of the architecture.
->
-> Seven of the Dawnborn are here. Three are willing. Four are undecided. All of them look at you when you arrive.
->
-> Ysel is standing in the center of the old ritual circle. She isn't doing anything - just standing there. She says: *"We thought it should be here. Where it started."*
+**Enemies:**
+- Reckoning Soldiers: 8, use Veteran stats (MM p.350).
+- Harran Lecht: 1, use Bandit Captain stats plus 2 additional attacks per multiattack, plus once per combat (recharge 5-6): Inspiring Shout — all Reckoning allies within 30 feet regain 10 HP.
 
-### What This Scene Needs
+**Combat ends when:** Reckoning withdraw when Harran withdraws or when 6 soldiers are downed. If reduced to half HP or surrounded on three sides, Harran stops fighting. He says, level, to the players: *"When the city collapses in six months, tell me which principle saved it."* He withdraws. He takes any soldiers who can walk. He is not done.
 
-The players must navigate a group conversation among people with different positions, all of whom have legitimate claims, all of whom are watching each other.
-
-This is not a combat encounter. It is a social encounter with stakes.
-
-**Complications:**
-
-1. **Aldric arrives unexpectedly.** He is one of the unwilling. He came because Cormac (willing) asked him to, because they're old friends. He is not here to fight. He is here to understand. He is also not here to agree. *"I just want to look them in the eye. These people I've known my whole life who decided my death is acceptable."* He does not say this cruelly.
-
-2. **Brother Edoran appears at the edge of the plaza.** He was not invited. He says nothing. He is present as a witness. If confronted, he says: *"I won't pretend I'm not invested in the outcome. But this is their conversation. I am not a party to it."*
-
-3. **The Desperate are watching.** A small crowd has gathered at the edges of the plaza. Not hostile - curious. Afraid. Hopeful. They are the weight of 40,000 people distilled into thirty faces.
-
-### The Puzzle Moment
-
-The Primer Stones are visible throughout Scene 1. The inscription on the central dais is too faded to read without activation. Ysel or Tomas may mention that the stones "have been carved recently - recently by historical standards, meaning the year of the ritual." This is the cue.
-
-Run the puzzle here, between the social encounter beats. A player who investigates the stones while another maintains the conversation is exactly the right dynamic.
-
-### Key Decision Point: The Players' Role
-
-At some point, the Dawnborn will ask the players for something they cannot avoid.
-
-Tomas will say:
-
-> "You know more than any of us about what's actually possible. You've spoken to Theron. You've spoken to Isolde, if you went that direction. You've spoken to Edoran. We've all been in our own heads about this for too long." *(He looks directly at them.)* "What do you actually believe? Not what you think we want to hear. What do you think is true?"
-
-This is the moment the players must answer for themselves. There is no skill check here. There is no diplomacy roll. There is only: *what do you actually believe?*
-
-> **GM Tip:** This is the hardest scene in the campaign to run well. Resist the urge to give them an easy out. The discomfort of not having a clean answer is the scene's entire function. If a player gives a speech, let it land without NPC commentary for at least 30 seconds. Silence is the best response to a real answer.
+**Session hook:** During or immediately after the combat, the Chancellor's aide delivers a message — a sealed letter handed to whoever is nearest. The message inside: *"Rationing begins in seven days. I am sorry it has come to this."* The deadline is now visible, concrete, and running.
 
 ---
 
-## Riddle: Tomas's Asymmetry Journal
-
-*Tomas produces this during Scene 1, after the players have had their initial conversation. This is the information that changes everything.*
-
-### The Journal
-
-Tomas pulls a small leather-bound journal from inside his coat - dense with annotations, with calculations in the narrow columns, with diagrams that look like astronomical charts with numbers layered over them.
-
-> *"I've been doing the math,"* he says, which is not the most terrifying sentence in his vocabulary but is today. *"The ten of us are not equivalent. We never were. Birth phase during the ritual's amplitude surge matters - some of us anchor more strongly than others. I didn't want this to be true, so I checked it four times."*
-
-**What the Journal Contains:**
-Five of the Dawnborn were born during the ritual's maximum surge phase. Their Lux anchoring is approximately 40% stronger than the other five.
-
-| The Five Surge-Phase Anchors | Status |
-|-----------------------------|--------|
-| Sera Voss | Willing |
-| Tomas Areth | Undecided |
-| Ysel Maren | Willing |
-| Lira Anwick | **Unwilling** |
-| Petra Vane | Missing |
-
-**The Riddle:**
-The journal's final page contains a single line, underlined twice:
-
-> *"Five lights sufficient if aligned. Alignment matters more than number in amplitude calculations. But alignment cannot be forced - only chosen."*
-
-The players must work out what this means. A DC 12 Intelligence check reads the implication immediately. On a failure, Tomas will answer direct questions but will not volunteer the interpretation:
-
-- *"Five would be sufficient to run the original ritual, yes."*
-- *"The five most efficient would be the surge-phase anchors."*
-- *"Lira is one of the five."*
-- *"Petra is one of the five. We don't know where she is."*
-
-The word "forced" is underlined because Tomas understands what the Chancellor's "whatever means necessary" will mean when she runs the same math he did. The players should understand this too.
-
-**Follow-Up Threads:**
-
-| Question | Answer | Source |
-|----------|--------|--------|
-| Why is Petra missing? | She left voluntarily. She can't make this decision in the city. | Aldric knows |
-| Does Lira know she's on this list? | Not yet. Telling her is a player choice. | - |
-| Does the Chancellor have these calculations? | She will. The Spire has been doing the same math. | DC 14 Insight from Tomas's expression |
-| Can the surge-phase advantage be transferred? | No. Isolde's transfer method affects which Dawnborn carries which anchor, not anchor strength. | Isolde confirmed this in Session 3 |
-
----
-
-## Scene 2: The Unwilling Confront the Willing
-
-Lira arrives.
-
-This is not a combat encounter. It is a confrontation that *could* become one, depending on what has happened before.
-
-### What Lira Knows (By This Point)
-
-If the players have been honest with her:
-- She knows the full state of alternatives
-- She knows three people have already decided to die
-- She knows there is not yet a verified alternative for the remaining seven
-
-If the players have been less than honest with her:
-- She found out through other means (Aldric, who talked to Cormac, who talked to Davin)
-- She is present at the Ashring with controlled fury: *"I was going to find out either way. I just wanted you to be the ones to tell me."*
-
-### The Confrontation
-
-Ysel and Lira have known each other their entire lives. This is the core of the scene.
-
-> **Ysel:** *(Gently.)* *"I know you have Mira. I know what that means. But I don't have a daughter. I have this."* *(She gestures at the Ashring.)* *"And I need you to let me have it."*
->
-> **Lira:** *(Very quietly.)* *"And what about the other seven? After you three are gone? What do you think happens next?"*
->
-> **Ysel:** *"I think it becomes harder. I think it's still the right thing."*
->
-> **Lira:** *"You think it's the right thing for you. Not for me."*
-
-Let this scene sit without resolution. It doesn't have one.
-
-**If the players have activated the Primer Stones and know about the inversion:**
-This is the moment to introduce it. The full-cancel mechanism changes Lira's calculation: if all ten can be willing, no one dies. But it requires Lira and Petra both, and Petra isn't here. The hope is real. The deadline is real. Both things are true.
-
-### Where the Players Go
-
-**Option A: They support the willing three and hold space for the unwilling.**
-The willing three proceed. Nothing is forced. The ritual begins partially (see transition to Session 5). The question of the unwilling seven remains.
-
-**Option B: They argue for a complete halt until alternatives are exhausted.**
-Tomas's timeline is the counter-pressure. Can they verify Isolde's transfer method fast enough? Do they have a real plan or just hope?
-
-**Option C: They pursue the inversion (all-ten, full cancel).**
-This requires finding Petra, getting Lira's commitment, and getting Tomas off the fence. And doing all of it before the Chancellor's seven days run out. Go to Session 5 with this as the frame.
-
-**Option D: Something unexpected.**
-Players will surprise you. Let them. Track the consequences and adapt.
-
----
-
-## Combat: The Reckoning Strikes at the Ashring
-
-![The Reckoning confrontation at the Ashring - Harran's people at the plaza's edges, the players in the centre, the moment before this becomes something that cannot be taken back](images/session4-reckoning-street.png)
-
-*The lightning discharge from a wrong Primer Stone sequence, or simply the crowd gathering at the Ashring, draws attention the players couldn't prevent. The Reckoning has been watching the Ashring for days.*
-
-### Setup
-
-Eight Reckoning operatives plus Harran, their new field commander, have positioned around the plaza's edges. They waited for the moment of maximum disruption - and Scene 2's confrontation between Lira and Ysel is that moment.
-
-Harran's objective is not mass murder. His objective is to stop a forced sacrifice before it becomes a fait accompli. He has watched the Chancellor's math. He knows about the Asymmetry Journal (he has a contact in the Spire). He is here because he believes the players are the last variable that might change the outcome, and he is willing to fight to make his point.
-
-He is not entirely wrong.
-
-### Encounter Map
-
-- **The Ashring circle:** 10 standing stones in a 40-foot diameter ring around the central dais. The stones are 3 feet wide - blocking terrain, useful for cover.
-- **The crowd:** 30-40 Desperate commoners at the plaza edges. They will scatter at first combat (no rolls needed - assume they're gone by Round 2). Anyone who moves through where the crowd was treats it as difficult terrain until Round 3.
-- **Edoran's position:** At the northwest edge of the plaza, near the stone wall. He will not fight, but he will drag wounded to cover (Healer's Kit, 1d6+4 HP restored, action each round at his initiative).
-- **The Primer Stones:** If already activated, they pulse amber throughout the combat - the inscription on the dais is still glowing. If not yet activated, the combat is happening while the puzzle remains unsolved.
-
-### Secondary Objectives
-
-*These are equally important to winning the fight. Players who focus only on combat will miss the session's best outcomes.*
-
-| Objective | Difficulty | Reward |
-|-----------|-----------|--------|
-| **Protect Aldric** from being grabbed | Harran has ordered Aldric taken alive - "rescued." Aldric starts adjacent to Cormac, 15 feet from the nearest Reckoning Veteran | If Aldric is grabbed, Lira loses her last reliable ally inside the group; she becomes unreachable without a DC 18 Persuasion check |
-| **Keep 7+ Primer Stones intact** | Reckoning Fanatics will attempt to smash stones as a bonus action (AC 16, HP 10 each, resistant to all damage except bludgeoning) | If 4+ stones are destroyed, the cancel mechanism inscription cannot be re-read; players lose that knowledge permanently |
-| **Get Harran's intelligence** | Capture him (reduce to 0 HP with non-lethal, or DC 16 Persuasion after the Encounter Beat) | Harran reveals the Chancellor gave him advance warning of the seven-day ultimatum - blackmail material and a significant breach of trust |
-
-### Ashring Lair Actions
-
-*The Ashring is not a neutral battlefield. Fifty years of Lux Anchor proximity have saturated the standing stones and the central dais with stored ritual energy. When the Primer Stones are active and multiple Dawnborn are present simultaneously, the ambient charge reaches levels the site has never held before. The Ashring itself becomes a factor in the fight.*
-
-*On Initiative count 20 (losing all ties), the Ashring takes one Lair Action from the list below. Rotate through them in order each round, repeating from the top if the combat extends past Round 3.*
-
-**Round 1 — Amber Surge.** A pulse radiates from the central dais in a 30-foot radius. All creatures (except Dawnborn, who are immune) make a DC 14 Constitution saving throw or take 3d6 radiant damage and have disadvantage on their next attack roll as the energy washes through them.
-
-**Round 2 — Resonance Pull.** Two Primer Stones (GM's choice) flash simultaneously. All non-Dawnborn creatures within 15 feet of either stone make a DC 14 Strength saving throw or be pulled 10 feet toward the nearest stone and Restrained until the start of their next turn. Creatures already at a stone are immune. Dawnborn at their stones feel the pull but are not moved.
-
-**Round 3 — Lux Echo.** The Ashring recognises the Dawnborn's presence. Each Dawnborn currently at their stone regains 2d8+4 HP. Simultaneously, all hostile creatures (both sides) must make a DC 14 Wisdom saving throw or become Frightened of the central dais until the start of their next turn — the sheer weight of what this place wants to become is suddenly, briefly, perceptible.
-
-*After Round 3, the lair actions reset to Amber Surge.*
-
-> **GM Note:** The Lair Actions are not the party's enemy — they are the world. They create pressure that doesn't care which side it lands on. A Resonance Pull that drags a Reckoning Veteran into a clustered position is as likely as one that pulls a player away from Aldric. The Lux Echo simultaneously heals Dawnborn and frightens combatants. The Ashring is not helping the players. It is not helping the Reckoning. It is the accumulated weight of fifty years asking to be resolved, and it is getting louder.
-
----
-
-### The Encounter Beat: Round 2
-
-On Round 2, Harran calls out in a clear voice as a Bonus Action:
-
-> *"I am not here to kill anyone. I am here to stop a city from murdering ten people and calling it salvation. You know I'm right. You've read Tomas's journal. Five of them didn't consent and the Chancellor is going to use them anyway. I'm trying to stop that. Are you?"*
-
-**What happens after:**
-- DC 14 Insight: He means every word. This is not tactical - he's genuinely trying to reach the players.
-- DC 14 Persuasion (as an action): He agrees to fight defensively only, withdrawing when opportunities arise rather than pushing forward. His Reckoning operatives follow his lead.
-- DC 16 Intimidation: He pulls back to the edge of the plaza. He won't surrender, but the intensity drops.
-- Ignore him: The fight continues. On Round 4, Harran attempts to grab Aldric personally.
-
-**If a player agrees with him:**
-Harran stops attacking that player. He will not attack a player who explicitly says they agree the unwilling shouldn't be forced. He will still protect himself if attacked.
-
-### Tactical Notes
-
-**Harran** prioritizes: (1) reaching Aldric, (2) protecting his operatives from being killed, (3) the Primer Stones if the players have activated them. He fights intelligently and retreats the moment a Reckoning operative is killed - this is not a suicide mission.
-
-**Reckoning Veterans** use Pack Tactics aggressively. Two Veterans will always try to coordinate on a single target. The other Veterans guard the plaza exits to prevent the Dawnborn from simply leaving.
-
-**Encounter Ends When:** Harran is captured, reduced to 0 HP (non-lethal), or successfully persuades the players to stand down. If he has to retreat (reduced to 15 HP), he does so through the crowd, shouting: *"This isn't over. You still have time to make the right choice."*
-
----
-
-## Scene 3: The Chancellor's Ultimatum
-
-*This scene can happen before or after the Ashring confrontation - or it can arrive during the combat, as a message from her aide that a player receives mid-fight.*
-
-Chancellor Ostenveld sends a private message to the players: she has made a decision. If a solution isn't implemented within seven days, she will authorize the Council to proceed with the original ritual using whatever means necessary.
-
-She has not thought through what "whatever means necessary" entails. She says she has. She hasn't.
-
-> **Private message:** *"I want this resolved by choice. I still believe it can be. But I cannot allow this city to die from indecision. Seven days. I'm sorry."*
-
-This is not a villain move. This is a person who is terrified and running out of patience. She may be wrong about how she's handling it. She is not wrong that the city is running out of time.
-
-**If Harran was captured and his intelligence revealed:**
-The players now know the Chancellor warned Harran in advance - she was hoping the Reckoning would do something to force the issue, to make the "forced ritual" option politically possible by comparison. This is not a conspiracy. This is a desperate person making an increasingly bad set of calls.
-
-**The players' options:**
-
-1. **Accept the deadline** - it gives them a concrete endpoint and eliminates infinite deliberation
-2. **Negotiate for more time** - requires something tangible to show her (the Inversion inscription; Petra's location; Cormac's actual status)
-3. **Expose her ultimatum to the Dawnborn** - Lira in particular will want to know about this, and about the Reckoning contact
-4. **Work around her** - pursue a solution that bypasses the Council entirely
-
----
-
-## Closing Beat
-
-End this session in motion, not resolution. Something has shifted. Something has been decided or is about to be.
-
-### Read-Aloud
-
-> The amber light is doing what it always does - which is to say, nothing. It stays. It watches.
->
-> You've made choices in this city that you didn't expect to make. You've had conversations you didn't expect to have. You know people now - not abstractions, not political problems, actual people - who are deciding what they're willing to give.
->
-> The question used to be: what is the right answer?
->
-> Now you know there isn't one. Now the question is: which answers can you live with?
->
-> And which ones can you ask *them* to live with?
-
-### Post-Session Question
-
-Ask the players directly: *"When someone chooses to sacrifice themselves, what do you owe them? Acceptance? Protection? Something else?"*
-
----
-
-## Gestalt / Large Party Scaling — Level 7
-
-*Session 4 plays at Level 7. 4th-level spells active (Banishment, Confusion, Wall of Fire, Otiluke's Resilient Sphere). Second wave of subclass features fully online. At L7 gestalt, characters are at their most dangerous relative to standard MM stat blocks — this is the session where the combats need lair actions and legendary mechanics or they collapse in two rounds. Effective thresholds: Easy ≈ 7,500 | Medium ≈ 15,000 | Hard ≈ 22,500 | Deadly ≈ 34,000.*
-
-**The Reckoning at the Ashring — L7 Gestalt:**
-
-- **12 Reckoning Veterans** (not 8). Three assigned Stone Smasher duty from Round 1 — they walk past players toward stones unless physically intercepted. Three cut toward Aldric. Six hold the combat line. A 6-player party cannot cover all three secondary objectives without genuinely splitting.
-- **Harran** at 185 HP, AC 18, Legendary Resistance 2/day, 2 Legendary Actions per round. A focused single-target round from a L7 gestalt party can deal 120-150 damage; he needs this to survive past Round 1. His retreat threshold is now 20 HP.
-- **Ashring Lair Actions** (see section above) activate at Initiative 20. These are the key addition for L7 — they create pressure that doesn't scale with enemy HP. Amber Surge hits the whole field; Resonance Pull repositions combatants regardless of team; Lux Echo heals Dawnborn during combat. The Ashring is actively hostile to this many people fighting in it.
-- **Stone Smasher clarification:** The action ignores damage resistances. It's a trained strike, not a standard attack. Piercing weapons work.
-
-**Adjusted XP (with lair actions and multiplier):** Effectively Hard-to-Deadly. The lair actions make the encounter harder than the XP budget suggests — they don't add to the XP count but they add to the pressure. A party trying to AOE their way through the Veterans will also eat Amber Surge damage. That's intended.
-
-**Wrong Primer Stone sequence for L7 Gestalt:** With all three clue sources, auto-solve. Add: one stone's phase glyph is weather-chipped, ambiguous between two dates. DC 16 History or Arcana to resolve. On a failure: lightning discharge AND the Reckoning's scouts see it and the combat begins one full round early. The Reckoning was positioned for exactly this possibility.
-
-**Split-party imperative:** Six players need to split. Say it explicitly at the table before the combat starts: "You can see three Veterans moving toward the standing stones. Three more are cutting toward Aldric. Harran is in the middle. Where do you go?"
-
----
-
-## Session 4 Consequence Tracking
-
-| Outcome | Note |
-|---------|------|
-| Willing Dawnborn status | How many, who, how certain |
-| Cormac's actual status | Still wavering? Decided? Who knows? |
-| Unwilling Dawnborn status | Who refused, what they know, how angry |
-| Lira's current stance | Alliance level, what she knows, where her daughter is |
-| Tomas's public announcement | Did it happen? How did the city react? |
-| Primer Stones activated? | Yes/No - does the inversion mechanism remain known? |
-| Stones destroyed? | How many? 4+ = inversion knowledge lost |
-| Harran's fate | Captured / fled / persuaded / dead (note method) |
-| Harran's intelligence revealed? | Chancellor's Reckoning contact known to players? |
-| Chancellor's ultimatum | What the players did with it |
-| Petra Vane | Known location / contacted / unknown |
-| Alternative paths - active status | Isolde's transfer: progress? Inversion: viable path? |
-| Edoran's current alliance level | Cooperation, neutrality, or tension |
-| Senna and the Desperate | Pacified, radicalized, or somewhere in between |
-
----
-
-## Stat Blocks
-
----
-
-### Harran, Reckoning Commander
-
-*Medium humanoid, neutral*
-
-**Armor Class** 18 (chain mail + shield + defensive posture)
-**Hit Points** 185 (25d8 + 75)
-**Speed** 30 ft.
-
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 16 (+3) | 12 (+1) | 14 (+2) | 13 (+1) | 14 (+2) | 15 (+2) |
-
-**Saving Throws** Str +5, Con +4
-**Skills** Athletics +5, Insight +4, Intimidation +4, Persuasion +4
-**Senses** passive Perception 12
-**Challenge** 4 (1,100 XP)
-
-**OGAS**
-- *Occupation:* Former city guard captain, now field commander of the Reckoning's Varenhold cell
-- *Goal:* Stop the ritual from proceeding with unwilling participants before the Chancellor's deadline forces the issue
-- *Attitude:* Toward players: cautious antagonism that can become cautious respect. He has studied them. He knows they're not the enemy. He's just not sure they're choosing the right side yet.
-- *Secret:* He received advance warning from Chancellor Ostenveld's office that the seven-day ultimatum was coming. He believed she wanted him to act. He may have been right. He's not sure he did the right thing by acting on it.
-
----
-
-**Traits**
-
-**Legendary Resistance (2/Day).** If Harran fails a saving throw, he can choose to succeed instead.
-
-**The Argument.** On Round 2 of any combat, Harran calls for parley as a Bonus Action. Each creature that can hear him must succeed on a DC 15 Wisdom saving throw or have Disadvantage on its next attack roll against Harran as they hesitate.
-
-**Guerrilla Commander.** Reckoning allies within 30 feet of Harran can use their Bonus Action to Disengage.
-
-**Not a Martyr.** When reduced to 20 HP or fewer, Harran calls for tactical withdrawal. He will retreat rather than fight to unconsciousness unless cornered. He can be captured with a grapple or reduced to 0 HP with non-lethal damage.
-
----
-
-**Actions**
-
-**Multiattack.** Harran makes two shortsword attacks.
-
-**Shortsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
-
-**Rallying Command (Recharge 5-6).** One Reckoning ally Harran can see within 60 feet regains 10 HP and can immediately make one weapon attack as a Reaction.
-
----
-
-**Reactions**
-
-**Shield Block.** When a creature Harran can see hits him with an attack, he adds +3 to his AC for that attack, potentially causing a miss.
-
----
-
-**Legendary Actions**
-
-Harran can take 2 Legendary Actions per round, choosing from the options below. Only one option at a time, only at the end of another creature's turn. Harran regains spent Legendary Actions at the start of his turn.
-
-**Command (1 action).** One Reckoning Veteran Harran can see within 60 feet makes one weapon attack or uses the Disengage action as a reaction.
-
-**Strike (1 action).** Harran makes one shortsword attack.
-
-**Reposition (2 actions).** Harran moves up to his speed without provoking opportunity attacks and makes one shortsword attack at the end of the movement.
-
----
-
-**Tactics**
-
-Round 1: Harran positions between his operatives and the Dawnborn, establishing a line. He does not attack first unless attacked. Uses Command Legendary Action at the end of the last player's turn to reposition a Veteran toward Aldric.
-Round 2: The Argument (Bonus Action), targeted at the player who has been most morally conflicted across the campaign — not the most dangerous, the most conflicted. He then focuses on reaching Aldric.
-Round 3+: If Aldric is secured, Harran's priority shifts to the Primer Stones (uses Command to direct Stone Smashers). If not, he continues toward Aldric.
-Retreat trigger: Any Reckoning operative killed, or reduced to 15 HP. He uses Command as his last Legendary Action to cover a wounded operative's retreat. He does not leave them behind.
-
----
-
-### Reckoning Veteran
-
-*Medium humanoid, neutral*
-
-**Armor Class** 14 (leather armor and shield)
-**Hit Points** 22 (4d8 + 4)
-**Speed** 30 ft.
-
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 14 (+2) | 13 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
-
-**Skills** Athletics +4, Stealth +3
-**Senses** passive Perception 10
-**Challenge** 1 (200 XP)
-
----
-
-**Traits**
-
-**Pack Tactics.** The Veteran has Advantage on attack rolls against a creature if at least one of its allies is adjacent to the creature and not incapacitated.
-
-**Stone Smasher.** As an Action, the Veteran can strike a Primer Stone (AC 16, 10 HP, resistant to all damage except bludgeoning). This action ignores the stone's damage resistance — the Stone Smasher technique is a focused strike the Veterans are trained for, not a standard weapon attack. A destroyed stone cannot be reactivated.
-
----
-
-**Actions**
-
-**Shortsword.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
-
-**Hand Crossbow.** *Ranged Weapon Attack:* +3 to hit, range 30/120 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
-
----
-
-**Tactics**
-
-Two Veterans always coordinate on a single target. The remaining Veterans hold exits or go for stones. They do not fight to the death - if Harran retreats, they follow immediately.
-
----
-
-### Aldric, Unwilling Dawnborn
-
-*Medium humanoid, neutral good*
-
-*Note: Aldric is not a combatant by default. These statistics model him if he's grabbed, fights to escape, or you need to resolve an unexpected player action toward him.*
-
-**Armor Class** 11 (Lux glow - no armor)
-**Hit Points** 14 (4d8 - 4)
-**Speed** 30 ft.
-
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 10 (+0) | 12 (+1) | 9 (-1) | 13 (+1) | 14 (+2) | 11 (+0) |
-
-**Skills** History +3, Insight +4
-**Senses** passive Perception 12
-**Challenge** 1/2 (100 XP)
-
-**OGAS**
-- *Occupation:* Blacksmith; runs the most respected forge in the Lowmark
-- *Goal:* Stay alive and not be used. That's all. It doesn't feel like too much to ask.
-- *Attitude:* Toward players: guarded respect (they've been more honest with him than most). Toward the situation: exhausted, not resigned. There's a difference.
-- *Secret:* He has a secondary workshop space beneath the forge that connects to a seldom-used service alley behind the Lowmark Healing House. He built the passage himself, years ago, for deliveries. He's been sitting on it in case he ever needed a way out that no one knew about.
-
----
-
-**Traits**
-
-**Lux Anchor (Passive).** Aldric's presence within 20 feet causes all light sources to burn 20% brighter. This is involuntary and cannot be suppressed. In the Ashring, it means anyone trying to hide near him has Disadvantage on Stealth checks.
-
-**I Don't Want This.** If targeted with a spell or effect that would move him against his will (Telekinesis, forced movement, Grapple), Aldric makes a Wisdom saving throw (DC 13) with Advantage. On a success, the effect is resisted - not through magic, but through stubborn, specific human refusal. Use this to signal to players that Aldric cannot simply be dragged to a ritual circle. It has to be a choice.
-
----
-
-**Actions**
-
-**Shove.** Standard shove rules, +2 to hit, DC 12 Strength check to knock prone or push 5 feet.
-
-**Desperate Strike.** Improvised weapon, +2 to hit, 1d4 + 1 bludgeoning damage. Whatever's in reach.
-
----
-
-### Petra Vane, Missing Dawnborn
-
-*Medium humanoid, neutral*
-
-*Petra is not present at the Ashring. These statistics are for when players find her in the Dusk Parishes, or if she arrives in Session 5.*
-
-**Armor Class** 12 (traveling clothes)
-**Hit Points** 18 (4d8)
-**Speed** 30 ft.
-
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 10 (+0) | 14 (+2) | 10 (+0) | 15 (+2) | 13 (+1) | 16 (+3) |
-
-**Skills** Deception +5, Insight +3, Persuasion +5
-**Senses** passive Perception 11
-**Challenge** 1 (200 XP)
-
-**OGAS**
-- *Occupation:* Runs a small herbalism shop in the Dusk Parishes village of Greenhollow; left Varenhold three years ago after she couldn't maintain the city's expectations of her
-- *Goal:* Stay outside the city long enough that the decision is made without her - not from cowardice but from a genuine belief that her presence accelerates the wrong outcome
-- *Attitude:* Toward players: cautious gratitude. They looked. No one had looked before. Toward the city: love mixed with genuine fear of what it wants from her.
-- *Secret:* She has been sending money anonymously to pay for Lira's daughter's childcare for two years. She and Lira had a friendship that fractured during a disagreement about the Restorers three years ago. She doesn't know if Lira knows it's her.
-
----
-
-**Traits**
-
-**Lux Anchor (Passive).** As Aldric. Her plants in the shop grow faster than they should; she pretends it's the soil.
-
-**The Surge-Phase Gift.** Petra is one of the five high-amplitude anchors from Tomas's Asymmetry Journal. She does not know this. Telling her is a player decision with real consequences - she will want to understand what it means, and she will not be hurried.
-
-**The Choice Not Made.** Petra has not decided. She will not be pushed. Every attempt to rush her decision causes her Attitude toward that character to drop by one step. Patience is the only thing that works with her.
-
----
-
-**Actions**
-
-**Persuade.** Petra's first action in any conflict is to talk her way out of it. She makes a Charisma (Persuasion) check contested by the target's Wisdom (Insight). On a success, the target hesitates for one round.
-
-**Herbalist's Defense.** Petra carries prepared tinctures. As a Bonus Action, she can throw a blinding vial at a creature within 20 feet: DC 12 Constitution saving throw or Blinded until the end of their next turn.
-
----
-
-**Finding Petra**
-
-| Path | Details |
-|------|---------|
-| Ask Aldric | He knows she went to Greenhollow. He'll tell players he trusts (Attitude 2+). |
-| Healers' Guild records | Lira sent a professional message to Petra's clinic three weeks ago; the Guild has a forwarding address (DC 13 Investigation, or simply ask Lira) |
-| Edoran | He knows, but won't say without significant trust (Attitude 3+) or a successful DC 15 Persuasion check |
-
-**The Journey:** Greenhollow is a half-day's ride from Varenhold. Players who go in Session 4 can return before the Chancellor's deadline if they leave promptly. Players who delay until Session 5 are cutting it very close.
+## End of Session
+
+**What players now know:**
+- Keseph Vyne is real, named, and willing to use mercenaries. He has been the bureaucratic obstruction since Session 1.
+- The Inversion path (Ending B) exists and is mechanically possible: all ten Dawnborn at their stones, unanimous genuine consent, no one dies.
+- The Inversion path requires Cormac's renewed consent, Lira's consent, Petra Innes's consent, and seven others — all of whom have not given it yet.
+- The Chancellor's seven-day deadline is now in effect.
+
+**What they carry forward:** Cormac's cup, set down too carefully. The question of whether listening is enough.
+
+**Session debrief question:** *"When someone chooses to sacrifice themselves, what do you owe them? Acceptance? Protection? Something else?"*
+
+**Consequence tracker:**
+
+| Element | State |
+|---------|-------|
+| Keseph Vyne | Named / contract obtained / not yet confronted directly |
+| Solennite contract | Recovered (evidence) / not recovered (Keseph remains hidden) |
+| Primer Stones activated | Yes — Inversion inscription revealed / No — inscription unread |
+| Cormac's status | Renewed consent / unresolved (stone dark in Session 5) |
+| Aldric at his stone | Protected / removed by Reckoning |
+| Harran's withdrawal | Withdrew at half HP / defeated / negotiated |
+| Chancellor's deadline | Seven days. Clock is running. |
+| Transfer apparatus | Intact from Session 3 / destroyed / under rebuild |
+| Petra Innes | Location known (Greenhollow) / unknown |
