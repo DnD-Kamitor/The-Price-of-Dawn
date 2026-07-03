@@ -102,6 +102,27 @@ details.skill-passive > p {
    blocks auto-expand so every prop prints without clicking.
    ============================================================ */
 
+/* Print-to-PDF button bar (visible on screen, hidden when printing) */
+.print-bar {
+  margin: 0.75em 0 1.25em 0;
+}
+
+.print-bar button {
+  background: #5a3e10;
+  color: #fdf8ee;
+  border: none;
+  padding: 0.5em 1.4em;
+  font-size: 0.9em;
+  font-weight: 700;
+  border-radius: 4px;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+}
+
+.print-bar button:hover {
+  background: #7a5418;
+}
+
 @media print {
   /* Hide navigation, sidebar, toolbar, footer */
   #quarto-sidebar,
@@ -114,8 +135,18 @@ details.skill-passive > p {
   #TOC,
   .quarto-secondary-nav,
   .quarto-reader-toggle,
-  .quarto-announcement {
+  .quarto-announcement,
+  .print-bar,
+  .nav-tabs,
+  .nav-pills {
     display: none !important;
+  }
+
+  /* Show all tab panels when printing (not just the active one) */
+  .tab-content > .tab-pane {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
   }
 
   /* Full-width content */

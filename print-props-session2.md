@@ -1,6 +1,8 @@
 # Props & Handouts — Session 2
 
-*Click any item below to open it. Print individual props by opening them and using your browser's print function.*
+*Click any item below to open it. Print the full page as a PDF using the button below.*
+
+<div class="print-bar"><button onclick="window.print()">🖨 Print / Save as PDF</button></div>
 
 ::: {.panel-tabset}
 
