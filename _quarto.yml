@@ -51,6 +51,7 @@ book:
         - session3.md
         - session4.md
         - session5.md
+        - star-wheel.md
     - part: "GM Toolkit"
       chapters:
         - running-the-campaign.md
