@@ -94,3 +94,115 @@ details.skill-passive > p {
   margin: 0.35em 0 0.1em 1.1em;
   color: #333;
 }
+
+/* ============================================================
+   PRINT / PDF STYLES
+   Works for browser print-to-PDF on any GitBook page.
+   On handout pages (print-props-session*.md): all <details>
+   blocks auto-expand so every prop prints without clicking.
+   ============================================================ */
+
+/* Print-to-PDF button bar (visible on screen, hidden when printing) */
+.print-bar {
+  margin: 0.75em 0 1.25em 0;
+}
+
+.print-bar button {
+  background: #5a3e10;
+  color: #fdf8ee;
+  border: none;
+  padding: 0.5em 1.4em;
+  font-size: 0.9em;
+  font-weight: 700;
+  border-radius: 4px;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+}
+
+.print-bar button:hover {
+  background: #7a5418;
+}
+
+@media print {
+  /* Hide navigation, sidebar, toolbar, footer */
+  #quarto-sidebar,
+  #quarto-toc-toggle,
+  .navbar,
+  .sidebar-navigation,
+  .quarto-title-meta,
+  #quarto-header,
+  .nav-footer,
+  #TOC,
+  .quarto-secondary-nav,
+  .quarto-reader-toggle,
+  .quarto-announcement,
+  .print-bar,
+  .nav-tabs,
+  .nav-pills {
+    display: none !important;
+  }
+
+  /* Show all tab panels when printing (not just the active one) */
+  .tab-content > .tab-pane {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+
+  /* Full-width content */
+  #quarto-content,
+  #quarto-document-content,
+  .page-columns {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Auto-expand all <details> blocks */
+  details {
+    display: block !important;
+    open: true;
+  }
+
+  details > * {
+    display: block !important;
+  }
+
+  details summary {
+    font-weight: 700;
+    margin-bottom: 0.5em;
+  }
+
+  /* Page breaks between handout items */
+  details + details {
+    page-break-before: auto;
+  }
+
+  /* Keep tables and code blocks together */
+  table, pre, blockquote {
+    page-break-inside: avoid;
+  }
+
+  /* Readable print colours */
+  body {
+    color: #000 !important;
+    background: #fff !important;
+    font-size: 11pt;
+    line-height: 1.5;
+  }
+
+  a {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+
+  /* Remove box shadows and backgrounds from callouts for clean print */
+  .player-callout,
+  details.gm-only {
+    box-shadow: none !important;
+    border-left: 2px solid #666 !important;
+    background: none !important;
+  }
+}
