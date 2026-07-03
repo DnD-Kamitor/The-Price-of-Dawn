@@ -2473,6 +2473,43 @@ Theron appearing on the wrong-first-attempt is not punishment — it's an opport
 
 ## Scene 3 — The Star-Wheel
 
+**What players are doing:** Inside the restricted stacks for the first time. The door has opened. They're looking for Corven's documents — the ritual design, whatever "living conduit mechanism" means, the answer to why eleven years of silence descended on this room.
+
+**Why they're here:** The documents on shelf 4-17-3 are the only surviving copies of Corven's complete ritual analysis. The shelf is locked behind a second mechanism: a brass star-wheel on the central column. The solution is on the east wall.
+
+**What's going on in the story:** Someone (Theron, likely) has been maintaining this room for eleven years. The brass is polished. The oil is fresh. The star chart is still mounted. This room has been kept ready. The question that should surface here: ready for whom? Theron knew the door's answer. He also knew where the documents were. He never retrieved them. Players are being handed something that a person spent eleven years being unable to reach for.
+
+---
+
+<details>
+<summary>🎯 Scene Purpose & GM Notes</summary>
+
+**PURPOSE STATEMENT:** This scene gives players the first real piece of the puzzle — Corven's documents. It also plants the question that will define Session 2: what does "living conduit mechanism" mean? Players leave with terminology they cannot yet decode and one complete fragment of something that should not exist.
+
+**EMOTIONAL TARGET:** The satisfaction of a puzzle solved, followed immediately by the unease of not understanding what you just found. The phrase "distributed sympathetic anchors" should feel wrong in a way players can't articulate.
+
+**DRAMATIC QUESTION:** What is a "living conduit"?
+
+**DESIGNED PEAK MOMENT:** Reading Fragment 1 of the Notation Key aloud: *"The weight borne willingly is not the same weight as the weight imposed. This is not a philosophical observation. It is an engineering specification."* Let a player read it. Then let the room be quiet for a moment.
+
+**SECONDARY OBJECTIVE:** Players notice Theron has maintained the room (polished brass, fresh oil) for eleven years without opening the relevant shelf. What does that mean about a person who keeps something ready while being unable to use it?
+
+**PREP vs IMPROVISE:**
+
+Must prep:
+- The star-wheel solution: Vael's Crown / Shepherd's Eye / Trailing Light (west-to-east rise order of the Dawnmark constellation)
+- Fragment 1 text (the engineering specification quote above)
+- The fact that the brass is recently polished — this is a detail to notice, not a puzzle
+
+Safe to improvise:
+- How many shelves shift on a partial success
+- Whether Theron is still in the corridor or has gone back to his office
+- What's on the other shelves (Corven's public works — boring astronomy, nothing sensitive)
+
+</details>
+
+---
+
 <details>
 <summary>🌍 Environment & Setup</summary>
 
