@@ -15,11 +15,11 @@
 <details>
 <summary>SESSION 1 — What you need right now</summary>
 
-## The Job
+**The Job**
 
 Chancellor **Mira Ostenveld** hires the players to investigate why the Ritual of Eternal Dawn failed 50 years ago. She has chosen strategic ignorance — she suspects the answer is terrible and has arranged not to know it directly. Players take the job before understanding what it is. This mirrors the Chancellor's own choice exactly. That symmetry is intentional.
 
-## The Three Scenes
+**The Three Scenes**
 
 **Scene 1 — Lowmark Junction (combat)**
 Restorer zealots intercept the players. Not trying to kill them — warning them off. The Enforcer carries a sealed note from **Brother Edoran**: *"The willing heart gives freely what the bound heart cannot."* Edoran himself watches from the east alley. The Restorers are a theological movement, not a gang. They believe the Dawnborn's deaths would be meaningful rather than wasted. The intercept was designed to slow the players, not stop them. It won't.
@@ -36,14 +36,14 @@ Star-wheel mechanism: 3 brass rings on a central column, set to **Vael's Crown /
 
 **Session ends here.** Players have documents they cannot fully decode yet. The phrase "living conduit" is the last thing in their heads. They don't know what it means. They will.
 
-## What Players Know at Session 1 End
+**What Players Know at Session 1 End**
 
 - The ritual used "distributed sympathetic anchors" and a "living conduit mechanism"
 - Corven built consent into the design as an engineering requirement
 - Theron has been sitting on something for 11 years
 - Someone (Edoran) tried to warn them off — which means they're getting close to something
 
-## What Players Don't Know Yet
+**What Players Don't Know Yet**
 
 - What "living conduit" means (= people)
 - That the Dawnborn are the anchors
@@ -58,7 +58,7 @@ Star-wheel mechanism: 3 brass rings on a central column, set to **Vael's Crown /
 <details>
 <summary>THE TRUTH — Reveal this in Session 2</summary>
 
-## What Actually Happened 50 Years Ago
+**What Actually Happened 50 Years Ago**
 
 The Ritual of Eternal Dawn didn't fail. **It redirected.**
 
@@ -68,7 +68,7 @@ Corven's design required 10 "distributed sympathetic anchors" — fixed points i
 
 To complete the ritual — to bring the sun back — that energy has to be released. Releasing it means they die.
 
-## The Consent Question
+**The Consent Question**
 
 Corven knew consent was an engineering specification:
 
@@ -76,7 +76,7 @@ Corven knew consent was an engineering specification:
 
 Whether the original 10 anchor-candidates genuinely consented is the buried question. Whether each Dawnborn consents now is the active one.
 
-## Why Theron Said Nothing
+**Why Theron Said Nothing**
 
 He decoded enough of the Notation Key 11 years ago to understand what the documents would say. He could not bear to be the one who condemned 10 people. He has been waiting for someone with enough courage — or ignorance — to investigate seriously.
 
@@ -89,7 +89,7 @@ His confession in **Session 2** is the campaign's first gut-punch. He says: *"I'
 <details>
 <summary>THE FACTIONS — Three answers to the same question</summary>
 
-## The Restorers — Brother Edoran
+**The Restorers — Brother Edoran**
 
 **Position:** The Dawnborn were always going to die for this. The twilight is killing everyone slowly. Better a meaningful death than a slow one.
 
@@ -103,7 +103,7 @@ His confession in **Session 2** is the campaign's first gut-punch. He says: *"I'
 
 ---
 
-## The Reckoning — Commander Harran Lecht
+**The Reckoning — Commander Harran Lecht**
 
 **Position:** The Dawnborn don't get a vote. The city's survival takes precedence over 10 lives.
 
@@ -115,7 +115,7 @@ His confession in **Session 2** is the campaign's first gut-punch. He says: *"I'
 
 ---
 
-## The Amber Compact — Warden Keseph Vyne
+**The Amber Compact — Warden Keseph Vyne**
 
 **Position:** The ritual must remain in institutional limbo indefinitely.
 
@@ -129,7 +129,7 @@ His confession in **Session 2** is the campaign's first gut-punch. He says: *"I'
 
 ---
 
-## The Chancellor — Mira Ostenveld
+**The Chancellor — Mira Ostenveld**
 
 Not an antagonist. A person who made a defensible choice and lives inside its consequences.
 
@@ -168,7 +168,7 @@ The Dawnborn are not a unified group. Each has arrived at their own position. Ev
 
 This is where the campaign becomes a real moral problem rather than an investigation. Three paths, none clean.
 
-## Path 1 — Isolde's Transfer Method
+**Path 1 — Isolde's Transfer Method**
 
 Move the anchor energy from the Dawnborn into constructed vessels. The ritual fires. Dawnborn survive.
 
@@ -178,7 +178,7 @@ Move the anchor energy from the Dawnborn into constructed vessels. The ritual fi
 
 ---
 
-## Path 2 — Tomas's Asymmetry
+**Path 2 — Tomas's Asymmetry**
 
 The five surge-phase Dawnborn (Sera, Tomas, Ysel, Lira, Petra) carry double the energy load. Five could theoretically complete the ritual, protecting the other five.
 
@@ -188,7 +188,7 @@ The five surge-phase Dawnborn (Sera, Tomas, Ysel, Lira, Petra) carry double the 
 
 ---
 
-## Path 3 — The Inversion Pathway
+**Path 3 — The Inversion Pathway**
 
 Revealed by the Primer Stone in Session 4. If all 10 Dawnborn freely consent — genuinely, without coercion or pressure — the ritual inverts. The sun returns. No one dies.
 
@@ -203,7 +203,7 @@ Revealed by the Primer Stone in Session 4. If all 10 Dawnborn freely consent —
 <details>
 <summary>SESSION 4 — The convergence</summary>
 
-## What Arrives Simultaneously
+**What Arrives Simultaneously**
 
 Everything the players built in Sessions 1–3 lands at once. Track consequences, not successes.
 
@@ -212,7 +212,7 @@ Everything the players built in Sessions 1–3 lands at once. Track consequences
 - **Keseph activates:** Six Solenne mercenaries deployed to Ashring perimeter. A formal challenge filed to the ritual proceeding "without institutional oversight."
 - **The Reckoning strikes:** Harran forces the Ashring confrontation. Secondary objective: keep Aldric Stone at his stone — not defeating Harran. A player who only fights misses why this matters.
 
-## Cormac's Window
+**Cormac's Window**
 
 If players haven't reached Cormac yet, this is the last session to do so. His stone stays dim at the Inversion Circle without genuine re-consent. Sitting with him and asking again costs 30 minutes. Proceeding without him collapses the inversion to Ending A.
 
@@ -223,19 +223,19 @@ If players haven't reached Cormac yet, this is the last session to do so. His st
 <details>
 <summary>SESSION 5 — The ritual and the endings</summary>
 
-## Corven's Letter
+**Corven's Letter**
 
 Six minutes. He spent them writing this. *"No one should be forced."* In his own hand. Players who think about what that means — that the architect of this situation spent his last six minutes on a consent clause — are doing the work.
 
-## The Inversion Circle
+**The Inversion Circle**
 
 Not a puzzle about magic. All 10 Dawnborn must stand at their Primer Stones simultaneously within a six-second window. The coordination problem is logistical — who gives the signal, how it reaches all 10 positions, how players manage the Dawnborn who aren't confirmed willing. No skill check solves this. Only conversations that happened in Sessions 1–4.
 
-## The Last Stand
+**The Last Stand**
 
 Whoever hasn't been neutralised arrives now: Reckoning, Desperate faction, or Keseph's mercenaries. Three secondary objectives: keep Dawnborn at their stones, protect the central dais, get the activation signal out.
 
-## The Endings
+**The Endings**
 
 | # | Name | Conditions | What Happens |
 |---|------|-----------|-------------|
@@ -248,7 +248,7 @@ Whoever hasn't been neutralised arrives now: Reckoning, Desperate faction, or Ke
 
 Most campaigns blend two or three endings.
 
-## The Debrief (not optional)
+**The Debrief (not optional)**
 
 The 15 minutes after the final scene are part of the experience. Ask directly: *"When the right choice and the good choice were different — which did your character make? Do they know?"*
 

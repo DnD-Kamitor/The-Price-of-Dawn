@@ -7,13 +7,13 @@
 <details>
 <summary>HOW TO READ THIS DOCUMENT — theGreatGM framework explained</summary>
 
-## What Is a Master Plot?
+**What Is a Master Plot?**
 
 theGreatGM's core principle: **there is no plot, only plans.** A plot is something the GM controls. Plans are what NPCs want — and plans get disrupted by players. Your job is not to write a story. Your job is to know what every major NPC wants badly enough to act on, then let players collide with those plans.
 
 The Master Plot is the map of those colliding plans. It tells you what each faction would do if the players were never hired. Then players arrive and everything changes.
 
-## The Three Planning Entities
+**The Three Planning Entities**
 
 Every scene has at least one of these in motion:
 
@@ -25,7 +25,7 @@ Every scene has at least one of these in motion:
 
 The "Do Nothing" timeline in this document is the world's plan if players are passive.
 
-## OGAS — How NPCs Are Built
+**OGAS — How NPCs Are Built**
 
 Every major NPC in this campaign has an OGAS profile. When you don't know how an NPC will react, go to their OGAS.
 
@@ -36,7 +36,7 @@ Every major NPC in this campaign has an OGAS profile. When you don't know how an
 | **A** | Attitude | Their general worldview and how they treat people — how they appear in 99% of encounters |
 | **S** | Secret (or Stake) | What they're hiding, OR how hard they'll fight to protect their goal |
 
-## Want / Fear / Lie — The Three Questions
+**Want / Fear / Lie — The Three Questions**
 
 Before every scene with a significant NPC, answer these three questions:
 
@@ -46,7 +46,7 @@ Before every scene with a significant NPC, answer these three questions:
 
 These three things will let you follow players anywhere. If you know Theron's want (the shelf to be opened by someone else), fear (being the one who condemns ten people), and lie (presenting his silence as procedural rather than personal), you can improvise every version of Scene 2 and 3.
 
-## Combat-Puzzle-RP — Session Structure
+**Combat-Puzzle-RP — Session Structure**
 
 theGreatGM's sessions contain all three encounter types. Each session in this campaign is designed around this pattern:
 
@@ -60,11 +60,11 @@ Session 1: Combat (Restorer ambush) → Puzzle (consent door) → Puzzle/RP (sta
 
 **Secondary objectives** matter. The secondary objective in the Session 1 ambush is: retrieve Edoran's note without destroying it. A player who only fights misses the note. The note is the players' first evidence that Edoran is not simply a fanatic.
 
-## Five-Senses Scene Openings
+**Five-Senses Scene Openings**
 
 Every scene in this campaign opens with sensory detail before mechanics. The restricted stacks open with smell (cedar, old paper), sound (silence that has texture), and sight (amber light sitting flat). Players should feel where they are before they know what to do there.
 
-## The Sentence
+**The Sentence**
 
 The logline — *"Ten people are carrying the sun inside them. The city needs it back. Whose choice is that to make?"* — is the campaign's anchor sentence. Every NPC, every faction, every scene is answering this question differently. When you don't know what a scene is for, ask: how does this moment address the sentence?
 
@@ -105,7 +105,7 @@ This campaign has three antagonists, each answering the central question differe
 
 ---
 
-## Layer 1 — The Hidden Enemy: Warden Keseph Vyne
+**Layer 1 — The Hidden Enemy: Warden Keseph Vyne**
 
 **The sentence:** He has built his life on Varenhold's inability to save itself, and he calls it good stewardship.
 
@@ -135,7 +135,7 @@ This campaign has three antagonists, each answering the central question differe
 
 ---
 
-## Layer 2 — The Catalyst Antagonist: Commander Harran Lecht
+**Layer 2 — The Catalyst Antagonist: Commander Harran Lecht**
 
 **The sentence:** He is not wrong about the arithmetic. He is wrong about the authority.
 
@@ -157,7 +157,7 @@ This campaign has three antagonists, each answering the central question differe
 
 ---
 
-## Layer 3 — The Tragic Antagonist: Brother Edoran
+**Layer 3 — The Tragic Antagonist: Brother Edoran**
 
 **The sentence:** He is partly right, he grieves authentically, and he has had twenty years to make his argument coherent.
 
@@ -177,7 +177,7 @@ This campaign has three antagonists, each answering the central question differe
 
 ---
 
-## Antagonist Interaction Map
+**Antagonist Interaction Map**
 
 The three antagonists don't operate as a unified faction. When they conflict directly (Harran arrests Edoran; Restorers attack Keseph's mercenaries) — let it happen. Players should not feel like the only force in motion.
 
@@ -195,7 +195,7 @@ The three antagonists don't operate as a unified faction. When they conflict dir
 <details>
 <summary>FIVE-SESSION PLAN — Scene by scene, what each session must do</summary>
 
-## Session 1 — Into the Dark (L4)
+**Session 1 — Into the Dark (L4)**
 *Dilemma: Is hope worth chasing when it might cost everything?*
 
 **What must land:** Players must fall in love with Sera Voss. The Dawnborn. The idea that the sun might come back. The dilemma only works when hope is real. Do not reveal the cost yet.
@@ -211,7 +211,7 @@ The three antagonists don't operate as a unified faction. When they conflict dir
 
 ---
 
-## Session 2 — The Weight of Light (L5)
+**Session 2 — The Weight of Light (L5)**
 *Dilemma: Do you have the right to decide someone else's fate, even to save thousands?*
 
 **The scene that matters:** Theron Waide's confession. He has known for eleven years. *"I've been waiting for someone with enough courage — or ignorance — to investigate seriously."*
@@ -224,7 +224,7 @@ The three antagonists don't operate as a unified faction. When they conflict dir
 
 ---
 
-## Session 3 — Lesser Evils (L6)
+**Session 3 — Lesser Evils (L6)**
 *Dilemma: Is a "lesser evil" still evil? How far do you compromise?*
 
 **The three paths:**
@@ -241,7 +241,7 @@ The three antagonists don't operate as a unified faction. When they conflict dir
 
 ---
 
-## Session 4 — The Breaking Point (L7)
+**Session 4 — The Breaking Point (L7)**
 *Dilemma: What do you owe to people who choose to sacrifice themselves?*
 
 **The convergence:** Everything players chose in Sessions 1–3 arrives simultaneously. Track consequences, not successes.
@@ -255,7 +255,7 @@ The three antagonists don't operate as a unified faction. When they conflict dir
 
 ---
 
-## Session 5 — The Price of Dawn (L8)
+**Session 5 — The Price of Dawn (L8)**
 *Dilemma: When the "right" choice and the "good" choice are different, which do you make?*
 
 **Corven's letter:** Six minutes. He spent them writing this. *"No one should be forced."* In his own hand.
@@ -363,7 +363,7 @@ Know what each player came for before you design the encounter. The same scene s
 <details>
 <summary>KEY SCENE SEEDS — Specific beats worth prepping</summary>
 
-## Theron's Confession (Session 2)
+**Theron's Confession (Session 2)**
 
 The campaign's quietest gut-punch. He has known for eleven years and said nothing — guilt, not malice. He has been slowly destroying his own notes. His line: *"I've been waiting for someone with enough courage — or ignorance — to investigate seriously."*
 
@@ -371,13 +371,13 @@ After he tells them, do not rush. The silence is the scene. Ask the table: *"Wha
 
 ---
 
-## The Sera / Lira Scene (Session 3)
+**The Sera / Lira Scene (Session 3)**
 
 The argument between the willing and the unwilling. Two people who love each other and cannot agree. Do not resolve it. Do not let players resolve it. Let it be unresolvable. That is the point of the scene.
 
 ---
 
-## Harran's Defeat Line (Session 4)
+**Harran's Defeat Line (Session 4)**
 
 When Harran is defeated or captured: *"When the city collapses in six months, tell me which principle saved it."*
 
@@ -385,19 +385,19 @@ He is not wrong that there is a clock. He is wrong about who gets to decide when
 
 ---
 
-## Corven's Letter (Session 5)
+**Corven's Letter (Session 5)**
 
 Six minutes. He spent them writing this. *"No one should be forced."* In his own hand. Players who think about what that means — the architect of this situation spent his last six minutes on a consent clause — are doing the work.
 
 ---
 
-## Senna Kard's Mob (Session 3)
+**Senna Kard's Mob (Session 3)**
 
 Secondary objective: de-escalate without violence. Senna is a radicalised mother, not a soldier. She has a son in Stage 2 grey sickness. She can be reached. Reaching her costs the players something (time, position, a concession) but closes a door to Cascade Failure.
 
 ---
 
-## Guard Captain Aldis Renn — The Loyal Watcher (multi-session)
+**Guard Captain Aldis Renn — The Loyal Watcher (multi-session)**
 
 Has been reporting the players' conversations to the Reckoning for two sessions while appearing entirely helpful. Detection: DC 17 Insight (he is genuinely warm — the deception is not cold, which makes it harder to read) or DC 14 Investigation into why specific Reckoning ambushes were so precisely timed.
 
@@ -410,7 +410,7 @@ Confrontation: Renn does not fight. He explains. He has a daughter in Stage 2 gr
 <details>
 <summary>CONTENT, TONE & SAFETY — Set this before Session Zero</summary>
 
-## What This Campaign Is
+**What This Campaign Is**
 
 **Genre:** Dark political fantasy. Ensemble moral tragedy. Urban investigation with faction intrigue.
 
@@ -426,29 +426,29 @@ Confrontation: Renn does not fight. He explains. He has a daughter in Stage 2 gr
 | 2 | As Written | Run every chapter as written; all six endings equally possible |
 | 3 | High Tragedy | Food stores at 25% from Session 1; one minor NPC already dead; Edoran's grief more recent and raw |
 
-## What Players Will Do
+**What Players Will Do**
 
 Investigate, talk to complicated people, make choices they cannot take back, form attachments that will be tested, and eventually stand in a scorched stone circle and choose.
 
-## What Players Will Not Do
+**What Players Will Not Do**
 
 Discover a hidden evil to defeat. Find a clean answer. Save everyone. Leave without carrying something.
 
-## Hard Content Present
+**Hard Content Present**
 
 - Grief — for the sun, for what the city used to be, for people dying slowly
 - Sacrifice and its costs, made personal not abstract
 - Political desperation: what people do when they have waited too long
 - Slow disease — grey sickness as a visible reality in the streets
 
-## Content Not Present
+**Content Not Present**
 
 - Graphic torture with extended description
 - Sexual violence
 - Detailed depictions of child endangerment
 - Horror for shock value
 
-## Safety Tools (non-negotiable)
+**Safety Tools (non-negotiable)**
 
 **X-Card:** Any player taps it; the scene immediately redirects. No explanation required.
 
@@ -466,7 +466,7 @@ Discover a hidden evil to defeat. Find a clean answer. Save everyone. Leave with
 <details>
 <summary>LOCATIONS & MAGIC ITEMS — Quick reference</summary>
 
-## Key Locations
+**Key Locations**
 
 **The Varenhold Civic Archive** — Amber lanternlight, 800,000 documents, the smell of lamp oil and old paper. Restricted collection requires Theron's key or DC 14 Thieves' Tools. The place where every piece of the truth is hidden — and where Theron has been waiting eleven years.
 
@@ -478,7 +478,7 @@ Discover a hidden evil to defeat. Find a clean answer. Save everyone. Leave with
 
 **Greenhollow Village, Dusk Parishes** — Half a day through marsh paths: peat smoke, grey stone, the smell of reed and mud and something green underneath it. Petra Vane's herbalist shop at the village edge. She will make tea. She will not lie. She needs time.
 
-## Magic Items
+**Magic Items**
 
 | Item | Rarity | Effect |
 |------|--------|--------|
