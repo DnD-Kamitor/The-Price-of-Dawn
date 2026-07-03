@@ -2409,6 +2409,98 @@ The moment works when a player says "wait, I'm doing that instead" and the table
 
 </details>
 
+<details>
+<summary>🎭 Player Moments — Scene 1</summary>
+
+*Pass these privately before or during the ambush. Each targets something specific to that character's background.*
+
+<details>
+<summary>Maren — Six Seconds</summary>
+
+The food queue runs along the east wall. Sixty people. You don't look directly at crowds — you learned not to, in the Compact, when you started understanding what surveillance feels like from the watched side.
+
+You look at the edges.
+
+The man with the cart who came in too fast and hasn't moved. The woman at the north entrance facing the wrong direction for someone in a queue. And the hooded figure thirty feet back in the east alley — who is not part of this operation. You can tell because the others are watching him for a signal, and he's watching something else entirely.
+
+You passed through this junction nine years ago. There was a baker on that corner. The food queue didn't exist yet.
+
+You have about six seconds before the Enforcer steps forward.
+
+*What do you do with those six seconds?*
+
+</details>
+
+<details>
+<summary>Davan — This Is Your Junction</summary>
+
+The lantern on the northeast post has been out since Year 95. Jaret's distribution cart is in its usual spot but Jaret isn't behind it. There's a man you don't recognise holding it still with his back to the queue.
+
+The food queue. You know faces. Not all of them. The woman with the grey-edged scarf third from the front has Stage-1 symptoms — she lives two streets over, her name is Bellan, and her daughter brings her because she can't make the walk alone.
+
+When the Enforcer steps forward and the queue scatters, Bellan is going to fall.
+
+You can stop that or you can engage the Enforcer. Not both.
+
+*What do you do?*
+
+</details>
+
+<details>
+<summary>Ilessa — Three Things</summary>
+
+Three observations, in order, in the time it takes to cross the junction.
+
+First: the Enforcer's positioning is textbook. Left flank blocked, north route covered, east alley as secondary exit. Someone has done this before or has documentation on how to. Restorer zealots don't typically move like this.
+
+Second: the figure in the east alley is not with them. The others are looking at him for a signal. He's not giving one. He's watching.
+
+Third: the sealed note in the fourth zealot's belt pouch has amber wax. That's Auris liturgical colour for — you actually don't know this off the top of your head. You would know if you'd been allowed to finish the research you started in Year 96.
+
+The Enforcer is about to speak.
+
+*You have a spell slot and one round before initiative. What's the priority?*
+
+</details>
+
+<details>
+<summary>Teor — The Colour in Their Eyes</summary>
+
+You've been sick for six weeks.
+
+Not badly. Stage-1 is subtle — the low amber tinge at the edge of your vision in high sun, the occasional ache that doesn't map to anything physical, the body temperature running slightly high. You've seen it in livestock. You know what it looks like early. You know what it looks like later.
+
+You haven't told anyone.
+
+The Enforcer at the north end of the junction has the same low amber tinge at the edge of their irises. Stage-1 or early Stage-2. They're not well. They're doing this anyway.
+
+Targets, by instinct: the Enforcer is the threat. The figure in the east alley is the unknown. The zealot with the sealed note is the information.
+
+One of those is the investigation's problem. The other two might be yours.
+
+*What's your first shot?*
+
+</details>
+
+<details>
+<summary>Vella — Operational Assessment</summary>
+
+You have done commercial assessments for eleven years. You know how to read a room and a street in the same breath.
+
+This is a coordinated intercept. Not local chapter work — too clean. Exit points covered, secondary observer in the alley, Enforcer placed to redirect rather than harm. Someone is managing this, and they want you moving in a specific direction. Probably north — toward the Archive, where you were already going.
+
+Which means someone knew your route.
+
+The Compact sometimes runs operations like this. You know what they cost. You know what level of interest makes them worth the cost. Varenhold has attracted that level of interest, or someone thinks it has.
+
+You have the forged Compact trade inspector credentials in your inner pocket.
+
+*Do you use them now, or do you wait to see who's actually running this?*
+
+</details>
+
+</details>
+
 ---
 
 ## Scene 2 — The Archive Door
@@ -2521,6 +2613,100 @@ Theron appearing on the wrong-first-attempt is not punishment — it's an opport
 
 </details>
 
+<details>
+<summary>🎭 Player Moments — Scene 2</summary>
+
+*Pass privately when the character first sees the door or the riddle above it.*
+
+<details>
+<summary>Maren — The Other Archive</summary>
+
+Your father's death records are in this building.
+
+Not in the restricted stacks — in the public genealogical archive on the second floor, filed Year 45, cross-referenced against the Lowmark tenant registry. You wrote to the Archive six months after leaving and asked for a certified copy. They sent it. You have read it so many times you can recite the cause of death column by heart.
+
+You have been standing twenty feet from that file for five minutes.
+
+The riddle above the door is about consent. You solve it in approximately thirty seconds. You just need to say the word.
+
+You don't want to think about why it's harder than it should be.
+
+*Say it. Or don't. But say what you're thinking first.*
+
+</details>
+
+<details>
+<summary>Davan — The Riddle Your Mother Would Have Liked</summary>
+
+You've never been inside this building.
+
+The Spire Quarter has buildings you've walked past your whole life and never entered because you didn't have a reason. The Archive is one. The third-floor corridor is narrower than the streets you grew up on, and it smells different — paper and oil and the quiet of a room that doesn't do anything urgent.
+
+The riddle above the door is the kind of thing your mother would have liked. She used to ask riddles at the table when food was more plentiful. You were never good at them. Your sister always got them first.
+
+You get this one.
+
+You look at the clerk, who has already left. You look at the door. You look at the rest of the group.
+
+They're still thinking. That doesn't usually happen.
+
+*Do you say it, or do you let someone else?*
+
+</details>
+
+<details>
+<summary>Ilessa — Theron</summary>
+
+You know Theron Waide.
+
+Not well. You overlapped at the Spire for two years before your resignation, and he was already Archivist here when you were submitting research requests. He was professional, efficient, and had the specific quality of someone who had decided to keep his private thoughts private.
+
+You recognise the coat. Slightly askew. The ink on the sleeve. The particular stillness of a man startled by something he's been expecting for a long time.
+
+He knows the answer. You understand that the moment you look at him. He has known it for eleven years and has not been able to say it.
+
+You've been unable to say things too. You resigned publicly. You published what you knew. You didn't stay and fight from inside. Those feel like very different failures, and you're not sure which is worse.
+
+*Do you say it before he has to watch you solve what he couldn't?*
+
+</details>
+
+<details>
+<summary>Teor — What You Cannot Hold</summary>
+
+*You cannot hold it, but you can give it away completely.*
+
+You've been thinking about that line since the Enforcer said "we don't want anyone hurt." Since the Chancellor said "whatever the truth is." Since you boarded the cart at Greenhollow and watched the fields go smaller.
+
+A tone isn't the first answer that occurs to you. What occurs to you is the farm. You gave that away. Not willingly — but it went. Three years of declining harvests, borrowed seed money, your father's repair work on the irrigation line. You gave all of it completely.
+
+You still have the eagle feather.
+
+The correct answer is a tone. You know it because you just named something you've been avoiding.
+
+*Hum it, whistle it, or play something. What do you do?*
+
+</details>
+
+<details>
+<summary>Vella — What Your Reports Never Ask</summary>
+
+The door hasn't opened in eleven years. You note this the way you note anything commercially relevant: filed, no inflection.
+
+The Compact has restricted archives. You've been in three, through four identities, and those doors respond to credentials — which can be forged. Riddles cannot.
+
+You solve this one in forty seconds.
+
+The word sits in your chest a moment before you say it. You've been thinking about your assessment report — the seventeen verdicts you've rendered on whether something has value — and standing here you realise the word this door needs is the exact thing your reports require from their subjects and never actually ask.
+
+The Compact never asks. It just takes notes.
+
+*Are you going to say it, or let someone else say it first while you think about what that means?*
+
+</details>
+
+</details>
+
 ---
 
 ## Scene 3 — The Star-Wheel
@@ -2629,6 +2815,104 @@ Don't let this drag. Players who examine the chart should find the answer with o
 The exhaustion from failed turns is a gentle clock, not a punishment. After two failures, the distant footsteps below are Theron hearing the shelves rotate — he'll appear on the third failure to help.
 
 **Secondary objective:** Players notice Theron has maintained the room (polished brass, fresh oil) for 11 years without opening the door. What does that mean about the kind of guilt that keeps a person hovering at a threshold but never crossing it?
+
+</details>
+
+<details>
+<summary>🎭 Player Moments — Scene 3</summary>
+
+*Pass privately when the character handles the star-wheel or reads Fragment 1.*
+
+<details>
+<summary>Maren — Cipher Work</summary>
+
+This is professional.
+
+The symbols on the door face — Corven's private notation — are the kind of system you've encountered twice in the Compact, both times in documents designed to be unrecoverable. Not to hide information. To ensure it only reached someone willing to do the work.
+
+Fragment 1 isn't a mystery to you the way it is to the others. It's a recognition. Someone deliberately built a key in three parts, placed in three locations. That's what you do when you want one specific person to eventually have the complete picture.
+
+The plain-language notes are harder to read than the notation grid.
+
+*"The weight borne willingly is not the same weight as the weight imposed."*
+
+You fold Fragment 1 carefully. You have a place for this.
+
+*What are you going to do with it that the others won't know about?*
+
+</details>
+
+<details>
+<summary>Davan — The Maintained Brass</summary>
+
+You turn Ring 1 to Vael's Crown. Ring 2 to Shepherd's Eye. Ring 3 to Trailing Light.
+
+First try. The star chart was in plain language and you've been reading weather patterns since childhood. Stars are just weather on a longer cycle.
+
+What catches you is the brass.
+
+You've worked with tools your whole life — maintained equipment long past replacement because there was no money for new ones. You know what neglect looks like. You know what upkeep looks like. These rings have been oiled recently. The mechanism moves like something that's been kept ready.
+
+*"The weight borne willingly is not the same weight as the weight imposed."*
+
+Your mother is Stage-2. She didn't choose that. You didn't choose watching it happen.
+
+You look at Theron. *"Who's been maintaining this?"*
+
+</details>
+
+<details>
+<summary>Ilessa — Twelve Minutes</summary>
+
+You identify the star-wheel in six seconds. You also recognise, with some embarrassment, that you could have told the Archive this mechanism existed fifteen years ago.
+
+The notation key is more interesting.
+
+Ten symbols in Fragment I — partial base cipher, three-key structure. Each fragment alone insufficient; two give partial decoding; three give complete access. Corven built this to require collaboration across time. Whoever assembled all three would need access to the Archive, the Resonance Box, and a third location.
+
+You write this down. You don't say it aloud.
+
+*"The mechanism will not function as designed if the distinction is collapsed."*
+
+You know what "living conduit" means. You know approximately twelve minutes before you let yourself admit it.
+
+*How long do you sit with that before you say something?*
+
+</details>
+
+<details>
+<summary>Teor — Water Systems</summary>
+
+The star chart is easy. Vael's Crown rises west — anchor point, like setting a post. Shepherd's Eye in the middle — pivot. Trailing Light comes last, highest arc, brightest.
+
+The document uses a phrase: *distributed sympathetic anchors*.
+
+You know what anchors are. You've set enough of them in moist soil to know what they do: hold something in place across multiple points so no single point takes all the stress. "Sympathetic" is the interesting word. In irrigation, sympathetic flow means water finds its own level. You don't force it — you create conditions.
+
+"Living conduit mechanism" sounds biological.
+
+You have grey sickness. You say nothing.
+
+You ask Ilessa quietly: *"What does 'living' mean in a technical document?"*
+
+</details>
+
+<details>
+<summary>Vella — Sustained Sunk Cost</summary>
+
+The maintenance is what you can't stop looking at.
+
+Eleven years. Fresh oil. Polished brass. Someone has come here — regularly, or often enough — to ensure the mechanism would function when needed.
+
+You've done asset valuations. You know the difference between holding something for future use and holding it because you can't let go. This isn't storage. This is preservation. There's an emotional difference your industry has a term for: sustained sunk cost. When you keep putting resources into something you can't use, because stopping would mean admitting the loss.
+
+You look at the Archivist. He's reading Fragment I over someone's shoulder as if seeing it for the first time.
+
+He isn't.
+
+You note this in the report section of your mind that you keep forgetting to actually write.
+
+</details>
 
 </details>
 
@@ -2762,6 +3046,110 @@ Sera is not a quest-giver. She's a person with information. The scene fails if p
 If players try to convince her not to consent: "It's not yours to change." She says this once, patient and final, and does not re-open the argument.
 
 **How it connects forward:** Players now have a face attached to "Dawnborn." When Theron says "extinguished" in Session 2, they will see Sera's face.
+
+</details>
+
+<details>
+<summary>🎭 Player Moments — Scene 4</summary>
+
+*Pass privately when the character first makes eye contact with Sera, or at any natural pause in the scene.*
+
+<details>
+<summary>Maren — She Knows Your Name</summary>
+
+Sera Voss is making soup for forty people.
+
+You've done a three-month rotation in a Compact charity house in Kressford. You know what it looks like when someone runs a kitchen for forty people who have nowhere else to go. It looks like this. It looks like organised.
+
+She greets the group. Then she greets you specifically.
+
+You're using your actual name on this investigation — the one you stopped using for jobs eight years ago. The Chancellor passed it somewhere, because Sera says it. Correctly. Without hesitation.
+
+*"Maren Ashveil. Your mother was here last week. She didn't mention you were coming back."*
+
+She doesn't say "she didn't know." She says "she didn't mention it." Those are different sentences.
+
+*What do you do with that?*
+
+</details>
+
+<details>
+<summary>Davan — The Nod</summary>
+
+Sera Voss has seen you around the Lowmark for years.
+
+She's never said anything directly — you've passed in corridors, you've been at the distribution point when she's doing intake, you've watched her do the kind of work you recognise because you do the same kind of work. You have never spoken.
+
+She looks at you when the group walks in and she nods. Not a greeting nod. A *you're here* nod.
+
+The kitchen is running on two flour deliveries and a root vegetable shipment from a farm on its last good season.
+
+You know that farm. Southgate collective. You did two supply runs there. It isn't going to make it to next spring.
+
+*Do you say anything about the food situation, or do you wait until the investigation part is over? And do you know why you're hesitating?*
+
+</details>
+
+<details>
+<summary>Ilessa — She Was at the Spire</summary>
+
+This is not the Dawnhall's first contact with the investigation question.
+
+Sera knows you're coming. That means either the Chancellor told her directly or she has connections inside the Spire Quarter — either of which is interesting.
+
+She answers questions completely. In your experience, people with real knowledge give partial answers, waiting to see how you handle each piece before releasing the next. Sera doesn't do this. She gives you what you ask for, then what you should have asked for.
+
+Midway through the conversation she looks at you specifically — not the investigation, at you — and says:
+
+*"You were at the Spire. Before the resignation. You were there when the sympathetic resonance papers came through."*
+
+Statement, not question.
+
+*How much does she know?*
+
+</details>
+
+<details>
+<summary>Teor — The Intake</summary>
+
+Sera Voss runs the Dawnhall's medical intake.
+
+She identifies your symptoms in approximately forty seconds. You can tell because her eyes do a specific thing — not horror, not pity — the careful reassessment of someone categorising a new data point.
+
+She doesn't say anything about it. She keeps talking to the group.
+
+You've been hiding Stage-1 grey sickness for six weeks. You've been telling yourself you're managing it. Running the farmer's math: this field, this crop, this season. You can get more seasons out of it.
+
+The farmer's math only works until it doesn't.
+
+At the end, when the group is gathering to leave, Sera catches your eye and says quietly:
+
+*"If you'd like to talk about what you're carrying — not the investigation. The other thing — the intake desk is open in the morning."*
+
+She doesn't make you confirm it.
+
+*What do you do with that?*
+
+</details>
+
+<details>
+<summary>Vella — Why the Report Won't Write</summary>
+
+You have been in Varenhold for three weeks. You attended a Dusk Sitting four days in. You have written nothing to the Compact.
+
+Sera Voss looks like the reason.
+
+It's not her specifically. It's the specificity of her — making soup for forty people on insufficient supplies, who has been asked questions like yours before and learned to answer them honestly because the alternative is worse. Competent and warm, operating at the precise intersection of the city's crisis.
+
+You have spent three weeks trying to figure out how to put Varenhold in a report. Standing in this kitchen, you understand why you can't.
+
+Reports render verdicts. You can't render a verdict on a person making soup.
+
+You have three identities in your inner pocket. You're using your actual name on this investigation.
+
+*What do you ask her that isn't about the investigation?*
+
+</details>
 
 </details>
 
@@ -2923,6 +3311,114 @@ Players who split attention between combat and the alley have the right instinct
 Session closes after this scene. The session hook: players carry three things that don't connect yet — the note from Scene 1, Edoran's words, Sera's "I've been waiting to be told." They will connect in Session 2.
 
 **Session debrief question:** *"Is hope worth chasing when you don't yet know what it costs?"*
+
+</details>
+
+<details>
+<summary>🎭 Player Moments — Scene 5</summary>
+
+*Pass privately after the street empties but before initiative, or when Edoran's words land.*
+
+<details>
+<summary>Maren — He's Right</summary>
+
+The street empties. You notice before the others. Nine years of learning what surveillance feels like from both sides, and you feel the moment a crowd becomes a set piece.
+
+The same hooded figure from this morning — in the east alley, thirty feet back. Not moving. Still watching.
+
+You've been running from this city for nine years. Coming back was supposed to be temporary.
+
+His first line: *"You have no idea what you are looking for."*
+
+You've spent eighteen hours on this investigation. You have documents you can't fully decode, a woman who knows more than she said, and a sealed note about consent and willingness.
+
+He's right.
+
+*Does that bother you?*
+
+</details>
+
+<details>
+<summary>Davan — The Shape of It</summary>
+
+The street empties and your body knows what's coming before your mind does.
+
+You've been in between things your whole life. The queue and the people who can't make the walk. Your mother at Stage-2. Your sister and the early symptoms. This investigation and what it might cost.
+
+His second line is the one that lands:
+
+*"When you find it, you will understand why I did not want you to."*
+
+You don't know yet what the ritual requires. But you know what it costs to keep something alive — the food runs, the nights at Stage-2, the way your sister laughs on good days and doesn't on bad ones.
+
+Whatever Edoran knows has the same shape.
+
+*Do you let him step back into the dark, or do you go after him?*
+
+</details>
+
+<details>
+<summary>Ilessa — Opposite Choices</summary>
+
+You reach him.
+
+Your Initiative record is honest about your capabilities. But while the Enforcer engages, you find the route around the south wall, and Edoran is still there. He let you come.
+
+*"You have no idea what you are looking for. When you find it, you will understand why I did not want you to."*
+
+Two lines. Precise, balanced. A person who has been thinking about what they'd say if someone finally reached them.
+
+You resigned from the Spire publicly. You went on record. You said the institution chose convenient answers and you left.
+
+Edoran has been doing something from inside a similar position. Staying. Watching. Sending sealed notes about consent. Not leaving.
+
+You and he have made opposite choices.
+
+*Do you say anything before he steps back?*
+
+</details>
+
+<details>
+<summary>Teor — Follow</summary>
+
+You track him.
+
+The east alley connects to a covered passage — you saw it this morning. A different path loops south and comes out twenty feet behind Edoran's position.
+
+You get there. He's still standing. He wasn't trying to escape. He was waiting.
+
+He looks at you the way people look when they understand exactly what they're seeing.
+
+*"You have no idea what you are looking for."*
+
+He's right. You have Stage-1 grey sickness and documents that use the phrase "living conduit mechanism" and you have not yet connected those things out loud. You've been connecting them internally since the Archive.
+
+*"When you find it,"* he says, *"you will understand why I did not want you to."*
+
+He steps back into the dark.
+
+*Do you follow?*
+
+</details>
+
+<details>
+<summary>Vella — The Report You Can't Write</summary>
+
+The Compact runs operations like this. You've participated in a few. You know what it looks like when someone manages a secondary observer who is not part of the main team but needs the team's movements documented.
+
+Edoran is not a Compact asset. He moves differently — too interested in the specific result to be neutral. Someone who cares about what you find is different from someone paid to watch.
+
+*"You have no idea what you are looking for."*
+
+You've been in Varenhold three weeks. You haven't sent your report. That's never happened before. He's right.
+
+*"When you find it, you will understand why I did not want you to."*
+
+You've rendered seventeen verdicts. This city has been making the report impossible for three weeks, and this man just told you why.
+
+*Do you want him to say more, or are you afraid he will?*
+
+</details>
 
 </details>
 
