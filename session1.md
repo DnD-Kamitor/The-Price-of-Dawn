@@ -2384,11 +2384,33 @@ The moment works when a player says "wait, I'm doing that instead" and the table
 
 ## Scene 2 — The Archive Door
 
-**What players are doing:** Walking to the Civic Archive — the destination they had before the ambush interrupted them. They have the Chancellor's letter of introduction. They know they need Corven's restricted research documents. They don't know what those documents say.
+### Scene Setup — Read This Before Running
 
-**Why they're here:** The Archive holds the only surviving copies of the ritual design. Corven's restricted stacks were sealed eleven years ago after the last scholar who accessed them came out looking pale and never returned. Players have legal authority to enter. Getting to the documents requires solving the door.
+**Where players are coming from:**
+The Lowmark Junction, five to ten minutes ago. They have just been ambushed by Restorer zealots and fought their way through. The food queue scattered. The zealots withdrew when the Enforcer was dropped. Players now have a sealed note (if they saved it) and a fight behind them. The Archive is still the destination. They continue north toward the Spire Quarter.
 
-**What's going on in the story:** The ambush established that someone is watching. The Archive is the next step. Theron Waide (Master Archivist) has been maintaining the restricted stacks for eleven years — polishing the brass, keeping the oil fresh, never going in. He knows the door's answer and cannot bring himself to say it. Players are the first people in eleven years he has any reason to hope will say it instead.
+**Transition — describe this walk:**
+The streets widen as they climb from the Lowmark into the Spire Quarter. Better-lit, fewer people, fewer smells. The architecture changes — older stone, broader lanes, the particular quiet of a district where most buildings close at sundown. Three blocks from the Archive it becomes visible: a narrow stone tower, the tallest structure in the block, no lantern at its peak. The only building in the area that isn't trying to be seen.
+
+**What players know walking into this scene:**
+- They were ambushed before they even reached the Archive — someone knew their route
+- They have a letter of introduction from the Chancellor
+- They're looking for Corven's restricted ritual research
+- They have not been told anything about the restricted stacks door
+
+**Who greets them:**
+A young clerk — efficient, ink on his cuffs — meets them on the third floor landing and directs them down the restricted corridor. He is not unfriendly. He is also not staying. He says: *"The restricted stacks are at the corridor's end. This door hasn't opened in eleven years. The Master Archivist has the combination if you need assistance."* Then he walks back down. Quickly.
+
+**Where Theron Waide is:**
+His office is immediately adjacent to the restricted corridor, door closed. He heard the players arrive. He is waiting to see if they can open the door. He will appear after the first wrong attempt — coat slightly askew, ink on his sleeve, the look of a man who has been startled by something he has been half-expecting for a long time.
+
+**How to open the scene at the table:**
+Describe the approach first — the building exterior, the narrowing floors, the smell of old paper. Then read the clerk's lines and let him leave. Then: the door, and the riddle above it. Don't describe the riddle as hard. It isn't hard. Describe the *weight* of it — the door that hasn't opened in eleven years, the riddle that has been sitting there for all that time, the silence of the corridor.
+
+**Before you run this scene, confirm:**
+- The riddle text (carved into the stone lintel above the door — see puzzle section below)
+- Theron's tell: he knows the answer and won't say it. If players ask "what's the answer?" directly, he says: *"I've known the answer since Corven sealed this room. I have not been able to say it."*
+- The tone (one wrong attempt) fires loud — audible from below, brings Theron to the landing
 
 ---
 
