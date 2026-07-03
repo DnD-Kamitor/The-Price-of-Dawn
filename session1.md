@@ -2717,6 +2717,47 @@ If players try to convince her not to consent: "It's not yours to change." She s
 
 ## Scene 5 — The Second Ambush
 
+**What players are doing:** Leaving the Dawnhall, heading home. The session is almost over. They have documents they can't fully decode, a face attached to the word "Dawnborn," and Edoran's note from Scene 1. They're walking through the Lowmark at night, which is quieter than morning — the food queue is done, the lanterns are lit.
+
+**Why they're here:** They don't choose this. It happens to them. Edoran had them followed from the junction to the Archive to the Dawnhall. He wants to see who these people are before deciding his next move. This second intercept is not about stopping the investigation — it is about Edoran getting a closer look.
+
+**What's going on in the story:** The Enforcer's new priority in this scene is blocking the east alley — protecting Edoran's position so he can choose when to leave. Edoran himself is thirty feet back in the shadow, not moving. He has been watching since Scene 1. If players reach him, he speaks two lines and steps back into the dark. Those lines are the session's real ending: *"You have no idea what you are looking for. When you find it, you will understand why I did not want you to."*
+
+---
+
+<details>
+<summary>🎯 Scene Purpose & GM Notes</summary>
+
+**PURPOSE STATEMENT:** This scene closes the session's loop. Scene 1 established that someone was watching. Scene 5 establishes that the watcher is still there, still watching, and is now willing to say two sentences. Those two sentences are the session's last thing players carry home.
+
+**EMOTIONAL TARGET:** The cold quiet of the city at night, the sense of being watched again — and then Edoran's words landing in the dark, unhurried, as if he's been waiting to say them.
+
+**DRAMATIC QUESTION:** Will you reach him before he steps back into the dark?
+
+**SURPRISE:** Edoran does not run. When players force past or around his Enforcer and enter the east alley, he is still there. Still standing. He lets them reach him. The words he says are a gift, not a warning — he is telling them something true: they don't know what they're looking for. He does. And he needs them to find it anyway.
+
+**DESIGNED PEAK MOMENT:** Edoran's two lines, delivered quietly, without drama, into the dark of the alley. After he steps back and vanishes: silence. The session ends here.
+
+**SESSION DEBRIEF QUESTION:** *"Is hope worth chasing when you don't yet know what it costs?"*
+
+**HOW IT CONNECTS FORWARD:** Players carry three things that don't connect yet — Edoran's sealed note from Scene 1, the phrase "living conduit mechanism" from the Archive, and Sera's "I've been waiting to be told for a long time." They will connect in Session 2. Let them carry the disconnection overnight.
+
+**PREP vs IMPROVISE:**
+
+Must prep:
+- Edoran's exact words (two lines, see combat section — do not paraphrase)
+- The Enforcer's new priority: block east alley entrance, not defeat players
+- The withdrawal trigger: Enforcer at 33 HP calls "Withdraw" and zealots scatter
+
+Safe to improvise:
+- The specific Lowmark street layout (consistent with their walk from the Dawnhall)
+- How long before players notice the street has emptied
+- Whether Edoran makes eye contact before speaking
+
+</details>
+
+---
+
 <details>
 <summary>🌍 Environment & Setup</summary>
 
