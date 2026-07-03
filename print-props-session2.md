@@ -298,6 +298,203 @@ Unit 4 deployed in linen storage. Both active.
 
 </details>
 
+<details>
+<summary>The Three Parchment Slips — give all three simultaneously, Scene 2</summary>
+
+*Theron removes these from his locked desk drawer after the combat. Set them on the table. Hand this page to players — they work on it directly. Do not read them aloud sequentially; let players see all three at once.*
+
+---
+
+**SLIP ONE**
+
+*The parchment is small, folded so many times the creases are deep as scars.*
+
+> The Dawnmark rises when the anchor holds. The vessel must be willing. The energy of the third circuit does not disperse; it dwells.
+
+---
+
+**SLIP TWO**
+
+*Same hand as Slip One. Slightly different ink — written at a different time.*
+
+> Ask the archivist what lives within the amber light. The answer is not in the records. Within them is the truth of the ritual's end.
+
+---
+
+**SLIP THREE**
+
+*The handwriting matches but the parchment feels marginally different — recopied at some point.*
+
+> Every third scholar agreed: the Dawnborn are the mechanism. The energy lives in willing vessels. The ritual them waits still.
+
+---
+
+::: {.prop-alt-ink}
+*The pattern: read every third word across all three slips in sequence.*
+
+*Answer: THE DAWNBORN ARE THE VESSEL THE ENERGY LIVES WITHIN THEM*
+
+*Theron encoded this for himself, not against the players. The real question is why someone would write a secret in a form designed to be found.*
+
+*Slip Three was recopied — a player who examines it closely (DC 15 Insight) notices very slightly different ink. Theron went back and corrected a transcription error three years ago. He did not examine why he did that.*
+:::
+
+</details>
+
+<details>
+<summary>Colophon — Witnesses to Corven's Final Notation</summary>
+
+*Found in document bundles recovered from Scene 1 (Bundles A and C contain both names; Bundle B has only SALI). Hand this to players after they examine the recovered bundles — no roll required, the colophon is on the outer document of each bundle.*
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  RITUAL OF ETERNAL DAWN — FINAL NOTATION                         ║
+║  Archmagister Corven  ·  Year 0 P.R. (the night of the ritual)  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [Document content — classified, restricted stacks]             ║
+║                                                                  ║
+║  ─────────────────────────────────────────────────────────────  ║
+║                                                                  ║
+║  WITNESSED AND ATTESTED:                                         ║
+║                                                                  ║
+║  CORVEN  ·  SALI  ·  WREN                                        ║
+║                                                                  ║
+║  In the order of our signatures. In the order we understood.    ║
+║                                                                  ║
+║  [Three signatures — the first bold, the second precise,        ║
+║   the third rushed, as if written while something else was      ║
+║   already happening]                                            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+::: {.prop-alt-ink}
+*These three names are the combination to the Resonance Box in Theron's private study.*
+
+*Left indentation: CORVEN. Centre: SALI. Right: WREN. Spoken in that order.*
+
+*Theron knows all three names. He has never spoken them to the box. This is not because he forgot.*
+
+*If Bundle A was burned in Scene 1, players have SALI and WREN but not CORVEN. DC 14 Investigation on surviving bundles recovers it — or they ask Theron, who will give it.*
+:::
+
+</details>
+
+<details>
+<summary>Corven's Ritual Redirection Notes — from the Resonance Box</summary>
+
+*Hand this after the Resonance Box is opened successfully. This is in Corven's handwriting — the same hand as the colophon, the same hand as the notation key. Four pages. The passage below is from the third page.*
+
+---
+
+*[The handwriting is steady for the first two pages. On the third page it changes — smaller, more compressed, as if he knew he was running out of room or time.]*
+
+> The anchors are not lost. The light did not die. It redistributed into ten living vessels born at the moment of inversion. The ritual is incomplete, not failed. The completion requires their release.
+
+*[Below this, in the margin, the same hand, different ink — added later:]*
+
+> The mechanism will not function as designed if the distinction is collapsed. Willing release is not the same mechanism as forced release. This is not a philosophical observation. It is an engineering specification.
+
+*[The fourth page is blank except for a single line at the bottom:]*
+
+> No one should be forced.
+
+::: {.prop-alt-ink}
+*"Their release." The technical term Theron uses when he explains what this means is: extinguished.*
+
+*Corven wrote the consent clause into the ritual because he understood it was load-bearing, not decorative. The ritual does not function the same way with unwilling anchors. The Reckoning either does not know this or has decided it does not matter.*
+
+*The fourth page's final line was added at a different time. It is in the same hand but the ink has aged differently — written years after the ritual, when Corven was still alive and still thinking about what he had built.*
+:::
+
+</details>
+
+<details>
+<summary>Fragment 2 — Corven's Notation Key</summary>
+
+*Found inside the Resonance Box alongside the redirection notes. Same size and format as Fragment 1 from Session 1. Hand to players after the box is opened.*
+
+---
+
+*[A single sheet, cipher text on one side, two plain-language glosses on the other. The cipher matches Fragment 1's style — same notation system.]*
+
+**CIPHER TEXT (one side):**
+
+```
+⊕⬠⬟⬟⬠⬡◆  ⬡◆⬠⬟  ◆⬠⬡⬟⊕  ⬡⬠◆⬟⊕⬡
+⊕◆⬠⬡⬟  ⬠⬡◆⬟⊕  ⊕⬡◆⬠⬟  ◆⬡⬠⬟⊕⬡
+⬡⊕⬠⬟◆  ⬠⊕⬡◆⬟  ◆⊕⬡⬠⬟  ⬟⊕⬠⬡◆⬡
+```
+
+**PLAIN-LANGUAGE GLOSSES (other side):**
+
+*"The vessel is not the container. The vessel is the carrier. The distinction is the mechanism."*
+
+*"The completion mechanism is not separate from the vessel. The vessel IS the mechanism. To separate them is to destroy both."*
+
+::: {.prop-alt-ink}
+*Fragment 2 combined with Fragment 1 (Session 1) gives players partial decoding access to Corven's journal notation. This grants advantage on the DC 14 Arcana check for the Transfer Apparatus in Session 3 and on the Astronomical Activation Sequence in Session 4.*
+
+*Fragment 3 is in Session 3. All three together allow full notation decoding — which makes the Inversion path visible on the ritual diagram at Tier 3.*
+
+*The second gloss is the key: "The vessel IS the mechanism." This is what Theron means when he says the Dawnborn are not participants in the ritual. They are the ritual.*
+:::
+
+</details>
+
+<details>
+<summary>Archive Reading Room — Tactical Map (Scene 1 combat)</summary>
+
+*GM reference for Scene 1 combat. Can be shown to players at start of combat or described verbally.*
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  CIVIC ARCHIVE — READING ROOM (GROUND FLOOR)    SCALE: 1:50     ║
+║  Approx. 60ft × 40ft. Main floor. High ceiling.                 ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  NORTH WALL (shelves)                                            ║
+║  ┌──────────────────────────────────────────────────────┐        ║
+║  │  [SHELF N1]          [SHELF N2]          [SHELF N3]  │        ║
+║  │                                                      │        ║
+║  │  ┌──────────────────────────────────────────────┐   │        ║
+║  │  │  READING TABLE (BUNDLE A)    (BUNDLE B)       │   │        ║
+║  │  │  40ft from fire              35ft from fire   │   │        ║
+║  │  └──────────────────────────────────────────────┘   │        ║
+║  │                                                      │        ║
+║  │  [NW ALCOVE — THERON HIDING]       [SHELF N4]        │        ║
+║  │  Door. Barricaded from inside.                       │        ║
+║  │                                                      │        ║
+║  │  ┌──────────────────────────────────────────────┐   │        ║
+║  │  │  READING TABLE (BUNDLE C)                    │   │        ║
+║  │  │  50ft from fire — nearest to players' entry  │   │        ║
+║  │  └──────────────────────────────────────────────┘   │        ║
+║  │                                                      │        ║
+║  │  [SHELF S1]          [SHELF S2]          [SHELF S3]  │        ║
+║  └──────────────────────────────────────────────────────┘        ║
+║  SOUTH WALL (shelves)                                            ║
+║                                                                  ║
+║  [WEST ENTRY ←]  ·  players enter here  ·  [FIREPLACE → EAST]  ║
+║                  (1 open window on west wall)    already stoked  ║
+║                                                                  ║
+║  BUNDLE PRIORITY: A (nearest fire, grabbed Round 1)             ║
+║                   B (center, grabbed Round 2 if A secured)      ║
+║                   C (nearest players — easiest to secure)       ║
+║                                                                  ║
+║  STARTING POSITIONS:                                             ║
+║  [LT] = Lieutenant, north-center, coordinating                  ║
+║  [S1] = Soldier 1, near Bundle A                                ║
+║  [S2] = Soldier 2, near Bundle B                                ║
+║  [S3] = Soldier 3, near fireplace (stoking it)                  ║
+║  [S4] = Soldier 4, blocking west entry                          ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</details>
+
 ---
 
 ## Player Moments
