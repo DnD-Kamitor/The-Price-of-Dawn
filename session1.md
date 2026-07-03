@@ -7,7 +7,7 @@
 <details>
 <summary>📖 The Story — What Is Happening & Why</summary>
 
-## The World
+**The World**
 
 Varenhold has been in permanent twilight for fifty years. A ritual meant to fix the sun in the sky redirected instead — and the ten children born that night became the anchors. The **Dawnborn** carry the sun's energy in their bodies. They have been carrying it since birth. They are now adults in their fifties. The energy is still there.
 
@@ -15,19 +15,19 @@ To restore the sun, the ritual must complete. Completing the ritual releases the
 
 Grey sickness is spreading. Food stores are failing. Varenhold has three to five good harvests left before the food system collapses. The city is running out of time.
 
-## The Job
+**The Job**
 
 Chancellor **Mira Ostenveld** has hired the players to investigate why the Ritual of Eternal Dawn failed fifty years ago. She knows something went wrong. She suspects the answer is terrible. She has arranged not to know it directly — she hired investigators instead of reading the files herself. That is not cowardice. It is strategy. She cannot act on what she doesn't officially know.
 
 Players take the job before understanding what they're walking into. That mirrors the Chancellor's position exactly. The symmetry is intentional.
 
-## The Opposition
+**The Opposition**
 
 Someone already knows they've been hired. The players haven't left the Chancellor's office when the intelligence reaches Brother **Edoran**, leader of the Restorer movement — a theological faction who believe the Dawnborn's death would be meaningful, not wasted. Edoran sent people to slow the investigation. Not to kill. To warn. The Restorers had the players' route before the players knew it themselves.
 
 **Keseph Vyne** (Warden of the Amber Compact) is the other opposition force. He doesn't appear this session, but his fingerprints are on the Archive's suppressed documents. Players won't know his name until Session 2.
 
-## What Session 1 Establishes
+**What Session 1 Establishes**
 
 By the end of this session, players know:
 - The ritual used "distributed sympathetic anchors" and a "living conduit mechanism"
@@ -175,15 +175,15 @@ Safe to improvise:
 <details>
 <summary>🌍 Environment & Setup</summary>
 
-## 1. Tactical Map Description
+**1. Tactical Map Description**
 
-### The Lowmark Junction — ~50×50 ft
+**The Lowmark Junction — ~50×50 ft**
 
 A cramped four-way street junction in the lower residential Lowmark, roughly 50 ft across where two cobblestone lanes intersect. The streets are older than the rest of the city and show it: worn stone, iron lantern posts bolted into the corners of buildings, second-story washing lines overhead. The permanent amber twilight is thickest here — lamplight pools low on the cobbles and does not reach the upper storeys.
 
 ---
 
-### Key Features
+**Key Features**
 
 | Feature | Location | Tactical Notes |
 |---|---|---|
@@ -198,7 +198,7 @@ A cramped four-way street junction in the lower residential Lowmark, roughly 50 
 
 ---
 
-### Starting Positions
+**Starting Positions**
 
 ```
 North
@@ -228,7 +228,7 @@ South
 
 ---
 
-### Key Distances
+**Key Distances**
 
 | From | To | Distance |
 |---|---|---|
@@ -242,29 +242,29 @@ South
 
 ---
 
-## 2. Three Read-Aloud Variants
+**2. Three Read-Aloud Variants**
 
-### A — Cautious (Party scanning, moving carefully)
+**A — Cautious (Party scanning, moving carefully)**
 
 > The junction is busier than it should be at this hour. The food queue stretches from the distribution cart all the way to the east wall — fifteen people, maybe more, heads down, breath fogging in the amber half-light. You're tracking the lanterns, the exits, the shadows, which is why you see it first: four figures who are not in the queue, not moving toward it, not doing anything a person in the Lowmark has any reason to do. They are waiting. They are waiting specifically for you.
 
 ---
 
-### B — Rushing (Party moving fast, focused on the Archive)
+**B — Rushing (Party moving fast, focused on the Archive)**
 
 > The quickest route through the junction cuts past the food queue — you can see the distribution cart, the crates, the north lane that leads straight up toward the Archive. You're three steps into the intersection when you hear it: boots on cobblestone, fast and deliberate, from three directions at once. The crowd in the queue goes still. Someone grabs a child by the arm. A figure in the center of the north lane spreads his hands slowly, palms out, blocking the road. He is not asking.
 
 ---
 
-### C — Split Party (Party spread across the junction)
+**C — Split Party (Party spread across the junction)**
 
 > The junction opens in front of you — some of you near the distribution cart, some cutting wide around the queue's end, someone already past the crates on the eastern side. Which is why you all notice it at slightly different moments. The stillness at the west alley mouth. The man near the lantern post who is not looking at the queue. The figure in the center of the road north who has been there since before you arrived. The gap closes differently for each of you. There is nowhere convenient to regroup.
 
 ---
 
-## 3. Five Senses — Expanded
+**3. Five Senses — Expanded**
 
-### Before the Ambush: The Mundane Scene
+**Before the Ambush: The Mundane Scene**
 
 **Sight**
 - Amber lanternlight lying flat on wet cobblestones, stretching long shadows from the cart wheels and the queue's shuffling feet
@@ -291,7 +291,7 @@ South
 
 ---
 
-### The Moment It Starts: The Threat Shift
+**The Moment It Starts: The Threat Shift**
 
 **Sight**
 - The queue goes still — not all at once, but like a wave passing through the line, people stopping mid-shuffle — because the people not in the queue are moving
@@ -316,22 +316,22 @@ South
 
 ---
 
-## 4. Pre-Scene Setup
+**4. Pre-Scene Setup**
 
-### What Players Know (Coming from the Chancellor's Briefing)
+**What Players Know (Coming from the Chancellor's Briefing)**
 
 - They have been hired by Chancellor Ostenveld to investigate the Ritual of Eternal Dawn — specifically, whether restoration is possible and what it would cost
 - They are heading to the Varenhold Civic Archive in the Spire Quarter, which holds Archmagister Corven's documentation
 - They have the name Theron Waide — the Master Archivist — as their contact
 - The commission is meant to be low-profile; the Chancellor has not publicized it
 
-### What Players Are Looking For
+**What Players Are Looking For**
 
 - Corven's original ritual documents (or access to them via Theron Waide)
 - Any physical evidence of what the ritual actually did and whether it can be undone
 - The Archive is their next immediate destination — they are crossing through the Lowmark to reach it
 
-### What Players Do NOT Know
+**What Players Do NOT Know**
 
 - Someone already knows their route
 - Edoran exists, knows who they are, and has sent people to intercept them
@@ -340,7 +340,7 @@ South
 
 ---
 
-### What Should Be Visible Before Combat Triggers
+**What Should Be Visible Before Combat Triggers**
 
 **No roll required:**
 - The sealed note in Z4's belt pouch — describe it as a rolled document with a dark wax seal, carried in a visible open-top pouch on Z4's belt. Any player who scans the group before the fight starts can see it without a roll.
@@ -351,7 +351,7 @@ South
 
 ---
 
-### Estimated Real-Time Duration
+**Estimated Real-Time Duration**
 
 | Phase | Estimated Time |
 |---|---|
@@ -364,9 +364,9 @@ South
 
 ---
 
-## 5. Cinematic Framing
+**5. Cinematic Framing**
 
-### GM Opening Sentence (Before Read-Aloud)
+**GM Opening Sentence (Before Read-Aloud)**
 
 Deliver this aloud before reading any variant:
 
@@ -376,7 +376,7 @@ Then deliver the appropriate read-aloud variant based on the party's approach.
 
 ---
 
-### What NOT to Describe Yet
+**What NOT to Describe Yet**
 
 Do not mention until the relevant moment occurs:
 
@@ -388,7 +388,7 @@ Do not mention until the relevant moment occurs:
 
 ---
 
-### The Scene's Core Tension
+**The Scene's Core Tension**
 
 This is not a fight about survival. The players are almost certainly going to win. The fight is about:
 
@@ -403,15 +403,15 @@ Players who engage all three layers leave this scene with a richer picture than 
 <details>
 <summary>⚔️ Combat</summary>
 
-## Session 1, Scene 1 — The Restorer Ambush (Lowmark Junction)
+**Session 1, Scene 1 — The Restorer Ambush (Lowmark Junction)**
 
 **Design intent:** This is a warning, not a battle. The Restorers need the city's sympathy and cannot afford a body in the food queue. They want one player briefly hostage and everyone else rattled. They will not kill. Players who read this correctly gain the secondary objective (the note) without losing the fight.
 
 ---
 
-## Scaled Stat Blocks
+**Scaled Stat Blocks**
 
-### Restorer Zealot (×4)
+**Restorer Zealot (×4)**
 
 ```
 RESTORER ZEALOT
@@ -467,7 +467,7 @@ its current target.
 
 ---
 
-### Restorer Enforcer (×1)
+**Restorer Enforcer (×1)**
 
 ```
 RESTORER ENFORCER
@@ -533,9 +533,9 @@ deal 15+ damage.]
 
 ---
 
-## Initiative & Surprise
+**Initiative & Surprise**
 
-### Does the Ambush Grant Surprise?
+**Does the Ambush Grant Surprise?**
 
 **Yes, if:** The players have not been specifically watching for tails and no one declares active Perception before the zealots move. The zealots blend into the queue crowd — plain coats, heads down, no weapons drawn until they are in position.
 
@@ -550,7 +550,7 @@ deal 15+ damage.]
 
 If surprise is broken, the players act on the first round. If not broken, the Restorers get a free Round 0 before initiative.
 
-### Suggested Initiative Zones
+**Suggested Initiative Zones**
 
 Roll initiative normally. For narrative clarity, describe these approximate zones:
 
@@ -560,7 +560,7 @@ Roll initiative normally. For narrative clarity, describe these approximate zone
 
 The Enforcer has a +1 Dex bonus — his low initiative reflects deliberate restraint, not slowness.
 
-### Round 0 (Surprise Round, if triggered)
+**Round 0 (Surprise Round, if triggered)**
 
 This is what the zealots are doing the instant before initiative rolls — moving into position, not yet attacking:
 
@@ -578,17 +578,17 @@ If surprise was granted: this speech is the surprise round. Players hear it, see
 
 ---
 
-## Secondary Objective — The Note
+**Secondary Objective — The Note**
 
-### Visibility
+**Visibility**
 
 The note is in **Zealot A's** left-side belt pouch. The pouch is unsealed and slightly open — the corner of a folded paper is visible. Players can see this without any roll during the scene-setting description. No Perception check required to notice it exists; it is described to them.
 
-### Identifying It as Worth Taking
+**Identifying It as Worth Taking**
 
 A PC must be within 10 ft. of Zealot A to read the corner of the paper (Restorer seal in amber wax). DC 10 Perception to read the seal clearly from 10 ft. — it identifies the note as Restorer correspondence, not a personal letter. On a success, the player recognises it as potentially significant intelligence.
 
-### The Burn Clock
+**The Burn Clock**
 
 **Trigger:** The burn attempt begins when ALL of the following are true simultaneously:
 1. Round 2 or later has begun
@@ -599,7 +599,7 @@ A PC must be within 10 ft. of Zealot A to read the corner of the paper (Restorer
 
 If Zealot A is already at a lantern post when this triggers, the note ignites automatically at the start of Zealot A's next turn unless a player intervenes before that turn begins.
 
-### Player Contest to Stop It
+**Player Contest to Stop It**
 
 A player must:
 1. **Reach Zealot A** — requires sufficient movement to close the distance this turn (or the previous turn if repositioning). The crowd counts as difficult terrain (see Round 2 terrain notes).
@@ -613,7 +613,7 @@ On a zealot success: the paper corner catches. The player may attempt one more c
 
 **Note:** Zealot A does not attack the player attempting to stop the burn. It is focused on the task. Other zealots will not break off to protect this action either — the Enforcer does not want a brawl over a piece of paper.
 
-### If the Note Is Saved (intact)
+**If the Note Is Saved (intact)**
 
 The players read:
 
@@ -624,7 +624,7 @@ Written in **Edoran's handwriting** (DC 13 History or DC 10 if a player later co
 
 **What this tells them:** Someone in the Restorer hierarchy is not just a fanatic — they are quoting Auris to justify something. The scripture is about consent and sacrifice. The quote will mean nothing yet. It will mean everything in Session 2.
 
-### If the Note Burns (partial or complete)
+**If the Note Burns (partial or complete)**
 
 - **Partial burn (one successful contest, second failure):** The scripture verse is unreadable. Players salvage the wax seal (Restorer symbol) and can see two words in Edoran's hand: *"willing"* and *"freely."* Enough to know the content was liturgical. Nothing actionable yet.
 - **Complete burn:** The note is gone. Players learn nothing from this scene except that someone wanted it destroyed badly enough to issue a mid-combat command about it. That is itself information — a veteran tactician burning a note under fire prioritised that over winning the fight. Sharp players will note this.
@@ -633,9 +633,9 @@ Written in **Edoran's handwriting** (DC 13 History or DC 10 if a player later co
 
 ---
 
-## Round-by-Round Guide
+**Round-by-Round Guide**
 
-### Round 1 — "One Warning"
+**Round 1 — "One Warning"**
 
 **Enforcer (initiative ~6–8):**
 - If surprise was granted, he spent Round 0 giving the speech. On Round 1, he moves 10 ft. closer (now 10 ft. from the nearest PC) and makes two Longsword attacks against whichever PC looks most likely to run toward the archive. He aims for the sword arm or shield shoulder — he is not trying to kill.
@@ -653,7 +653,7 @@ Written in **Edoran's handwriting** (DC 13 History or DC 10 if a player later co
 
 ---
 
-### Round 2 — The Burn Clock Starts / Crowd Scatters
+**Round 2 — The Burn Clock Starts / Crowd Scatters**
 
 **Initiative count 20, second round:** The crowd makes its decision. Everyone in the queue bolts — east and north mostly, funneling through gaps in the zealot line. The terrain shifts:
 - The center of the junction becomes **open difficult terrain** (cobblestones, dropped items, no cover).
@@ -668,7 +668,7 @@ Written in **Edoran's handwriting** (DC 13 History or DC 10 if a player later co
 
 ---
 
-### Round 3+ — Approaching the Threshold
+**Round 3+ — Approaching the Threshold**
 
 **Enforcer behavior (above 39 HP):** He is fully committed now but increasingly precise. He uses Parry reactions against the hardest hitters. He calls Stand Down as a bonus action once per round to pull a zealot off a collapsing position and redirect them. He does not retreat.
 
@@ -695,9 +695,9 @@ All four zealots simultaneously break off — no order, no signal, they simply g
 
 ---
 
-## Tactical AI
+**Tactical AI**
 
-### Zealot Priority List (in order)
+**Zealot Priority List (in order)**
 
 1. **Move to cut off exits** — block the path the players were heading. Do not allow easy flight without passing through a zealot.
 2. **Warning Grip on the highest-initiative PC** — grapple first, the warning is spoken once the hold is established.
@@ -705,7 +705,7 @@ All four zealots simultaneously break off — no order, no signal, they simply g
 4. **Hold position** near Zealot A if Enforcer uses Stand Down — do not chase fleeing PCs more than 20 ft.
 5. **Scatter** the moment the Enforcer yields.
 
-### Enforcer Priority List (in order)
+**Enforcer Priority List (in order)**
 
 1. **Give the speech** (Round 0 or Round 1 action) — this is the actual mission. If players agree and back off, he will go. He prefers this outcome.
 2. **Attack the most mobile PC** — the one most likely to reach the note or reach Edoran in the alley.
@@ -713,7 +713,7 @@ All four zealots simultaneously break off — no order, no signal, they simply g
 4. **Parry** incoming hits above 15 damage — preserve HP to stay in command as long as possible.
 5. **Yield** at the trigger threshold. No hesitation. He decided this before the ambush started.
 
-### What They Will NOT Do
+**What They Will NOT Do**
 
 - **Will not harm bystanders** in the queue or fleeing crowd. If a bystander is caught between a zealot and a PC, the zealot pulls the strike.
 - **Will not kill players.** The Mercy Instinct trait hard-caps this. They need no body. One death in the Lowmark would turn the entire district against the Restorers within forty-eight hours — Edoran knows this.
@@ -723,7 +723,7 @@ All four zealots simultaneously break off — no order, no signal, they simply g
 
 ---
 
-## Terrain Reference
+**Terrain Reference**
 
 | Feature | Location | Effect |
 |---|---|---|
@@ -738,7 +738,7 @@ All four zealots simultaneously break off — no order, no signal, they simply g
 
 ---
 
-## Total XP
+**Total XP**
 
 | Enemy | CR | XP Each | Count | Subtotal |
 |---|---|---|---|---|
@@ -784,23 +784,23 @@ Divide by 5 players. Per-player: **540 XP** (yielded) or **720 XP** (fully dropp
 <details>
 <summary>🎭 NPCs</summary>
 
-## Scene 1 NPC Roster
+**Scene 1 NPC Roster**
 
 Five people intercept the players in the Lowmark junction. One leads. Four support. One watches from thirty feet away and does not join.
 
 ---
 
-## 1. Restorer Enforcer
+**1. Restorer Enforcer**
 
 **Role in Scene:** Field commander. He controls the tempo — when it escalates, when it stops.
 
 **Stats:** Use Veteran (MM p.350). HP 52. Does not draw weapons until initiative is rolled.
 
-### Physical Description
+**Physical Description**
 
 40s. Stocky. Jaw scar, old dock dispute, healed badly. He stands slightly sideways — the posture of someone who has managed crowds, not charged them. Weapons are present but not visible until he needs them. He moves the way furniture moves: deliberate, unhurried, occupying space without announcing it.
 
-### OGAS
+**OGAS**
 
 | | |
 |---|---|
@@ -809,11 +809,11 @@ Five people intercept the players in the Lowmark junction. One leads. Four suppo
 | **Attitude** | Professional contempt — not personal. These people are meddlers who don't yet understand what they are meddling in. He doesn't hate them. He was one of them once, before his wife died of grey sickness in Year 42. He watched the district heal centers fill up and the patrol routes disappear, and he drew a conclusion about where loyalty belongs. |
 | **Secret** | He does not fully believe Edoran's theological position. He follows Edoran because grief demanded a direction and Edoran provided one. Loyalty, not faith. If asked — really asked — what he personally believes about the Dawnborn, he cannot articulate an answer. He has not tried. The question feels dangerous to look at directly. |
 
-### Voice
+**Voice**
 
 Measured. Economical. Deliberate silences where other people would fill space with words. He says the exact thing he means to say, nothing more, and then he stops talking.
 
-### Dialogue
+**Dialogue**
 
 **Opening line (before initiative, blocking the players' path):**
 
@@ -841,7 +841,7 @@ He pauses. A genuine pause — something lands differently than expected. Then:
 
 He means it. He will listen for up to 30 seconds of real table time before the situation resolves or deteriorates. He will not confirm who sent him. He will not confirm the Restorers. But he will listen, and that listening is visible to anyone watching.
 
-### Attitude Shift Triggers
+**Attitude Shift Triggers**
 
 **Reduces hostility (do not escalate; he may choose to let them go):**
 - Players mention Edoran with any genuine respect, rather than as a name to leverage
@@ -857,11 +857,11 @@ He means it. He will listen for up to 30 seconds of real table time before the s
 
 ---
 
-## 2. Restorer Zealots (x4)
+**2. Restorer Zealots (x4)**
 
 **Stats:** Use Cultist (MM p.345) for all four. HP 9 each. They fight with the flinching energy of people who have talked themselves into this.
 
-### The Archetype
+**The Archetype**
 
 These are not soldiers. They are believers — and between them, they carry enough grief to fill a room. A child lost. A parent lost. Two siblings. Edoran gave that grief a direction and a name, and they followed it here because following it feels better than sitting with it.
 
@@ -873,7 +873,7 @@ They are two women, two men. Ages 20s to 40s.
 - Former Spire Quarter clerk, late 20s, woman. Lost her position when the Spire cut administrative staff. Found the Restorers six months later. The theology was secondary; the community was not.
 - Neighborhood healer's assistant, early 20s, man. The youngest. Has not lost anyone yet. Joined because his mentor did. Is here because he did not know how to say no to someone he admired.
 
-### Body Language in Combat
+**Body Language in Combat**
 
 Nervous energy. They hold weapons like people who practiced the grip but have rarely needed it. Their footwork is too wide. They breathe audibly. They fight like people who have made themselves do something that frightens them — which is exactly what they are doing.
 
@@ -895,23 +895,23 @@ Insight DC 10 reads it correctly: this is grief, not violence. He is here becaus
 
 ---
 
-## 3. Brother Edoran — Alley Profile (Scene 1 Only)
+**3. Brother Edoran — Alley Profile (Scene 1 Only)**
 
 *Full OGAS in npcs.md. This entry covers Scene 1 only: his presence, what he is doing, and what happens if reached.*
 
 **Position:** 30 feet away, at the mouth of a side alley off the east end of the junction. Not hidden. Not moving. Standing in the open in plain wool coat, hood up against the cold.
 
-### Physical
+**Physical**
 
 60s. The coat is worn at the elbows. He stands the way a person stands who has been waiting a very long time and has stopped expecting anything to arrive on schedule. He is not watching the fight. He is watching the players.
 
-### What He Is Doing
+**What He Is Doing**
 
 Calibrating. He wants to know what kind of moral agents the players are. He is not assessing whether they are a threat — he has already decided they are not a serious physical threat. He is watching whether they fight immediately, try to negotiate, pursue him, or do something he did not anticipate. He finds the unanticipated interesting.
 
 He does not move toward the fight. He does not intervene. He does not signal the Enforcer. This is not detachment — it is the particular stillness of someone who has already done everything he could do before arriving here, and now has to watch and see whether it was enough.
 
-### If Reached
+**If Reached**
 
 A player who breaks away from the combat and crosses 30 feet to the alley reaches him. He does not run. He turns to face whoever arrives. He looks at them for a moment — a genuine look, taking stock — and then he speaks:
 
@@ -925,7 +925,7 @@ He does not answer follow-up questions. He does not give his name. He does not c
 
 ---
 
-## 4. Attitude Shift Table — Scene 1 Into Sessions 2–5
+**4. Attitude Shift Table — Scene 1 Into Sessions 2–5**
 
 Actions the players take in this scene have downstream effects. Track what happens.
 
@@ -949,7 +949,7 @@ Actions the players take in this scene have downstream effects. Track what happe
 <details>
 <summary>🎲 Mechanics & DCs</summary>
 
-## 1. Complete DC Table
+**1. Complete DC Table**
 
 Gestalt L3 baseline: +4 to +6 on primary skills, passive Perception typically 13–15, saving throw proficiency where applicable.
 
@@ -977,9 +977,9 @@ Gestalt L3 baseline: +4 to +6 on primary skills, passive Perception typically 13
 
 ---
 
-## 2. Terrain Mechanics
+**2. Terrain Mechanics**
 
-### Food Queue Crowd (~50 people, north side of junction)
+**Food Queue Crowd (~50 people, north side of junction)**
 
 **Baseline state (Round 1):**
 - The crowd occupies a 20 ft × 40 ft zone along the north street edge, tightest near the distribution cart.
@@ -999,7 +999,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### Market Crates (east end of junction, stacked 3–4 high)
+**Market Crates (east end of junction, stacked 3–4 high)**
 
 **Default state:** Half cover (+2 AC, +2 Dex saves) for creatures crouching behind them.
 
@@ -1015,7 +1015,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### Lantern Posts (spaced ~15 ft along street edges, 6 ft tall iron posts, open-flame oil lamps)
+**Lantern Posts (spaced ~15 ft along street edges, 6 ft tall iron posts, open-flame oil lamps)**
 
 **Passive hazard:**
 - Any creature pushed, shoved, or knocked into a lantern post must succeed on a DC 12 Acrobatics saving throw or take 1d6 fire damage as the lamp tips and splashes burning oil.
@@ -1029,7 +1029,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### Distribution Cart (centre of junction, north edge)
+**Distribution Cart (centre of junction, north edge)**
 
 **Object stats:** Large object, AC 11, HP 27, immune to psychic and poison damage.
 
@@ -1043,7 +1043,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### East Alley Mouth (10 ft wide, runs east from junction)
+**East Alley Mouth (10 ft wide, runs east from junction)**
 
 **Lighting:** Dim light (vs. amber street lanterns). Perception checks made from the street into the alley have disadvantage.
 
@@ -1055,23 +1055,23 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-## 3. Crowd Mechanics (Detailed)
+**3. Crowd Mechanics (Detailed)**
 
-### Pushing Through
+**Pushing Through**
 
 - **Check:** DC 12 Athletics or Acrobatics (player's choice).
 - **Success:** Move through the crowd zone at half speed (difficult terrain, every foot costs 2 ft). The crowd parts grudgingly.
 - **Failure:** The crowd presses back. No movement through the crowd zone this turn. The player can still move in open areas outside the crowd zone.
 - **Special:** A player who declares they are *forcing* through (not navigating) can push through automatically but displaces 1d3 civilians who stumble — roll to see if any are in a hazard square.
 
-### Crowd as Cover
+**Crowd as Cover**
 
 - A player who moves into the crowd zone and stays still (does not attack) may attempt to blend in.
 - **Check:** DC 13 Stealth, rolled with disadvantage (active combat, enemies are actively searching).
 - **Success:** Player gains half cover from ranged attacks this round. Enemies must guess which figure in the crowd is the player; melee attacks against the player have disadvantage until the player attacks or casts a spell.
 - **Failure:** No benefit. The player is conspicuous.
 
-### AoE Spells / Indiscriminate Force Into Crowd
+**AoE Spells / Indiscriminate Force Into Crowd**
 
 - If a spell or effect's area of effect includes crowd squares:
   - Each civilian in the blast is AC 10, 4 HP. GM resolves their saves normally.
@@ -1081,9 +1081,9 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-## 4. Creative Play Responses
+**4. Creative Play Responses**
 
-### A. "I try to negotiate before any combat starts"
+**A. "I try to negotiate before any combat starts"**
 
 **Check:** Persuasion DC 16 (Enforcer is under orders; persuasion is fighting his chain of command, not his personal feelings).
 
@@ -1098,7 +1098,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### B. "I run directly for Edoran without fighting"
+**B. "I run directly for Edoran without fighting"**
 
 **No check required to run.** Movement is automatic. But:
 
@@ -1114,7 +1114,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### C. "I try to turn the crowd against the zealots"
+**C. "I try to turn the crowd against the zealots"**
 
 **Check:** Persuasion or Performance DC 14, rolled with disadvantage (the crowd is frightened, not angry; they want to flee, not fight).
 
@@ -1126,7 +1126,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### D. "I cast an area spell into the crowd / use indiscriminate force"
+**D. "I cast an area spell into the crowd / use indiscriminate force"**
 
 **No check — this just happens.** Resolve the spell normally.
 
@@ -1140,7 +1140,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### E. "I try to knock out all zealots non-lethally"
+**E. "I try to knock out all zealots non-lethally"**
 
 **Rules:** Melee attacks only. When a melee attack would drop a creature to 0 HP, the player declares non-lethal. The creature is unconscious, not dead. Ranged attacks and spells (without specific "non-lethal" flavour) cannot be declared non-lethal under 2014 rules without GM agreement.
 
@@ -1152,7 +1152,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### F. "I try to intimidate everyone into leaving immediately"
+**F. "I try to intimidate everyone into leaving immediately"**
 
 **Check:** Intimidation DC 18 to affect the Enforcer (he's seen worse). Cultists break at DC 13 — they're hired, not fanatics.
 
@@ -1162,7 +1162,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### G. "I try to bribe the Enforcer"
+**G. "I try to bribe the Enforcer"**
 
 **No check required — the offer is made.** But:
 
@@ -1176,7 +1176,7 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-### H. "I try to grab a zealot as MY hostage / use them as leverage"
+**H. "I try to grab a zealot as MY hostage / use them as leverage"**
 
 **Check to grab:** Athletics or the Grapple action (contested Athletics, zealot +2). On success, player has zealot grappled.
 
@@ -1190,9 +1190,9 @@ The crowd breaks. Civilians scatter in all directions — move them off the map.
 
 ---
 
-## 5. Rulings Cheat Sheet
+**5. Rulings Cheat Sheet**
 
-### Most Likely Edge Cases at the Table
+**Most Likely Edge Cases at the Table**
 
 **1. "Does the crowd count as cover for the zealots / Enforcer too?"**
 
@@ -1229,11 +1229,11 @@ The note is a loose object on the ground. Picking it up costs a free object inte
 <details>
 <summary>GM Craft</summary>
 
-## 1. Guy Sanders Techniques — Applied to This Scene
+**1. Guy Sanders Techniques — Applied to This Scene**
 
 ---
 
-### SECONDARY OBJECTIVE: How to Make the Note Feel Urgent Without Explaining It
+**SECONDARY OBJECTIVE: How to Make the Note Feel Urgent Without Explaining It**
 
 Do not tell players the note is important. Show them the zealot is protecting it.
 
@@ -1249,7 +1249,7 @@ Then, in round 2, the burning attempt answers the question by threatening to rem
 
 ---
 
-### FIVE SENSES — Timing
+**FIVE SENSES — Timing**
 
 | Sense | Content | When to Deliver |
 |---|---|---|
@@ -1263,7 +1263,7 @@ Then, in round 2, the burning attempt answers the question by threatening to rem
 
 ---
 
-### NPC QUICK REF — The Enforcer
+**NPC QUICK REF — The Enforcer**
 
 **WANTS:** To complete this job without injury to his people or the targets — a clean warning, nothing that brings the City Guard down on the Restorers tonight.
 
@@ -1275,7 +1275,7 @@ Then, in round 2, the burning attempt answers the question by threatening to rem
 
 ---
 
-### ENCOUNTER BEAT — The Pivot
+**ENCOUNTER BEAT — The Pivot**
 
 **The pivot is not the note. The pivot is Edoran.**
 
@@ -1291,7 +1291,7 @@ This pivot reframes everything that has already happened. The zealots aren't ran
 
 ---
 
-### STAKES MAP
+**STAKES MAP**
 
 **What players can GAIN:**
 - The note (Edoran's handwriting, the scripture quote — first evidence he is not simply a fanatic)
@@ -1310,11 +1310,11 @@ This is the campaign's first version of its central question in miniature: do yo
 
 ---
 
-## 2. Scene Transitions
+**2. Scene Transitions**
 
 ---
 
-### IN — Closing the Chancellor Scene, Opening Scene 1
+**IN — Closing the Chancellor Scene, Opening Scene 1**
 
 Use this when the players leave the Chancellor's offices:
 
@@ -1324,7 +1324,7 @@ Use this when the players leave the Chancellor's offices:
 
 ---
 
-### OUT — Closing Scene 1, Opening Scene 2
+**OUT — Closing Scene 1, Opening Scene 2**
 
 Use this after the Enforcer yields and the zealots scatter:
 
@@ -1334,7 +1334,7 @@ Use this after the Enforcer yields and the zealots scatter:
 
 ---
 
-## 3. Improv Anchors
+**3. Improv Anchors**
 
 ---
 
@@ -1352,7 +1352,7 @@ Stop the momentum briefly. Describe the Enforcer's face: *"He goes still in a wa
 
 ---
 
-## 4. Pre-Scene Resource State
+**4. Pre-Scene Resource State**
 
 Assumed: full HP, full spell slots (fresh from Chancellor meeting).
 
@@ -1365,7 +1365,7 @@ Assumed: full HP, full spell slots (fresh from Chancellor meeting).
 
 ---
 
-## 5. The "What They Remember" Test
+**5. The "What They Remember" Test**
 
 **The sentence players are still quoting:**
 *"He just crouched down and held the note to the flame. Like he had all the time in the world."*
@@ -1381,11 +1381,11 @@ Assumed: full HP, full spell slots (fresh from Chancellor meeting).
 <details>
 <summary>👥 Player Engagement</summary>
 
-## 1. Per-Archetype Engagement
+**1. Per-Archetype Engagement**
 
 ---
 
-### The Investigator
+**The Investigator**
 *Rogue / Ranger / Wizard / Bard — truth-seeker, possibly operating under false employer context*
 
 **FIRST NOTICE**
@@ -1402,7 +1402,7 @@ Don't just give a Perception result. Deliver the Investigator's read as a profes
 
 ---
 
-### The Believer
+**The Believer**
 *Cleric / Paladin / Druid — faith-driven, may know Auris or Morthis tradition*
 
 **FIRST NOTICE**
@@ -1419,7 +1419,7 @@ Yes, and complicate it: *"He goes still when you invoke Auris. Not hostile — s
 
 ---
 
-### The Survivor
+**The Survivor**
 *Fighter / Barbarian / Rogue — Varenhold local or has lost someone; possibly had prior Restorer contact*
 
 **FIRST NOTICE**
@@ -1436,7 +1436,7 @@ Give them something specific, even if it's a near-miss: *"Z1 — the one near th
 
 ---
 
-### The Scholar
+**The Scholar**
 *Wizard / Artificer / Bard — Spire fellowship, may know Theron Waide by correspondence*
 
 **FIRST NOTICE**
@@ -1453,7 +1453,7 @@ Reward the inference directly: *"Both of those are reasonable hypotheses, and yo
 
 ---
 
-### The Mercenary
+**The Mercenary**
 *Fighter / Rogue / Ranger — hired job, advance paid, possibly without full context*
 
 **FIRST NOTICE**
@@ -1470,7 +1470,7 @@ Give them an honest tactical read, then complicate it: *"Straight through the En
 
 ---
 
-### The Dawnborn-Adjacent
+**The Dawnborn-Adjacent**
 *Any class — knows a Dawnborn personally, likely Sera Voss; came because Sera asked or because of personal relationship*
 
 **FIRST NOTICE**
@@ -1487,11 +1487,11 @@ This question deserves a beat of silence before the answer: *"Almost certainly. 
 
 ---
 
-## 2. Ability Interactions
+**2. Ability Interactions**
 
 ---
 
-### Detect Thoughts on the Enforcer
+**Detect Thoughts on the Enforcer**
 
 **Surface thoughts (no save required):** The Enforcer's surface layer is operational — he is tracking positions, counting the players, watching the alley mouth to his left. His thoughts are clipped and task-oriented: *positions, timer on the note, don't let them north.* He is not frightened. He is focused. There is a small, suppressed current of something underneath — not guilt, exactly, but the feeling of someone doing a thing they have decided not to examine too closely.
 
@@ -1501,7 +1501,7 @@ This question deserves a beat of silence before the answer: *"Almost certainly. 
 
 ---
 
-### Suggestion on a Zealot
+**Suggestion on a Zealot**
 
 **Will not work — hard no:**
 - "Tell me who sent you." (Protects Edoran; the instruction is bone-deep)
@@ -1519,7 +1519,7 @@ This question deserves a beat of silence before the answer: *"Almost certainly. 
 
 ---
 
-### Bardic Inspiration on the Note-Grab Contest
+**Bardic Inspiration on the Note-Grab Contest**
 
 **The mechanics:** The note-grab is a contested check — player's Sleight of Hand or Athletics vs. Z4's Athletics to retain the note, or an Acrobatics check to close distance without triggering an opportunity attack. Bardic Inspiration adds the die to that contested roll.
 
@@ -1527,7 +1527,7 @@ This question deserves a beat of silence before the answer: *"Almost certainly. 
 
 ---
 
-### Divination Wizard Portent — Replacing the Zealot's Burn Attempt Roll
+**Divination Wizard Portent — Replacing the Zealot's Burn Attempt Roll**
 
 **Ruling: Allowed, with one condition.**
 
@@ -1539,7 +1539,7 @@ If no contest has been created — if Z4 simply walks to the post unimpeded — 
 
 ---
 
-### Barbarian Reckless Attack vs. the Enforcer
+**Barbarian Reckless Attack vs. the Enforcer**
 
 **The tactical note:** Reckless Attack gives the Barbarian advantage on attacks against the Enforcer — and gives the Enforcer advantage on attacks against the Barbarian. In a standard combat, this trade is usually favorable. In this scene, it creates a specific complication.
 
@@ -1549,7 +1549,7 @@ The Enforcer's mission includes grabbing a hostage. If he has advantage on attac
 
 ---
 
-### Paladin Lay on Hands on a Downed Zealot After Combat
+**Paladin Lay on Hands on a Downed Zealot After Combat**
 
 **What happens mechanically:** The zealot stabilizes. They are conscious, shaken, and in the Paladin's debt in the most immediate sense.
 
@@ -1561,7 +1561,7 @@ The Enforcer's mission includes grabbing a hostage. If he has advantage on attac
 
 ---
 
-### Bard Cutting Words — Breaking the Zealot Grapple
+**Bard Cutting Words — Breaking the Zealot Grapple**
 
 **The mechanics:** Cutting Words uses the Bardic Inspiration die as a penalty to the zealot's attack or ability check. If a zealot has successfully grappled a player (Str check, opposed), Cutting Words applies to the zealot's *next* Str (Athletics) check to maintain the grapple when the grappled character attempts to escape — or to the grapple attempt itself if declared before the roll.
 
@@ -1571,7 +1571,7 @@ The Enforcer's mission includes grabbing a hostage. If he has advantage on attac
 
 ---
 
-### Ranger with Humanoid Favored Enemy — Does It Apply?
+**Ranger with Humanoid Favored Enemy — Does It Apply?**
 
 **Ruling: Yes.** The zealots and the Enforcer are humanoids. The Ranger adds their Favored Enemy bonus to relevant tracking, recall, and — in later editions — some damage calculations. More importantly, Favored Enemy (Humanoid) typically grants advantage on Survival checks to track and recall knowledge about humanoid behaviors and tactics.
 
@@ -1581,7 +1581,7 @@ This is tactically decisive. The Ranger has just identified the scene's win cond
 
 ---
 
-### Warlock Eldritch Blast on Z4 (Note-Carrier, Near Lantern)
+**Warlock Eldritch Blast on Z4 (Note-Carrier, Near Lantern)**
 
 **The situation:** Z4 is positioned approximately 10 feet from the NE lantern post. The note is in their belt pouch. An Eldritch Blast that hits Z4 at this range has a chance of knocking them into the lantern post (depending on invocations — Repelling Blast specifically).
 
@@ -1591,7 +1591,7 @@ This is tactically decisive. The Ranger has just identified the scene's win cond
 
 ---
 
-### Monk Stunning Strike on the Enforcer — Yield Condition Interaction
+**Monk Stunning Strike on the Enforcer — Yield Condition Interaction**
 
 **The mechanics:** Stunning Strike requires spending a ki point after hitting. On a failed Constitution save, the Enforcer is Stunned until the end of the Monk's next turn — incapacitated, auto-fails Str and Dex saves, attacks against him have advantage.
 
@@ -1605,11 +1605,11 @@ This is tactically decisive. The Ranger has just identified the scene's win cond
 
 ---
 
-## 3. Player Choice Map
+**3. Player Choice Map**
 
 ---
 
-### Choice 1: Retrieve the Note NOW (during combat, Round 1-2) vs. Fight First, Retrieve After
+**Choice 1: Retrieve the Note NOW (during combat, Round 1-2) vs. Fight First, Retrieve After**
 
 **Option A — Retrieve during combat:**
 
@@ -1625,7 +1625,7 @@ This is tactically decisive. The Ranger has just identified the scene's win cond
 
 ---
 
-### Choice 2: Pursue Edoran in the Alley (break from combat) vs. Stay and Protect Teammates
+**Choice 2: Pursue Edoran in the Alley (break from combat) vs. Stay and Protect Teammates**
 
 **Option A — Break from combat and reach Edoran:**
 
@@ -1641,7 +1641,7 @@ This is tactically decisive. The Ranger has just identified the scene's win cond
 
 ---
 
-### Choice 3: Capture the Enforcer vs. Let Him Go at Yield
+**Choice 3: Capture the Enforcer vs. Let Him Go at Yield**
 
 **Option A — Capture and hold the Enforcer:**
 
@@ -1657,7 +1657,7 @@ This is tactically decisive. The Ranger has just identified the scene's win cond
 
 ---
 
-## 4. Questions Players Will Ask — with GM Answers
+**4. Questions Players Will Ask — with GM Answers**
 
 ---
 
@@ -1726,7 +1726,7 @@ This is tactically decisive. The Ranger has just identified the scene's win cond
 <details>
 <summary>📖 Story Threading</summary>
 
-## Why This Scene Exists
+**Why This Scene Exists**
 
 Scene 1 is not an action tutorial. It is the first sentence of the campaign's real argument: *power is already being exercised over the Dawnborn, by people who believe they're doing it for good reasons, before the players know what the Dawnborn are.* The ambush happens before the players know enough to have an opinion about it. That is precisely the point. By the time they have an opinion, they will remember that they were already being moved by forces with incomplete information — and so were the people trying to stop them.
 
@@ -1734,9 +1734,9 @@ Everything in this scene is a seed. The note is a seed. Edoran's absence is a se
 
 ---
 
-## 1. What This Scene Pays Off
+**1. What This Scene Pays Off**
 
-### Archetype Hooks — Immediate Activation
+**Archetype Hooks — Immediate Activation**
 
 Each of the six archetypes from the Player's Guide has a specific hook that Scene 1 touches on contact.
 
@@ -1752,7 +1752,7 @@ Each of the six archetypes from the Player's Guide has a specific hook that Scen
 
 **The Dawnborn-Adjacent** came because Sera asked. Sera is the kind of person who runs toward burning buildings, who notices specific people, who has been waiting for the right moment to say something out loud. Scene 1 happens in Sera's district. The food queue is Sera's community. The ambush is in the street she walks every day. When players reach her at the Dawnhall in Scene 4, they will already know what she is protecting — because they have just fought in the middle of it.
 
-### From the Chancellor Briefing
+**From the Chancellor Briefing**
 
 The Chancellor told players three things: the Archive contains Corven's documents, the city has three good harvests left, and she is trusting them to find the truth she cannot look for publicly. What she did not say: someone is already trying to stop exactly this investigation. What she let them infer: the political landscape is complicated. What Scene 1 begins answering:
 
@@ -1762,7 +1762,7 @@ The Chancellor told players three things: the Archive contains Corven's document
 
 The Chancellor briefing raised the question: *is this a job, or is it something else?* Scene 1 answers: it is something else. The Mercenary archetype knows this feeling.
 
-### The Campaign Logline in Miniature
+**The Campaign Logline in Miniature**
 
 *"Ten people are carrying the sun inside them. The city needs it back. Whose choice is that to make?"*
 
@@ -1772,9 +1772,9 @@ Scene 1 is this question at the scale of thirty seconds of combat. The zealots h
 
 ---
 
-## 2. What This Scene Plants
+**2. What This Scene Plants**
 
-### a) The Sealed Note — Session 2 Payoff
+**a) The Sealed Note — Session 2 Payoff**
 
 The note reads: *"The willing heart gives freely what the bound heart cannot."* This is Auris scripture in Edoran's handwriting.
 
@@ -1788,7 +1788,7 @@ That is not the reading of a fanatic. It is the reading of someone who is terrif
 
 **If the note was burned:** The handwriting recognition beat is unavailable, but the underlying revelation still lands in Scene 5 of Session 1 — Edoran's words carry the same implication. See section (b) below. The three-clue rule applies: the note is one path to Edoran's position; his words are a second; his willingness to be seen in the alley at all is a third.
 
-### b) Edoran's Words — Session 2 Echo
+**b) Edoran's Words — Session 2 Echo**
 
 *"You have no idea what you are looking for. When you find it, you will understand why I did not want you to."*
 
@@ -1802,7 +1802,7 @@ That is not a villain's speech. It is the speech of someone who has been carryin
 
 The callback does not redeem Edoran's methods. It complicates them, which is more useful.
 
-### c) The Food Queue — Session 3 Weight
+**c) The Food Queue — Session 3 Weight**
 
 Fifty people shuffling forward in the amber lanternlight. A vendor calling out quantities. Bundled figures. A child somewhere in the line.
 
@@ -1814,7 +1814,7 @@ When players reach that decision, they are deciding in the abstract: ten lives a
 
 The moral weight of the Session 3 decision is real because the fifty people were real. Not named, not spoken to, not given individual stories — but real, present, sensory. Five senses. The cost was in the room before the players knew they were being asked to calculate it.
 
-### d) The Enforcer's Silence — The Truth That Lands Later
+**d) The Enforcer's Silence — The Truth That Lands Later**
 
 **What players think it means:** The Enforcer is loyal, well-trained, professionally disciplined. He will not name his employer because he has been instructed not to. This is a competent operation. Standard interpretation: Restorer zealotry with better organization than expected.
 
@@ -1826,7 +1826,7 @@ The source is the Chancellor's office. The Enforcer's silence in Scene 1 is the 
 
 This is not something players need to decode in Session 1. But the GM should note it, because when the Session 2 realization lands, the Enforcer's silence retroactively explains itself.
 
-### e) The Route Intelligence — Edoran's Network
+**e) The Route Intelligence — Edoran's Network**
 
 The zealots had the players' route. The players left the Chancellor's offices not long before the ambush. That is the specific thing to hold.
 
@@ -1840,7 +1840,7 @@ When players finally reach Edoran in Session 1, Scene 5, and he says *"You have 
 
 ---
 
-## 3. Thread Connections Table
+**3. Thread Connections Table**
 
 | Scene / Session | How Scene 1 Connects Forward | Specific Payoff |
 |---|---|---|
@@ -1852,7 +1852,7 @@ When players finally reach Edoran in Session 1, Scene 5, and he says *"You have 
 
 ---
 
-## 4. Three-Clue Rule — Information This Scene Provides
+**4. Three-Clue Rule — Information This Scene Provides**
 
 Scene 1 is primarily a clue delivery mechanism for one core piece of information: **Edoran is not simply a fanatic — he believes in consent.**
 
@@ -1891,9 +1891,9 @@ The campaign depends on players being able to reach this conclusion before Sessi
 
 ---
 
-## 5. If Skipped or Failed Completely
+**5. If Skipped or Failed Completely**
 
-### Minimum Information for Sessions 2-5
+**Minimum Information for Sessions 2-5**
 
 If Scene 1 is entirely skipped (players teleport past the Lowmark, the GM cuts it for time, the players ignore the encounter entirely):
 
@@ -1901,7 +1901,7 @@ The session functions, but players arrive at Scene 2 without knowing the investi
 
 The critical missing element is **Edoran's identity as someone who believes in consent**. This must be recovered before Session 3's faction choice.
 
-### Recovery Paths by Clue
+**Recovery Paths by Clue**
 
 **If the note is burned:** Jaret, at the Dawnhall approach (Session 1, before Scene 4 or at the session break), will mention that "Brother Edoran keeps a particular scripture close — the one about the willing heart. He says it to anyone who asks why the Restorers won't simply force the issue." This is the recovery path. Use it if the note is gone.
 
@@ -1923,9 +1923,9 @@ Do not hand this to the players. Let them arrive at it. Edoran does not explain 
 
 ---
 
-## 6. Moral Weight Analysis
+**6. Moral Weight Analysis**
 
-### The Micro-Choice as Campaign Architecture
+**The Micro-Choice as Campaign Architecture**
 
 The three choices Scene 1 offers — retrieve the note, pursue Edoran, capture or release the Enforcer — are structurally identical to the choices of Sessions 4 and 5, compressed into the space of a single combat encounter. Retrieving the note is the choice to pursue information at cost. Pursuing Edoran is the choice to seek a direct conversation with the person who would rather you didn't have this information. Capturing or releasing the Enforcer is the choice about what you do with someone who was acting under orders they didn't fully understand, who will not tell you who sent them, and who poses no further threat once the operation has failed.
 
@@ -1933,7 +1933,7 @@ These are the same questions the campaign asks at scale: *Do you have the right 
 
 The players will answer all three of these questions in Session 1 before they know they're answering them. That is the function of the micro-choice. It establishes character position — this player pursues the information at all costs, this player releases the Enforcer, this player goes for Edoran while the rest fight — before the stakes are high enough to feel like a test. By Session 5, those established positions are the ground the characters are standing on when the actual test arrives. The GM should remember what each player chose in Scene 1. So, if possible, should the players.
 
-### Consent as Structure, Not Theme
+**Consent as Structure, Not Theme**
 
 The Archive door in Scene 2 asks players to name CONSENT as the answer to a riddle. That is the campaign's central word arriving in capital letters, unmissable, at the end of Session 1's first hour. But the scene that actually embeds consent as a structural concern is Scene 1, not Scene 2.
 
@@ -1941,7 +1941,7 @@ When the second zealot tries to stamp the note into the lantern flame, that is a
 
 This is what organizations do to the moral positions of leaders. The Restorer Fanatics (Jaret's wing) will do this to a much greater degree in Sessions 3 and 4. But it begins here, in Scene 1, with a burning note. The answer to Scene 2's riddle — CONSENT — is what Scene 1's note was about. The answer was always present. Someone was trying to burn it before it could be found.
 
-### The Cost Must Be Real Because the People Were Real
+**The Cost Must Be Real Because the People Were Real**
 
 The campaign's central moral weight — ten lives against a city — is an abstraction that the campaign earns over five sessions by refusing to let it stay abstract. The Dawnborn become individuals. Sera becomes someone specific, someone the players will see at the moment Theron says *extinguished*. The city becomes the food queue, the grey sickness, the vendor calling quantities, the child somewhere in the line.
 
@@ -1956,19 +1956,19 @@ That is why Scene 1 begins in the food queue rather than in the Chancellor's off
 <details>
 <summary>✨ Personal Hooks</summary>
 
-## Scene 1 — Personal Hooks by Archetype
+**Scene 1 — Personal Hooks by Archetype**
 
 These inserts are delivered *during* the general scene opening, slotted in after the read-aloud variant and before the first skill checks. Each is addressed directly to one player. Keep them brief. The goal is not to give information — it is to make the scene feel like it was *built for that character specifically*.
 
 ---
 
-## Part 1 — Per-Archetype Sensory Inserts
+**Part 1 — Per-Archetype Sensory Inserts**
 
 Deliver each to the relevant player by name or by archetype. These are additions to the scene, not replacements for the read-aloud variants.
 
 ---
 
-### To the Investigator
+**To the Investigator**
 
 > Before the rest of the party has taken two steps into the junction, you've already read the exits. West alley: one figure, too still to be a pedestrian. South end of the queue: another one, facing the wrong direction for someone waiting on a food allocation. North lane: a broad man with his hands at his sides and nowhere he needs to be. Someone looked at this junction before you did. They looked at it, chose it, and placed people in it. This was not improvised.
 
@@ -1976,7 +1976,7 @@ Deliver each to the relevant player by name or by archetype. These are additions
 
 ---
 
-### To the Believer
+**To the Believer**
 
 > When the figure at the north lane spreads his hands — that first moment, palms out, no weapon visible — you catch a glimpse inside his collar. The coat opens slightly with the gesture. There it is: a small circle of undyed thread stitched against the lining, a sun with a notch cut from its lower arc. You know that symbol. It is not standard Auris iconography. It belongs to a specific community within the faith — one that believes the sun's delay is not punishment but *grief*. You have encountered this tradition before, probably at a distance. Right now it is blocking your path.
 
@@ -1984,7 +1984,7 @@ Deliver each to the relevant player by name or by archetype. These are additions
 
 ---
 
-### To the Survivor
+**To the Survivor**
 
 > Your eyes go to the food queue before they go anywhere else. Habit. You scan the line the way you have been scanning lines like this for months — looking for a posture you recognize. The woman three places back from the cart is standing in a way that is not quite standing. Her weight is slightly wrong. She keeps one hand against the building, not because the press of the crowd demands it but because she needs it there. Her coat is too large — the kind of too large that means she has lost weight, and lost it recently. Stage 2. You know what Stage 2 looks like. You know because you have been watching someone walk toward it, and you know exactly what is at stake if this job does not go the way it needs to go.
 
@@ -1992,7 +1992,7 @@ Deliver each to the relevant player by name or by archetype. These are additions
 
 ---
 
-### To the Scholar
+**To the Scholar**
 
 > You are looking at the placement. You cannot help it. Four people, four positions — two exits blocked, one central axis controlled, one flanking the secondary objective. That secondary objective being, you notice, *you*. This is not a mob. This is a practiced intercept pattern — the kind of thing you learn by running variations until you do not have to think about it. Whoever designed this has run operations in confined urban spaces before. Which means they have run *several*, and this group has trained on them. Someone organized these people. Someone with tactical experience organized these people, and they did it *before the players arrived in this junction*, which means they knew you were coming. That is the part worth thinking about.
 
@@ -2000,7 +2000,7 @@ Deliver each to the relevant player by name or by archetype. These are additions
 
 ---
 
-### To the Mercenary
+**To the Mercenary**
 
 > You've seen professionals work. You've been hired by professionals, run operations with professionals, been on the other end of what professionals do. What you're looking at right now is... almost that. The formation is sound. The positioning is thought through. But the woman near the west alley mouth is watching the center of the junction instead of her exit — which means either someone briefed her wrong or she's nervous enough that the briefing didn't stick. The zealot near the market crates is holding his hands too close to his body; he's managing breathing, not weight distribution. Whoever hired this crew hired people with belief and gave them structure. Belief and structure is dangerous. It is not the same as professional. You file that distinction away. It matters.
 
@@ -2008,7 +2008,7 @@ Deliver each to the relevant player by name or by archetype. These are additions
 
 ---
 
-### To the Dawnborn-Adjacent
+**To the Dawnborn-Adjacent**
 
 > You know this street. Not from maps — from Sera's letters. The distribution cart on the center-south lane: she mentioned it once, offhand, in a letter about a volunteer scheduling dispute she'd found frustrating. The food registry queue stretching to the east wall: she described standing in it herself, seven years ago, before she started running the Dawnhall, back when she was just another person in Varenhold trying to get through a winter. These are her people. The woman near the cart, the man with the grey in his beard near the back of the line, the child being held close by a parent as the figures start to move — Sera knows these faces. She has been feeding these faces for years. And right now they are about to watch a fight they did not ask for, in their street, at their food queue, and you are part of the reason it is happening.
 
@@ -2016,7 +2016,7 @@ Deliver each to the relevant player by name or by archetype. These are additions
 
 ---
 
-## Part 2 — Knowledge Triggers (Passive)
+**Part 2 — Knowledge Triggers (Passive)**
 
 These are automatic — no roll required. Deliver each as a brief GM aside immediately after the read-aloud, directed at any character whose passive score qualifies. You do not need to announce the skill name. Just give them the information as though they simply *know* it.
 
@@ -2032,7 +2032,7 @@ These are automatic — no roll required. Deliver each as a brief GM aside immed
 
 ---
 
-## Part 3 — Check-Result Narrations
+**Part 3 — Check-Result Narrations**
 
 When a player succeeds on one of the scene's active checks, do not read a mechanical result. Read the *story* of what they perceive. These are the narrations.
 
@@ -2062,7 +2062,7 @@ When a player succeeds on one of the scene's active checks, do not read a mechan
 
 ---
 
-## Part 4 — Post-Scene Personal Questions
+**Part 4 — Post-Scene Personal Questions**
 
 After Scene 1 ends — the Enforcer stands down, the zealots scatter into the queue — each archetype is left holding a different version of the same problem. These are the *personal* questions, not the campaign questions.
 
@@ -2080,7 +2080,7 @@ After Scene 1 ends — the Enforcer stands down, the zealots scatter into the qu
 
 ---
 
-## Part 5 — Callback Hooks (GM Notes, Session Zero Dependent)
+**Part 5 — Callback Hooks (GM Notes, Session Zero Dependent)**
 
 If the player shared their background hook in Session Zero, use these brief amplifications in your delivery of the sensory inserts above.
 
@@ -2107,9 +2107,9 @@ If the player shared their background hook in Session Zero, use these brief ampl
 
 ---
 
-## 1. Loot Table
+**1. Loot Table**
 
-### The Enforcer (if searched or captured)
+**The Enforcer (if searched or captured)**
 
 **Equipment** (well-maintained, non-magical, no markings):
 - Leather lamellar vest with reinforced shoulder plates — patrol-grade, the kind worn by former city guardsmen who kept their gear when they left service. The straps have been re-sewn at least twice.
@@ -2127,7 +2127,7 @@ If the player shared their background hook in Session Zero, use these brief ampl
 
 ---
 
-### Zealots (if searched; 2d6 cp each)
+**Zealots (if searched; 2d6 cp each)**
 
 Each zealot carries a sun-disk symbol cut from cloth — a roughly circular scrap with an inward-ray pattern stitched in yellow thread. A DC 12 Religion check identifies this as Auris iconography; the inward-ray variant specifically indicates a sub-sect that emphasizes voluntary suffering over worship.
 
@@ -2142,7 +2142,7 @@ Each zealot carries a sun-disk symbol cut from cloth — a roughly circular scra
 
 ---
 
-### The Sealed Note — Complete Prop
+**The Sealed Note — Complete Prop**
 
 **Physical description:** A single sheet of thin paper, folded in thirds and sealed with dark amber wax. The seal is not decorative — it is a containment diagram, a small ritual circle pressed with a stamp or ring. A DC 14 Arcana check identifies it as a binding-type circle, used for ritual correspondence requiring privacy; not common, not trivial. The paper itself is good quality, linen-fiber stock — not cheap. Whoever wrote this did not improvise it.
 
@@ -2171,9 +2171,9 @@ Each zealot carries a sun-disk symbol cut from cloth — a roughly circular scra
 
 ---
 
-## 2. Information Gained Per Success Level
+**2. Information Gained Per Success Level**
 
-### Full Success — note retrieved + Edoran reached + Enforcer examined
+**Full Success — note retrieved + Edoran reached + Enforcer examined**
 
 - Someone with ritual knowledge and theological depth organized this ambush specifically around the players' investigation, not the investigation in general.
 - The Enforcer is not a true believer. He is a professional who received his Auris pin recently and carries it hidden. He was hired, not recruited.
@@ -2182,7 +2182,7 @@ Each zealot carries a sun-disk symbol cut from cloth — a roughly circular scra
 - "The anchor holds" — a ritual term. Whatever the Ritual of Eternal Dawn created, some component of it is still active. Forty years later.
 - The Restorers had the players' route before they left the Chancellor's office. Either the Chancellor's office has a leak, or someone was watching them from the moment they entered the city.
 
-### Partial Success — fought well, note retrieved, Edoran not reached
+**Partial Success — fought well, note retrieved, Edoran not reached**
 
 - Someone with theological and ritual knowledge organized this, and they were briefed on the players' movements.
 - The Enforcer is hired muscle, not a convert.
@@ -2190,14 +2190,14 @@ Each zealot carries a sun-disk symbol cut from cloth — a roughly circular scra
 - Edoran was in the alley. They know someone was watching. They do not have his words.
 - The ambush was a warning, not an assassination attempt. Whoever sent it wants them stopped, not dead — which implies stopping them is sufficient, which implies the situation can still be stopped.
 
-### Minimal Success — fought, no note, no Edoran contact
+**Minimal Success — fought, no note, no Edoran contact**
 
 - Someone organized this ambush specifically against this investigation. It was not opportunistic.
 - The Enforcer is former city guard, professional, says nothing. The Restorers have resources and discipline.
 - The sun-disk symbols on the zealots identify them as Auris-aligned. That's all.
 - Edoran was there. If any player scanned the alley mouth, they saw him — a still figure who did not move during the fight and was gone when it ended.
 
-### Failure — party forced to retreat or yield
+**Failure — party forced to retreat or yield**
 
 The zealots do not pursue beyond the junction. The Enforcer watches them go.
 
@@ -2210,7 +2210,7 @@ What the players observe from retreat: the group does not loot the abandoned are
 
 ---
 
-## 3. Relationship Changes
+**3. Relationship Changes**
 
 | NPC | Default Before Scene | After Scene — condition | Manifests When |
 |---|---|---|---|
@@ -2222,7 +2222,7 @@ What the players observe from retreat: the group does not loot the abandoned are
 
 ---
 
-### Sera Voss: How She Hears About It
+**Sera Voss: How She Hears About It**
 
 Information moves through Lowmark on three channels: the food queue (people talk while they wait), the amber-workshop runners who carry messages between district hubs, and the Dawnhall volunteers who live throughout the district and compare notes at shift change. The ambush at the junction happened in front of fifty people in the food queue. By the time the players reach the Dawnhall three hours later, Sera has heard two accounts — one from a queue volunteer, one from a runner — that agree on the broad shape of it.
 
@@ -2234,7 +2234,7 @@ Information moves through Lowmark on three channels: the food queue (people talk
 
 ---
 
-### Chancellor Ostenveld: What Her Composure Slipping Looks Like
+**Chancellor Ostenveld: What Her Composure Slipping Looks Like**
 
 She does not raise her voice. She does not move from her chair. What changes: she stops completing sentences at their normal pace. She begins one sentence — "If they knew your route before you left my —" — and stops it. She laces her fingers on the desk surface and looks at them, not through them, for approximately three seconds. Then she says: "Tell me everything. In sequence. Leave nothing out."
 
@@ -2242,7 +2242,7 @@ The moment of stillness is the tell. She has been in this office for eleven year
 
 ---
 
-### The Enforcer (If Captured): Edoran Learns by Session 3
+**The Enforcer (If Captured): Edoran Learns by Session 3**
 
 Edoran has other contacts in Lowmark. He knows the Enforcer was taken within 24 hours. By Session 3, he has arranged for the Enforcer's release through intermediaries — not through direct action — and has received a full debrief.
 
@@ -2250,9 +2250,9 @@ Edoran has other contacts in Lowmark. He knows the Enforcer was taken within 24 
 
 ---
 
-## 4. Failure Track — Interesting Failures
+**4. Failure Track — Interesting Failures**
 
-### A. Enforcer Escapes Clean + Note Burns
+**A. Enforcer Escapes Clean + Note Burns**
 
 **What this means for Sessions 3–5:**
 
@@ -2268,7 +2268,7 @@ In Session 3, he does not send the Enforcer again. He changes the approach entir
 
 ---
 
-### B. A Player Is Grappled and Used as Brief Hostage
+**B. A Player Is Grappled and Used as Brief Hostage**
 
 **What the Enforcer demands:** He doesn't make a speech. He says two things: "Everyone stops moving," and, after a pause, "Walk away." He is not asking for information, payment, or surrender — just for the investigation to pause long enough for his people to withdraw. He will not hurt the hostage; that was not in his brief, and he knows it. But he is good at making the situation feel like he might.
 
@@ -2280,7 +2280,7 @@ In Session 3, he does not send the Enforcer again. He changes the approach entir
 
 ---
 
-### C. Players Kill a Zealot (Who Is a Civilian)
+**C. Players Kill a Zealot (Who Is a Civilian)**
 
 **City Watch inquiry:** A junior Watch sergeant arrives at the Archive gate the following morning — not at the Dawnhall, not at the Chancellor's office. At the Archive, where the players are most likely to be identified as investigators on official business. He is not hostile. He is methodical.
 
@@ -2300,7 +2300,7 @@ He does not say the players were wrong. He says it clearly enough that they feel
 
 ---
 
-### D. The Party Retreats from the Ambush Entirely
+**D. The Party Retreats from the Ambush Entirely**
 
 **Where they go:** The most immediate refuge in Lowmark is the Dawnhall — it is a public space, staffed, and the Restorers will not force entry there. The players arrive early and in disorder rather than on their own terms.
 
@@ -2316,9 +2316,9 @@ The story does not close. It reroutes.
 
 ---
 
-## 5. XP & Resource State
+**5. XP & Resource State**
 
-### Experience Points
+**Experience Points**
 
 **Base combat XP:** Determined by stat blocks in the combat build file. Placeholder: sum CR values for 4 Cultists (CR 1/8 each) + 1 Veteran (CR 3), divided among 5 players, adjusted for Gestalt tier (treat as APL 4–5 for XP scaling purposes).
 
@@ -2333,7 +2333,7 @@ The story does not close. It reroutes.
 
 ---
 
-### Expected Resource Drain
+**Expected Resource Drain**
 
 Gestalt Level 3 (two full class progressions, ~35 HP, AC 15–18) vs. 4 Cultists + 1 Veteran in an urban crowd environment:
 
@@ -2358,7 +2358,7 @@ Standard engagement leaves the party at roughly 70–85% HP, 1–2 level-1 slots
 
 ---
 
-## 6. Post-Scene GM Checklist
+**6. Post-Scene GM Checklist**
 
 Eight items to confirm before moving to Scene 2:
 
@@ -2373,7 +2373,7 @@ Eight items to confirm before moving to Scene 2:
 
 ---
 
-## 7. VTT Setup Notes
+**7. VTT Setup Notes**
 
 **Recommended map:** Lowmark district junction — a T-intersection or four-way cross with a market stall cluster at the east end and a distribution cart at the north. Minimum usable dimensions: 30 ft × 40 ft playable area, with an additional 10 ft alley mouth visible at the east edge for Edoran's position. The map does not need to be large. The scene is about compression — exits closing, crowd pressure from the north, alley too far to reach without commitment.
 
@@ -2403,7 +2403,7 @@ If your VTT supports it: mark the lantern-adjacent crate as a hazard zone linked
 
 ---
 
-## 8. "What They Remember" Test
+**8. "What They Remember" Test**
 
 **The sentence players are still quoting after the session:**
 
