@@ -51,6 +51,35 @@ details.gm-only[open] { background: #fdf0f0; }
 
 .player-callout p { margin: 0; }
 
+/* GM Handout Timing Cues */
+.handout-cue {
+  border: 2px solid #2a6a3a;
+  border-radius: 6px;
+  padding: 0.6em 1.1em;
+  margin: 1.4em 0;
+  background: #f0faf3;
+  font-size: 0.9em;
+  font-weight: 700;
+  color: #1a4a28;
+  box-shadow: inset 3px 0 0 #2a6a3a;
+}
+
+.handout-cue::before {
+  content: "📄 HAND OUT NOW";
+  display: block;
+  font-size: 0.7em;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: #2a6a3a;
+  margin-bottom: 0.3em;
+  font-family: 'Cinzel', 'Palatino Linotype', serif;
+}
+
+@media print {
+  .handout-cue { box-shadow: none; border-color: #444; background: #f8fff9; }
+}
+
 /* Skill Check Reveal Toggles */
 details.skill-reveal {
   margin: 0.25em 0 0.4em 0;

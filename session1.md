@@ -1320,6 +1320,8 @@ Use this after the Enforcer yields and the zealots scatter:
 
 **Technique:** The queue reforming is the emotional punctuation — life in Varenhold continues regardless, which is quietly devastating. The final line drives the paranoia forward without melodrama. It opens the Archive scene on unease rather than triumph.
 
+<div class="handout-cue">If the note was recovered: hand out the <strong>Edoran's Sealed Note</strong> card from <a href="player-props-session1.html">Player Handouts — Session 1</a>. Pass it to whoever retrieved it. Don't read it aloud — let them read it silently and share what they find.</div>
+
 ---
 
 **3. Improv Anchors**
@@ -2559,6 +2561,8 @@ Safe to improvise:
 >
 > The clerk says: "This door hasn't opened in eleven years. The Master Archivist has the combination if you need assistance." Then he walks back down the corridor quickly, like he'd prefer not to be there when you try.
 
+<div class="handout-cue">Hand out the <strong>Archive Door Riddle</strong> card from <a href="player-props-session1.html">Player Handouts — Session 1</a>. Pass it now, as the clerk walks away and players first face the door. Let them hold the physical text of the riddle.</div>
+
 **Five senses:**
 
 - **Sight:** Corridor, flagstone floor, three brass lanterns, the carved door filling the corridor end.
@@ -2764,6 +2768,8 @@ Safe to improvise:
 >
 > On the east wall: a star chart. Full-size, hand-drawn on vellum. It covers the full eastern sky visible from Varenhold. At the top, in plain lettering: *THE DAWNMARK — Position at Ritual Night, 50 years prior.*
 
+<div class="handout-cue">Hand out the <strong>Dawnmark Star Chart</strong> card from <a href="player-props-session1.html">Player Handouts — Session 1</a>. Pass it as players examine the east wall — before they attempt the star-wheel.</div>
+
 **Five senses:**
 
 - **Sight:** Shelves curving into semi-darkness, brass rings catching lantern light, star chart visible from the column.
@@ -2800,6 +2806,8 @@ The star chart on the east wall provides all information needed. No roll require
 **Failure (wrong full configuration):** Shelves physically rotate. 30-minute time cost. One level of exhaustion on whoever turned the wheel. After two failures: distant footsteps sound from below.
 
 **Success:** Shelf 4-17-3 opens. Inside: Corven's public summary ("distributed sympathetic anchors," "living conduit mechanism" — no names, no deaths explained yet) + Fragment 1 of the Notation Key.
+
+<div class="handout-cue">Hand out <strong>Corven's Public Notes</strong> and <strong>Fragment I — Corven's Notation Key</strong> from <a href="player-props-session1.html">Player Handouts — Session 1</a>. Pass both cards simultaneously as the shelf opens. Players can read them in-character during the scene.</div>
 
 **Note:** The brass is recently polished; the oil in the mechanism is fresh. Someone has been maintaining this room for eleven years. Theron has been keeping it ready without being able to use it.
 
@@ -2967,6 +2975,8 @@ Safe to improvise:
 **Location:** The Dawnhall, Crestwick Lane, Lowmark. A converted grain-storage building — now the primary care facility for grey sickness sufferers in the Lowmark. One long common room, ground floor. Evening food service in progress.
 
 **Transition from the Archive:** Players leave the Spire Quarter and walk downhill back into the Lowmark, 20 minutes. The Dawnhall is identified by a carved sun-symbol above the door (old paint, pre-twilight). Evening now — service time.
+
+<div class="handout-cue">Hand out the <strong>Restorer Pamphlet</strong> from <a href="player-props-session1.html">Player Handouts — Session 1</a>. A young man (Jaret) is distributing copies near the Dawnhall entrance — street contact for the Society for Ritual Restoration. He hands one to each player without speaking and steps back. He will answer questions honestly if asked.</div>
 
 **Read-aloud — Variant A (Scene 1 went cleanly):**
 > The door opens inward and the warmth hits before your eyes adjust. Forty people, a broth-heavy kitchen, woodsmoke from behind a half-open door in the north wall.
