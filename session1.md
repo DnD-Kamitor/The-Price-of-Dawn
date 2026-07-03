@@ -528,6 +528,94 @@ deal 15+ damage.]
 
 ---
 
+<details>
+<summary>🧠 NPC Minds — Faction, Thoughts & Spells</summary>
+
+---
+
+**THE ENFORCER**
+
+**Faction:** Society for Ritual Restoration — Moderate wing. Field command rank. Edoran's direct instrument in Varenhold. He is not a believer in the theological sense; he is a professional who agrees with the strategic goal. He has been doing this work for three years.
+
+**What he believes going in:** These investigators are going to find something that will get the Dawnborn killed. The Chancellor is using them as a tool she controls. He has to stop this investigation cleanly, without making martyrs, without giving the Compact a body to point at. He has done this five times in three cities. He is very good at it.
+
+**Spells:** None. He is a trained fighter, not a caster. His control is tactical — positioning, timing, reading people. If you want to add a flavour ability: once per combat, he can use *Command* (DC 14 Wisdom save, one word: "Stop") as a bonus action, representing his absolute authority over the zealots and his unnerving precision with people. This is not a spell slot — it is just that kind of man.
+
+**Round-by-round internal state:**
+
+| Round | What he's thinking |
+|---|---|
+| 0 / 1 | *"They're not going to back down. I can see it. That one especially — they're already looking for the exit that doesn't involve leaving."* |
+| 2 | *"Z4. Now. Let them feel the cost of stubbornness."* He issues Stand Down. He is not angry. He is adjusting. |
+| 3 | *"Someone is trying to reach the note. Good. They understand stakes. Bad. They're going to reach it."* |
+| At 39 HP | *"Done. They're serious enough. Edoran will want to know about them."* He decides to yield before the hit lands. |
+
+**What he will not say even if captured and magically compelled:** Edoran's name. He does not know it. He received orders through a dry-goods merchant who receives them from a laundress who has never met Edoran. The cell structure is deliberate.
+
+---
+
+**ZEALOT A (note-carrier)**
+
+**Faction:** Society for Ritual Restoration — Fanatic wing (Jaret's people). True believer. He volunteered to carry the note specifically because he is the most committed of the four to destroying it if the mission fails.
+
+**What he believes going in:** The note contains intelligence that could compromise Edoran. He will burn it before he lets an investigator read it. He is not conflicted about this.
+
+**Spells:** None. He is a laborer who found faith in the Restorer movement two years ago. He owns a club. He is very sincere.
+
+**Round-by-round internal state:**
+
+| Round | What he's thinking |
+|---|---|
+| 1 | *"Grip the closest one. Say the words. If they back down, we leave. If not — I'm ready."* |
+| 2 | *"He said 'Out.' That means me. That means the lantern."* He moves without hesitation. |
+| Burning | *"The willing heart gives freely what the bound heart cannot."* He is quoting the note while he destroys it. He has memorized the contents. He believes them. |
+| If stopped | He releases the note without fighting for it. One beat of eye contact. Then he disengages. He is not angry at the person who stopped him — he is sad for them. |
+
+---
+
+**ZEALOTS B, C, D**
+
+**Faction:** Restorer — mixed. B and C are Moderate wing (professional disruption, paid). D is Fanatic (Jaret's contact, assigned as backup for A).
+
+**What they believe going in:** B and C believe they are protecting something important by keeping investigators away from it. They have been told what to do and they are doing it. D believes what A believes — fully committed, would burn the note himself if A went down.
+
+**Spells:** None.
+
+**Internal state (shared):** They are watching the Enforcer. When he yields, they leave. They do not question this. He said it would end this way if needed. It has ended this way before.
+
+---
+
+**EDORAN** *(observing from the alley — not in combat)*
+
+**Faction:** Society for Ritual Restoration — founder, theological leader, de facto head. He is both the Moderate wing's theorist and the person Jaret's Fanatics answer to, though Jaret is pushing to separate. Edoran holds the faction together by being the only person either wing fully trusts.
+
+**What he believes going in:** This investigation will reach the ritual documents. He cannot stop it with force — he has tried that approach before and it accelerates the timeline. What he can do is see what kind of people these investigators are before deciding whether to help them understand what they find, or to let them find it cold.
+
+**Spells:** Cleric (Auris, Life domain), Level 6. He does not cast in this scene — he is observing, not intervening. But he is capable. His spells are pastoral in design; he is not a combat cleric.
+
+| Spell | Use |
+|---|---|
+| *Detect Thoughts* (concentration) | He almost certainly has this running right now, at low power — surface thoughts only. DC 13 Wisdom save if players approach the alley. On a fail, he gets one dominant surface thought from that player. He uses this to write a summary for his notes later. |
+| *Guidance* | He uses this on himself before high-stakes assessments. It is a habit. |
+| *Healing Word* | If somehow a player reaches 0 HP in this scene and the Enforcer's Mercy Instinct is on cooldown, Edoran may quietly stabilize them from 30 ft. away. He will not let investigators die in the Lowmark under his watch. |
+| *Zone of Truth* | He has this available. He has never cast it on anyone. He finds it philosophically obscene. |
+
+**Round-by-round internal state:**
+
+| Round | What he's thinking |
+|---|---|
+| 0 / 1 | *"They didn't freeze. That's something."* He is already evaluating. |
+| 2 | *"Someone is going for the note. Let them."* He does not want the note burned. He sent it specifically for them to find. The Enforcer does not know this. |
+| Note saved | *"Good. They'll have questions now. Real ones."* He begins composing what he'll say if they reach him. |
+| Note burned | *"Unfortunate. The long road, then."* He adjusts the timeline mentally. |
+| If players reach him | He does not move. He waits until they are within five feet. Then two lines, quietly. Then he goes. |
+
+**The tension Edoran is living in:** He is the person who sent the note warning investigators away. He is also the person who wants them to find the truth. He believes the truth will reach the Dawnborn either way — and it is more merciful to reach it through people who understand consent than through people who do not. He is betting on these investigators being that kind of people. He may be wrong.
+
+</details>
+
+---
+
 **Initiative & Surprise**
 
 **Does the Ambush Grant Surprise?**
