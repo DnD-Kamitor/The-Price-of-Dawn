@@ -4,12 +4,78 @@
 
 ---
 
+<details>
+<summary>📖 The Story — What Is Happening & Why</summary>
+
+## The World
+
+Varenhold has been in permanent twilight for fifty years. A ritual meant to fix the sun in the sky redirected instead — and the ten children born that night became the anchors. The **Dawnborn** carry the sun's energy in their bodies. They have been carrying it since birth. They are now adults in their fifties. The energy is still there.
+
+To restore the sun, the ritual must complete. Completing the ritual releases the energy. Releasing the energy means the Dawnborn die.
+
+Grey sickness is spreading. Food stores are failing. Varenhold has three to five good harvests left before the food system collapses. The city is running out of time.
+
+## The Job
+
+Chancellor **Mira Ostenveld** has hired the players to investigate why the Ritual of Eternal Dawn failed fifty years ago. She knows something went wrong. She suspects the answer is terrible. She has arranged not to know it directly — she hired investigators instead of reading the files herself. That is not cowardice. It is strategy. She cannot act on what she doesn't officially know.
+
+Players take the job before understanding what they're walking into. That mirrors the Chancellor's position exactly. The symmetry is intentional.
+
+## The Opposition
+
+Someone already knows they've been hired. The players haven't left the Chancellor's office when the intelligence reaches Brother **Edoran**, leader of the Restorer movement — a theological faction who believe the Dawnborn's death would be meaningful, not wasted. Edoran sent people to slow the investigation. Not to kill. To warn. The Restorers had the players' route before the players knew it themselves.
+
+**Keseph Vyne** (Warden of the Amber Compact) is the other opposition force. He doesn't appear this session, but his fingerprints are on the Archive's suppressed documents. Players won't know his name until Session 2.
+
+## What Session 1 Establishes
+
+By the end of this session, players know:
+- The ritual used "distributed sympathetic anchors" and a "living conduit mechanism"
+- Corven built consent into the ritual as an engineering requirement, not a philosophical nicety
+- Theron Waide (Master Archivist) has been sitting on something for eleven years
+- Someone tried to stop this investigation — twice, from two different directions
+
+What they don't know yet:
+- What "living conduit" means (it means people)
+- That the Dawnborn are the anchors
+- That completing the ritual requires the Dawnborn to die
+- Who Edoran actually is, or why he watched the fight instead of intervening
+
+</details>
+
+---
+
+<details>
+<summary>🗺 Session Map — 5 Scenes</summary>
+
+| # | Type | Scene | What Happens |
+|---|------|-------|-------------|
+| 1 | Combat | The Restorer Ambush | Zealots intercept players at the Lowmark Junction. Edoran's sealed note is about to be burned. Fight and save the intelligence simultaneously — you cannot do both at full effectiveness. |
+| 2 | Puzzle | The Archive Door | The restricted stacks door has a riddle carved above it. Answer: CONSENT. Theron Waide knows the answer and will not say it. He has been waiting eleven years for someone else to open the door. |
+| 3 | Puzzle | The Star-Wheel | Three brass rings on a central column, set to the Dawnmark constellation's rise order. The star chart on the east wall contains the solution in plain view. Corven's documents are behind the mechanism. |
+| 4 | RP | Sera Voss at the Dawnhall | First contact with a Dawnborn. Sera runs a soup kitchen for grey sickness sufferers. She already knows what players came to ask. She has been waiting for someone outside her own head to know what she knows. |
+| 5 | Combat | The Second Ambush | A second intercept on the road home — better organised than the first. This is the Reckoning, not the Restorers. A different faction, escalating. |
+
+**Pacing guide:** Scene 1 — 20–30 min. Scenes 2–3 combined — 30–45 min. Scene 4 — 20–30 min. Scene 5 — 15–20 min. Total: 90–120 min with transitions.
+
+**The through-line:** Players are being watched at every step. Every scene contains evidence that someone anticipated them. The ambush knew their route. The Archivist knew the door's answer. Sera knew they were coming. This is a city where news travels and fifty years of silence has built up pressure. Players aren't discovering a secret. They're entering a conversation that has been happening for fifty years without them.
+
+</details>
+
+---
 
 ## Scene 1 — Opening Combat: The Restorer Ambush
 
-<!-- SCENE HEADER BLOCK — place above <details> tabs -->
+**What players are doing:** Walking to the Civic Archive on their first day of the investigation — a route they chose themselves, or the Chancellor's aide recommended. They have just been hired. They have documents to retrieve. They have not yet encountered any opposition.
+
+**Why they're here:** The Archive holds Corven's restricted research on the ritual. The Chancellor's letter of introduction gets them access to the building. Getting into the restricted stacks requires solving the door. Getting to the door requires crossing the Lowmark Junction — which is where the ambush is waiting.
+
+**What's going on in the story:** Someone in the Restorer network was informed of the investigation within hours of the players' meeting with the Chancellor. Brother Edoran sent five people to intercept them — not to kill, to warn and delay. Edoran himself is watching from the east alley. He will not intervene in the fight. He wants to see what kind of people these are before deciding his next move.
 
 ---
+
+<details>
+<summary>🎯 Scene Purpose, Peak Moment & GM Notes</summary>
 
 **PURPOSE STATEMENT:** This scene exists to establish that someone already knows what the players are doing — and has decided to stop it before it starts. The ambush is not about violence; it is about the weight of organised opposition, and about planting the first seed of doubt: the people trying to stop this investigation may not be wrong.
 
@@ -41,7 +107,7 @@ Safe to improvise:
 - The zealots' individual fighting styles and banter (they're cultist stat blocks — make them feel fervent, not tactical)
 - Whether the queue disperses into the Archive side-street or the Lowmark market (either works for Scene 2 transition)
 
----
+</details>
 
 <details>
 <summary>🌍 Environment & Setup</summary>
