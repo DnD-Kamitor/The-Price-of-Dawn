@@ -2362,6 +2362,45 @@ The moment works when a player says "wait, I'm doing that instead" and the table
 
 ## Scene 2 — The Archive Door
 
+**What players are doing:** Walking to the Civic Archive — the destination they had before the ambush interrupted them. They have the Chancellor's letter of introduction. They know they need Corven's restricted research documents. They don't know what those documents say.
+
+**Why they're here:** The Archive holds the only surviving copies of the ritual design. Corven's restricted stacks were sealed eleven years ago after the last scholar who accessed them came out looking pale and never returned. Players have legal authority to enter. Getting to the documents requires solving the door.
+
+**What's going on in the story:** The ambush established that someone is watching. The Archive is the next step. Theron Waide (Master Archivist) has been maintaining the restricted stacks for eleven years — polishing the brass, keeping the oil fresh, never going in. He knows the door's answer and cannot bring himself to say it. Players are the first people in eleven years he has any reason to hope will say it instead.
+
+---
+
+<details>
+<summary>🎯 Scene Purpose & GM Notes</summary>
+
+**PURPOSE STATEMENT:** This scene exists to introduce the campaign's central word before players understand why it matters. The answer to the riddle is CONSENT. Players will say it to open a door. Later they will understand they were saying it about something far heavier.
+
+**EMOTIONAL TARGET:** Curiosity shading into unease. The door has been sealed for eleven years. The Archivist who knows the answer will not say it. Both of those facts should feel weighted before players know why.
+
+**DRAMATIC QUESTION:** Will you ask Theron why he never opened the door himself?
+
+**SURPRISE:** The riddle is not hard. The puzzle is not in the words — it's in Theron. He knows. He won't say it. When players solve it themselves, watch his face. He doesn't celebrate. He exhales.
+
+**DESIGNED PEAK MOMENT:** The door opening after someone says CONSENT for the first time. Hold a beat of silence after the word. Let the door swing before anyone speaks.
+
+**SECONDARY OBJECTIVE:** Get players to ask Theron why he never opened it. His answer: *"I knew the answer. I could not bring myself to say it out loud."* This is a preview of his Session 2 confession — he has been alone with the knowledge of what the ritual requires and has been unable to act on it.
+
+**PREP vs IMPROVISE:**
+
+Must prep:
+- The riddle text (exactly as written — carved above the door, not on a card)
+- Theron's two states: before discovery (closed, professional, evasive) and after the door opens (something releasing, like a long breath)
+- His answer if asked directly: "I knew what the word was." *[pause]* "I could not say it."
+
+Safe to improvise:
+- The junior clerk's personality (the one who directs players and leaves quickly)
+- How many wrong attempts before Theron appears (one is usually right — the tone triggers him)
+- Whether Theron helps players or just watches when they succeed
+
+</details>
+
+---
+
 <details>
 <summary>🌍 Environment & Setup</summary>
 
