@@ -2584,6 +2584,47 @@ The exhaustion from failed turns is a gentle clock, not a punishment. After two 
 
 ## Scene 4 — Sera Voss at the Dawnhall
 
+**What players are doing:** Walking back into the Lowmark from the Spire Quarter, documents in hand, heading to the Dawnhall. This was always the plan — the Chancellor's briefing named Sera Voss as a contact, someone who knows the Dawnborn community. Players are carrying terminology they can't decode yet ("living conduit mechanism," "distributed sympathetic anchors"). Sera is the first person they meet who might know what those phrases mean in human terms.
+
+**Why they're here:** The investigation requires understanding the Dawnborn — who they are, what they know, how they feel about the ritual question. Sera runs the primary care facility for grey sickness sufferers in the Lowmark and is herself Dawnborn, though players may not know this immediately. She was named as a trustworthy contact.
+
+**What's going on in the story:** Sera already knows they're coming. She heard about the Lowmark Junction ambush within an hour — word travels fast in the Lowmark, especially when it involves investigators hired by the Chancellor. She has been waiting, in some form, for exactly this visit for years. Not these specific people, but people like them. Someone who might actually do something with what she knows.
+
+---
+
+<details>
+<summary>🎯 Scene Purpose & GM Notes</summary>
+
+**PURPOSE STATEMENT:** This scene gives players a face before they learn what the ritual costs. Sera is the first Dawnborn they meet. Everything they discover in Session 2 about what the Dawnborn are and what completing the ritual requires — they will see Sera's face when they learn it.
+
+**EMOTIONAL TARGET:** Warmth, then weight. Sera is warm. The room she runs is warm. She is making soup for forty people and she has been doing this every night for years. That is the texture of who she is. The weight comes later — not in this scene, but from this scene. Players should want her to be okay.
+
+**DRAMATIC QUESTION:** Will you ask her something that isn't about the investigation?
+
+**SURPRISE:** She already knows. She already suspected. She is not in shock. She has been carrying this for a long time, and what she has been waiting for is not information — it is someone else knowing. *"I've been waiting to be told for a long time."* The waiting was not for news. The waiting was for company.
+
+**DESIGNED PEAK MOMENT:** The line: *"Whatever you find — come back and tell me. I've been waiting to be told for a long time."* She says it without drama. She picks up the ladle and goes back to work. That is the peak. Let the room be quiet.
+
+**SECONDARY OBJECTIVE:** Get players to ask something not investigation-related — about the scarf, the kitchen, her faith, the teenager with the ladle. Any personal question earns a relationship with Sera that pays dividends in Sessions 3–5. The GM's job is to make her feel like a person worth asking about.
+
+**IF PLAYERS ARE TRANSACTIONAL:** Sera answers their questions clearly, completely. She just doesn't offer more. The warmth is not indiscriminate — it is extended to people who are present in the room with her. Players who treat her as a source receive answers. They don't receive the scarf detail, the rice-with-herbs line, the way she touches the pendant. In Session 5, her stone activates last.
+
+**PREP vs IMPROVISE:**
+
+Must prep:
+- The yellow scarf (on the hook by the door, only yellow object in the room — plant it in the read-aloud)
+- The pendant (warm amber stone, not lit from within, visible at her collarbone if players are within 5 ft)
+- Her line: *"I've been waiting to be told for a long time."* — deliver it dry, into a natural pause, no buildup
+
+Safe to improvise:
+- The teenager with the ladle (he has done this before — he has a name if players ask: Davan, 16, grew up in the Dawnhall)
+- The specific food (root vegetable broth, onions cooked long, rice with herbs)
+- What Tomas Areth has said to her recently (she mentions him as "braver than he knows" if other Dawnborn come up)
+
+</details>
+
+---
+
 <details>
 <summary>🌍 Environment & Setup</summary>
 
