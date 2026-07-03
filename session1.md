@@ -2664,6 +2664,70 @@ The moment works when a player says "wait, I'm doing that instead" and the table
 </details>
 
 <details>
+<summary>⚡ Faction Intel — The Restorers in Scene 1</summary>
+
+**The Society for Ritual Restoration** — what this encounter reveals, and what players can find.
+
+---
+
+**Three wings. Two are present.**
+
+| Wing | Present in Scene 1 | Who |
+|---|---|---|
+| **The Grieving** (Moderate) | Yes | Edoran, Cultist B, Archer 1 |
+| **The Fanatics** (Jaret's people) | Yes | Cultist A, Archers 2 & 3 |
+| **The Idealists** | No | Not deployed for this type of operation |
+
+The Fanatic/Moderate split is *visible in how they fight* if players pay attention: Cultist A and Archers 2–3 are eager, emotionally charged, not quite disciplined. Edoran, Cultist B, and Archer 1 are controlled, professional, clearly prefer this ends without anyone bleeding.
+
+---
+
+**What skill checks reveal about the faction:**
+
+| Check | DC | What players learn |
+|---|---|---|
+| History or Religion (looking at the sun-disk tabards) | 10 | Society for Ritual Restoration — Auris-adjacent reformist group, thirty-year presence in Varenhold, legal and registered |
+| History or Religion | 14 | Their current leader is called Brother Edoran, former Auris priest. Moderates. Non-violent publicly. |
+| Insight (watching the NPCs interact) | 13 | The archers and Cultist A are not following the same unspoken rules as the others. Something in them wants this to go further than the Enforcer does. |
+| Insight on Edoran specifically | 15 | He knows about the note. He is not alarmed that players might reach it. He is watching to see if they do. |
+
+---
+
+**What players can loot / search (Scene 1 aftermath):**
+
+| Item | Found on | What it is | Player prop? |
+|---|---|---|---|
+| **Sealed Note** | Cultist A (belt pouch) | Edoran's handwriting, Auris scripture. *"The willing heart gives freely what the bound heart cannot."* | ✅ Already in Player Handouts |
+| **Sun-Disk Token** | Any cultist (inside coat pocket) | Small bronze disk, sun-ring pressed into it. One side: Restorer symbol. Other side: a number (cell identifier — means nothing yet, maps to Session 3). | ✅ New prop — see Player Handouts |
+| **Jaret's Dispatch** | Cultist A specifically (a folded note in his other pouch) | Internal operational note, aggressive tone, signed with a J-initial mark only. Shows the Fanatic wing exists and is running its own instructions parallel to Edoran's. | ✅ New prop — see Player Handouts |
+| **Archer's Coin** | Any archer | Standard city copper with a small notch filed into the edge — Restorer field recognition signal. Means nothing without knowing the convention. DC 14 Thieves' Cant or prior Restorer contact to identify it. | Describe but don't print — too subtle |
+
+---
+
+**Faction reputation consequences from Scene 1:**
+
+| Player action | Restorer reaction | Reckoning reaction |
+|---|---|---|
+| Let the warning stand (back off investigation briefly) | Edoran marks them as reasonable. Faster trust-gate in Session 2. | Reckoning hears they hesitated. Watchful. |
+| Fight cleanly, no civilians harmed | Neutral — Edoran respects the result | Neutral |
+| Harm civilians | Edoran increases field operations. Jaret's wing gets more latitude. | Reckoning gains a lever: "investigators who hurt people in the food queue" |
+| Capture Edoran / hold him | Factional crisis. Jaret immediately assumes leadership. The Fanatic wing escalates. Edoran will not negotiate his own release. | Reckoning sends an observer within hours. |
+| Kill any Restorer | Jaret's wing breaks from Edoran's control. Session 2 opens with a body somewhere players care about. | Compact puts a formal complaint on record with the Chancellor. |
+
+---
+
+**What players should be able to piece together after Scene 1:**
+
+- The group that attacked them is organized, has advance intelligence, and is not killing anyone
+- There are at least two different emotional registers in this group — professional restraint and something more urgent
+- The man who gave the speech knew they would not back down before he started
+- The note they tried to burn was written by the man who gave the speech (same hand, once compared — DC 13 History)
+
+They cannot yet name Edoran. They have his handwriting and his face.
+
+</details>
+
+<details>
 <summary>🎭 Player Moments — Scene 1</summary>
 
 *Pass these privately before or during the ambush. Each targets something specific to that character's background.*

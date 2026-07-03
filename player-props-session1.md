@@ -181,6 +181,56 @@ If you have questions, Jaret will answer them honestly.
 
 </div>
 
+---
+
+<div class="prop-card">
+<div class="prop-card-label">Restorer Sun-Disk Token — found inside a cultist's coat</div>
+
+*A small bronze disk, roughly the size of a coin but twice the thickness. Not currency — the face is too deliberate for that. One side bears a ring of rays pressed into the metal: a stylised sun, the Auris symbol common to all Restorer materials. The other side has a number stamped into it: **14**. Below the number, very faint, a second mark: a notch filed into the edge.*
+
+*The disk is worn smooth at the edges from being handled often. Someone has carried this a long time.*
+
+---
+
+> **One side:** Sun-ring (Restorer emblem — the same symbol on their pamphlets and the sealed note's wax).
+>
+> **Other side:** The number 14. No explanation. No name.
+>
+> **Edge:** One small notch, filed deliberately, at the three-o'clock position.
+
+*You don't know what the number means. The notch might be nothing. It might be how they know each other in a crowd.*
+
+</div>
+
+---
+
+<div class="prop-card">
+<div class="prop-card-label">Jaret's Dispatch — found in the note-carrier's second pouch</div>
+
+*A folded square of paper, sealed with a plain wax thumbprint — no symbol, no ring, just a print. Inside: a short operational note in a cramped, fast hand. Not the precise liturgical script of the sealed note. Someone writing quickly, for someone they trust.*
+
+---
+
+> **Field cell — Lowmark, morning of the 14th.**
+>
+> The investigators leave the Chancellor's building at the eighth hour. You know the route. Give the warning. If they don't stop — you know what to do with the paper.
+>
+> Brother E. wants them rattled, not stopped. That's his call to make.
+>
+> Mine is different.
+>
+> If the paper burns, we lose nothing we didn't already know they'd find eventually. If it doesn't — that's on him.
+>
+> The archers hold unless I signal. They won't signal. Don't wait for it.
+>
+> *— J*
+
+*No surname. No title. The initial only.*
+
+*The handwriting is not the same as the sealed note. Two different people. Two different ideas about what this morning was supposed to accomplish.*
+
+</div>
+
 <style>
 .prop-card {
   border: 1px solid #8b7355;
