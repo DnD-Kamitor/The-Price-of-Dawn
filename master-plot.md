@@ -1,527 +1,505 @@
 # The Price of Dawn — Master Plot Reference
 
-*GM document. Guy Sanders / theGreatGM structure. Not for players.*
+*GM document. theGreatGM / Guy Sanders structure. Not for players.*
+
+---
+
+<details>
+<summary>HOW TO READ THIS DOCUMENT — theGreatGM framework explained</summary>
+
+## What Is a Master Plot?
+
+theGreatGM's core principle: **there is no plot, only plans.** A plot is something the GM controls. Plans are what NPCs want — and plans get disrupted by players. Your job is not to write a story. Your job is to know what every major NPC wants badly enough to act on, then let players collide with those plans.
+
+The Master Plot is the map of those colliding plans. It tells you what each faction would do if the players were never hired. Then players arrive and everything changes.
+
+## The Three Planning Entities
+
+Every scene has at least one of these in motion:
+
+| Entity | What They Have | Example in This Campaign |
+|--------|---------------|--------------------------|
+| **BBEG / NPC** | A goal + a deadline + resistance | Keseph delaying the ritual indefinitely; Harran's 14-day ultimatum |
+| **Player Characters** | Their own objectives (which NPCs will oppose) | Find the truth about the ritual; protect the Dawnborn |
+| **The World** | Natural events with their own timeline | Grey sickness progression; food stores depleting; rationing beginning |
+
+The "Do Nothing" timeline in this document is the world's plan if players are passive.
+
+## OGAS — How NPCs Are Built
+
+Every major NPC in this campaign has an OGAS profile. When you don't know how an NPC will react, go to their OGAS.
+
+| Letter | Stands For | What It Means |
+|--------|-----------|---------------|
+| **O** | Occupation | What fills their daily life — shapes their skills, knowledge, and what they talk about |
+| **G** | Goal | What they want (short-term and long-term) — drives every decision |
+| **A** | Attitude | Their general worldview and how they treat people — how they appear in 99% of encounters |
+| **S** | Secret (or Stake) | What they're hiding, OR how hard they'll fight to protect their goal |
+
+## Want / Fear / Lie — The Three Questions
+
+Before every scene with a significant NPC, answer these three questions:
+
+1. **What does this NPC want from this scene?**
+2. **What are they afraid of?**
+3. **What are they not saying?** (What would change their position if the players found out?)
+
+These three things will let you follow players anywhere. If you know Theron's want (the shelf to be opened by someone else), fear (being the one who condemns ten people), and lie (presenting his silence as procedural rather than personal), you can improvise every version of Scene 2 and 3.
+
+## Combat-Puzzle-RP — Session Structure
+
+theGreatGM's sessions contain all three encounter types. Each session in this campaign is designed around this pattern:
+
+| Type | What It Is | What It Gives Players |
+|------|-----------|----------------------|
+| **Combat** | A fight with a secondary objective that matters more than winning | Action, stakes, the feeling of protecting something |
+| **Puzzle** | A lock, a mechanism, a mystery to decode | Exploration, cleverness, the Archive's depth |
+| **RP** | A conversation that changes something | Relationship, information, the human cost of the dilemma |
+
+Session 1: Combat (Restorer ambush) → Puzzle (consent door) → Puzzle/RP (star-wheel + Theron).
+
+**Secondary objectives** matter. The secondary objective in the Session 1 ambush is: retrieve Edoran's note without destroying it. A player who only fights misses the note. The note is the players' first evidence that Edoran is not simply a fanatic.
+
+## Five-Senses Scene Openings
+
+Every scene in this campaign opens with sensory detail before mechanics. The restricted stacks open with smell (cedar, old paper), sound (silence that has texture), and sight (amber light sitting flat). Players should feel where they are before they know what to do there.
+
+## The Sentence
+
+The logline — *"Ten people are carrying the sun inside them. The city needs it back. Whose choice is that to make?"* — is the campaign's anchor sentence. Every NPC, every faction, every scene is answering this question differently. When you don't know what a scene is for, ask: how does this moment address the sentence?
+
+</details>
 
 ---
 
 ## The Logline
 
-Ten people are carrying the sun inside them. The city needs it back. Whose choice is that to make?
+*Ten people are carrying the sun inside them. The city needs it back. Whose choice is that to make?*
 
 ---
 
-## The Story Spine
+<details>
+<summary>STORY SPINE — The campaign in sixty seconds</summary>
 
-One sentence per beat. This is the campaign in sixty seconds.
+One sentence per beat. The whole campaign.
 
 | Beat | Session | Sentence |
 |------|---------|----------|
 | **Inciting Incident** | 1 | Hired investigators arrive in Varenhold and discover that the fifty-year ritual failure was not a failure — the sun's energy redirected into ten living people who have spent their entire lives as the city's symbols of hope. |
-| **Rising Action 1** | 2 | The cost of completion lands: the Archivist confesses eleven years of silence, the Reckoning escalates to violence, and the players must decide whether to carry this knowledge or bury it. |
+| **Rising Action 1** | 2 | The cost lands: the Archivist confesses eleven years of silence, the Reckoning escalates to violence, and players must decide whether to carry this knowledge or bury it. |
 | **Rising Action 2** | 3 | Three paths forward emerge, none clean — transfer the energy, split the burden, or pursue an inversion requiring unanimous free consent — while the hidden profiteer's bureaucratic interference begins closing doors. |
-| **Rising Action 3** | 4 | Everything converges at the Ashring: the Primer Stone reveals the Inversion path, Harran forces a confrontation, and players uncover who has been funding the chaos — Warden Keseph Vyne, backed by Solenne money. |
-| **Climax** | 5 | At the ritual site, with time running out, the players stand before the Dawnborn and execute whatever choice they have built toward across four sessions — and discover whether the people they fought for chose freely. |
+| **Rising Action 3** | 4 | Everything converges at the Ashring: the Primer Stone reveals the Inversion path, Harran forces a confrontation, players uncover who has been funding the chaos — Warden Keseph Vyne, backed by Solenne money. |
+| **Climax** | 5 | At the ritual site, with time running out, players stand before the Dawnborn and execute whatever choice they have built toward across four sessions — and discover whether the people they fought for chose freely. |
 | **Resolution** | Post-5 | The sun returns or it doesn't, and the city must live with what was chosen — including who chose it, and whether they got to. |
 
----
+**The arc in one line:** Sessions 1–2 discover and collect. Sessions 3–4 deliver what was collected and thwart those who'd make the choice unilaterally. Session 5 is pure delivery — everything players built, given at once.
 
-## The Big Bad — Three-Layer Antagonist Structure
-
-This campaign does not have one villain. It has three, each answering a different question about power and who gets to decide.
+</details>
 
 ---
 
-### Layer 1 — The Hidden Enemy: Warden Keseph Vyne
+<details>
+<summary>THE THREE ANTAGONISTS — OGAS profiles and want/fear/lie</summary>
 
-| Letter | Stands For | Detail |
-|--------|-----------|--------|
-| **O** | Occupation | Senior Warden of the Amber Compact; Varenhold's most influential trade arbitrator; unofficial gatekeeper of Spire research funding |
-| **G** | Goal | Keep the ritual unsolved. Not forever — indefinitely. Each year of twilight is another year of Compact dependency, another year Solenne's grain guarantees hold, another year the amber workshops produce for export instead of self-sufficiency. He does not hate Varenhold. He has simply built his life on its inability to save itself. |
-| **A** | Attitude | Invisible. Players will not meet Keseph until Session 4-5. Before then, they will meet his bureaucracy: access denials, revoked licenses, competing claims filed three hours after they are spotted entering the Spire. If confronted directly, he is courteous, regretful, procedurally immovable. He treats the players as people doing a job he cannot allow to succeed. |
-| **S** | Secret | He is funded by Solenne. The Compact's credit infrastructure in Varenhold is backed by Solenne grain guarantees — guarantees that become worthless the moment Varenhold restores its agricultural capacity. Keseph has been receiving ~800 amber script over six years through the Compact's external liaison office, justified as "diplomatic continuity fees." He knows exactly what it is. He has told himself it is simply good statecraft. |
-
-**Want:** The ritual to remain in institutional limbo for another decade — long enough that the question of consent becomes moot because the Dawnborn die of twilight exposure like everyone else.
-
-**Fear:** Players assembling a complete picture: Solenne funding + his Archive interference + Isolde's suppressed research + the mercenary contracts = the evidence chain that ends his career and possibly his freedom.
-
-**Lies about:** His concern for the ritual's "procedural legitimacy." He invokes institutional process as a weapon. Every delay he creates is framed as protecting the Dawnborn from a rushed decision. This is the most dangerous kind of lie — partly true.
-
-**Solenne's Motive:** Solenne is not Varenhold's enemy. It is simply its creditor. For twenty years, Varenhold's twilight has meant Solenne controls the grain supply that keeps the city fed. Solenne's merchant houses hold the debt instruments that back the Compact. Varenhold producing its own food, restoring its own light, renegotiating its own trade terms — all of this restructures a relationship that has been very profitable for Solenne. Solenne's Chancellor has never ordered Keseph to suppress the ritual. She has simply made clear, twice, in private, that she hopes "the transition, when it comes, is managed carefully." Keseph is the management.
-
-**Harran's Knowledge Source:** Harran knows about Isolde's transfer method through Varren Aldiss, a former Spire scholar who was on Isolde's original project team before Keseph's institutional review shut down the research. Varren was dismissed, radicalised, and now feeds Harran information on what the Spire actually knows versus what it publishes. This is why Harran is so certain: he has inside knowledge. It is also why he is so certain the transfer method is insufficient — Varren told him about the 15-20% mortality risk, and Harran decided this was "nearly the same as forced consent anyway."
-
-**Active Plan (what Keseph is doing right now):**
-- *Has done:* Suppressed Isolde's transfer research via institutional review; redirected Spire funding from active ritual research to ceremonial archive maintenance; maintained the Archive restriction on pre-failure ritual documents for eleven years
-- *Is doing:* Filing bureaucratic challenges to players' research access; using the Compact's Solenne liaison to slow any findings that reach the Chancellor; monitoring players via a Warden aide named Davan Crel
-- *Will do:* Activate Solenne mercenary contact in Session 4; deploy six mercenaries to Ashring perimeter; file a formal challenge to the ritual proceeding "without institutional oversight"
-
-**What Winning Looks Like:** If Keseph succeeds — if the ritual remains unsolved and the Dawnborn die of twilight exposure over the next decade — Varenhold in Year 60 is a client city. The Compact controls its credit. Solenne controls its grain. The amber workshops produce for export. The Spire survives as a ceremonial institution that validates Warden decisions rather than challenges them. Keseph himself is dead by then. His model isn't. The city is safest, he believes, when it cannot imagine solving its own problems.
-
-**Early Clues (Sessions 1-3) — Players Feel Keseph Before They Know Him:**
-
-*Session 1:* Players ask the Archive for access to pre-failure ritual research. A polite clerk explains the relevant collection is "temporarily restricted pending institutional review" — a review that has been pending for eleven years. The clerk doesn't know who filed it. Theron knows but won't say yet.
-
-*Session 2:* Players seeking Isolde Maren find her lab on the third Spire tier has been "reassigned to archive purposes." Her current location: a rented room in the Ashring district, working from personal notes because her institutional access was revoked two years ago. The revocation letter is signed "Office of the Senior Warden, Institutional Integrity Review." DC 15 Investigation reveals this office was created specifically to review Isolde's lab and has never reviewed anything else.
-
-*Session 3:* A player attempting official access to the Primer Stone vault is met by Warden's aide Davan Crel, who explains a "competing access claim" was filed that morning — someone else requested priority access to the same materials. Cross-referencing Compact records (DC 14 History) reveals the filing came from the office of Warden Keseph Vyne, three hours after players were seen entering the Spire.
-
-**theGreatGM note:** Keseph should not be a cartoon. He genuinely believes the city *benefits* from Spire expertise — he has told himself for twenty years that he is managing the crisis, not prolonging it. The moment that breaks him is when the players show him that Isolde's method would have worked three years ago. He goes quiet. That quiet is worse than an argument.
+This campaign has three antagonists, each answering the central question differently. They are not allies. They will conflict with each other. Let them.
 
 ---
 
-### Layer 2 — The Catalyst Antagonist: Commander Harran Lecht
+## Layer 1 — The Hidden Enemy: Warden Keseph Vyne
 
-**What he is:** Leader of the Reckoning — a radical faction that believes the Dawnborn's consent is irrelevant when ten thousand lives are at stake.
+**The sentence:** He has built his life on Varenhold's inability to save itself, and he calls it good stewardship.
 
-**Why he is the moral challenge:** He is not wrong about the arithmetic. He is wrong about the authority. Every player at the table who has ever made a consequentialist argument will find themselves nodding at Harran and then catching themselves.
+**OGAS:**
+- **O — Occupation:** Senior Warden of the Amber Compact; Varenhold's most influential trade arbitrator; unofficial gatekeeper of Spire research funding
+- **G — Goal:** Keep the ritual unsolved indefinitely. Each year of twilight is another year of Compact dependency, another year Solenne's grain guarantees hold, another year the amber workshops produce for export instead of self-sufficiency
+- **A — Attitude:** Invisible. Courteous, regretful, procedurally immovable when met directly. Treats players as people doing a job he cannot allow to succeed — not as enemies, as obstacles
+- **S — Secret:** Funded by Solenne. ~800 amber script per year through the Compact's external liaison office, justified as "diplomatic continuity fees." He knows exactly what it is. He has told himself it is simply good statecraft.
 
-**What he wants:** The ritual. Now. Without the conversation about consent that he considers a luxury the city can't afford.
+**Want:** The ritual to remain in institutional limbo for another decade — long enough that the question of consent becomes moot because the Dawnborn die of twilight exposure.
 
-**What he fears:** Losing control of his own people. The Reckoning's fanatic wing (Jaret's mob) is more extreme than he is and cannot be controlled once activated.
+**Fear:** Players assembling the full evidence chain: Solenne funding + Archive interference + Isolde's suppressed research + mercenary contracts.
 
-**What he will lie about:** That there is no other option. He knows about Isolde's method. He does not mention it.
+**Lie:** *"I'm protecting the Dawnborn from a rushed decision."* Invokes institutional process as a weapon. Every delay framed as care. This is the most dangerous kind of lie — partly true.
 
-**His encounter beat:** When Harran is defeated or captured, he says one thing before he stops talking: *"When the city collapses in six months, tell me which principle saved it."* He is not wrong that there is a clock. He is wrong about who gets to decide when it runs out.
+**Active plan:**
+- *Done:* Suppressed Isolde's transfer research; redirected Spire funding; maintained Archive restriction for 11 years
+- *Doing:* Filing bureaucratic challenges; monitoring players via aide Davan Crel; using Solenne liaison to slow findings reaching the Chancellor
+- *Will do:* Activate Solenne mercenary contact in Session 4; deploy six mercenaries to Ashring; file formal challenge to the ritual proceeding
 
-> **GM Note:** Commander Harran requires a full OGAS entry in `npcs.md` — he is currently the most mechanically present antagonist in the campaign (forces confrontations in Sessions 2 and 4) without a character sheet. Add his entry with: sample dialogue, attitude shift table based on ritual progress, and the skill gates for his two confrontation scenes. Key beats: his internal 14-day deadline (players can learn this), his Spire contact Varren Aldiss (discoverable), and the moment he realizes his own people have gone further than he intended.
->
-> **His lie:** "There is no other option." He knows about Isolde's method. He chose not to offer it because it gives the Dawnborn leverage to stall. He is not wrong about the math. He is wrong about what the math means.
+**Players feel him before they meet him:**
+- *Session 1:* Archive access "pending institutional review" — pending for 11 years. Clerk doesn't know who filed it. Theron knows.
+- *Session 2:* Isolde's lab "reassigned to archive purposes." Revocation letter signed "Office of the Senior Warden, Institutional Integrity Review" — an office created specifically to review her lab and never used for anything else.
+- *Session 3:* A competing access claim to the Primer Stone vault, filed three hours after players enter the Spire.
 
----
-
-### Layer 3 — The Tragic Antagonist: Brother Edoran
-
-**What he is:** Former Auris priest. Father of a daughter who died of grey sickness at seventeen. Leader of the Restorers.
-
-**Why he is the most dangerous antagonist:** He is partly right, he grieves authentically, and he has had twenty years to make his argument coherent. Players who engage seriously with him will find themselves unable to dismiss him — which makes his central error (overriding consent) harder to name.
-
-**What he wants:** The ritual. He calls it honouring the Dawnborn's death by making it purposeful. He means it.
-
-**What he fears:** Being asked whether the daughter whose death shaped his theology would have agreed with him.
-
-**What he will lie about:** His personal stake. He presents the Restorer position as philosophy. It is grief.
-
-**The crack:** *"If the Dawnborn should choose for themselves — why did your daughter not get to choose?"* This is the question that reaches him. It does not change his mind. It stops him from arguing for the rest of the scene.
+**The moment that breaks him:** Show him that Isolde's method would have worked three years ago. He goes quiet. That quiet is worse than an argument.
 
 ---
 
-## The Overall Plot — Five-Session Spine
+## Layer 2 — The Catalyst Antagonist: Commander Harran Lecht
 
-Every scene: stakes. Every NPC: want / fear / lie. Every encounter: secondary objective. Every opening: five senses first.
+**The sentence:** He is not wrong about the arithmetic. He is wrong about the authority.
+
+**OGAS:**
+- **O — Occupation:** Commander of the Reckoning — a radical faction drilling in the old foundry, operating on an internal 14-day deadline
+- **G — Goal:** The ritual. Now. Without the consent conversation he considers a luxury the city can't afford
+- **A — Attitude:** Professional. Serious. Treats the moral objection to his position as a logistical problem. Every player who has ever made a consequentialist argument will find themselves nodding at Harran and then catching themselves.
+- **S — Secret:** He knows about Isolde's transfer method. He does not mention it because it gives the Dawnborn leverage to stall.
+
+**Want:** The ritual completed before the food stores fail.
+
+**Fear:** Losing control of his own people. The Reckoning's fanatic wing (Jaret's mob) is more extreme than he is and cannot be controlled once activated.
+
+**Lie:** *"There is no other option."*
+
+**His encounter beat:** When defeated or captured — *"When the city collapses in six months, tell me which principle saved it."* He is not wrong that there is a clock. He is wrong about who gets to decide when it runs out.
+
+**Intelligence source:** Varren Aldiss — former Spire scholar on Isolde's original project team, dismissed, radicalised, now feeds Harran what the Spire actually knows. This is why Harran is so certain. It is also why he is so certain the transfer method is insufficient — Varren told him about the 15–20% mortality risk.
 
 ---
 
-### Session 1 — Into the Dark (L4)
+## Layer 3 — The Tragic Antagonist: Brother Edoran
+
+**The sentence:** He is partly right, he grieves authentically, and he has had twenty years to make his argument coherent.
+
+**OGAS:**
+- **O — Occupation:** Former Auris priest; leader of the Restorers — a theological movement 20 years in the building
+- **G — Goal:** The ritual, framed as honouring the Dawnborn's death by making it purposeful. He means it.
+- **A — Attitude:** Patient, certain, grieving. Presents his position as philosophy. Players who engage seriously will find themselves unable to dismiss him.
+- **S — Secret:** His personal stake. His daughter died of grey sickness at 17. This is grief organized into certainty, not theology that arrived at grief.
+
+**Want:** The ritual honoured. His daughter's death made meaningful through the Dawnborn's willing completion.
+
+**Fear:** Being asked whether his daughter would have agreed with him.
+
+**Lie:** Presents the Restorer position as abstract theology. It is personal.
+
+**The crack:** *"If the Dawnborn should choose for themselves — why did your daughter not get to choose?"* This does not change his mind. It stops him arguing for the rest of the scene.
+
+---
+
+## Antagonist Interaction Map
+
+The three antagonists don't operate as a unified faction. When they conflict directly (Harran arrests Edoran; Restorers attack Keseph's mercenaries) — let it happen. Players should not feel like the only force in motion.
+
+| If players try to... | Edoran | Harran | Keseph |
+|---------------------|--------|--------|--------|
+| Delay the ritual | Patient — time is on his side | Escalates — the clock is his argument | Quietly approves — delay is his business model |
+| Expose Spire interference | Interested and angry | Irrelevant — doesn't care about Spire politics | Catastrophic alarm — acts immediately |
+| Prove the inversion works | Genuine consideration | Skeptical — consent is a delay tactic | Desperate obstruction — successful ritual ends his income |
+| Gain the Dawnborn's trust | Grudging respect | Contempt for the process | Panic |
+
+</details>
+
+---
+
+<details>
+<summary>FIVE-SESSION PLAN — Scene by scene, what each session must do</summary>
+
+## Session 1 — Into the Dark (L4)
 *Dilemma: Is hope worth chasing when it might cost everything?*
 
-**The scene that matters:** The Chancellor hires the players with carefully maintained ignorance. She has the answer. She does not want to look at it directly. The players take the job before they understand it — which is exactly what the Chancellor did eleven years ago.
+**What must land:** Players must fall in love with Sera Voss. The Dawnborn. The idea that the sun might come back. The dilemma only works when hope is real. Do not reveal the cost yet.
 
-**What the players must fall in love with:** Sera Voss. The Dawnborn. The idea that the sun might come back.
+**Three encounters (Combat → Puzzle → Puzzle/RP):**
+1. Restorer ambush — secondary objective: get Edoran's note without destroying it
+2. Consent door — word is CONSENT; Theron knows it; won't say it
+3. Star-wheel mechanism — three-ring astronomical puzzle; Theron's 11-year moment; "living conduit" lands as the last phrase
 
-**The reveal held back:** The cost. Do not tell them yet. Let hope be real. The dilemma only lands when hope is real.
+**Five senses:** Amber lanternlight, lamp oil, polished wood, the distant sound of Dawnhall stewards calling names at the food registry.
 
-**Five senses:** Amber lanternlight, lamp oil, polished wood, the distant sound of Dawnhall stewards calling names at the food registry. No shadows. The particular silence of a city listening for something.
-
-**Session encounter beat:** The Restorer ambush in Scene 4. Secondary objective: get Edoran's note without destroying it. The note is the players' first hint that Edoran is not simply a fanatic.
+**Held back:** The cost. Do not tell them yet.
 
 ---
 
-### Session 2 — The Weight of Light (L5)
+## Session 2 — The Weight of Light (L5)
 *Dilemma: Do you have the right to decide someone else's fate, even to save thousands?*
 
-**The scene that matters:** Theron Waide's confession. He has known for eleven years. He did not tell anyone because he could not bear to be the one who condemned ten people. *"I've been waiting for someone with enough courage — or ignorance — to investigate seriously."*
+**The scene that matters:** Theron Waide's confession. He has known for eleven years. *"I've been waiting for someone with enough courage — or ignorance — to investigate seriously."*
 
-**The cost lands:** The players now know the Dawnborn are the ritual. They carry this. What they do with it shapes everything.
+**What changes:** Players now know the Dawnborn are the ritual. They carry this. What they do with it shapes everything.
 
-**The Reckoning escalates:** First direct confrontation with Harran's people. Secondary objective: protect Theron, not defeat the soldiers.
+**Secondary objective in every combat:** Protect Theron and the documents — not defeating the Reckoning soldiers.
 
-**Session encounter beat:** The moment after Theron tells them. The silence. Ask the table: *"What does your character do with this information in the next five minutes?"* Not rhetorically — ask.
+**The beat:** The moment after Theron tells them. The silence. Ask the table: *"What does your character do with this information in the next five minutes?"* Not rhetorically. Ask.
 
 ---
 
-### Session 3 — Lesser Evils (L6)
+## Session 3 — Lesser Evils (L6)
 *Dilemma: Is a "lesser evil" still evil? How far do you compromise?*
 
 **The three paths:**
 
 | Path | What It Offers | What It Costs |
 |------|---------------|---------------|
-| **Partial Ritual** (Theron) | Restore partial sunlight, extend the window | Doesn't solve it; buys time at spiritual cost |
-| **Transfer Method** (Isolde) | Move anchor energy to objects; Dawnborn survive | 15–20% chance one or two still die; Keseph is obstructing this |
-| **Willing Sacrifice** (Edoran) | Consenting Dawnborn complete the ritual | Requires full consent from the willing; cannot include unwilling |
+| Partial Ritual (Theron) | Restore partial sunlight, extend the window | Doesn't solve it; buys time at spiritual cost |
+| Transfer Method (Isolde) | Move anchor energy to objects; Dawnborn survive | 15–20% chance one or two still die; Keseph is obstructing this |
+| Willing Sacrifice (Edoran) | Consenting Dawnborn complete the ritual | Requires genuine free consent; cannot include the unwilling |
 
 **The Sera / Lira scene:** The argument between the willing and the unwilling. Do not resolve it. Let it be unresolvable. That is the point.
 
-**Session encounter beat:** Senna Kard's mob. Secondary objective: de-escalate without violence if possible. Senna is a radicalized mother, not a soldier — she can be reached. Reaching her costs the players something (time, position, a concession) but closes a door to Cascade Failure.
+**Secondary objective:** De-escalate Senna Kard's mob without violence if possible. She is a radicalised mother, not a soldier — she can be reached. Reaching her costs the players something but closes a door to Cascade Failure.
 
 ---
 
-### Session 4 — The Breaking Point (L7)
+## Session 4 — The Breaking Point (L7)
 *Dilemma: What do you owe to people who choose to sacrifice themselves?*
 
-**The convergence:** Everything the players chose in Sessions 1–3 arrives simultaneously. Track consequences, not successes.
+**The convergence:** Everything players chose in Sessions 1–3 arrives simultaneously. Track consequences, not successes.
 
-**The Primer Stone reveal:** The hidden pathway. All ten willing simultaneously. This is the inversion. This is the route to the ending where no one dies — and it requires every single Dawnborn, including Lira, including Cormac, including the one who ran.
+**Key beats:**
+- **Primer Stone reveal:** The hidden inversion pathway. All ten willing simultaneously.
+- **Chancellor's ultimatum:** Seven-day clock. Food stores at 35%. Moderate wing of the Desperate collapses.
+- **The Reckoning strikes at the Ashring:** Secondary objective — keep Aldric Stone safe, not defeating Harran.
 
-**The Chancellor's ultimatum:** The seven-day clock. When rationing begins, the moderate wing of the Desperate collapses. She is watching this and so should the players.
-
-**Session encounter beat:** The Reckoning strikes at the Ashring. Secondary objective: keep Aldric Stone safe — not defeating Harran. A player who only fights misses why this encounter matters.
+**Cormac's window:** Last chance before Session 5. His stone stays dim without genuine re-consent. Sitting with him and asking again costs 30 minutes of scene time.
 
 ---
 
-### Session 5 — The Price of Dawn (L8)
+## Session 5 — The Price of Dawn (L8)
 *Dilemma: When the "right" choice and the "good" choice are different, which do you make?*
 
-**Corven's letter:** Six minutes. He spent them writing this. *"No one should be forced."* In his own hand. Players who think about what that means — that the architect of this situation spent his last six minutes on a consent clause — are doing the work.
+**Corven's letter:** Six minutes. He spent them writing this. *"No one should be forced."* In his own hand.
 
-**The Inversion Circle:** Not a puzzle about magic. A puzzle about relationships. Cannot be solved by dice. Can only be solved by conversations that happened in Sessions 1–4.
+**The Inversion Circle:** Not a puzzle about magic. A puzzle about relationships. Cannot be solved by dice. Can only be solved by conversations that happened in Sessions 1–4. If Lira has not been reached, her stone stays cold.
 
-**The Last Stand:** Whoever hasn't been neutralised comes now (Reckoning, Desperate, or Keseph's mercenaries). Three secondary objectives: keep Dawnborn at their stones, protect the central dais, get the activation signal out.
+**The Last Stand:** Reckoning, Desperate, or Keseph's mercenaries. Three secondary objectives: keep Dawnborn at their stones, protect the central dais, get the activation signal out.
 
 **The activation signal:** Players choose the word or phrase. This is the last meaningful decision of the campaign. Make it theirs.
 
-**The debrief:** Not optional. The fifteen minutes after the final scene are part of the experience. Ask the question from Session 5's dilemma directly: *"When the right choice and the good choice were different — which did your character make? Do they know?"*
+**The debrief (not optional):** The fifteen minutes after the final scene are part of the experience. *"When the right choice and the good choice were different — which did your character make? Do they know?"*
+
+</details>
 
 ---
 
-## The "Do Nothing" Timeline
+<details>
+<summary>THE ENDINGS — Six outcomes and what each means</summary>
 
-If players are passive or slow, Varenhold does not wait. Use this table to apply pressure between sessions.
+Most campaigns blend two or three endings. The matrix is a guide, not a rail.
+
+| # | Name | Conditions | What Happens | What It Means |
+|---|------|-----------|-------------|---------------|
+| **A** | The Willing Sacrifice | Consenting Dawnborn complete ritual | Sun returns. Some die. Both things are true simultaneously. | The city grieves and celebrates simultaneously. Who truly chose, who was persuaded, who was pressured — do the players know the difference? |
+| **B** | The Inversion | All ten freely consent — no coercion | Sun returns. No one dies. | Possible. The hardest path. Requires genuinely earning every Dawnborn's trust including Lira's. |
+| **C** | The Transfer | Isolde's method completed in time | Sun returns. 15–20% chance one or two Dawnborn die anyway. | Workable. Unglamorous. Liveable. Science instead of hope. |
+| **D** | The Refusal | Players protect Dawnborn over ritual | Sun stays dark. Grey sickness progresses. City adapts, or doesn't. | A valid ending. It says Dawnborn lives are worth more than the city's comfort. |
+| **E** | Cascade Failure | Reckoning forces unwilling Dawnborn | Cooperative resonance breaks. All ten die. Ritual fails. Sun doesn't return. | What happens when "whoever has the most soldiers" gets to decide. |
+| **F** | The Long Dark | No path pursued; city collapses | Inaction is a choice. It has consequences. | Players ran out of time or chose inaction. Not a failure — a different kind of answer. |
+
+</details>
+
+---
+
+<details>
+<summary>THE PRESSURE CLOCK — What happens if players are slow</summary>
+
+Varenhold does not wait. Apply between sessions to show the world moving with or without the players.
 
 | Week | City State | Keseph | Harran | Edoran |
 |------|-----------|--------|--------|--------|
-| **Week 0** *(before Session 1)* | Grey sickness at 8%; food stores 65%; Dawnborn celebrated at public Dawning | Suppresses latest Spire energy-transfer paper; redirects funding from Isolde's lab to ceremonial archive maintenance | Recruits two ex-guard sergeants; begins drilling Reckoning members at the old foundry | Organizes prayer vigil; privately meets Ysel to confirm her continued willingness |
-| **Week 1** *(S1→S2)* | Grey sickness ticks to 9%; Healing House turns away patients for capacity; Dawning attendance drops | Calls in Compact favor to delay players' Archive access permit two days | Identifies players as threat after Archive visit; has them followed from Session 1 close | Hears players met Theron; sends Cormac to "accidentally" cross their path |
-| **Week 2** *(S2→S3)* | Rationing discussion begins in Council; Restorer sermon attendance doubles; Reckoning graffiti appears in Lowmark | Files bureaucratic challenge to Isolde's lab operational license; tips Reckoning to Spire access attempt | Sends warning to Dawnborn: players cannot protect them; begins organizing forced-ritual timeline | Calls emergency Restorer convocation; presents "moment of willingness" theology publicly for first time |
-| **Week 3** *(S3→S4)* | Food stores hit 50%; Chancellor cancels non-essential Council sessions; Ashfen Clan representatives withdraw | Activates Solenne contact; requests six mercenaries; attempts to have players removed via immigration review | Posts Reckoning guards at Ashring approach roads; issues internal 14-day ultimatum | Visits Lira at home; leaves without speaking; Lira knows what he came to ask |
-| **Week 4** *(S4→S5)* | Chancellor's seven-day ultimatum issued; food stores 35%; grey sickness 12%; city guard mobilized | Mercenaries arrive; deploys to Ashring perimeter; tells Council "outside interference has been engaged to secure the ritual site" | Moves Reckoning to Ashring — point of no return; will not leave without a ritual | Refuses to attend the Ashring; tells network: "If they go without asking the last three, it will fail. We will deserve what we get." |
+| **Week 0** *(before S1)* | Grey sickness 8%; food stores 65%; Dawnborn celebrated at public Dawning | Suppresses latest Spire energy-transfer paper; redirects funding from Isolde's lab | Recruits two ex-guard sergeants; begins drilling at the old foundry | Organizes prayer vigil; privately meets Ysel to confirm her continued willingness |
+| **Week 1** *(S1→S2)* | Grey sickness 9%; Healing House turns away patients; Dawning attendance drops | Calls in Compact favour to delay players' Archive access permit two days | Identifies players as threat; has them followed | Hears players met Theron; sends Cormac to cross their path |
+| **Week 2** *(S2→S3)* | Rationing discussion begins; Restorer sermon attendance doubles; Reckoning graffiti in Lowmark | Files challenge to Isolde's lab license; tips Reckoning to Spire access attempt | Sends warning to Dawnborn; begins forced-ritual timeline | Calls emergency Restorer convocation; presents "moment of willingness" theology publicly |
+| **Week 3** *(S3→S4)* | Food stores 50%; Chancellor cancels non-essential Council sessions; Ashfen Clan representatives withdraw | Activates Solenne contact; requests six mercenaries; attempts to have players removed via immigration review | Posts Reckoning guards at Ashring roads; issues internal 14-day ultimatum | Visits Lira at home; leaves without speaking. She knows what he came to ask. |
+| **Week 4** *(S4→S5)* | Chancellor's seven-day ultimatum; food stores 35%; grey sickness 12%; city guard mobilised | Mercenaries arrive; deployed to Ashring perimeter; tells Council "outside interference has been engaged" | Moves Reckoning to Ashring — point of no return; will not leave without a ritual | Refuses to attend the Ashring: *"If they go without asking the last three, it will fail. We will deserve what we get."* |
+
+</details>
 
 ---
 
-## The Endings
+<details>
+<summary>THE DAWNBORN — Ten individuals, ten different answers</summary>
 
-| # | Name | Conditions | What Happens |
-|---|------|-----------|-------------|
-| **A** | The Willing Sacrifice | Consenting Dawnborn complete ritual | Sun returns. Some die. Both things are true simultaneously. The city grieves and celebrates. |
-| **B** | The Inversion | All ten freely consent — no coercion | Sun returns. No one dies. Possible. The hardest path. Requires genuinely earning every Dawnborn's trust including Lira's. |
-| **C** | The Transfer | Isolde's method is completed in time | Sun returns. 15–20% chance one or two Dawnborn die anyway. Workable. Unglamorous. Liveable. |
-| **D** | The Refusal | Players protect Dawnborn over ritual | Sun stays dark. Grey sickness progresses. The city adapts, or doesn't. A valid ending. It says Dawnborn lives are worth more than the city's comfort. |
-| **E** | Cascade Failure | Reckoning forces unwilling Dawnborn | Cooperative resonance breaks. Uncontrolled discharge. All ten die. The ritual fails. The sun doesn't return. What happens when "whoever has the most soldiers" gets to decide. |
-| **F** | The Long Dark | No path pursued; city collapses | The players ran out of time or chose inaction. Not a failure — inaction is a choice, and it has consequences. |
+The Dawnborn are not a group. Each has arrived at their own position separately. Every yes and no is different.
 
-*Most campaigns blend two or three endings. The matrix is a guide, not a rail.*
+**Five surge-phase Dawnborn** carry double the energy load: Sera, Tomas, Ysel, Lira, Petra. Relevant to Tomas's Asymmetry path.
+
+| Name | Role | Position | Key Scene |
+|------|------|----------|-----------|
+| **Sera Voss** | Runs the Dawnhall | Willing | Players meet her Session 1. Assumes competence and goodwill until proved otherwise — the most disarming thing imaginable. |
+| **Tomas Areth** | Scholar | Willing — has done the math; writing his will | His coded Asymmetry Journal is a key Session 2–4 discovery |
+| **Ysel Thanis** | Community organiser | Willing (complicated) | Told Edoran yes months ago. Waiting for someone to ask if her consent was genuinely free. |
+| **Cormac Ossel** | Craftsman | Wavering | Said yes nine weeks ago. Reconsidering. *"I consented when I thought it would be over before I had time to think about it again."* Last window: Session 4. |
+| **Lira Anwick** | Healer, Lowmark | Unwilling | Has a three-year-old daughter. Absolutely not. The Inversion requires her. The most important refusal in the campaign. |
+| **Petra Vane** | Herbalist, Greenhollow | Hiding from the decision | Not hiding from players — from the question. She will make tea. She will not lie. She needs time. |
+| **Aldric Stone** | Retired guard | Willing | Key secondary objective in Session 4 Ashring — keep him at his stone |
+| **Naren Colth** | Grief counsellor | Unknown | Dawnborn-Adjacent archetype pairing |
+| **Cori Wren** | Artist | Unknown | Dawnborn-Adjacent archetype pairing |
+| **Petra Innes** | Exile / protector | Unknown | Dawnborn-Adjacent archetype pairing |
+
+**Cormac's window in detail:** In Session 3 or 4, Ysel asks Cormac directly whether he still means what he told Edoran. He freezes. Does not answer. If players follow within 48 hours, he will say: *"I consented when I thought it would be over before I had time to think about it again. It kept not being over."* Players who help him arrive at genuine re-consent earn "Cormac: renewed." Players who don't find his stone dim at the Inversion Circle.
+
+</details>
 
 ---
 
-## The GM's Three Questions (Every Scene, Every NPC)
+<details>
+<summary>PLAYER TYPES — What each player came for and how to give it to them</summary>
 
-1. What does this NPC want from this scene?
-2. What are they not saying?
-3. What one thing would change their position?
+Know what each player came for before you design the encounter. The same scene serves different players differently.
+
+| Player Type | What They Want | Their Campaign Peak | Watch For |
+|-------------|---------------|--------------------|-----------|
+| **The Roleplayer** | Deep NPC relationships; scenes that slow down | The moment a Dawnborn they love tells them they have already decided | Let them drive toward specific Dawnborn early. The relationship investment is the campaign's engine. |
+| **The Problem-Solver** | Complete information; logical systems; the third option | Tomas's Asymmetry Journal — decoding it, realising what it means, discovering the answer isn't in the math | Give them the Spire scholars as their domain. What they discover: this problem cannot be solved, only answered. |
+| **The Fighter** | Clear objectives; action with visible stakes; protecting something specific | Session 5 Last Stand — three simultaneous objectives, actions protect the ritual not just win the fight | Make secondary objectives vivid before combat. Aldric has a daughter's birthday marked on his calendar. |
+| **The Social Engineer** | Complex faction maps; competing NPC interests; social investments that create leverage | Getting Maret Lonn to deploy Keseph's evidence at exactly the right moment | Let them try. Most NPCs here are aware they are being managed — and will name it. Tomas especially. |
+
+**The Six Archetypes (GM side):**
+
+| Archetype | What They Need From You | Campaign Peak | Watch For |
+|-----------|------------------------|--------------|-----------|
+| **Investigator** | A trail that pays off; evidence that connects | Session 2: Theron's confession — they built to it | May try to solve the dilemma with information. The truth is the dilemma, not the path to a solution. |
+| **Believer** | Faith tested, not shattered; NPCs who challenge with equal conviction | Session 3: Edoran forces a genuine theological confrontation | May reach for belief as a shortcut. Let it be comfort without being an answer. |
+| **Survivor** | Personal stake acknowledged; grief treated as information | Session 4: their loved one's condition worsens in the Ashring scene | May become invested in one ending — let this create faction conflict with other players |
+| **Scholar** | Most information-dense content; intellectual peers; discovering knowledge doesn't confer authority | Session 3: Isolde's lab and the transfer method as an actual engineering problem | Give them Tomas as a mirror — he also tried to solve this intellectually, and he is writing his will |
+| **Mercenary** | A job that becomes personal despite themselves | Session 2: the Chancellor wants their report and they know what is in it | Let the Dawnborn make it impossible to stay transactional. Sera especially. |
+| **Dawnborn-Adjacent** | Early, deep access to their specific Dawnborn; the relationship real before the cost lands | Session 4: when their Dawnborn announces their position | Protect this player from other players rushing past relationship moments |
+
+</details>
+
+---
+
+<details>
+<summary>KEY SCENE SEEDS — Specific beats worth prepping</summary>
+
+## Theron's Confession (Session 2)
+
+The campaign's quietest gut-punch. He has known for eleven years and said nothing — guilt, not malice. He has been slowly destroying his own notes. His line: *"I've been waiting for someone with enough courage — or ignorance — to investigate seriously."*
+
+After he tells them, do not rush. The silence is the scene. Ask the table: *"What does your character do with this information in the next five minutes?"* Not rhetorically. Ask.
+
+---
+
+## The Sera / Lira Scene (Session 3)
+
+The argument between the willing and the unwilling. Two people who love each other and cannot agree. Do not resolve it. Do not let players resolve it. Let it be unresolvable. That is the point of the scene.
+
+---
+
+## Harran's Defeat Line (Session 4)
+
+When Harran is defeated or captured: *"When the city collapses in six months, tell me which principle saved it."*
+
+He is not wrong that there is a clock. He is wrong about who gets to decide when it runs out.
+
+---
+
+## Corven's Letter (Session 5)
+
+Six minutes. He spent them writing this. *"No one should be forced."* In his own hand. Players who think about what that means — the architect of this situation spent his last six minutes on a consent clause — are doing the work.
+
+---
+
+## Senna Kard's Mob (Session 3)
+
+Secondary objective: de-escalate without violence. Senna is a radicalised mother, not a soldier. She has a son in Stage 2 grey sickness. She can be reached. Reaching her costs the players something (time, position, a concession) but closes a door to Cascade Failure.
+
+---
+
+## Guard Captain Aldis Renn — The Loyal Watcher (multi-session)
+
+Has been reporting the players' conversations to the Reckoning for two sessions while appearing entirely helpful. Detection: DC 17 Insight (he is genuinely warm — the deception is not cold, which makes it harder to read) or DC 14 Investigation into why specific Reckoning ambushes were so precisely timed.
+
+Confrontation: Renn does not fight. He explains. He has a daughter in Stage 2 grey sickness and Harran promised a cure that requires the ritual to proceed. He is not wrong that he was desperate. He is not wrong that he made a terrible choice.
+
+</details>
+
+---
+
+<details>
+<summary>CONTENT, TONE & SAFETY — Set this before Session Zero</summary>
+
+## What This Campaign Is
+
+**Genre:** Dark political fantasy. Ensemble moral tragedy. Urban investigation with faction intrigue.
+
+**Tone:** The weight is real and intentional. Grief, sacrifice, exhaustion — and hope that costs something. Not grimdark. Not nihilistic. *Honest.*
+
+**Tone anchor:** Le Guin's *The Ones Who Walk Away from Omelas* — moral weight without the clean resolution.
+
+**Tone dial — set as a table before Session 1:**
+
+| Level | Label | Key Adjustment |
+|-------|-------|---------------|
+| 1 | Low Tragedy | Dawnborn more hopeful; Edoran idealistic; city strained but functional |
+| 2 | As Written | Run every chapter as written; all six endings equally possible |
+| 3 | High Tragedy | Food stores at 25% from Session 1; one minor NPC already dead; Edoran's grief more recent and raw |
+
+## What Players Will Do
+
+Investigate, talk to complicated people, make choices they cannot take back, form attachments that will be tested, and eventually stand in a scorched stone circle and choose.
+
+## What Players Will Not Do
+
+Discover a hidden evil to defeat. Find a clean answer. Save everyone. Leave without carrying something.
+
+## Hard Content Present
+
+- Grief — for the sun, for what the city used to be, for people dying slowly
+- Sacrifice and its costs, made personal not abstract
+- Political desperation: what people do when they have waited too long
+- Slow disease — grey sickness as a visible reality in the streets
+
+## Content Not Present
+
+- Graphic torture with extended description
+- Sexual violence
+- Detailed depictions of child endangerment
+- Horror for shock value
+
+## Safety Tools (non-negotiable)
+
+**X-Card:** Any player taps it; the scene immediately redirects. No explanation required.
+
+**Lines and Veils:** Have the conversation before Session 1. Write it down. Three questions, ten minutes:
+1. Is there anything you need to never see described at this table?
+2. Is there content you're okay with happening but want handled off-camera?
+3. Is there a topic you want the campaign to engage with more carefully?
+
+**The Open Door:** Any player leaves the table at any time, for any reason, without explaining why.
+
+</details>
+
+---
+
+<details>
+<summary>LOCATIONS & MAGIC ITEMS — Quick reference</summary>
+
+## Key Locations
+
+**The Varenhold Civic Archive** — Amber lanternlight, 800,000 documents, the smell of lamp oil and old paper. Restricted collection requires Theron's key or DC 14 Thieves' Tools. The place where every piece of the truth is hidden — and where Theron has been waiting eleven years.
+
+**The Ashring** — Scorched stone circle from the original ritual. 50 years of weather cannot fully erase the burn marks. Smells of old stone and something faintly electrical — the ozone smell has been getting stronger for a month. At night: the ten Primer Stone positions are faintly visible as slightly-brighter patches in the stone. Where everything begins and ends. Deliberately unimpressive until it isn't.
+
+**The Lowmark Healing House** — Cramped, warm, perpetually understocked. Lira's compound smell: bitter marsh oil, something sweet underneath. Patients in rows; grey sickness in three stages visible if you look. Enter it as a guest, not an investigator.
+
+**The Spire Quarter** — Academic towers, locked archives, the smell of reagents and old vellum. Keseph's influence is strongest here. The unacknowledged subbasement — 800 sq ft Orya Doss found by measuring discrepancies — is accessible through a maintenance passage not listed in any floor plan.
+
+**Greenhollow Village, Dusk Parishes** — Half a day through marsh paths: peat smoke, grey stone, the smell of reed and mud and something green underneath it. Petra Vane's herbalist shop at the village edge. She will make tea. She will not lie. She needs time.
+
+## Magic Items
+
+| Item | Rarity | Effect |
+|------|--------|--------|
+| **Lux Shard Pendant** | Common | Warm near active Lux energy (Dawnborn within 30 ft, ritual circles, Primer Stones). Acts as a dowsing rod for the campaign's central mystery. |
+| **Corven's Notation Compass** | Uncommon | Rotates toward nearest ritual inscription, landmark, or Dawnborn. Advantage on Investigation checks for ritual-related hidden objects. Once per day: reveals whether a creature within 60 ft is under compulsion or acting from genuine willingness. Cannot be fooled by polymorph or disguise unless the creature also changes its internal intention. |
+| **Grey Veil Amulet** | Uncommon (attunement) | Wearer cannot contract grey sickness; resistance to necrotic damage. Once per long rest: touch a Stage 1 or Stage 2 patient to reduce their progression by one stage. Stage 3 is beyond the amulet's range. |
+| **Edoran's Vigil Candle** | Uncommon | Burns 1 hour. Reveals hidden Restorer/Reckoning symbols within 30 ft. Once: lit at the Restorer chapel during a service, reveals whether any NPC present has committed to a faction position they haven't disclosed. |
+| **Primer Stone Fragment** | Rare (attunement) | Sense general emotional state of any Dawnborn within 1 mile. Once per long rest: absorb up to 3d6 damage directed at an adjacent Dawnborn. Grows colder as the ritual approaches completion. Turns to ordinary stone at the moment of full ritual completion. |
+
+</details>
+
+---
+
+## The Three Questions (Every Scene, Every NPC)
+
+1. What does this NPC **want** from this scene?
+2. What are they **afraid** of?
+3. What are they **not saying** — what one thing would change their position?
 
 If you can answer these before every scene, you can follow any player anywhere.
 
 ---
 
----
-
-## GM Reference Table — Encounters, Threats, and Discoveries
-
-*Five entries per column. Woven into the campaign's existing structure, not bolted on.*
-
-| PC Death Risk | Monsters | Traps | Riddles & Puzzles | Locations | Magic Items |
-|--------------|----------|-------|-------------------|-----------|-------------|
-| **Grey Sickness Cascade** — Three consecutive failed Constitution saves against advanced grey sickness exposure (Stage 2 proximity, prolonged care work) results in rapid Stage 3 onset. A PC who dies this way becomes a named casualty in the Lowmark. Their character's death is announced in the morning bulletin. | **Twilight Shade** — A grey sickness manifestation; Strength drain, feeds on warmth. Appears in late-stage care houses and the Ashring at night. *Stats: Shadow variant; sunlight sensitivity; Strength drain on hit (DC 13 Con or permanent −1 Str).* Motivations: not malicious — confused, drawn to light, in pain. Destroying it softly (radiant damage to 0 HP, then a DC 12 Arcana to disperse rather than destroy) counts as a meaningful act. | **The Looping Corridor** *(Archive restricted stacks)* — Disorientation magic in the sealed section makes a 30-foot corridor stretch perceptually to 300 feet. Players who trust their eyes will walk for ten minutes and return to their start. Solution: close eyes, count steps by feel, trust the left-hand wall. DC 16 Wisdom (Perception) to notice inconsistency; failure means 30 minutes lost and one exhaustion level from the disorientation. | **Corven's Notation Key** *(Sessions 1–5)* — Three fragments of a unique symbol system are scattered across the Archive. Each fragment is held by a different person who doesn't know the others exist. Assembled, the system decodes the shelf address of Corven's final letter (4-17-3) and the two false addresses planted to mislead. Bonus: the assembled key is also the cipher for the Primer Stone activation sequence. | **The Varenhold Civic Archive** — Amber lanternlight, towers of shelves, 800,000 documents. The restricted collection in the back requires Theron's key or a DC 14 Thieves' Tools check. Five-senses detail: old paper and lamp oil; the faint sound of quill on parchment two floors up; the particular chill of stone that has never had direct sunlight. The place where every piece of the truth is hidden — and where Theron has been waiting eleven years for someone to come looking. | **Lux Shard Pendant** *(Common; no attunement required)* — A fragment of crystallised ritual energy from the Ashring stones. Warm to the touch near active Lux energy: Dawnborn within 30 feet, ritual circles, Primer Stones. Grows noticeably warmer as the ritual's conclusion approaches. Acts as a dowsing rod for the campaign's central mystery. Players who track when it warms will eventually map the full network of ritual energy in the city. |
-| **Reckoning Assassination** — Harran's operatives target players who have become too visible. Death comes as a crossbow bolt from a rooftop at range (2d8+5 piercing) or a blade in a crowd. PCs who have alienated Sera and have no guard contacts die before they can respond. Surviving an assassination attempt by a named Reckoning operative (not a generic soldier) immediately elevates Harran to active threat in the session tracker. | **Reckoning Enforcer** — Elite fanatic soldier. Not a beserker; a professional. Trained interrogator, tracker, and assassin. Follows orders exactly; reports deviations. *Stats: Veteran (MM) + Assassin traits (advantage on attacks vs. creatures that haven't acted; 2d6 sneak damage).* Motivation: genuine belief that consent is a luxury the city cannot afford. Will negotiate if Harran is captured — not out of loyalty to the city, but out of respect for whoever beat their commander. | **The Persuasive Councillor** *(Misdirection trap)* — Warden Keseph plants a junior Spire scholar named Fenwick Rath as an apparently helpful contact. Fenwick is charming, competent, and has been giving the players plausible but subtly wrong information about the ritual for two sessions. The false lead sends them to a dead-end archive section and costs them 24 hours. Detection: DC 15 Insight (Fenwick's story is slightly too consistent — every detail corroborates every other detail, which real memories don't do). | **The Primer Stone Sequence** *(Session 4)* — Ten stones must be activated in the astronomical order of the ten brightest stars on the night of the ritual, as recorded in the Observatory's sealed log. The Observatory records are in the Spire (DC 13 History or DC 15 Arcana to cross-reference without the records). Wrong-order activation: 1d10 radiant damage per incorrect step. Correct activation in full: each stone glows warm amber and the inscription reveals one word of the inversion pathway. The puzzle rewards patience over guessing. | **The Ashring** — Scorched stone circle from the original ritual, fifty years of weather unable to fully erase the burn marks. Smells of old stone and something faintly electrical; the ozone smell has been getting stronger for a month. At night: the ten Primer Stone positions are faintly visible as slightly-brighter patches in the stone. This is where everything begins and where everything ends. The most important location in the campaign is deliberately unimpressive — ancient, weathered, unremarkable. Until it isn't. | **Corven's Notation Compass** *(Uncommon; no attunement)* — A brass compass that rotates toward the nearest ritual inscription, landmark, or Dawnborn. Grants advantage on Investigation checks to locate ritual-related hidden objects or texts. Once per day: if pointed at any creature within 60 feet, reveals whether that creature is under compulsion or acting from genuine willingness. Cannot be fooled by polymorph or disguise unless the creature also changes its internal intention. |
-| **Ritual Backlash** — Players who activate Primer Stones without proper preparation, who attempt to interrupt an active ritual, or who touch the central dais inscription with bare hands while any stone is active take 3d8 force damage (DC 14 Dexterity save, half on success). On a critical failure (natural 1): the player is flung 15 feet and knocked prone. A player reduced to 0 HP by ritual backlash is dying and glowing faintly amber — stabilise them normally, but the glow does not fade for 24 hours. | **Ritual Echo** — A spectral fragment of Corven's sundered spell, trapped at the site of the ritual's failure. Confused, painful to touch; it moves toward warmth and light sources and clings. *Stats: Poltergeist (MM) variant; psychic damage instead of force; any creature it targets must succeed on a DC 13 Wisdom save or repeat the last action they took (attacking the same target, moving the same direction).* Not malicious — a memory of intent with no intelligence. Can be put to rest with a DC 14 Arcana check and 60 seconds of deliberate stillness. | **The Resonance Cage** *(Spire Lab, Session 3)* — A ring of tuning forks positioned around Isolde's central workbench. Stepping between any two forks while they are active triggers a resonance loop: 2d6 thunder damage per round, escalating by 1d6 each round until deactivated. Deactivation: three Resonance Rods positioned in the correct slots in the correct order, or a DC 17 Arcana check to break the loop by matching the dominant frequency with a spell or instrument. Players who choose to shout or cast *Thunderwave* instead make the damage worse. | **The Inversion Circle** *(Session 5)* — Not a puzzle about magic. All ten Dawnborn must stand at their Primer Stones simultaneously — within a six-second window. The coordination problem is logistical: who gives the signal, how it reaches all ten positions across a 40-foot diameter circle, and how players manage the three Dawnborn who are not yet confirmed willing. There is no skill check that solves this. There are only conversations. The puzzle is the whole campaign compressed to one moment. If Lira has not been reached, her stone stays cold. | **The Lowmark Healing House** — Cramped, warm, perpetually understocked. The smell of Lira's compound — bitter marsh oil, something sweet underneath — mixes with antiseptic herbs and human proximity. Patients in rows; grey sickness in three stages visible if you look. A door near Lira's cot leads to a small room; a pair of small boots is sometimes visible when the door is slightly open. The heart of what the city stands to lose. The most important NPC in the campaign has claimed this as her fortress. Enter it as a guest, not an investigator. | **Grey Veil Amulet** *(Uncommon; requires attunement)* — While attuned, the wearer cannot contract grey sickness and gains resistance to necrotic damage. A creature with grey sickness who touches the unattended amulet has their symptoms suppressed for 24 hours — not cured, suspended. The suppression is visible: the characteristic grey skin pallor fades temporarily. Once per long rest, as an action: the wearer can touch a Stage 1 or Stage 2 grey sickness patient and reduce their progression by one stage. Stage 3 is beyond the amulet's range. |
-| **Mob Violence** — The Desperate faction's radicalized members (Senna Kard's crowd, Session 3; any repeat escalation) does not aim to kill players — but panicked crowd violence does not aim at all. Any player in the middle of an uncontrolled mob at the end of Session 3 or 4 must make a DC 13 Dexterity saving throw each round or take 1d6 bludgeoning from the crowd press plus 2d6 from any armed members. Players who are reduced to 0 HP in a crowd scene are trampled unconscious — stable at 1 HP once the crowd clears, but they have been publicly humiliated in front of people who vote. | **Grey Tide Thrall** — A Stage-3 grey sickness victim in whom the twilight's ambient energy has briefly animated something. Not undead — alive, barely, drawn compulsively toward warmth and light sources. *Stats: Zombie (MM) variant; disease aura (any creature ending their turn adjacent must succeed DC 12 Con save or gain the Poisoned condition for 1 hour); attacks are grasping, not biting.* Motivation: none. The tragedy is that the GM should name them — *"Wess Hartman, baker, Lowmark, registered in the food queue until last Seventhday."* | **The Contaminated Drawer** *(Archive, false lead)* — A deliberately placed forged Corven document with a wrong ritual sequence. The drawer is sealed with a ceramic vial of concentrated grey sickness residue that shatters when the seal breaks. Each creature within 10 feet: DC 14 Constitution save or develop Stage 1 grey sickness (first symptom in 1d4 days). Players who investigate the drawer without touching it (Mage Hand, Investigation from a distance, or waiting for Theron to open it) avoid exposure. Detection before opening: DC 16 Investigation to notice the seal's clay is too uniform — it was placed recently, not by Corven. | **Tomas's Asymmetry Journal** *(Session 2–4)* — A coded notebook using legal case notation to disguise mathematical calculations. DC 14 Investigation (or DC 12 with proficiency in Arcana or History) reveals that the notation represents ritual energy load distribution. Full decode (success + 10 minutes of examination): the five surge-phase Dawnborn — Sera, Tomas, Ysel, Lira, Petra — carry twice the energy load of the other five. This opens the "partial ritual with five" alternative path. It also explains why the other five might survive the ritual's completion even without the full inversion. | **The Spire Quarter** — Academic towers, locked archives, the smell of reagents and old vellum. Warden Keseph's lab is on the upper floors; access requires navigating scholar politics, a credentials system, or Maret Lonn's sponsorship. The unacknowledged subbasement — 800 square feet Orya Doss found by measuring discrepancies — is accessible through a maintenance passage the Spire doesn't list in any floor plan. What is down there is whatever the GM decides the Spire has been hiding from itself: the original ritual energy measurements, proof of Keseph's interference, the notes of the scholar who co-developed Erem's theory and was erased from the record. | **Edoran's Vigil Candle** *(Uncommon; no attunement)* — A ritual candle from the Restorer chapel; burns for 1 hour. While lit: reveals hidden Restorer or Reckoning symbols on any surface within 30 feet (they glow amber). Any creature attempting to deceive the candle's holder while it burns must succeed on a DC 15 Charisma save or speak with a slight hesitation that the holder can perceive (no mechanical effect on the Deception roll, but the GM plays it). Once: if the candle is lit at the vigil in the Restorer chapel during a service, it resonates with the chapel's existing candles and the GM must reveal whether any NPC currently present has already committed to a faction position they have not disclosed. |
-| **Keseph's Trap** — Warden Keseph's hired mercenaries (Session 5, if he is the final antagonist) are professionals with a bounty system: 200 gp per player incapacitated, 500 gp per player dead. A player at 0 HP from mercenary attacks is not dying from conviction — they are dying because someone paid for it. The particularly cruel version: Keseph's contract specifies "incapacitate, not kill" because he wants the players arrested for interfering with Spire research, not martyred. The mercenaries will follow this. A dying player may hear their attacker say *"Two hundred. You're worth two hundred."* | **Solennite Blade** — A foreign mercenary or spy in Keseph's employ; professional, cold, contractual. Not a fanatic; works for money; can be bought off or reasoned with if the price is right. *Stats: Spy (MM) + Mercenary Veteran (Xanathar's); advantage on Perception; proficiency in Insight and Deception; advantage on saves vs. being charmed or frightened.* Motivation: payment and professional reputation. The most mercenary detail: they carry a written contract. If the players can demonstrate Keseph won't be paying it, the Blades stand down. | **The Loyal Watcher** *(Social trap, multi-session)* — Guard Captain Aldis Renn has been reporting the players' conversations to the Reckoning for two sessions, appearing entirely helpful. Detection: DC 17 Insight (Renn is genuinely warm — the deception is not cold, which makes it harder to read) or DC 14 Investigation into why specific Reckoning ambushes were so precisely timed. Confrontation: Renn does not fight. He explains. He has a daughter in Stage 2 grey sickness and Harran promised a cure — one that requires the ritual to proceed. He is not wrong that he was desperate. He is not wrong that he made a terrible choice. | **The Grey Sickness Map** *(Side investigation, any session)* — Sevra Dain's hidden patient ledger, cross-referenced with the city's waterway infrastructure map. The correlation reveals that grey sickness progression follows Varenhold's underground lux-energy distribution network — the same network the Dawnborn unknowingly anchor. This proves: (1) the city is dying faster than the public report shows; (2) Erem of Saltgrass's sympathetic void theory is correct; (3) without the ritual, the lux network collapses by Year 53 or Year 54 at the latest. Information that changes the shape of every decision. | **Greenhollow Village, Dusk Parishes** — Half a day's travel through marsh paths: peat smoke, grey stone houses, the smell of reed and mud and something green underneath it. Petra Vane's herbalist shop sits at the village edge. She knows who she is. She is not hiding from the players. She is hiding from the decision, which is not the same thing, and which the players should treat differently than tracking a fugitive. Five-senses detail: dried herbs, beeswax candles, the quiet of a settlement that has not been part of the campaign until now. She will make tea. She will not lie about anything. She will need time. | **Primer Stone Fragment** *(Rare; requires attunement by a creature with a soul)* — A piece of one Ashring Primer Stone. While attuned: the holder can sense the general emotional state of any Dawnborn within 1 mile (the GM gives one of four states: willing, unwilling, distressed, at peace). Once per long rest: as a reaction, absorb up to 3d6 damage directed at an adjacent Dawnborn. The fragment grows colder as the ritual approaches completion — not warm, cold; as if the warmth is leaving. At the moment of full ritual completion, the fragment turns to ordinary stone. |
-
----
-
-## Running the Antagonists Together
-
-The three antagonist layers do not operate as a unified faction. They have overlapping goals (the ritual, or preventing it) and conflicting methods.
-
-| If players try to... | Edoran responds... | Harran responds... | Keseph responds... |
-|---------------------|--------------------|--------------------|-------------------|
-| Delay the ritual | With patience — he believes time is on his side | With escalation — the clock is his argument | With quiet approval — delay is his business model |
-| Expose Spire interference | With interest and anger | With irrelevance — he doesn't care about Spire politics | With catastrophic alarm — he will act immediately |
-| Prove the inversion works | With genuine consideration | With skepticism — consent is a delay tactic to him | With desperate obstruction — a successful ritual ends his income |
-| Gain the Dawnborn's trust | With grudging respect | With contempt for the process | With panic |
-
-When two antagonist layers come into conflict directly (e.g., Harran arrests Edoran, or Edoran's followers attack Keseph's mercenaries), let it happen. The players should not feel they are the only force in motion.
-
----
-
-## Key Scene Seeds
-
-### Cormac Ossel — The Wavering Yes
-
-Cormac told Edoran yes nine weeks ago. He has not told anyone he is reconsidering.
-
-**The Trigger:** In Session 3 or 4, Ysel asks Cormac directly — in a semi-public setting at the Dawnhall — whether he still means what he told Edoran. Cormac freezes. Does not answer. Players who witness this see a man who said yes to dying discover he does not actually want to. He leaves without speaking to anyone.
-
-**The Window:** If players follow up within 48 hours (before Session 4 ends), Cormac will say: *"I consented when I thought it would be over before I had time to think about it again. It kept not being over."*
-
-**The Stakes for Inversion Path:** Players who help Cormac arrive at genuine re-consent — not reassurance, actual examination of his choice — earn the "Cormac: renewed" trust flag. His stone activates at the Inversion Circle. Players who do not engage with him before Session 5 find his stone dim. The Inversion Circle requires a decision: proceed without him (path collapses to Ending A), or take thirty minutes to sit with him and ask again.
-
----
-
-## The Question the Campaign Is Always Asking
-
-*"Who gets to decide what someone's life is for?"*
-
-**YES — the community decides:** Ten people cannot hold thousands hostage to their preference for survival. The ritual was always the purpose the Dawnborn were shaped toward, not despite their lives — through them. To refuse is to privilege the few over the many in a city that cannot afford the luxury of individual veto.
-
-**NO — the individual decides:** No city, no ritual, no utilitarian calculation gives anyone the right to define another person's death as their purpose. Consent is not a courtesy — it is the precondition that makes the sun worth returning. A dawn built on coercion is not a dawn.
-
-Both answers are correct. Both answers are incomplete. Every NPC, every faction, and every encounter in this campaign is answering this question differently. The players are the only ones in the room with enough information to hold both answers at once.
-
-The players are not hired to find the truth — they find the truth in the first two sessions. They are hired to do something with it. That is the whole game.
-
----
-
----
-
-## Working with Limits & Expectations
-
-*Read this before Session Zero. Brief your players on it. Adjust it to your table.*
-
----
-
-### What This Campaign Is
-
-**Genre:** Dark political fantasy. Ensemble moral tragedy. Urban investigation with faction intrigue.
-
-**Tone:** The weight is real and intentional. Grief, sacrifice, exhaustion — and, crucially, hope that costs something. Not grimdark. Not nihilistic. *Honest.*
-
-**What players will do:** Investigate, talk to people who are complicated, make choices they cannot take back, form attachments that will be tested, and eventually stand in a scorched stone circle and choose.
-
-**What players will not do:** Discover a hidden evil to defeat. Find a clean answer. Save everyone. Leave without carrying something.
-
----
-
-### What This Campaign Is Not
-
-| Not This | Why It Matters |
-|----------|---------------|
-| Good-vs-evil adventure | Every antagonist has a defensible position. There is no dark lord. |
-| Combat-primary gameplay | Combat exists and matters; it is not how the campaign resolves. Players who only fight will win fights and miss the point. |
-| Dungeon crawl | There are no dungeons. The obstacles are bureaucracies, secrets, relationships, and time. |
-| Puzzle-box mystery | The truth is not hidden. It is protected by guilt, fear, and political consequence. Getting it is a matter of trust, not code-breaking. |
-| A campaign you can solve | The dilemma has no correct answer. Players who look for the clever trick that avoids all cost will not find one. |
-
----
-
-### Hard Content Expectations
-
-**Present throughout:**
-- Grief — for the sun, for what the city used to be, for people who are dying slowly
-- Sacrifice and its costs, made personal not abstract
-- Political desperation: what people do when they have been waiting too long
-- Community under sustained stress
-- Slow disease — grey sickness as a visible, present reality in the streets
-
-**Not present:**
-- Graphic torture with extended description
-- Sexual violence
-- Detailed depictions of child endangerment
-- Horror for shock value — darkness serves meaning here
-
-**Handled with care (veils by default — off-camera, acknowledged not described):**
-- Named NPC deaths
-- Aftermath of significant violence
-- The specific physical moment a Dawnborn dies in the ritual
-
----
-
-### Safety Tools — Session Zero Non-Negotiables
-
-**X-Card** — Physical or virtual card at center of table. Any player taps it; the scene immediately redirects. No explanation required. No judgment. No pause unless the person who tapped wants to talk. The moral weight in this campaign is intentional; the X-Card is for when weight becomes distress.
-
-**Lines and Veils** — Have the conversation before Session 1. Write it down. *Lines* are content that does not appear. *Veils* are content that happens off-camera. Three questions, ten minutes:
-1. Is there anything you need to never see described at this table?
-2. Is there content you're okay with happening but want handled off-camera?
-3. Is there a topic you want the campaign to engage with more carefully?
-
-**The Open Door** — Any player leaves the table at any time, for any reason, without explaining why. The campaign waits.
-
----
-
-### The Tone Dial — Set It Before Session 1
-
-| Level | Label | Key Adjustment | Most Likely Ending |
-|-------|-------|---------------|-------------------|
-| **1** | Low Tragedy | Dawnborn more hopeful; Edoran idealistic not grief-driven; care houses managing; city strained but functional | A or C — hopeful path accessible |
-| **2** | As Written | Nothing changes; run every chapter as written | All six endings equally possible |
-| **3** | High Tragedy | Food stores at 25% from Session 1; one beloved minor NPC already dead; Edoran's grief more recent and raw | D harder to reach; F more likely without decisive player action |
-
-Decide as a table before Session Zero ends. Revisit between sessions if tone lands too heavy or too light.
-
----
-
-### Player Expectations — The Social Contract
-
-Before play begins, every player is agreeing to:
-
-- **Engage with uncertainty.** No correct answers. Players who demand one will be frustrated. Players who sit with not-knowing will have the most interesting arcs.
-- **Let NPCs be right sometimes.** Edoran is partly right. The Chancellor made a defensible choice. Harran has a point about the arithmetic. Disagree with them — but engage with the argument.
-- **Be willing to be wrong.** Consequences are tracked, not successes. A failed roll or a wrong choice opens a different scene, not a dead end.
-- **Care about the people.** Characters who maintain ironic distance from the Dawnborn will have a worse experience than characters who let themselves form attachments. The campaign is built for investment.
-- **Stay for the debrief.** The fifteen minutes after Session 5 are part of the experience. Not optional.
-
----
-
----
-
-## Theme, Genre, and Adventure Type by Session
-
-### Overall Genre and Theme
-
-| Element | Detail |
-|---------|--------|
-| **Genre** | Dark political urban fantasy — moral philosophy in D&D clothing |
-| **Primary Theme** | Consent: who gets to decide what someone else's life is for |
-| **Secondary Themes** | How grief organises itself into certainty; the limits of hope; the weight of information; community under sustained crisis; leadership as loneliness |
-| **Aesthetic** | Amber light that never flickers. The smell of lamp oil. A city that has been holding its breath for fifty years. |
-| **Tone Anchor** | Le Guin's *The Ones Who Walk Away from Omelas* — the moral weight without the clean resolution. Honest tragedy, not punishing tragedy. |
-
----
-
-### Adventure Mode Framework
-
-Every scene falls into one or more of four modes. Knowing the mode stops GMs from over-preparing the wrong thing.
-
-| Mode | What Players Do | What Success Looks Like |
-|------|----------------|------------------------|
-| **Discovering** | Uncover something hidden — a truth, a secret, a person's real position | Players leave the scene knowing something they didn't before |
-| **Collecting** | Gather pieces — evidence, trust, Dawnborn consent, ritual components | Players end the scene with a resource or relationship they can use |
-| **Delivering** | Bring truth, information, or a choice to someone who needs it | An NPC's position changes because of what players bring |
-| **Thwarting** | Prevent a faction or individual from acting before the players are ready | The opposition loses a move; players gain time or position |
-
----
-
-### Session-by-Session Adventure Type
-
-| Session | Primary Mode | Secondary Mode | What Is Being Discovered / Collected / Delivered / Thwarted |
-|---------|-------------|---------------|--------------------------------------------------------------|
-| **1 — Into the Dark** | Discovering | Collecting | *Discovering:* the ritual's true history; the Dawnborn as real people. *Collecting:* Notation Key fragments; Theron's partial trust; Edoran's note as a first clue to the Restorer position. |
-| **2 — The Weight of Light** | Delivering | Thwarting | *Delivering:* the full cost of the ritual — players decide who to tell and when. *Thwarting:* the Reckoning destroying the ritual documents. Secondary objective in every combat: protect the evidence and Theron, not defeat the soldiers. |
-| **3 — Lesser Evils** | Collecting | Thwarting | *Collecting:* all three alternative paths and their real costs (Isolde's transfer, Tomas's asymmetry, the willing Dawnborn positions). *Thwarting:* Senna Kard's mob; Keseph's bureaucratic obstruction of Isolde's lab. Players gather answers — the twist is that all the answers have costs. |
-| **4 — The Breaking Point** | Delivering | Thwarting | *Delivering:* the Asymmetry Journal, the Primer Stone inscription, and players' entire arc of choices to the Dawnborn and the Chancellor simultaneously. *Thwarting:* the Reckoning strike — secondary objective is Aldric's safety, not Harran's defeat. |
-| **5 — The Price of Dawn** | Delivering | Thwarting | *Delivering:* Corven's letter; the entire campaign of relationship-building delivered in the Inversion Circle coordination problem. *Thwarting:* the Last Stand. The final delivery is the word that triggers the ritual. Players choose what that word is. |
-
-**The arc in one line:** Sessions 1–2 discover and collect. Sessions 3–4 deliver what was collected and thwart those who'd make the choice unilaterally. Session 5 is pure delivery — everything the players built, given at once.
-
----
-
----
-
-## Player Style and Interests — Reading Your Table
-
-*theGreatGM principle: know what each player came for before you design the encounter. The same scene serves different players in different ways. Build so every player finds their moment.*
-
----
-
-### The Four Player Orientations
-
-#### The Roleplayer — *"I'm here for the characters."*
-
-**What they want:** Deep NPC relationships. Moments where their character's specific history or belief matters. Scenes that slow down and breathe.
-
-**What they avoid:** Extended tactical combat. Procedural information-gathering with no emotional payoff. Scenes that only matter mechanically.
-
-**How the campaign serves them:** Naturally. Every major NPC is built for this player. Sera, Tomas, Lira, Edoran — these are characters, not quest-givers. The session dilemma questions are designed to be answered in-character.
-
-**GM accommodation:** Let them drive toward specific Dawnborn early. If a player wants Tomas before his scheduled scene, Tomas appears in their downtime. The relationship investment is the campaign's engine — let it run.
-
-**Their campaign peak:** The moment a Dawnborn they love tells them they have already decided. The player must choose whether to respect that.
-
----
-
-#### The Problem-Solver — *"There has to be a third option."*
-
-**What they want:** Complete information. Logical systems to navigate. The feeling that clever thinking produces better outcomes.
-
-**What they avoid:** Purely emotional appeals. Situations where no amount of thinking helps. Railroading.
-
-**How the campaign serves them:** The alternative paths in Sessions 3–4 are designed for this player. Isolde's transfer method, Tomas's asymmetry, the Inversion Circle — these are genuine engineering problems with real mechanical constraints.
-
-**GM accommodation:** Give the problem-solver the Spire scholars as their domain. The most information-dense, mechanically interesting access is there. Let them map the systems. What they will discover — deliberately — is that this problem cannot be solved. It can only be answered. The arc is learning the difference.
-
-**Their campaign peak:** Tomas's Asymmetry Journal. Decoding it. Realising what it means. Understanding that even with all the information, the answer is not in the math.
-
----
-
-#### The Fighter — *"I want to do something."*
-
-**What they want:** Clear objectives. Action with visible stakes. The feeling of protecting something specific.
-
-**What they avoid:** Extended social scenes with no resolution. Passive information-gathering. Conversations that go on forever.
-
-**How the campaign serves them:** Sessions 3–5 have significant combat. The key: every combat has a secondary objective that matters more than defeating the enemy. Protect the document. Keep Aldric at his stone. Hold the dais. Win the fight for the wrong reason and the ritual still fails.
-
-**GM accommodation:** Make secondary objectives vivid before combat starts — not "there is a secondary objective" but show them what they are protecting. Aldric has a daughter's birthday marked on his calendar. Sera stepped off her stone to fight alongside them. The fighter's job is to make sure she can step back. Frame it that way.
-
-**Their campaign peak:** Session 5 Last Stand. Three simultaneous objectives. Their actions protect the ritual, not win the fight.
-
----
-
-#### The Social Engineer — *"I can play these factions against each other."*
-
-**What they want:** Complex faction maps with exploitable tensions. NPCs with competing interests. The feeling that social investments create mechanical leverage.
-
-**What they avoid:** Situations where social skills do not matter. NPCs who are obstacles regardless of persuasion. Predetermined outcomes.
-
-**How the campaign serves them:** The faction relationship map is genuinely exploitable. The Chancellor versus the Spire. Edoran versus Harran. Maret Lonn with her filed-but-unfiled evidence on Keseph. Information asymmetry is the campaign's primary resource and this player can weaponise it.
-
-**GM accommodation:** Let them try. What the social engineer will discover is that most NPCs in this campaign are aware they are being managed — and will name it. The Chancellor especially. Tomas definitely. The campaign rewards genuine engagement over manipulation. Do not protect them from finding out that Tomas saw through them three conversations ago. That is the scene.
-
-**Their campaign peak:** Getting Maret Lonn to use Keseph's evidence at the exact right moment. The political kill-shot built across four sessions landing in Session 5's Council vote.
-
----
-
-### The Six Character Archetypes — GM Side Notes
-
-*Player-guide archetypes read from the GM's chair: what each needs from you.*
-
-| Archetype | What They Need from the GM | Campaign Peak | Watch For |
-|-----------|---------------------------|--------------|-----------|
-| **The Investigator** | A trail that pays off. Evidence that connects. The satisfaction of a mystery solved — followed immediately by a harder question about what to do with the answer. | Session 2: Theron's confession, because they built to it | May try to solve the dilemma with information. Remind them: the truth is the dilemma, not the path to a solution. |
-| **The Believer** | Their faith tested, not shattered. Auris's silence as a presence not an absence. NPCs who challenge their position with equal conviction. | Session 3: Edoran forces a genuine theological confrontation | May reach for their belief as a shortcut. Let it be a comfort without letting it be an answer. |
-| **The Survivor** | Their personal stake acknowledged. Their grief treated as information, not weakness. The moment when their specific loss connects to the campaign's central problem. | Session 4: if their loved one's condition worsens in the Ashring scene | May become personally invested in one ending. Let this create faction conflict with other players — it is the most honest version of the campaign's dilemma. |
-| **The Scholar** | Access to the most information-dense content (Spire, Archive, Tomas). Intellectual peers who challenge them. The discovery that knowledge does not confer authority to act on it. | Session 3: Isolde's lab and the transfer method as an actual engineering problem | May try to resolve everything intellectually. Give them Tomas as a mirror — he also tried this, and he is writing his will. |
-| **The Mercenary** | A job that becomes personal despite themselves. The moment completing the contract requires defining what they are actually for. | Session 2: the Chancellor wants their report and they know what is in it | May try to stay transactional. Let the Dawnborn make it impossible. Sera especially — she just assumes competence and goodwill until proved otherwise, which is somehow the most disarming thing imaginable. |
-| **The Dawnborn-Adjacent** | Early, deep access to their specific Dawnborn. The relationship made real before the cost lands. The moment they must choose between the person they love and something larger. | Session 4: when their Dawnborn announces their position | Protect this player from other players rushing past the relationship moments. Their arc is slower and it is worth it. |
-
----
-
-### Archetype to Dawnborn Pairing
-
-Assign before Session 0 where possible. The Dawnborn-Adjacent archetype requires a specific pairing before the first session.
-
-| Archetype | Recommended Dawnborn | Rationale | Session 1 Hook Activation |
-|-----------|---------------------|-----------|--------------------------|
-| **Investigator** | Tomas Areth | Both are running out of time and know it — one writing his will, one building a case | Archive restriction notice: *this case has someone closing doors before you arrived* |
-| **Believer** | Sera Voss | Sera's faith-without-certainty mirrors and challenges everything the Believer brings | Sera says "I'm glad you're here" — first NPC in Varenhold who seems to mean it |
-| **Survivor** | Lira Anwick | Lira's daughter is the specific, personal refusal the Survivor's grief recognizes | Chancellor mentions casualty numbers as budget line items — one of those numbers has a name |
-| **Scholar** | Cormac Ossel | Cormac's wavering is an intellectual problem disguised as an emotional one | Theron mentions the ritual mechanism, gets a look, stops talking — a man sitting on eleven years of knowledge |
-| **Mercenary** | Ysel Thanis | Ysel is waiting for someone to ask if her consent was freely given — the Mercenary asks without an agenda | Sera pays in advance without negotiating — nobody does that; *why does she trust you already?* |
-| **Dawnborn-Adjacent** | Assign by backstory: Petra Innes (exile/protector), Naren Colth (grief/healer), Cori Wren (creative/legacy) | Pre-assigned relationship gives them early, deep access | Their Dawnborn is in the Dawnhall greeting and treats them differently — a flicker of recognition that shouldn't exist yet |
-
----
-
-### Reading Individual Players — Pre-Session Notes
-
-Before the first session the GM should know three things for each player (surfaced by the character interview in `running-the-campaign.md`):
-
-| What to Know | How to Find It | How to Use It |
-|--------------|---------------|---------------|
-| **Their want** — what they are actually there for, underneath the stated reason | How they describe their character concept when they are not being asked directly | Design one scene per session that speaks directly to this |
-| **Their fear** — what they are most afraid of discovering | What they volunteer last, or do not volunteer at all | Do not use it cheaply. Save it for Sessions 4–5 where it will land with full weight. |
-| **Their lie** — what they believe about this city or themselves that will not survive contact with the truth | What they state with most certainty early on | Let the campaign erode it slowly. When it breaks, it should feel inevitable not punishing. |
-
-The character interview in `running-the-campaign.md` surfaces these without asking for them directly. Run it one-on-one before Session Zero. Five minutes per player. You are not collecting character sheets. You are learning what each player came for — and what they are afraid of finding.
-
-**theGreatGM rule:** The player who answered the "line" question (the thing they will not do even if it is right) with the most certainty is telling you the scene you are building toward. The player who hesitated is doing the most interesting work at this table. Pay attention to both.
+*The players are not hired to find the truth. They find the truth in the first two sessions. They are hired to do something with it. That is the whole game.*
