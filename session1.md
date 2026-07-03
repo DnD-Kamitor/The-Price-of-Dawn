@@ -686,6 +686,86 @@ he raises his shield and invokes Auris — reduces damage by 3.
 
 ---
 
+<details>
+<summary>📣 Combat Lines — What Each NPC Says Aloud</summary>
+
+**No NPC in this encounter has spells except Edoran.** Cultists and archers are mundane humans. Their power is position, numbers, and the words they say.
+
+---
+
+**EDORAN — Lines by situation**
+
+| Moment | Say exactly this |
+|---|---|
+| Opening speech (Round 0/1) | *"We are not here to hurt anyone. Step away from the archive investigation. Take your pay from the Chancellor and find different work. This is your one warning."* — flat, unhurried, not raised |
+| If players ask who sent him | *"No one sends me."* Pause. *"I go where the work is."* |
+| Casting Command | One word, spoken like a fact: **"Halt."** or **"Kneel."** or **"Stop."** Nothing else. |
+| Spirit Guardians activates | He does not announce it. Radiant light bleeds from his coat. He says nothing. |
+| Guiding Bolt | *"You are faster than I expected."* Then the bolt. |
+| A PC lands a hard hit | He absorbs it. No grunt. One breath. *"Good."* |
+| At 26 HP — yield | *"You are going to find something you are not ready to carry. I am sorry I could not stop you from finding it."* — quiet, no drama. Then waits. |
+| If asked "Why are you doing this?" | *"Because what you are about to find out is irreversible. And I wanted to look the people who find it in the face first."* |
+| If asked about the note | *"Read it. You earned it."* |
+| If asked his name | Long pause. *"You'll find it."* He means: in the Archive. He does not confirm or deny. |
+
+---
+
+**CULTIST A (note-carrier) — Lines by situation**
+
+*No spells. Dagger and conviction.*
+
+| Moment | Say exactly this |
+|---|---|
+| Warning Grip lands | *"Stop investigating. Leave Varenhold. This is your one warning."* — said once, into the ear of whoever he's holding |
+| If PC tries to break free | Tightens the grip. Says nothing. |
+| Moving to burn the note | Doesn't speak until the paper is at the flame. Then, quietly: *"The willing heart gives freely what the bound heart cannot."* — he's quoting the note. He has it memorized. |
+| If stopped from burning | Releases the note without fighting. One second of eye contact. *"You don't know what you're saving."* Then disengages. |
+| If knocked to 1 HP (Mercy Instinct) | Drops. Breathing. If a PC stands over him: *"I wasn't going to kill you."* |
+| If captured | *"I know what I did. I'm not sorry."* Nothing else. |
+
+---
+
+**CULTIST B — Lines by situation**
+
+*No spells. Dagger and position.*
+
+| Moment | Say exactly this |
+|---|---|
+| Blocking an exit | Steps into the path, hands up (one holding a dagger): *"There's nowhere to go that matters."* |
+| Warning Grip lands | *"Stop. Just stop. This doesn't need to get worse."* |
+| If PC pushes through him | Lets them go. *"You'll regret it."* — not a threat, just what he believes. |
+| If knocked down | *"I was paid for the morning."* This is a lie but he says it automatically. He was not paid. He volunteered. |
+
+---
+
+**ARCHERS — Lines by situation**
+
+*No spells. Longbow and elevation.*
+
+| Moment | Say exactly this |
+|---|---|
+| Archer 1 (experienced) — opening | Says nothing. He doesn't need to. |
+| Archer 1 — if PC climbs toward him | *"I'd stop there."* One arrow loosed past the PC's ear. Warning shot, not aimed. *"The next one isn't a warning."* |
+| Archer 2 (nervous) — Suppression Fire | *"Don't run! Just — don't run!"* — shouted, higher pitch than intended |
+| Archer 3 (nervous) — first shot | *"We don't want to do this!"* — genuinely. He means it. |
+| Any archer — if forced into melee | Drops bow. Hands up. *"I'm done."* (Archer 1 only — 2 and 3 will try to jump and run first) |
+| Any archer — if cornered on elevation | *"I was never here. None of us were."* |
+
+---
+
+**WHAT NONE OF THEM SAY:**
+
+- Edoran's name — cultists and archers don't know it
+- Why the investigation is dangerous — they know only that it is
+- Anything about the Dawnborn — Edoran has never told them why
+- Anything about the ritual — same
+
+**If magically compelled to speak:** Cultists tell the truth as they know it: *"A man told us where to be and what to say. I don't know his name. I've never seen his face in daylight."* This is true. Archers: same. Edoran under magical compulsion will still not name the Dawnborn — he will go silent first and take the consequence of the silence.
+
+</details>
+
+---
+
 **Initiative & Surprise**
 
 **Does the Ambush Grant Surprise?**
