@@ -61,3 +61,6 @@ format:
   html:
     theme: [cosmo, custom.scss]
     css: styles.css
+    include-after-body:
+      text: |
+        <script src="print.js"></script>

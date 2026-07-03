@@ -114,26 +114,14 @@ Players leave the Chancellor's building heading south toward the Spire Quarter's
 
 ## Scene 1 — Opening Combat: The Restorer Ambush
 
-### Scene Setup — Read This Before Running
+*Coming from the Chancellor's office. Walking to the Archive. They cross the Lowmark Junction — ambush is waiting.*
 
-**Where players are coming from:**
-They have just left the Chancellor's private office — the opening beat of this session. The meeting ended within the last thirty minutes. They have a job, a letter of introduction, and a destination: the Civic Archive. They are on foot, heading south and downhill through the Spire Quarter toward the Lowmark — a fifteen to twenty minute walk. The Lowmark Junction is on the route.
+**Players know:** hired to investigate the ritual, heading to the Archive, letter of introduction, Sera Voss is a contact.
+**Players don't know:** anyone is watching them.
 
-**What players know walking into this scene:**
-- They were just hired by Chancellor Ostenveld to investigate why the Ritual of Eternal Dawn failed fifty years ago
-- Their first stop is the Civic Archive to access Corven's restricted research documents
-- They have a letter of introduction signed by the Chancellor
-- They have a second contact later: Sera Voss at the Dawnhall
-- They do not yet know who the Dawnborn are, what "living conduit mechanism" means, or that anyone is watching them
-- They have not encountered the Restorers as an organised political force yet (they encountered zealots in Session 0.5 but may not have known the name of the faction)
+**Open with:** describe the walk south from the Spire Quarter — amber twilight, streets narrowing, food queue ahead. Then pick a read-aloud below. Fight starts on initiative.
 
-**How to open the scene at the table:**
-Set the walk first. One or two sentences of city texture as they move south from the Spire Quarter into the Lowmark — the amber twilight, the streets narrowing, the food queue visible in the distance at the junction ahead. Then use one of the three read-aloud variants below depending on how the party is moving. The fight starts on initiative; the read-aloud ends with *"They are waiting. They are waiting specifically for you"* (or your chosen variant) — then ask for Perception rolls if you want, or go straight to initiative.
-
-**Before you run this scene, confirm:**
-- Where is the sealed note? (In Z4's belt pouch — visible from 20 ft, amber wax seal. Plant it in your read-aloud.)
-- Where is Edoran? (30 ft east, inside the east alley mouth. He does not move or speak unless players reach him.)
-- What is the Enforcer's instruction? (Warn and delay — not kill. He goes silent when surrendering; that silence is his whole character.)
+**Confirm before running:** sealed note visible in Z4's belt pouch (amber wax) · Edoran 30 ft east in alley, watching · Enforcer instruction is warn-not-kill.
 
 ---
 
@@ -2425,33 +2413,12 @@ The moment works when a player says "wait, I'm doing that instead" and the table
 
 ## Scene 2 — The Archive Door
 
-### Scene Setup — Read This Before Running
+*Ambush just happened. Walking north from Lowmark into Spire Quarter — streets widen, better lit, quieter. Archive visible three blocks out: narrow stone tower, no lantern at peak.*
 
-**Where players are coming from:**
-The Lowmark Junction, five to ten minutes ago. They have just been ambushed by Restorer zealots and fought their way through. The food queue scattered. The zealots withdrew when the Enforcer was dropped. Players now have a sealed note (if they saved it) and a fight behind them. The Archive is still the destination. They continue north toward the Spire Quarter.
-
-**Transition — describe this walk:**
-The streets widen as they climb from the Lowmark into the Spire Quarter. Better-lit, fewer people, fewer smells. The architecture changes — older stone, broader lanes, the particular quiet of a district where most buildings close at sundown. Three blocks from the Archive it becomes visible: a narrow stone tower, the tallest structure in the block, no lantern at its peak. The only building in the area that isn't trying to be seen.
-
-**What players know walking into this scene:**
-- They were ambushed before they even reached the Archive — someone knew their route
-- They have a letter of introduction from the Chancellor
-- They're looking for Corven's restricted ritual research
-- They have not been told anything about the restricted stacks door
-
-**Who greets them:**
-A young clerk — efficient, ink on his cuffs — meets them on the third floor landing and directs them down the restricted corridor. He is not unfriendly. He is also not staying. He says: *"The restricted stacks are at the corridor's end. This door hasn't opened in eleven years. The Master Archivist has the combination if you need assistance."* Then he walks back down. Quickly.
-
-**Where Theron Waide is:**
-His office is immediately adjacent to the restricted corridor, door closed. He heard the players arrive. He is waiting to see if they can open the door. He will appear after the first wrong attempt — coat slightly askew, ink on his sleeve, the look of a man who has been startled by something he has been half-expecting for a long time.
-
-**How to open the scene at the table:**
-Describe the approach first — the building exterior, the narrowing floors, the smell of old paper. Then read the clerk's lines and let him leave. Then: the door, and the riddle above it. Don't describe the riddle as hard. It isn't hard. Describe the *weight* of it — the door that hasn't opened in eleven years, the riddle that has been sitting there for all that time, the silence of the corridor.
-
-**Before you run this scene, confirm:**
-- The riddle text (carved into the stone lintel above the door — see puzzle section below)
-- Theron's tell: he knows the answer and won't say it. If players ask "what's the answer?" directly, he says: *"I've known the answer since Corven sealed this room. I have not been able to say it."*
-- The tone (one wrong attempt) fires loud — audible from below, brings Theron to the landing
+**Players know:** someone knew their route before they did · letter of intro · looking for Corven's restricted documents.
+**Players don't know:** door hasn't opened in 11 years · Theron knows the answer and won't say it.
+**Open with:** clerk on third floor directs them to the corridor, leaves quickly. Then: the door, the riddle carved above.
+**Confirm:** riddle text carved above lintel · Theron's office adjacent, door closed · wrong attempt fires loud tone, brings Theron out.
 
 ---
 
