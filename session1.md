@@ -46,21 +46,69 @@ What they don't know yet:
 ---
 
 <details>
-<summary>🗺 Session Map — 5 Scenes</summary>
+<summary>🗺 Session Map — Opening + 5 Scenes</summary>
 
-| # | Type | Scene | What Happens |
-|---|------|-------|-------------|
-| 1 | Combat | The Restorer Ambush | Zealots intercept players at the Lowmark Junction. Edoran's sealed note is about to be burned. Fight and save the intelligence simultaneously — you cannot do both at full effectiveness. |
-| 2 | Puzzle | The Archive Door | The restricted stacks door has a riddle carved above it. Answer: CONSENT. Theron Waide knows the answer and will not say it. He has been waiting eleven years for someone else to open the door. |
-| 3 | Puzzle | The Star-Wheel | Three brass rings on a central column, set to the Dawnmark constellation's rise order. The star chart on the east wall contains the solution in plain view. Corven's documents are behind the mechanism. |
-| 4 | RP | Sera Voss at the Dawnhall | First contact with a Dawnborn. Sera runs a soup kitchen for grey sickness sufferers. She already knows what players came to ask. She has been waiting for someone outside her own head to know what she knows. |
-| 5 | Combat | The Second Ambush | A second intercept on the road home — better organised than the first. This is the Reckoning, not the Restorers. A different faction, escalating. |
+| # | Type | Beat | What Happens |
+|---|------|------|-------------|
+| — | RP | **Opening: The Chancellor's Office** | Players meet Chancellor Mira Ostenveld for the first time. She hires them to investigate the failed ritual. They leave with a letter of introduction and a destination: the Civic Archive. This is the first scene of the session. |
+| 1 | Combat | The Restorer Ambush | Zealots intercept players at the Lowmark Junction on the way to the Archive. Edoran's sealed note is about to be burned. Fight and save the intelligence simultaneously. |
+| 2 | Puzzle | The Archive Door | The restricted stacks door has a riddle carved above it. Answer: CONSENT. Theron Waide knows the answer and will not say it. |
+| 3 | Puzzle | The Star-Wheel | Three brass rings, set to the Dawnmark constellation's rise order. Star chart on the east wall contains the solution. Corven's documents are behind the mechanism. |
+| 4 | RP | Sera Voss at the Dawnhall | First contact with a Dawnborn. Sera already knows they're coming. She has been waiting for someone outside her own head to know what she knows. |
+| 5 | Combat | The Second Ambush | A second intercept on the road home. Edoran is watching again. If players reach him, he speaks two lines and steps back into the dark. |
 
-**Pacing guide:** Scene 1 — 20–30 min. Scenes 2–3 combined — 30–45 min. Scene 4 — 20–30 min. Scene 5 — 15–20 min. Total: 90–120 min with transitions.
+**Pacing guide:** Opening — 15–20 min. Scene 1 — 20–30 min. Scenes 2–3 combined — 30–45 min. Scene 4 — 20–30 min. Scene 5 — 15–20 min. Total: ~2 hours with transitions.
 
-**The through-line:** Players are being watched at every step. Every scene contains evidence that someone anticipated them. The ambush knew their route. The Archivist knew the door's answer. Sera knew they were coming. This is a city where news travels and fifty years of silence has built up pressure. Players aren't discovering a secret. They're entering a conversation that has been happening for fifty years without them.
+**The through-line:** Players are being watched from the moment they leave the Chancellor's office. The ambush knew their route before they did. Edoran was already in the alley. Sera already knew they were coming. This is a city where news travels and fifty years of silence has built up pressure. Players aren't discovering a secret. They're entering a conversation that has been happening without them for fifty years.
 
 </details>
+
+---
+
+## Opening Beat — The Chancellor's Office
+
+### Scene Setup — Read This Before Running
+
+**Where players are coming from:**
+Session 0.5 just ended. Players stopped the Restorer ritual attempt beneath the Dawnhall and survived. They have had whatever short debrief or rest made sense at the end of that session. They do not yet know each other's names or history (unless they made connections in Session 0.5). They have heard of the grey sickness, been inside a Dawnhall, and encountered Restorer zealots.
+
+**What this beat is:**
+A summons. Chancellor Mira Ostenveld has heard what happened beneath the Dawnhall — not all of it, but enough. Word of the stopped ritual reached the Spire Quarter within hours. She has had players identified, located, and summoned. Her aide meets them at a specific address in the Spire Quarter (not the Council chambers — her private office, in a building that could be a law firm). They are not under arrest. They are being offered a job.
+
+**How to run this beat:**
+This is a conversation, not a scene with combat or puzzle. Keep it to 15–20 minutes. The Chancellor does most of the talking. Players ask questions. She answers some of them honestly and some of them carefully.
+
+**Who the Chancellor is:**
+Mira Ostenveld, Chancellor of Varenhold. Late 50s. Efficient, precise, the kind of person who has been making difficult decisions long enough that she no longer agonises over them in front of people. She is not cold — she is controlled. She has arranged not to know the full truth of what the ritual requires. That is not cowardice. If she officially knows, she must officially act. She has hired investigators instead.
+
+**What she tells them:**
+
+> *"Fifty years ago, the Ritual of Eternal Dawn failed. The sun did not return. Grey sickness has been spreading for thirty of those fifty years. Our food stores have three to five good harvests remaining before rationing becomes mandatory.*
+>
+> *I need to know why it failed. I need to know if it can be completed. I am not asking you to find a solution — I am asking you to find the truth. Whatever that truth is.*
+>
+> *The Civic Archive holds Corven's original research in a restricted collection on the third floor. Archivist Theron Waide will grant you access with this letter. After the Archive, there is a woman named Sera Voss at the Dawnhall on Crestwick Lane in the Lowmark. She knows the Dawnborn community. She will know you are coming.*
+>
+> *I suspect the answer is not easy. That is why I am not reading the files myself."*
+
+She does not say what she suspects the documents contain. She does not explain why she is hiring people who stopped a Restorer ritual last night, instead of established Spire researchers. If asked: *"Because Spire researchers have institutional entanglements I cannot control. You do not."*
+
+**What players can ask:**
+- *What are the Dawnborn?* → "Ten people born the night of the ritual. They carry what we understand to be residual ritual energy. They live in Varenhold. Several run or work in the Dawnhalls."
+- *What do you think went wrong with the ritual?* → "I don't know. That is what I am paying you to find out."
+- *Why does it matter now?* → "The food assessment. Three to five harvests. After that, rationing. After rationing, something I would rather avoid."
+- *Who else knows about this investigation?* → A pause. "My aide and myself. As of this morning." She does not say what that pause means.
+
+**What players know when they leave:**
+- They have a job: find the truth about the ritual
+- They have a destination: the Civic Archive, then Sera Voss at the Dawnhall
+- They have a letter of introduction in the Chancellor's handwriting
+- They do not yet know that someone already knows about the investigation
+
+**Transition to Scene 1:**
+Players leave the Chancellor's building heading south toward the Spire Quarter's outer edge, then down into the Lowmark toward the Archive. The walk takes fifteen to twenty minutes. The Lowmark Junction is on the route. The food queue is there. So are the zealots.
+
+---
 
 ---
 
@@ -69,22 +117,15 @@ What they don't know yet:
 ### Scene Setup — Read This Before Running
 
 **Where players are coming from:**
-They have just left Chancellor Mira Ostenveld's private office in the Spire Quarter. The meeting ended within the last thirty minutes. They are on foot, heading south and downhill through the city toward the Varenhold Civic Archive — a fifteen to twenty minute walk.
-
-**What the Chancellor told them:**
-- The Ritual of Eternal Dawn was performed fifty years ago. It was meant to fix the sun in the sky permanently. It failed — or appeared to.
-- Grey sickness has been spreading in the lower city for years. Food production is failing. The situation is becoming urgent.
-- She wants to know why the ritual failed and whether it can be completed. She is hiring them specifically because she needs investigators who are not connected to the Amber Compact or the Spire's institutional research apparatus.
-- She has written them a letter of introduction for the Civic Archive. The restricted stacks on the third floor contain Corven's original ritual research. The Master Archivist (Theron Waide) will grant them access.
-- She has also named one contact in the Dawnborn community: **Sera Voss**, who runs the Dawnhall on Crestwick Lane in the Lowmark. *"She is trustworthy. She will know you are coming."*
-- She did not say what she suspects the ritual research contains. She did not ask players to find a solution — only to find the truth.
+They have just left the Chancellor's private office — the opening beat of this session. The meeting ended within the last thirty minutes. They have a job, a letter of introduction, and a destination: the Civic Archive. They are on foot, heading south and downhill through the Spire Quarter toward the Lowmark — a fifteen to twenty minute walk. The Lowmark Junction is on the route.
 
 **What players know walking into this scene:**
-- They have a job: investigate a fifty-year-old failed ritual
-- They have a destination: the Civic Archive, Spire Quarter
-- They have a contact: Sera Voss, the Dawnhall
+- They were just hired by Chancellor Ostenveld to investigate why the Ritual of Eternal Dawn failed fifty years ago
+- Their first stop is the Civic Archive to access Corven's restricted research documents
 - They have a letter of introduction signed by the Chancellor
+- They have a second contact later: Sera Voss at the Dawnhall
 - They do not yet know who the Dawnborn are, what "living conduit mechanism" means, or that anyone is watching them
+- They have not encountered the Restorers as an organised political force yet (they encountered zealots in Session 0.5 but may not have known the name of the faction)
 
 **How to open the scene at the table:**
 Set the walk first. One or two sentences of city texture as they move south from the Spire Quarter into the Lowmark — the amber twilight, the streets narrowing, the food queue visible in the distance at the junction ahead. Then use one of the three read-aloud variants below depending on how the party is moving. The fight starts on initiative; the read-aloud ends with *"They are waiting. They are waiting specifically for you"* (or your chosen variant) — then ask for Perception rolls if you want, or go straight to initiative.
