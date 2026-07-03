@@ -66,11 +66,33 @@ What they don't know yet:
 
 ## Scene 1 — Opening Combat: The Restorer Ambush
 
-**What players are doing:** Walking to the Civic Archive on their first day of the investigation — a route they chose themselves, or the Chancellor's aide recommended. They have just been hired. They have documents to retrieve. They have not yet encountered any opposition.
+### Scene Setup — Read This Before Running
 
-**Why they're here:** The Archive holds Corven's restricted research on the ritual. The Chancellor's letter of introduction gets them access to the building. Getting into the restricted stacks requires solving the door. Getting to the door requires crossing the Lowmark Junction — which is where the ambush is waiting.
+**Where players are coming from:**
+They have just left Chancellor Mira Ostenveld's private office in the Spire Quarter. The meeting ended within the last thirty minutes. They are on foot, heading south and downhill through the city toward the Varenhold Civic Archive — a fifteen to twenty minute walk.
 
-**What's going on in the story:** Someone in the Restorer network was informed of the investigation within hours of the players' meeting with the Chancellor. Brother Edoran sent five people to intercept them — not to kill, to warn and delay. Edoran himself is watching from the east alley. He will not intervene in the fight. He wants to see what kind of people these are before deciding his next move.
+**What the Chancellor told them:**
+- The Ritual of Eternal Dawn was performed fifty years ago. It was meant to fix the sun in the sky permanently. It failed — or appeared to.
+- Grey sickness has been spreading in the lower city for years. Food production is failing. The situation is becoming urgent.
+- She wants to know why the ritual failed and whether it can be completed. She is hiring them specifically because she needs investigators who are not connected to the Amber Compact or the Spire's institutional research apparatus.
+- She has written them a letter of introduction for the Civic Archive. The restricted stacks on the third floor contain Corven's original ritual research. The Master Archivist (Theron Waide) will grant them access.
+- She has also named one contact in the Dawnborn community: **Sera Voss**, who runs the Dawnhall on Crestwick Lane in the Lowmark. *"She is trustworthy. She will know you are coming."*
+- She did not say what she suspects the ritual research contains. She did not ask players to find a solution — only to find the truth.
+
+**What players know walking into this scene:**
+- They have a job: investigate a fifty-year-old failed ritual
+- They have a destination: the Civic Archive, Spire Quarter
+- They have a contact: Sera Voss, the Dawnhall
+- They have a letter of introduction signed by the Chancellor
+- They do not yet know who the Dawnborn are, what "living conduit mechanism" means, or that anyone is watching them
+
+**How to open the scene at the table:**
+Set the walk first. One or two sentences of city texture as they move south from the Spire Quarter into the Lowmark — the amber twilight, the streets narrowing, the food queue visible in the distance at the junction ahead. Then use one of the three read-aloud variants below depending on how the party is moving. The fight starts on initiative; the read-aloud ends with *"They are waiting. They are waiting specifically for you"* (or your chosen variant) — then ask for Perception rolls if you want, or go straight to initiative.
+
+**Before you run this scene, confirm:**
+- Where is the sealed note? (In Z4's belt pouch — visible from 20 ft, amber wax seal. Plant it in your read-aloud.)
+- Where is Edoran? (30 ft east, inside the east alley mouth. He does not move or speak unless players reach him.)
+- What is the Enforcer's instruction? (Warn and delay — not kill. He goes silent when surrendering; that silence is his whole character.)
 
 ---
 
