@@ -2294,246 +2294,273 @@ The moment works when a player says "wait, I'm doing that instead" and the table
 
 ---
 
+## Scene 2 — The Archive Door
+
 <details>
 <summary>🌍 Environment & Setup</summary>
 
-**Location:** The Varenhold Civic Archive is a narrow stone tower in the Spire Quarter, six storeys of shelf-lined walls and a central reading column. Players arriving after Scene 1 (the ambush) enter through the public entrance on the north face — stone archway, a reading clerk at a desk, brass plaque: VARENHOLD CIVIC ARCHIVE — ESTABLISHED UNDER ARCHMAGISTER CORVEN'S CHARTER.
+**Location:** The Varenhold Civic Archive, a narrow stone tower in the Spire Quarter. Players arrive here approximately 20 minutes after the Scene 1 ambush. Sixth-floor reading room, third-floor restricted corridor.
 
-**Transition from Scene 1:** The Lowmark Junction is twenty minutes south. Players pass through the quieter Spire Quarter streets — wider, better-lit, fewer people. The Archive is visible from three blocks out: the only tower in the district without a lantern at its peak.
+**Transition from Scene 1:** Lowmark Junction is 20 minutes south. Players pass through quieter Spire Quarter streets — wider, better-lit, fewer people. The Archive is visible three blocks out: the only tower without a lantern at its peak.
 
 **Read-aloud (when players enter and reach the third floor):**
-> The Archive smells of dry paper and lamp oil — the particular smell of documents preserved too long in a building that doesn't quite trust fresh air. The public shelves run to the left, orderly, catalogued in brass-lettered blocks. The third floor landing is narrower than the floors below. A clerk meets you here — young, efficient, ink-stained at the cuffs — and directs you down the left corridor.
+> The Archive smells of dry paper and lamp oil. The public shelves run to the left, orderly, brass-lettered. The third floor landing is narrower than the floors below. A clerk — young, efficient, ink on his cuffs — meets you here and directs you down the left corridor.
 >
-> At the corridor's end, a door.
+> At the corridor's end: a door. Not like the others. Every inch of its face is carved — not decoratively, but precisely, in horizontal bands of symbols you don't immediately recognise. In the centre, where you'd expect a keyhole: a riddle, carved into the stone lintel above.
 >
-> Not like the others. The others are functional. This one is carved — not decoratively, but precisely, every inch of its face marked in a notation you don't immediately recognise. The carving covers both panels, top to bottom, in horizontal bands, each band containing a different set of symbols. In the centre, at eye level, where you would expect a keyhole: a single word, carved into the stone lintel above it.
->
-> The word is in Archmagister Corven's private notation. You'd need the key to read it.
->
-> Beside you, the clerk says: "This door hasn't opened in eleven years. The Master Archivist has the combination if you need assistance." Then he walks back down the corridor, quickly, like he would prefer not to be here when you try.
+> The clerk says: "This door hasn't opened in eleven years. The Master Archivist has the combination if you need assistance." Then he walks back down the corridor quickly, like he'd prefer not to be there when you try.
 
 **Five senses:**
 
-- **Sight:** A long corridor, flagstone floor, three brass lanterns in brackets giving amber light. The door at the end fills the corridor — double-panelled, heavy oak, iron-banded at corners and midpoint. The carvings cover it completely: horizontal bands of symbols, geometric, precise. The lintel carving above the door reads in Corven's notation.
-- **Sound:** The Archive is quiet in the specific way old buildings are quiet — absorbed sound, the faint creak of the building settling, distant footsteps from a floor below. No voices.
-- **Smell:** Dry paper. Lamp oil. Old stone. Something like cedar — the Archive stores its most valuable documents in cedar-lined cases on this floor.
-- **Touch:** The carved symbols on the door face, if a player touches them: sharp-edged and deliberate, each character formed with tool-work that took time. The door itself does not budge when pushed. It is not locked in any conventional sense — there is no latch, no bolt visible. Whatever holds it closed is the carving itself.
-- **Taste:** The dust-and-cold-air taste of a room that has been closed for eleven years. It gets into the mouth as you approach the door.
-
-**What the scene tells players before anyone speaks:**
-- The door has been closed for eleven years
-- Whoever designed it expected people to solve it, not break it
-- The carvings are not decorative — they are functional in a way the players don't yet understand
-- Theron Waide is somewhere in the Archive. He knows players are here. He has not appeared yet.
+- **Sight:** Corridor, flagstone floor, three brass lanterns, the carved door filling the corridor end.
+- **Sound:** Old-building quiet, absorbed sound, distant footsteps from below, no voices.
+- **Smell:** Dry paper, lamp oil, old stone, cedar from document cases.
+- **Touch:** Carved symbols sharp-edged and deliberate, door doesn't budge when pushed — no latch visible.
+- **Taste:** Dust-and-cold-air of a room closed eleven years.
 
 **Map reference:**
 ```
 CIVIC ARCHIVE — THIRD FLOOR
 [STAIR LANDING — centre]
 [Public shelves: left/east wing]
-[Clerk desk: stair landing]
-[Restricted corridor: right/west, straight ahead from landing]
-[RESTRICTED DOOR: end of west corridor, 40ft from landing]
-[Theron's office: adjacent to restricted corridor, door closed]
+[Restricted corridor: right/west]
+[RESTRICTED DOOR: end of corridor, 40ft from landing]
+[Theron's office: adjacent, door closed]
 ```
 
 </details>
 
-## Scene 2 — The Riddle: The Archive Door
+<details>
+<summary>🧩 Puzzle — The Riddle Door</summary>
 
-**Setup:** The Varenhold Civic Archive — a stone tower in the Spire Quarter, dim amber light, shelves floor to ceiling. A junior clerk meets them at the third floor landing and directs them toward the restricted stacks. The door to the restricted section is sealed. Carved into its face, in Corven's private notation, is the lock mechanism. The junior clerk mentions, almost as an aside, that this door has not opened in eleven years.
+**The riddle (carved into the stone lintel above the door):**
+> *I am given only when no one compels it.*
+> *Forced, I become something else entirely.*
+> *I am the difference between a gift and a theft.*
+> *What word names the thing that makes the difference?*
 
-**The Riddle:**
-> I am given only when no one compels it.
-> Forced, I become something else entirely.
-> I am the difference between a gift and a theft.
-> What word names the thing that makes the difference?
+**Answer:** CONSENT — players must speak the word aloud at the door.
 
-**Answer:** CONSENT
+**Correct result:** The notation carvings shift. The door swings inward.
 
-**Correct:** The notation carvings shift. The door swings inward. The restricted stacks are visible beyond — rows of bound folios in the same amber half-dark as the rest of the Archive.
+**Wrong (first attempt):** A low resonance tone sounds through the door — audible from the floor below. Junior clerks look up. Footsteps on stairs. Theron Waide appears at the landing, coat askew, ink on his sleeve. He looks at the door. He looks at the players. He says nothing immediately.
 
-**Wrong (first attempt):** A low resonance tone sounds through the door — not painful, but audible from the floor below. Junior clerks on the reading level look up. Footsteps on the stairs. Theron Waide appears at the landing, coat askew, ink on his sleeve. He looks at the door. He looks at the players. He says nothing immediately.
+**Wrong (third attempt):** The tone sharpens. A thin crack of light runs along the door frame and fades. The door won't respond for one hour. Theron, if present, closes his eyes briefly: *"Perhaps I should show you what I know before you try again."*
 
-**Wrong (third attempt):** The tone sharpens. A thin crack of light runs along the door frame and fades. The door will not respond for one hour. Theron, if present, closes his eyes briefly and then says: *"Perhaps I should show you what I know before you try again."* This moves the RP scene forward — Theron becomes the guide rather than the players solving it cold.
+**Theron Waide — brief profile:** Master Archivist. 60s, grey coat, looks like someone who has spent 11 years avoiding a specific thought. He has been destroying his own notes. He knows the answer — CONSENT — but will not say it. He is waiting for someone else to open the door.
 
-**GM Note:** The riddle's answer is the campaign's central word. Players who solve it before Theron intervenes are already asking the right question.
+</details>
+
+<details>
+<summary>🎬 GM Notes</summary>
+
+The riddle's answer is the campaign's central word. Players who solve it before Theron appears are already asking the right question.
+
+Do not prompt players toward the answer. Let them work it.
+
+Theron appearing on the wrong-first-attempt is not punishment — it's an opportunity. He is a person with secrets and players just got him into the same corridor.
+
+**Secondary objective:** Get players to ask Theron why he never opened the door himself. His answer ("I knew the answer. I could not bring myself to say it out loud.") is a preview of Session 2's confession.
+
+</details>
 
 ---
+
+## Scene 3 — The Star-Wheel
 
 <details>
 <summary>🌍 Environment & Setup</summary>
 
-**Location:** Past the Archive Door, the restricted stacks. The shelves here are different from the public floor — older, taller, and arranged in a radial pattern around the central column rather than in rows. The central column houses the star-wheel mechanism.
+**Location:** Inside the restricted stacks. Radially arranged shelves — ten spokes from a central column, each labeled with a constellation symbol. The central column holds the brass star-wheel mechanism.
 
-**Transition:** Players have either solved the Archive Door riddle or Theron has brought them through (after the wrong-third-attempt prompt). Either way, the door swings inward, and the smell of the restricted stacks hits them.
+**Transition:** Players have solved the Archive Door or Theron has brought them through. The door swings inward and the smell hits.
 
 **Read-aloud (entering the restricted stacks):**
-> The door opens inward and the smell is different from the rest of the Archive. Older. Less maintained. There is dust in the air that rises when you cross the threshold, catching in the lantern light that follows you in.
+> The door opens inward and the smell is different — older, less maintained. Dust rises when you cross the threshold.
 >
-> The stacks behind the door are radially arranged — shelves extending outward from a central column like spokes, curving slightly at their ends, each spoke labeled at its base with a constellation symbol. You count ten spokes. The shelves themselves are ten feet tall and built of dark-stained oak that has been here long enough to smell like the stone walls.
+> The stacks are radially arranged: shelves extending from a central column like spokes, curving slightly at the ends. Ten spokes. Each labeled at its base with a constellation symbol. The shelves are ten feet tall, dark-stained oak that has been here long enough to smell like the stone walls.
 >
-> At the central column: the mechanism. Three brass rings set into the column face, each engraved with different constellation symbols, each with a small indicator mark. The rings rotate independently. Their current positions are arbitrary — wherever the last person left them, eleven years ago.
+> At the central column: the mechanism. Three brass rings, each engraved with constellation symbols, each with an indicator mark. They rotate independently. Their current positions are arbitrary — wherever the last person left them, eleven years ago.
 >
-> On the east wall: a star chart. Full-size, hand-drawn on vellum, mounted in a frame of the same dark oak as the shelves. It covers the full eastern sky visible from Varenhold — hundreds of stars plotted with their rise positions marked. At the top of the chart, in plain lettering: *THE DAWNMARK — Position at Ritual Night, 50 years prior.*
+> On the east wall: a star chart. Full-size, hand-drawn on vellum. It covers the full eastern sky visible from Varenhold. At the top, in plain lettering: *THE DAWNMARK — Position at Ritual Night, 50 years prior.*
 
 **Five senses:**
 
-- **Sight:** Shelves curving away from the central column into semi-darkness — the lantern you carry reaches perhaps fifteen feet, and beyond that the spokes disappear into amber shadow. The brass rings at the column center catch the light, well-made and recently polished (Theron, probably, in the years when he still visited). The star chart on the east wall is large enough to see from the column without approaching.
-- **Sound:** Near silence. The kind of silence that accumulates in a room where the door has been closed for eleven years. Your footsteps sound too loud. The brass rings move smoothly but emit a low mechanical resistance sound when turned — the sound of a mechanism that hasn't been used.
-- **Smell:** Paper, old ink, cedar-oil from the preservation cases, and dust. The dust is distinctive — not the ordinary dust of a neglected room but the specific smell of documents that have been waiting. It's not unpleasant. It's the smell of everything in here having been left exactly as it was.
-- **Touch:** The brass rings are smooth and cool. They turn with deliberate resistance — not stuck, just weighted, requiring intent to move. The shelves themselves, when touched: solid. Nothing loose, nothing rotten. Corven built this to last.
-- **Taste:** The dust is in the air. It gets into the throat if you breathe deeply.
-
-**What the scene tells players:**
-- The mechanism controls shelf access — wrong configuration shifts the shelves physically, which explains why the stacks look different each time
-- The star chart is not a decoration; it is the solution, mounted in plain view
-- Someone has been maintaining parts of this room, at intervals, for eleven years — the brass is polished, the oil in the mechanism is fresh. Theron, probably. He has been keeping it ready.
+- **Sight:** Shelves curving into semi-darkness, brass rings catching lantern light, star chart visible from the column.
+- **Sound:** Near silence of a room closed eleven years — footsteps sound too loud, brass rings emit low mechanical resistance when turned.
+- **Smell:** Paper, old ink, cedar-oil, distinctive waiting-dust.
+- **Touch:** Brass rings smooth and cool, turn with weighted deliberate resistance — not stuck, just requiring intent.
+- **Taste:** Dust in the throat if breathing deeply.
 
 **Map reference:**
 ```
 RESTRICTED STACKS — RADIAL LAYOUT
-[Central column: star-wheel mechanism, 3 brass rings]
-[10 spokes radiating outward, each labeled with constellation symbol]
-[East wall: full star chart (The Dawnmark — Ritual Night position)]
-[Shelf 4-17-3: on spoke 4, 17ft from center, 3rd shelf from floor]
-[Correct ring settings: Vael's Crown / Shepherd's Eye / Trailing Light]
+[Central column: 3 brass rings, star-wheel mechanism]
+[10 spokes radiate outward, constellation labels at base]
+[East wall: full star chart — THE DAWNMARK]
+[Shelf 4-17-3: spoke 4, 17ft from center, 3rd shelf up]
+[Correct settings: Vael's Crown / Shepherd's Eye / Trailing Light]
 ```
 
 </details>
 
-## Scene 3 — The Puzzle: The Star-Wheel Navigation
+<details>
+<summary>🧩 Puzzle — The Star-Wheel Navigation</summary>
 
-**Setup:** Inside the restricted stacks, the shelves are not arranged by subject or date. Corven designed an astronomical organisation system: each shelf section corresponds to a constellation visible from Varenhold. To reach shelf 4-17-3 — where his final documents are stored — players must align a brass star-wheel mechanism set into the central column of the stacks. Three rotating rings, each engraved with constellation symbols. The mechanism controls which shelf sections are accessible; wrong configurations physically rotate the shelves into new positions, obscuring the paths.
+**The mechanism:** Three brass rings, each engraved with constellation symbols. Must be set to the three stars of the Dawnmark constellation in west-to-east rise order.
 
-**The Puzzle:** On the Archive's east wall, a full star chart is mounted in plain view, labeled in common script. It marks the Dawnmark constellation — the grouping that was directly overhead on the night of the Ritual of Eternal Dawn, fifty years ago. The three rings must each be set to one star in the Dawnmark constellation, in the order they rise (west to east across the chart). The chart provides all the information needed. The puzzle rewards observation, not guesswork.
+- Ring 1: **Vael's Crown** (leftmost star, the anchor point)
+- Ring 2: **Shepherd's Eye** (middle star, the pivot)
+- Ring 3: **Trailing Light** (rightmost star, the brightest)
 
-Ring 1: set to Vael's Crown (leftmost star, the anchor point).
-Ring 2: set to the Shepherd's Eye (middle star, the pivot).
-Ring 3: set to the Trailing Light (rightmost star, the brightest).
+The star chart on the east wall provides all information needed. No roll required if players examine it. DC 12 Arcana or Investigation confirms the reading and gives order.
 
-**Solution:** Players who examine the star chart and compare it to the ring symbols can identify the correct configuration without any roll. A DC 12 Arcana or Investigation check confirms the reading and gives the order. Players can also try combinations; only one configuration unlocks shelf 4-17-3 without triggering a rotation.
+**Partial success (2 of 3 correct):** Shelves shift to reveal shelves 4-17-1 and 4-17-2. Correct shelf is visibly one configuration away.
 
-**Partial success:** If players get two of three rings correct, the shelves shift to reveal an adjacent section — shelf 4-17-1 and 4-17-2 open but not 4-17-3. They can see the correct shelf is one configuration away.
+**Failure (wrong full configuration):** Shelves physically rotate. 30-minute time cost. One level of exhaustion on whoever turned the wheel. After two failures: distant footsteps sound from below.
 
-**Failure:** Each wrong full configuration rotates the shelves. The disorientation and noise cost 30 minutes of real time and impose one level of exhaustion on whoever is operating the mechanism (the wheel requires sustained physical effort to turn). After two failed configurations, the Archive's ambient noise changes — distant footsteps, the sound of someone moving on a lower floor.
+**Success:** Shelf 4-17-3 opens. Inside: Corven's public summary ("distributed sympathetic anchors," "living conduit mechanism" — no names, no deaths explained yet) + Fragment 1 of the Notation Key.
 
-**Success:** Shelf 4-17-3 opens. Inside: Corven's public notes on the ritual — not the confession (that is Session 2), but enough. The notes reference "distributed sympathetic anchors" and "the living conduit mechanism" without naming what the conduits are. Also present: Fragment 1 of the Notation Key, a single sheet of Corven's private cipher in his handwriting. Players will need two more fragments to assemble the full key.
+**Note:** The brass is recently polished; the oil in the mechanism is fresh. Someone has been maintaining this room for eleven years. Theron has been keeping it ready without being able to use it.
 
-**Connected to:** The Notation Key fragment is required to decode Corven's personal journal in Session 2. Players who find it here have a head start on Theron's box puzzle next session.
+</details>
+
+<details>
+<summary>🎬 GM Notes</summary>
+
+The star chart is the solution, mounted in plain view on the east wall. This is intentional. Corven wanted someone to find this.
+
+Don't let this drag. Players who examine the chart should find the answer with one good look.
+
+The exhaustion from failed turns is a gentle clock, not a punishment. After two failures, the distant footsteps below are Theron hearing the shelves rotate — he'll appear on the third failure to help.
+
+**Secondary objective:** Players notice Theron has maintained the room (polished brass, fresh oil) for 11 years without opening the door. What does that mean about the kind of guilt that keeps a person hovering at a threshold but never crossing it?
+
+</details>
 
 ---
+
+## Scene 4 — Sera Voss at the Dawnhall
 
 <details>
 <summary>🌍 Environment & Setup</summary>
 
-**Location:** The Dawnhall, Crestwick Lane, Lowmark district. A converted building — grain storage originally, now the most important care facility in the Lowmark for grey sickness sufferers. One long common room on the ground floor. Sera runs the evening food service.
+**Location:** The Dawnhall, Crestwick Lane, Lowmark. A converted grain-storage building — now the primary care facility for grey sickness sufferers in the Lowmark. One long common room, ground floor. Evening food service in progress.
 
-**Transition from the Archive:** Players leave the Spire Quarter and return into the Lowmark — 20-minute walk, downhill, streets getting narrower. The Dawnhall is on Crestwick Lane, identified by a carved sun-symbol above the door (pre-twilight, old paint). By the time they arrive, it is evening: service time.
+**Transition from the Archive:** Players leave the Spire Quarter and walk downhill back into the Lowmark, 20 minutes. The Dawnhall is identified by a carved sun-symbol above the door (old paint, pre-twilight). Evening now — service time.
 
-**Read-aloud — Variant A (Players de-escalated Scene 1):**
-> The door opens inward and the warmth hits before your eyes have adjusted. Not the warmth of a fire exactly — the warmth of forty people in an enclosed space, of broth in a cauldron, of woodsmoke from a kitchen you can hear but not see through a half-open door in the north wall.
+**Read-aloud — Variant A (Scene 1 went cleanly):**
+> The door opens inward and the warmth hits before your eyes adjust. Forty people, a broth-heavy kitchen, woodsmoke from behind a half-open door in the north wall.
 >
-> Long tables run south to north. Mismatched chairs — benches, stools, two that look like they came from different buildings entirely. Forty people, perhaps more: some eating in silence, some in quiet conversation, a child leaning against her mother's arm with her eyes half-closed. Most of them look grey. Not uniformly — there is a spectrum to it, the first-week pallor and the third-year hollow both visible in the same room.
+> Long tables, mismatched chairs. Most of the people look grey — there's a spectrum to it, the first-week pallor and the third-year hollow both in the same room. A man coughs from the far corner, controlled, practiced. No one reacts.
 >
-> On a hook by the door, level with your eye: a yellow scarf. It is the only yellow thing in the room.
+> On a hook by the door: a yellow scarf. The only yellow thing in the room.
 >
-> At the northeast corner, her back to you, a woman in an apron is serving soup from a cauldron that looks older than the building. She knows you're there. You can tell by the particular stillness of her shoulders. She fills one more bowl. Hands it to a teenager standing beside her. Then she removes her cooking gloves, tucks them into her apron pocket, and turns.
+> At the northeast corner, her back to you, a woman in an apron is serving soup. She knows you're there before she turns. She fills one more bowl. Hands it to a teenager without looking. Removes her cooking gloves. And turns.
 >
-> She is not surprised to see you.
+> She is not surprised.
 
-**Read-aloud — Variant B (Players fought through the crowd / Scene 1 was messy):**
-> The door opens and the warmth hits you — forty people, a kitchen fire, broth on the boil. Long tables, mismatched chairs, the particular quiet of a room where the worst thing has already happened.
+**Read-aloud — Variant B (Scene 1 was rough or messy):**
+> The warmth hits you at the threshold — forty people, a kitchen fire, broth on the boil. Long tables, mismatched chairs, the specific quiet of a room where the worst thing has already happened.
 >
-> At the northeast corner, a woman in an apron is serving soup. She knows you're there before she turns. When she does turn, she looks at each of you in turn — not hostile, but thorough. Then she sets down the ladle.
+> At the northeast corner, a woman in an apron is serving soup. She already knows you're there. When she turns, she looks at each of you — not hostile, thorough. Then she sets down the ladle.
 >
 > "I heard about the junction," she says. "Word travels fast in the Lowmark."
 
 **Five senses:**
 
-- **Sight:** The Dawnhall common room — 50 feet deep, 30 feet wide. Three rows of tables, south-to-north. No decorations on the stone walls. On the south wall, coat hooks — mostly grey and brown coats and scarves. One yellow scarf on a hook by the main entry. Sera: late 40s, dark hair pinned up, apron, moving with the economy of someone who never wastes motion. A small pendant at her collarbone — warm amber stone.
-- **Sound:** Low voices, spoon on clay bowl, someone coughing from the far corner (controlled, practiced — the cough of someone who has learned not to alarm people). A child's question to her mother, too quiet to make out words. The kitchen producing steam sounds and the smell of soup.
-- **Smell:** Onions cooked long, root vegetable broth, woodsmoke. Beneath that, the specific clean smell of grey sickness being managed carefully — not rank, but present. Someone has been using vinegar on the tables.
-- **Touch:** The air is warm. The table nearest the door is worn smooth from years of hands and bowls.
-- **Taste:** The air is dense enough to taste — broth, warmth, the particular thickness of a soup kitchen at the end of an evening service.
-
-**GM note — Sera knows who players are:**
-Sera was the one who recommended the players to Chancellor Ostenveld. She did not explain why. She has been watching for specific people for months. When they walk in, she already knows: these are the ones.
-
-What she knows about Scene 1 (the ambush): word travels fast in the Lowmark. Within an hour of the junction fight, she has heard four different accounts. She knows players were ambushed. She knows they dealt with it. She has formed a preliminary opinion of them based on the street's account. That opinion shapes her opening line (see dialogue variants above).
+- **Sight:** 50ft deep, 30ft wide common room, three rows of tables, stone walls bare, yellow scarf on hook by entry — only yellow object, Sera late 40s dark hair pinned for kitchen work, amber pendant.
+- **Sound:** Low voices, spoon on clay, cough from far corner, child's question to mother, kitchen sounds.
+- **Smell:** Onions cooked long, root vegetable broth, woodsmoke, the clean-but-present smell of grey sickness being managed.
+- **Touch:** Air warm, table nearest door worn smooth from years of hands.
+- **Taste:** Broth and warmth dense enough to taste at the threshold.
 
 **Map reference:**
 ```
-DAWNHALL COMMON ROOM — CRESTWICK LANE
+DAWNHALL — CRESTWICK LANE
 [NORTH WALL — kitchen door, half-open]
-[TABLES: 3 rows, south-to-north, mismatched chairs]
-[~40 people at tables, various stages of grey sickness]
-[NORTHEAST CORNER — soup cauldron, Sera's position on arrival]
-[SOUTH WALL — main entry door, coat hooks]
-[HOOK BY ENTRY — yellow scarf, only yellow object in the room]
-[Pendant: visible at arm's reach]
-[Bell: north wall above kitchen door, rings for lights-out]
+[3 rows of tables, south-to-north]
+[~40 people seated]
+[NORTHEAST CORNER — soup cauldron, Sera on arrival]
+[SOUTH WALL — entry, coat hooks]
+[Hook by entry: yellow scarf — only yellow in room]
+[Bell: north wall above kitchen door — rings lights-out]
 ```
 
 </details>
 
-## Scene 4 — The RP Scene: Sera Voss at the Dawnhall
+<details>
+<summary>🎭 RP — Sera Voss</summary>
 
-**NPC:** Sera Voss
-**Want:** To know that someone trustworthy is finally looking — and to be part of that, not managed by it
-**Fear:** That the players will find the truth and then disappear into a room with the Chancellor without telling her
-**Lie:** That she is fine with not knowing. She has been waiting to be told for a long time and she has made peace with the wait. She has not.
+**Sera Voss — Want / Fear / Lie:**
+- **Want:** For someone trustworthy to be finally looking — and to be part of it, not managed by it.
+- **Fear:** That players find the truth and disappear into a Chancellor's meeting without telling her.
+- **Lie:** That she's fine with not knowing. She is not. She has been waiting to be told for a long time.
 
-**Setup:** Late in the day, the players arrive at the Dawnhall in the Lowmark. Sera is serving food at the long table when they enter — ladling from a heavy pot, moving efficiently down the line. She already knows who they are. She recommended them to the Chancellor without telling the Chancellor why. When she sees the players, she finishes the ladle-pull, sets down the pot, and wipes her hands. She takes her time about it.
+**What she knows:** She recommended the players to the Chancellor without explaining why. She has been watching for specific people. She heard about Scene 1 — word travels fast in the Lowmark, she had four different accounts within an hour.
 
-**Five senses:**
-- Sight: a long room, amber lanterns in rows, forty people eating at benches, steam rising from the serving pots
-- Sound: low voices, the scrape of wooden spoons, a child asking for more, Sera's even voice directing a volunteer
-- Smell: warm bread and root vegetable broth, woodsmoke from the kitchen door, lamp oil underneath everything
+**The encounter beat:** She sits down ACROSS from players, not at the table's end — elbows on the surface, eye level. She looks at each player once, briefly. Then she says something specific to each.
 
-**The Encounter Beat:** Sera sits down across from the players — not at the end of the table like a host, but in the middle of it, elbows on the surface, eye level with whoever she's talking to. She looks at each player in turn, briefly. Then she says something specific to each one — a detail she couldn't know from a Chancellor's report. Not threatening. Observational. She has been watching the people who came through the Dawnhall for twenty years and she remembers all of them. She has been watching the players since they arrived in Varenhold. Not with suspicion — with the particular attention of someone who has been waiting for specific people to show up.
+**What she tells them this session (not the full truth):** What it felt like to grow up carrying something she didn't understand. *"I've always run warmer than I should. Even in winter, people notice. I thought it was my mother's side."* A shrug. *"I stopped asking about the ritual because every scholar who tried to explain it left looking pale. I decided they were bad at their jobs."*
 
-She does not tell them the truth this session. She tells them what it felt like to grow up carrying something she didn't understand. Not dramatically — practically. *"I've always run warmer than I should. Even in winter, people notice. I thought it was my mother's side."* She shrugs. *"I stopped asking about the ritual because every scholar who tried to explain it left looking pale. I decided they were bad at their jobs."*
+**The line:** *"Whatever you find — come back and tell me. I've been waiting to be told for a long time."* She doesn't say what she means. She picks up the ladle and goes back to work.
 
-She goes quiet for a moment. Then: *"Whatever you find — come back and tell me. I've been waiting to be told for a long time."* She doesn't say what she means by that. She picks up the ladle and goes back to the food line.
-
-**Sample dialogue (GM prompt, not script):**
+**Sample dialogue:**
 - "You're the Chancellor's people. She told me she was sending someone serious this time."
 - "I know you found something in the Archive. You're all walking differently. What did it say?"
-- "I'm not asking for the full truth tonight. Just — tell me it's real. Tell me there's actually something there."
+- "I'm not asking for the full truth tonight. Just — tell me it's real."
+- [If players ask about the scarf]: She glances at it. "My mother's. I don't wear it inside. Too precious." She doesn't elaborate.
+- [If players ask how she's doing]: She is still for a moment. "I'm all right. Most days." She does not elaborate unless pushed.
+- [If pushed]: "Ask me again after."
 
-**How it connects forward:** The players now have a face attached to the word "Dawnborn." Session 2's reveal lands because of this scene. When Theron says *"extinguished,"* they will see Sera's face.
+</details>
+
+<details>
+<summary>🎬 GM Notes</summary>
+
+Scene runs until the Dawnhall bell rings lights-out. Let it breathe — 15-30 real minutes. Don't rush it.
+
+Sera is not a quest-giver. She's a person with information. The scene fails if players treat her as a database.
+
+**Secondary objective:** Get players to ask something not investigation-related (the scarf, the kitchen, her faith, the teenager with the ladle). Any personal question earns a relationship that pays off in Sessions 3-5.
+
+If players try to convince her not to consent: "It's not yours to change." She says this once, patient and final, and does not re-open the argument.
+
+**How it connects forward:** Players now have a face attached to "Dawnborn." When Theron says "extinguished" in Session 2, they will see Sera's face.
+
+</details>
 
 ---
+
+## Scene 5 — The Second Ambush
 
 <details>
 <summary>🌍 Environment & Setup</summary>
 
-**Location:** Evening, Crestwick Lane or the road between the Dawnhall and the Archive Quarter. The Lowmark is quieter now — the food queue is done, fewer people in the streets. Amber lanterns at intervals, long shadows.
+**Location:** Evening. Crestwick Lane, or the road south of the Dawnhall toward the players' lodgings. The Lowmark at night — quieter than morning, lanterns lit, long shadows on wet cobblestone.
 
-**Transition:** Players leave the Dawnhall. The session has run several hours in-fiction. The ambush catches them on the road back — or on the way to their lodgings, or wherever they're going. Edoran has been watching since mid-afternoon and has positioned a second team.
+**Transition:** Players leave the Dawnhall. The session has run several hours in-fiction. Edoran has had them watched since mid-afternoon and has positioned a second team.
 
-**Read-aloud — Variant A (Players watching the street):**
-> The Lowmark at evening is quieter than it was this morning. The food queue is done. The junction is empty. The lanterns are lit on the corner posts, amber light lying flat on wet cobblestones.
+**Read-aloud — Variant A (players scanning the street):**
+> The Lowmark at evening is quieter than this morning. The food queue is done. The lanterns are lit on corner posts, amber light on wet stone.
 >
-> You're halfway down the block when you notice the stillness. Not the stillness of an empty street — the stillness of a street where the people who were here thirty seconds ago have found reasons to be somewhere else.
+> You're halfway down the block when you notice the stillness — not the stillness of an empty street, but the kind where the people who were here thirty seconds ago have found reasons to be somewhere else.
 >
-> Three figures step out of the west alley mouth. Another from the doorway behind you. A familiar kind of arrangement — exits covered, approach cut off, someone who knows what they're doing.
+> Three figures step from the west alley mouth. Another from the doorway behind you. A familiar arrangement — exits covered, approach cut off.
 >
-> From the east alley, thirty feet in, you can make out a figure standing completely still in shadow. Not moving. Not fleeing. Watching.
+> From the east alley, thirty feet in: a figure standing completely still in shadow. Not moving. Not fleeing. Watching.
 
-**Read-aloud — Variant B (Players moving quickly, not watching):**
-> The ambush is simpler than the first one. Three zealots and an Enforcer, appearing from two directions simultaneously. The Lowmark streets are quieter than this morning, fewer witnesses, the lanterns casting long shadows.
+**Read-aloud — Variant B (players moving fast, not watching):**
+> The ambush is quieter than this morning. Three zealots and an Enforcer from two directions simultaneously. The Lowmark streets are emptier, fewer witnesses.
 >
-> What's different this time: there's a figure in the east alley, thirty feet back, standing completely still in a dark coat. He didn't move when his people appeared. He isn't moving now. He is watching you with the specific attention of someone who has been waiting for a long time to see who you are when you're under pressure.
+> What's different: a figure in the east alley, thirty feet back, standing completely still. He didn't move when his people appeared. He isn't moving now. He is watching you with the attention of someone who has been waiting a long time to see who you are under pressure.
 
 **Five senses:**
 
-- **Sight:** The Lowmark at night — narrower streets than the Spire Quarter, amber lanterns at intervals, wet cobblestone, long shadows. The zealots are in the same grey-brown robes as Scene 1. The Enforcer is taller than his counterpart this morning. In the east alley: a figure in a plain dark coat, hood up, 30 feet back — visible as a shape, not a face.
-- **Sound:** The Lowmark quiet. Distant city noise. Boots on cobblestone, deliberate, converging. The ambush is quieter than Scene 1 — no food queue, no civilians to witness. Just stone walls and the sound of people who know where they're going.
-- **Smell:** Cold night air, lamp oil, wet stone. No food smells — the kitchens are closed.
-- **Touch:** Cold on exposed skin. The ambush closes fast — the figures are moving with purpose, not aggression. They want to contain, not kill.
-- **The alley figure:** If players look at the east alley figure, they can see he is not tense. He is still. There is no urgency in his posture. He has waited this long; he can wait longer.
+- **Sight:** Lowmark at night — narrower streets, amber lanterns, wet stone, long shadows; zealots same grey-brown robes as Scene 1; east alley figure dark coat, hood up, 30 feet back — visible as a shape not a face.
+- **Sound:** Distant city noise, boots on cobblestone deliberate and converging — quieter than Scene 1, no food queue civilians, just stone walls and people who know where they're going.
+- **Smell:** Cold night air, lamp oil, wet stone — kitchen smells gone, kitchens closed.
+- **Touch:** Cold on exposed skin, the ambush closing with contained purpose — they want to contain, not kill.
 
 **Tactical layout:**
 ```
@@ -2541,43 +2568,87 @@ CRESTWICK LANE — EVENING AMBUSH
 [ZEALOT 1: north, cutting off road ahead]
 [ZEALOT 2: west alley mouth]
 [ZEALOT 3: east-south, behind players]
-[ENFORCER: south, main approach]
+[ENFORCER: south, blocking main retreat]
 [EDORAN: 30ft into east alley, watching]
 
-Players: centre of block
-East alley: accessible if players break through or manoeuvre past zealot 3
+East alley: accessible if players manoeuvre past Zealot 3
 Edoran does not move toward players. He waits.
 ```
 
-**Secondary objective (reaching Edoran):**
-Players who disengage from the combat and reach the east alley find Edoran waiting. He does not flee immediately. He will wait for one exchange of words before stepping back into the dark. If players reach him, deliver:
+</details>
 
-> He doesn't step back when you enter the alley. He looks at you — really looks, the way someone looks when they've been waiting to — and then he says, quietly:
+<details>
+<summary>⚔️ Combat — The Restorer Team</summary>
+
+**Combat ends when** the Enforcer is reduced to half HP or dropped. Zealots scatter immediately without him.
+
+**Enforcer's instruction this time:** Do not let anyone reach the man in the alley. He will physically block the east alley entrance as a priority over attacking players.
+
+---
+
+**RESTORER ZEALOT (×3)**
+*AC 14 (leather + shield), HP 32, Speed 30 ft.*
+STR 14 (+2) DEX 12 (+1) CON 12 (+1) INT 10 WIS 12 (+1) CHA 10
+*Saves:* Con +3, Wis +3
+*Skills:* Athletics +4, Intimidation +2
+
+**Actions**
+- **Multiattack:** Two Club attacks, or one Club + Warning Grip.
+- **Club:** +4 to hit, 1d6+2 bludgeoning.
+- **Warning Grip** (replaces one attack): +4 to hit, grapples target (escape DC 14). While grappled: zealot holds club to throat and delivers warning ("Stop. Leave."). Does not deal damage while maintaining grapple.
+
+**Traits**
+- **Mercy Instinct:** If attack would reduce creature to 0 HP, stop at 1 HP instead (1/combat).
+
+---
+
+**RESTORER ENFORCER (×1) — Scene 5 version**
+*AC 16 (chain + shield), HP 65, Speed 30 ft.*
+STR 17 (+3) DEX 12 (+1) CON 15 (+2) INT 12 (+1) WIS 14 (+2) CHA 12 (+1)
+*Saves:* Str +5, Con +4, Wis +4
+*Skills:* Athletics +5, Intimidation +4, Perception +4
+
+**Actions**
+- **Multiattack:** Two Longsword attacks + one Shortsword.
+- **Longsword:** +5 to hit, 1d8+3 slashing.
+- **Shortsword:** +5 to hit, 1d6+3 piercing.
+
+**Bonus Action**
+- **Alley Guard:** If a player moves toward the east alley, the Enforcer uses his bonus action to move to block the entrance (does not provoke opportunity attacks from movement).
+
+**Special**
+- **Exit Condition:** When dropped to 33 HP or fewer, the Enforcer calls "Withdraw" — zealots Disengage as reactions and scatter into Lowmark streets. Enforcer follows last.
+
+---
+
+**Secondary objective:** One player can reach Edoran in the east alley if they get past or around the Enforcer. DC 12 Perception or automatic if actively scanning to notice Edoran before the fight starts. Reaching him:
+
+> He doesn't step back when you enter the alley. He looks at you — really looks, the way someone looks when they've been waiting to — and then says quietly:
 >
 > "You have no idea what you are looking for."
 >
-> A pause. Then: "When you find it, you will understand why I did not want you to."
+> A pause. "When you find it, you will understand why I did not want you to."
 >
-> He steps back into the dark. Three steps, and he's gone around the bend in the alley. He does not run. He simply walks until the shadow has him.
+> He steps back into the dark. Three steps. Gone around the bend. He does not run.
 
-**If players do not reach Edoran:**
-He watches the fight. When the Enforcer falls and the zealots scatter, he does not follow. He walks away at his own pace into the alley. Players see him go. He has seen what he needed to see.
+**If players don't reach Edoran:** He watches the fight. When the Enforcer triggers withdrawal, he walks away at his own pace. Players see him go. He has seen what he needed to see.
 
 </details>
 
-## Scene 5 — Closing Combat: The Second Ambush
+<details>
+<summary>🎬 GM Notes</summary>
 
-**Setup:** Evening. The players are leaving the Archive or heading back from the Dawnhall. Edoran has been watching the Archive entrance from across the street since mid-afternoon — a figure in a plain coat standing very still in an alley mouth. When the players emerge, three zealots and an Enforcer move to intercept them again. Edoran does not fight. He watches from the alley, thirty feet away, hood up.
+This scene runs shorter than Scene 1 — 15-20 minutes. The emotional payload is Edoran's words, not the combat.
 
-**Secondary Objective:** One player can see Edoran clearly if they look at the right alley at the right moment — DC 12 Perception or automatic if any player specifically scans the street before moving. If a player breaks off from the combat and reaches the alley, Edoran does not run immediately. He waits long enough to say: *"You have no idea what you are looking for. When you find it, you will understand why I did not want you to."* Then he steps back into the dark and is gone. The secondary objective is reaching him — getting those words — before he decides the conversation is over.
+The Enforcer's priority is blocking the alley, not defeating players. He is protecting Edoran's position so Edoran can choose when to leave.
 
-**Enemies:**
-- Restorer Zealots: 3, Cultist stats (MM p.345), same motivation as Scene 1
-- Restorer Enforcer: 1, Veteran stats (MM p.350), this one has a fresh instruction: do not let anyone reach the man in the alley
+Players who split attention between combat and the alley have the right instinct. Reward them.
 
-**Combat ends when:** The Enforcer is dropped. The zealots scatter immediately without him.
+Session closes after this scene. The session hook: players carry three things that don't connect yet — the note from Scene 1, Edoran's words, Sera's "I've been waiting to be told." They will connect in Session 2.
 
-**Session hook:** The players leave with three things that do not add up: the sealed note with Edoran's scripture quote, his words in the alley, and Sera's *"I've been waiting to be told."* None of these connect yet. They will.
+**Session debrief question:** *"Is hope worth chasing when you don't yet know what it costs?"*
+
+</details>
 
 ---
 
