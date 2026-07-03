@@ -123,6 +123,13 @@ Players leave the Chancellor's building heading south toward the Spire Quarter's
 
 **Confirm before running:** sealed note visible in Z4's belt pouch (amber wax) · Edoran 30 ft east in alley, watching · Enforcer instruction is warn-not-kill.
 
+<div class="scene-open">
+<span class="variant-label">Variant A — Party scanning carefully</span>
+The junction is busier than it should be at this hour. The food queue stretches from the distribution cart all the way to the east wall — fifteen people, maybe more, heads down, breath fogging in the amber half-light. You're tracking the lanterns, the exits, the shadows, which is why you see it first: four figures who are not in the queue, not moving toward it, not doing anything a person in the Lowmark has any reason to do. They are waiting. They are waiting specifically for you.
+<span class="variant-label">Variant B — Party moving fast, focused on Archive</span>
+The quickest route through the junction cuts past the food queue — you can see the distribution cart, the crates, the north lane that leads straight up toward the Archive. You're three steps into the intersection when you hear it: boots on cobblestone, fast and deliberate, from three directions at once. The crowd in the queue goes still. Someone grabs a child by the arm. A figure in the center of the north lane spreads his hands slowly, palms out, blocking the road. He is not asking.
+</div>
+
 ---
 
 <details>
@@ -2514,6 +2521,14 @@ You have the forged Compact trade inspector credentials in your inner pocket.
 **Open with:** clerk on third floor directs them to the corridor, leaves quickly. Then: the door, the riddle carved above.
 **Confirm:** riddle text carved above lintel · Theron's office adjacent, door closed · wrong attempt fires loud tone, brings Theron out.
 
+<div class="scene-open">
+The Archive smells of dry paper and lamp oil. The public shelves run to the left, orderly, brass-lettered. The third floor landing is narrower than the floors below. A clerk — young, efficient, ink on his cuffs — meets you here and directs you down the left corridor.
+
+At the corridor's end: a door. Not like the others. Every inch of its face is carved — not decoratively, but precisely, in horizontal bands of symbols you don't immediately recognise. In the centre, where you'd expect a keyhole: a riddle, carved into the stone lintel above.
+
+The clerk says: "This door hasn't opened in eleven years. The Master Archivist has the combination if you need assistance." Then he walks back down the corridor quickly, like he'd prefer not to be there when you try.
+</div>
+
 ---
 
 <details>
@@ -2715,11 +2730,22 @@ The Compact never asks. It just takes notes.
 
 ## Scene 3 — The Star-Wheel
 
-**What players are doing:** Inside the restricted stacks for the first time. The door has opened. They're looking for Corven's documents — the ritual design, whatever "living conduit mechanism" means, the answer to why eleven years of silence descended on this room.
+*Door opened. Inside the restricted stacks. Shelf 4-17-3 is locked behind a brass star-wheel on the central column. Solution is on the east wall.*
 
-**Why they're here:** The documents on shelf 4-17-3 are the only surviving copies of Corven's complete ritual analysis. The shelf is locked behind a second mechanism: a brass star-wheel on the central column. The solution is on the east wall.
+**Players know:** Corven's documents are on shelf 4-17-3 · star-wheel is the lock.
+**Players don't know:** this room has been maintained for 11 years · Theron never retrieved these documents despite knowing the answer.
+**Open with:** players cross the threshold, smell hits. Radial shelves, central column, brass rings, star chart. Read aloud below.
+**Confirm:** brass rings at column with indicator marks · star chart mounted on east wall with Dawnmark circled · shelf 4-17-3 on spoke 4, 17 ft from centre, 3rd shelf up.
 
-**What's going on in the story:** Someone (Theron, likely) has been maintaining this room for eleven years. The brass is polished. The oil is fresh. The star chart is still mounted. This room has been kept ready. The question that should surface here: ready for whom? Theron knew the door's answer. He also knew where the documents were. He never retrieved them. Players are being handed something that a person spent eleven years being unable to reach for.
+<div class="scene-open">
+The door opens inward and the smell is different — older, less maintained. Dust rises when you cross the threshold.
+
+The stacks are radially arranged: shelves extending from a central column like spokes, curving slightly at the ends. Ten spokes. Each labeled at its base with a constellation symbol. The shelves are ten feet tall, dark-stained oak that has been here long enough to smell like the stone walls.
+
+At the central column: the mechanism. Three brass rings, each engraved with constellation symbols, each with an indicator mark. They rotate independently. Their current positions are arbitrary — wherever the last person left them, eleven years ago.
+
+On the east wall: a star chart.
+</div>
 
 ---
 
@@ -2928,11 +2954,31 @@ You note this in the report section of your mind that you keep forgetting to act
 
 ## Scene 4 — Sera Voss at the Dawnhall
 
-**What players are doing:** Walking back into the Lowmark from the Spire Quarter, documents in hand, heading to the Dawnhall. This was always the plan — the Chancellor's briefing named Sera Voss as a contact, someone who knows the Dawnborn community. Players are carrying terminology they can't decode yet ("living conduit mechanism," "distributed sympathetic anchors"). Sera is the first person they meet who might know what those phrases mean in human terms.
+*Documents in hand, walking back into the Lowmark. Sera Voss is the contact. She already knows they're coming.*
 
-**Why they're here:** The investigation requires understanding the Dawnborn — who they are, what they know, how they feel about the ritual question. Sera runs the primary care facility for grey sickness sufferers in the Lowmark and is herself Dawnborn, though players may not know this immediately. She was named as a trustworthy contact.
+**Players know:** Sera Voss is named as a contact · she works with the Dawnborn community.
+**Players don't know:** Sera is Dawnborn herself · she heard about the Scene 1 ambush within an hour · she has been waiting years for this visit.
+**Open with:** walk south through quieting Spire Quarter streets, Jaret distributing pamphlets near the Dawnhall entrance. Door opens. Warmth. Read aloud below — pick variant.
+**Confirm:** yellow scarf on hook by the door (only yellow in the room) · amber pendant at her collar · she does not look surprised when she turns.
 
-**What's going on in the story:** Sera already knows they're coming. She heard about the Lowmark Junction ambush within an hour — word travels fast in the Lowmark, especially when it involves investigators hired by the Chancellor. She has been waiting, in some form, for exactly this visit for years. Not these specific people, but people like them. Someone who might actually do something with what she knows.
+<div class="scene-open">
+<span class="variant-label">Variant A — Scene 1 went cleanly</span>
+The door opens inward and the warmth hits before your eyes adjust. Forty people, a broth-heavy kitchen, woodsmoke from behind a half-open door in the north wall.
+
+Long tables, mismatched chairs. Most of the people look grey — there's a spectrum to it, the first-week pallor and the third-year hollow both in the same room. A man coughs from the far corner, controlled, practiced. No one reacts.
+
+On a hook by the door: a yellow scarf. The only yellow thing in the room.
+
+At the northeast corner, her back to you, a woman in an apron is serving soup. She knows you're there before she turns. She fills one more bowl. Hands it to a teenager without looking. Removes her cooking gloves. And turns.
+
+She is not surprised.
+<span class="variant-label">Variant B — Scene 1 was messy or civilians were harmed</span>
+The warmth hits you at the threshold — forty people, a kitchen fire, broth on the boil. Long tables, mismatched chairs, the specific quiet of a room where the worst thing has already happened.
+
+At the northeast corner, a woman in an apron is serving soup. She already knows you're there. When she turns, she looks at each of you — not hostile, thorough. Then she sets down the ladle.
+
+"I heard about the junction," she says. "Word travels fast in the Lowmark."
+</div>
 
 ---
 
@@ -3167,11 +3213,27 @@ You have three identities in your inner pocket. You're using your actual name on
 
 ## Scene 5 — The Second Ambush
 
-**What players are doing:** Leaving the Dawnhall, heading home. The session is almost over. They have documents they can't fully decode, a face attached to the word "Dawnborn," and Edoran's note from Scene 1. They're walking through the Lowmark at night, which is quieter than morning — the food queue is done, the lanterns are lit.
+*Leaving the Dawnhall at night. Edoran has watched them all day. This intercept is his — he wants a look before deciding his next move.*
 
-**Why they're here:** They don't choose this. It happens to them. Edoran had them followed from the junction to the Archive to the Dawnhall. He wants to see who these people are before deciding his next move. This second intercept is not about stopping the investigation — it is about Edoran getting a closer look.
+**Players know:** they're being watched · the investigation is bigger than they were briefed.
+**Players don't know:** Edoran is personally present · he intends to speak if they reach him.
+**Open with:** Lowmark at evening, quieter than morning. Streets empty before the players notice why. Then: three figures, familiar configuration. And in the east alley, thirty feet back — a shape that is not moving.
+**Confirm:** Edoran 30 ft into east alley, not fleeing · Enforcer priority is blocking alley entrance, not killing · withdrawal trigger at 33 HP · Edoran's two lines are the session's last words.
 
-**What's going on in the story:** The Enforcer's new priority in this scene is blocking the east alley — protecting Edoran's position so he can choose when to leave. Edoran himself is thirty feet back in the shadow, not moving. He has been watching since Scene 1. If players reach him, he speaks two lines and steps back into the dark. Those lines are the session's real ending: *"You have no idea what you are looking for. When you find it, you will understand why I did not want you to."*
+<div class="scene-open">
+<span class="variant-label">Variant A — Players scanning the street</span>
+The Lowmark at evening is quieter than this morning. The food queue is done. The lanterns are lit on corner posts, amber light on wet stone.
+
+You're halfway down the block when you notice the stillness — not the stillness of an empty street, but the kind where the people who were here thirty seconds ago have found reasons to be somewhere else.
+
+Three figures step from the west alley mouth. Another from the doorway behind you. A familiar arrangement — exits covered, approach cut off.
+
+From the east alley, thirty feet in: a figure standing completely still in shadow. Not moving. Not fleeing. Watching.
+<span class="variant-label">Variant B — Players moving fast, not watching</span>
+The ambush is quieter than this morning. Three zealots and an Enforcer from two directions simultaneously. The Lowmark streets are emptier, fewer witnesses.
+
+What's different: a figure in the east alley, thirty feet back, standing completely still. He didn't move when his people appeared. He isn't moving now. He is watching you with the attention of someone who has been waiting a long time to see who you are under pressure.
+</div>
 
 ---
 
