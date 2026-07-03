@@ -404,126 +404,207 @@ Players who engage all three layers leave this scene with a richer picture than 
 
 ---
 
+**Encounter Composition**
+
+| # | NPC | Role | CR |
+|---|---|---|---|
+| ×2 | Restorer Cultist | Melee — grapple, carry the note, close pressure | 1/8 |
+| ×3 | Restorer Archer | Ranged — elevated positions, suppress movement | 1/2 |
+| ×1 | Edoran (Enforcer) | Cleric 6, Life domain — leads and commands | 6 |
+
+---
+
 **Scaled Stat Blocks**
 
-**Restorer Zealot (×4)**
+**Restorer Cultist (×2)**
 
 ```
-RESTORER ZEALOT
+RESTORER CULTIST
 Medium humanoid (human), lawful neutral
 
-Armor Class    14 (leather armor + shield)
-Hit Points     49 (9d8 + 9)
+Armor Class    12 (leather)
+Hit Points     16 (3d8 + 3)
 Speed          30 ft.
 
          STR    DEX    CON    INT    WIS    CHA
-         14(+2) 13(+1) 12(+1) 10(+0) 12(+1) 11(+0)
+         11(+0) 12(+1) 12(+1) 10(+0) 11(+0) 10(+0)
 
-Saving Throws    Con +3, Wis +3
-Skills           Athletics +4, Intimidation +2, Perception +3
-Senses           Passive Perception 13
+Saving Throws    Wis +2
+Skills           Deception +2, Religion +2
+Senses           Passive Perception 10
 Languages        Common
-Challenge        2 (450 XP each)
+Challenge        1/8 (25 XP each)
 
 --- TRAITS ---
 
-Coordinated Advance. When a zealot moves on its turn and an ally is already
-adjacent to the same target, the zealot does not provoke opportunity attacks
-from that target.
+Dark Devotion. Advantage on saving throws against the Frightened
+and Charmed conditions.
 
-Mercy Instinct. If a zealot's attack would reduce a creature to 0 HP, the
-zealot stops the blow at the last moment. The creature drops to 1 HP instead,
-and the zealot uses its remaining movement to crouch over the creature,
-blocking further attacks. (This triggers once per combat, once per zealot.)
+Mercy Instinct. If an attack would reduce a creature to 0 HP, the
+cultist pulls the blow. Target drops to 1 HP instead. The cultist
+then crouches over the target, blocking further attacks with its
+body. (Once per combat, once per cultist.)
+
+Note-Carrier (Cultist A only). A sealed paper cylinder is visible
+in Cultist A's left belt pouch — amber wax Restorer seal, corner
+exposed. No check needed to notice it.
 
 --- ACTIONS ---
 
-Multiattack. The zealot makes two Club attacks, or one Club attack and uses
-Warning Grip.
+Multiattack. Two Dagger attacks, or one Dagger and Warning Grip.
 
-Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
-Hit: 9 (2d6 + 2) bludgeoning damage.
+Dagger. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or
+range 20/60 ft. Hit: 3 (1d4 + 1) piercing damage.
 
-Warning Grip (replaces one attack). Melee Weapon Attack: +4 to hit, reach
-5 ft., one target no more than one size larger than the zealot.
-Hit: The target is grappled (escape DC 14). While grappled this way, the zealot
-holds a short club to the target's throat and announces the warning aloud
-("Stop investigating. Leave Varenhold. This is your one warning."). The zealot
-does not deal damage while maintaining this grapple. It uses its action on
-subsequent turns to either maintain the grapple (automatic, no roll) or release
-and resume attacking.
+Warning Grip (replaces one attack). Melee attack: +3 to hit, 5 ft.,
+one target. Hit: target is grappled (escape DC 11). The cultist
+presses a dagger to the throat and speaks the warning once:
+"Stop the investigation. Leave Varenhold. One warning." No damage
+while grapple is maintained.
 
 --- REACTIONS ---
 
-Stand Clear (1/round). When the Enforcer uses Stand Down (see below), the
-zealot immediately Disengages as its reaction and moves up to 15 ft. away from
-its current target.
+Stand Clear. When Edoran uses Divine Command (see below), the cultist
+Disengages as a reaction and moves up to 15 ft. from its target.
 ```
 
 ---
 
-**Restorer Enforcer (×1)**
+**Restorer Archer (×3)**
 
 ```
-RESTORER ENFORCER
-Medium humanoid (human), lawful neutral
+RESTORER ARCHER
+Medium humanoid (human), neutral
 
-Armor Class    16 (chain mail + shield)
-Hit Points     78 (12d8 + 24)
+Armor Class    13 (leather)
+Hit Points     27 (6d8)
 Speed          30 ft.
 
          STR    DEX    CON    INT    WIS    CHA
-         16(+3) 13(+1) 15(+2) 12(+1) 14(+2) 14(+2)
+         11(+0) 15(+2) 11(+0) 10(+0) 11(+0) 10(+0)
 
-Saving Throws    Str +5, Con +4, Wis +4
-Skills           Athletics +5, Intimidation +4, Insight +4, Perception +4
-Senses           Passive Perception 14
+Saving Throws    Dex +4
+Skills           Perception +2, Stealth +4
+Senses           Passive Perception 12
 Languages        Common
-Challenge        5 (1,800 XP)
+Challenge        1/2 (100 XP each)
 
 --- TRAITS ---
 
-Tactical Discipline. The Enforcer ignores difficult terrain created by crowds.
+Elevated Position. If the archer starts its turn on a rooftop,
+market stall, or similar raised surface (≥5 ft.), ranged attacks
+ignore half cover and three-quarters cover until end of that turn.
 
-Unbroken Line. While the Enforcer is conscious and has more than 39 HP,
-zealots within 30 ft. of him are immune to the Frightened condition.
+Suppression Fire. Once per round when a creature moves more than
+15 ft. in a straight line within 60 ft. of the archer, the archer
+may use its reaction to make one Longbow attack against that creature.
 
-Controlled Yield (trigger: drops to 39 HP or fewer, OR is simultaneously
-grappled and restrained). See "Exit Condition" below. This is not a voluntary
-action — it fires automatically at the trigger threshold.
+Wound, Don't Kill. Archers target limbs and shoulders. If an attack
+would reduce a PC to 0 HP, reduce damage to leave target at 1 HP
+instead. (Same mercy restraint as the cultists — Edoran's standing order.)
 
 --- ACTIONS ---
 
-Multiattack. The Enforcer makes three attacks: two with his Longsword and one
-with his Shortsword. Or he makes two Longsword attacks and uses Stand Down
-instead of the third attack.
+Multiattack. Two Longbow attacks.
 
-Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
-Hit: 12 (1d8 + 3 + 1d4) slashing damage.
-(The extra 1d4 represents the Enforcer's precision — he aims for the arm, the
-shoulder, the place that hurts without ending a life.)
+Longbow. Ranged Weapon Attack: +4 to hit, range 150/600 ft.,
+one target. Hit: 6 (1d8 + 2) piercing damage.
 
-Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
-Hit: 10 (1d6 + 3 + 1d4) piercing damage.
+Shortsword (if forced into melee). Melee Weapon Attack: +4 to hit,
+reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+```
+
+---
+
+**Edoran — Restorer Enforcer (×1)**
+
+```
+EDORAN
+Medium humanoid (human), lawful neutral
+Cleric 6 (Auris, Life Domain)
+
+Armor Class    18 (chain mail + shield)
+Hit Points     52 (8d8 + 16)
+Speed          30 ft.
+
+         STR    DEX    CON    INT    WIS    CHA
+         13(+1) 10(+0) 14(+2) 12(+1) 18(+4) 15(+2)
+
+Saving Throws    Wis +7, Cha +5
+Skills           Insight +7, Medicine +7, Persuasion +5, Religion +4
+Senses           Passive Perception 14
+Languages        Common, Auris Liturgical
+Challenge        6 (2,300 XP)
+
+--- TRAITS ---
+
+Disciple of Life. When Edoran casts a healing spell of 1st level or
+higher, the target regains additional HP equal to 2 + spell level.
+
+Controlled Yield (trigger: 26 HP or fewer, OR grappled + restrained).
+Edoran lowers his holy symbol and raises both hands. He will not
+attack again. Cultists and archers scatter simultaneously on the
+same trigger — they read him, not a signal. He has done this before.
+
+Command Presence. While Edoran is conscious, cultists and archers
+within 60 ft. are immune to the Frightened condition.
+
+--- SPELLS ---
+
+Spell Save DC  14
+Spell Attack   +7
+Slots          4 × 1st · 3 × 2nd · 3 × 3rd
+
+Prepared (combat-relevant):
+  Cantrips:    Sacred Flame, Guidance, Thaumaturgy
+  1st level:   Command, Guiding Bolt, Bane, Cure Wounds
+  2nd level:   Hold Person, Spiritual Weapon
+  3rd level:   Spirit Guardians, Dispel Magic
+
+Domain (always prepared): Bless, Cure Wounds (1st); Lesser Restoration,
+  Spiritual Weapon (2nd); Beacon of Hope, Revivify (3rd)
+
+--- ACTIONS ---
+
+Multiattack. Two attacks with his Mace, or one Mace and casts
+a cantrip or uses an action-spell.
+
+Mace. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (1d6 + 1) bludgeoning damage. (He does not aim for vital
+points. He aims to stop movement.)
+
+Spirit Guardians (3rd-level concentration). Radiant or necrotic
+spectral forms fill a 15 ft. radius around Edoran. Creatures of
+his choice that enter or start their turn in the area: DC 14 Wis
+save or 3d8 radiant damage (half on save). Movement in the area
+costs double. He activates this only if players move aggressively
+toward him in Round 1 — it is a boundary, not an opening attack.
+
+Guiding Bolt (1st-level spell attack). Ranged Spell Attack: +7 to
+hit, range 120 ft. Hit: 4d6 radiant damage. Next attack roll
+against target has advantage. He uses this to ground a mobile PC
+who is closing on the archers.
+
+Command (1st-level). One creature within 60 ft., DC 14 Wis save.
+One word. Preferred words in this encounter: "Halt" · "Kneel" ·
+"Stop." He does not use "Flee" — that would scatter civilians.
 
 --- BONUS ACTIONS ---
 
-Stand Down. The Enforcer issues a sharp one-word command ("Out.") to one zealot
-within 30 ft. that zealot can see and hear. That zealot uses its reaction to
-Disengage and move up to 15 ft. away from its current target.
+Divine Command. Edoran speaks a word to one cultist or archer
+within 60 ft. That NPC uses its reaction to either: Disengage and
+reposition 15 ft., OR (for Cultist A at a lantern post) attempt to
+burn the note.
 
-This is also used in Round 2+ to direct the note-burn. When Stand Down targets
-the note-carrier zealot while that zealot is within 5 ft. of a lantern post,
-the zealot uses its reaction to attempt to burn the note rather than disengage
-(see Secondary Objective mechanics below).
+Spiritual Weapon (if already cast, 2nd-level). Move the weapon up
+to 20 ft. and make one melee spell attack: +7 to hit, 1d8 + 4
+force damage.
 
 --- REACTIONS ---
 
-Parry. When a melee attack would hit the Enforcer, he adds +2 to his AC against
-that attack (already included in AC above when declared; declare use before the
-roll resolves).
-[Note: use this 2-3 times per combat — don't spam it. Save for hits that would
-deal 15+ damage.]
+Shield of Faith Stance. When a hit would deal 10+ damage to Edoran,
+he raises his shield and invokes Auris — reduces damage by 3.
+(Flavour only; represents Life domain resilience. Use 3/combat.)
 ```
 
 ---
@@ -533,84 +614,73 @@ deal 15+ damage.]
 
 ---
 
-**THE ENFORCER**
+**EDORAN — THE ENFORCER**
 
-**Faction:** Society for Ritual Restoration — Moderate wing. Field command rank. Edoran's direct instrument in Varenhold. He is not a believer in the theological sense; he is a professional who agrees with the strategic goal. He has been doing this work for three years.
+**Faction:** Society for Ritual Restoration — founder, theological leader, both wings answer to him. He is the Moderate wing's theorist and the person Jaret's Fanatics follow out of personal loyalty. He holds the faction together by being the only person either wing fully trusts. He has come personally because this investigation is too important to delegate.
 
-**What he believes going in:** These investigators are going to find something that will get the Dawnborn killed. The Chancellor is using them as a tool she controls. He has to stop this investigation cleanly, without making martyrs, without giving the Compact a body to point at. He has done this five times in three cities. He is very good at it.
+**What he believes going in:** The investigators will reach the ritual documents. He cannot prevent it permanently. What he can do is see, face to face, what kind of people they are — before he decides whether to eventually help them understand what they find, or leave them to find it cold. He is also, genuinely, trying to protect them. What they are about to learn carries a weight that has broken better people.
 
-**Spells:** None. He is a trained fighter, not a caster. His control is tactical — positioning, timing, reading people. If you want to add a flavour ability: once per combat, he can use *Command* (DC 14 Wisdom save, one word: "Stop") as a bonus action, representing his absolute authority over the zealots and his unnerving precision with people. This is not a spell slot — it is just that kind of man.
-
-**Round-by-round internal state:**
-
-| Round | What he's thinking |
-|---|---|
-| 0 / 1 | *"They're not going to back down. I can see it. That one especially — they're already looking for the exit that doesn't involve leaving."* |
-| 2 | *"Z4. Now. Let them feel the cost of stubbornness."* He issues Stand Down. He is not angry. He is adjusting. |
-| 3 | *"Someone is trying to reach the note. Good. They understand stakes. Bad. They're going to reach it."* |
-| At 39 HP | *"Done. They're serious enough. Edoran will want to know about them."* He decides to yield before the hit lands. |
-
-**What he will not say even if captured and magically compelled:** Edoran's name. He does not know it. He received orders through a dry-goods merchant who receives them from a laundress who has never met Edoran. The cell structure is deliberate.
-
----
-
-**ZEALOT A (note-carrier)**
-
-**Faction:** Society for Ritual Restoration — Fanatic wing (Jaret's people). True believer. He volunteered to carry the note specifically because he is the most committed of the four to destroying it if the mission fails.
-
-**What he believes going in:** The note contains intelligence that could compromise Edoran. He will burn it before he lets an investigator read it. He is not conflicted about this.
-
-**Spells:** None. He is a laborer who found faith in the Restorer movement two years ago. He owns a club. He is very sincere.
+**Spells in play:** Cleric 6, Life domain. In this scene he is a combat cleric only because they forced it. His spell priorities:
+- *Spirit Guardians* — deployed as a boundary if PCs close hard. He hates casting it here. Radiant forms in a food queue.
+- *Command* — his preferred tool. One word. He has spent years learning which word lands.
+- *Spiritual Weapon* — once per combat if the fight runs long. A glowing mace that appears next to whoever is pressuring him hardest.
+- *Guiding Bolt* — last resort. Gives the archers advantage. He uses it when a PC is too fast to catch otherwise.
+- *Detect Thoughts* — running at low power from the start. Surface thoughts. DC 13 Wis. He takes notes mentally.
 
 **Round-by-round internal state:**
 
 | Round | What he's thinking |
 |---|---|
-| 1 | *"Grip the closest one. Say the words. If they back down, we leave. If not — I'm ready."* |
-| 2 | *"He said 'Out.' That means me. That means the lantern."* He moves without hesitation. |
-| Burning | *"The willing heart gives freely what the bound heart cannot."* He is quoting the note while he destroys it. He has memorized the contents. He believes them. |
-| If stopped | He releases the note without fighting for it. One beat of eye contact. Then he disengages. He is not angry at the person who stopped him — he is sad for them. |
+| 0 / 1 | *"They're not backing down. Look at them — they're already calculating the archers' positions. These are not hired hands. These are people who want to understand something."* |
+| 2 | *"Cultist A. Now."* Divine Command, flat. He is not angry. He is sad. *"I didn't want this to be how we meet."* |
+| 3 | *"Someone is moving on the elevation. Smart. Dangerous. I need to slow them down."* — Guiding Bolt or Command: "Halt." |
+| At 26 HP | He decides to yield. He has been deciding since Round 1. He just needed to see them fight first. |
+| Yielding | *"You are going to find something you are not ready to carry. I am sorry I could not stop you from finding it."* — This is not a threat. He means it. |
+
+**The one question he will answer honestly:** If a player asks him directly, after he yields, *"Why are you doing this?"* — he says: *"Because what you are about to find out is irreversible. And I wanted to look the people who find it in the face first."* He answers nothing else.
+
+**What he will not reveal:** The note's contents. What the ritual requires. Where the Dawnborn are. He will not volunteer any of this. If asked directly about the note: *"Read it. You earned it."*
 
 ---
 
-**ZEALOTS B, C, D**
+**CULTIST A (note-carrier)**
 
-**Faction:** Restorer — mixed. B and C are Moderate wing (professional disruption, paid). D is Fanatic (Jaret's contact, assigned as backup for A).
+**Faction:** Restorer — Fanatic wing (Jaret's people). True believer. Volunteered for this role. Has memorised the note's contents.
 
-**What they believe going in:** B and C believe they are protecting something important by keeping investigators away from it. They have been told what to do and they are doing it. D believes what A believes — fully committed, would burn the note himself if A went down.
+**What he believes going in:** The note could compromise the movement. He will burn it if the mission fails. He is completely at peace with this.
+
+**Spells:** None. He is a dock worker who found faith eighteen months ago. He owns a dagger. He is sincere in a way that makes him more dangerous than someone trained.
+
+**Round-by-round internal state:**
+
+| Round | What he's thinking |
+|---|---|
+| 1 | *"Grip. Say the words. If they leave, good. If not — I'm ready."* |
+| 2 | *"Divine Command. That means the lantern."* No hesitation. |
+| Burning | He quotes the note aloud, quietly, while holding it to the flame: *"The willing heart gives freely what the bound heart cannot."* He has memorised it. He believes it describes himself. |
+| If stopped | Releases the note without fighting. One beat of eye contact — not anger, something like pity. Then disengages. |
+
+---
+
+**CULTIST B**
+
+**Faction:** Restorer — Moderate wing. This is a job. He believes in the cause but not at the cost of his own life.
 
 **Spells:** None.
 
-**Internal state (shared):** They are watching the Enforcer. When he yields, they leave. They do not question this. He said it would end this way if needed. It has ended this way before.
+**Internal state:** Watching Edoran. When Edoran yields, he is already moving. He was watching for the signal since Round 1. He does not know Edoran's name either.
 
 ---
 
-**EDORAN** *(observing from the alley — not in combat)*
+**ARCHERS (×3)**
 
-**Faction:** Society for Ritual Restoration — founder, theological leader, de facto head. He is both the Moderate wing's theorist and the person Jaret's Fanatics answer to, though Jaret is pushing to separate. Edoran holds the faction together by being the only person either wing fully trusts.
+**Faction:** Restorer — mixed. Archer 1 (cart top) is Moderate, professional, has done this before. Archers 2 and 3 are newer — Fanatic sympathisers, Jaret's recent recruits.
 
-**What he believes going in:** This investigation will reach the ritual documents. He cannot stop it with force — he has tried that approach before and it accelerates the timeline. What he can do is see what kind of people these investigators are before deciding whether to help them understand what they find, or to let them find it cold.
+**Spells:** None.
 
-**Spells:** Cleric (Auris, Life domain), Level 6. He does not cast in this scene — he is observing, not intervening. But he is capable. His spells are pastoral in design; he is not a combat cleric.
+**Internal state:** Elevated, controlled. They are watching the PC movement, not the fight. Their job is to prevent anyone reaching Edoran. Archer 1 is precise and calm. Archers 2 and 3 are nervous and will fire on Suppression more eagerly than Archer 1 would prefer.
 
-| Spell | Use |
-|---|---|
-| *Detect Thoughts* (concentration) | He almost certainly has this running right now, at low power — surface thoughts only. DC 13 Wisdom save if players approach the alley. On a fail, he gets one dominant surface thought from that player. He uses this to write a summary for his notes later. |
-| *Guidance* | He uses this on himself before high-stakes assessments. It is a habit. |
-| *Healing Word* | If somehow a player reaches 0 HP in this scene and the Enforcer's Mercy Instinct is on cooldown, Edoran may quietly stabilize them from 30 ft. away. He will not let investigators die in the Lowmark under his watch. |
-| *Zone of Truth* | He has this available. He has never cast it on anyone. He finds it philosophically obscene. |
-
-**Round-by-round internal state:**
-
-| Round | What he's thinking |
-|---|---|
-| 0 / 1 | *"They didn't freeze. That's something."* He is already evaluating. |
-| 2 | *"Someone is going for the note. Let them."* He does not want the note burned. He sent it specifically for them to find. The Enforcer does not know this. |
-| Note saved | *"Good. They'll have questions now. Real ones."* He begins composing what he'll say if they reach him. |
-| Note burned | *"Unfortunate. The long road, then."* He adjusts the timeline mentally. |
-| If players reach him | He does not move. He waits until they are within five feet. Then two lines, quietly. Then he goes. |
-
-**The tension Edoran is living in:** He is the person who sent the note warning investigators away. He is also the person who wants them to find the truth. He believes the truth will reach the Dawnborn either way — and it is more merciful to reach it through people who understand consent than through people who do not. He is betting on these investigators being that kind of people. He may be wrong.
+**If cornered on elevation:** Archer 1 surrenders immediately — hands up, says nothing. Archers 2 and 3 will attempt to jump down (Athletics DC 12 to avoid 1d6 falling damage) and scatter. Neither will fight in melee if avoidable.
 
 </details>
 
@@ -720,89 +790,93 @@ Written in **Edoran's handwriting** (DC 13 History or DC 10 if a player later co
 
 **Round 1 — "One Warning"**
 
-**Enforcer (initiative ~6–8):**
-- If surprise was granted, he spent Round 0 giving the speech. On Round 1, he moves 10 ft. closer (now 10 ft. from the nearest PC) and makes two Longsword attacks against whichever PC looks most likely to run toward the archive. He aims for the sword arm or shield shoulder — he is not trying to kill.
-- If surprise was not granted, he gives the speech on his turn (counts as his action — no attacks Round 1). He positions himself 10 ft. from the players.
+**Edoran (initiative ~8–12, acts after he reads the players):**
+- If surprise granted: he gave the speech in Round 0. Round 1 he casts *Spirit Guardians* (concentration, 15 ft. radius) only if a PC is already closing on him — otherwise holds it and uses a Mace attack + Divine Command to position Cultist A toward a lantern post.
+- If no surprise: speech is his Round 1 action. He stands 20 ft. from the players, hood down, holy symbol visible. *"We are not here to hurt anyone. Step away from the archive investigation. Take your pay and leave Varenhold. This is the only warning you receive."*
 
-**Zealot A (note-carrier):** Uses Warning Grip on the nearest PC within reach. If the grip succeeds, the zealot holds position. If the grip fails, it makes a second Club attack.
+**Cultist A (note-carrier):** Warning Grip on nearest PC. On hit: grappled, dagger to throat, speaks warning. On miss: Dagger multiattack.
 
-**Zealot B:** Holds the north exit. Moves to block any PC who tries to flee that direction. Makes one Club attack against a PC who approaches, warning grip on the second if adjacent.
+**Cultist B:** Moves to cut the south exit. Warning Grip if a PC tries to run. Club if no one approaches.
 
-**Zealot C:** Holds the west exit. Same behavior as B — blocking, not chasing.
+**Archers (×3):** Positioned on elevated surfaces (market stall roof, window ledge, top of the distribution cart). Each holds position this round — Suppression Fire reaction ready. If a PC breaks into a full run (15+ ft. straight), the nearest archer fires.
 
-**Zealot D:** Closes on a second PC, making Multiattack (two Club strikes). Its job is to make the players feel surrounded.
-
-**Crowd behavior (Round 1):** The queue panics slowly — people at the far end start backing away, people near the fight freeze. The junction is difficult terrain (shuffling bodies, abandoned food ration sacks, overturned crates). Three-quarters cover available from the distribution cart (to the west) and a stone market pillar (center-north).
+**Crowd behavior (Round 1):** Queue panics slowly. Difficult terrain throughout junction. Three-quarters cover: distribution cart (west), stone market pillar (center-north). Archers on elevation are visible from the junction but require 30 ft. of movement to reach.
 
 ---
 
-**Round 2 — The Burn Clock Starts / Crowd Scatters**
+**Round 2 — The Burn Clock / Archers Open Up**
 
-**Initiative count 20, second round:** The crowd makes its decision. Everyone in the queue bolts — east and north mostly, funneling through gaps in the zealot line. The terrain shifts:
-- The center of the junction becomes **open difficult terrain** (cobblestones, dropped items, no cover).
-- The distribution cart (west) and market pillar (center-north) remain as cover.
-- New cover: two overturned food crates (east side, near where Zealot A is positioned).
+**Initiative count 20:** Crowd bolts. Junction opens into difficult terrain. New cover: overturned food crates (east side).
 
-**Burn clock trigger check:** Is the Enforcer alive? Is Zealot A within 5 ft. of a lantern post? If both yes, he uses his bonus action Stand Down this round, targeting Zealot A. The burn attempt begins.
+**Burn clock trigger:** Edoran alive + Cultist A within 5 ft. of lantern post → bonus action Divine Command → burn attempt begins.
 
-**Enforcer (Round 2):** Three-attack Multiattack. He is assessing — which PC is the threat, which one is trying to reach the note. He prioritises anyone moving toward Zealot A with his attacks (trying to slow them down, not drop them).
+**Edoran (Round 2):** Casts *Spiritual Weapon* (bonus action, force mace appears). Then either:
+- *Command* ("Halt") targeting the fastest PC closing on archers, OR
+- Mace + Spiritual Weapon attacks against whoever is pressuring him most.
+He saves *Spirit Guardians* as a threat — deploys it only if 3+ PCs are within 20 ft.
 
-**Zealots B, C, D:** Continue their roles. If any zealot has a grappled PC, it holds the grapple and repeats the warning aloud: *"Stop investigating. This is your one warning."* It does not attack the grappled PC unless the PC attempts to break free.
+**Archers (Round 2):** Full multiattack now. Each fires twice. They target PCs moving toward the elevated positions or toward Cultist A. They do not fire into the grappled PC — too close to the cultist.
+
+**Cultists:** If grappled PC has not escaped, hold and repeat warning. If PC escaped grapple, Dagger multiattack.
 
 ---
 
-**Round 3+ — Approaching the Threshold**
+**Round 3+ — Pressure Builds**
 
-**Enforcer behavior (above 39 HP):** He is fully committed now but increasingly precise. He uses Parry reactions against the hardest hitters. He calls Stand Down as a bonus action once per round to pull a zealot off a collapsing position and redirect them. He does not retreat.
+**Edoran:** If below 38 HP, deploys *Spirit Guardians* as a boundary. If a PC is within melee range, Mace + Spiritual Weapon. He uses *Guiding Bolt* (1st slot) against the highest-AC PC who keeps dodging — the advantage it grants the next attacker is tactically significant. He does NOT cast healing on himself — the Auris doctrine is that suffering accepted willingly is meaningful. He accepts the hits.
 
-**Enforcer behavior (39–40 HP — the razor edge):** He slows fractionally. Not visibly. But he is taking shorter steps, his guard is slightly higher. A DC 15 Insight check reveals this: *"He is measuring how close he is to something. Not tired — calculating."*
+**DC 15 Insight on Edoran at 30 HP:** *"He is not calculating escape. He is calculating when to stop. He already knows the answer."*
 
-**Enforcer at 39 HP or below — Exit Condition fires:**
+**Edoran at 26 HP — Exit Condition fires:**
 
-He stops.
+He lowers his holy symbol. Both hands open, palms out. The *Spiritual Weapon* dissolves. *Spirit Guardians* ends.
 
-Not wounded-stops — he simply lowers his weapons to his sides in a single, deliberate motion. Both hands visible, both weapons pointed at the ground. He does not raise them again. He does not speak. He holds eye contact with whoever dealt the triggering blow.
+He does not speak. He holds eye contact with whoever landed the triggering blow. After three seconds of silence, one sentence:
 
-**Alternative exit — Grappled + Restrained:** If a player has the Enforcer both grappled and restrained simultaneously, the same stillness occurs. He does not struggle. He does not try to break the hold. He goes inert — cooperative weight, not dead weight.
+*"You are going to find something you are not ready to carry. I am sorry I could not stop you from finding it."*
 
-**Mechanical effects of the Controlled Yield:**
+Then he waits. He will not flee. He will not attack. He will answer one question, honestly, if asked. Only one.
 
-- All attack rolls against the Enforcer have **advantage** (he is not defending).
-- Any Charisma (Intimidation) check against him has **advantage**.
-- He will not answer questions. He will look at the questioner. He will not blink quickly. He is not afraid.
-- He will not name who sent him, where he came from, or what the Restorers know. A DC 20 Persuasion check gets one word: *"Protection."* Nothing more.
+**Alternative exit — Grappled + Restrained:** Same silence. He does not resist.
 
-**Zealot scatter (immediate, same turn the Exit Condition fires):**
-
-All four zealots simultaneously break off — no order, no signal, they simply go. They do not run. They walk quickly in four different directions, pulling hoods up. They blend into any remaining crowd or down side streets. They do not attack anyone attempting to follow them. If a player grabs one, the zealot goes limp: *"I don't know anything. I was paid for the morning."* This is a lie but the player cannot confirm it without magic.
+**Cultist + Archer scatter (simultaneous, no signal):** They read Edoran, not a command. Cultists melt into any remaining crowd. Archers drop from elevation and move north. If caught, cultists say: *"I don't know his name. I was told where to be."* This is true. Archers say nothing.
 
 ---
 
 **Tactical AI**
 
-**Zealot Priority List (in order)**
+**Cultist Priority List**
 
-1. **Move to cut off exits** — block the path the players were heading. Do not allow easy flight without passing through a zealot.
-2. **Warning Grip on the highest-initiative PC** — grapple first, the warning is spoken once the hold is established.
-3. **Club Multiattack** on any PC who breaks through the exit-block or moves toward Zealot A (the note-carrier).
-4. **Hold position** near Zealot A if Enforcer uses Stand Down — do not chase fleeing PCs more than 20 ft.
-5. **Scatter** the moment the Enforcer yields.
+1. Warning Grip on the nearest PC within range — grapple, speak the warning
+2. Hold position if grapple lands; repeat warning each turn
+3. Dagger multiattack if grapple missed or broken
+4. On Divine Command from Edoran: Disengage and reposition, OR move to lantern (Cultist A)
+5. Scatter the moment Edoran yields
 
-**Enforcer Priority List (in order)**
+**Archer Priority List**
 
-1. **Give the speech** (Round 0 or Round 1 action) — this is the actual mission. If players agree and back off, he will go. He prefers this outcome.
-2. **Attack the most mobile PC** — the one most likely to reach the note or reach Edoran in the alley.
-3. **Stand Down** (bonus action each round if applicable) — pull zealots off losing positions, or trigger the burn clock.
-4. **Parry** incoming hits above 15 damage — preserve HP to stay in command as long as possible.
-5. **Yield** at the trigger threshold. No hesitation. He decided this before the ambush started.
+1. Hold elevation — do not come down unless forced
+2. Suppression Fire reaction against any PC running 15+ ft. straight
+3. Round 2+: Multiattack against PCs closing on the elevated position or on Cultist A
+4. Never fire into a PC-cultist grapple — too close
+5. Scatter the moment Edoran yields
 
-**What They Will NOT Do**
+**Edoran Priority List**
 
-- **Will not harm bystanders** in the queue or fleeing crowd. If a bystander is caught between a zealot and a PC, the zealot pulls the strike.
-- **Will not kill players.** The Mercy Instinct trait hard-caps this. They need no body. One death in the Lowmark would turn the entire district against the Restorers within forty-eight hours — Edoran knows this.
-- **Will not pursue** past the junction perimeter after the scatter. They are done the moment the Enforcer yields.
-- **Will not reveal Edoran's name** under any circumstances, including magical compulsion in this scene (they do not know his name — they received orders through intermediaries).
-- **Will not break the grapple** to attack a downed PC. If a zealot's Mercy Instinct fires and a PC hits 1 HP, that zealot crouches over the downed PC and checks their breathing. Other PCs can attack the crouching zealot normally.
+1. Give the speech — if players back down, he leaves. He wants this.
+2. *Spirit Guardians* if 3+ PCs close within 20 ft. (boundary, not opening move)
+3. *Command* to slow the most mobile PC
+4. Mace + *Spiritual Weapon* against whoever is nearest
+5. *Guiding Bolt* against the highest-AC PC (sets up the archers)
+6. Yield at 26 HP. Decided before the ambush started.
+
+**What None of Them Will Do**
+
+- **Kill.** Mercy Instinct + Edoran's standing order. One body in the Lowmark food queue destroys everything the Restorers have built in this district.
+- **Harm bystanders.** Archers hold fire if a civilian is in the shot path.
+- **Pursue** past the junction perimeter.
+- **Reveal Edoran's identity** — cultists and archers don't know it. Only Edoran knows his own name here.
+- **Edoran will not heal himself** during combat. He accepts the damage. The theology requires it.
 
 ---
 
@@ -810,14 +884,16 @@ All four zealots simultaneously break off — no order, no signal, they simply g
 
 | Feature | Location | Effect |
 |---|---|---|
-| Food distribution cart | West side | Three-quarters cover (+5 AC, +5 Dex saves) behind it |
+| Food distribution cart | West side | Three-quarters cover (+5 AC, +5 Dex saves). **Archer 1 positioned on top** — 5 ft. elevation, Elevated Position trait active |
 | Stone market pillar | Center-north | Half cover (+2 AC, +2 Dex saves) |
+| Market stall roof | North-east | **Archer 2 positioned here** — 10 ft. elevation, requires DC 12 Athletics to climb (costs 20 ft. movement) |
+| Window ledge / crate stack | South wall | **Archer 3 positioned here** — 8 ft. elevation, requires DC 10 Athletics or a short ladder (visible in-scene) |
 | Overturned food crates (Round 2+) | East side | Half cover; difficult terrain to move through |
-| Lantern posts (×3) | Mark on map: NW corner, east wall, south entrance | Adjacent to post = note-burn trigger zone |
+| Lantern posts (×3) | NW corner, east wall, south entrance | Adjacent = note-burn trigger zone |
 | Queue crowd (Round 1) | Fills center and north | Difficult terrain, three-quarters cover (crowd bodies) |
 | Scattered crowd (Round 2+) | Gone | Open difficult terrain (dropped items, cobblestones) |
 
-**Distance to Edoran's alley:** 30 ft. from the center of the junction to the alley mouth (northeast). Requires breaking through or around the zealot positions. Edoran will wait if a PC reaches him — he does not bolt until spoken to (see Scene 5 notes for his dialogue).
+**Edoran's position:** Center of the junction, 15 ft. from the players. He is not hiding. He is the person who gave the speech. Players can see his face.
 
 ---
 
@@ -825,32 +901,33 @@ All four zealots simultaneously break off — no order, no signal, they simply g
 
 | Enemy | CR | XP Each | Count | Subtotal |
 |---|---|---|---|---|
-| Restorer Zealot | 2 | 450 | ×4 | 1,800 |
-| Restorer Enforcer | 5 | 1,800 | ×1 | 1,800 |
-| **Raw total** | | | | **3,600 XP** |
+| Restorer Cultist | 1/8 | 25 | ×2 | 50 |
+| Restorer Archer | 1/2 | 100 | ×3 | 300 |
+| Edoran (Enforcer) | 6 | 2,300 | ×1 | 2,300 |
+| **Raw total** | | | | **2,650 XP** |
 
-**Encounter multiplier:** 5 enemies = ×2 multiplier (standard rules, DMG p.82).
-**Adjusted XP:** 3,600 × 2 = **7,200 XP** (Deadly for 5 standard L3 PCs).
+**Encounter multiplier:** 6 enemies = ×2 multiplier (DMG p.82).
+**Adjusted XP:** 2,650 × 2 = **5,300 XP** (Hard–Deadly for 5 standard L3 PCs).
 
-**For Gestalt L3 (treating as 7–8 single-class L3 equivalents):**
-Hard threshold at this tier ≈ 5,600–6,400 adjusted XP. This encounter at 7,200 adjusted XP sits just above Hard — firmly in Deadly range, but the early exit condition (Enforcer yields at ~39 HP, not 0 HP) means the actual XP earned will likely be lower if the encounter ends at the trigger.
-
-**XP if Enforcer yields at trigger (39 HP, not dead):**
-Award full XP for defeated zealots + half XP for the Enforcer (he is not defeated, he yields):
+**XP if Edoran yields at trigger (26 HP, not dead):**
 
 | | XP |
 |---|---|
-| 4 zealots (full) | 1,800 |
-| Enforcer (half, yielded) | 900 |
-| **Total awarded** | **2,700 XP** |
+| 2 cultists (full) | 50 |
+| 3 archers (full) | 300 |
+| Edoran (half — yielded, not defeated) | 1,150 |
+| **Total awarded** | **1,500 XP** |
 
-**XP if Enforcer is fully dropped:**
+**XP if Edoran is fully dropped:**
 
 | | XP |
 |---|---|
-| 4 zealots (full) | 1,800 |
-| Enforcer (full) | 1,800 |
-| **Total awarded** | **3,600 XP** |
+| 2 cultists (full) | 50 |
+| 3 archers (full) | 300 |
+| Edoran (full) | 2,300 |
+| **Total awarded** | **2,650 XP** |
+
+**Note:** Cultists and archers who scatter (not downed) award no XP — they withdrew, not defeated.
 
 Divide by 5 players. Per-player: **540 XP** (yielded) or **720 XP** (fully dropped).
 
