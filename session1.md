@@ -643,6 +643,126 @@ he raises his shield and invokes Auris — reduces damage by 3.
 
 ---
 
+**EDORAN — FULL CHARACTER REFERENCE**
+
+**Who he is:**
+Former Auris priest. Left the priesthood six years ago. Now leads the Society for Ritual Restoration — the largest organized movement in Varenhold pressing for active ritual completion. He has operated openly for twenty years. He is known for measured argument, patience, and a quality of certainty that some find reassuring and others find dangerous.
+
+**Voice:** Former priest's cadences — measured, slight upward lilt at sentence ends. Never raises his voice. Southern provinces accent softened by years in the city.
+
+**What he looks like when captured:** He sits where you put him. He does not test restraints. His hands are open in his lap. He is waiting for you to ask the right question. He believes you will.
+
+---
+
+**FULL KNOWLEDGE MAP — what Edoran knows:**
+
+| Topic | Knows it? | Will say it? | Notes |
+|---|---|---|---|
+| The ritual requires the Dawnborn to function as living anchors | Yes | No — not this session | This is Session 2's revelation |
+| "Living conduit" = the Dawnborn die when the ritual completes | Yes | No | He knows the word *extinguished* |
+| Which Dawnborn have given consent | Yes — Ysel Maren, Cormac Drell. Sera wavering. | No | He has been carefully asking for years |
+| The Dawnborn who have NOT consented | Yes | No | He will not pressure them |
+| Corven's documents location (shelf 4-17-3) | Yes | No | He has known for years. Never retrieved them. |
+| The Archive door riddle answer | Yes | No — and this matters. He could have retrieved the documents at any time. He didn't. | CONSENT. He knows. He cannot say it. |
+| Theron Waide's guilt | Yes | No — but he has been writing to Theron for years arguing the Dawnborn must choose freely | |
+| Jaret's parallel operation / the Dispatch | Suspects. Does not know the full extent. | He will say *"My organization is not entirely under my control"* if pressed. | |
+| The Chancellor's indirect contact with him | Yes | No |  |
+| That his daughter Annem died of grey sickness | Yes | Never volunteers. Silence if pressed. | The crack in the composure |
+| That players are the right people | He has decided yes, during the fight. | This — he will say. | |
+| The cell token number 14 | Yes — it is his field cell identifier | Will not confirm or deny. DC 15 Insight: he knows. | |
+
+---
+
+**FULL DIALOGUE — every situation:**
+
+**If captured and held:**
+> *"You can hold me as long as you need to. I am not going anywhere."*
+
+**On who sent him:**
+> *"No one sends me."* [pause] *"I go where the work is."*
+
+**On his name:**
+> [long pause] *"You'll find it."* — he means in the Archive records. He will not confirm or deny.
+
+**On why he's doing this:**
+> *"Because what you are about to find out is irreversible. And I wanted to look the people who find it in the face first."*
+
+**On the note:**
+> *"Read it. You earned it."*
+
+**On the Dawnborn:**
+> *"I do not hate them. I hold them in the highest regard. That is precisely why I believe we owe them a meaningful death rather than watching them slowly fail alongside the rest of us."*
+
+**On players' moral objections:**
+> *"You believe I am asking something monstrous. I understand that. I asked myself the same question for two years before I could answer it. What I found, when I finally could, was that the monstrous thing was the alternative — fifty years more of this, or a hundred."*
+
+**If asked whether the Dawnborn should choose for themselves:**
+> [long silence] *"That is the question I can't answer."* — this is the only moment his certainty breaks. He is not being evasive. He genuinely cannot answer it.
+
+**If asked about personal loss:**
+> [a pause — the only crack] *"We have all lost something to the twilight. That is not unique to me."* [end of topic — do not push further unless trust is established]
+
+**If asked about Jaret specifically:**
+> *"Jaret believes urgency is a virtue. I believe it is a temptation."* Pause. *"We disagree about the pace."*
+
+**If asked whether he knew the investigators would be attacked:**
+> *"I was there, wasn't I."* Not a question.
+
+**If asked why he didn't just retrieve Corven's documents himself:**
+> Very long silence. Then: *"I knew the answer to the door."* Another silence. *"I could not bring myself to say it out loud."* — this is an echo of Theron's line in Scene 2. Players who reach Theron will hear the same thing from a different man.
+
+**If a player says "the Dawnborn deserve to choose":**
+> He looks at them for a long time. *"Yes."* He says only this. It is the most significant thing he says all session.
+
+**If told that Jaret's people were running a separate operation:**
+> His expression changes — controlled but not fast enough. *"Show me."* If shown the Dispatch: he reads it twice. Silence. *"He wrote that."* Not a question. He folds it carefully and holds it. He will not give it back. *"Thank you."*
+
+**The line he says unprompted if held long enough:**
+> *"You are going to find something you are not ready to carry. I am sorry I could not stop you from finding it."* He means it. He will say it again if they stay.
+
+---
+
+**UNDER MAGICAL INTERROGATION:**
+
+| Spell | His response |
+|---|---|
+| *Zone of Truth* | He states clearly: *"I find this philosophically obscene."* Then: he will not name the Dawnborn who have consented even under compulsion. He will go silent and accept the consequence. He has decided this in advance. |
+| *Detect Thoughts* (surface, DC 13 Wis) | On fail: GM picks one — *"Are these the right people?"* / *"He read the Dispatch. He read it."* / *"Annem would have been twenty-three."* |
+| *Detect Thoughts* (deep, DC 13 + probe) | He feels it. *"Don't."* He says this quietly. Not a threat. A request. He closes his thoughts deliberately — DC increases by 5 for further probing. |
+| *Charm Person* | He succeeds automatically (Wis +7). If it lands despite that: he answers questions with visible discomfort and afterward says *"That was unkind. You didn't need to do that."* He is right. |
+| *Suggestion* ("Tell us everything") | DC 14 Wis save. On fail: he tells them the door riddle answer is CONSENT, that Corven's documents are on shelf 4-17-3, that Theron Waide knows what they mean. Nothing about the Dawnborn. He considers these facts, not secrets. |
+
+---
+
+**THE SECRET — Annem:**
+
+His daughter died of grey sickness six years ago at seventeen. He does not discuss this. The Restorers do not know it is personal.
+
+**How players find it:**
+- Investigation DC 14 in his study (later sessions): a girl's prayer cord on the window frame, Auris coming-of-age style, faded, a decade old. Name woven in the border: **Annem**.
+- *Detect Thoughts* (surface, low roll): *"Annem would have been twenty-three."*
+- deep-archive.md contains his journal entry and his letter to Corven (released at trust Tier 3)
+
+**If players name Annem to him:**
+He goes very still. Three seconds. Then: *"Where did you find that?"* He will not confirm or deny who she was. But he will not change the subject. He stays with the silence. This is the only question that cracks the composure permanently. Handle it carefully — it is the most human moment he has.
+
+---
+
+**ATTITUDE SHIFT TABLE:**
+
+| Player action | What changes |
+|---|---|
+| Engage him in good-faith debate | Respects them. Becomes a reluctant ally on shared goals. |
+| Show him Jaret's Dispatch | Shaken. Grants one honest answer he otherwise wouldn't. Begins pulling back Fanatic field operations. |
+| Discover and handle Annem gently | +1 permanent trust. He becomes reachable in a way he was not before. |
+| Exploit Annem (use as leverage) | He becomes implacable. Warmth gone. He cooperates only on transactional terms from this point. |
+| Offer a genuine alternative to the ritual | He listens. He is not in love with the plan — he is in love with the outcome. If the alternative achieves it, he will consider. |
+| Ask if the Dawnborn should choose | Silence. Then *"Yes."* This is the beginning of his doubt about Jaret. Pursue it. |
+| Expose him to the Council | Martyrdom. He expected it. He goes quietly. The Restorers become ungovernable under Jaret. |
+| Kill him | Jaret assumes command immediately. A body appears somewhere players care about within 48 hours. The campaign becomes about what Edoran was holding back. |
+
+---
+
 **CULTIST A (note-carrier)**
 
 **Faction:** Restorer — Fanatic wing (Jaret's people). True believer. Volunteered for this role. Has memorised the note's contents.
