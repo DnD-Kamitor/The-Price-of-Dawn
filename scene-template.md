@@ -27,16 +27,16 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 | | |
 |---|---|
-| **Purpose** | *One sentence stating the moral or narrative function. Not what happens — why it matters. Ask: what does this scene change about how players understand the world, the NPCs, or each other? Bad example: "Players fight cultists." Good example: "Establishes that the opposition was already watching before the investigation started, seeding paranoia that persists into the next session."* |
-| **Key reveal** | *The single fact that must survive this scene regardless of player choices. Stated as a plain English fact, not a plot summary. Bad: "Players learn about the conspiracy." Good: "The ritual anchor mechanism requires a living host — the cost was always people."* |
-| **Key mechanic** | *The number or answer you will need mid-scene without digging for it. DC of the key check, answer to the puzzle, condition for combat victory, trigger for the peak moment. One line. "Puzzle answer: CONSENT — spoken aloud to the door."* |
+| **Purpose** | *One sentence: the moral or narrative function. Not what happens — why it matters. Ask: what does this scene change about how players understand the world, NPCs, or each other? Bad: "Players fight bandits." Good: "Establishes the bandit leader has a legitimate grievance — making the fight morally uncomfortable from round one."* |
+| **Key reveal** | *The single fact that must survive regardless of player choices. A plain English fact, not a plot summary. Bad: "Players learn about the villain." Good: "The village elder ordered the disappearances — to protect the village from something worse."* |
+| **Key mechanic** | *The number or answer you need mid-scene without digging. DC, puzzle answer, victory condition, peak moment trigger. One line. Example: "Puzzle answer: the merchant's name carved on the chest lid."* |
 | **Beat 1** | *The setup. What players encounter in the first 30 seconds. The initial situation before anything moves.* |
-| **Beat 2** | *The turning point. The specific event that pivots the scene — name it exactly, not the mood. "A zealot crouches mid-combat and holds the folded paper to the lantern flame" is a Beat 2. "Things escalate" is not.* |
-| **Beat 3** | *Resolution and the exact line or event that transitions players to the next scene. Write the transition sentence here so you don't have to improvise it.* |
-| **XP / reward** | *Exact numbers. No ranges. Bonus conditions named explicitly. "450 XP base + 100 bonus if the document is recovered before it burns."* |
-| **If they skip** | *One sentence naming where the key reveal still reaches players if they bypass this scene. Must name a specific future scene, NPC, or object — not "they'll find out eventually."* |
-| **Three clues** | *Three independent paths to the key reveal. ① Primary: what happens if players do the obvious thing, ideally no roll. ② Secondary: different skill, different NPC, different action — genuinely independent of ①. ③ Passive: something already in front of players, no roll, fires even if they do nothing right.* |
-| **Handouts** | *Each prop on one line: [Prop name] — [trigger: the exact moment it transfers] — [how it enters players' hands: found on body / handed by NPC / mounted on wall / etc.]* |
+| **Beat 2** | *The turning point — the specific event that pivots the scene. Name the exact moment, not the mood. "The prisoner grabs the guard's knife mid-conversation" is a Beat 2. "Tension rises" is not.* |
+| **Beat 3** | *Resolution and the sentence that transitions players to the next scene. Write it here so you don't improvise it.* |
+| **XP / reward** | *Exact numbers. No ranges. Bonus conditions named explicitly. "200 XP base + 50 bonus if the prisoner is brought in alive."* |
+| **If they skip** | *One sentence: where the reveal still reaches players. Must name a specific future scene, NPC, or object — not "they'll find out eventually."* |
+| **Three clues** | *Three independent paths to the key reveal. ① Primary: obvious action, ideally no roll. ② Secondary: different skill, NPC, or action — genuinely independent of ①. ③ Passive: already in front of players, no roll required, fires even if they do nothing right.* |
+| **Handouts** | *Each prop on one line: [Prop name] — [exact trigger moment] — [how it enters players' hands: found on body / handed by NPC / mounted on wall / etc.]* |
 
 **NPC positions at scene start:**
 
@@ -104,13 +104,13 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 - **Look:** *Age range, build, coloring — 2–3 words each. Not a paragraph. "Late forties. Compact, square-shouldered. Dark-complexioned, close-cropped grey at the temples." This establishes the person before anything else.*
 
-- **Wearing:** *Specific clothing with at least one detail that reveals something about who they are. Clothing is character. "Plain grey clerk's coat, but the collar is military-straight — someone trained to present themselves and hasn't stopped." "Restorer sun-disk on a leather cord, worn outside the shirt, not tucked in — they want it seen."*
+- **Wearing:** *Specific clothing with one detail that reveals character. Clothing is character. "Plain merchant's coat, but the boots are military issue and well-maintained — someone who served and hasn't quite stopped." "Noble-cut doublet, but the cuffs are mended badly — money problems, kept secret."*
 
-- **Posture and movement:** *How they hold themselves and how they move. This is their psychology made physical — players read it without knowing they're reading it. "Never turns her whole body toward you. Always a quarter-turn, like she's ready to leave." "Keeps both hands visible on the table at all times." "He's perfectly still. Not relaxed — controlled."*
+- **Posture and movement:** *Their psychology made physical. "Never turns her whole body toward you — always a quarter-turn, like she's ready to leave." "Keeps both hands visible on the table at all times." "Perfectly still. Not relaxed — controlled."*
 
-- **One memorable detail:** *The single physical thing players will describe to each other after the session. A scar in an odd place. A habit under stress. Something that doesn't fit the rest of the picture. Something specific enough that players can picture exactly this person and not someone else. "His voice is completely calm. His hands aren't." "She smells of ink and something else underneath — something medicinal." "He's wearing the wrong shoes for this district."*
+- **One memorable detail:** *The single thing players describe to each other after the session. A habit under stress. Something that doesn't fit. Specific enough that players picture this person and no one else. "His voice is calm. His hands aren't." "She's been crying recently — only visible at the edges of her eyes." "He keeps touching his left coat pocket without looking at it."*
 
-- **First impression (read-aloud line):** *1–2 sentences, written in second person, present tense, player-perceivable only. This is the line you read when players first see this NPC. It should contain the posture, the memorable detail, and create an immediate impression without explaining it. Example: "The man at the alley mouth isn't moving. He's watching the fight with his arms folded and his weight back — the posture of someone who has already decided he won't be needed."*
+- **First impression (read-aloud line):** *1–2 sentences. Second person, present tense, player-perceivable only. The line you read when players first see this NPC. Contains posture and one memorable detail. Creates an impression without explaining it. Example: "The woman at the back of the room isn't watching the door — she's watching whoever comes through it. She's been here long enough to have a preferred seat."*
 
 ---
 
@@ -135,11 +135,11 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 **Handout: [Name]**
 
-- **What it is physically:** *Describe the object before the content — material, condition, size, how it's sealed, stored, or marked. Players will look at it before they read it. The physical description sets up the reading. "A single sheet of paper, rolled and sealed with dark red wax. The seal is a circle with a small sun pressed into the center. The paper inside is dry, precise — written with care by someone who knew strangers would read it."*
+- **What it is physically:** *Describe the object before the content — material, condition, size, how it's sealed, stored, or marked. Players see it before they read it. Physical description sets up the reading. "A folded square of parchment, sealed with black wax stamped with a tower mark. The paper is expensive — whoever wrote this expected it to be kept." "A small iron key, old, with a number scratched into the bow — 7."*
 
-- **Trigger moment:** *The exact in-scene event that puts this in players' hands. Specific enough to execute without deciding at the table. "After combat, if players search the enforcer's second belt pouch — it's under the coin purse, not immediately visible." "When players open the restricted stacks door successfully." "Sera hands it across the table midway through the conversation, unprompted."*
+- **Trigger moment:** *The exact in-scene event that puts this in players' hands. Specific enough to execute without deciding at the table. "After combat, if players search the body — inside the left boot." "When players successfully pick the lock." "The innkeeper slides it across without being asked, before they can say a word."*
 
-- **Handoff narration:** *The one sentence you say when you slide the prop across the table. In the tone of the scene. "You find it folded inside a second pouch — someone placed it there deliberately, not out of habit." "She doesn't say anything when she gives it to you. She just watches your face."*
+- **Handoff narration:** *One sentence, in the scene's tone, said while handing the prop across. "You find it folded under the coin purse — someone placed it there deliberately." "She doesn't say anything when she gives it to you. She watches your face instead."*
 
 - **What it reveals without checks:** *Everything a player learns by reading or examining it normally. State the information plainly — this is what the prop delivers.*
 

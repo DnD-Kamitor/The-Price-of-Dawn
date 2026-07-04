@@ -4,233 +4,6 @@ Quick-reference tools for running The Price of Dawn: random encounters, NPC trac
 
 ---
 
-## Random Encounter Tables
-
-<details class="gm-only">
-<summary>GM Only — Twilight City Encounters (d12, Any Session)</summary>
-
-Roll 1d12 when the players are moving through Varenhold without a specific destination.
-
-| d12 | Encounter |
-|-----|-----------|
-| 1 | A street healer is examining a man who has stopped caring about things - grey sickness, early stage. The man shrugs at everything, including the players' questions. |
-| 2 | A market vendor is selling "Dawn Candles" - expensive tapers that produce slightly warmer light than normal. They don't work. The vendor knows this. She is feeding her family. |
-| 3 | Two children are arguing about whether the sun is real. One has heard it is. One wants proof. |
-| 4 | A member of the Restorers is handing out pamphlets. If the players have met Edoran: she recognizes them and is cautiously respectful. If not: she tries to recruit them. |
-| 5 | Three guards from Sera's district are on break. If the players know Sera, the guards are warm and curious. If not, they are professionally neutral. |
-| 6 | A merchant from an outside city is loading goods in a hurry - their deal fell through. They will pay well for an escort out of the city. Reason? "I just don't like the sky here." |
-| 7 | An old Auris priest is arguing with a young one about whether the god punished the city or was wounded by the ritual. Both positions have adherents in the small crowd. |
-| 8 | A public letter-reader is reading correspondence aloud for the illiterate. One letter is from someone who left Varenhold, addressed to their family, describing what dawn looks like. Several listeners are crying. |
-| 9 | A pair of Dawnborn (roll 1d6 for ensemble members) are walking off-duty. They are approachable if the players have met any Dawnborn. They have heard rumors about the investigation. |
-| 10 | The Desperate: a group of Lowmark workers are holding a quiet vigil outside Council Hall. Signs say things like "WHEN?" and "OUR CHILDREN DESERVE SUNLIGHT." |
-| 11 | A child gives the players a flower - a twilight bloom, a variety that only grows in the amber half-light. She says it's the prettiest flower she knows. It is pretty. |
-| 12 | A mage from the Spire Quarter stops the players and asks - politely but intensely - if the rumors about the Dawnborn are true. He has a theory. His theory is wrong but adjacent to right in an interesting way. |
-
-</details>
-
-<details class="gm-only">
-<summary>GM Only — Ashfen Marshes Encounters (d6, Sessions 2–4)</summary>
-
-For travel to or from the Ashfen Gate or the Restorer compound.
-
-| d6 | Encounter |
-|----|-----------|
-| 1 | A mudlark is pulling objects from the marsh. One is a piece of old ritual equipment - clearly decades old. She found it here. She'll sell it. |
-| 2 | Three Restorers are escorting someone voluntarily to their compound. The someone is one of the ensemble Dawnborn (not the three featured ones). They are calm. |
-| 3 | A group of children playing "sunrise" - one stands on a box and waves a lantern, others pretend to wake up. They invite the players to play. |
-| 4 | A patrol of city guards is watching the Restorer compound from a distance. Their orders are to observe only. They are bored and want company. |
-| 5 | A grey heron stands in the marsh looking at the players with enormous patience. There is nothing supernatural about this. It is just a heron. It is very compelling. |
-| 6 | A cart has broken down. A merchant is unloading grain sacks into the mud, swearing. The grain is 20% of the Lowmark's supply for this week. |
-
-</details>
-
----
-
-## District Social and Investigation Encounters
-
-*Use these when players move through a district without a specific destination, or when you want to establish atmosphere at the start of a scene. These are not combat encounters - they're texture, information, and moral weight.*
-
----
-
-### How to Use These Tables
-
-Roll a d10 when the players:
-- Travel through a district without a destination
-- Wait for someone and have time to observe
-- Actively look around after arriving somewhere
-
-Each entry is a *scene seed*, not a full scene. Expand based on player interest. Players who engage get more; players who walk past get the ambient detail and move on.
-
----
-
-<details class="gm-only">
-<summary>GM Only — The Ashring Quarter: Full d10 Encounter Table</summary>
-
-| d10 | Encounter |
-|-----|-----------|
-| 1 | A stonemason is working on the plaza's scorched stones - cleaning them, not repairing them. She's been doing this twice a week for twenty years. She says she's just keeping them from getting worse. She can't explain why she feels responsible for them. |
-| 2 | A group of twelve-year-olds are taking turns standing in the center of the scorch circle and closing their eyes. One says: "I'm trying to feel it." Another says: "Feel what?" Neither knows, exactly. |
-| 3 | A Restorer pamphlet has been nailed to every public notice board in the quarter. City workers are pulling them down. They are not fast enough. |
-| 4 | An elderly former Spire scholar is sitting on a bench with a large notebook, watching people's reactions to the Ashring. He has been doing this for thirty years. He will tell the players what he's noticed, if asked. (The people who cry are always people who didn't grow up in Varenhold. The people who grew up here don't cry anymore.) |
-| 5 | The Reckoning (if still active) has left marks on the Ashring's outer wall - coded symbols that mean nothing to most people. An Investigation DC 13 recognizes them as military communication markers. |
-| 6 | A city guard is giving directions to a lost visitor. The visitor keeps looking at the sky. The guard is patiently explaining that the sky is always like this. The visitor looks like they want to sit down. |
-| 7 | Two Auris priests - one Penitent, one Wounded - are having a quiet but intense argument on the plaza steps. They are clearly old friends. They are clearly not going to agree. |
-| 8 | A traveling artist is sketching the scorch pattern. "For a commission," she says. "Someone in the Compact wants a painting of it. The most important thing that happened in the last hundred years, they said." She doesn't seem sure they're right. |
-| 9 | Someone has left a dozen candles burning in the scorch circle - not the formal Remembrance ceremony, just someone who came and lit candles. A city worker is deciding whether to extinguish them. He decides not to. |
-| 10 | A child is asking their parent what the marks are. The parent is explaining the ritual. The child asks: "Did anyone get hurt?" The parent's pause before answering is visible from thirty feet away. |
-
-</details>
-
----
-
-<details class="gm-only">
-<summary>GM Only — The Lowmark: Full d10 Encounter Table</summary>
-
-| d10 | Encounter |
-|-----|-----------|
-| 1 | Wess, the ledger-keeper at the Grain Measure, is outside arguing with a Compact trader about a shipment that arrived three sacks short. The math is simple. The negotiation is not. |
-| 2 | A healer from the Guild is doing a street consultation - free, in public, because the person couldn't get to the care house. Other people are watching respectfully from a few feet away. One of them is also Stage 1, you can tell. She doesn't approach. |
-| 3 | The Lowmark Stew smell is stronger than usual today - someone is cooking a large batch for a Dawnhall event. Two people are arguing about whether you finish Lowmark Stew with the oil before or after you add the herbs. The correct answer is before. (DC 12 Survival confirms this.) |
-| 4 | A man is standing very still in the middle of the dockside road. Just standing. His neighbor comes out of a nearby building, takes him by the arm, and walks him inside without a word. Stage 2. Everyone sees it. No one says anything. |
-| 5 | A Desperate cell (low-level members, not core leadership) is distributing a pamphlet that's slightly more pointed than the Restorers' version. They stop when they see anyone official-looking. The players don't look official unless they're dressed that way. |
-| 6 | The dock master, Cormac Drell (one of the Dawnborn), is supervising an unloading. He is visibly stronger and faster than the dock workers and seems unaware of the gap. He stops to help when a crate slips. He treats this as unremarkable. |
-| 7 | A woman is selling homemade "treatment compound" from a cart. The compound is made of marsh herbs and wishful thinking. A Healers' Guild practitioner is watching her from across the street, deciding whether to intervene. (She does, eventually. Gently.) |
-| 8 | Children are playing a game that involves pretending to be the Dawnborn. One is Sera (protecting the others). One is Tomas (adjudicating disputes about the rules). One is Lira (telling anyone who gets "hurt" that they'll be okay). |
-| 9 | A Parish delegate - not Harrow Seld, a younger one - is asking questions at the docks about barge schedules. She seems to be counting something. If the players ask what she's counting, she says: "How much food left the city this week that didn't come back." |
-| 10 | The Grain Measure's evening ledger is being posted publicly (per Dawnhall tradition). A small crowd is reading it. The numbers are worse than last month. Three people reading the list know exactly what this means. Their faces show it. |
-
-</details>
-
----
-
-<details class="gm-only">
-<summary>GM Only — The Spire Quarter: Full d10 Encounter Table</summary>
-
-| d10 | Encounter |
-|-----|-----------|
-| 1 | A junior Spire scholar is conducting an outdoor experiment involving a lux-measurement device and a series of amber plates. She looks frustrated. The device is not producing the results she expected. She explains this to anyone who asks, and is relieved to have someone to explain it to. |
-| 2 | A very well-dressed merchant from the Compact is arguing at the Spire's front desk. He wants access to specific records. He is being told politely but firmly that he doesn't have the authorization. He looks like he's used to getting what he wants. This is not going well for him. |
-| 3 | Keseph's assistant (a young man named Jorn who visibly dislikes his job) is posting a revision to the public Spire schedule. The revised version removes access to two research sections "for maintenance." The maintenance is not scheduled in any building registry. |
-| 4 | Two scholars are debating loudly in the reading room about the mechanism of the twilight. One says it's a sympathetic void. The other says it's a direct inversion. They are both partially right. Neither knows this. (Wadewalker Erem's papers would settle the argument; they haven't been read by the Spire.) |
-| 5 | The public lecture is underway - a junior scholar presenting on amber lantern resonance patterns. Half the audience is interested. Half is using the public access to read things in the library they couldn't otherwise access. |
-| 6 | A former Spire student - now working as a merchant's clerk - is waiting to see if her old thesis advisor will meet with her. The advisor left the Spire two years ago. Nobody has told her this yet. |
-| 7 | A guard is turning away a man who says he has information about the ritual that the Spire needs to hear. He says it every week. The guard is very tired of this. The man is very specifically wrong - but his wrong theory contains an assumption that actually does map onto something real. |
-| 8 | Isolde Menth's light is on late (again). A graduate student who works across the hall knows she only does that when she's close to something. He has been noticing this for three weeks. He mentions it to anyone who seems interested. |
-| 9 | A scholar is leaving the Spire carrying a box of personal items. She resigned this morning. She doesn't explain why to anyone, but her face says "I have been here long enough." |
-| 10 | The weekly faculty coffee hour is audible from the hallway - a heated disagreement about whether the Compact's continued funding of the Spire's research constitutes an obligation to share results with the Compact. The underlying argument is about something else entirely. |
-
-</details>
-
----
-
-<details class="gm-only">
-<summary>GM Only — The Dawnhalls District: Full d10 Encounter Table</summary>
-
-| d10 | Encounter |
-|-----|-----------|
-| 1 | The morning meal is being served. The queue is longer than yesterday. The Dawnhall kitchen manager is quietly counting portions and doing math in her head that she does not like the answer to. |
-| 2 | Sera Voss is eating breakfast in the public hall, not the back room. She does this sometimes - just to sit with people. A child has come to sit next to her and is explaining their week to her. She is listening with her whole body. |
-| 3 | A group of neighbors are doing small maintenance on their shared Dawnhall building. This is not organized. No one called a meeting. They just showed up because the window needed fixing. This is how most of the Dawnhall maintenance gets done. |
-| 4 | The memorial room in the Great Dawnhall is open. Nessa, who maintains it, is adding a new item. She has been maintaining this for thirty years. She nods to anyone who comes in but doesn't explain the items unless asked. |
-| 5 | A Restorer is speaking quietly to a small group in the corner of the common room. She's not distributing pamphlets; she's just talking. This is the soft version - grief circle, not recruitment. Three of the five listeners are crying. |
-| 6 | A retired lantern-carrier is teaching a group of children the route she used to walk. She demonstrates with a small practice lantern. The children are very serious about getting the route right. |
-| 7 | A member of the Desperate is talking to someone from the Restorers. Neither seems comfortable but both seem determined to make this work. They're discussing whether the movements should coordinate or keep separate. (This is a recurring conversation. It never fully resolves.) |
-| 8 | Someone has posted a notice about the food stores' current capacity. 37%. Last week it was 40%. The person who posted it wrote, in small letters at the bottom: "This is not fine." The note has not been taken down. |
-| 9 | Lira is passing through on her way to the care houses. She looks tired. She is always tired. A neighbor stops her to ask how her daughter is doing; the warmth that crosses Lira's face for about three seconds before she answers is genuinely arresting. |
-| 10 | The evening community meeting is winding down. The vote on something minor (which lantern routes to expand next month) went smoothly. The vote on something major (whether to formally request the Council address the food supply in public session) did not. The room still has some of that energy in it. |
-
-</details>
-
----
-
-<details class="gm-only">
-<summary>GM Only — The Outer Ring: Full d10 Encounter Table</summary>
-
-| d10 | Encounter |
-|-----|-----------|
-| 1 | A Compact merchant is showing a visitor from outside the city the Highmark district. "It used to be the most beautiful district in the Reaches," she says, in the tone of someone reciting information rather than experiencing it. |
-| 2 | The Council Registrar's office has a queue of twelve people waiting for the petition window to open. One is a grey sickness patient who needs care house priority. One is a merchant with a Compact dispute. One has been waiting for three months for a different matter and is here again. |
-| 3 | Two Councillors are having a private conversation that is clearly heated, in public, because they forgot that the Outer Ring is less private than it looks at 6 AM. They stop when they notice the players. |
-| 4 | The Auris cathedral has a small protest outside it - Wounded-faction worshippers who believe the Penitent clergy's last public statement was theologically wrong. Six people. Quiet. Signs. The Penitent side has locked the front door and is pointedly not commenting. |
-| 5 | A Compact trade representative is meeting with a Council aide on the steps of the Exchange. They are both pretending this is casual. The papers the aide is carrying are not casual. |
-| 6 | The Chancellor's window is lit - she is working early. A citizen who walks past it every morning has developed a superstition: if her window is lit before the first bell, it's a difficult day. He has been right more often than chance. |
-| 7 | A street performer is playing a lanternhalt ballad in the Highmark arcade. Small audience. The unresolved final chord lands and nobody moves for a moment afterward. |
-| 8 | A message has been left at the Compact House door - not through official channels, just folded and placed. The door guard is deciding whether to open it or pass it up the chain. (It contains information about the Reckoning's current funding sources.) |
-| 9 | A nobleman who left Varenhold fifteen years ago is walking through the Highmark comparing what he sees to his memory. He keeps stopping and looking at something that no longer matches. He is not distressed about this. He is genuinely curious. |
-| 10 | A Dawnhall supply cart is making deliveries to the Outer Ring's private care house (for wealthy patients who don't use the public care houses). The driver is Cormac Drell. He makes this run once a week because someone has to and he wanted to be the person doing it. |
-
-</details>
-
----
-
-<details class="gm-only">
-<summary>GM Only — The Ashfen Gate District: Full d10 Encounter Table</summary>
-
-| d10 | Encounter |
-|-----|-----------|
-| 1 | A caravan has just arrived from the Dusk Parishes. The driver is Harrow Seld's cousin, and she is carrying unofficial Parish correspondence alongside the official goods. She is trying to find someone who will take it without asking questions. |
-| 2 | The wayshrine to the Wanderer at the gate is being freshened by a pilgrim who has just arrived. He has been walking for eight days. He ties a yellow cord to the wayshrine railing (traveler's courtesy, requesting safe passage through the city). Several other cords are already there. |
-| 3 | A Restorer is meeting with an Ashfen Clan trader in a doorway. They are discussing marsh oil prices. The Clan trader knows the City of Varenhold needs this oil desperately. She is not being cruel, but she is being accurate about the price. |
-| 4 | The Reckoning (if still active) has a watcher at the caravan yard - someone noting arrivals and who they speak to. DC 13 Perception or Insight identifies behavior as surveillance. DC 16 Stealth to observe them observing others. |
-| 5 | A city guard is checking papers at the gate. She is doing her job. She is also asking more pointed questions than the standard protocol requires because someone told her to watch for someone specific. (The "someone specific" is not the players - probably.) |
-| 6 | Helka from the Wayfarer's Rest is negotiating with a Compact merchant about the upcoming northbound caravan schedule. She notices the players if they've met her. She gives them a look that means "come see me later." |
-| 7 | A group of Dusk Parish children are at the gate - they've come into the city for market day for the first time. They are looking at everything with enormous eyes. One of them walks to the edge of the amber lantern's light and back again, testing where the light ends. |
-| 8 | An Ashfen Clan Wadewalker (not Erem - a younger one) is at the gate, waiting for customs clearance on a bundle of marsh herbs. While she waits, she is writing in a small notebook. She is documenting changes in the city's ambient magical field. This is her third trip this year. |
-| 9 | A former Reckoning member is leaving the city. He has a bag, he has a direction, and he is not looking at anyone. If stopped by the players (who may have met him in an earlier session), he says: "Some of us figured out we were wrong. Some of us didn't." He does not explain further. |
-| 10 | The Restorer compound is visible from the gate. Today there's more activity than usual - people coming and going, something being organized. A neighbor who has been watching the compound for three years says this is a new level of activity. She doesn't know what changed. |
-
-</details>
-
----
-
-<details class="gm-only">
-<summary>GM Only — Overheard Conversations: d8 by Session</summary>
-
-*Roll when players pass through any public space and you want ambient information. Mark each as A (accurate), D (distorted), or F (fabricated).*
-
-**Session 1:**
-
-| d8 | Overheard | Accuracy |
-|----|-----------|----------|
-| 1 | "Theron hasn't taken a day off in six months. Something's got him wound up." | A |
-| 2 | "The Restorers are planning something for First-month. I heard it's going to be big." | D (they're planning a petition, not an action) |
-| 3 | "The Compact's pulling out. All of them, by mid-year. I heard from someone who heard from someone." | F |
-| 4 | "The Dawnborn meeting was closed last week. They never close it." | A |
-| 5 | "Someone tried to break into the Archive again. Third time this year." | D (twice, not three times) |
-| 6 | "The grey sickness numbers are up in the Second District. Sevra's not happy." | A |
-| 7 | "New arrivals always think they're going to fix it. They don't fix it." | A, in spirit |
-| 8 | "A Solenne priest came through last week. Didn't stop." | A (and she was meeting with the Chancellor) |
-
-**Session 2:**
-
-| d8 | Overheard | Accuracy |
-|----|-----------|----------|
-| 1 | "Sera turned down another Council appointment. Third time now." | A |
-| 2 | "There's a treatment that works better than Lira's compound - someone in the Compact has it." | F (dangerous rumor) |
-| 3 | "Tomas found something in his own notes that he couldn't explain. He's been quiet about it." | D (he found something; he isn't quiet, he's thinking) |
-| 4 | "The Desperate are organizing. Not just talk this time." | A |
-| 5 | "Lira's got a kid, you know. Nobody's supposed to know that." | A (and saying it out loud is unkind) |
-| 6 | "The Spire's got a new theory. They always have a new theory." | A (and also D in its dismissiveness) |
-| 7 | "Someone bought Ceva Doss's newest painting for four hundred writs. Four hundred." | A |
-| 8 | "The Holds are going to start charging full road rates by summer if nothing changes." | D (five years, not this summer) |
-
-**Session 3:**
-
-| d8 | Overheard | Accuracy |
-|----|-----------|----------|
-| 1 | "The Reckoning has names. They have the names of all of them." | A |
-| 2 | "Edoran's done something. I can feel it. The Restorers are different this week." | A |
-| 3 | "The Chancellor's going to authorize something. That's why she's been meeting with the Council in closed session." | D (considering, not authorizing - yet) |
-| 4 | "Keseph shut down another research project. He's got veto authority over theoretical division work." | A |
-| 5 | "Aldric's been seen in the Second District asking questions. Something's got him worried." | A |
-| 6 | "There's a compound that accelerates the sickness. Someone's making it on the black market." | A (Mave's bad batch problem) |
-| 7 | "One of the Dawnborn has already said yes. Someone told me." | D (more than one; the source doesn't know who) |
-| 8 | "The Compact has been paying someone in the Spire. Someone important." | A |
-
-</details>
-
----
-
 ## The Living World System
 
 ![The Ashfen marsh road south of Varenhold - reed channels, amber sky reflected in still water, the Clans who live here knowing things the Spire has been dismissing as metaphor for fifty years](images/ashfen-marsh-travel.png)
@@ -1212,3 +985,233 @@ The players are the storytellers. Your job is to make the conditions real, the c
 If every session ends with players talking about what they decided and why - you've done your job. The sun coming up or not is secondary.
 
 Run it well.
+
+---
+
+## Random Encounter Tables
+
+<details class="gm-only">
+<summary>GM Only — Twilight City Encounters (d12, Any Session)</summary>
+
+Roll 1d12 when the players are moving through Varenhold without a specific destination.
+
+| d12 | Encounter |
+|-----|-----------|
+| 1 | A street healer is examining a man who has stopped caring about things - grey sickness, early stage. The man shrugs at everything, including the players' questions. |
+| 2 | A market vendor is selling "Dawn Candles" - expensive tapers that produce slightly warmer light than normal. They don't work. The vendor knows this. She is feeding her family. |
+| 3 | Two children are arguing about whether the sun is real. One has heard it is. One wants proof. |
+| 4 | A member of the Restorers is handing out pamphlets. If the players have met Edoran: she recognizes them and is cautiously respectful. If not: she tries to recruit them. |
+| 5 | Three guards from Sera's district are on break. If the players know Sera, the guards are warm and curious. If not, they are professionally neutral. |
+| 6 | A merchant from an outside city is loading goods in a hurry - their deal fell through. They will pay well for an escort out of the city. Reason? "I just don't like the sky here." |
+| 7 | An old Auris priest is arguing with a young one about whether the god punished the city or was wounded by the ritual. Both positions have adherents in the small crowd. |
+| 8 | A public letter-reader is reading correspondence aloud for the illiterate. One letter is from someone who left Varenhold, addressed to their family, describing what dawn looks like. Several listeners are crying. |
+| 9 | A pair of Dawnborn (roll 1d6 for ensemble members) are walking off-duty. They are approachable if the players have met any Dawnborn. They have heard rumors about the investigation. |
+| 10 | The Desperate: a group of Lowmark workers are holding a quiet vigil outside Council Hall. Signs say things like "WHEN?" and "OUR CHILDREN DESERVE SUNLIGHT." |
+| 11 | A child gives the players a flower - a twilight bloom, a variety that only grows in the amber half-light. She says it's the prettiest flower she knows. It is pretty. |
+| 12 | A mage from the Spire Quarter stops the players and asks - politely but intensely - if the rumors about the Dawnborn are true. He has a theory. His theory is wrong but adjacent to right in an interesting way. |
+
+</details>
+
+<details class="gm-only">
+<summary>GM Only — Ashfen Marshes Encounters (d6, Sessions 2–4)</summary>
+
+For travel to or from the Ashfen Gate or the Restorer compound.
+
+| d6 | Encounter |
+|----|-----------|
+| 1 | A mudlark is pulling objects from the marsh. One is a piece of old ritual equipment - clearly decades old. She found it here. She'll sell it. |
+| 2 | Three Restorers are escorting someone voluntarily to their compound. The someone is one of the ensemble Dawnborn (not the three featured ones). They are calm. |
+| 3 | A group of children playing "sunrise" - one stands on a box and waves a lantern, others pretend to wake up. They invite the players to play. |
+| 4 | A patrol of city guards is watching the Restorer compound from a distance. Their orders are to observe only. They are bored and want company. |
+| 5 | A grey heron stands in the marsh looking at the players with enormous patience. There is nothing supernatural about this. It is just a heron. It is very compelling. |
+| 6 | A cart has broken down. A merchant is unloading grain sacks into the mud, swearing. The grain is 20% of the Lowmark's supply for this week. |
+
+</details>
+
+---
+
+## District Social and Investigation Encounters
+
+*Use these when players move through a district without a specific destination, or when you want to establish atmosphere at the start of a scene. These are not combat encounters - they're texture, information, and moral weight.*
+
+---
+
+### How to Use These Tables
+
+Roll a d10 when the players:
+- Travel through a district without a destination
+- Wait for someone and have time to observe
+- Actively look around after arriving somewhere
+
+Each entry is a *scene seed*, not a full scene. Expand based on player interest. Players who engage get more; players who walk past get the ambient detail and move on.
+
+---
+
+<details class="gm-only">
+<summary>GM Only — The Ashring Quarter: Full d10 Encounter Table</summary>
+
+| d10 | Encounter |
+|-----|-----------|
+| 1 | A stonemason is working on the plaza's scorched stones - cleaning them, not repairing them. She's been doing this twice a week for twenty years. She says she's just keeping them from getting worse. She can't explain why she feels responsible for them. |
+| 2 | A group of twelve-year-olds are taking turns standing in the center of the scorch circle and closing their eyes. One says: "I'm trying to feel it." Another says: "Feel what?" Neither knows, exactly. |
+| 3 | A Restorer pamphlet has been nailed to every public notice board in the quarter. City workers are pulling them down. They are not fast enough. |
+| 4 | An elderly former Spire scholar is sitting on a bench with a large notebook, watching people's reactions to the Ashring. He has been doing this for thirty years. He will tell the players what he's noticed, if asked. (The people who cry are always people who didn't grow up in Varenhold. The people who grew up here don't cry anymore.) |
+| 5 | The Reckoning (if still active) has left marks on the Ashring's outer wall - coded symbols that mean nothing to most people. An Investigation DC 13 recognizes them as military communication markers. |
+| 6 | A city guard is giving directions to a lost visitor. The visitor keeps looking at the sky. The guard is patiently explaining that the sky is always like this. The visitor looks like they want to sit down. |
+| 7 | Two Auris priests - one Penitent, one Wounded - are having a quiet but intense argument on the plaza steps. They are clearly old friends. They are clearly not going to agree. |
+| 8 | A traveling artist is sketching the scorch pattern. "For a commission," she says. "Someone in the Compact wants a painting of it. The most important thing that happened in the last hundred years, they said." She doesn't seem sure they're right. |
+| 9 | Someone has left a dozen candles burning in the scorch circle - not the formal Remembrance ceremony, just someone who came and lit candles. A city worker is deciding whether to extinguish them. He decides not to. |
+| 10 | A child is asking their parent what the marks are. The parent is explaining the ritual. The child asks: "Did anyone get hurt?" The parent's pause before answering is visible from thirty feet away. |
+
+</details>
+
+---
+
+<details class="gm-only">
+<summary>GM Only — The Lowmark: Full d10 Encounter Table</summary>
+
+| d10 | Encounter |
+|-----|-----------|
+| 1 | Wess, the ledger-keeper at the Grain Measure, is outside arguing with a Compact trader about a shipment that arrived three sacks short. The math is simple. The negotiation is not. |
+| 2 | A healer from the Guild is doing a street consultation - free, in public, because the person couldn't get to the care house. Other people are watching respectfully from a few feet away. One of them is also Stage 1, you can tell. She doesn't approach. |
+| 3 | The Lowmark Stew smell is stronger than usual today - someone is cooking a large batch for a Dawnhall event. Two people are arguing about whether you finish Lowmark Stew with the oil before or after you add the herbs. The correct answer is before. (DC 12 Survival confirms this.) |
+| 4 | A man is standing very still in the middle of the dockside road. Just standing. His neighbor comes out of a nearby building, takes him by the arm, and walks him inside without a word. Stage 2. Everyone sees it. No one says anything. |
+| 5 | A Desperate cell (low-level members, not core leadership) is distributing a pamphlet that's slightly more pointed than the Restorers' version. They stop when they see anyone official-looking. The players don't look official unless they're dressed that way. |
+| 6 | The dock master, Cormac Drell (one of the Dawnborn), is supervising an unloading. He is visibly stronger and faster than the dock workers and seems unaware of the gap. He stops to help when a crate slips. He treats this as unremarkable. |
+| 7 | A woman is selling homemade "treatment compound" from a cart. The compound is made of marsh herbs and wishful thinking. A Healers' Guild practitioner is watching her from across the street, deciding whether to intervene. (She does, eventually. Gently.) |
+| 8 | Children are playing a game that involves pretending to be the Dawnborn. One is Sera (protecting the others). One is Tomas (adjudicating disputes about the rules). One is Lira (telling anyone who gets "hurt" that they'll be okay). |
+| 9 | A Parish delegate - not Harrow Seld, a younger one - is asking questions at the docks about barge schedules. She seems to be counting something. If the players ask what she's counting, she says: "How much food left the city this week that didn't come back." |
+| 10 | The Grain Measure's evening ledger is being posted publicly (per Dawnhall tradition). A small crowd is reading it. The numbers are worse than last month. Three people reading the list know exactly what this means. Their faces show it. |
+
+</details>
+
+---
+
+<details class="gm-only">
+<summary>GM Only — The Spire Quarter: Full d10 Encounter Table</summary>
+
+| d10 | Encounter |
+|-----|-----------|
+| 1 | A junior Spire scholar is conducting an outdoor experiment involving a lux-measurement device and a series of amber plates. She looks frustrated. The device is not producing the results she expected. She explains this to anyone who asks, and is relieved to have someone to explain it to. |
+| 2 | A very well-dressed merchant from the Compact is arguing at the Spire's front desk. He wants access to specific records. He is being told politely but firmly that he doesn't have the authorization. He looks like he's used to getting what he wants. This is not going well for him. |
+| 3 | Keseph's assistant (a young man named Jorn who visibly dislikes his job) is posting a revision to the public Spire schedule. The revised version removes access to two research sections "for maintenance." The maintenance is not scheduled in any building registry. |
+| 4 | Two scholars are debating loudly in the reading room about the mechanism of the twilight. One says it's a sympathetic void. The other says it's a direct inversion. They are both partially right. Neither knows this. (Wadewalker Erem's papers would settle the argument; they haven't been read by the Spire.) |
+| 5 | The public lecture is underway - a junior scholar presenting on amber lantern resonance patterns. Half the audience is interested. Half is using the public access to read things in the library they couldn't otherwise access. |
+| 6 | A former Spire student - now working as a merchant's clerk - is waiting to see if her old thesis advisor will meet with her. The advisor left the Spire two years ago. Nobody has told her this yet. |
+| 7 | A guard is turning away a man who says he has information about the ritual that the Spire needs to hear. He says it every week. The guard is very tired of this. The man is very specifically wrong - but his wrong theory contains an assumption that actually does map onto something real. |
+| 8 | Isolde Menth's light is on late (again). A graduate student who works across the hall knows she only does that when she's close to something. He has been noticing this for three weeks. He mentions it to anyone who seems interested. |
+| 9 | A scholar is leaving the Spire carrying a box of personal items. She resigned this morning. She doesn't explain why to anyone, but her face says "I have been here long enough." |
+| 10 | The weekly faculty coffee hour is audible from the hallway - a heated disagreement about whether the Compact's continued funding of the Spire's research constitutes an obligation to share results with the Compact. The underlying argument is about something else entirely. |
+
+</details>
+
+---
+
+<details class="gm-only">
+<summary>GM Only — The Dawnhalls District: Full d10 Encounter Table</summary>
+
+| d10 | Encounter |
+|-----|-----------|
+| 1 | The morning meal is being served. The queue is longer than yesterday. The Dawnhall kitchen manager is quietly counting portions and doing math in her head that she does not like the answer to. |
+| 2 | Sera Voss is eating breakfast in the public hall, not the back room. She does this sometimes - just to sit with people. A child has come to sit next to her and is explaining their week to her. She is listening with her whole body. |
+| 3 | A group of neighbors are doing small maintenance on their shared Dawnhall building. This is not organized. No one called a meeting. They just showed up because the window needed fixing. This is how most of the Dawnhall maintenance gets done. |
+| 4 | The memorial room in the Great Dawnhall is open. Nessa, who maintains it, is adding a new item. She has been maintaining this for thirty years. She nods to anyone who comes in but doesn't explain the items unless asked. |
+| 5 | A Restorer is speaking quietly to a small group in the corner of the common room. She's not distributing pamphlets; she's just talking. This is the soft version - grief circle, not recruitment. Three of the five listeners are crying. |
+| 6 | A retired lantern-carrier is teaching a group of children the route she used to walk. She demonstrates with a small practice lantern. The children are very serious about getting the route right. |
+| 7 | A member of the Desperate is talking to someone from the Restorers. Neither seems comfortable but both seem determined to make this work. They're discussing whether the movements should coordinate or keep separate. (This is a recurring conversation. It never fully resolves.) |
+| 8 | Someone has posted a notice about the food stores' current capacity. 37%. Last week it was 40%. The person who posted it wrote, in small letters at the bottom: "This is not fine." The note has not been taken down. |
+| 9 | Lira is passing through on her way to the care houses. She looks tired. She is always tired. A neighbor stops her to ask how her daughter is doing; the warmth that crosses Lira's face for about three seconds before she answers is genuinely arresting. |
+| 10 | The evening community meeting is winding down. The vote on something minor (which lantern routes to expand next month) went smoothly. The vote on something major (whether to formally request the Council address the food supply in public session) did not. The room still has some of that energy in it. |
+
+</details>
+
+---
+
+<details class="gm-only">
+<summary>GM Only — The Outer Ring: Full d10 Encounter Table</summary>
+
+| d10 | Encounter |
+|-----|-----------|
+| 1 | A Compact merchant is showing a visitor from outside the city the Highmark district. "It used to be the most beautiful district in the Reaches," she says, in the tone of someone reciting information rather than experiencing it. |
+| 2 | The Council Registrar's office has a queue of twelve people waiting for the petition window to open. One is a grey sickness patient who needs care house priority. One is a merchant with a Compact dispute. One has been waiting for three months for a different matter and is here again. |
+| 3 | Two Councillors are having a private conversation that is clearly heated, in public, because they forgot that the Outer Ring is less private than it looks at 6 AM. They stop when they notice the players. |
+| 4 | The Auris cathedral has a small protest outside it - Wounded-faction worshippers who believe the Penitent clergy's last public statement was theologically wrong. Six people. Quiet. Signs. The Penitent side has locked the front door and is pointedly not commenting. |
+| 5 | A Compact trade representative is meeting with a Council aide on the steps of the Exchange. They are both pretending this is casual. The papers the aide is carrying are not casual. |
+| 6 | The Chancellor's window is lit - she is working early. A citizen who walks past it every morning has developed a superstition: if her window is lit before the first bell, it's a difficult day. He has been right more often than chance. |
+| 7 | A street performer is playing a lanternhalt ballad in the Highmark arcade. Small audience. The unresolved final chord lands and nobody moves for a moment afterward. |
+| 8 | A message has been left at the Compact House door - not through official channels, just folded and placed. The door guard is deciding whether to open it or pass it up the chain. (It contains information about the Reckoning's current funding sources.) |
+| 9 | A nobleman who left Varenhold fifteen years ago is walking through the Highmark comparing what he sees to his memory. He keeps stopping and looking at something that no longer matches. He is not distressed about this. He is genuinely curious. |
+| 10 | A Dawnhall supply cart is making deliveries to the Outer Ring's private care house (for wealthy patients who don't use the public care houses). The driver is Cormac Drell. He makes this run once a week because someone has to and he wanted to be the person doing it. |
+
+</details>
+
+---
+
+<details class="gm-only">
+<summary>GM Only — The Ashfen Gate District: Full d10 Encounter Table</summary>
+
+| d10 | Encounter |
+|-----|-----------|
+| 1 | A caravan has just arrived from the Dusk Parishes. The driver is Harrow Seld's cousin, and she is carrying unofficial Parish correspondence alongside the official goods. She is trying to find someone who will take it without asking questions. |
+| 2 | The wayshrine to the Wanderer at the gate is being freshened by a pilgrim who has just arrived. He has been walking for eight days. He ties a yellow cord to the wayshrine railing (traveler's courtesy, requesting safe passage through the city). Several other cords are already there. |
+| 3 | A Restorer is meeting with an Ashfen Clan trader in a doorway. They are discussing marsh oil prices. The Clan trader knows the City of Varenhold needs this oil desperately. She is not being cruel, but she is being accurate about the price. |
+| 4 | The Reckoning (if still active) has a watcher at the caravan yard - someone noting arrivals and who they speak to. DC 13 Perception or Insight identifies behavior as surveillance. DC 16 Stealth to observe them observing others. |
+| 5 | A city guard is checking papers at the gate. She is doing her job. She is also asking more pointed questions than the standard protocol requires because someone told her to watch for someone specific. (The "someone specific" is not the players - probably.) |
+| 6 | Helka from the Wayfarer's Rest is negotiating with a Compact merchant about the upcoming northbound caravan schedule. She notices the players if they've met her. She gives them a look that means "come see me later." |
+| 7 | A group of Dusk Parish children are at the gate - they've come into the city for market day for the first time. They are looking at everything with enormous eyes. One of them walks to the edge of the amber lantern's light and back again, testing where the light ends. |
+| 8 | An Ashfen Clan Wadewalker (not Erem - a younger one) is at the gate, waiting for customs clearance on a bundle of marsh herbs. While she waits, she is writing in a small notebook. She is documenting changes in the city's ambient magical field. This is her third trip this year. |
+| 9 | A former Reckoning member is leaving the city. He has a bag, he has a direction, and he is not looking at anyone. If stopped by the players (who may have met him in an earlier session), he says: "Some of us figured out we were wrong. Some of us didn't." He does not explain further. |
+| 10 | The Restorer compound is visible from the gate. Today there's more activity than usual - people coming and going, something being organized. A neighbor who has been watching the compound for three years says this is a new level of activity. She doesn't know what changed. |
+
+</details>
+
+---
+
+<details class="gm-only">
+<summary>GM Only — Overheard Conversations: d8 by Session</summary>
+
+*Roll when players pass through any public space and you want ambient information. Mark each as A (accurate), D (distorted), or F (fabricated).*
+
+**Session 1:**
+
+| d8 | Overheard | Accuracy |
+|----|-----------|----------|
+| 1 | "Theron hasn't taken a day off in six months. Something's got him wound up." | A |
+| 2 | "The Restorers are planning something for First-month. I heard it's going to be big." | D (they're planning a petition, not an action) |
+| 3 | "The Compact's pulling out. All of them, by mid-year. I heard from someone who heard from someone." | F |
+| 4 | "The Dawnborn meeting was closed last week. They never close it." | A |
+| 5 | "Someone tried to break into the Archive again. Third time this year." | D (twice, not three times) |
+| 6 | "The grey sickness numbers are up in the Second District. Sevra's not happy." | A |
+| 7 | "New arrivals always think they're going to fix it. They don't fix it." | A, in spirit |
+| 8 | "A Solenne priest came through last week. Didn't stop." | A (and she was meeting with the Chancellor) |
+
+**Session 2:**
+
+| d8 | Overheard | Accuracy |
+|----|-----------|----------|
+| 1 | "Sera turned down another Council appointment. Third time now." | A |
+| 2 | "There's a treatment that works better than Lira's compound - someone in the Compact has it." | F (dangerous rumor) |
+| 3 | "Tomas found something in his own notes that he couldn't explain. He's been quiet about it." | D (he found something; he isn't quiet, he's thinking) |
+| 4 | "The Desperate are organizing. Not just talk this time." | A |
+| 5 | "Lira's got a kid, you know. Nobody's supposed to know that." | A (and saying it out loud is unkind) |
+| 6 | "The Spire's got a new theory. They always have a new theory." | A (and also D in its dismissiveness) |
+| 7 | "Someone bought Ceva Doss's newest painting for four hundred writs. Four hundred." | A |
+| 8 | "The Holds are going to start charging full road rates by summer if nothing changes." | D (five years, not this summer) |
+
+**Session 3:**
+
+| d8 | Overheard | Accuracy |
+|----|-----------|----------|
+| 1 | "The Reckoning has names. They have the names of all of them." | A |
+| 2 | "Edoran's done something. I can feel it. The Restorers are different this week." | A |
+| 3 | "The Chancellor's going to authorize something. That's why she's been meeting with the Council in closed session." | D (considering, not authorizing - yet) |
+| 4 | "Keseph shut down another research project. He's got veto authority over theoretical division work." | A |
+| 5 | "Aldric's been seen in the Second District asking questions. Something's got him worried." | A |
+| 6 | "There's a compound that accelerates the sickness. Someone's making it on the black market." | A (Mave's bad batch problem) |
+| 7 | "One of the Dawnborn has already said yes. Someone told me." | D (more than one; the source doesn't know who) |
+| 8 | "The Compact has been paying someone in the Spire. Someone important." | A |
+
+</details>
+
+---
+

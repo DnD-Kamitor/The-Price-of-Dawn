@@ -57,6 +57,7 @@ book:
       chapters:
         - running-the-campaign.md
         - scene-template.md
+        - session-template.md
         - ai-tools.md
         - gm-tools.md
 
