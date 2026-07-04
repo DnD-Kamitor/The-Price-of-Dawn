@@ -65,6 +65,56 @@ What they don't know yet:
 
 ---
 
+## Session 1 — Quick-Reference Card
+
+*Prep material follows below. This card is for the table.*
+
+| | |
+|---|---|
+| **Level** | 4 · ~2 hours · 5 scenes + opening beat |
+| **Session dilemma** | Is hope worth chasing when you don't yet know what it costs? |
+| **Core reveal** | Corven built consent into the ritual as an engineering requirement — the "living conduit" is people |
+| **Three clue paths** | ① Corven's documents via Star-Wheel (Scene 3) · ② Sera names it if asked directly (Scene 4) · ③ Restorer pamphlet already in players' hands — *"some things cannot hold forever"* (passive) |
+
+---
+
+| Scene | Type | Beat 1 | Beat 2 — turning point | Beat 3 | Key mechanic | If they skip → |
+|---|---|---|---|---|---|---|
+| **Opening** | RP | Hired to investigate the ritual | Chancellor reveals she hasn't read the files herself | Leave with letter + two destinations | Persuasion optional; she doesn't lie | Can't skip — it's the hook |
+| **1** | Combat | Ambush at Lowmark Junction | Round 2: note-burning attempt mid-fight | Edoran withdraws; note recovered or ash | 3 archers at range, 2 cultists close, enforcer holds | Jaret's dispatch still on corpse; sealed note context lost |
+| **2** | Puzzle | Restricted door, riddle carved above | Waide knows the answer, will not give it | Players speak CONSENT; door opens | Answer spoken aloud | Waide opens with Chancellor's letter — grudgingly |
+| **3** | Puzzle | Star chart on east wall | Three-ring Star-Wheel mechanism | Corven's documents retrieved | Set rings W→E: Crown · Eye · Trailing Light | Waide retrieves documents if letter presented and asked directly |
+| **4** | RP | Sera already knows they're coming | She names the cost — without quite naming it | "Do you understand what completing it means?" | Insight DC 14: she's saying more than the words | Scene 5 Edoran alludes to it; full reveal in Session 2 |
+| **5** | Combat | Second, lighter ambush | Edoran watching — can be approached | He speaks two lines, steps into the dark | Edoran won't fight if approached peacefully | Edoran known from Scene 1 note; players miss the two lines |
+
+---
+
+**NPC positions at session start:**
+
+| NPC | Where | What they know | Goal this session |
+|---|---|---|---|
+| **Mira Ostenveld** | Spire Quarter office | Players hired; Edoran already has their route | Maintain deniability — doesn't know the answer officially |
+| **Edoran** | South alley, watching Scene 1 junction | Everything — he ran the ambush, watched players leave the Chancellor | Warn, not stop; observe what kind of people they are |
+| **Theron Waide** | Archive 3rd floor, east desk | Has read the documents; sat on them for 11 years | Obstruct without lying directly |
+| **Sera Voss** | Dawnhall, Crestwick Lane | Players are coming; what they'll find; what it means for her | Tell them the truth — slowly enough that it lands |
+
+---
+
+**Handouts in order:**
+
+1. **Sun-disk token** — Scene 1, cultist's coat (number 14, notched edge)
+2. **Sealed note** — Scene 1, if note survives burning (amber wax, Restorer)
+3. **Jaret's dispatch** — Scene 1, second pouch if body searched
+4. **Restorer pamphlet** — Scene 1 cultist or Scene 4 Sera's copy
+5. **Archive door riddle card** — Scene 2, when they approach the door
+6. **Star chart** — Scene 3, when they examine the east wall
+7. **Corven's public notes** — Scene 3, after wheel opens (shelf 4-17-3)
+8. **Fragment I notation key** — Scene 3, found with Corven's notes
+
+**XP:** Scene 1 ~450 XP + 100 bonus if note recovered · Scene 5 ~300 XP · Session total ~850 XP per player (4-person party)
+
+---
+
 ## Opening Beat — The Chancellor's Office
 
 ### Scene Setup — Read This Before Running

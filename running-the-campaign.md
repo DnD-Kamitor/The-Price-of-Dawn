@@ -277,4 +277,191 @@ The goal is not to make players feel good. The goal is to make them feel *someth
 
 The debrief in Session 5 is not optional. Some of the best moments in any campaign happen in the fifteen minutes after the final scene, when people are still sitting at the table and the characters are still real. Don't skip it.
 
+---
+
+## Scene Template & Quick-Reference Card
+
+Every scene follows a consistent structure built from traditional D&D adventure design principles — room-key brevity, hard boxed read-aloud separation, the three-clue rule, NPC schedule tracking, and explicit skip fallbacks. The quick-reference card at the top of each scene is your at-the-table reference. The collapsible sections below it hold prep depth.
+
+**How to use it:** Read the full session file when prepping. At the table, run from the card.
+
+---
+
+### The Quick-Reference Card
+
+Place this at the top of every scene, always visible — not inside a toggle. A GM who has prepped this session should be able to run from this card alone.
+
+Before the card, include two lines:
+- **Players know:** what they're carrying into the scene
+- **Players don't know:** what they're about to discover
+
+Then a **Confirm before running** line — the scene-critical facts that must be true before the first word of read-aloud (props placed, NPC positions set, handout ready).
+
+Then the card itself:
+
+| Field | What goes here |
+|---|---|
+| **Type** | Combat / Puzzle / RP / Exploration |
+| **Location** | Where players are, what it looks like in one phrase |
+| **Purpose** | Why this scene exists — one sentence, the narrative or moral function |
+| **Beat 1** | The setup: what players encounter first |
+| **Beat 2** | The turning point: the moment that changes the scene's direction |
+| **Beat 3** | Resolution and transition hook to next scene |
+| **Key mechanic** | The DC / puzzle answer / combat objective in plain terms |
+| **Key reveal** | The one fact players must leave with |
+| **Three clues** | ① Primary path ② Secondary (independent) ③ Passive/backup |
+| **If they skip** | One sentence: where the reveal still reaches them |
+| **XP / reward** | Numbers only — don't make the GM calculate at the table |
+| **NPC states** | Each NPC: what are they doing *right now* (schedule, not "located in room X") |
+
+---
+
+### Toggle Section Reference
+
+Everything below the quick-reference card uses `<details>` collapsibles. The sections are:
+
+---
+
+#### > Scene Description
+
+**What goes here:** The GM's factual context for the scene — not narration.
+
+- **What is happening** — A brief, factual summary of the situation players are entering.
+- **Why players are here** — The in-fiction reason their characters arrived at this moment.
+- **Why they should care** — Personal stakes. Not "the plot requires it" — what does this offer or cost a specific character?
+- **Story relevance** — How this scene connects to the campaign's central dilemma and what it sets up later. Name the session or scene it pays off in.
+- **Emotional target** — The feeling players should carry when they leave. One word or phrase.
+
+**Format:** 3–5 short paragraphs, GM-facing only. If you are writing something players could hear, it belongs in Read Aloud instead.
+
+---
+
+#### > Read Aloud
+
+**What goes here:** DM narration only. **Everything inside this toggle is player-perceivable. Nothing outside it is.**
+
+This enforces the hard separation that traditional D&D modules established from the 1980s onward: players hear this section; they hear nothing else. A DM should be able to read this word-for-word without revealing a GM secret.
+
+Internal structure:
+- **Scene opening** — Sensory entry: five senses, ambient detail, the thing that establishes mood before dialogue begins. Amber light, specific smells, sounds. Ground players in the room before any plot moves.
+- **NPC appearance** — How each named NPC looks when players first see them. Not what they're thinking — how they carry themselves, what they're wearing, what they're doing with their hands.
+- **Individual notices** — Optional: one detail directed at a specific character type ("Anyone watching the north alley sees...", "Perception 15+ catches...").
+- **Variants** — If narration changes based on how players arrived, label variants clearly (Variant A / Variant B).
+
+**Format:** Use the `.scene-open` CSS class. Italics for narration. Bold for key details that must land. Readable straight off the page at the table — no scanning while players watch you.
+
+---
+
+#### > Environment
+
+**What goes here:** The physical space in enough detail for improvisation. The room inventory from classic module design, expanded for a narrative game.
+
+Internal structure:
+- **Tactical layout** — Dimensions, landmarks, chokepoints, cover. ASCII sketch or simple description. "50×50 ft junction, four exits, market cart center, lantern post NE corner."
+- **Interactive objects** — What can be picked up, opened, moved, or destroyed, and what happens. One line per object: the thing and the consequence.
+- **Five senses** — Explicit labels. Sight (lighting, color, visible distance). Sound (ambient, triggered). Smell (specific — this campaign has a consistent scent vocabulary). Touch (temperature, texture if relevant). Taste (optional; useful in ritual or food contexts).
+- **Hidden details** — What skill checks reveal, at which DCs.
+
+**Format:** Grid or list, not prose. GMs scan this during play. One line per object or sense.
+
+---
+
+#### > NPC Awareness
+
+**What goes here:** The living dungeon principle. NPCs are not waiting in their rooms. They have schedules, current knowledge, and reactions.
+
+For each named NPC in or adjacent to the scene:
+- **Current action** — What they are literally doing right now. Not "located in room 3" — "sorting documents on the east table, back to the door" or "in the south alley, 30 ft from the junction, watching."
+- **What they know** — Their information state at scene start: what they've heard, what they suspect, what they're hiding.
+- **Alert trigger** — What changes their behavior: specific sounds, spell effects, certain questions asked.
+- **If not triggered** — What they do if players never find them. Know where they go next.
+
+**Format:** One block per NPC, 3–5 lines max. The full OGAS profile is in `npcs.md` — this section is the in-scene snapshot only.
+
+---
+
+#### > Three Clues
+
+**What goes here:** The Three-Clue Rule applied explicitly to this scene's key reveal. Three independent paths to the same discovery.
+
+- **The reveal** — The one fact players must leave this scene with.
+- **Clue ①** — The primary path. What happens if players do the expected thing.
+- **Clue ②** — The secondary path. Independent from ①. Survives if ① is skipped or failed. Requires a different action or skill.
+- **Clue ③** — The passive path. Something already in front of players — a handout they're holding, ambient NPC dialogue, a visible inscription — that confirms the reveal without requiring a roll or deliberate action. Players may not notice it during the session; they'll remember it afterward.
+
+**Format:** Label all three clearly. Note any DC or condition for each. If you cannot write three independent paths, the scene is fragile — add paths before running it.
+
+---
+
+#### > If They Skip
+
+**What goes here:** The explicit escape valve. No single scene should gate all access to a critical piece of information. Answer: *what if they bypass this scene entirely?*
+
+- **Likely skip scenarios** — The two or three most plausible ways players avoid or fail this scene.
+- **Where the information still reaches them** — The specific future scene, NPC, or object carrying the same essential reveal. Name it explicitly.
+- **What is genuinely lost** — What changes if they skip (texture, relationship, XP, handout props) versus what is recoverable.
+
+**Format:** Short and bulleted. This is a safety net, not an alternate plotline.
+
+---
+
+#### > Encounter Details *(combat and puzzle scenes only)*
+
+**What goes here:** Mechanical reference for scenes with combat or structured puzzles.
+
+For combat:
+- **Stat blocks** — Adjacent to the encounter description, not in a separate appendix. CR and XP at the top of each block.
+- **Initiative tracker** — Pre-filled NPC order, or blank slots for the GM to fill at the table.
+- **Round-by-round guide** — What NPCs do each round in the absence of player surprises. A fallback, not a script. "Round 1: archers fire from range. Round 2: enforcer positions for flanking. Round 3+: retreat below half HP."
+- **Tactical AI** — What triggers each NPC's special move, retreat, or surrender. One line per NPC.
+- **Terrain effects** — What the environment does mechanically: difficult terrain, cover values, destructible elements.
+- **Secondary objective** — The non-combat goal players should pursue simultaneously. State it explicitly. If this isn't clearly more interesting than "kill everything," redesign it.
+
+For puzzles:
+- **The solution** — Stated in plain text, directly. Do not bury it.
+- **Hint progression** — What additional information players receive at each failed attempt.
+- **Bypass path** — How a player who refuses the puzzle still passes or gets the information.
+
+**Format:** Standard 5e stat block formatting. Abbreviate wherever possible — GMs do not read full stat blocks during combat. Put the numbers you will actually look up (AC, HP, key DCs) visually prominent.
+
+---
+
+#### > Check on Basics
+
+**What goes here:** A pre-session checklist. Run this before the session, not during.
+
+```
+PRE-SCENE CHECKLIST
+□ NPC cards ready or tabbed in npcs.md
+□ Handout prop ready — [which prop, when to deliver it]
+□ Three clue paths accessible — know ①②③ without looking them up
+□ Skip fallback noted — know where the information still reaches them
+□ Moral tracker updated from last session
+□ Key DC numbers memorized or tabbed
+□ Read-aloud variant selected for this party
+□ Transition to next scene prepped
+□ [Scene-specific items here]
+```
+
+Add scene-specific items above the standard line. Check these off before the session begins, not between scenes.
+
+---
+
+### Mapping Traditional Module Techniques
+
+This template encodes the following classic adventure design principles:
+
+| Traditional D&D technique | Template section |
+|---|---|
+| Room key (number + 2–3 lines) | Quick-Reference Card |
+| Boxed read-aloud text | Read Aloud toggle |
+| Room inventory (objects, exits) | Environment toggle |
+| NPC placement ("Goblin chief, room 3, wants tribute") | NPC Awareness toggle |
+| Alert behavior ("if noise, monsters rush door") | NPC Awareness → alert trigger |
+| Three-clue rule / node-based backup | Three Clues toggle |
+| "If party misses this, see area 14" | If They Skip toggle |
+| Monster stat block adjacent to lair | Encounter Details toggle |
+| XP and treasure sidebar | Quick-Reference Card → XP/reward |
+| Scaling note (party size/level) | Quick-Reference Card header |
+
 That's the price of dawn.
