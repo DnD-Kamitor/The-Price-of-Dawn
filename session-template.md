@@ -137,6 +137,22 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 
 *The conflict pulling the fiction apart. Two forces, two people, two ideas in opposition. Players walk into the middle of it. Everything else in the session radiates from this.*
 
+**Escalating stakes — all four levels**
+
+*Know these before play. Players may only see one layer tonight. You improvise better knowing the full picture.*
+
+- **Personal:** *How this threatens or costs a specific character directly — name the character*
+- **Local:** *How this affects the immediate group, settlement, or community*
+- **Faction / Regional:** *How this ripples into the political or organizational powers at play*
+- **World / Cosmic:** *The largest possible consequence if this goes completely wrong — even if players never reach it*
+
+**Pre-session secrets — ask players privately before play**
+
+*Secrets seeded into specific characters elevate individual stakes without burdening the whole table. Ask before anyone sits down, in private. Give the player latitude to define their answer — the goal is to make them feel it personally.*
+
+- *[Player / character]: [The question or secret. "Does [character] recognize this symbol?" "What does [character] believe happened to [person]?" "What would [character] do if they found out X was true?"]*
+- *[Player / character]: [Secret]*
+
 </details>
 
 ---
@@ -163,6 +179,12 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 - Scene 2 or 3 contains new information that reframes what they know
 - Scene 4 puts pressure on — something is at risk, something costs
 - Scene 5 resolves the session's central tension and opens a new question
+
+**Branching paths — where do they converge?**
+
+*If players can take multiple routes through this session, name the convergence point. Every branch must arrive at the same final scene — just with different information, resources, and costs. A session without convergence is a session that can strand half the party.*
+
+*Convergence point: [Scene # — what all branches look like when they arrive, and what each path contributed or cost]*
 
 </details>
 
@@ -198,6 +220,12 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 
 *This block is player-perceivable. Nothing outside it is. Rules: (1) Open with senses before plot — ground players in the room first. (2) Present tense. (3) NPCs described physically only — how they look, what they're doing with their hands — never what they're thinking. (4) End when players have enough information to act. Do not narrate their decisions.*
 
+*Embed passive check callouts inline in the narration — deliver them during the read-aloud if the character qualifies, without asking for a roll:*
+> *(Passive Perception ≥ 15: [detail they notice automatically — weave into narration for qualifying players])*
+> *(Passive Insight ≥ 13: [something about a person or situation feels wrong — name the feeling, not the fact])*
+
+*Character class/race/background knowledge that isn't perception-based goes in the Character-Specific Knowledge section below.*
+
 **[Default / Variant A — label when this applies]**
 
 *[Write the narration here. Sight first. Then sound and smell. Then the space. Then NPCs using their first impression lines from the section below. Keep it under 90 seconds of reading.]*
@@ -205,6 +233,38 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 **Variant B — [label: when this text applies instead]**
 
 *[Alternate opening — use when party arrived differently, cautiously vs. rushing, forewarned vs. blind. Delete this block if only one version is needed.]*
+
+</details>
+
+<details>
+<summary>Character-Specific Knowledge — Tells by Class, Race & Background</summary>
+
+*These fire during or immediately after Read Aloud. Passive checks fire automatically — no declaration needed. Same evidence, different readings. A fighter sees the tactical problem. A cleric senses the sacred weight. A rogue sees the exit. All valid. None complete.*
+
+*Aim for at least one trigger per character at the table. Delete rows that don't apply. Add rows for campaign-specific proficiencies or backgrounds.*
+
+| Trigger | Threshold | What they notice / know / feel |
+|---|---|---|
+| **Passive Perception** | ≥ [N] | *[A detail in the scene — deliver in narration for qualifying characters without announcing the check]* |
+| **Passive Insight** | ≥ [N] | *[An emotional undercurrent — deception, grief, fear barely held. Name the feeling, not the source.]* |
+| **History** | DC [N] | *[What historical knowledge reveals about this place, symbol, or event]* |
+| **Religion** | DC [N] | *[What divine training senses — a blessing, a desecration, a space once sacred now wrong]* |
+| **Arcana** | DC [N] | *[What a magic-sensitive character feels or reads in the environment or objects]* |
+| **Nature / Survival** | DC [N] | *[What a reader of the wild notices that indoor characters miss]* |
+| **Medicine** | DC [N] | *[What a healer reads in bodies, wounds, or living characters that tells its own story]* |
+| **Class — Fighter / Soldier** | automatic | *[What combat experience makes immediately visible — a defensive position taken wrong, a wound pattern, the way someone moves who expects to fight]* |
+| **Class — Rogue / Criminal** | automatic | *[What a criminal eye catches — the exit, the mark, the small thing that signals danger or opportunity]* |
+| **Class — Cleric / Paladin** | automatic | *[What divine sensitivity reveals — a sacred wrongness, a presence, a place where faith was broken]* |
+| **Class — Ranger / Druid** | automatic | *[What a reader of wild things notices — an animal absent that should be here, a plant that doesn't grow like this]* |
+| **Class — Wizard / Scholar** | automatic | *[What systematic observation flags — an inconsistency, a pattern, something that doesn't follow its own rules]* |
+| **Race — [Race]** | automatic | *[Cultural recognition, ancestral memory, biological sense — something that lands differently for this ancestry than for anyone else at the table]* |
+| **Background — [Background]** | automatic | *[What their life before the campaign tells them before they even decide to think about it]* |
+| **Proficiency — [Tool/Kit]** | automatic | *[What a specialist sees in the materials, mechanism, or craft that others look past entirely]* |
+
+**Role-gated readings — same object, different truths:**
+- *Fighter: [what tactical training reads into this]*
+- *Cleric: [what spiritual training reads into this]*
+- *Rogue: [what criminal experience reads into this]*
 
 </details>
 
@@ -291,6 +351,14 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 **Emotional target** *(Guy Sanders: every scene has an emotional destination)*
 
 *One phrase. The feeling players carry out — not the event, the emotion. "Watched." "Wrong about someone they trusted." "Responsible for something they didn't choose." Every decision about this scene serves this landing.*
+
+**DM direction — pacing and information control**
+
+*Instructions to yourself, not narration. What to withhold and when to release it. What to do between beats.*
+
+- *[e.g. "Don't answer questions yet — establish the scene first, then cut when players are mid-discovery"]*
+- *[e.g. "If they ask about the door: delay — let them find the key through play, not by asking"]*
+- *[Specific beat direction for this scene]*
 
 </details>
 
@@ -483,6 +551,21 @@ SCENE FLOW
 <summary>Read Aloud</summary>
 
 *Senses first. Present tense. Physical NPCs only. End when players can act.*
+*Inline: (Passive Perception ≥ [N]: [detail]) · (Passive Insight ≥ [N]: [feeling])*
+
+</details>
+
+<details>
+<summary>Character-Specific Knowledge</summary>
+
+| Trigger | Threshold | What they notice / know / feel |
+|---|---|---|
+| **Passive Perception** | ≥ [N] | |
+| **Passive Insight** | ≥ [N] | |
+| **[Skill]** | DC [N] | |
+| **Class — [Class]** | automatic | |
+| **Race — [Race]** | automatic | |
+| **Background — [Background]** | automatic | |
 
 </details>
 
@@ -512,7 +595,7 @@ SCENE FLOW
 <details>
 <summary>Scene Description — GM Context</summary>
 
-**What is happening:** · **Why here:** · **Why care:** · **Story relevance:** · **Emotional target:**
+**What is happening:** · **Why here:** · **Why care:** · **Story relevance:** · **Emotional target:** · **DM direction:**
 
 </details>
 
@@ -593,6 +676,23 @@ Initiative: · R1: · R2 peak: · R3+: · Tactical AI: · Terrain: · **Secondar
 
 <details>
 <summary>Read Aloud</summary>
+
+*Inline: (Passive Perception ≥ [N]: [detail]) · (Passive Insight ≥ [N]: [feeling])*
+
+</details>
+
+<details>
+<summary>Character-Specific Knowledge</summary>
+
+| Trigger | Threshold | What they notice / know / feel |
+|---|---|---|
+| **Passive Perception** | ≥ [N] | |
+| **Passive Insight** | ≥ [N] | |
+| **[Skill]** | DC [N] | |
+| **Class — [Class]** | automatic | |
+| **Race — [Race]** | automatic | |
+| **Background — [Background]** | automatic | |
+
 </details>
 
 <details>
@@ -612,7 +712,7 @@ Layout: · Objects: · Senses: · Hidden details:
 <details>
 <summary>Scene Description — GM Context</summary>
 
-What happening: · Why here: · Why care: · Story relevance: · Emotional target:
+What happening: · Why here: · Why care: · Story relevance: · Emotional target: · DM direction:
 
 </details>
 
@@ -679,6 +779,23 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 
 <details>
 <summary>Read Aloud</summary>
+
+*Inline: (Passive Perception ≥ [N]: [detail]) · (Passive Insight ≥ [N]: [feeling])*
+
+</details>
+
+<details>
+<summary>Character-Specific Knowledge</summary>
+
+| Trigger | Threshold | What they notice / know / feel |
+|---|---|---|
+| **Passive Perception** | ≥ [N] | |
+| **Passive Insight** | ≥ [N] | |
+| **[Skill]** | DC [N] | |
+| **Class — [Class]** | automatic | |
+| **Race — [Race]** | automatic | |
+| **Background — [Background]** | automatic | |
+
 </details>
 
 <details>
@@ -691,6 +808,9 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 
 <details>
 <summary>Scene Description — GM Context</summary>
+
+What happening: · Why here: · Why care: · Story relevance: · Emotional target: · DM direction:
+
 </details>
 
 <details>
@@ -753,6 +873,23 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 
 <details>
 <summary>Read Aloud</summary>
+
+*Inline: (Passive Perception ≥ [N]: [detail]) · (Passive Insight ≥ [N]: [feeling])*
+
+</details>
+
+<details>
+<summary>Character-Specific Knowledge</summary>
+
+| Trigger | Threshold | What they notice / know / feel |
+|---|---|---|
+| **Passive Perception** | ≥ [N] | |
+| **Passive Insight** | ≥ [N] | |
+| **[Skill]** | DC [N] | |
+| **Class — [Class]** | automatic | |
+| **Race — [Race]** | automatic | |
+| **Background — [Background]** | automatic | |
+
 </details>
 
 <details>
@@ -765,6 +902,9 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 
 <details>
 <summary>Scene Description — GM Context</summary>
+
+What happening: · Why here: · Why care: · Story relevance: · Emotional target: · DM direction:
+
 </details>
 
 <details>
