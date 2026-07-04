@@ -56,6 +56,7 @@ book:
     - part: "GM Toolkit"
       chapters:
         - running-the-campaign.md
+        - scene-template.md
         - ai-tools.md
         - gm-tools.md
 
