@@ -17,9 +17,12 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 
 ---
 
-## Session Quick-Reference
+<div class="session-tree">
 
-*Always visible. The full session compressed to one page. Fill this last, after building all scenes.*
+<details>
+<summary>📋 Session Quick-Reference — The Whole Session in One Page</summary>
+
+*The full session compressed to one page. Fill this last, after building all scenes.*
 
 | | |
 |---|---|
@@ -48,8 +51,11 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 
 ---
 
+</details>
+
+
 <details>
-<summary>The Story So Far — Where We Are in the Campaign</summary>
+<summary>📁 The Story So Far — Where We Are in the Campaign</summary>
 
 *Fill this before every session. It is the foundation everything builds on. Read it once before sitting down; don't read it at the table.*
 
@@ -84,7 +90,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 ---
 
 <details>
-<summary>Current Player State — Where the Party Is Right Now</summary>
+<summary>📁 Current Player State — Where the Party Is Right Now</summary>
 
 *Not where they'll end up — where they are at minute zero. This determines how the session opens.*
 
@@ -113,7 +119,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 ---
 
 <details>
-<summary>The Truth Behind the Session — What's Actually Happening</summary>
+<summary>📁 The Truth Behind the Session — What's Actually Happening</summary>
 
 *GM eyes only. The full picture — the world as it actually is, regardless of what players discover. Filling this lets you improvise from reality instead of from plot.*
 
@@ -158,7 +164,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 ---
 
 <details>
-<summary>Session Map — All Scenes</summary>
+<summary>📁 Session Map — All Scenes</summary>
 
 *The skeleton. Build this before the individual scenes. Know where you're going before you build the rooms.*
 
@@ -193,7 +199,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 ---
 
 <details>
-<summary>Scene 1 — [Name] ([Type: Combat / Puzzle / RP / Exploration])</summary>
+<summary>📁 Scene 1 — [Name] ([Type: Combat / Puzzle / RP / Exploration])</summary>
 
 *[One sentence. Where players are. What they see or hear in the first five seconds.]*
 
@@ -216,7 +222,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 | **Handouts** | *[Prop name] — [exact trigger moment] — [how it enters players' hands]* |
 
 <details>
-<summary>Read Aloud</summary>
+<summary>📄 Read Aloud</summary>
 
 *This block is player-perceivable. Nothing outside it is. Rules: (1) Open with senses before plot — ground players in the room first. (2) Present tense. (3) NPCs described physically only — how they look, what they're doing with their hands — never what they're thinking. (4) End when players have enough information to act. Do not narrate their decisions.*
 
@@ -237,7 +243,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 </details>
 
 <details>
-<summary>Character-Specific Knowledge — Tells by Class, Race & Background</summary>
+<summary>📄 Character-Specific Knowledge — Tells by Class, Race & Background</summary>
 
 *These fire during or immediately after Read Aloud. Passive checks fire automatically — no declaration needed. Same evidence, different readings. A fighter sees the tactical problem. A cleric senses the sacred weight. A rogue sees the exit. All valid. None complete.*
 
@@ -269,7 +275,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 </details>
 
 <details>
-<summary>NPC Appearance & Presence</summary>
+<summary>📄 NPC Appearance & Presence</summary>
 
 *Every named NPC gets a full block. Players build mental images from physical specifics, not descriptions. One memorable detail per NPC is worth more than a paragraph. These feed directly into your Read Aloud narration and improvised descriptions throughout the scene.*
 
@@ -292,7 +298,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 </details>
 
 <details>
-<summary>Environment — The Space</summary>
+<summary>📄 Environment — The Space</summary>
 
 *Everything in the physical space a player might interact with. Your improvisation fuel. If you haven't thought it through, you'll fumble it.*
 
@@ -328,7 +334,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 </details>
 
 <details>
-<summary>Scene Description — GM Context</summary>
+<summary>📄 Scene Description — GM Context</summary>
 
 *GM eyes only. If players could hear it, it belongs in Read Aloud instead. This is your frame; Read Aloud is the picture.*
 
@@ -363,7 +369,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 </details>
 
 <details>
-<summary>NPC Awareness — Schedules & Knowledge</summary>
+<summary>📄 NPC Awareness — Schedules & Knowledge</summary>
 
 *The living dungeon principle. NPCs don't wait. They're doing something, they know things, specific events shift their behavior, and if players never find them they still go somewhere.*
 
@@ -382,7 +388,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 </details>
 
 <details>
-<summary>Handouts — Props for This Scene</summary>
+<summary>📄 Handouts — Props for This Scene</summary>
 
 *Handouts are the most powerful tool at the table. A physical prop makes information tangible. Players hold the evidence. Every prop must earn its place — it should reveal something, raise a question, or deepen a relationship.*
 
@@ -398,7 +404,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 </details>
 
 <details>
-<summary>Three Clues — Information Architecture</summary>
+<summary>📄 Three Clues — Information Architecture</summary>
 
 *Three independent paths to the key reveal. Independent means different action, different skill, different NPC, different location. Two clues that both require searching the same object are one clue with two steps. If you can't write three genuinely independent paths, the scene is fragile — add paths before running.*
 
@@ -427,7 +433,7 @@ DC [N] [Skill] — or condition: *[what triggers this path]*
 </details>
 
 <details>
-<summary>If They Skip — Fallback Paths</summary>
+<summary>📄 If They Skip — Fallback Paths</summary>
 
 *No scene should gate all access to a critical piece of information. Fill this before the session, not during it.*
 
@@ -444,7 +450,7 @@ DC [N] [Skill] — or condition: *[what triggers this path]*
 </details>
 
 <details>
-<summary>Encounter Details *(delete this section for RP-only scenes)*</summary>
+<summary>📄 Encounter Details *(delete this section for RP-only scenes)*</summary>
 
 *Stat blocks live here — adjacent to the encounter description, not in an appendix. CR and XP at the top of each block. Abbreviate wherever possible: GMs look up AC, HP, and attack bonus during combat, not flavor text.*
 
@@ -487,7 +493,7 @@ DC [N] [Skill] — or condition: *[what triggers this path]*
 </details>
 
 <details>
-<summary>Check on Basics — Pre-Scene Checklist</summary>
+<summary>✅ Check on Basics — Pre-Scene Checklist</summary>
 
 *Run this before sitting down. Not between scenes.*
 
@@ -527,7 +533,7 @@ SCENE FLOW
 ---
 
 <details>
-<summary>Scene 2 — [Name] ([Type])</summary>
+<summary>📁 Scene 2 — [Name] ([Type])</summary>
 
 *[Opening line — where players are, what they see or hear first.]*
 
@@ -548,7 +554,7 @@ SCENE FLOW
 | **Handouts** | *[Prop — trigger — delivery]* |
 
 <details>
-<summary>Read Aloud</summary>
+<summary>📄 Read Aloud</summary>
 
 *Senses first. Present tense. Physical NPCs only. End when players can act.*
 *Inline: (Passive Perception ≥ [N]: [detail]) · (Passive Insight ≥ [N]: [feeling])*
@@ -556,7 +562,7 @@ SCENE FLOW
 </details>
 
 <details>
-<summary>Character-Specific Knowledge</summary>
+<summary>📄 Character-Specific Knowledge</summary>
 
 | Trigger | Threshold | What they notice / know / feel |
 |---|---|---|
@@ -570,7 +576,7 @@ SCENE FLOW
 </details>
 
 <details>
-<summary>NPC Appearance & Presence</summary>
+<summary>📄 NPC Appearance & Presence</summary>
 
 **[NPC Name]**
 - **Look:** · **Wearing:** · **Posture / movement:** · **One memorable detail:** · **First impression line:**
@@ -578,7 +584,7 @@ SCENE FLOW
 </details>
 
 <details>
-<summary>Environment — The Space</summary>
+<summary>📄 Environment — The Space</summary>
 
 **Layout:** *[Dimensions, exits, cover, landmarks]*
 
@@ -593,42 +599,42 @@ SCENE FLOW
 </details>
 
 <details>
-<summary>Scene Description — GM Context</summary>
+<summary>📄 Scene Description — GM Context</summary>
 
 **What is happening:** · **Why here:** · **Why care:** · **Story relevance:** · **Emotional target:** · **DM direction:**
 
 </details>
 
 <details>
-<summary>NPC Awareness</summary>
+<summary>📄 NPC Awareness</summary>
 
 **[NPC]** · Right now: · Knows: · Triggered by: · If never found:
 
 </details>
 
 <details>
-<summary>Handouts</summary>
+<summary>📄 Handouts</summary>
 
 **[Prop]** · What it is: · Trigger: · Handoff line: · Reveals: · Skill check adds: · Connects to:
 
 </details>
 
 <details>
-<summary>Three Clues</summary>
+<summary>📄 Three Clues</summary>
 
 **Reveal:** · **①** *[Primary]* · **②** *[Secondary]* DC [N] [Skill] · **③** *[Passive]*
 
 </details>
 
 <details>
-<summary>If They Skip</summary>
+<summary>📄 If They Skip</summary>
 
 Bypasses: · Reveal at: · Genuinely lost:
 
 </details>
 
 <details>
-<summary>Encounter Details *(delete for RP)*</summary>
+<summary>📄 Encounter Details *(delete for RP)*</summary>
 
 **[Enemy] ×[N]** CR [N] · [N] XP · AC [N] · HP [N] · +[N] hit · [damage]
 
@@ -637,7 +643,7 @@ Initiative: · R1: · R2 peak: · R3+: · Tactical AI: · Terrain: · **Secondar
 </details>
 
 <details>
-<summary>Check on Basics</summary>
+<summary>✅ Check on Basics</summary>
 
 ```
 □ NPC impressions memorized + want/fear/lie
@@ -654,7 +660,7 @@ Initiative: · R1: · R2 peak: · R3+: · Tactical AI: · Terrain: · **Secondar
 ---
 
 <details>
-<summary>Scene 3 — [Name] ([Type])</summary>
+<summary>📁 Scene 3 — [Name] ([Type])</summary>
 
 *[Opening line.]*
 
@@ -675,14 +681,14 @@ Initiative: · R1: · R2 peak: · R3+: · Tactical AI: · Terrain: · **Secondar
 | **Handouts** | |
 
 <details>
-<summary>Read Aloud</summary>
+<summary>📄 Read Aloud</summary>
 
 *Inline: (Passive Perception ≥ [N]: [detail]) · (Passive Insight ≥ [N]: [feeling])*
 
 </details>
 
 <details>
-<summary>Character-Specific Knowledge</summary>
+<summary>📄 Character-Specific Knowledge</summary>
 
 | Trigger | Threshold | What they notice / know / feel |
 |---|---|---|
@@ -696,51 +702,51 @@ Initiative: · R1: · R2 peak: · R3+: · Tactical AI: · Terrain: · **Secondar
 </details>
 
 <details>
-<summary>NPC Appearance & Presence</summary>
+<summary>📄 NPC Appearance & Presence</summary>
 
 **[NPC]** · Look: · Wearing: · Posture: · Memorable detail: · First impression line:
 
 </details>
 
 <details>
-<summary>Environment — The Space</summary>
+<summary>📄 Environment — The Space</summary>
 
 Layout: · Objects: · Senses: · Hidden details:
 
 </details>
 
 <details>
-<summary>Scene Description — GM Context</summary>
+<summary>📄 Scene Description — GM Context</summary>
 
 What happening: · Why here: · Why care: · Story relevance: · Emotional target: · DM direction:
 
 </details>
 
 <details>
-<summary>NPC Awareness</summary>
+<summary>📄 NPC Awareness</summary>
 </details>
 
 <details>
-<summary>Handouts</summary>
+<summary>📄 Handouts</summary>
 </details>
 
 <details>
-<summary>Three Clues</summary>
+<summary>📄 Three Clues</summary>
 
 **Reveal:** · **①** · **②** DC [N] · **③**
 
 </details>
 
 <details>
-<summary>If They Skip</summary>
+<summary>📄 If They Skip</summary>
 </details>
 
 <details>
-<summary>Encounter Details *(delete for RP)*</summary>
+<summary>📄 Encounter Details *(delete for RP)*</summary>
 </details>
 
 <details>
-<summary>Check on Basics</summary>
+<summary>✅ Check on Basics</summary>
 
 ```
 □ NPC impressions + want/fear/lie
@@ -757,7 +763,7 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 ---
 
 <details>
-<summary>Scene 4 — [Name] ([Type])</summary>
+<summary>📁 Scene 4 — [Name] ([Type])</summary>
 
 *[Opening line. Scene 4 should put real pressure on the players — something is at risk, something costs.]*
 
@@ -778,14 +784,14 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 | **Handouts** | |
 
 <details>
-<summary>Read Aloud</summary>
+<summary>📄 Read Aloud</summary>
 
 *Inline: (Passive Perception ≥ [N]: [detail]) · (Passive Insight ≥ [N]: [feeling])*
 
 </details>
 
 <details>
-<summary>Character-Specific Knowledge</summary>
+<summary>📄 Character-Specific Knowledge</summary>
 
 | Trigger | Threshold | What they notice / know / feel |
 |---|---|---|
@@ -799,42 +805,42 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 </details>
 
 <details>
-<summary>NPC Appearance & Presence</summary>
+<summary>📄 NPC Appearance & Presence</summary>
 </details>
 
 <details>
-<summary>Environment — The Space</summary>
+<summary>📄 Environment — The Space</summary>
 </details>
 
 <details>
-<summary>Scene Description — GM Context</summary>
+<summary>📄 Scene Description — GM Context</summary>
 
 What happening: · Why here: · Why care: · Story relevance: · Emotional target: · DM direction:
 
 </details>
 
 <details>
-<summary>NPC Awareness</summary>
+<summary>📄 NPC Awareness</summary>
 </details>
 
 <details>
-<summary>Handouts</summary>
+<summary>📄 Handouts</summary>
 </details>
 
 <details>
-<summary>Three Clues</summary>
+<summary>📄 Three Clues</summary>
 </details>
 
 <details>
-<summary>If They Skip</summary>
+<summary>📄 If They Skip</summary>
 </details>
 
 <details>
-<summary>Encounter Details *(delete for RP)*</summary>
+<summary>📄 Encounter Details *(delete for RP)*</summary>
 </details>
 
 <details>
-<summary>Check on Basics</summary>
+<summary>✅ Check on Basics</summary>
 
 ```
 □ NPC impressions + want/fear/lie
@@ -851,7 +857,7 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 ---
 
 <details>
-<summary>Scene 5 — [Name] ([Type]) — Session Climax</summary>
+<summary>📁 Scene 5 — [Name] ([Type]) — Session Climax</summary>
 
 *[Opening line. This is the session's centrepiece. Everything before this built toward this moment.]*
 
@@ -872,14 +878,14 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 | **Handouts** | |
 
 <details>
-<summary>Read Aloud</summary>
+<summary>📄 Read Aloud</summary>
 
 *Inline: (Passive Perception ≥ [N]: [detail]) · (Passive Insight ≥ [N]: [feeling])*
 
 </details>
 
 <details>
-<summary>Character-Specific Knowledge</summary>
+<summary>📄 Character-Specific Knowledge</summary>
 
 | Trigger | Threshold | What they notice / know / feel |
 |---|---|---|
@@ -893,42 +899,42 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 </details>
 
 <details>
-<summary>NPC Appearance & Presence</summary>
+<summary>📄 NPC Appearance & Presence</summary>
 </details>
 
 <details>
-<summary>Environment — The Space</summary>
+<summary>📄 Environment — The Space</summary>
 </details>
 
 <details>
-<summary>Scene Description — GM Context</summary>
+<summary>📄 Scene Description — GM Context</summary>
 
 What happening: · Why here: · Why care: · Story relevance: · Emotional target: · DM direction:
 
 </details>
 
 <details>
-<summary>NPC Awareness</summary>
+<summary>📄 NPC Awareness</summary>
 </details>
 
 <details>
-<summary>Handouts</summary>
+<summary>📄 Handouts</summary>
 </details>
 
 <details>
-<summary>Three Clues</summary>
+<summary>📄 Three Clues</summary>
 </details>
 
 <details>
-<summary>If They Skip</summary>
+<summary>📄 If They Skip</summary>
 </details>
 
 <details>
-<summary>Encounter Details *(delete for RP)*</summary>
+<summary>📄 Encounter Details *(delete for RP)*</summary>
 </details>
 
 <details>
-<summary>Check on Basics</summary>
+<summary>✅ Check on Basics</summary>
 
 ```
 □ NPC impressions + want/fear/lie
@@ -949,7 +955,7 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 ---
 
 <details>
-<summary>Session Close & Consequences</summary>
+<summary>📁 Session Close & Consequences</summary>
 
 *Fill this at the end of prep or immediately after the session. The bridge to next time.*
 
@@ -979,7 +985,7 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 ---
 
 <details>
-<summary>Random Encounters & Wandering Events</summary>
+<summary>📁 Random Encounters & Wandering Events</summary>
 
 *Reference material — use when players are between scenes, traveling, or waiting with time to pass. Roll when the party has no specific destination or is idle in a location.*
 
@@ -1006,3 +1012,5 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 | 6 | *[Event]* |
 
 </details>
+
+</div>
