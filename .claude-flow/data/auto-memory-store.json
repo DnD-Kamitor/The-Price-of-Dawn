@@ -1,0 +1,28 @@
+[
+  {
+    "id": "task-reviewer-master-plot-gaps",
+    "key": "reviewer-master-plot-gaps",
+    "content": "Task completed: Review campaign gap analysis for The Price of Dawn master-plot.md. Draft OGAS block for Warden Keseph Vyne, story spine, do-nothing timeline, player hooks, moral core statement, and logical consistency review. Correct BBEG name/occupation discrepancy and archetype name discrepancy from task brief. Send approved content to writer. (agent: reviewer)",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "agent": "reviewer",
+      "success": true,
+      "quality": 0.93
+    },
+    "createdAt": 1782992550434
+  },
+  {
+    "id": "task-reviewer-master-plot-gaps-final",
+    "key": "reviewer-master-plot-gaps-final",
+    "content": "Task completed: Full merged review pass for The Price of Dawn master-plot.md, npcs.md, factions-guide.md. Integrated researcher gap analysis with earlier review. Drafted: Solenne motive paragraph, Harran knowledge source, Harran full OGAS block, Keseph full OGAS block with Year 60 state, 6-beat story spine, 5-week do-nothing timeline, Cormac wavering trigger, per-archetype Session 1 activation moments, archetype-Dawnborn pairing table, 6 archetype entry hooks, moral core two-answer statement, 4 logic fixes. Identified and corrected NPC name errors in factions-guide.md. Verified all six endings, three-layer antagonist pressure zones, inversion path pacing, and timeline consistency. (agent: reviewer)",
+    "namespace": "tasks",
+    "type": "task-outcome",
+    "metadata": {
+      "agent": "reviewer",
+      "success": true,
+      "quality": 0.95
+    },
+    "createdAt": 1782992820242
+  }
+]

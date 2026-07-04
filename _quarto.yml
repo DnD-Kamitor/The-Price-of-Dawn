@@ -50,8 +50,11 @@ book:
         - session2.md
         - print-props-session2.md
         - session3.md
+        - print-props-session3.md
         - session4.md
+        - print-props-session4.md
         - session5.md
+        - print-props-session5.md
         - star-wheel.md
     - part: "GM Toolkit"
       chapters:

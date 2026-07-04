@@ -1,0 +1,3391 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": [
+      {
+        "id": "hyperedge_dawnborn_ritual_ashring",
+        "label": "Dawnborn-Ritual-Ashring Convergence",
+        "nodes": [
+          "concept_dawnborn",
+          "concept_ritual_of_eternal_dawn",
+          "location_ashring",
+          "concept_lux_anchor",
+          "concept_five_endings"
+        ],
+        "relation": "conceptually_related_to",
+        "description": "The Dawnborn are living anchor-points (Lux Anchor) for the Ritual of Eternal Dawn; the Ashring site is where their energy must be released or redirected; all five endings branch from this nexus",
+        "confidence_score": 1.0,
+        "source_file": "plot-overview.md"
+      },
+      {
+        "id": "hyperedge_antagonist_faction_structure",
+        "label": "Antagonist-Faction-Consent Triad",
+        "nodes": [
+          "concept_three_layer_antagonists",
+          "faction_restorers",
+          "faction_reckoning",
+          "npc_chancellor_ostenveld",
+          "concept_consent_arc"
+        ],
+        "relation": "conceptually_related_to",
+        "description": "Three antagonist factions each embody a different position on Dawnborn consent: Restorers (theological justification), Reckoning (city-over-individual force), City Council (strategic ignorance); together they define the consent arc's external pressure",
+        "confidence_score": 1.0,
+        "source_file": "master-plot.md"
+      },
+      {
+        "id": "hyperedge_knowledge_revelation_system",
+        "label": "Knowledge-Tier-Revelation System",
+        "nodes": [
+          "concept_knowledge_tiers",
+          "concept_three_clue_rule",
+          "doc_deep_archive",
+          "concept_lux_anchor",
+          "doc_corven_sealed_letter"
+        ],
+        "relation": "conceptually_related_to",
+        "description": "The four-tier knowledge system gates the campaign's central secret (Lux Anchor / Dawnborn as living ritual containers) behind three independent clue paths, with the Deep Archive's Corven documents as the primary Tier 4 source",
+        "confidence_score": 1.0,
+        "source_file": "knowledge-tiers.md"
+      },
+      {
+        "id": "hyperedge_guy_sanders_structure_all_sessions",
+        "label": "Guy Sanders Combat-Puzzle-RP Structure Applied Across Sessions",
+        "node_ids": [
+          "session1_guy_sanders_structure",
+          "session1_session1_into_the_dark",
+          "session2_session2_weight_of_light",
+          "session3_session3_lesser_evils",
+          "session4_session4_breaking_point",
+          "session5_session5_price_of_dawn"
+        ],
+        "relation": "shared_design_pattern",
+        "confidence_score": 0.85,
+        "rationale": "Guy Sanders scene structure (Combat\u2192Puzzle\u2192RP reveal) is the organizing principle for all five main sessions; each session implements this pattern with different stakes and content"
+      },
+      {
+        "id": "hyperedge_dawnborn_ritual_consent_triad",
+        "label": "Dawnborn-Ritual-Consent Core Campaign Engine",
+        "node_ids": [
+          "world_lore_dawnborn",
+          "world_lore_ritual_of_eternal_dawn",
+          "session2_ritual_diagram_tier3",
+          "tracker_dawnborn_consent_grid",
+          "session5_ending_matrix"
+        ],
+        "relation": "interdependent_system",
+        "confidence_score": 0.95,
+        "rationale": "These five nodes form the campaign's core mechanical-narrative engine: Dawnborn are Lux Anchors for the Ritual; the Inversion Pathway requires willing consent; consent is tracked; and the ending matrix is determined by consent state. No node functions independently of the others"
+      },
+      {
+        "id": "hyperedge_three_clue_puzzle_chain",
+        "label": "Three-Clue Puzzle Chain: Notation Key \u2192 Ritual Diagram \u2192 Inversion",
+        "node_ids": [
+          "running_the_campaign_three_clue_rule",
+          "session1_notation_key",
+          "session2_ritual_diagram_tier3",
+          "session5_corvens_final_letter",
+          "session5_inversion_circle_puzzle"
+        ],
+        "relation": "sequential_revelation_chain",
+        "confidence_score": 0.85,
+        "rationale": "These nodes form a campaign-length Three-Clue chain: the Three-Clue Rule governs design; Session 1 notation key enables Tier 2/3 reading; ritual diagram Tier 3 reveals inversion pathway; Corven's Final Letter confirms conditions; Inversion Circle implements it. Each link is designed to have backup paths per the Three-Clue Rule"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "label": "The Price of Dawn",
+      "file_type": "document",
+      "source_file": "plot-overview.md",
+      "description": "D&D 5e campaign of moral reckoning set in Varenhold; central dilemma of ritual sacrifice vs consent",
+      "tags": [
+        "campaign",
+        "dnd5e",
+        "moral-dilemma"
+      ],
+      "id": "campaign_price_of_dawn",
+      "community": 5,
+      "norm_label": "the price of dawn"
+    },
+    {
+      "label": "Varenhold",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "City in artificial twilight for fifty years; grey sickness spreading; three good harvests left",
+      "tags": [
+        "setting",
+        "city",
+        "twilight"
+      ],
+      "id": "setting_varenhold",
+      "community": 5,
+      "norm_label": "varenhold"
+    },
+    {
+      "label": "Ritual of Eternal Dawn",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Failed ritual that redirected solar energy into ten living hosts (the Dawnborn); completing it requires releasing that energy, killing them",
+      "tags": [
+        "ritual",
+        "magic",
+        "core-mechanic"
+      ],
+      "id": "concept_ritual_of_eternal_dawn",
+      "community": 8,
+      "norm_label": "ritual of eternal dawn"
+    },
+    {
+      "label": "The Dawnborn",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Ten people born the night the ritual failed who are living anchor-points holding the ritual energy; killing them completes the ritual",
+      "tags": [
+        "dawnborn",
+        "ritual",
+        "central-concept"
+      ],
+      "id": "concept_dawnborn",
+      "community": 3,
+      "norm_label": "the dawnborn"
+    },
+    {
+      "label": "Lux Anchor Mechanism",
+      "file_type": "concept",
+      "source_file": "knowledge-tiers.md",
+      "description": "Tier 3-4 secret: Dawnborn are living containers for ritual anchor energy; releasing it kills them but restores the sun",
+      "tags": [
+        "ritual",
+        "secret",
+        "tier3",
+        "tier4"
+      ],
+      "id": "concept_lux_anchor",
+      "community": 3,
+      "norm_label": "lux anchor mechanism"
+    },
+    {
+      "label": "Grey Sickness",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Disease spreading through Varenhold due to perpetual twilight; three-stage progression; affects crops and people",
+      "tags": [
+        "disease",
+        "setting",
+        "stakes"
+      ],
+      "id": "concept_grey_sickness",
+      "community": 3,
+      "norm_label": "grey sickness"
+    },
+    {
+      "label": "Dawnborn Consent Arc",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Each of the ten Dawnborn has a different relationship to consent: Sera willing, Lira has daughter and refuses, Tomas writing will, Cormac reconsidering, Ysel waiting for someone to verify her consent was free",
+      "tags": [
+        "consent",
+        "moral-dilemma",
+        "npc-arcs"
+      ],
+      "id": "concept_consent_arc",
+      "community": 3,
+      "norm_label": "dawnborn consent arc"
+    },
+    {
+      "label": "Archmagister Corven",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Killed in the Ritual of Eternal Dawn fifty years ago; his documents reveal the true nature of what happened",
+      "tags": [
+        "npc",
+        "historical",
+        "ritual"
+      ],
+      "id": "npc_archmagister_corven",
+      "community": 8,
+      "norm_label": "archmagister corven"
+    },
+    {
+      "label": "Sera Voss",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Dawnborn; already willing to sacrifice herself; players meet her in Session 1; used to make players love the hope before the cost lands",
+      "tags": [
+        "npc",
+        "dawnborn",
+        "featured"
+      ],
+      "id": "npc_sera_voss",
+      "community": 3,
+      "norm_label": "sera voss"
+    },
+    {
+      "label": "Lira Anwick",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Dawnborn; has a three-year-old daughter; refuses the ritual; her consent is the hardest to earn for the Inversion ending",
+      "tags": [
+        "npc",
+        "dawnborn",
+        "featured"
+      ],
+      "id": "npc_lira_anwick",
+      "community": 0,
+      "norm_label": "lira anwick"
+    },
+    {
+      "label": "Tomas Areth",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Dawnborn; surge-phase; has done the math and is writing his will; proposes the asymmetry alternative path",
+      "tags": [
+        "npc",
+        "dawnborn",
+        "featured"
+      ],
+      "id": "npc_tomas_areth",
+      "community": 0,
+      "norm_label": "tomas areth"
+    },
+    {
+      "label": "Theron Waide",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Archivist who found the truth eleven years ago and said nothing out of guilt; his confession is a key Session 2 gut-punch",
+      "tags": [
+        "npc",
+        "archivist",
+        "guilt-arc"
+      ],
+      "id": "npc_theron_waide",
+      "community": 8,
+      "norm_label": "theron waide"
+    },
+    {
+      "label": "Brother Edoran",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Leader of the Restorers; lost daughter to grey sickness; grief organized into theological certainty; partly right, which makes disagreement harder",
+      "tags": [
+        "npc",
+        "antagonist",
+        "restorers"
+      ],
+      "id": "npc_brother_edoran",
+      "community": 0,
+      "norm_label": "brother edoran"
+    },
+    {
+      "label": "Commander Harran",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "The Reckoning's leader; pragmatic authoritarian; believes city survival overrides Dawnborn consent; catalyst antagonist",
+      "tags": [
+        "npc",
+        "antagonist",
+        "reckoning"
+      ],
+      "id": "npc_commander_harran",
+      "community": 0,
+      "norm_label": "commander harran"
+    },
+    {
+      "label": "Chancellor Mira Ostenveld",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Chose strategic ignorance; doesn't want to know the cost; mirrors players' own Session 1 choice to take the job before asking what it is",
+      "tags": [
+        "npc",
+        "authority",
+        "strategic-ignorance"
+      ],
+      "id": "npc_chancellor_ostenveld",
+      "community": 3,
+      "norm_label": "chancellor mira ostenveld"
+    },
+    {
+      "label": "Isolde Menth",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Scholar; inventor of the Transfer Method alternative path; science-based approach with 15-20% chance of Dawnborn death",
+      "tags": [
+        "npc",
+        "scholar",
+        "alternative-path"
+      ],
+      "id": "npc_isolde_menth",
+      "community": 0,
+      "norm_label": "isolde menth"
+    },
+    {
+      "label": "Ysel Maren",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Dawnborn ensemble; told Edoran yes months before players arrived; waiting for someone to verify her consent was genuinely free",
+      "tags": [
+        "npc",
+        "dawnborn",
+        "ensemble"
+      ],
+      "id": "npc_ysel_maren",
+      "community": 3,
+      "norm_label": "ysel maren"
+    },
+    {
+      "label": "Cormac Drell",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Dawnborn ensemble; said yes nine weeks ago and isn't sure he means it anymore",
+      "tags": [
+        "npc",
+        "dawnborn",
+        "ensemble"
+      ],
+      "id": "npc_cormac_drell",
+      "community": 3,
+      "norm_label": "cormac drell"
+    },
+    {
+      "label": "Erem",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Supporting NPC; appears in AI tools deep prompts for offline NPC chat",
+      "tags": [
+        "npc",
+        "supporting"
+      ],
+      "id": "npc_erem",
+      "community": 20,
+      "norm_label": "erem"
+    },
+    {
+      "label": "Maerin Voss",
+      "file_type": "concept",
+      "source_file": "Training-Session.md",
+      "description": "Restorer Lantern-Saint; appears in Session 0.5 one-shot The Bell Beneath the Dawnhall",
+      "tags": [
+        "npc",
+        "restorers",
+        "session0-5"
+      ],
+      "id": "npc_maerin_voss",
+      "community": 8,
+      "norm_label": "maerin voss"
+    },
+    {
+      "label": "The Restorers",
+      "file_type": "concept",
+      "source_file": "factions-guide.md",
+      "description": "Faction led by Brother Edoran; believe the Dawnborn were always meant to die for the ritual; theological certainty backed by grief",
+      "tags": [
+        "faction",
+        "antagonist"
+      ],
+      "id": "faction_restorers",
+      "community": 0,
+      "norm_label": "the restorers"
+    },
+    {
+      "label": "The Reckoning",
+      "file_type": "concept",
+      "source_file": "factions-guide.md",
+      "description": "Faction led by Commander Harran; city survival overrides individual consent; will force the ritual if necessary",
+      "tags": [
+        "faction",
+        "antagonist",
+        "military"
+      ],
+      "id": "faction_reckoning",
+      "community": 0,
+      "norm_label": "the reckoning"
+    },
+    {
+      "label": "City Council",
+      "file_type": "concept",
+      "source_file": "factions-guide.md",
+      "description": "Chancellor Ostenveld's faction; chose strategic ignorance; represents institutional inertia",
+      "tags": [
+        "faction",
+        "authority"
+      ],
+      "id": "faction_city_council",
+      "community": 3,
+      "norm_label": "city council"
+    },
+    {
+      "label": "Spire Scholars",
+      "file_type": "concept",
+      "source_file": "factions-guide.md",
+      "description": "Academic faction; includes Theron Waide, Isolde Menth; research-oriented; key to alternative paths",
+      "tags": [
+        "faction",
+        "academic"
+      ],
+      "id": "faction_spire_scholars",
+      "community": 0,
+      "norm_label": "spire scholars"
+    },
+    {
+      "label": "Healers' Guild",
+      "file_type": "concept",
+      "source_file": "factions-guide.md",
+      "description": "Medical faction dealing with grey sickness; operates Lowmark Healing House",
+      "tags": [
+        "faction",
+        "medical"
+      ],
+      "id": "faction_healers_guild",
+      "community": 17,
+      "norm_label": "healers' guild"
+    },
+    {
+      "label": "Merchants' Compact",
+      "file_type": "concept",
+      "source_file": "factions-guide.md",
+      "description": "Trade faction; economic interests in ritual resolution; amber trade central to city economy",
+      "tags": [
+        "faction",
+        "trade"
+      ],
+      "id": "faction_merchants_compact",
+      "community": 18,
+      "norm_label": "merchants' compact"
+    },
+    {
+      "label": "Three Alternative Paths",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Session 3 decision point: Transfer Method (Isolde), Tomas Asymmetry (five surge-phase Dawnborn), Inversion Pathway (all ten freely consent)",
+      "tags": [
+        "plot",
+        "session3",
+        "decision-point"
+      ],
+      "id": "concept_three_alternative_paths",
+      "community": 0,
+      "norm_label": "three alternative paths"
+    },
+    {
+      "label": "Inversion Pathway",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "If all ten Dawnborn freely consent without coercion, ritual inverts: sun returns, no one dies; hardest ending requiring genuine trust",
+      "tags": [
+        "ending",
+        "best-path",
+        "consent"
+      ],
+      "id": "concept_inversion_pathway",
+      "community": 0,
+      "norm_label": "inversion pathway"
+    },
+    {
+      "label": "Transfer Method",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Isolde's method: move anchor energy into constructed vessels; 15-20% chance one or two Dawnborn die anyway",
+      "tags": [
+        "alternative-path",
+        "science",
+        "risk"
+      ],
+      "id": "concept_transfer_method",
+      "community": 0,
+      "norm_label": "transfer method"
+    },
+    {
+      "label": "Tomas Asymmetry",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Five surge-phase Dawnborn carry double load; five could complete the ritual saving the other five; requires identifying and asking the five",
+      "tags": [
+        "alternative-path",
+        "asymmetry",
+        "sacrifice"
+      ],
+      "id": "concept_tomas_asymmetry",
+      "community": 0,
+      "norm_label": "tomas asymmetry"
+    },
+    {
+      "label": "Five Endings (A-E)",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "A=Willing Sacrifice, B=Inversion (all consent/no deaths), C=Transfer (15-20% risk), D=Refusal (city stays dark), E=Cascade Failure (Reckoning forces, all ten die, ritual fails)",
+      "tags": [
+        "endings",
+        "campaign-resolution"
+      ],
+      "id": "concept_five_endings",
+      "community": 0,
+      "norm_label": "five endings (a-e)"
+    },
+    {
+      "label": "Six Endings (A-F)",
+      "file_type": "concept",
+      "source_file": "master-plot.md",
+      "description": "Master-plot GM document expands to six endings including Cascade Failure variant F",
+      "tags": [
+        "endings",
+        "gm-only"
+      ],
+      "id": "concept_six_endings",
+      "community": 0,
+      "norm_label": "six endings (a-f)"
+    },
+    {
+      "label": "Four-Tier Knowledge System",
+      "file_type": "concept",
+      "source_file": "knowledge-tiers.md",
+      "description": "Common/Informed/Expert/Campaign Secret tiers for 8 topics; Tiers 3-4 contain ritual and Dawnborn secrets; three-clue rule governs revelation",
+      "tags": [
+        "information-system",
+        "gm-tool",
+        "revelation"
+      ],
+      "id": "concept_knowledge_tiers",
+      "community": 3,
+      "norm_label": "four-tier knowledge system"
+    },
+    {
+      "label": "Three-Clue Rule",
+      "file_type": "concept",
+      "source_file": "knowledge-tiers.md",
+      "description": "GM principle: each Tier 3-4 secret has three independent clue paths so players can reach it multiple ways",
+      "tags": [
+        "gm-technique",
+        "information",
+        "design"
+      ],
+      "id": "concept_three_clue_rule",
+      "community": 3,
+      "norm_label": "three-clue rule"
+    },
+    {
+      "label": "OGAS NPC Format",
+      "file_type": "concept",
+      "source_file": "npcs.md",
+      "description": "Occupation, Goal, Attitude, Secret \u2014 standard format for all NPCs in this campaign",
+      "tags": [
+        "gm-tool",
+        "npc-format",
+        "design"
+      ],
+      "id": "concept_ogas_format",
+      "community": 4,
+      "norm_label": "ogas npc format"
+    },
+    {
+      "label": "Primer Stone",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Artifact at Ashring ritual site revealed in Session 4; discloses the Inversion Pathway",
+      "tags": [
+        "artifact",
+        "session4",
+        "plot-reveal"
+      ],
+      "id": "concept_primer_stone",
+      "community": 0,
+      "norm_label": "primer stone"
+    },
+    {
+      "label": "Ashring Ritual Site",
+      "file_type": "concept",
+      "source_file": "plot-overview.md",
+      "description": "Primary ritual location; scorched stone circle; convergence point in Session 4; site of the final ritual in Session 5",
+      "tags": [
+        "location",
+        "ritual",
+        "session4",
+        "session5"
+      ],
+      "id": "location_ashring",
+      "community": 0,
+      "norm_label": "ashring ritual site"
+    },
+    {
+      "label": "Ashfen",
+      "file_type": "concept",
+      "source_file": "factions-guide.md",
+      "description": "Marshland outside Varenhold; home of Ashfen Clans; oral histories in deep-archive; has wayshrine and gate",
+      "tags": [
+        "location",
+        "marsh",
+        "ashfen-clans"
+      ],
+      "id": "location_ashfen",
+      "community": 8,
+      "norm_label": "ashfen"
+    },
+    {
+      "label": "Lowmark Dawnhall",
+      "file_type": "concept",
+      "source_file": "Training-Session.md",
+      "description": "Location in Lowmark district; site of Session 0.5 one-shot; bell beneath it is a ritual anchor encounter",
+      "tags": [
+        "location",
+        "session0-5",
+        "lowmark"
+      ],
+      "id": "location_lowmark_dawnhall",
+      "community": 8,
+      "norm_label": "lowmark dawnhall"
+    },
+    {
+      "label": "Deep Archive",
+      "file_type": "document",
+      "source_file": "deep-archive.md",
+      "description": "Primary source documents: 10 historical docs, 6 Corven docs, 6 NPC private journals, 8 unsent letters, 5 Ashfen oral histories, 3 essays",
+      "tags": [
+        "primary-sources",
+        "in-world-documents",
+        "gm-resource"
+      ],
+      "id": "doc_deep_archive",
+      "community": 8,
+      "norm_label": "deep archive"
+    },
+    {
+      "label": "Corven's Sealed Letter",
+      "file_type": "document",
+      "source_file": "deep-archive.md",
+      "description": "B-series document B6 in deep-archive; Corven's true account of what the ritual actually did; campaign-level secret",
+      "tags": [
+        "document",
+        "secret",
+        "tier4"
+      ],
+      "id": "doc_corven_sealed_letter",
+      "community": 8,
+      "norm_label": "corven's sealed letter"
+    },
+    {
+      "label": "Plot Overview",
+      "file_type": "document",
+      "source_file": "plot-overview.md",
+      "description": "Campaign design document by Graeme Sherwood / theGreatGM; logline, world summary, dilemma, arcs, paths, endings, GM job",
+      "tags": [
+        "gm-document",
+        "design",
+        "thegreatgm"
+      ],
+      "id": "doc_plot_overview",
+      "community": 4,
+      "norm_label": "plot overview"
+    },
+    {
+      "label": "Master Plot",
+      "file_type": "document",
+      "source_file": "master-plot.md",
+      "description": "GM document; three-layer antagonist structure (Keseph hidden, Harran catalyst, Edoran tragic); six endings A-F; GM reference table",
+      "tags": [
+        "gm-document",
+        "antagonist-structure"
+      ],
+      "id": "doc_master_plot",
+      "community": 0,
+      "norm_label": "master plot"
+    },
+    {
+      "label": "Keseph",
+      "file_type": "concept",
+      "source_file": "master-plot.md",
+      "description": "Hidden antagonist; deepest layer of the three-layer antagonist structure; GM-only",
+      "tags": [
+        "npc",
+        "antagonist",
+        "hidden",
+        "gm-only"
+      ],
+      "id": "npc_keseph",
+      "community": 0,
+      "norm_label": "keseph"
+    },
+    {
+      "label": "Knowledge Tiers",
+      "file_type": "document",
+      "source_file": "knowledge-tiers.md",
+      "description": "Four-tier information system document; 8 topics with DC tables; Tier 3-4 secrets; three-clue rule",
+      "tags": [
+        "gm-document",
+        "information-system"
+      ],
+      "id": "doc_knowledge_tiers",
+      "community": 3,
+      "norm_label": "knowledge tiers"
+    },
+    {
+      "label": "NPCs Document",
+      "file_type": "document",
+      "source_file": "npcs.md",
+      "description": "All NPCs in OGAS format; 10 Dawnborn, 8 supporting NPCs; relationship web table; skill gates",
+      "tags": [
+        "gm-document",
+        "npc-reference"
+      ],
+      "id": "doc_npcs",
+      "community": 4,
+      "norm_label": "npcs document"
+    },
+    {
+      "label": "Factions Guide",
+      "file_type": "document",
+      "source_file": "factions-guide.md",
+      "description": "7 factions with player-visible and GM-only sections; interaction guide with access checks, loyalty costs, points of no return",
+      "tags": [
+        "gm-document",
+        "player-document",
+        "factions"
+      ],
+      "id": "doc_factions_guide",
+      "community": 5,
+      "norm_label": "factions guide"
+    },
+    {
+      "label": "Discovery Quests",
+      "file_type": "document",
+      "source_file": "discovery-quests.md",
+      "description": "Between-session quests: 3 per session (Interviews, Documents, Locations) x 5 sessions; post-Session 5 epilogue quests",
+      "tags": [
+        "player-document",
+        "quests",
+        "between-sessions"
+      ],
+      "id": "doc_discovery_quests",
+      "community": 3,
+      "norm_label": "discovery quests"
+    },
+    {
+      "label": "AI Tools",
+      "file_type": "document",
+      "source_file": "ai-tools.md",
+      "description": "ElevenLabs NPC voice synthesis; offline NPC chat via Claude/ChatGPT; three-tier deep prompts for Theron, Sera, Lira, Erem; Living World Tracker",
+      "tags": [
+        "gm-tool",
+        "ai",
+        "npc-voice"
+      ],
+      "id": "doc_ai_tools",
+      "community": 4,
+      "norm_label": "ai tools"
+    },
+    {
+      "label": "GM Tools",
+      "file_type": "document",
+      "source_file": "gm-tools.md",
+      "description": "Random encounter tables, district d10 tables, Living World System (crisis 1-10), faction action tables, Dawnborn Reaction Tracker, Moral Dilemma Scorecards, 15-min session prep, NPC reference cards, theGreatGM methods",
+      "tags": [
+        "gm-document",
+        "tables",
+        "living-world"
+      ],
+      "id": "doc_gm_tools",
+      "community": 4,
+      "norm_label": "gm tools"
+    },
+    {
+      "label": "Appendix",
+      "file_type": "document",
+      "source_file": "appendix.md",
+      "description": "Quick reference: 18 NPCs, skill check DCs by session, stat block index, price reference, ritual mechanics, 10 Dawnborn at a glance, journey times, GM-only faction state by ending and moral scorecard",
+      "tags": [
+        "reference",
+        "quick-reference"
+      ],
+      "id": "doc_appendix",
+      "community": 4,
+      "norm_label": "appendix"
+    },
+    {
+      "label": "Crafting and Professions",
+      "file_type": "document",
+      "source_file": "crafting-and-professions.md",
+      "description": "5 professions: Amber Lampwork, Herbalism, Alchemy, Smithing, Jewelcrafting; full crafting tables with DCs, hours, costs; background activities; skill-passive/skill-reveal details",
+      "tags": [
+        "player-document",
+        "crafting",
+        "mechanics"
+      ],
+      "id": "doc_crafting_professions",
+      "community": 5,
+      "norm_label": "crafting and professions"
+    },
+    {
+      "label": "Characters",
+      "file_type": "document",
+      "source_file": "characters.md",
+      "description": "5 pre-made Level 1 characters: Maren Ashveil (Rogue), Davan Stout (Fighter), Ilessa Thorn (Wizard), Teor Seld (Ranger), Vella Mourne (Bard); each with moral hooks and campaign connections",
+      "tags": [
+        "player-document",
+        "characters",
+        "pregens"
+      ],
+      "id": "doc_characters",
+      "community": 9,
+      "norm_label": "characters"
+    },
+    {
+      "label": "Player Guide",
+      "file_type": "document",
+      "source_file": "player-guide.md",
+      "description": "Campaign intro, spoiler map, character creation, Session Zero guide (X-Card, Lines/Veils, Open Door), 6 archetypes, session zero questions",
+      "tags": [
+        "player-document",
+        "session-zero"
+      ],
+      "id": "doc_player_guide",
+      "community": 12,
+      "norm_label": "player guide"
+    },
+    {
+      "label": "Player Handout",
+      "file_type": "document",
+      "source_file": "player-handout.md",
+      "description": "Pre-session standalone: Varenhold in 300 words, 6 background hooks, factions at a glance, gods in brief, session expectations",
+      "tags": [
+        "player-document",
+        "handout",
+        "standalone"
+      ],
+      "id": "doc_player_handout",
+      "community": 5,
+      "norm_label": "player handout"
+    },
+    {
+      "label": "Pantheon",
+      "file_type": "document",
+      "source_file": "pantheon.md",
+      "description": "6 gods: Auris (Dawnbringer/Penitent split), Morthis, Veth, Dara, The Wanderer, Kael and Mira; religious movements including Restorers, Dusk Keepers, Architects of the True Dawn",
+      "tags": [
+        "player-document",
+        "religion",
+        "lore"
+      ],
+      "id": "doc_pantheon",
+      "community": 0,
+      "norm_label": "pantheon"
+    },
+    {
+      "label": "Campaign Index",
+      "file_type": "document",
+      "source_file": "index.md",
+      "description": "Campaign opener prose: The City at the Edge of Morning; Fifty Years section; Shape of the Problem; embedded audio player; player/GM navigation guide",
+      "tags": [
+        "player-document",
+        "opener",
+        "navigation"
+      ],
+      "id": "doc_index",
+      "community": 5,
+      "norm_label": "campaign index"
+    },
+    {
+      "label": "Running the Campaign",
+      "file_type": "document",
+      "source_file": "running-the-campaign.md",
+      "description": "GM philosophy; VTT/one-shot/3-session adaptations; player types; tone calibration",
+      "tags": [
+        "gm-document",
+        "philosophy",
+        "adaptations"
+      ],
+      "id": "doc_running_campaign",
+      "community": 16,
+      "norm_label": "running the campaign"
+    },
+    {
+      "label": "Training Session (Session 0.5)",
+      "file_type": "document",
+      "source_file": "Training-Session.md",
+      "description": "One-shot The Bell Beneath the Dawnhall; gestalt Level 4 characters; introduces Maerin Voss, Ilya Ren, Berric Halven; ritual anchor encounter",
+      "tags": [
+        "session",
+        "one-shot",
+        "training"
+      ],
+      "id": "doc_training_session",
+      "community": 8,
+      "norm_label": "training session (session 0.5)"
+    },
+    {
+      "label": "Opencode Instructions",
+      "file_type": "document",
+      "source_file": "opencode-instructions.md",
+      "description": "Content expansion playbook; storycraft principles (theGreatGM); player vs GM walls; format requirements (stat blocks, OGAS, district writeups); asset coordination",
+      "tags": [
+        "meta",
+        "content-guidelines",
+        "thegreatgm"
+      ],
+      "id": "doc_opencode_instructions",
+      "community": 4,
+      "norm_label": "opencode instructions"
+    },
+    {
+      "label": "Quarto Config",
+      "file_type": "document",
+      "source_file": "_quarto.yml",
+      "description": "Book structure: type=book, output-dir=docs; parts: Player's Guide, The World, Player's Companion, The Sessions, GM Toolkit; cosmo theme with custom.scss",
+      "tags": [
+        "config",
+        "quarto",
+        "structure"
+      ],
+      "id": "doc_quarto_config",
+      "community": 5,
+      "norm_label": "quarto config"
+    },
+    {
+      "label": "CLAUDE.md Campaign Reference",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "description": "Campaign reference and Claude Code setup: file structure status, audio generation (Piper), image replacement tracker, skill check interactive prototype TODO, 30 completed milestones",
+      "tags": [
+        "meta",
+        "setup",
+        "reference"
+      ],
+      "id": "doc_claude_md",
+      "community": 5,
+      "norm_label": "claude.md campaign reference"
+    },
+    {
+      "label": "theGreatGM Principles",
+      "file_type": "concept",
+      "source_file": "opencode-instructions.md",
+      "description": "Graeme Sherwood / theGreatGM design principles: stakes in every scene, NPCs want/fear/lie, secondary objectives in combat, five-senses openings, encounter beats, 5-Room Structure",
+      "tags": [
+        "gm-philosophy",
+        "design-principles"
+      ],
+      "id": "concept_thegreatgm_principles",
+      "community": 4,
+      "norm_label": "thegreatgm principles"
+    },
+    {
+      "label": "Living World System",
+      "file_type": "concept",
+      "source_file": "gm-tools.md",
+      "description": "Crisis escalation scale 1-10; faction action tables; rumor mill; consequence echo tables; tracks city state between sessions",
+      "tags": [
+        "gm-tool",
+        "dynamic-world",
+        "faction-mechanics"
+      ],
+      "id": "concept_living_world_system",
+      "community": 4,
+      "norm_label": "living world system"
+    },
+    {
+      "label": "Piper TTS Pipeline",
+      "file_type": "concept",
+      "source_file": "CLAUDE.md",
+      "description": "Piper-sample-generator for TTS audio; en_US-danny-low.onnx preferred voice; audio/ directory served in docs/; five-senses scene openers and NPC intros",
+      "tags": [
+        "audio",
+        "tts",
+        "tooling"
+      ],
+      "id": "concept_piper_audio",
+      "community": 5,
+      "norm_label": "piper tts pipeline"
+    },
+    {
+      "label": "ElevenLabs NPC Voice Synthesis",
+      "file_type": "concept",
+      "source_file": "ai-tools.md",
+      "description": "ElevenLabs for NPC voice synthesis; offline NPC chat using Claude/ChatGPT with three-tier deep prompts; table voice reference",
+      "tags": [
+        "audio",
+        "npc-voice",
+        "ai-tool"
+      ],
+      "id": "concept_elevenlabs_voices",
+      "community": 4,
+      "norm_label": "elevenlabs npc voice synthesis"
+    },
+    {
+      "label": "Session Zero Framework",
+      "file_type": "concept",
+      "source_file": "player-guide.md",
+      "description": "X-Card, Lines/Veils, Open Door safety tools; 6 character archetypes; group questions; character interview (10 questions); pre-session questions",
+      "tags": [
+        "session-zero",
+        "safety-tools",
+        "player-onboarding"
+      ],
+      "id": "concept_session_zero",
+      "community": 12,
+      "norm_label": "session zero framework"
+    },
+    {
+      "label": "Amber Economy",
+      "file_type": "concept",
+      "source_file": "crafting-and-professions.md",
+      "description": "Amber Lampwork profession; amber workshops central to city economy under twilight; amber lanterns as primary light source",
+      "tags": [
+        "economy",
+        "crafting",
+        "setting"
+      ],
+      "id": "concept_amber_trade",
+      "community": 5,
+      "norm_label": "amber economy"
+    },
+    {
+      "label": "Skill-Passive / Skill-Reveal System",
+      "file_type": "concept",
+      "source_file": "CLAUDE.md",
+      "description": "Two-tier skill check system: skill-passive (auto-known, green toggle) and skill-reveal (requires roll, amber toggle); both are details elements; interactive JS prototype TODO",
+      "tags": [
+        "mechanics",
+        "ui",
+        "skill-checks"
+      ],
+      "id": "concept_skill_check_tiers",
+      "community": 5,
+      "norm_label": "skill-passive / skill-reveal system"
+    },
+    {
+      "label": "Moral Dilemma Scorecard",
+      "file_type": "concept",
+      "source_file": "gm-tools.md",
+      "description": "GM tracking tool for player moral choices across the campaign; used to calibrate consequences and ending weight",
+      "tags": [
+        "gm-tool",
+        "tracking",
+        "moral-dilemma"
+      ],
+      "id": "concept_moral_scorecard",
+      "community": 4,
+      "norm_label": "moral dilemma scorecard"
+    },
+    {
+      "label": "Maren Ashveil (Rogue)",
+      "file_type": "concept",
+      "source_file": "characters.md",
+      "description": "Pre-made Level 1 Rogue character with moral hooks and campaign connections",
+      "tags": [
+        "character",
+        "pregen",
+        "rogue"
+      ],
+      "id": "char_maren_ashveil",
+      "community": 9,
+      "norm_label": "maren ashveil (rogue)"
+    },
+    {
+      "label": "Davan Stout (Fighter)",
+      "file_type": "concept",
+      "source_file": "characters.md",
+      "description": "Pre-made Level 1 Fighter character with moral hooks and campaign connections",
+      "tags": [
+        "character",
+        "pregen",
+        "fighter"
+      ],
+      "id": "char_davan_stout",
+      "community": 9,
+      "norm_label": "davan stout (fighter)"
+    },
+    {
+      "label": "Ilessa Thorn (Wizard)",
+      "file_type": "concept",
+      "source_file": "characters.md",
+      "description": "Pre-made Level 1 Wizard character with moral hooks and campaign connections",
+      "tags": [
+        "character",
+        "pregen",
+        "wizard"
+      ],
+      "id": "char_ilessa_thorn",
+      "community": 9,
+      "norm_label": "ilessa thorn (wizard)"
+    },
+    {
+      "label": "Teor Seld (Ranger)",
+      "file_type": "concept",
+      "source_file": "characters.md",
+      "description": "Pre-made Level 1 Ranger character with moral hooks and campaign connections",
+      "tags": [
+        "character",
+        "pregen",
+        "ranger"
+      ],
+      "id": "char_teor_seld",
+      "community": 9,
+      "norm_label": "teor seld (ranger)"
+    },
+    {
+      "label": "Vella Mourne (Bard)",
+      "file_type": "concept",
+      "source_file": "characters.md",
+      "description": "Pre-made Level 1 Bard character with moral hooks and campaign connections",
+      "tags": [
+        "character",
+        "pregen",
+        "bard"
+      ],
+      "id": "char_vella_mourne",
+      "community": 9,
+      "norm_label": "vella mourne (bard)"
+    },
+    {
+      "label": "Auris (Dawnbringer)",
+      "file_type": "concept",
+      "source_file": "pantheon.md",
+      "description": "God of dawn; Penitent/Wounded split schism; Restorers claim Auris demands the ritual be completed; central to religious tension",
+      "tags": [
+        "deity",
+        "religion",
+        "schism"
+      ],
+      "id": "god_auris",
+      "community": 0,
+      "norm_label": "auris (dawnbringer)"
+    },
+    {
+      "label": "Morthis (Usher)",
+      "file_type": "concept",
+      "source_file": "pantheon.md",
+      "description": "God of death and passage; relevant to Dawnborn sacrifice theme",
+      "tags": [
+        "deity",
+        "death"
+      ],
+      "id": "god_morthis",
+      "community": 19,
+      "norm_label": "morthis (usher)"
+    },
+    {
+      "label": "5-Room Structure",
+      "file_type": "concept",
+      "source_file": "gm-tools.md",
+      "description": "theGreatGM five-room dungeon/encounter structure used throughout sessions; entrance, puzzle, setback, climax, reward/revelation",
+      "tags": [
+        "gm-technique",
+        "encounter-design",
+        "thegreatgm"
+      ],
+      "id": "concept_five_room_structure",
+      "community": 4,
+      "norm_label": "5-room structure"
+    },
+    {
+      "label": "Dawnborn Reaction Tracker",
+      "file_type": "concept",
+      "source_file": "gm-tools.md",
+      "description": "GM tool tracking each Dawnborn's trust/consent state across sessions; feeds into which endings are achievable",
+      "tags": [
+        "gm-tool",
+        "tracking",
+        "dawnborn"
+      ],
+      "id": "concept_dawnborn_reaction_tracker",
+      "community": 4,
+      "norm_label": "dawnborn reaction tracker"
+    },
+    {
+      "label": "Three-Layer Antagonist Structure",
+      "file_type": "concept",
+      "source_file": "master-plot.md",
+      "description": "Keseph (hidden), Harran (catalyst), Edoran (tragic); each layer escalates in moral complexity; Edoran partly right makes him most dangerous",
+      "tags": [
+        "antagonist-design",
+        "plot-structure"
+      ],
+      "id": "concept_three_layer_antagonists",
+      "community": 0,
+      "norm_label": "three-layer antagonist structure"
+    },
+    {
+      "label": "Session 0.5: The Bell Beneath the Dawnhall",
+      "file_type": "document",
+      "source_file": "session0-5.md",
+      "rationale": "Introductory session bridging character backgrounds to campaign start; 7-phase structure",
+      "id": "session0_5_session_zero_point_five",
+      "community": 10,
+      "norm_label": "session 0.5: the bell beneath the dawnhall"
+    },
+    {
+      "label": "Props & Handouts \u2014 Session 0.5",
+      "file_type": "document",
+      "source_file": "props-session0-5.md",
+      "rationale": "Physical print props for session 0.5 including vault door, maps, documents, item cards",
+      "id": "props_session0_5_props_session_zero_point_five",
+      "community": 10,
+      "norm_label": "props & handouts \u2014 session 0.5"
+    },
+    {
+      "label": "GitBook Props \u2014 Session 0.5",
+      "file_type": "document",
+      "source_file": "print-props-session0-5.md",
+      "rationale": "Web-display version of session 0.5 props using panel-tabset structure",
+      "id": "print_props_session0_5_gitbook_props_zero_point_five",
+      "community": 10,
+      "norm_label": "gitbook props \u2014 session 0.5"
+    },
+    {
+      "label": "GitBook Props \u2014 Session 1",
+      "file_type": "document",
+      "source_file": "print-props-session1.md",
+      "rationale": "Web-display props for session 1: cipher grid, Clues A/B/C, Restorer pamphlet, player moments",
+      "id": "print_props_session1_gitbook_props_session1",
+      "community": 2,
+      "norm_label": "gitbook props \u2014 session 1"
+    },
+    {
+      "label": "GitBook Props \u2014 Session 2",
+      "file_type": "document",
+      "source_file": "print-props-session2.md",
+      "rationale": "Web-display props for session 2: ritual diagram tiers, combat map, Reckoning orders, Theron's journal",
+      "id": "print_props_session2_gitbook_props_session2",
+      "community": 2,
+      "norm_label": "gitbook props \u2014 session 2"
+    },
+    {
+      "label": "Session 1 Player Props",
+      "file_type": "document",
+      "source_file": "session1-props.md",
+      "rationale": "Session 1 physical handouts: Corven's letter, astronomical record, midwife registry, notation key fragment",
+      "id": "session1_props_session1_player_props",
+      "community": 2,
+      "norm_label": "session 1 player props"
+    },
+    {
+      "label": "Session 1 OGAS Quick-Reference Cards",
+      "file_type": "document",
+      "source_file": "session1-ogas.md",
+      "rationale": "OGAS cards for Chancellor Ostenveld, Theron Waide, Sera Voss, Jaret; includes NPC relationship map",
+      "id": "session1_ogas_session1_npc_cards",
+      "community": 1,
+      "norm_label": "session 1 ogas quick-reference cards"
+    },
+    {
+      "label": "Session 1: Into the Dark",
+      "file_type": "document",
+      "source_file": "session1.md",
+      "rationale": "Full session guide: Chancellor's request, Archive infiltration combat, Sealed Drawer puzzle, Dawnhalls crisis, Restorer ambush",
+      "id": "session1_session1_into_the_dark",
+      "community": 2,
+      "norm_label": "session 1: into the dark"
+    },
+    {
+      "label": "Session 2: The Weight of Light",
+      "file_type": "document",
+      "source_file": "session2.md",
+      "rationale": "Central reveal: Dawnborn are Lux Anchors. Reckoning raid, three-tier ritual diagram, Theron's confession, Dawnborn branching point",
+      "id": "session2_session2_weight_of_light",
+      "community": 2,
+      "norm_label": "session 2: the weight of light"
+    },
+    {
+      "label": "Session 3: Lesser Evils",
+      "file_type": "document",
+      "source_file": "session3.md",
+      "rationale": "Three alternative paths: Partial Ritual, Willing Few, Isolde's Transfer. Resonance Rods puzzle, Desperate Mob combat",
+      "id": "session3_session3_lesser_evils",
+      "community": 2,
+      "norm_label": "session 3: lesser evils"
+    },
+    {
+      "label": "Session 4: The Breaking Point",
+      "file_type": "document",
+      "source_file": "session4.md",
+      "rationale": "Dawnborn split Willing/Unwilling/Undecided. Ashring Primer Stones puzzle. Tomas's Asymmetry Journal. Reckoning strikes (Harran). Chancellor ultimatum",
+      "id": "session4_session4_breaking_point",
+      "community": 2,
+      "norm_label": "session 4: the breaking point"
+    },
+    {
+      "label": "Session 5: The Price of Dawn",
+      "file_type": "document",
+      "source_file": "session5.md",
+      "rationale": "Finale with six endings (A-F), Corven's Final Letter, Inversion Circle puzzle, Last Stand combat, epilogue tables, debrief",
+      "id": "session5_session5_price_of_dawn",
+      "community": 2,
+      "norm_label": "session 5: the price of dawn"
+    },
+    {
+      "label": "Running the Campaign \u2014 GM Philosophy",
+      "file_type": "document",
+      "source_file": "running-the-campaign.md",
+      "rationale": "GM guide covering OGAS system, Three-Clue Rule, Moral Dilemma Engine, consequence tracking, format adaptations, tone calibration",
+      "id": "running_the_campaign_gm_philosophy",
+      "community": 6,
+      "norm_label": "running the campaign \u2014 gm philosophy"
+    },
+    {
+      "label": "Session Recording & Book Formats",
+      "file_type": "document",
+      "source_file": "session-recording.md",
+      "rationale": "Three book formats, AI transcription, Corven's Notebook artifact, character grounding exercises",
+      "id": "session_recording_book_formats",
+      "community": 28,
+      "norm_label": "session recording & book formats"
+    },
+    {
+      "label": "Setting \u2014 Varenhold Districts",
+      "file_type": "document",
+      "source_file": "setting.md",
+      "rationale": "Six districts with sensory detail, d6 encounter tables, district hooks, grey sickness 3-stage, skill check system",
+      "id": "setting_varenhold_districts",
+      "community": 29,
+      "norm_label": "setting \u2014 varenhold districts"
+    },
+    {
+      "label": "Shops \u2014 Varenhold",
+      "file_type": "document",
+      "source_file": "shops.md",
+      "rationale": "Six named shops with 5-level reputation system, proprietor OGAS, side quests, Session 5 payoff",
+      "id": "shops_varenhold_shops",
+      "community": 6,
+      "norm_label": "shops \u2014 varenhold"
+    },
+    {
+      "label": "Campaign Tracker",
+      "file_type": "document",
+      "source_file": "tracker.md",
+      "rationale": "Faction Reputation table, Dawnborn Consent Status grid, City Crisis Level 1-10, session-by-session update guidance",
+      "id": "tracker_campaign_tracker",
+      "community": 6,
+      "norm_label": "campaign tracker"
+    },
+    {
+      "label": "Trade & Economy \u2014 Varenhold",
+      "file_type": "document",
+      "source_file": "trade.md",
+      "rationale": "Currency (Mark/Writ/Amber Script), price tables, amber workshop industry, black market, trade routes, skill check classes",
+      "id": "trade_varenhold_economy",
+      "community": 15,
+      "norm_label": "trade & economy \u2014 varenhold"
+    },
+    {
+      "label": "Travel Routes",
+      "file_type": "document",
+      "source_file": "travel.md",
+      "rationale": "Four routes (Northern Road, Eastern Track, Ashfen Paths, River Trade), NPC waypoints, GM d6 encounter tables, faction complications",
+      "id": "travel_routes",
+      "community": 6,
+      "norm_label": "travel routes"
+    },
+    {
+      "label": "World Lore \u2014 Graymere Reaches",
+      "file_type": "document",
+      "source_file": "world-lore.md",
+      "rationale": "250-year Varenhold history, five powers, 'The Last Day Before' testimonies, audio narration embeds",
+      "id": "world_lore_graymere_reaches",
+      "community": 30,
+      "norm_label": "world lore \u2014 graymere reaches"
+    },
+    {
+      "label": "Maerin Voss",
+      "file_type": "concept",
+      "source_file": "session0-5.md",
+      "rationale": "Session 0.5 NPC; Vault-Warden's assistant; introduced in seven-phase structure",
+      "id": "session0_5_maerin_voss",
+      "community": 22,
+      "norm_label": "maerin voss"
+    },
+    {
+      "label": "Tolvin Heuschel (Vault-Warden)",
+      "file_type": "concept",
+      "source_file": "session0-5.md",
+      "rationale": "Vault-Warden NPC in session 0.5; controls access to the vault beneath Dawnhall",
+      "id": "session0_5_tolvin_heuschel",
+      "community": 23,
+      "norm_label": "tolvin heuschel (vault-warden)"
+    },
+    {
+      "label": "Berric Halven",
+      "file_type": "concept",
+      "source_file": "session0-5.md",
+      "rationale": "Session 0.5 NPC introduced in vault sequence",
+      "id": "session0_5_berric_halven",
+      "community": 21,
+      "norm_label": "berric halven"
+    },
+    {
+      "label": "Ilya Ren",
+      "file_type": "concept",
+      "source_file": "session0-5.md",
+      "rationale": "Session 0.5 NPC; connects to Ixa's backstory",
+      "id": "session0_5_ilya_ren",
+      "community": 10,
+      "norm_label": "ilya ren"
+    },
+    {
+      "label": "Chancellor Ostenveld",
+      "file_type": "concept",
+      "source_file": "session1-ogas.md",
+      "rationale": "OGAS: practices strategic ignorance of ritual cost. Gave 7-day ultimatum in Session 4. Utiliarian position: ten lives vs thousands",
+      "id": "session1_ogas_chancellor_ostenveld",
+      "community": 24,
+      "norm_label": "chancellor ostenveld"
+    },
+    {
+      "label": "Theron Waide",
+      "file_type": "concept",
+      "source_file": "session1-ogas.md",
+      "rationale": "Archivist who knew the ritual cost for 11 years (Day 4,017 journal). Added T.W. annotation to astronomical record. Carries sealed drawer key",
+      "id": "session1_ogas_theron_waide",
+      "community": 11,
+      "norm_label": "theron waide"
+    },
+    {
+      "label": "Sera Voss",
+      "file_type": "concept",
+      "source_file": "session1-ogas.md",
+      "rationale": "Dawnborn leader, Dawnhalls director. Willing to die (OGAS goal). Has resonance dreams. Anchor #1 implied by position. Radiates presence detectable by Divine Sense",
+      "id": "session1_ogas_sera_voss",
+      "community": 1,
+      "norm_label": "sera voss"
+    },
+    {
+      "label": "Jaret",
+      "file_type": "concept",
+      "source_file": "session1-ogas.md",
+      "rationale": "Restorer faction member. Knows Dawnborn must die for ritual completion. Leads with argument before cost. Honest if asked directly",
+      "id": "session1_ogas_jaret",
+      "community": 6,
+      "norm_label": "jaret"
+    },
+    {
+      "label": "Tomas Areth",
+      "file_type": "concept",
+      "source_file": "session2.md",
+      "rationale": "Dawnborn, surge-phase anchor per Asymmetry Journal. Measured reader of situations. Undecided on consent. Saw secondary notation anomaly 7 years ago",
+      "id": "session2_tomas_areth",
+      "community": 1,
+      "norm_label": "tomas areth"
+    },
+    {
+      "label": "Lira Anwick",
+      "file_type": "concept",
+      "source_file": "session2.md",
+      "rationale": "Dawnborn, Unwilling. Has daughter Mira. Hard No to ritual. Has been refusing city's needs since age 19. Will want to know if alternative exists",
+      "id": "session2_lira_anwick",
+      "community": 1,
+      "norm_label": "lira anwick"
+    },
+    {
+      "label": "Brother Edoran",
+      "file_type": "concept",
+      "source_file": "session2.md",
+      "rationale": "Knows the cost and waited 11 years. Not Reckoning. Grief-driven motivation (High Tragedy level). Willing to finish the sentence the Chancellor wouldn't",
+      "id": "session2_brother_edoran",
+      "community": 13,
+      "norm_label": "brother edoran"
+    },
+    {
+      "label": "Captain Marsh",
+      "file_type": "concept",
+      "source_file": "session2.md",
+      "rationale": "Reckoning leader during Archive raid. Paramilitary not cult\u2014recalculates rather than reacts emotionally. Has authority to detain Theron",
+      "id": "session2_captain_marsh",
+      "community": 14,
+      "norm_label": "captain marsh"
+    },
+    {
+      "label": "Isolde Menth",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Proposes Transfer path: extract resonance from Dawnborn to Cathedral resonance nodes (destroys Cathedral). Connected via demolished building foundations for 20 years",
+      "id": "session3_isolde_menth",
+      "community": 2,
+      "norm_label": "isolde menth"
+    },
+    {
+      "label": "Ysel Maren",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Dawnborn, Willing. One of three willing Dawnborn in Edoran's path. Davin and Cormac are the other two",
+      "id": "session3_ysel_maren",
+      "community": 1,
+      "norm_label": "ysel maren"
+    },
+    {
+      "label": "Davin Shore",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Dawnborn, Willing. Encounter beat in Session 3: Davin speaks. One of Edoran's willing three",
+      "id": "session3_davin_shore",
+      "community": 1,
+      "norm_label": "davin shore"
+    },
+    {
+      "label": "Cormac Drell",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Dawnborn, Willing but wavering (Session 4). One of Edoran's three. Player's Guide interview question references him",
+      "id": "session3_cormac_drell",
+      "community": 1,
+      "norm_label": "cormac drell"
+    },
+    {
+      "label": "Senna Kard",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Desperate Mob leader in Session 3 combat. Represents the city's faction of people who need the sun returned regardless of cost",
+      "id": "session3_senna_kard",
+      "community": 6,
+      "norm_label": "senna kard"
+    },
+    {
+      "label": "Harran",
+      "file_type": "concept",
+      "source_file": "session4.md",
+      "rationale": "Reckoning leader at Ashring battle. 185 HP, Legendary Resistance 2/day. Becomes one-scene antagonist in 3-session compression",
+      "id": "session4_harran",
+      "community": 14,
+      "norm_label": "harran"
+    },
+    {
+      "label": "Petra Vane",
+      "file_type": "concept",
+      "source_file": "session4.md",
+      "rationale": "Dawnborn Anchor #7. Stage 1 grey sickness. Unwilling. Reckoning held her in Dawnhalls for subjective anchor experience data",
+      "id": "session4_petra_vane",
+      "community": 1,
+      "norm_label": "petra vane"
+    },
+    {
+      "label": "Aldric Stone",
+      "file_type": "concept",
+      "source_file": "session4.md",
+      "rationale": "Dawnborn, Unwilling. Secondary combat objective in Session 4: protect Aldric from being taken",
+      "id": "session4_aldric_stone",
+      "community": 1,
+      "norm_label": "aldric stone"
+    },
+    {
+      "label": "Primer Anchor",
+      "file_type": "concept",
+      "source_file": "session0-5.md",
+      "rationale": "Object in vault beneath Dawnhall; connects session 0.5 to main campaign ritual mechanics",
+      "id": "session0_5_primer_anchor",
+      "community": 7,
+      "norm_label": "primer anchor"
+    },
+    {
+      "label": "Vault Door Sequence (Elder Futhark)",
+      "file_type": "concept",
+      "source_file": "session0-5.md",
+      "rationale": "Elder Futhark rune puzzle: \u16ba \u16be \u16b2 \u16ca \u2014 locks the vault beneath Dawnhall",
+      "id": "session0_5_vault_door_sequence",
+      "community": 7,
+      "norm_label": "vault door sequence (elder futhark)"
+    },
+    {
+      "label": "Corven's Notation Key",
+      "file_type": "concept",
+      "source_file": "session1.md",
+      "rationale": "Three-fragment cipher puzzle. Assembled key decodes Corven's postscript: 'Ten lights born when ten lights were lost. Ask not what they are. Ask what they hold.'",
+      "id": "session1_notation_key",
+      "community": 7,
+      "norm_label": "corven's notation key"
+    },
+    {
+      "label": "Sealed Drawer (Shelf 4-17-3)",
+      "file_type": "concept",
+      "source_file": "session1.md",
+      "rationale": "Unopened for 11 years; key on Theron's person. Reckoning orders explicitly say DO NOT OPEN. Contains critical ritual evidence",
+      "id": "session1_sealed_drawer",
+      "community": 11,
+      "norm_label": "sealed drawer (shelf 4-17-3)"
+    },
+    {
+      "label": "Ritual Diagram \u2014 Inversion Pathway (Tier 3)",
+      "file_type": "concept",
+      "source_file": "session2.md",
+      "rationale": "DC 18 Arcana reveal. All ten Dawnborn willing simultaneously at Ashring = sun returns, no one dies. One unwilling defaults to destructive path",
+      "id": "session2_ritual_diagram_tier3",
+      "community": 7,
+      "norm_label": "ritual diagram \u2014 inversion pathway (tier 3)"
+    },
+    {
+      "label": "Reckoning Guard Orders",
+      "file_type": "concept",
+      "source_file": "session2.md",
+      "rationale": "Documents that Reckoning is paramilitary with different command source than Chancellor. Priority: ritual texts > Theron (resource, not target) > party",
+      "id": "session2_reckoning_guard_orders",
+      "community": 11,
+      "norm_label": "reckoning guard orders"
+    },
+    {
+      "label": "Theron's Journal \u2014 Day 4,017",
+      "file_type": "concept",
+      "source_file": "session2.md",
+      "rationale": "11 years of guilt documented. Scholar who knew terrible thing and found 1000 reasons per day not to say it. Receives Aldwyne family letter",
+      "id": "session2_theron_journal_day_4017",
+      "community": 11,
+      "norm_label": "theron's journal \u2014 day 4,017"
+    },
+    {
+      "label": "Partial Ritual Path",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Theron's 'three are enough' alternative with 40% failure chance. One of three Session 3 alternative paths",
+      "id": "session3_partial_ritual_path",
+      "community": 11,
+      "norm_label": "partial ritual path"
+    },
+    {
+      "label": "Willing Few Path",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Edoran's path: three willing Dawnborn (Ysel, Davin, Cormac). One of three Session 3 alternative paths",
+      "id": "session3_willing_few_path",
+      "community": 13,
+      "norm_label": "willing few path"
+    },
+    {
+      "label": "Isolde's Transfer Path",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Transfer Dawnborn energy to Cathedral resonance nodes; Cathedral destroyed. One of three Session 3 alternative paths",
+      "id": "session3_isolde_transfer_path",
+      "community": 2,
+      "norm_label": "isolde's transfer path"
+    },
+    {
+      "label": "Resonance Rods Puzzle",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Session 3 puzzle element in Isolde's laboratory sequence",
+      "id": "session3_resonance_rods_puzzle",
+      "community": 26,
+      "norm_label": "resonance rods puzzle"
+    },
+    {
+      "label": "Laboratory Lock Riddle (sunlight answer)",
+      "file_type": "concept",
+      "source_file": "session3.md",
+      "rationale": "Riddle puzzle in Session 3 with sunlight as the answer",
+      "id": "session3_laboratory_lock_riddle",
+      "community": 25,
+      "norm_label": "laboratory lock riddle (sunlight answer)"
+    },
+    {
+      "label": "Tomas's Asymmetry Journal",
+      "file_type": "concept",
+      "source_file": "session4.md",
+      "rationale": "Documents five surge-phase anchors: Sera, Tomas, Ysel, Lira, Petra. Key information for ritual timing",
+      "id": "session4_asymmetry_journal",
+      "community": 1,
+      "norm_label": "tomas's asymmetry journal"
+    },
+    {
+      "label": "Ashring Primer Stones Puzzle",
+      "file_type": "concept",
+      "source_file": "session4.md",
+      "rationale": "Ten stones, reverse chronological sequence. Session 4 puzzle at the Ashring",
+      "id": "session4_ashring_primer_stones_puzzle",
+      "community": 27,
+      "norm_label": "ashring primer stones puzzle"
+    },
+    {
+      "label": "Corven's Final Letter",
+      "file_type": "concept",
+      "source_file": "session5.md",
+      "rationale": "Written 6 minutes before death; confirms inversion requires all 10 willing. Key evidence for Ending A",
+      "id": "session5_corvens_final_letter",
+      "community": 7,
+      "norm_label": "corven's final letter"
+    },
+    {
+      "label": "Inversion Circle Coordination Puzzle",
+      "file_type": "concept",
+      "source_file": "session5.md",
+      "rationale": "Session 5 puzzle for coordinating simultaneous Dawnborn release at Ashring focal point",
+      "id": "session5_inversion_circle_puzzle",
+      "community": 1,
+      "norm_label": "inversion circle coordination puzzle"
+    },
+    {
+      "label": "Six Endings Matrix (A-F)",
+      "file_type": "concept",
+      "source_file": "session5.md",
+      "rationale": "A: Full Consent Inversion; B: Partial; C: Transfer; D: No Ritual; E: Forced; F: Catastrophe. All equally possible at standard tone",
+      "id": "session5_ending_matrix",
+      "community": 6,
+      "norm_label": "six endings matrix (a-f)"
+    },
+    {
+      "label": "Corven's Notebook (Intelligence-9 Artifact)",
+      "file_type": "concept",
+      "source_file": "session-recording.md",
+      "rationale": "Sentient artifact with AI prompt included in session-recording.md. Connects recording format to campaign narrative",
+      "id": "session_recording_corvens_notebook",
+      "community": 7,
+      "norm_label": "corven's notebook (intelligence-9 artifact)"
+    },
+    {
+      "label": "Grey Sickness",
+      "file_type": "concept",
+      "source_file": "setting.md",
+      "rationale": "3-stage disease in Varenhold. Creates campaign urgency. Petra Vane has Stage 1. Care houses manage it at Low Tragedy tone",
+      "id": "setting_grey_sickness",
+      "community": 1,
+      "norm_label": "grey sickness"
+    },
+    {
+      "label": "Ashring Quarter",
+      "file_type": "concept",
+      "source_file": "setting.md",
+      "rationale": "District with scorched stones and 50-year ozone smell. Location of Ashring Plaza (ritual focal point). Secondary Archive with junior archivist Meva",
+      "id": "setting_ashring_quarter",
+      "community": 2,
+      "norm_label": "ashring quarter"
+    },
+    {
+      "label": "Lowmark District",
+      "file_type": "concept",
+      "source_file": "setting.md",
+      "rationale": "District with grey sickness concentration and Dawnhalls. Site of most NPC encounters with vulnerable population",
+      "id": "setting_lowmark_district",
+      "community": 1,
+      "norm_label": "lowmark district"
+    },
+    {
+      "label": "Spire Quarter",
+      "file_type": "concept",
+      "source_file": "setting.md",
+      "rationale": "Scholar district. Ashring Plaza is here. Civic Repository (Archive) is northeast of Chancellor's Hall. Problem-solver player domain",
+      "id": "setting_spire_quarter",
+      "community": 2,
+      "norm_label": "spire quarter"
+    },
+    {
+      "label": "Varenhold Civic Repository (Archive)",
+      "file_type": "concept",
+      "source_file": "setting.md",
+      "rationale": "Three-floor archive. Ground: public. Second: Theron's desk, magic theory, celestial events. Third: restricted, Corven's correspondence, sealed drawer",
+      "id": "setting_civic_repository",
+      "community": 2,
+      "norm_label": "varenhold civic repository (archive)"
+    },
+    {
+      "label": "Dawnhalls",
+      "file_type": "concept",
+      "source_file": "setting.md",
+      "rationale": "Lowmark facility housing Dawnborn. Has vault beneath it (session 0.5). Kitchen with Mira cook. Site of Reckoning infiltration and Petra's captivity",
+      "id": "setting_dawnhalls",
+      "community": 10,
+      "norm_label": "dawnhalls"
+    },
+    {
+      "label": "Dawnborn Consent Status Grid",
+      "file_type": "concept",
+      "source_file": "tracker.md",
+      "rationale": "All 10 named Dawnborn tracked as Willing/Undecided/Opposed. Core campaign state variable",
+      "id": "tracker_dawnborn_consent_grid",
+      "community": 7,
+      "norm_label": "dawnborn consent status grid"
+    },
+    {
+      "label": "City Crisis Level (1-10)",
+      "file_type": "concept",
+      "source_file": "tracker.md",
+      "rationale": "Pressure mechanics that create urgency. Pressure-up/pressure-down triggers. Session-by-session update",
+      "id": "tracker_city_crisis_level",
+      "community": 1,
+      "norm_label": "city crisis level (1-10)"
+    },
+    {
+      "label": "Faction Reputation Table",
+      "file_type": "concept",
+      "source_file": "tracker.md",
+      "rationale": "9 factions tracked on 5-level scale. Shops loyalty feeds here. Session 5 payoff determined by accumulated reputation",
+      "id": "tracker_faction_reputation",
+      "community": 6,
+      "norm_label": "faction reputation table"
+    },
+    {
+      "label": "Ritual of Eternal Dawn",
+      "file_type": "concept",
+      "source_file": "world-lore.md",
+      "rationale": "The 50-year-old failed ritual that created the amber light and trapped the sun. Central campaign mystery. Year 48 event",
+      "id": "world_lore_ritual_of_eternal_dawn",
+      "community": 7,
+      "norm_label": "ritual of eternal dawn"
+    },
+    {
+      "label": "The Dawnborn (Lux Anchors)",
+      "file_type": "concept",
+      "source_file": "world-lore.md",
+      "rationale": "Ten people born in 40-minute window during ritual (Year 48 midwife registry). Hold solar resonance as human conduits. Must die OR all consent to inversion",
+      "id": "world_lore_dawnborn",
+      "community": 1,
+      "norm_label": "the dawnborn (lux anchors)"
+    },
+    {
+      "label": "Varenhold",
+      "file_type": "concept",
+      "source_file": "world-lore.md",
+      "rationale": "City under permanent amber light for 50 years. 250-year history in world-lore. Crossroads city between five powers",
+      "id": "world_lore_varenhold",
+      "community": 31,
+      "norm_label": "varenhold"
+    },
+    {
+      "label": "The Last Day Before \u2014 Five Testimonies",
+      "file_type": "concept",
+      "source_file": "world-lore.md",
+      "rationale": "Five 50-word testimonies from night of ritual. Player-facing historical flavor. Companion to audio narration embeds",
+      "id": "world_lore_last_day_before",
+      "community": 7,
+      "norm_label": "the last day before \u2014 five testimonies"
+    },
+    {
+      "label": "OGAS System",
+      "file_type": "rationale",
+      "source_file": "running-the-campaign.md",
+      "rationale": "NPC framework: Occupation/Goal/Attitude/Secret. Applied to all key NPCs. At-table heuristic: what they want + what they won't say",
+      "id": "running_the_campaign_ogas_system",
+      "community": 1,
+      "norm_label": "ogas system"
+    },
+    {
+      "label": "Three-Clue Rule",
+      "file_type": "rationale",
+      "source_file": "running-the-campaign.md",
+      "rationale": "Every important discovery has at least three separate paths. No single failure walls off story. Built into all session guides",
+      "id": "running_the_campaign_three_clue_rule",
+      "community": 2,
+      "norm_label": "three-clue rule"
+    },
+    {
+      "label": "Moral Dilemma Engine",
+      "file_type": "rationale",
+      "source_file": "running-the-campaign.md",
+      "rationale": "Five session dilemmas with no text answers, only consequences. End-of-session direct question to players. Hesitaters doing most interesting work",
+      "id": "running_the_campaign_moral_dilemma_engine",
+      "community": 2,
+      "norm_label": "moral dilemma engine"
+    },
+    {
+      "label": "Consequence Tracking",
+      "file_type": "rationale",
+      "source_file": "running-the-campaign.md",
+      "rationale": "Track who knows what, relationship states, Dawnborn positions, Living World state. Information asymmetry is campaign engine",
+      "id": "running_the_campaign_consequence_tracking",
+      "community": 6,
+      "norm_label": "consequence tracking"
+    },
+    {
+      "label": "Tone Calibration (3 Levels)",
+      "file_type": "rationale",
+      "source_file": "running-the-campaign.md",
+      "rationale": "Level 1 Low Tragedy, Level 2 Standard, Level 3 High Tragedy. Affects food store %, Edoran's grief recency, Dawnborn decline visibility",
+      "id": "running_the_campaign_tone_calibration",
+      "community": 6,
+      "norm_label": "tone calibration (3 levels)"
+    },
+    {
+      "label": "GM Character Interview Framework",
+      "file_type": "rationale",
+      "source_file": "running-the-campaign.md",
+      "rationale": "10-question pre-session-0 interview. Extracts player want/fear/lie without asking directly. Most important: what they won't do even if right",
+      "id": "running_the_campaign_character_interview",
+      "community": 1,
+      "norm_label": "gm character interview framework"
+    },
+    {
+      "label": "Guy Sanders Scene Structure (Combat-Puzzle-RP)",
+      "file_type": "rationale",
+      "source_file": "session1.md",
+      "rationale": "Scene design pattern: Combat stakes \u2192 Puzzle discovery \u2192 RP reveal. Applied to sessions 1 and 2 per commit history",
+      "id": "session1_guy_sanders_structure",
+      "community": 2,
+      "norm_label": "guy sanders scene structure (combat-puzzle-rp)"
+    },
+    {
+      "label": "Gestalt Characters (Dual Class)",
+      "file_type": "rationale",
+      "source_file": "session1.md",
+      "rationale": "Players run two D&D 5e classes simultaneously. L4 start, L8 at Session 5. Scaling note across all sessions",
+      "id": "session1_gestalt_characters",
+      "community": 2,
+      "norm_label": "gestalt characters (dual class)"
+    },
+    {
+      "label": "Skill Check Display System",
+      "file_type": "rationale",
+      "source_file": "setting.md",
+      "rationale": "Two CSS classes: skill-passive (auto-known by qualified characters) and skill-reveal (requires roll). TODO: JS prototype planned",
+      "id": "setting_skill_check_system",
+      "community": 15,
+      "norm_label": "skill check display system"
+    },
+    {
+      "label": "Collaborative Novel Format",
+      "file_type": "rationale",
+      "source_file": "session-recording.md",
+      "rationale": "One of three book formats for campaign recording: Session Log, Narrative Account, Collaborative Novel",
+      "id": "session_recording_collaborative_novel",
+      "community": 7,
+      "norm_label": "collaborative novel format"
+    },
+    {
+      "label": "Living World System",
+      "file_type": "rationale",
+      "source_file": "running-the-campaign.md",
+      "rationale": "Grey sickness rate, food supply, political pressure create texture not countdown. Players feel city worsening in real time. Rules in GM Toolkit",
+      "id": "running_the_campaign_living_world",
+      "community": 1,
+      "norm_label": "living world system"
+    }
+  ],
+  "links": [
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "campaign_price_of_dawn",
+      "target": "concept_dawnborn"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "campaign_price_of_dawn",
+      "target": "concept_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "campaign_price_of_dawn",
+      "target": "doc_plot_overview"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "campaign_price_of_dawn",
+      "target": "setting_varenhold"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "index.md",
+      "source": "doc_index",
+      "target": "campaign_price_of_dawn"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "_quarto.yml",
+      "source": "doc_quarto_config",
+      "target": "campaign_price_of_dawn"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "crafting-and-professions.md",
+      "source": "concept_amber_trade",
+      "target": "setting_varenhold"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "player-handout.md",
+      "source": "doc_player_handout",
+      "target": "setting_varenhold"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_ritual_of_eternal_dawn",
+      "target": "concept_dawnborn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_ritual_of_eternal_dawn",
+      "target": "npc_archmagister_corven"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "Training-Session.md",
+      "source": "doc_training_session",
+      "target": "concept_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "npc_theron_waide",
+      "target": "concept_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_dawnborn",
+      "target": "concept_consent_arc"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "plot-overview.md",
+      "source": "concept_dawnborn",
+      "target": "concept_grey_sickness"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "knowledge-tiers.md",
+      "source": "concept_dawnborn",
+      "target": "concept_lux_anchor"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "discovery-quests.md",
+      "source": "doc_discovery_quests",
+      "target": "concept_dawnborn"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_cormac_drell",
+      "target": "concept_dawnborn"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_lira_anwick",
+      "target": "concept_dawnborn"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_sera_voss",
+      "target": "concept_dawnborn"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_tomas_areth",
+      "target": "concept_dawnborn"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_ysel_maren",
+      "target": "concept_dawnborn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "knowledge-tiers.md",
+      "source": "concept_knowledge_tiers",
+      "target": "concept_lux_anchor"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "weight": 0.95,
+      "source_file": "gm-tools.md",
+      "source": "concept_dawnborn_reaction_tracker",
+      "target": "concept_consent_arc"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "npc_brother_edoran",
+      "target": "concept_consent_arc"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "weight": 0.75,
+      "source_file": "plot-overview.md",
+      "note": "Ostenveld's strategic ignorance mirrors player choice to take job without asking cost \u2014 both are consent-adjacent avoidance",
+      "source": "npc_chancellor_ostenveld",
+      "target": "concept_consent_arc"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "npc_ysel_maren",
+      "target": "concept_consent_arc"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "deep-archive.md",
+      "source": "doc_corven_sealed_letter",
+      "target": "npc_archmagister_corven"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "npc_lira_anwick",
+      "target": "concept_inversion_pathway"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "npc_tomas_areth",
+      "target": "concept_tomas_asymmetry"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "deep-archive.md",
+      "source": "npc_theron_waide",
+      "target": "doc_deep_archive"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "master-plot.md",
+      "source": "npc_brother_edoran",
+      "target": "concept_three_layer_antagonists"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_brother_edoran",
+      "target": "faction_restorers"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "pantheon.md",
+      "source": "npc_brother_edoran",
+      "target": "god_auris"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "master-plot.md",
+      "source": "npc_commander_harran",
+      "target": "concept_three_layer_antagonists"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_commander_harran",
+      "target": "faction_reckoning"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_chancellor_ostenveld",
+      "target": "faction_city_council"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "npc_isolde_menth",
+      "target": "concept_transfer_method"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "npc_isolde_menth",
+      "target": "faction_spire_scholars"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "Training-Session.md",
+      "source": "doc_training_session",
+      "target": "npc_maerin_voss"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "pantheon.md",
+      "source": "god_auris",
+      "target": "faction_restorers"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "plot-overview.md",
+      "note": "Reckoning forcing the ritual maps to Ending E (Cascade Failure)",
+      "source": "faction_reckoning",
+      "target": "concept_five_endings"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_three_alternative_paths",
+      "target": "concept_inversion_pathway"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_three_alternative_paths",
+      "target": "concept_tomas_asymmetry"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_three_alternative_paths",
+      "target": "concept_transfer_method"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_five_endings",
+      "target": "concept_inversion_pathway"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_primer_stone",
+      "target": "concept_inversion_pathway"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_five_endings",
+      "target": "concept_transfer_method"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "weight": 0.75,
+      "source_file": "gm-tools.md",
+      "note": "Crisis escalation scale determines which ending is reachable; faction actions shift the state space",
+      "source": "concept_living_world_system",
+      "target": "concept_five_endings"
+    },
+    {
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "master-plot.md",
+      "source": "concept_six_endings",
+      "target": "concept_five_endings"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "master-plot.md",
+      "source": "doc_master_plot",
+      "target": "concept_six_endings"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "knowledge-tiers.md",
+      "source": "concept_three_clue_rule",
+      "target": "concept_knowledge_tiers"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "knowledge-tiers.md",
+      "source": "doc_knowledge_tiers",
+      "target": "concept_knowledge_tiers"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "weight": 0.75,
+      "source_file": "opencode-instructions.md",
+      "note": "OGAS (want/fear/lie structure) is a direct implementation of theGreatGM NPC principle",
+      "source": "concept_ogas_format",
+      "target": "concept_thegreatgm_principles"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "npcs.md",
+      "source": "doc_npcs",
+      "target": "concept_ogas_format"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_primer_stone",
+      "target": "location_ashring"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "deep-archive.md",
+      "source": "doc_deep_archive",
+      "target": "location_ashfen"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "Training-Session.md",
+      "source": "doc_training_session",
+      "target": "location_lowmark_dawnhall"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "deep-archive.md",
+      "source": "doc_deep_archive",
+      "target": "doc_corven_sealed_letter"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "plot-overview.md",
+      "source": "concept_thegreatgm_principles",
+      "target": "doc_plot_overview"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "master-plot.md",
+      "source": "doc_master_plot",
+      "target": "concept_three_layer_antagonists"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "master-plot.md",
+      "source": "npc_keseph",
+      "target": "concept_three_layer_antagonists"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "player-handout.md",
+      "source": "doc_player_handout",
+      "target": "doc_factions_guide"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "ai-tools.md",
+      "source": "doc_ai_tools",
+      "target": "concept_elevenlabs_voices"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "ai-tools.md",
+      "source": "doc_ai_tools",
+      "target": "concept_living_world_system"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "gm-tools.md",
+      "source": "doc_gm_tools",
+      "target": "concept_dawnborn_reaction_tracker"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "gm-tools.md",
+      "source": "doc_gm_tools",
+      "target": "concept_five_room_structure"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "gm-tools.md",
+      "source": "doc_gm_tools",
+      "target": "concept_living_world_system"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "gm-tools.md",
+      "source": "doc_gm_tools",
+      "target": "concept_moral_scorecard"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "appendix.md",
+      "source": "doc_appendix",
+      "target": "concept_moral_scorecard"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "crafting-and-professions.md",
+      "source": "doc_crafting_professions",
+      "target": "concept_amber_trade"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "crafting-and-professions.md",
+      "source": "doc_crafting_professions",
+      "target": "concept_skill_check_tiers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "characters.md",
+      "source": "doc_characters",
+      "target": "char_davan_stout"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "characters.md",
+      "source": "doc_characters",
+      "target": "char_ilessa_thorn"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "characters.md",
+      "source": "doc_characters",
+      "target": "char_maren_ashveil"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "characters.md",
+      "source": "doc_characters",
+      "target": "char_teor_seld"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "characters.md",
+      "source": "doc_characters",
+      "target": "char_vella_mourne"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "player-guide.md",
+      "source": "concept_session_zero",
+      "target": "doc_player_guide"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "pantheon.md",
+      "source": "doc_pantheon",
+      "target": "god_auris"
+    },
+    {
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "index.md",
+      "source": "doc_index",
+      "target": "concept_piper_audio"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "opencode-instructions.md",
+      "source": "doc_opencode_instructions",
+      "target": "concept_thegreatgm_principles"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "CLAUDE.md",
+      "source": "doc_claude_md",
+      "target": "concept_piper_audio"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "CLAUDE.md",
+      "source": "doc_claude_md",
+      "target": "concept_skill_check_tiers"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "gm-tools.md",
+      "source": "concept_thegreatgm_principles",
+      "target": "concept_five_room_structure"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "weight": 0.75,
+      "source_file": "ai-tools.md",
+      "note": "Both are audio/voice generation pipelines for the campaign; Piper for narration/read-alouds, ElevenLabs for NPC voices",
+      "source": "concept_piper_audio",
+      "target": "concept_elevenlabs_voices"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "weight": 0.85,
+      "source_file": "gm-tools.md",
+      "note": "Both GM tracking tools feed into campaign ending determination; reaction tracker is input, moral scorecard is output metric",
+      "source": "concept_moral_scorecard",
+      "target": "concept_dawnborn_reaction_tracker"
+    },
+    {
+      "relation": "connects_to_backstory_of",
+      "confidence_score": 0.85,
+      "rationale": "Ilya Ren is explicitly connected to Ixa's backstory, one of the player characters",
+      "source_file": "session0-5.md",
+      "source": "session0_5_ilya_ren",
+      "target": "session0_5_session_zero_point_five"
+    },
+    {
+      "relation": "has_companion_resource",
+      "confidence_score": 1.0,
+      "rationale": "session0-5.md explicitly references physical props in props-session0-5.md",
+      "source_file": "session0-5.md",
+      "source": "session0_5_session_zero_point_five",
+      "target": "props_session0_5_props_session_zero_point_five"
+    },
+    {
+      "relation": "set_in",
+      "confidence_score": 1.0,
+      "rationale": "Session 0.5 is explicitly set in the vault beneath the Dawnhall",
+      "source_file": "session0-5.md",
+      "source": "session0_5_session_zero_point_five",
+      "target": "setting_dawnhalls"
+    },
+    {
+      "relation": "is_web_version_of",
+      "confidence_score": 1.0,
+      "rationale": "print-props-session0-5.md is the GitBook panel-tabset version of the same props in props-session0-5.md",
+      "source_file": "print-props-session0-5.md",
+      "source": "print_props_session0_5_gitbook_props_zero_point_five",
+      "target": "props_session0_5_props_session_zero_point_five"
+    },
+    {
+      "relation": "is_web_version_of",
+      "confidence_score": 1.0,
+      "rationale": "print-props-session1.md is the GitBook version of session1-props.md content",
+      "source_file": "print-props-session1.md",
+      "source": "print_props_session1_gitbook_props_session1",
+      "target": "session1_props_session1_player_props"
+    },
+    {
+      "relation": "has_companion_resource",
+      "confidence_score": 1.0,
+      "rationale": "print-props-session2.md contains the handouts for session2.md",
+      "source_file": "session2.md",
+      "source": "session2_session2_weight_of_light",
+      "target": "print_props_session2_gitbook_props_session2"
+    },
+    {
+      "relation": "has_companion_resource",
+      "confidence_score": 1.0,
+      "rationale": "session1.md references its physical handouts; session1-props.md contains those handouts",
+      "source_file": "session1.md",
+      "source": "session1_session1_into_the_dark",
+      "target": "session1_props_session1_player_props"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence_score": 0.65,
+      "rationale": "Both frameworks extract want/fear/secret information\u2014one for NPCs (OGAS) and one for player characters (interview). Non-obvious parallel structure",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_character_interview",
+      "target": "session1_ogas_session1_npc_cards"
+    },
+    {
+      "relation": "implemented_by",
+      "confidence_score": 1.0,
+      "rationale": "session1-ogas.md is an explicit implementation of the OGAS framework defined in running-the-campaign.md",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_ogas_system",
+      "target": "session1_ogas_session1_npc_cards"
+    },
+    {
+      "relation": "has_companion_resource",
+      "confidence_score": 1.0,
+      "rationale": "session1-ogas.md is explicitly a companion OGAS reference card set for session1.md",
+      "source_file": "session1.md",
+      "source": "session1_session1_into_the_dark",
+      "target": "session1_ogas_session1_npc_cards"
+    },
+    {
+      "relation": "frames",
+      "confidence_score": 1.0,
+      "rationale": "Session 1 dilemma 'Is hope worth chasing when it might cost everything?' is explicitly in the Moral Dilemma Engine table",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_moral_dilemma_engine",
+      "target": "session1_session1_into_the_dark"
+    },
+    {
+      "relation": "applied_in",
+      "confidence_score": 0.95,
+      "rationale": "Session 1 has three clue paths built in (journal, blood on stones, Archivist slip) per the Three-Clue Rule",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_three_clue_rule",
+      "target": "session1_session1_into_the_dark"
+    },
+    {
+      "relation": "scales_for",
+      "confidence_score": 1.0,
+      "rationale": "Session 1 explicitly states L4 gestalt start and provides gestalt scaling notes",
+      "source_file": "session1.md",
+      "source": "session1_gestalt_characters",
+      "target": "session1_session1_into_the_dark"
+    },
+    {
+      "relation": "applied_in",
+      "confidence_score": 1.0,
+      "rationale": "Session 1 rebuilt to Guy Sanders combat-puzzle-RP structure per commit history (ce8ac5d)",
+      "source_file": "session1.md",
+      "source": "session1_guy_sanders_structure",
+      "target": "session1_session1_into_the_dark"
+    },
+    {
+      "relation": "set_in",
+      "confidence_score": 1.0,
+      "rationale": "Session 1 Archive Infiltration scene explicitly set in Varenhold Civic Repository",
+      "source_file": "session1.md",
+      "source": "session1_session1_into_the_dark",
+      "target": "setting_civic_repository"
+    },
+    {
+      "relation": "frames",
+      "confidence_score": 1.0,
+      "rationale": "Session 2 dilemma 'Do you have the right to decide someone else's fate, even to save thousands?' is explicitly in the table",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_moral_dilemma_engine",
+      "target": "session2_session2_weight_of_light"
+    },
+    {
+      "relation": "applied_in",
+      "confidence_score": 0.95,
+      "rationale": "Session 2 ritual diagram tiers (3 independent paths to ritual knowledge) implement the Three-Clue Rule",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_three_clue_rule",
+      "target": "session2_session2_weight_of_light"
+    },
+    {
+      "relation": "applied_in",
+      "confidence_score": 1.0,
+      "rationale": "Session 2 rebuilt to Guy Sanders combat-puzzle-RP structure per commit history (3fd9bd4)",
+      "source_file": "session1.md",
+      "source": "session1_guy_sanders_structure",
+      "target": "session2_session2_weight_of_light"
+    },
+    {
+      "relation": "set_in",
+      "confidence_score": 1.0,
+      "rationale": "Session 2 Reckoning Vanguard scene explicitly set in Dawnhalls",
+      "source_file": "session2.md",
+      "source": "session2_session2_weight_of_light",
+      "target": "setting_dawnhalls"
+    },
+    {
+      "relation": "frames",
+      "confidence_score": 1.0,
+      "rationale": "Session 3 dilemma 'Is a lesser evil still evil?' is explicitly in the Moral Dilemma Engine table",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_moral_dilemma_engine",
+      "target": "session3_session3_lesser_evils"
+    },
+    {
+      "relation": "frames",
+      "confidence_score": 1.0,
+      "rationale": "Session 4 dilemma 'What do you owe to people who choose to sacrifice themselves?' is explicitly in the table",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_moral_dilemma_engine",
+      "target": "session4_session4_breaking_point"
+    },
+    {
+      "relation": "set_in",
+      "confidence_score": 1.0,
+      "rationale": "Session 4 Ashring Primer Stones puzzle and Reckoning strike are explicitly at Ashring",
+      "source_file": "session4.md",
+      "source": "session4_session4_breaking_point",
+      "target": "setting_ashring_quarter"
+    },
+    {
+      "relation": "frames",
+      "confidence_score": 1.0,
+      "rationale": "Session 5 dilemma 'When right choice and good choice differ, which do you make?' is explicitly in the table",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_moral_dilemma_engine",
+      "target": "session5_session5_price_of_dawn"
+    },
+    {
+      "relation": "scales_for",
+      "confidence_score": 1.0,
+      "rationale": "Session 5 explicitly provides L8 gestalt scaling stat blocks",
+      "source_file": "session1.md",
+      "source": "session1_gestalt_characters",
+      "target": "session5_session5_price_of_dawn"
+    },
+    {
+      "relation": "resolves",
+      "confidence_score": 0.95,
+      "rationale": "Session 5 Ending A (Full Consent Inversion) is the realization of the Tier 3 inversion pathway",
+      "source_file": "session5.md",
+      "source": "session5_session5_price_of_dawn",
+      "target": "session2_ritual_diagram_tier3"
+    },
+    {
+      "relation": "resolves",
+      "confidence_score": 0.95,
+      "rationale": "Session 5 Ending C corresponds to Isolde's Transfer path",
+      "source_file": "session5.md",
+      "source": "session5_session5_price_of_dawn",
+      "target": "session3_isolde_transfer_path"
+    },
+    {
+      "relation": "resolves",
+      "confidence_score": 0.95,
+      "rationale": "Session 5 Ending B corresponds to the Partial Ritual path chosen in Session 3",
+      "source_file": "session5.md",
+      "source": "session5_session5_price_of_dawn",
+      "target": "session3_partial_ritual_path"
+    },
+    {
+      "relation": "references",
+      "confidence_score": 1.0,
+      "rationale": "running-the-campaign.md explicitly names shops.md as Player Companion chapter to point players toward",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_gm_philosophy",
+      "target": "shops_varenhold_shops"
+    },
+    {
+      "relation": "references",
+      "confidence_score": 1.0,
+      "rationale": "running-the-campaign.md explicitly names tracker.md as Player Companion chapter",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_gm_philosophy",
+      "target": "tracker_campaign_tracker"
+    },
+    {
+      "relation": "references",
+      "confidence_score": 1.0,
+      "rationale": "running-the-campaign.md explicitly names travel.md as Player Companion chapter",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_gm_philosophy",
+      "target": "travel_routes"
+    },
+    {
+      "relation": "feeds_into",
+      "confidence_score": 0.85,
+      "rationale": "shops.md explicitly states shop loyalty accumulated through 5-level reputation pays off in Session 5",
+      "source_file": "shops.md",
+      "source": "shops_varenhold_shops",
+      "target": "session5_ending_matrix"
+    },
+    {
+      "relation": "implemented_by",
+      "confidence_score": 1.0,
+      "rationale": "tracker.md is the explicit implementation tool for consequence tracking described in running-the-campaign.md",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_consequence_tracking",
+      "target": "tracker_campaign_tracker"
+    },
+    {
+      "relation": "used_in",
+      "confidence_score": 1.0,
+      "rationale": "trade.md explicitly uses skill-passive and skill-reveal CSS classes from the skill check system",
+      "source_file": "setting.md",
+      "source": "setting_skill_check_system",
+      "target": "trade_varenhold_economy"
+    },
+    {
+      "relation": "holds_key_to",
+      "confidence_score": 1.0,
+      "rationale": "Props and OGAS cards explicitly state sealed drawer key is on Theron's person",
+      "source_file": "session1-ogas.md",
+      "source": "session1_ogas_theron_waide",
+      "target": "session1_sealed_drawer"
+    },
+    {
+      "relation": "authored",
+      "confidence_score": 1.0,
+      "rationale": "Theron's Journal Day 4,017 is explicitly Theron Waide's personal journal",
+      "source_file": "session1-ogas.md",
+      "source": "session1_ogas_theron_waide",
+      "target": "session2_theron_journal_day_4017"
+    },
+    {
+      "relation": "proposes",
+      "confidence_score": 1.0,
+      "rationale": "Theron's 'three are enough' is explicitly the Partial Ritual path in Session 3",
+      "source_file": "session1-ogas.md",
+      "source": "session1_ogas_theron_waide",
+      "target": "session3_partial_ritual_path"
+    },
+    {
+      "relation": "is_member_of",
+      "confidence_score": 1.0,
+      "rationale": "Sera Voss is explicitly identified as a Dawnborn and Dawnhalls director",
+      "source_file": "session1-ogas.md",
+      "source": "session1_ogas_sera_voss",
+      "target": "world_lore_dawnborn"
+    },
+    {
+      "relation": "represents",
+      "confidence_score": 0.85,
+      "rationale": "Jaret is the primary Restorer faction NPC; interactions with him affect Restorer reputation in tracker",
+      "source_file": "session1-ogas.md",
+      "source": "session1_ogas_jaret",
+      "target": "tracker_faction_reputation"
+    },
+    {
+      "relation": "is_member_of",
+      "confidence_score": 1.0,
+      "rationale": "Tomas Areth is explicitly one of the ten Dawnborn",
+      "source_file": "session2.md",
+      "source": "session2_tomas_areth",
+      "target": "world_lore_dawnborn"
+    },
+    {
+      "relation": "authored_by",
+      "confidence_score": 1.0,
+      "rationale": "Tomas's Asymmetry Journal is explicitly Tomas Areth's personal research document",
+      "source_file": "session4.md",
+      "source": "session4_asymmetry_journal",
+      "target": "session2_tomas_areth"
+    },
+    {
+      "relation": "is_member_of",
+      "confidence_score": 1.0,
+      "rationale": "Lira Anwick is explicitly one of the ten Dawnborn, Unwilling",
+      "source_file": "session2.md",
+      "source": "session2_lira_anwick",
+      "target": "world_lore_dawnborn"
+    },
+    {
+      "relation": "proposes",
+      "confidence_score": 1.0,
+      "rationale": "Edoran's path is the Willing Few: three willing Dawnborn",
+      "source_file": "session2.md",
+      "source": "session2_brother_edoran",
+      "target": "session3_willing_few_path"
+    },
+    {
+      "relation": "reports_to",
+      "confidence_score": 0.75,
+      "rationale": "Both are Reckoning commanders; Harran appears as the higher-authority figure in Session 4, Marsh operates in Session 2. Reckoning has separate command from Chancellor",
+      "source_file": "session2.md",
+      "source": "session2_captain_marsh",
+      "target": "session4_harran"
+    },
+    {
+      "relation": "proposes",
+      "confidence_score": 1.0,
+      "rationale": "Isolde Menth is the explicit originator of the Transfer path",
+      "source_file": "session3.md",
+      "source": "session3_isolde_menth",
+      "target": "session3_isolde_transfer_path"
+    },
+    {
+      "relation": "is_member_of",
+      "confidence_score": 1.0,
+      "rationale": "Ysel Maren is explicitly one of the ten Dawnborn, Willing",
+      "source_file": "session3.md",
+      "source": "session3_ysel_maren",
+      "target": "world_lore_dawnborn"
+    },
+    {
+      "relation": "is_member_of",
+      "confidence_score": 1.0,
+      "rationale": "Davin Shore is explicitly one of the ten Dawnborn, Willing",
+      "source_file": "session3.md",
+      "source": "session3_davin_shore",
+      "target": "world_lore_dawnborn"
+    },
+    {
+      "relation": "referenced_in",
+      "confidence_score": 0.85,
+      "rationale": "Cormac is explicitly named in the running-the-campaign.md character interview section as the subject of a question testing what players value",
+      "source_file": "session3.md",
+      "source": "session3_cormac_drell",
+      "target": "running_the_campaign_character_interview"
+    },
+    {
+      "relation": "is_member_of",
+      "confidence_score": 1.0,
+      "rationale": "Cormac Drell is explicitly one of the ten Dawnborn, Willing but wavering",
+      "source_file": "session3.md",
+      "source": "session3_cormac_drell",
+      "target": "world_lore_dawnborn"
+    },
+    {
+      "relation": "represents",
+      "confidence_score": 0.75,
+      "rationale": "Senna Kard leads the Desperate faction; her combat in Session 3 affects relationship with that faction in the reputation table",
+      "source_file": "session3.md",
+      "source": "session3_senna_kard",
+      "target": "tracker_faction_reputation"
+    },
+    {
+      "relation": "afflicted_by",
+      "confidence_score": 1.0,
+      "rationale": "Petra Vane explicitly has Stage 1 grey sickness per Reckoning infiltrator notes",
+      "source_file": "session4.md",
+      "source": "session4_petra_vane",
+      "target": "setting_grey_sickness"
+    },
+    {
+      "relation": "is_member_of",
+      "confidence_score": 1.0,
+      "rationale": "Petra Vane is explicitly Anchor #7, one of the ten Dawnborn",
+      "source_file": "session4.md",
+      "source": "session4_petra_vane",
+      "target": "world_lore_dawnborn"
+    },
+    {
+      "relation": "is_member_of",
+      "confidence_score": 1.0,
+      "rationale": "Aldric Stone is explicitly one of the ten Dawnborn, Unwilling",
+      "source_file": "session4.md",
+      "source": "session4_aldric_stone",
+      "target": "world_lore_dawnborn"
+    },
+    {
+      "relation": "component_of",
+      "confidence_score": 0.85,
+      "rationale": "Primer Anchor in vault beneath Dawnhall is inferred to be a ritual component given its connection to anchor mechanics throughout the campaign",
+      "source_file": "session0-5.md",
+      "source": "session0_5_primer_anchor",
+      "target": "world_lore_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "guards_access_to",
+      "confidence_score": 0.95,
+      "rationale": "The Elder Futhark rune door sequence locks the vault containing the Primer Anchor",
+      "source_file": "session0-5.md",
+      "source": "session0_5_vault_door_sequence",
+      "target": "session0_5_primer_anchor"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence_score": 0.75,
+      "rationale": "Both are multi-step cipher/puzzle systems requiring assembly of knowledge to unlock progression; structurally parallel across session 0.5 and session 1",
+      "source_file": "session0-5.md",
+      "source": "session0_5_vault_door_sequence",
+      "target": "session1_notation_key"
+    },
+    {
+      "relation": "prerequisite_for",
+      "confidence_score": 1.0,
+      "rationale": "Tier 2 and Tier 3 of ritual diagram require the notation key assembled in Session 1 for auto-reveal",
+      "source_file": "session1.md",
+      "source": "session1_notation_key",
+      "target": "session2_ritual_diagram_tier3"
+    },
+    {
+      "relation": "referenced_in",
+      "confidence_score": 1.0,
+      "rationale": "Reckoning Guard Orders explicitly include 'DO NOT OPEN' instruction for the Sealed Drawer\u2014direct cross-reference",
+      "source_file": "session1.md",
+      "source": "session1_sealed_drawer",
+      "target": "session2_reckoning_guard_orders"
+    },
+    {
+      "relation": "requires",
+      "confidence_score": 0.95,
+      "rationale": "Inversion pathway requires all 10 Dawnborn willing\u2014directly tracked in the Dawnborn Consent Status Grid",
+      "source_file": "session2.md",
+      "source": "session2_ritual_diagram_tier3",
+      "target": "tracker_dawnborn_consent_grid"
+    },
+    {
+      "relation": "reveals_mechanism_of",
+      "confidence_score": 1.0,
+      "rationale": "Tier 3 diagram explicitly shows the inversion pathway\u2014the alternative completion mechanism for the Ritual of Eternal Dawn",
+      "source_file": "session2.md",
+      "source": "session2_ritual_diagram_tier3",
+      "target": "world_lore_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "located_in",
+      "confidence_score": 0.95,
+      "rationale": "Isolde's laboratory and the Cathedral of Dawning (destroyed by Transfer path) are in or near Spire Quarter per the demolished building reference",
+      "source_file": "session3.md",
+      "source": "session3_isolde_transfer_path",
+      "target": "setting_spire_quarter"
+    },
+    {
+      "relation": "informs",
+      "confidence_score": 0.95,
+      "rationale": "Asymmetry Journal identifies the five surge-phase anchors; this data is needed to coordinate the simultaneous inversion circle",
+      "source_file": "session4.md",
+      "source": "session4_asymmetry_journal",
+      "target": "session5_inversion_circle_puzzle"
+    },
+    {
+      "relation": "confirms_mechanism_of",
+      "confidence_score": 1.0,
+      "rationale": "Corven's Final Letter written 6 minutes before death confirms inversion requires all 10 willing",
+      "source_file": "session5.md",
+      "source": "session5_corvens_final_letter",
+      "target": "world_lore_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "influences",
+      "confidence_score": 0.85,
+      "rationale": "Tone Level 3 makes Ending D harder; Ending F more likely at high tragedy. Tone level directly affects ending probability distribution",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_tone_calibration",
+      "target": "session5_ending_matrix"
+    },
+    {
+      "relation": "determines",
+      "confidence_score": 1.0,
+      "rationale": "Dawnborn consent status grid directly determines which of the six endings is achievable",
+      "source_file": "tracker.md",
+      "source": "tracker_dawnborn_consent_grid",
+      "target": "session5_ending_matrix"
+    },
+    {
+      "relation": "determines",
+      "confidence_score": 0.95,
+      "rationale": "Faction reputation accumulated via tracker.md determines Session 5 available options and outcomes",
+      "source_file": "tracker.md",
+      "source": "tracker_faction_reputation",
+      "target": "session5_ending_matrix"
+    },
+    {
+      "relation": "documents",
+      "confidence_score": 0.85,
+      "rationale": "Corven's Notebook artifact is an intelligence-9 sentient object connected to Archmagister Corven who designed the ritual",
+      "source_file": "session-recording.md",
+      "source": "session_recording_corvens_notebook",
+      "target": "world_lore_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "concentrated_in",
+      "confidence_score": 0.95,
+      "rationale": "Grey sickness is described as heaviest in Lowmark district where Dawnhalls and care houses are located",
+      "source_file": "setting.md",
+      "source": "setting_grey_sickness",
+      "target": "setting_lowmark_district"
+    },
+    {
+      "relation": "contributes_to",
+      "confidence_score": 0.85,
+      "rationale": "Grey sickness rate is one of the Living World metrics that pushes City Crisis Level up",
+      "source_file": "setting.md",
+      "source": "setting_grey_sickness",
+      "target": "tracker_city_crisis_level"
+    },
+    {
+      "relation": "tracked_by",
+      "confidence_score": 1.0,
+      "rationale": "All 10 Dawnborn consent states are explicitly tracked in the Dawnborn Consent Status Grid",
+      "source_file": "world-lore.md",
+      "source": "world_lore_dawnborn",
+      "target": "tracker_dawnborn_consent_grid"
+    },
+    {
+      "relation": "implemented_by",
+      "confidence_score": 0.95,
+      "rationale": "City Crisis Level 1-10 in tracker.md is the mechanical expression of the Living World system",
+      "source_file": "running-the-campaign.md",
+      "source": "running_the_campaign_living_world",
+      "target": "tracker_city_crisis_level"
+    },
+    {
+      "relation": "created_by",
+      "confidence_score": 1.0,
+      "rationale": "Dawnborn were born simultaneously during the ritual in Year 48, created as Lux Anchors by the ritual's failure",
+      "source_file": "world-lore.md",
+      "source": "world_lore_dawnborn",
+      "target": "world_lore_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "describes",
+      "confidence_score": 1.0,
+      "rationale": "The Five Testimonies are explicitly from the night of the ritual in Year 48",
+      "source_file": "world-lore.md",
+      "source": "world_lore_last_day_before",
+      "target": "world_lore_ritual_of_eternal_dawn"
+    },
+    {
+      "relation": "semantically_similar_to",
+      "confidence_score": 0.65,
+      "rationale": "Both are player-accessible narrative documents: testimonies and collaborative novel formats both transform campaign events into prose accounts for players to read",
+      "source_file": "session-recording.md",
+      "source": "session_recording_collaborative_novel",
+      "target": "world_lore_last_day_before"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyperedge_dawnborn_ritual_ashring",
+      "label": "Dawnborn-Ritual-Ashring Convergence",
+      "nodes": [
+        "concept_dawnborn",
+        "concept_ritual_of_eternal_dawn",
+        "location_ashring",
+        "concept_lux_anchor",
+        "concept_five_endings"
+      ],
+      "relation": "conceptually_related_to",
+      "description": "The Dawnborn are living anchor-points (Lux Anchor) for the Ritual of Eternal Dawn; the Ashring site is where their energy must be released or redirected; all five endings branch from this nexus",
+      "confidence_score": 1.0,
+      "source_file": "plot-overview.md"
+    },
+    {
+      "id": "hyperedge_antagonist_faction_structure",
+      "label": "Antagonist-Faction-Consent Triad",
+      "nodes": [
+        "concept_three_layer_antagonists",
+        "faction_restorers",
+        "faction_reckoning",
+        "npc_chancellor_ostenveld",
+        "concept_consent_arc"
+      ],
+      "relation": "conceptually_related_to",
+      "description": "Three antagonist factions each embody a different position on Dawnborn consent: Restorers (theological justification), Reckoning (city-over-individual force), City Council (strategic ignorance); together they define the consent arc's external pressure",
+      "confidence_score": 1.0,
+      "source_file": "master-plot.md"
+    },
+    {
+      "id": "hyperedge_knowledge_revelation_system",
+      "label": "Knowledge-Tier-Revelation System",
+      "nodes": [
+        "concept_knowledge_tiers",
+        "concept_three_clue_rule",
+        "doc_deep_archive",
+        "concept_lux_anchor",
+        "doc_corven_sealed_letter"
+      ],
+      "relation": "conceptually_related_to",
+      "description": "The four-tier knowledge system gates the campaign's central secret (Lux Anchor / Dawnborn as living ritual containers) behind three independent clue paths, with the Deep Archive's Corven documents as the primary Tier 4 source",
+      "confidence_score": 1.0,
+      "source_file": "knowledge-tiers.md"
+    },
+    {
+      "id": "hyperedge_guy_sanders_structure_all_sessions",
+      "label": "Guy Sanders Combat-Puzzle-RP Structure Applied Across Sessions",
+      "node_ids": [
+        "session1_guy_sanders_structure",
+        "session1_session1_into_the_dark",
+        "session2_session2_weight_of_light",
+        "session3_session3_lesser_evils",
+        "session4_session4_breaking_point",
+        "session5_session5_price_of_dawn"
+      ],
+      "relation": "shared_design_pattern",
+      "confidence_score": 0.85,
+      "rationale": "Guy Sanders scene structure (Combat\u2192Puzzle\u2192RP reveal) is the organizing principle for all five main sessions; each session implements this pattern with different stakes and content"
+    },
+    {
+      "id": "hyperedge_dawnborn_ritual_consent_triad",
+      "label": "Dawnborn-Ritual-Consent Core Campaign Engine",
+      "node_ids": [
+        "world_lore_dawnborn",
+        "world_lore_ritual_of_eternal_dawn",
+        "session2_ritual_diagram_tier3",
+        "tracker_dawnborn_consent_grid",
+        "session5_ending_matrix"
+      ],
+      "relation": "interdependent_system",
+      "confidence_score": 0.95,
+      "rationale": "These five nodes form the campaign's core mechanical-narrative engine: Dawnborn are Lux Anchors for the Ritual; the Inversion Pathway requires willing consent; consent is tracked; and the ending matrix is determined by consent state. No node functions independently of the others"
+    },
+    {
+      "id": "hyperedge_three_clue_puzzle_chain",
+      "label": "Three-Clue Puzzle Chain: Notation Key \u2192 Ritual Diagram \u2192 Inversion",
+      "node_ids": [
+        "running_the_campaign_three_clue_rule",
+        "session1_notation_key",
+        "session2_ritual_diagram_tier3",
+        "session5_corvens_final_letter",
+        "session5_inversion_circle_puzzle"
+      ],
+      "relation": "sequential_revelation_chain",
+      "confidence_score": 0.85,
+      "rationale": "These nodes form a campaign-length Three-Clue chain: the Three-Clue Rule governs design; Session 1 notation key enables Tier 2/3 reading; ritual diagram Tier 3 reveals inversion pathway; Corven's Final Letter confirms conditions; Inversion Circle implements it. Each link is designed to have backup paths per the Three-Clue Rule"
+    }
+  ],
+  "built_at_commit": "f3273d8199a109287795042246378ae6955384e1"
+}
