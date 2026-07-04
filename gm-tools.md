@@ -309,79 +309,10 @@ Use your answers to shape which scenes in Session 5 get the most time.
 
 ---
 
-## Session Prep Checklist (Guy Sclanders 15-Minute Method)
+## Session Prep
 
-This prep system produces a session that feels planned without over-scripting. It takes 15 minutes if you know the campaign material.
+Use the **Session Template** in the GM Toolkit section — it includes the 15-minute prep method, scene cards for all 5 scenes, and the full checklist built into each scene block.
 
-### Step 1: Consequence Review (3 minutes)
-
-Open your Session Tracker from last time. Answer:
-
-- What did the players decide?
-- What are the two most important consequences of those decisions?
-- What has changed in the living world since then?
-
-### Step 2: The Three Mandatory Scenes (5 minutes)
-
-Every session needs three scenes that *must* happen:
-
-1. **The Scene That Delivers a Consequence** - something from last session bears fruit (good or bad)
-2. **The Scene That Advances the Dilemma** - the central question gets more concrete
-3. **The Scene That Humanizes an NPC** - one character becomes more real
-
-Write one sentence per scene. That's enough.
-
-### Step 3: The Two Flex Scenes (3 minutes)
-
-These scenes happen *if the players go looking* or *if the session needs something*:
-
-1. **An Investigation Scene** - a clue they can find, a lead they can follow
-2. **An Encounter** - social, combat, or random (roll from encounter tables above)
-
-You don't need to plan these fully. Know what's available.
-
-### Step 4: The Closing Beat (2 minutes)
-
-Write the closing read-aloud. One paragraph. It should end with a question, a visual, or a silence.
-
-### Step 5: The Post-Session Question (2 minutes)
-
-Write the question you'll ask the players at session end. It should connect to the central dilemma.
-
----
-
-### The One-Page Session Prep Template
-
-```
-SESSION [#]: [TITLE]
-Central Dilemma:
-
-CONSEQUENCE REVIEW:
-- What changed since last session:
-- Key consequence this session:
-
-MANDATORY SCENES:
-1. Consequence scene:
-2. Dilemma scene:
-3. Humanizing NPC:
-
-FLEX SCENES:
-- Investigation available:
-- Encounter ready:
-
-CLOSING BEAT (one paragraph):
-
-POST-SESSION QUESTION:
-
-NPC QUICK REFERENCE:
-- [NPC 1]: Goal this session / Attitude / Secret active?
-- [NPC 2]: Goal this session / Attitude / Secret active?
-- [NPC 3]: Goal this session / Attitude / Secret active?
-
-LIVING WORLD UPDATE (note for next session):
-```
-
----
 
 ## Printable NPC Reference Cards
 
