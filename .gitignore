@@ -18,3 +18,14 @@ visualization-curriculum.Rproj
 passwords.kdbx
 *.kdbx
 .env.campaign
+
+# Tool artifacts — not part of the GitBook
+graphify-out/
+.claude-flow/
+.swarm/
+.scene-build/
+agentdb.rvf
+agentdb.rvf.lock
+ruvector.db
+*.rvf
+*.rvf.lock
