@@ -3,13 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Special+Elite&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;600&family=Cinzel:wght@400;600&family=IM+Fell+English:ital@0;1&family=Special+Elite&display=swap" rel="stylesheet">
 <style>
   @page {
     size: 80mm 10000mm;
     margin: 4mm 3mm;
   }
   * { box-sizing: border-box; }
+
+  /* ── Base ── */
   body {
     font-family: 'IM Fell English', Georgia, serif;
     font-size: 9pt;
@@ -19,6 +21,8 @@
     padding: 0;
     color: #000;
   }
+
+  /* ── Prop container ── */
   .prop {
     border-top: 1px dashed #000;
     padding-top: 4mm;
@@ -26,6 +30,8 @@
     page-break-inside: avoid;
   }
   .prop:first-child { border-top: none; margin-top: 0; }
+
+  /* ── Prop title ── Special Elite for catalog neutrality */
   .prop-title {
     font-family: 'Special Elite', 'Courier New', monospace;
     font-size: 7.5pt;
@@ -36,61 +42,155 @@
     border-bottom: 1px solid #000;
     padding-bottom: 1mm;
   }
+
+  /* ── Prop label — physical description ── */
   .prop-label {
-    font-size: 7pt;
-    color: #555;
-    margin-bottom: 1.5mm;
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 7.5pt;
+    color: #333;
+    margin-bottom: 2mm;
+    font-style: italic;
+    line-height: 1.45;
+  }
+
+  /* ── Default blockquote — aged manuscript ── */
+  blockquote {
+    font-family: 'IM Fell English', Georgia, serif;
+    margin: 1.5mm 0 1.5mm 3mm;
+    padding-left: 2mm;
+    border-left: 2px solid #aaa;
+    font-style: italic;
+    font-size: 9pt;
+    line-height: 1.45;
+  }
+
+  /* ── Handwritten — personal notes, journals ── */
+  .handwritten blockquote,
+  .handwritten p.text {
+    font-family: 'Caveat', cursive;
+    font-size: 11pt;
+    line-height: 1.5;
+    font-style: normal;
+    border-left-color: #777;
+  }
+
+  /* ── Ritual / formal — Corven documents, colophon ── */
+  .ritual blockquote,
+  .ritual p.text {
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 9pt;
     font-style: italic;
   }
+  .ritual .colophon-title {
+    font-family: 'Cinzel', 'Trajan Pro', serif;
+    font-size: 8pt;
+    letter-spacing: 0.12em;
+    text-align: center;
+    line-height: 1.7;
+    margin-bottom: 2mm;
+  }
+  .ritual .colophon-body {
+    font-family: 'IM Fell English', Georgia, serif;
+    font-size: 8pt;
+    font-style: italic;
+    text-align: center;
+    color: #333;
+    line-height: 1.6;
+  }
+  .ritual .signatures {
+    font-family: 'Cinzel', serif;
+    font-size: 9pt;
+    letter-spacing: 0.15em;
+    text-align: center;
+    margin: 2mm 0;
+  }
+
+  /* ── Cipher / machine — operational docs, star charts ── */
+  .machine pre,
+  .machine .cipher-block {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 8pt;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+  }
+  .machine blockquote {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-style: normal;
+    font-size: 8pt;
+    border-left-color: #555;
+  }
+
+  /* ── Cipher display (Fragment II) ── */
+  .cipher-symbols {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 10pt;
+    text-align: center;
+    letter-spacing: 0.12em;
+    line-height: 2;
+    margin: 2mm 0;
+  }
+
+  /* ── Shared utilities ── */
   pre {
     font-family: 'Special Elite', 'Courier New', monospace;
-    font-size: 7.5pt;
+    font-size: 8pt;
     white-space: pre-wrap;
     overflow-wrap: break-word;
     margin: 0;
     padding: 0;
   }
-  blockquote {
-    margin: 1.5mm 0 1.5mm 3mm;
-    padding-left: 2mm;
-    border-left: 2px solid #aaa;
-    font-style: italic;
-  }
   p { margin: 0 0 1.5mm 0; }
+  .small { font-size: 7.5pt; }
+  .label-sm {
+    font-family: 'Special Elite', monospace;
+    font-size: 7pt;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #555;
+    margin: 1.5mm 0 0.5mm;
+  }
+  .rule { border: none; border-top: 1px solid #999; margin: 2mm 0; }
   .tear { text-align: center; color: #bbb; margin: 3mm 0; font-size: 7pt; }
+
   .stars {
     font-family: 'Special Elite', 'Courier New', monospace;
     text-align: center;
-    line-height: 1.6;
-    font-size: 8pt;
-  }
-  .small { font-size: 7.5pt; }
-  .cipher {
-    font-family: 'Special Elite', 'Courier New', monospace;
-    font-size: 9pt;
     line-height: 1.8;
-    text-align: center;
-    letter-spacing: 0.1em;
-    margin: 1.5mm 0;
+    font-size: 8.5pt;
+    margin: 1mm 0;
   }
 </style>
 </head>
 <body>
 
-<!-- EDORAN'S NOTES -->
+<!-- ══════════════════════════════════════ -->
+<!-- EDORAN'S SEALED NOTE                  -->
+<!-- ══════════════════════════════════════ -->
 
-<div class="prop">
-  <div class="prop-title">Sealed Note — Edoran's Coat</div>
-  <div class="prop-label">Found on the Restorer leader. Amber wax, broken.</div>
+<div class="prop handwritten">
+  <div class="prop-title">Sealed Note — found in coat pocket</div>
+  <div class="prop-label">A folded sheet of paper sealed with dark red wax. The seal is a circle
+  with a small sun pressed into the centre — a mark you do not recognise. The wax is already
+  broken, as if opened before you found it. Inside, the handwriting is neat and controlled,
+  the kind learned by repetition. Auris seminary script.</div>
   <blockquote>
     The willing heart gives freely what the bound heart cannot.
   </blockquote>
-  <p class="small">Auris scripture, written in his hand.</p>
+  <p class="small">Auris scripture, in the writer's own hand.</p>
 </div>
 
-<div class="prop">
-  <div class="prop-title">Scrap — Edoran's Coat (second pocket)</div>
-  <div class="prop-label">Folded small. Never delivered.</div>
+<!-- ══════════════════════════════════════ -->
+<!-- EDORAN'S UNDELIVERED SCRAP            -->
+<!-- ══════════════════════════════════════ -->
+
+<div class="prop handwritten">
+  <div class="prop-title">Scrap — second coat pocket</div>
+  <div class="prop-label">A torn scrap from a larger sheet, tucked into a second pocket. The
+  handwriting is neat, precise, and controlled — an educated hand. No seal, no address. This
+  was never sent.</div>
   <blockquote>
     You have no idea what you are looking for.<br>
     When you find it, you will understand why I did not want you to.
@@ -98,11 +198,15 @@
   <p class="small">Unsigned.</p>
 </div>
 
-<!-- DAWNMARK STAR MAP -->
+<!-- ══════════════════════════════════════ -->
+<!-- DAWNMARK STAR MAP                     -->
+<!-- ══════════════════════════════════════ -->
 
-<div class="prop">
-  <div class="prop-title">Dawnmark Constellation</div>
-  <div class="prop-label">Star chart. Varenhold Astronomical Registry, Year 3 P.R.</div>
+<div class="prop machine">
+  <div class="prop-title">Star Chart — Dawnmark Constellation</div>
+  <div class="prop-label">A printed chart on stiff paper. Header reads: Varenhold Astronomical
+  Registry, Year 3 P.R. Five stars of one constellation are circled in pencil. A handwritten
+  note beneath the circle reads: "overhead at 02:14, Year 48."</div>
 <pre class="stars">
         * Warden's Star
        /
@@ -114,21 +218,21 @@
               /
 * Trailing Light
 </pre>
-  <p class="small">
-    Five stars of the Dawnmark. Last seen rising in full<br>
-    sequence the night before the Silence.<br>
-    <br>
-    The Pale Fisher rises first.<br>
-    The Trailing Light sets last.<br>
-    Order matters. It always mattered.
-  </p>
+  <p class="small">The Pale Fisher rises first.<br>
+  The Trailing Light sets last.<br>
+  Order matters. It always mattered.</p>
 </div>
 
-<!-- THREE PARCHMENT SLIPS -->
+<!-- ══════════════════════════════════════ -->
+<!-- THREE PARCHMENT SLIPS                 -->
+<!-- ══════════════════════════════════════ -->
 
-<div class="prop">
-  <div class="prop-title">Parchment Slip I</div>
-  <div class="prop-label">Small, folded. Creases deep as scars.</div>
+<div class="prop ritual">
+  <div class="prop-title">Parchment Slip — I</div>
+  <div class="prop-label">A small square of aged parchment, folded tight. The creases are deep
+  and worn smooth — this has been folded and unfolded many times over many years. The
+  handwriting is neat and even, ink dark and well-preserved. Academic in style; someone
+  trained to write carefully.</div>
   <blockquote>
     The Dawnmark rises when the anchor holds.
     The vessel must be willing.
@@ -136,9 +240,11 @@
   </blockquote>
 </div>
 
-<div class="prop">
-  <div class="prop-title">Parchment Slip II</div>
-  <div class="prop-label">Same hand. Slightly different ink. Written at a different time.</div>
+<div class="prop ritual">
+  <div class="prop-title">Parchment Slip — II</div>
+  <div class="prop-label">A second small square of parchment, near-identical in size to the
+  first. Neat, precise handwriting — a controlled academic style. The ink is slightly lighter
+  than the first slip, as if this was written on a different day, with a fresher quill.</div>
   <blockquote>
     Ask the archivist what lives within the amber light.
     The answer is not in the records.
@@ -146,9 +252,11 @@
   </blockquote>
 </div>
 
-<div class="prop">
-  <div class="prop-title">Parchment Slip III</div>
-  <div class="prop-label">Same handwriting. Parchment feels different; recopied.</div>
+<div class="prop ritual">
+  <div class="prop-title">Parchment Slip — III</div>
+  <div class="prop-label">A third slip, matching the others in size. The handwriting is the
+  same careful, controlled style. The parchment itself feels different — lighter, slightly
+  stiffer than the others. This copy was made more recently.</div>
   <blockquote>
     Every third scholar agreed: the Dawnborn are the mechanism.
     The energy lives in willing vessels.
@@ -156,40 +264,50 @@
   </blockquote>
 </div>
 
-<!-- COLOPHON -->
+<!-- ══════════════════════════════════════ -->
+<!-- COLOPHON                              -->
+<!-- ══════════════════════════════════════ -->
 
-<div class="prop">
-  <div class="prop-title">Colophon — Corven's Final Notation</div>
-  <div class="prop-label">Outer document of recovered Archive bundles.</div>
-<pre>
-RITUAL OF ETERNAL DAWN
-FINAL NOTATION
+<div class="prop ritual">
+  <div class="prop-title">Colophon — outer cover of Archive bundle</div>
+  <div class="prop-label">The outer cover page of a recovered bundle of documents. Heavy paper
+  stamped with an Archive filing mark. The document content is listed as restricted. Three
+  signatures appear at the bottom, in different hands, as if each person signed in turn.</div>
 
-Archmagister Corven
-Year 0 P.R. (the night of the ritual)
-
-[Document content — restricted]
-
-────────────────────────────
-WITNESSED AND ATTESTED:
-
-  CORVEN  ·  SALI  ·  WREN
-
-In the order of our signatures.
-In the order we understood.
-
-[Three signatures. The first bold,
- the second precise, the third rushed,
- as if written while something else
- was already happening.]
-</pre>
+  <div class="colophon-title">
+    RITUAL OF ETERNAL DAWN<br>
+    FINAL NOTATION
+  </div>
+  <div class="colophon-body">
+    Archmagister Corven<br>
+    Year 0 P.R. — the night of the ritual<br>
+    <br>
+    [Document content — restricted]
+  </div>
+  <hr class="rule">
+  <div class="colophon-body">Witnessed and attested:</div>
+  <div class="signatures">CORVEN &nbsp;·&nbsp; SALI &nbsp;·&nbsp; WREN</div>
+  <div class="colophon-body">
+    In the order of our signatures.<br>
+    In the order we understood.<br>
+    <br>
+    [The first signature is bold. The second is precise.<br>
+    The third is rushed, as if written while<br>
+    something else was already happening.]
+  </div>
 </div>
 
-<!-- CORVEN'S NOTES — RESONANCE BOX -->
+<!-- ══════════════════════════════════════ -->
+<!-- CORVEN'S NOTES — RESONANCE BOX        -->
+<!-- ══════════════════════════════════════ -->
 
-<div class="prop">
-  <div class="prop-title">Corven's Notes — from the Resonance Box</div>
-  <div class="prop-label">Four pages. Handwriting steady, then compressed. Page 3:</div>
+<div class="prop ritual">
+  <div class="prop-title">Four pages — from the Resonance Box</div>
+  <div class="prop-label">Four pages in a dense scholar's hand. The writing is steady and
+  measured for the first two pages. On the third page it becomes smaller, more compressed, as
+  if the writer was running out of room — or time. A fourth page is nearly blank.</div>
+
+  <p class="small">[Page 3:]</p>
   <blockquote>
     The anchors are not lost. The light did not die.
     It redistributed into ten living vessels born at
@@ -204,29 +322,38 @@ In the order we understood.
     philosophical observation. It is an engineering
     specification.
   </blockquote>
-  <p class="small">[Page 4, blank except for one line:]</p>
+  <p class="small">[Page 4, one line only:]</p>
   <blockquote>
     No one should be forced.
   </blockquote>
 </div>
 
-<!-- FRAGMENT II -->
+<!-- ══════════════════════════════════════ -->
+<!-- FRAGMENT II                           -->
+<!-- ══════════════════════════════════════ -->
 
-<div class="prop">
+<div class="prop ritual">
   <div class="prop-title">Fragment II — Notation Key (Section II of III)</div>
-  <div class="prop-label">Found inside the Resonance Box. Same size as Fragment I.</div>
-  <p class="small">KEY:</p>
+  <div class="prop-label">A single sheet of stiff paper. One side has a table of geometric
+  symbols with letter correspondences, laid out in a precise grid — a meticulous,
+  controlled hand. The other side has two rows of symbols followed by two short paragraphs
+  of plain text. The paper is the same weight and size as another document you may have
+  found in the Archive.</div>
+
+  <p class="label-sm">Key (one side):</p>
 <pre>
 ⊕=W  ⊗=A  ⊙=C  △=D  ▽=F
 ▲=O  ▼=U  □=M  ■=P  ▪=V  ▸=Y
 [Section III carries remaining symbols]
 </pre>
-  <p class="small">CIPHER:</p>
-  <div class="cipher">
-    ✦◇◈  ⊕⬠⬟⬟⬠⬡◆  ▪◈◎◎◈⬟<br>
-    ⬠◎  ✦◇◈  □◈⊙◇⊗⬡⬠◎□
+
+  <p class="label-sm">Cipher (other side):</p>
+  <div class="cipher-symbols">
+    ✦◇◈ &nbsp; ⊕⬠⬟⬟⬠⬡◆ &nbsp; ▪◈◎◎◈⬟<br>
+    ⬠◎ &nbsp; ✦◇◈ &nbsp; □◈⊙◇⊗⬡⬠◎□
   </div>
-  <p class="small">NOTES (reverse):</p>
+
+  <p class="label-sm">Notes (below cipher):</p>
   <blockquote>
     The vessel is not the container. The vessel is the
     carrier. The distinction is the mechanism.
@@ -238,27 +365,30 @@ In the order we understood.
   </blockquote>
 </div>
 
-<!-- THERON'S JOURNAL -->
+<!-- ══════════════════════════════════════ -->
+<!-- THERON'S JOURNAL                      -->
+<!-- ══════════════════════════════════════ -->
 
-<div class="prop">
-  <div class="prop-title">Theron's Journal — Day 4,017</div>
-  <div class="prop-label">Small leather journal, well-worn. Open to a recent entry.</div>
+<div class="prop handwritten">
+  <div class="prop-title">Personal Journal — Day 4,017</div>
+  <div class="prop-label">A small leather journal. The corners of the cover are worn smooth
+  from years of handling. Inside, entries are numbered by day. Open to the most recent. The
+  handwriting is careful but tired.</div>
   <blockquote>
     Day 4,017. Still counting. Still unable to tell them.<br>
     <br>
     The mathematics of love and duty: I know the answer,
     and I cannot say it aloud. The day I found out. That
-    was the day I should have gone to them immediately.
-    I told myself I needed more time. That was 4,017
-    days ago.<br>
+    was the day I should have gone to them. I told myself
+    I needed more time. That was 4,017 days ago.<br>
     <br>
     What kind of scholar am I?<br>
     <br>
     The Aldwyne family wrote again from Solenne. The
     younger son. He found my address somehow. He wanted
-    to know if I had ever found what I was "close to
-    understanding." He doesn't know what he's asking.
-    He doesn't know that his father and sister are dead
+    to know if I had found what I was "close to
+    understanding." He does not know what he is asking.
+    He does not know that his father and sister are dead
     because I said I was close.<br>
     <br>
     I did not write back.<br>
@@ -267,11 +397,15 @@ In the order we understood.
   </blockquote>
 </div>
 
-<!-- RECKONING GUARD ORDERS -->
+<!-- ══════════════════════════════════════ -->
+<!-- RECKONING GUARD ORDERS                -->
+<!-- ══════════════════════════════════════ -->
 
-<div class="prop">
-  <div class="prop-title">Reckoning Guard Orders</div>
-  <div class="prop-label">Found on any downed Reckoning operative.</div>
+<div class="prop machine">
+  <div class="prop-title">Operational Order — found on operative</div>
+  <div class="prop-label">A folded sheet found on a downed Reckoning operative. Written in a
+  clean, efficient hand used to taking orders and giving them. No wax seal. No identifying
+  marks other than the heading. The ink is fresh.</div>
 <pre>
 RECKONING OPERATIONAL ORDER
 VARENHOLD ARCHIVE

@@ -4,14 +4,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Corven's Notation Decoder — The Price of Dawn</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=IM+Fell+English:ital@0;1&family=Special+Elite&display=swap" rel="stylesheet">
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
-  background: #09080500;
-  background-color: #09080500;
+  background-color: #0a0805;
   min-height: 100vh;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Special Elite', 'Courier New', Courier, monospace;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,7 +28,7 @@ body::before {
   position: fixed;
   inset: 0;
   background:
-    radial-gradient(ellipse 60% 40% at 50% 20%, #1a110400 0%, #09080500 100%),
+    radial-gradient(ellipse 60% 40% at 50% 20%, #1a1104 0%, #0a0805 100%),
     #0a0805;
   z-index: -1;
 }
@@ -46,25 +47,27 @@ body::before {
 }
 
 h1 {
-  font-size: 0.75rem;
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.3em;
-  color: #4a3a18;
+  color: #a07840;
   text-align: center;
 }
 
 .subtitle {
-  font-size: 0.6rem;
+  font-family: 'Cinzel', serif;
+  font-size: 0.65rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #2d2210;
+  color: #6a5028;
   text-align: center;
   margin-top: -1.2rem;
 }
 
 .instructions {
-  font-size: 0.6rem;
-  color: #2d2210;
+  font-size: 0.65rem;
+  color: #6a5028;
   letter-spacing: 0.1em;
   text-align: center;
   text-transform: uppercase;
@@ -81,13 +84,13 @@ h1 {
 }
 
 .fragment-card {
-  border: 1px solid #1e1808;
+  border: 1px solid #3d3018;
   padding: 1rem 1.1rem;
   cursor: pointer;
   width: 210px;
   transition: border-color 0.5s, box-shadow 0.5s, background 0.5s;
   user-select: none;
-  background: #0c0a06;
+  background: #110e07;
   position: relative;
 }
 
@@ -105,7 +108,7 @@ h1 {
 }
 
 .fragment-card:hover {
-  border-color: #3d2e12;
+  border-color: #6a5028;
 }
 
 .fragment-card.active {
@@ -117,17 +120,17 @@ h1 {
   font-size: 0.55rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #2d2210;
+  color: #6a5028;
   margin-bottom: 0.4rem;
   transition: color 0.5s;
 }
-.fragment-card.active .f-label { color: #6a5028; }
+.fragment-card.active .f-label { color: #9a7840; }
 
 .f-title {
-  font-size: 0.8rem;
-  color: #3d2e12;
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  color: #7a6030;
   margin-bottom: 0.8rem;
-  font-weight: bold;
   letter-spacing: 0.05em;
   transition: color 0.5s;
 }
@@ -135,28 +138,28 @@ h1 {
 
 .f-symbols {
   font-size: 1.1rem;
-  color: #1e1808;
+  color: #6a5828;
   letter-spacing: 0.15em;
   line-height: 2;
   transition: color 0.5s;
 }
-.fragment-card.active .f-symbols { color: #5a4020; }
+.fragment-card.active .f-symbols { color: #a07840; }
 
 .f-mappings {
   font-size: 0.6rem;
-  color: #1e1808;
+  color: #5a4820;
   margin-top: 0.5rem;
   line-height: 1.7;
   transition: color 0.5s;
 }
-.fragment-card.active .f-mappings { color: #5a4020; }
+.fragment-card.active .f-mappings { color: #9a7840; }
 
 .f-status {
   margin-top: 0.7rem;
   font-size: 0.55rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #1e1808;
+  color: #4a3a18;
   transition: color 0.5s;
 }
 .fragment-card.active .f-status { color: #c8963e; }
@@ -166,7 +169,7 @@ h1 {
   max-width: 700px;
   width: 100%;
   height: 1px;
-  background: #1a1508;
+  background: #3a3018;
   position: relative;
 }
 
@@ -182,19 +185,20 @@ h1 {
 .cipher-container {
   max-width: 700px;
   width: 100%;
-  border: 1px solid #1a1508;
-  background: #080702;
+  border: 1px solid #3d3018;
+  background: #0c0a05;
   padding: 2rem 2rem 1.5rem;
 }
 
 .cipher-header {
-  font-size: 0.55rem;
+  font-family: 'Cinzel', serif;
+  font-size: 0.6rem;
   letter-spacing: 0.2em;
-  color: #2d2210;
+  color: #6a5028;
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 1.8rem;
-  border-bottom: 1px solid #1a1508;
+  border-bottom: 1px solid #3d3018;
   padding-bottom: 0.8rem;
 }
 
@@ -211,7 +215,7 @@ h1 {
   display: inline-block;
   min-width: 0.85em;
   text-align: center;
-  color: #242010;
+  color: #5a4a20;
   transition: color 0.5s ease, text-shadow 0.5s ease;
 }
 
@@ -220,7 +224,7 @@ h1 {
 }
 
 .glyph.punct {
-  color: #3d3018;
+  color: #8a7030;
   min-width: 0.35em;
   font-size: 1rem;
   vertical-align: middle;
@@ -249,25 +253,26 @@ h1 {
 .decoded-container {
   max-width: 700px;
   width: 100%;
-  border: 1px solid #1a1508;
+  border: 1px solid #3d3018;
   padding: 1.2rem 2rem;
-  background: #07060200;
-  background-color: #07060200;
+  background: #0c0a05;
 }
 
 .decoded-header {
+  font-family: 'Cinzel', serif;
   font-size: 0.55rem;
   letter-spacing: 0.2em;
-  color: #2d2210;
+  color: #6a5028;
   text-transform: uppercase;
   margin-bottom: 0.8rem;
-  border-bottom: 1px solid #1a1508;
+  border-bottom: 1px solid #3d3018;
   padding-bottom: 0.6rem;
 }
 
 .decoded-text {
-  font-size: 0.85rem;
-  color: #4a3a18;
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 0.9rem;
+  color: #8a7040;
   line-height: 2;
   white-space: pre-line;
   letter-spacing: 0.08em;
@@ -283,8 +288,8 @@ h1 {
 /* ── Reset button ── */
 .reset-btn {
   background: transparent;
-  border: 1px solid #1e1808;
-  color: #2d2210;
+  border: 1px solid #3d3018;
+  color: #6a5028;
   font-family: inherit;
   font-size: 0.6rem;
   letter-spacing: 0.2em;
@@ -294,8 +299,8 @@ h1 {
   transition: border-color 0.3s, color 0.3s;
 }
 .reset-btn:hover {
-  border-color: #3d2e12;
-  color: #5a4020;
+  border-color: #6a5028;
+  color: #9a7840;
 }
 
 /* ── Complete message ── */
@@ -303,17 +308,18 @@ h1 {
   max-width: 700px;
   width: 100%;
   text-align: center;
-  font-size: 0.65rem;
-  letter-spacing: 0.15em;
+  font-family: 'IM Fell English', Georgia, serif;
+  font-style: italic;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
   color: #1e1808;
-  text-transform: uppercase;
   transition: color 1s, text-shadow 1s;
   padding: 0.5rem;
 }
 
 .complete-message.visible {
-  color: #8a6a2e;
-  text-shadow: 0 0 20px #c8963e33;
+  color: #c8963e;
+  text-shadow: 0 0 20px #c8963e44;
 }
 
 </style>
