@@ -6,6 +6,9 @@ project:
     - cipher-game.html
     - cipher-manuscript.html
     - fragment-decoder.html
+    - handouts-session2-thermal.pdf
+    - ritual-notation-prop.pdf
+    - elder-futhark-ref.pdf
 
 book:
   title: "The Price of Dawn"
