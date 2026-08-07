@@ -1,0 +1,1147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Cipher of Eternal Dawn — An Interactive Puzzle</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=IM+Fell+English:ital@0;1&family=Special+Elite&family=Caveat:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0805;
+  --bg-warm: #110e07;
+  --parchment: #fdf8ee;
+  --ink: #1a1208;
+  --ink-warm: #2a1e0a;
+  --amber: #c8963e;
+  --amber-dim: #a07840;
+  --amber-pale: #e8c87e;
+  --rust: #8a5020;
+  --green-ink: #2d4030;
+  --blue-ink: #1a2d4a;
+  --border: #3d3018;
+  --border-light: #6a5028;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  background-color: var(--bg);
+  min-height: 100vh;
+  font-family: 'Special Elite', 'Courier New', Courier, monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1rem 4rem;
+  gap: 1.5rem;
+  position: relative;
+  overflow-x: hidden;
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+/* Atmospheric background */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 60% 40% at 50% 20%, #1a1104 0%, var(--bg) 100%),
+    var(--bg);
+  z-index: -1;
+}
+
+.page-glow {
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e00 0%, transparent 70%);
+  z-index: -1;
+  transition: background 1.5s ease;
+  pointer-events: none;
+}
+.page-glow.all-fragments {
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e08 0%, transparent 70%);
+}
+
+/* ── Header ── */
+.header {
+  text-align: center;
+  max-width: 800px;
+  padding: 0 1rem;
+}
+
+.game-title {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(1.2rem, 4vw, 1.8rem);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+  color: var(--amber);
+  margin-bottom: 0.5rem;
+  text-shadow: 0 0 20px #c8963e33;
+}
+
+.game-subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(0.6rem, 2vw, 0.8rem);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--amber-dim);
+  margin-bottom: 1rem;
+}
+
+.game-tagline {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-style: italic;
+  font-size: clamp(0.85rem, 2.5vw, 1rem);
+  color: var(--amber-pale);
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* ── Progress Track ── */
+.progress-track {
+  max-width: 800px;
+  width: 100%;
+  height: 2px;
+  background: var(--border);
+  position: relative;
+  border-radius: 1px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(to right, var(--amber-dim), var(--amber));
+  width: 0%;
+  transition: width 0.8s ease;
+  box-shadow: 0 0 8px var(--amber);
+}
+
+.progress-markers {
+  display: flex;
+  justify-content: space-between;
+  max-width: 800px;
+  width: 100%;
+  padding-top: 0.5rem;
+  font-family: 'Special Elite', monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--border-light);
+}
+.progress-markers span.active { color: var(--amber); }
+
+/* ── Fragment Cards ── */
+.fragments-row {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 900px;
+  padding: 0 1rem;
+}
+
+.fragment-card {
+  border: 1px solid var(--border);
+  padding: 1.2rem 1.5rem;
+  cursor: pointer;
+  width: 260px;
+  min-height: 320px;
+  transition: border-color 0.4s, box-shadow 0.4s, background 0.4s, transform 0.3s;
+  user-select: none;
+  background: var(--bg-warm);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+}
+.fragment-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e00 0%, transparent 80%);
+  pointer-events: none;
+  transition: background 0.6s ease;
+  border-radius: 4px;
+}
+.fragment-card:hover {
+  border-color: var(--border-light);
+  transform: translateY(-2px);
+}
+.fragment-card.active {
+  border-color: var(--amber);
+  box-shadow: 0 0 30px #c8963e22, 0 0 80px #c8963e0a;
+}
+.fragment-card.active::after {
+  background: radial-gradient(ellipse 80% 60% at 50% 20%, #c8963e0c 0%, transparent 80%);
+}
+.fragment-card.completed {
+  border-color: var(--amber);
+  background: linear-gradient(135deg, var(--bg-warm) 0%, #141008 100%);
+}
+
+.f-label {
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--border-light);
+  margin-bottom: 0.4rem;
+  transition: color 0.4s;
+}
+.fragment-card.active .f-label,
+.fragment-card.completed .f-label { color: var(--amber); }
+
+.f-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.8rem;
+  color: var(--amber-dim);
+  margin-bottom: 0.3rem;
+  letter-spacing: 0.05em;
+  transition: color 0.4s;
+}
+.fragment-card.active .f-title,
+.fragment-card.completed .f-title { color: var(--amber); }
+
+.f-location {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 0.7rem;
+  font-style: italic;
+  color: var(--rust);
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}
+
+.f-symbols {
+  font-size: 1.1rem;
+  color: var(--amber-dim);
+  letter-spacing: 0.15em;
+  line-height: 2;
+  transition: color 0.4s;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.fragment-card.active .f-symbols,
+.fragment-card.completed .f-symbols { color: var(--amber-pale); }
+
+.f-mappings {
+  font-size: 0.6rem;
+  color: var(--border-light);
+  margin-top: 0.5rem;
+  line-height: 1.7;
+  transition: color 0.4s;
+}
+.fragment-card.active .f-mappings,
+.fragment-card.completed .f-mappings { color: var(--amber-dim); }
+
+.f-status {
+  margin-top: 0.7rem;
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--border);
+  transition: color 0.4s;
+}
+.fragment-card.active .f-status { color: var(--amber); }
+.fragment-card.completed .f-status { color: var(--amber-pale); }
+
+/* ── Decoder Panel ── */
+.decoder-panel {
+  max-width: 900px;
+  width: 100%;
+  padding: 0 1rem;
+  display: none;
+}
+.decoder-panel.visible { display: block; }
+
+.decoder-header {
+  font-family: 'Cinzel', serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  color: var(--amber-dim);
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.8rem;
+}
+
+.decoder-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .decoder-grid { grid-template-columns: 1fr; }
+}
+
+/* ── Cipher Display ── */
+.cipher-section {
+  border: 1px solid var(--border);
+  background: var(--bg-warm);
+  padding: 1.5rem;
+  border-radius: 4px;
+  min-height: 300px;
+}
+
+.cipher-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  color: var(--amber);
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.cipher-lines {
+  font-family: 'Special Elite', monospace;
+  font-size: clamp(1rem, 2.5vw, 1.3rem);
+  letter-spacing: 0.08em;
+  line-height: 2;
+  text-align: center;
+  color: var(--ink-warm);
+}
+
+.cipher-line {
+  margin: 0.5rem 0;
+  min-height: 2.5rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.1em;
+}
+
+.glyph {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1em;
+  text-align: center;
+  color: var(--ink-warm);
+  transition: color 0.4s ease, text-shadow 0.4s ease, transform 0.3s ease;
+  cursor: default;
+}
+.glyph.space { min-width: 0.5em; }
+.glyph.punct { color: var(--rust); min-width: 0.4em; font-size: 0.85em; }
+
+.glyph.locked {
+  color: var(--border-light);
+}
+.glyph.revealed {
+  color: var(--amber);
+  text-shadow: 0 0 10px #c8963e55;
+  animation: revealChar 0.5s ease forwards;
+}
+.glyph.revealed.instant { animation: none; }
+
+@keyframes revealChar {
+  0%   { opacity: 0; transform: translateY(-4px) scaleY(0.7); color: #c8963ecc; text-shadow: 0 0 20px #c8963eaa; }
+  60%  { opacity: 1; transform: translateY(1px) scaleY(1.05); }
+  100% { opacity: 1; transform: translateY(0) scaleY(1); color: var(--amber); text-shadow: 0 0 8px #c8963e44; }
+}
+
+.cipher-section.full-reveal .glyph.revealed {
+  animation: none;
+  color: var(--amber-pale);
+  text-shadow: 0 0 14px #c8963e88;
+}
+
+/* ── Decoded Text Panel ── */
+.decoded-section {
+  border: 1px solid var(--border);
+  background: var(--bg-warm);
+  padding: 1.5rem;
+  border-radius: 4px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+}
+
+.decoded-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.15em;
+  color: var(--amber);
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.decoded-text {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: clamp(0.9rem, 2vw, 1.05rem);
+  color: var(--amber-dim);
+  line-height: 2;
+  white-space: pre-wrap;
+  letter-spacing: 0.06em;
+  transition: color 0.8s, text-shadow 0.8s;
+  flex-grow: 1;
+  overflow-y: auto;
+}
+.decoded-text.full {
+  color: var(--amber-pale);
+  text-shadow: 0 0 30px #c8963e22;
+}
+
+/* ── Hints Panel ── */
+.hints-panel {
+  max-width: 900px;
+  width: 100%;
+  padding: 0 1rem;
+  margin-top: 1rem;
+}
+
+.hints-header {
+  font-family: 'Cinzel', serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  color: var(--amber-dim);
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.5rem;
+}
+
+.hints-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.hint-card {
+  border: 1px solid var(--border);
+  background: var(--bg-warm);
+  padding: 1rem 1.2rem;
+  border-radius: 4px;
+  transition: border-color 0.3s, background 0.3s;
+}
+.hint-card:hover {
+  border-color: var(--border-light);
+  background: #141008;
+}
+.hint-card.locked {
+  opacity: 0.5;
+  pointer-events: none;
+}
+.hint-card.unlocked {
+  border-color: var(--amber-dim);
+}
+
+.hint-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.hint-title::before {
+  content: '◆';
+  font-size: 0.7rem;
+  color: var(--amber-dim);
+}
+.hint-card.unlocked .hint-title::before { color: var(--amber); }
+
+.hint-text {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--amber-dim);
+  line-height: 1.6;
+}
+.hint-card.unlocked .hint-text { color: var(--amber-pale); }
+
+.hint-lock {
+  font-family: 'Special Elite', monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--border);
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+/* ── Complete Message ── */
+.complete-message {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+  font-family: 'IM Fell English', Georgia, serif;
+  font-style: italic;
+  font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+  letter-spacing: 0.08em;
+  color: transparent;
+  transition: color 1s, text-shadow 1s;
+  padding: 1.5rem;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background: transparent;
+}
+.complete-message.visible {
+  color: var(--amber-pale);
+  text-shadow: 0 0 20px #c8963e44;
+  border-color: var(--amber);
+  background: rgba(200, 150, 62, 0.05);
+}
+
+/* ── Action Buttons ── */
+.actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+  width: 100%;
+  padding: 0 1rem;
+  margin-top: 1rem;
+}
+
+.btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--amber-dim);
+  font-family: 'Special Elite', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 0.7rem 1.8rem;
+  cursor: pointer;
+  transition: border-color 0.3s, color 0.3s, background 0.3s;
+  border-radius: 2px;
+}
+.btn:hover {
+  border-color: var(--amber);
+  color: var(--amber);
+  background: rgba(200, 150, 62, 0.1);
+}
+.btn:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 2px;
+}
+.btn.primary {
+  border-color: var(--amber);
+  color: var(--amber);
+  background: rgba(200, 150, 62, 0.15);
+}
+.btn.primary:hover {
+  background: rgba(200, 150, 62, 0.25);
+}
+.btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* ── Intro Modal ── */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 1rem;
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+.modal-overlay.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.modal {
+  background: var(--bg-warm);
+  border: 1px solid var(--amber);
+  border-radius: 4px;
+  padding: 2.5rem;
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 0 60px #c8963e22;
+  animation: modalIn 0.6s ease;
+}
+
+@keyframes modalIn {
+  from { opacity: 0; transform: translateY(20px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.modal-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--amber);
+  margin-bottom: 1rem;
+}
+.modal-text {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 1rem;
+  color: var(--amber-pale);
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+.modal-note {
+  font-family: 'Special Elite', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  color: var(--border-light);
+  margin-bottom: 2rem;
+  line-height: 1.5;
+}
+
+/* ── Footer ── */
+.footer {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+  padding-top: 2rem;
+  font-family: 'Special Elite', monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--border);
+  border-top: 1px solid var(--border);
+  margin-top: 2rem;
+}
+.footer a { color: var(--amber-dim); text-decoration: none; }
+.footer a:hover { color: var(--amber); }
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--border-light); }
+
+/* ── Print styles ── */
+@media print {
+  .modal-overlay, .hints-panel, .actions, .footer, .progress-track, .progress-markers { display: none !important; }
+  .decoder-panel { display: block !important; }
+  .fragment-card { break-inside: avoid; }
+  body { background: white; }
+  .page-glow { display: none; }
+  .cipher-section, .decoded-section { border: 1px solid #000; background: white; }
+  .glyph.revealed { color: #000; text-shadow: none; }
+  .decoded-text { color: #000; text-shadow: none; }
+}
+</style>
+</head>
+<body>
+
+<div class="page-glow" id="pageGlow"></div>
+
+<!-- Modal Intro -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-title">The Cipher of Eternal Dawn</div>
+    <div class="modal-text">
+      "The willing heart gives freely what the bound heart cannot."
+    </div>
+    <div class="modal-text" style="font-size:0.9rem; margin-top:1rem;">
+      You have recovered three fragments of Archmagister Corven's notation system. 
+      Each fragment holds a piece of the key. Together, they reveal the Ritual of Eternal Dawn — 
+      and the terrible choice at its center.
+    </div>
+    <div class="modal-note">
+      Click each fragment card as you recover it in the campaign.<br>
+      The cipher will decode progressively. Hints unlock as you progress.<br>
+      <strong>All three fragments are required to read the full truth.</strong>
+    </div>
+    <button class="btn primary" onclick="closeModal()">Begin Decoding</button>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="header">
+  <h1 class="game-title">The Cipher of Eternal Dawn</h1>
+  <div class="game-subtitle">An Interactive Puzzle &nbsp;·&nbsp; Three Fragments &nbsp;·&nbsp; One Truth</div>
+  <div class="game-tagline">
+    <em>"The anchors are not lost. The light did not die.<br>
+    It redistributed into ten living vessels born at the moment of inversion.<br>
+    The ritual is incomplete, not failed. The completion requires their release."</em>
+  </div>
+</header>
+
+<!-- Progress Track -->
+<div class="progress-track">
+  <div class="progress-fill" id="progressFill"></div>
+</div>
+<div class="progress-markers">
+  <span id="marker1" class="active">Fragment I</span>
+  <span id="marker2">Fragment II</span>
+  <span id="marker3">Fragment III</span>
+</div>
+
+<!-- Fragment Cards -->
+<div class="fragments-row">
+  
+  <!-- Fragment I -->
+  <div class="fragment-card" id="card-1" onclick="toggleFragment(1)" role="button" tabindex="0" aria-label="Fragment I - Section I of III">
+    <div class="f-label">Notation Reference</div>
+    <div class="f-title">Section I &nbsp;·&nbsp; of III</div>
+    <div class="f-location">Recovered: Resonance Box, Session 1<br>Brass cylinder, etched symbols</div>
+    <div class="f-symbols">
+      ✦ ◈ ⬡ ⬟ ⬠ ◆<br>
+      ◇ ○ ● ◎
+    </div>
+    <div class="f-mappings">
+      ✦=T &nbsp; ◈=E &nbsp; ⬡=N &nbsp; ⬟=L &nbsp; ⬠=I<br>
+      ◆=G &nbsp; ◇=H &nbsp; ○=B &nbsp; ●=R &nbsp; ◎=S
+    </div>
+    <div class="f-status" id="status-1">· sealed ·</div>
+  </div>
+
+  <!-- Fragment II -->
+  <div class="fragment-card" id="card-2" onclick="toggleFragment(2)" role="button" tabindex="0" aria-label="Fragment II - Section II of III">
+    <div class="f-label">Notation Reference</div>
+    <div class="f-title">Section II &nbsp;·&nbsp; of III</div>
+    <div class="f-location">Recovered: Resonance Box, Session 2<br>Brass cylinder, matching pair to Fragment I</div>
+    <div class="f-symbols">
+      ⊕ ⊗ ⊙ △ ▽<br>
+      ▲ ▼ □ ■ ▪ ▸
+    </div>
+    <div class="f-mappings">
+      ⊕=W &nbsp; ⊗=A &nbsp; ⊙=C &nbsp; △=D &nbsp; ▽=F<br>
+      ▲=O &nbsp; ▼=U &nbsp; □=M &nbsp; ■=P &nbsp; ▪=V &nbsp; ▸=Y
+    </div>
+    <div class="f-status" id="status-2">· sealed ·</div>
+  </div>
+
+  <!-- Fragment III -->
+  <div class="fragment-card" id="card-3" onclick="toggleFragment(3)" role="button" tabindex="0" aria-label="Fragment III - Section III of III">
+    <div class="f-label">Notation Reference</div>
+    <div class="f-title">Section III &nbsp;·&nbsp; of III</div>
+    <div class="f-location">Location: Theron's private archive<br>Recovered: Session 3</div>
+    <div class="f-symbols">
+      ⬢ ☆ ◉ ⬤ ✧
+    </div>
+    <div class="f-mappings">
+      ⬢=J &nbsp; ☆=K &nbsp; ◉=Q<br>
+      ⬤=X &nbsp; ✧=Z
+    </div>
+    <div class="f-status" id="status-3">· sealed ·</div>
+  </div>
+
+</div>
+
+<!-- Decoder Panel -->
+<div class="decoder-panel" id="decoderPanel">
+  <div class="decoder-header">Ritual of Eternal Dawn — Center Notation (recovered, Year 48)</div>
+  <div class="decoder-grid">
+    
+    <!-- Cipher Display -->
+    <div class="cipher-section" id="cipherSection">
+      <div class="cipher-title">Cipher Text</div>
+      <div class="cipher-lines" id="cipherDisplay"></div>
+    </div>
+
+    <!-- Decoded Text -->
+    <div class="decoded-section">
+      <div class="decoded-title">Decoded Translation</div>
+      <div class="decoded-text" id="decodedDisplay">· · ·</div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Hints Panel -->
+<div class="hints-panel" id="hintsPanel">
+  <div class="hints-header">Archivist's Notes &nbsp;·&nbsp; Hints Unlock with Progress</div>
+  <div class="hints-grid">
+    
+    <div class="hint-card locked" id="hint-1">
+      <div class="hint-title">Hint 1</div>
+      <div class="hint-text">The first fragment decodes a simple phrase. Look for repeated symbols — they correspond to repeated letters.</div>
+      <div class="hint-lock" id="hint-lock-1">Unlocks with Fragment I</div>
+    </div>
+
+    <div class="hint-card locked" id="hint-2">
+      <div class="hint-title">Hint 2</div>
+      <div class="hint-text">Fragment II adds vowels and common consonants. The word "WILLING" appears twice — use it as an anchor.</div>
+      <div class="hint-lock" id="hint-lock-2">Unlocks with Fragment II</div>
+    </div>
+
+    <div class="hint-card locked" id="hint-3">
+      <div class="hint-title">Hint 3</div>
+      <div class="hint-text">The three fragments together form a complete alphabet. The final five letters (J, K, Q, X, Z) are in Fragment III.</div>
+      <div class="hint-lock" id="hint-lock-3">Unlocks with Fragment III</div>
+    </div>
+
+    <div class="hint-card locked" id="hint-4">
+      <div class="hint-title">Hint 4</div>
+      <div class="hint-text">The cipher text on the center notation page uses ALL three fragments. The underlined line is the key specification: ONE UNWILLING → DESTRUCTIVE.</div>
+      <div class="hint-lock" id="hint-lock-4">Unlocks with all three fragments</div>
+    </div>
+
+    <div class="hint-card locked" id="hint-5">
+      <div class="hint-title">Hint 5 (Teacher's Note)</div>
+      <div class="hint-text">This cipher demonstrates a substitution system with a divided key — a practical example of how shared secrets require collaboration. The three fragments = three parties. No single party can decode alone.</div>
+      <div class="hint-lock" id="hint-lock-5">Unlocks with all three fragments</div>
+    </div>
+
+    <div class="hint-card locked" id="hint-6">
+      <div class="hint-title">Hint 6 (Mathematical Insight)</div>
+      <div class="hint-text">The ritual geometry: 10 anchors (5 primary + 5 secondary) on 3 concentric circuits. The pentagram connects the 5 primary nodes in Dawnmark rising order. This is a geometric cipher — the star positions ARE the key order.</div>
+      <div class="hint-lock" id="hint-lock-6">Unlocks with all three fragments</div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Complete Message -->
+<div class="complete-message" id="completeMsg">
+  The notation is complete. The path was always there.
+</div>
+
+<!-- Actions -->
+<div class="actions">
+  <button class="btn" onclick="resetAll()" id="resetBtn">Reset All Fragments</button>
+  <button class="btn primary" onclick="printManuscript()" id="printBtn">Print as Manuscript (PDF)</button>
+</div>
+
+<!-- Footer -->
+<footer class="footer">
+  Part of <a href="https://github.com/DnD-Kamitor/The-Price-of-Dawn" target="_blank" rel="noopener">The Price of Dawn</a> campaign &nbsp;·&nbsp; 
+  CR-44-09 &nbsp;·&nbsp; Varenhold Archive Restricted Series
+</footer>
+
+<script>
+// ================================================================
+//  CIPHER DEFINITION
+//  Each char: { l: letter/punct, g: glyph, f: fragment (1/2/3/0) }
+//  f=0 = always visible (space, punctuation, separator)
+// ================================================================
+
+const LINES = [
+  // Line 1: INVERSION PATH:
+  [
+    {l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"V",g:"▪",f:2},
+    {l:"E",g:"◈",f:1},{l:"R",g:"●",f:1},{l:"S",g:"◎",f:1},
+    {l:"I",g:"⬠",f:1},{l:"O",g:"▲",f:2},{l:"N",g:"⬡",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"P",g:"■",f:2},{l:"A",g:"⊗",f:2},{l:"T",g:"✦",f:1},{l:"H",g:"◇",f:1},
+    {l:"·",g:"·",f:0}
+  ],
+  // Line 2: WILLING RELEASE
+  [
+    {l:"W",g:"⊕",f:2},{l:"I",g:"⬠",f:1},{l:"L",g:"⬟",f:1},
+    {l:"L",g:"⬟",f:1},{l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"G",g:"◆",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"R",g:"●",f:1},{l:"E",g:"◈",f:1},{l:"L",g:"⬟",f:1},
+    {l:"E",g:"◈",f:1},{l:"A",g:"⊗",f:2},{l:"S",g:"◎",f:1},{l:"E",g:"◈",f:1}
+  ],
+  // Line 3: ALL TEN · EXACT MOMENT
+  [
+    {l:"A",g:"⊗",f:2},{l:"L",g:"⬟",f:1},{l:"L",g:"⬟",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"T",g:"✦",f:1},{l:"E",g:"◈",f:1},{l:"N",g:"⬡",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"·",g:"·",f:0},
+    {l:" ",g:" ",f:0},
+    {l:"E",g:"◈",f:1},{l:"X",g:"⬤",f:3},{l:"A",g:"⊗",f:2},
+    {l:"C",g:"⊙",f:2},{l:"T",g:"✦",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"M",g:"□",f:2},{l:"O",g:"▲",f:2},{l:"M",g:"□",f:2},
+    {l:"E",g:"◈",f:1},{l:"N",g:"⬡",f:1},{l:"T",g:"✦",f:1}
+  ],
+  // Line 4: SUN RETURNS
+  [
+    {l:"S",g:"◎",f:1},{l:"U",g:"▼",f:2},{l:"N",g:"⬡",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"R",g:"●",f:1},{l:"E",g:"◈",f:1},{l:"T",g:"✦",f:1},
+    {l:"U",g:"▼",f:2},{l:"R",g:"●",f:1},{l:"N",g:"⬡",f:1},{l:"S",g:"◎",f:1}
+  ],
+  // Line 5: ONE UNWILLING → DESTRUCTIVE
+  [
+    {l:"O",g:"▲",f:2},{l:"N",g:"⬡",f:1},{l:"E",g:"◈",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"U",g:"▼",f:2},{l:"N",g:"⬡",f:1},{l:"W",g:"⊕",f:2},
+    {l:"I",g:"⬠",f:1},{l:"L",g:"⬟",f:1},{l:"L",g:"⬟",f:1},
+    {l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"G",g:"◆",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"→",g:"→",f:0},
+    {l:" ",g:" ",f:0},
+    {l:"D",g:"△",f:2},{l:"E",g:"◈",f:1},{l:"S",g:"◎",f:1},
+    {l:"T",g:"✦",f:1},{l:"R",g:"●",f:1},{l:"U",g:"▼",f:2},
+    {l:"C",g:"⊙",f:2},{l:"T",g:"✦",f:1},{l:"I",g:"⬠",f:1},
+    {l:"V",g:"▪",f:2},{l:"E",g:"◈",f:1}
+  ]
+];
+
+// Decoded lines for the translation panel (what each line means)
+const DECODED_LINES = [
+  "INVERSION PATH",
+  "WILLING RELEASE",
+  "ALL TEN · EXACT MOMENT",
+  "SUN RETURNS",
+  "ONE UNWILLING → DESTRUCTIVE"
+];
+
+// Full decoded text for the translation panel
+const FULL_DECODED_TEXT = `INVERSION PATH
+WILLING RELEASE
+ALL TEN · EXACT MOMENT
+SUN RETURNS
+ONE UNWILLING → DESTRUCTIVE
+
+The conduit is not stone or silver or stored potential.
+The conduit is awareness sustained against the dark.
+The Dawnborn are not witnesses to the Silence.
+They are its answer.
+Their adaptation is the bridge.
+The ritual completes what was interrupted —
+it draws through what learned to hold the gap.
+Each anchor gives what they became.`;
+
+// Fragment key mappings for display
+const FRAGMENT_KEYS = {
+  1: { 
+    title: "Fragment I — Section I of III",
+    location: "Recovered: Resonance Box, Session 1\nBrass cylinder, etched symbols",
+    symbols: "✦ ◈ ⬡ ⬟ ⬠ ◆\n◇ ○ ● ◎",
+    mappings: "✦=T  ◈=E  ⬡=N  ⬟=L  ⬠=I\n◆=G  ◇=H  ○=B  ●=R  ◎=S"
+  },
+  2: { 
+    title: "Fragment II — Section II of III",
+    location: "Recovered: Resonance Box, Session 2\nBrass cylinder, matching pair to Fragment I",
+    symbols: "⊕ ⊗ ⊙ △ ▽\n▲ ▼ □ ■ ▪ ▸",
+    mappings: "⊕=W  ⊗=A  ⊙=C  △=D  ▽=F\n▲=O  ▼=U  □=M  ■=P  ▪=V  ▸=Y"
+  },
+  3: { 
+    title: "Fragment III — Section III of III",
+    location: "Location: Theron's private archive\nRecovered: Session 3",
+    symbols: "⬢ ☆ ◉ ⬤ ✧",
+    mappings: "⬢=J  ☆=K  ◉=Q\n⬤=X  ✧=Z"
+  }
+};
+
+// ── State ──
+const active = new Set();
+let animationQueue = [];
+
+// ── Modal ──
+function closeModal() {
+  const modal = document.getElementById('modalOverlay');
+  modal.classList.add('hidden');
+  setTimeout(() => modal.style.display = 'none', 500);
+}
+
+// ── Fragment Toggle ──
+function toggleFragment(n) {
+  const card = document.getElementById('card-' + n);
+  const status = document.getElementById('status-' + n);
+  const marker = document.getElementById('marker' + n);
+  const hintCard = document.getElementById('hint-' + n);
+  const hintLock = document.getElementById('hint-lock-' + n);
+  
+  if (active.has(n)) {
+    // Deactivate
+    active.delete(n);
+    card.classList.remove('active', 'completed');
+    status.textContent = '· sealed ·';
+    marker.classList.remove('active');
+    if (hintCard) hintCard.classList.add('locked');
+    if (hintLock) hintLock.textContent = 'Unlocks with Fragment ' + n;
+  } else {
+    // Activate
+    active.add(n);
+    card.classList.add('active');
+    card.classList.remove('completed');
+    status.textContent = '· active ·';
+    marker.classList.add('active');
+    if (hintCard) {
+      hintCard.classList.remove('locked');
+      hintCard.classList.add('unlocked');
+    }
+    if (hintLock) hintLock.textContent = 'Unlocked';
+  }
+  
+  // Check for completion
+  checkCompletion();
+  updateDisplay();
+}
+
+function checkCompletion() {
+  const allActive = active.size === 3;
+  document.getElementById('pageGlow').classList.toggle('all-fragments', allActive);
+  
+  // Mark cards as completed when all three are active
+  [1,2,3].forEach(n => {
+    const card = document.getElementById('card-' + n);
+    if (allActive && active.has(n)) {
+      card.classList.add('completed');
+      document.getElementById('status-' + n).textContent = '· decoded ·';
+    } else if (active.has(n)) {
+      card.classList.remove('completed');
+      document.getElementById('status-' + n).textContent = '· active ·';
+    }
+  });
+  
+  // Unlock final hints
+  if (allActive) {
+    [4,5,6].forEach(i => {
+      const card = document.getElementById('hint-' + i);
+      const lock = document.getElementById('hint-lock-' + i);
+      if (card) {
+        card.classList.remove('locked');
+        card.classList.add('unlocked');
+      }
+      if (lock) lock.textContent = 'Unlocked';
+    });
+  } else {
+    [4,5,6].forEach(i => {
+      const card = document.getElementById('hint-' + i);
+      const lock = document.getElementById('hint-lock-' + i);
+      if (card) {
+        card.classList.add('locked');
+        card.classList.remove('unlocked');
+      }
+      if (lock) lock.textContent = 'Unlocks with all three fragments';
+    });
+  }
+  
+  document.getElementById('completeMsg').classList.toggle('visible', allActive);
+  document.getElementById('cipherSection').classList.toggle('full-reveal', allActive);
+  document.getElementById('decodedDisplay').classList.toggle('full', allActive);
+}
+
+function resetAll() {
+  active.clear();
+  [1,2,3].forEach(n => {
+    document.getElementById('card-' + n).classList.remove('active', 'completed');
+    document.getElementById('status-' + n).textContent = '· sealed ·';
+    document.getElementById('marker' + n).classList.remove('active');
+    const hintCard = document.getElementById('hint-' + n);
+    const hintLock = document.getElementById('hint-lock-' + n);
+    if (hintCard) hintCard.classList.add('locked');
+    if (hintLock) hintLock.textContent = 'Unlocks with Fragment ' + n;
+  });
+  [4,5,6].forEach(i => {
+    const card = document.getElementById('hint-' + i);
+    const lock = document.getElementById('hint-lock-' + i);
+    if (card) card.classList.add('locked');
+    if (lock) lock.textContent = 'Unlocks with all three fragments';
+  });
+  document.getElementById('pageGlow').classList.remove('all-fragments');
+  document.getElementById('completeMsg').classList.remove('visible');
+  document.getElementById('cipherSection').classList.remove('full-reveal');
+  document.getElementById('decodedDisplay').classList.remove('full');
+  updateDisplay();
+}
+
+function updateDisplay() {
+  const totalGlyphs = LINES.flat().filter(c => c.f > 0).length;
+  const decodedCount = LINES.flat().filter(c => c.f > 0 && active.has(c.f)).length;
+  const allActive = active.size === 3;
+  const anyActive = active.size > 0;
+
+  // Progress bar
+  document.getElementById('progressFill').style.width = ((active.size / 3) * 100) + '%';
+
+  // Show/hide decoder panel
+  document.getElementById('decoderPanel').classList.toggle('visible', anyActive);
+
+  // Rebuild cipher display
+  const cipherDiv = document.getElementById('cipher-display');
+  cipherDiv.innerHTML = '';
+
+  const decodedLines = [];
+
+  LINES.forEach((line, li) => {
+    const lineDiv = document.createElement('div');
+    lineDiv.className = 'cipher-line';
+
+    let dLine = '';
+
+    line.forEach((ch, ci) => {
+      const span = document.createElement('span');
+
+      if (ch.f === 0) {
+        // Always-visible punctuation / space
+        span.className = ch.l === ' ' ? 'glyph space' : 'glyph punct';
+        span.textContent = ch.g;
+        dLine += ch.l === ' ' ? ' ' : ch.l;
+      } else if (active.has(ch.f)) {
+        span.className = 'glyph f' + ch.f + ' revealed';
+        span.textContent = ch.l;
+        span.style.animationDelay = (ci * 35) + 'ms';
+        dLine += ch.l;
+      } else {
+        span.className = 'glyph f' + ch.f + ' locked';
+        span.textContent = ch.g;
+        dLine += '_';
+      }
+
+      lineDiv.appendChild(span);
+    });
+
+    cipherDiv.appendChild(lineDiv);
+    decodedLines.push(dLine);
+  });
+
+  // Decoded panel
+  const decodedDiv = document.getElementById('decoded-display');
+  if (!anyActive) {
+    decodedDiv.textContent = '· · ·';
+    decodedDiv.className = 'decoded-text';
+  } else if (allActive) {
+    decodedDiv.textContent = FULL_DECODED_TEXT;
+    decodedDiv.className = 'decoded-text full';
+  } else {
+    // Show partial decoded lines for active fragments
+    const partialLines = DECODED_LINES.filter((_, i) => {
+      // Check if this line has any glyphs from active fragments
+      return LINES[i].some(ch => ch.f > 0 && active.has(ch.f));
+    });
+    decodedDiv.textContent = partialLines.join('\n');
+    decodedDiv.className = 'decoded-text';
+  }
+}
+
+// Initialize
+document.addEventListener('DOMContentLoaded', () => {
+  updateDisplay();
+  
+  // Keyboard support for fragment cards
+  [1,2,3].forEach(n => {
+    const card = document.getElementById('card-' + n);
+    card.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        toggleFragment(n);
+      }
+    });
+  });
+});
+
+// Print function
+function printManuscript() {
+  window.print();
+}
+</script>
+</body>
+</html>
