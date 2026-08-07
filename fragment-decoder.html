@@ -178,6 +178,23 @@ h1 { font-family:'Cinzel',serif; font-size:1rem; text-transform:uppercase; lette
 
 .modal-cancel { font-size:.55rem; letter-spacing:.2em; text-transform:uppercase; color:#4a3818; background:none; border:none; cursor:pointer; font-family:'Cinzel',serif; transition:color .2s; }
 .modal-cancel:hover { color:#7a5828; }
+
+/* ── Letter btn states ── */
+.letter-btn.wrong {
+  color: #5a201080; border-color:#2a1008; background:#0b0906;
+  text-decoration: line-through; cursor: not-allowed;
+}
+.letter-btn.used {
+  color: #c8963e55; border-color:#2a2010; background:#0d0b06;
+  cursor: default; position: relative;
+}
+.letter-btn.used::after {
+  content: attr(data-g);
+  position: absolute; top: 1px; right: 2px;
+  font-size: .38rem; color: #c8963e50; font-family: 'Special Elite', monospace;
+}
+.letter-btn.used:hover { border-color:#3a2810; color:#c8963e70; background:#0d0b06; }
+.modal-used-note { font-size:.52rem; color:#3a2810; letter-spacing:.08em; font-family:'Cinzel',serif; margin-bottom:.4rem; min-height:.8rem; }
 </style>
 </head>
 <body>
@@ -272,6 +289,7 @@ h1 { font-family:'Cinzel',serif; font-size:1rem; text-transform:uppercase; lette
     <div class="modal-freq" id="modal-freq"></div>
     <div class="modal-error" id="modal-error"></div>
     <div class="modal-reguess-note" id="modal-reguess-note"></div>
+    <div class="modal-used-note" id="modal-used-note"></div>
     <div class="letter-grid" id="letter-grid"></div>
     <button class="modal-cancel" onclick="closeModal()">Cancel &nbsp;[Esc]</button>
   </div>
@@ -338,10 +356,45 @@ const MAX_FREQ = Math.max(...Object.values(FREQ));
 const TOTAL = Object.keys(GLYPH_MAP).length;
 
 // ── State ──
-const unlocked = new Set();
-const decoded  = {};           // glyph → letter (correctly guessed)
-let   activeGlyph = null;
-let   isReguess   = false;
+const unlocked     = new Set();
+const decoded      = {};   // glyph → letter (correctly guessed)
+const wrongGuesses = {};   // glyph → Set of wrong letters tried
+let   activeGlyph  = null;
+let   isReguess    = false;
+
+// ── Persistence ──
+const SAVE_KEY = 'tpod-decoder-v1';
+function saveState() {
+  try {
+    localStorage.setItem(SAVE_KEY, JSON.stringify({
+      decoded,
+      unlocked: [...unlocked],
+      wrong: Object.fromEntries(Object.entries(wrongGuesses).map(([k,v])=>[k,[...v]]))
+    }));
+  } catch(e) {}
+}
+function loadState() {
+  try {
+    const s = JSON.parse(localStorage.getItem(SAVE_KEY));
+    if (!s) return;
+    Object.assign(decoded, s.decoded || {});
+    (s.unlocked || []).forEach(n => {
+      unlocked.add(n);
+      const card = document.getElementById('card-' + n);
+      if (card) card.classList.add('unlocked');
+      const stat = document.getElementById('status-' + n);
+      if (stat) stat.textContent = '· available ·';
+    });
+    Object.entries(s.wrong || {}).forEach(([k,v]) => { wrongGuesses[k] = new Set(v); });
+  } catch(e) {}
+}
+
+// ── Helper: letter → glyph (for bijection display) ──
+function buildLetterUsed() {
+  const lu = {};
+  Object.entries(decoded).forEach(([glyph, letter]) => { lu[letter] = glyph; });
+  return lu;
+}
 
 // ================================================================
 //  FRAGMENT TOGGLE (GM)
@@ -359,11 +412,52 @@ function toggleFragment(n) {
     status.textContent = '· available ·';
   }
   updateDisplay();
+  saveState();
 }
 
 // ================================================================
 //  MODAL
 // ================================================================
+function buildLetterGrid() {
+  const letterUsed   = buildLetterUsed();
+  const wrongForThis = wrongGuesses[activeGlyph] || new Set();
+  const usedCount    = Object.keys(letterUsed).length;
+  const grid = document.getElementById('letter-grid');
+  grid.innerHTML = '';
+
+  // Update used-note
+  document.getElementById('modal-used-note').textContent =
+    usedCount > 0 ? usedCount + ' letter' + (usedCount > 1 ? 's' : '') + ' already solved — marked gold' : '';
+
+  'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').forEach(letter => {
+    const btn = document.createElement('button');
+    btn.id = 'lbtn-' + letter;
+    const usedByGlyph = letterUsed[letter];
+    const isWrong     = wrongForThis.has(letter);
+
+    if (isWrong) {
+      btn.className = 'letter-btn wrong';
+      btn.textContent = letter;
+      btn.disabled = true;
+      btn.title = 'Already tried — not ' + letter;
+    } else if (usedByGlyph && usedByGlyph !== activeGlyph) {
+      btn.className = 'letter-btn used';
+      btn.textContent = letter;
+      btn.dataset.g = usedByGlyph;
+      btn.title = letter + ' already decoded as ' + usedByGlyph + ' · bijection: each letter maps to exactly one symbol';
+      btn.onclick = () => {
+        document.getElementById('modal-error').textContent =
+          letter + ' is already assigned to ' + usedByGlyph;
+      };
+    } else {
+      btn.className = 'letter-btn';
+      btn.textContent = letter;
+      btn.onclick = () => guessLetter(letter);
+    }
+    grid.appendChild(btn);
+  });
+}
+
 function openModal(glyph, reguess) {
   const info = GLYPH_MAP[glyph];
   if (!info) return;
@@ -375,23 +469,13 @@ function openModal(glyph, reguess) {
   document.getElementById('modal-glyph').textContent = glyph;
   document.getElementById('modal-error').textContent = '';
   document.getElementById('modal-freq').textContent  =
-    'Appears ' + (FREQ[glyph] || 0) + ' times across all cipher text · Fragment ' + info.fragment;
+    'Appears ' + (FREQ[glyph] || 0) + '× across all cipher text · Fragment ' + info.fragment;
   document.getElementById('modal-reguess-note').textContent =
     reguess ? 'Changing a previous guess — select a new letter.' : '';
 
-  const grid = document.getElementById('letter-grid');
-  grid.innerHTML = '';
-  'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').forEach(letter => {
-    const btn = document.createElement('button');
-    btn.className = 'letter-btn';
-    btn.textContent = letter;
-    btn.id = 'lbtn-' + letter;
-    btn.onclick = () => guessLetter(letter);
-    grid.appendChild(btn);
-  });
+  buildLetterGrid();
 
   document.getElementById('modal-overlay').classList.add('open');
-  // Focus so keyboard works immediately
   document.getElementById('modal-box').focus();
 }
 
@@ -399,6 +483,15 @@ function closeModal() {
   document.getElementById('modal-overlay').classList.remove('open');
   activeGlyph = null;
   isReguess   = false;
+}
+
+function shakeModal(msg) {
+  const box = document.getElementById('modal-box');
+  box.classList.remove('shake');
+  void box.offsetWidth;
+  box.classList.add('shake');
+  if (msg) document.getElementById('modal-error').textContent = msg;
+  setTimeout(() => box.classList.remove('shake'), 400);
 }
 
 function guessLetter(letter) {
@@ -409,14 +502,13 @@ function guessLetter(letter) {
     decoded[activeGlyph] = letter;
     closeModal();
     updateDisplay();
+    saveState();
   } else {
-    const box = document.getElementById('modal-box');
-    box.classList.remove('shake');
-    void box.offsetWidth;
-    box.classList.add('shake');
-    document.getElementById('modal-error').textContent =
-      'Not ' + letter + '. Check the fragment again.';
-    setTimeout(() => box.classList.remove('shake'), 400);
+    if (!wrongGuesses[activeGlyph]) wrongGuesses[activeGlyph] = new Set();
+    wrongGuesses[activeGlyph].add(letter);
+    shakeModal('Not ' + letter + '. Check the fragment again.');
+    buildLetterGrid(); // refresh to mark this letter wrong
+    saveState();
   }
 }
 
@@ -425,7 +517,17 @@ document.addEventListener('keydown', e => {
   if (!document.getElementById('modal-overlay').classList.contains('open')) return;
   if (e.key === 'Escape') { closeModal(); return; }
   const letter = e.key.toUpperCase();
-  if (/^[A-Z]$/.test(letter)) guessLetter(letter);
+  if (/^[A-Z]$/.test(letter)) {
+    // Skip if wrong or used by another glyph
+    const lu = buildLetterUsed();
+    const wg = wrongGuesses[activeGlyph] || new Set();
+    if (wg.has(letter)) return;
+    if (lu[letter] && lu[letter] !== activeGlyph) {
+      shakeModal(letter + ' is already assigned to ' + lu[letter]);
+      return;
+    }
+    guessLetter(letter);
+  }
 });
 
 // Click backdrop to close
@@ -603,6 +705,7 @@ function buildPalette() {
 function resetAll() {
   unlocked.clear();
   Object.keys(decoded).forEach(k => delete decoded[k]);
+  Object.keys(wrongGuesses).forEach(k => delete wrongGuesses[k]);
   activeGlyph = null;
   isReguess   = false;
   closeModal();
@@ -610,10 +713,12 @@ function resetAll() {
     document.getElementById('card-' + n).classList.remove('unlocked');
     document.getElementById('status-' + n).textContent = '· locked ·';
   });
+  try { localStorage.removeItem(SAVE_KEY); } catch(e) {}
   updateDisplay();
 }
 
-// Init
+// Init — restore saved state then render
+loadState();
 updateDisplay();
 </script>
 </body>
