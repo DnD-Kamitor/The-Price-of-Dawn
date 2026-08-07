@@ -5,7 +5,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 
 *Copy this entire page for every new session. Works for any TTRPG campaign. Every placeholder describes what goes in that field — remove the description once you've filled it. Everything is inside a toggle except the Quick-Reference Card, which stays always visible at the top.*
 
-*Guy Sanders / theGreatGM principles are built into every section: stakes in every scene, NPCs with want/fear/lie, secondary objectives in all combat, five senses at every scene open, the encounter beat, the 15-minute prep method, fallbacks for every player decision.*
+*Guy Sclanders / theGreatGM principles are built into every section: stakes in every scene, NPCs with want/fear/lie, secondary objectives in all combat, five senses at every scene open, the encounter beat, the 15-minute prep method, fallbacks for every player decision.*
 
 ---
 
@@ -180,7 +180,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 
 **The through-line:** *One sentence connecting all five scenes thematically. What players are actually experiencing beneath the plot. If you can't write this sentence, the session doesn't have a spine — go back and add one.*
 
-**Guy Sanders structure check:**
+**Guy Sclanders structure check:**
 - Scene 1 hooks the players and establishes stakes
 - Scene 2 or 3 contains new information that reframes what they know
 - Scene 4 puts pressure on — something is at risk, something costs
@@ -316,7 +316,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 | *[Object name]* | *[Action]* | *[Consequence]* |
 | *[Object name]* | *[Action]* | *[Consequence]* |
 
-**Five senses** *(Guy Sanders: open every scene with senses before plot)*
+**Five senses** *(Guy Sclanders: open every scene with senses before plot)*
 
 - **Sight:** *[Lighting quality and color. What's visible at range vs. up close. What's in shadow.]*
 - **Sound:** *[Ambient — what's always playing. Triggered — what starts when players enter.]*
@@ -354,7 +354,7 @@ subtitle: "Full session builder — copy, fill in, run any campaign"
 
 *What this scene sets up. Name the scene or session where it pays off. "Establishes X — becomes the pivot point in Scene 4." This prevents scenes from feeling like filler.*
 
-**Emotional target** *(Guy Sanders: every scene has an emotional destination)*
+**Emotional target** *(Guy Sclanders: every scene has an emotional destination)*
 
 *One phrase. The feeling players carry out — not the event, the emotion. "Watched." "Wrong about someone they trusted." "Responsible for something they didn't choose." Every decision about this scene serves this landing.*
 
@@ -486,7 +486,7 @@ DC [N] [Skill] — or condition: *[what triggers this path]*
 **Terrain effects:**
 - [Feature]: [Mechanical effect — difficult terrain, cover value, climbable, destructible]
 
-**Secondary objective** *(Guy Sanders: every combat has a goal beyond survival)*
+**Secondary objective** *(Guy Sclanders: every combat has a goal beyond survival)*
 
 *The non-combat goal running alongside the fight. Must be more compelling than "kill everything." If it isn't, redesign it. "Prevent the document from being destroyed." "Get the hostage out before the alarm sounds." "Capture one of them for questioning." Name it here and make it visible from round one.*
 
@@ -976,7 +976,7 @@ What happening: · Why here: · Why care: · Story relevance: · Emotional targe
 
 *The question or threat that pulls players toward next session. What do they want to find out? What are they now afraid of? What promise or threat hangs unresolved? One sentence, stated as an open question.*
 
-**Debrief question** *(Guy Sanders: always ask this before players leave)*
+**Debrief question** *(Guy Sclanders: always ask this before players leave)*
 
 *One question, asked out of character, about the session's moral or emotional content. Not "what was your favourite part" — something that makes them actually think. "Who did you trust tonight that maybe you shouldn't have?" "If your character could undo one decision from tonight, which one?" "What does your character believe now that they didn't believe at the start?"*
 

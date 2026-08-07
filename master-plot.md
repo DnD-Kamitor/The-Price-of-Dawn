@@ -1,6 +1,6 @@
 # The Price of Dawn — Master Plot Reference
 
-*GM document. theGreatGM / Guy Sanders structure. Not for players.*
+*GM document. theGreatGM / Guy Sclanders structure. Not for players.*
 
 ---
 

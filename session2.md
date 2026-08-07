@@ -42,9 +42,13 @@
 <details>
 <summary>📄 Story So Far</summary>
 
-Session 1 ended with the players inside the Varenhold Archive. They solved the access puzzle (the Fragment I cylinder), retrieved a fragment of ritual text written in pre-Silence cipher, and slipped out before Harran Lecht's contact arrived. Theron Waide gave them Sera Voss's name and a district address. They are heading there now.
+Session 1 ended inside the Varenhold Archive. Players solved the access puzzle (the Fragment I cylinder), decoded Corven's original research, and left before Harran Lecht's contact arrived. **Sera Voss's name came from Chancellor Ostenveld** before they ever reached the Archive — Theron Waide never offered it willingly.
+
+**Edoran is dead.** Players killed him during or after the Restorer ambush. He was underwhelming — a man who had been carrying something too long without learning to fight. On his body: a sealed note in Auris scripture (*"The willing heart gives freely what the bound heart cannot"*) and a second scrap, apparently never delivered: *"You have no idea what you are looking for. When you find it, you will understand why I did not want you to."* The Restorer faction exists without a leader. They are scrambling. Someone will fill that space. Players don't know who yet.
 
 **Fragment I** is a brass cylinder etched with partial cipher symbols. Players may or may not have noticed it contains no recognisable words — it requires a second fragment to decode anything meaningful.
+
+**What players carry into this session:** Fragment I. Edoran's two notes (already looted). The knowledge that someone organised enough to intercept them on day one is gone — and whatever that means for who comes next.
 
 </details>
 
@@ -52,7 +56,7 @@ Session 1 ended with the players inside the Varenhold Archive. They solved the a
 <summary>📄 Current Player State</summary>
 
 - **Location:** Lowmark district, Varenhold. Evening light (amber, always amber). Markets winding down.
-- **Mood:** Cautious curiosity. They have a physical object they don't fully understand and a name they don't know.
+- **Mood:** Cautious curiosity, edged with something harder. They killed a faction leader they barely understood. They have a physical object they can't decode and a name from the Chancellor — a face they haven't seen.
 - **Resources:** Full spell slots (long rest between sessions). Fragment I in hand.
 - **Information gap:** They know the ritual exists. They do not know the Dawnborn are its anchors.
 
@@ -120,17 +124,22 @@ Scene 5 (Tension)  → Harran Lecht arrives. Protect the documents. First real c
 | **Beat 2** | Sera reads Fragment I — "So. It's real." |
 | **Exit** | Runner delivers Theron's message: "She has the box." |
 | **DC** | Insight DC 13 (Sera hiding something); Persuasion DC 14 (get her to show the box tonight) |
+| **Secondary Objective** | Earn Sera's *personal* trust, not just her cooperation. Players who lead with Fragment I instead of conversation get the box — but not the woman. That gap costs them in Session 3 when she has to decide whether to tell the other Dawnborn. |
 
 </details>
 
 <details>
 <summary>📄 Read Aloud — Arrival</summary>
 
-> The Dawnhall smells like broth and lamp oil and the particular exhaustion of a building that has been full of people for a very long time. A woman about forty — grey threads at her temple, strong hands, a half-eaten bowl of something pushed to the corner of the table — looks up from a ledger when you come in. She doesn't stand. She says: "You look like people with a question. Sit down, I'll finish this line."
+> The Dawnhall is long and low. The ceiling above the lamps is brown from decades of burning. Tables of worn wood, chairs that don't match, floors that give slightly underfoot. The walls are painted the colour they used to be when sunlight hit them — someone made that deliberate decision; it's wrong in the dark, and everyone knows it and nobody says it.
+>
+> You hear it before you're through the door: the murmur of tired people, scrape of spoons on bowls, a coughing fit from the far end that nobody acknowledges. It smells like broth, lamp oil, and damp wool — and underneath all of it, the specific smell of a place that has been feeding people who have nowhere better to go for a very long time. The warmth is the first thing. After the chill of the Lowmark street, it lands like a decision someone made on your behalf.
+>
+> A woman about forty — grey threads at her temple, strong hands, a half-eaten bowl pushed to the corner of her table — looks up from a ledger when you come in. She doesn't stand. She says: *"You look like people with a question. Sit down, I'll finish this line."*
 
-*(Passive Perception ≥ 14: The ledger she's writing in is a food distribution log. The numbers in the column she just closed are smaller than last week's column.)*
+*(Passive Perception ≥ 14: The ledger is a food distribution log. The numbers in the column she just closed are smaller than last week's.)*
 
-*(Passive Insight ≥ 13: She glanced at your hands before your faces. She was checking whether you're carrying anything.)*
+*(Passive Insight ≥ 13: She checked your hands before your faces. Looking for what you're carrying.)*
 
 </details>
 
@@ -217,9 +226,11 @@ She stands up and picks up her coat. "Are we going now, or do you need to finish
 <details>
 <summary>📄 Read Aloud — The Box</summary>
 
-> The box is the size of a large book, brass-fitted wood, old. Five cylinders protrude from the lid, each engraved with astronomical symbols and set on a rotating ring. The symbols match — partially — the engraving on the fragment you're carrying.
+> Sera's borrowed corner of the lockhouse: a narrow room behind a merchant's accounts office, shelves of wrapped objects whose owners you'll never know. The air is cold in a way that doesn't fix when the door closes. It smells of old wood, metal polish, and the particular stillness of a room used for holding things, not living in them.
 >
-> There's no keyhole. No obvious latch. The cylinders click softly when turned, like a very precise lock that's been waiting a long time for someone to remember the combination.
+> She takes something from the back shelf and sets it on the only clear surface. The box is the size of a large book: brass-fitted wood, dark from years of handling, old in the way of objects that have outlasted the people who made them. Five cylinders protrude from the lid, each engraved with astronomical symbols on rotating rings. When you bring Fragment I close, something happens before you expect it — a faint resonant hum, barely there, like two tuning forks too far apart to ring together properly. The symbols match. Partially.
+>
+> There's no keyhole. No obvious latch. The cylinders click softly when turned — precisely, like something that has been waiting a very long time for someone to remember what it's waiting for.
 
 *(Passive Perception ≥ 15: The wood of the box is slightly discoloured in five spots where hands have held it regularly. Someone opened this box more than once.)*
 
@@ -297,6 +308,17 @@ Sera picks up the empty box and looks at the inside of the lid. There's a word p
 <details>
 <summary>📄 The Decoding Process</summary>
 
+<details>
+<summary>📄 Read Aloud — The Decoding</summary>
+
+> Nobody decides to move closer — they just are. Chairs pulled in, the lamp repositioned without discussion, coats left on because nobody is thinking about coats. The two cylinders interlocked are heavier than they should be. When you begin to rotate them together, the sound is brass-on-brass: soft, precise, patient.
+>
+> The Dawnhall continues on the other side of the door. Someone laughs at something. Spoons. A chair dragging. Normal. Irrelevant. In here: the scratch of charcoal as someone marks down each symbol. The particular quiet of people who have stopped breathing normally.
+>
+> The text surfaces slowly. Some symbols worn past reading. The core is clear.
+
+</details>
+
 **How it works:** Fragment I is a key cylinder. Fragment II is the ciphertext. When interlocked and rotated to alignment, the symbols from both fragments combine to produce legible pre-Silence script. The script is the original ritual notation.
 
 A player who attempts to decode gets the following (no check required — the mechanism is mechanical, not mental):
@@ -316,9 +338,13 @@ A player who attempts to decode gets the following (no check required — the me
 <details>
 <summary>📄 Theron's Arrival</summary>
 
-> A man in a scholar's coat, thin, somewhere between fifty and worn-past-sixty, steps in without knocking. He looks at the cylinders in your hands, then at Sera, then back at you.
+> A man in a scholar's coat — thin, somewhere between fifty and worn-past-sixty — steps in without knocking. The door brings a second of cold air with it, then closes. He smells of old paper and ink and the specific tiredness of a man who has been carrying something for eleven years without being able to put it down.
 >
-> "You understand what that means." It isn't a question.
+> He looks at the cylinders first. Then Sera. Then you. That order tells you something.
+>
+> *"You understand what that means."*
+>
+> Not a question. He has been saying that sentence to himself for a very long time.
 
 **DM Direction:** Do not rush past this moment. Let it land. Give players a beat to look at Sera — who is reading the same text they just decoded, expression unreadable. Then move to Scene 4.
 
@@ -347,9 +373,11 @@ A player who attempts to decode gets the following (no check required — the me
 <details>
 <summary>📄 Read Aloud — Theron Speaks</summary>
 
-> "I have been the Archive's senior historian for twenty-three years. I found the original ritual documentation eleven years ago, in a collection donated by a Spire scholar who did not understand what he was giving us."
+> Theron sits without being invited. Coat stays on — the coat of a man who arrived from somewhere and hasn't decided he's staying. He looks at his hands on the table, not at any of you.
 >
-> He sits down across from you without being invited.
+> Outside the door, the Dawnhall continues: voices, the scrape of a chair, someone calling a name. It sounds very far away. The gap between that sound and this room is the distance between people who don't know yet and people who do.
+>
+> "I have been the Archive's senior historian for twenty-three years. I found the original ritual documentation eleven years ago, in a collection donated by a Spire scholar who did not understand what he was giving us."
 >
 > "I spent eight months verifying it. Then I spent three years hoping I had misread it. Then I spent another two years trying to find an alternative mechanism — something that would work without requiring—" He stops. "Without requiring what it requires."
 >
@@ -440,11 +468,17 @@ If players ask her what she's thinking:
 <details>
 <summary>📄 Read Aloud — The Knock</summary>
 
-> Three knocks. Measured. Not urgent.
+> Three knocks. Measured. Not urgent. The specific knock of someone who is confident you will answer.
 >
-> The door opens before anyone answers. The man in the frame is broad-shouldered, around fifty, wearing the amber-and-grey colours of the Reckoning — not the uniform, just the colours, like someone who wants to be understood without committing to a statement. He looks around the room, catalogues everyone in it, and then offers a nod that isn't quite apologetic.
+> The door opens before anyone does. Cold night air for one second — you can smell it, the Lowmark streets, chill and amber-lit — and then the room closes around a broad-shouldered man, around fifty, wearing amber-and-grey as a colour choice rather than a uniform. He steps in without looking at the door. He is already looking at the table. At the cylinders.
 >
-> "I heard the box was opened. I came to talk before anyone did anything they couldn't undo."
+> He catalogues everyone in the room in the order of someone who has done this many times: the exits, the objects of value, the people most likely to cause problems. Then a nod — not quite apologetic; more like acknowledgment that this is awkward and he has decided to proceed anyway.
+>
+> Behind him, two figures hold the doorframe. Their hands are visible. Nothing is drawn.
+>
+> *"I heard the box was opened. I came to talk before anyone did anything they couldn't undo."*
+
+*(Passive Perception ≥ 13: There is a silhouette at the window to the left of the door. A fourth person. Watching.)*
 
 </details>
 
@@ -469,31 +503,54 @@ If players ask her what she's thinking:
 </details>
 
 <details>
+<summary>📄 Three Ways This Scene Resolves</summary>
+
+*All three paths are equally valid. No outcome closes future options.*
+
+**Path 1 — Talk (Preferred by Harran)**
+
+Harran opens with an offer before any hostility (see his stat block and dialogue above). Players can negotiate by engaging directly with his logic.
+
+- *DC 15 Persuasion + clear argument for Dawnborn consent:* Harran agrees to "observe only" for 72 hours. He gives his word. He keeps it. This is not a trick — but it normalises the Reckoning as a party you negotiate with, which is its own trap.
+- *DC 18 Persuasion or exceptional roleplay:* Harran confirms he personally opposes forced participation. He will not act against Sera directly. "I'm not the one you need to worry about." This is genuine. It also tells them someone worse is waiting.
+- *DC 13 Insight mid-negotiation:* Harran's "most do" survive estimate is load-bearing. He doesn't actually know the survival rate.
+
+**Path 2 — Flee (Secondary: Save Documents)**
+
+The kitchen exit is at the back of the Dawnhall common room. A Rogue clocks it automatically. Others: DC 14 Dexterity (Stealth) to slip out while Harran is still talking.
+
+- Documents must be grabbed first (bonus action or action). If players flee without them, an Enforcer pockets both cylinders by round 2.
+- The Watcher outside covers the main door. The kitchen exit bypasses them — but only if players move before Harran signals.
+- If players flee successfully, Harran doesn't pursue immediately. From the door: *"We'll talk when you've had time to think."* He lets them go. He's already learned what he came to learn.
+
+**Path 3 — Fight (Secondary: Protect the Documents)**
+
+See Combat section below. Secondary objective: the cylinders are on the table. Any round players don't act to secure them, an Enforcer moves for a Document Grab. If an Enforcer pockets both cylinders and Disengages, Harran calls withdrawal — he has what the Reckoning needed.
+
+| Player Action | Consequence |
+|---|---|
+| Secure documents immediately | Enforcers redirect to covering Harran's exit. Fight becomes simpler. |
+| Ignore documents | Turn 2: one Enforcer Grabs and Disengages. Turn 3: Harran withdraws with both cylinders. |
+| Attack Harran first | Enforcers use Document Grab as cover action while players are focused on him. |
+
+</details>
+
+<details>
 <summary>📄 Combat (if it starts)</summary>
 
 **Trigger:** Players attack, Sera panics and bolts (Harran will block her), or Theron tries to leave with the documents.
 
-**Harran Lecht — Stat Block (Simplified)**
+**Full stat blocks in the GM Monster Cards section below.** Summary:
 
-| | |
-|---|---|
-| **AC** | 14 (leather + dex) |
-| **HP** | 78 |
-| **Speed** | 30 ft |
-| **STR** | +3 · **DEX** +4 · **CON** +2 · **WIS** +3 |
-| **Attack** | Shortsword +6, 1d6+4 piercing |
-| **Bonus** | Disarming Strike (DC 14 Str save or drop held item) |
-| **Special** | Tactical Withdrawal — on his turn, Harran can Disengage as a bonus action and reposition to block a door or protect his enforcers |
+| Combatant | AC | HP | Key Ability |
+|---|---|---|---|
+| **Harran Lecht** | 14 | 58 | Multiattack 2, Parry reaction, Tactical Withdrawal, Nonlethal Mandate |
+| **Reckoning Enforcer ×2** | 12 | 27 | Cunning Action, Document Grab bonus action, one has a concealed crossbow |
+| **Reckoning Watcher (outside)** | 13 | 16 | Warning Shot on signal, will flee if confronted directly |
 
-**Enforcers (×2) — CR 1 each**
+**Gestalt note (5 players × gestalt level 4):** This fight is mechanically easy. It is not designed to challenge HP — it is designed to challenge *decisions*. The Enforcers will attempt Document Grab every round. Harran is almost impossible to provoke into lethal force. The Watcher is a deterrent, not a combatant. The encounter ends the moment players make a clear choice (documents secure, Harran withdraws, or a path from the Three Ways section above).
 
-| | |
-|---|---|
-| **AC** | 13 |
-| **HP** | 32 |
-| **Attack** | Club +4, 1d6+2 bludgeoning |
-
-**Secondary objective:** The cylinders are on the table. Any round the players don't act to secure them, an enforcer moves toward them. It takes one action to pocket both cylinders. If an enforcer gets them, Harran calls a tactical withdrawal.
+**Secondary objective:** The cylinders are on the table. Any round players don't act to secure them, an Enforcer uses Document Grab. It takes one bonus action to pocket both cylinders and Disengage. If an Enforcer gets them, Harran calls a tactical withdrawal — he's achieved his secondary goal regardless of the fight's outcome.
 
 **Character-Specific:**
 
@@ -588,6 +645,174 @@ All four milestones = full session XP. Partial milestones prorate.
 - Theron's second copy of the documents. Where is it? Who else knows it exists?
 - Harran Lecht's 48-hour offer (if taken). Players have committed to something without knowing what.
 - Isolde Maren, Spire historian — she has been trying to reach Theron for weeks. Her message arrives the morning after.
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary>📁 GM Monster Cards — Scene 5</summary>
+
+*All three stat blocks built for gestalt level 4 × 5 players (≈ 10 standard level-4 characters). No HP increases. Enhanced tactics, reactions, and meaningful weaknesses. Source base: Monster Manual (Veteran p.350, Spy p.349, Scout p.349).*
+
+---
+
+<details>
+<summary>🃏 Harran Lecht — Reckoning Investigator (CR 3, Veteran base)</summary>
+
+*Medium humanoid. Studded leather, civilian dress. He does not look like what he is.*
+
+| | STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|---|
+| **Score** | 16 | 14 | 14 | 14 | 14 | 13 |
+| **Mod** | +3 | +2 | +2 | +2 | +2 | +1 |
+
+**AC** 14 · **HP** 58 (9d8+18) · **Speed** 30 ft
+**Saves:** STR +5, CON +4
+**Skills:** Athletics +5, Insight +4, Investigation +3, Perception +4
+
+---
+
+**Actions**
+
+**Multiattack.** Two shortsword attacks, or one shortsword + Disarming Strike.
+
+**Shortsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft. *Hit:* 1d6+3 piercing. Always nonlethal (see below).
+
+**Disarming Strike.** One creature within 5 ft makes a DC 14 Strength save or drops one held item.
+
+---
+
+**Bonus Actions**
+
+**Tactical Withdrawal.** Disengage as a bonus action; reposition to block an exit or stand between an Enforcer and a threat.
+
+**Commanding Voice.** One Reckoning Enforcer within 30 ft uses its reaction to move up to 10 ft and gains advantage on its next attack.
+
+---
+
+**Reactions**
+
+**Parry.** +2 AC against one melee attack. Must see attacker and be holding a melee weapon.
+
+---
+
+**Special Traits**
+
+**Nonlethal Mandate.** Harran always pulls his strikes. All damage is nonlethal unless he drops below 20 HP — at that point the mandate breaks. DC 13 Wisdom save at the start of each subsequent turn; on a failure, attacks deal lethal damage.
+
+**Calculated Eye (1/combat).** At initiative start, Harran identifies one player's primary combat style. He has advantage on saving throws against that player's spells and class abilities for the rest of the encounter.
+
+**"We Should Talk."** A player who makes DC 15 Persuasion while *not* attacking Harran that round forces him to call a halt (bonus action: order all Enforcers to hold, cease attacking). He will re-engage if players do — but he will try not to.
+
+---
+
+**Weakness:** A good argument is more threatening to him than a good sword. He cannot resist genuine logic about consent.
+
+**Tactics:** Block exits first. Use Commanding Voice to direct Enforcers at the documents. Parry the most effective martial attacker. Save Disarming Strike for spellcasters mid-cast.
+
+**Morale:** Withdraws and calls Enforcers to him if both Enforcers are downed. He won't die alone for paperwork.
+
+</details>
+
+---
+
+<details>
+<summary>🃏 Reckoning Enforcer ×2 (CR 1, Spy base)</summary>
+
+*Medium humanoid. No obvious armor — they look like Lowmark residents. They are not.*
+
+| | DEX | WIS | CHA |
+|---|---|---|---|
+| **Score** | 14 | 12 | 14 |
+| **Mod** | +2 | +1 | +2 |
+
+**AC** 12 · **HP** 27 (6d8) · **Speed** 30 ft
+**Skills:** Deception +4, Perception +3, Persuasion +4, Sleight of Hand +4, Stealth +4
+
+---
+
+**Actions**
+
+**Multiattack.** Two shortsword attacks. (Available from turn 2 onward — turn 1 is used for Cunning Action positioning.)
+
+**Shortsword.** *Melee Weapon Attack:* +4 to hit, reach 5 ft. *Hit:* 1d6+2 piercing. Always nonlethal.
+
+**Hand Crossbow (Enforcer B only).** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft. *Hit:* 1d6+2 piercing + Distraction Poison — DC 13 Constitution save or the target loses Concentration on any active spell. *Passive Perception DC 14 to notice the crossbow before it fires.*
+
+---
+
+**Bonus Actions**
+
+**Cunning Action.** Dash, Disengage, or Hide.
+
+**Document Grab.** Sleight of Hand +4 contested by target's passive Perception. On success: pocket one unattended small object within 5 ft, then automatically Disengage. *If both cylinders are within 5 ft and unattended, one action grabs both.*
+
+---
+
+**Weakness:** 27 HP. They drop in two rounds under focused fire. Harran knows this. Their job is to complete one objective and withdraw — not to win fights.
+
+**Tactics:** Turn 1: Cunning Action (move toward documents). Turn 2: Document Grab + Disengage. If documents secured, fall back behind Harran. Enforcer B uses Distraction Bolt against the most dangerous active spellcaster.
+
+**Morale:** They look to Harran. If Harran signals withdrawal, they Dash for the exit immediately. They will not die for paperwork.
+
+</details>
+
+---
+
+<details>
+<summary>🃏 Reckoning Watcher (CR 1/2, Scout base)</summary>
+
+*Medium humanoid. Outside, at the window. Passive Perception ≥ 13 reveals a silhouette. Not described unless players actively look.*
+
+**AC** 13 (leather) · **HP** 16 (3d8+3) · **Speed** 30 ft
+**Skills:** Nature +4, Perception +6, Stealth +6, Survival +4
+**Special:** Keen Hearing and Sight — advantage on all Perception checks.
+
+---
+
+**Actions**
+
+**Light Crossbow.** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft. *Hit:* 1d8+2 piercing.
+
+**Warning Shot (triggered by 1 doorframe tap from Harran).** Fires deliberately wide — 1 ft past a player's head. DC 13 Wisdom save or Frightened until end of next turn (the sound and proximity, not actual injury).
+
+---
+
+**Signal Protocol:**
+- 1 tap = Warning Shot
+- 2 taps = Live fire on nearest player at window or door
+- 3 taps = Withdraw immediately
+
+---
+
+**Weakness:** Alone. No melee. Will flee immediately if anyone exits via the kitchen and approaches them directly.
+
+**Tactical Role:** Deterrent. They make players feel surrounded. In a gestalt party this strong, they'll be irrelevant in actual combat — their value is psychological and informational.
+
+</details>
+
+---
+
+<details>
+<summary>📊 Encounter Budget & Scaling</summary>
+
+**Adjusted encounter math for gestalt level 4 × 5 players:**
+
+Gestalt level 4 ≈ effective level 7 single-class. Five level-7 characters = Hard encounter budget ~17,500 XP.
+
+This encounter (Harran + 2 Enforcers + 1 Watcher): ~3,100 XP adjusted. **Assessment: Easy to Medium.**
+
+This is correct — the encounter is not designed to threaten the party's HP. It is designed to:
+1. Force a decision under time pressure (documents being taken)
+2. Establish the Reckoning as something that will not simply go away
+3. Let players demonstrate what kind of people they are, so Harran can report back
+
+**If players trivialize the fight in round 1:** Harran is not too proud to call a withdrawal. Calmly: *"You're better than I expected. We'll talk when you've had time to think."* The encounter ends. He has learned what he came to learn.
+
+**If the table wants a genuine combat challenge:** Add 2 Enforcers entering from the kitchen on round 2 (covering the back exit they didn't know the players knew about) and give Harran a second use of Calculated Eye.
 
 </details>
 
