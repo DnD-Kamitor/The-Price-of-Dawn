@@ -24,11 +24,11 @@
 - Partial decoding sheet (Scene 3) — two-column cipher, incomplete without Fragment I
 
 **Key beats:**
-1. Players like Sera before they know what she costs (Scene 1)
-2. Puzzle yields Fragment II — they now hold both halves (Scene 2)
-3. "SENTIENT NODES" decoded — the Dawnborn are the anchors (Scene 3)
+1. Sera has been investigating independently — players realise she's further along than they expected (Scene 1)
+2. The Resonance Box opens: three rings (two runic, one lunar/solar) yield Fragment II — **second partial win** (Scene 2)
+3. "SENTIENT NODES" decoded — the Dawnborn are the anchors; main cipher now almost fully readable (Scene 3)
 4. Theron confesses eleven years of silence (Scene 4)
-5. Harran arrives — protect the documents, not just the fight (Scene 5)
+5. The Pale Gathering manifests — what the box released; Harran arrives at the worst possible moment (Scene 5)
 
 </details>
 
@@ -42,13 +42,13 @@
 <details>
 <summary>📄 Story So Far</summary>
 
-Session 1 ended inside the Varenhold Archive. Players solved the access puzzle (the Fragment I cylinder), decoded Corven's original research, and left before Harran Lecht's contact arrived. **Sera Voss's name came from Chancellor Ostenveld** before they ever reached the Archive — Theron Waide never offered it willingly.
+Session 1 ended inside the Varenhold Archive. Players solved the access puzzle (the Fragment I cylinder), decoded Corven's original research, and left before Harran Lecht's contact arrived. **Players have already met and interacted with Sera Voss** — she is not a stranger. The relationship is warm but unresolved. Sera is not yet sure what the players represent: help, complication, or both.
 
 **Edoran is dead.** Players killed him during or after the Restorer ambush. He was underwhelming — a man who had been carrying something too long without learning to fight. On his body: a sealed note in Auris scripture (*"The willing heart gives freely what the bound heart cannot"*) and a second scrap, apparently never delivered: *"You have no idea what you are looking for. When you find it, you will understand why I did not want you to."* The Restorer faction exists without a leader. They are scrambling. Someone will fill that space. Players don't know who yet.
 
-**Fragment I** is a brass cylinder etched with partial cipher symbols. Players may or may not have noticed it contains no recognisable words — it requires a second fragment to decode anything meaningful.
+**Fragment I** is a brass cylinder etched with partial cipher symbols. **First partial win (already earned):** the self-cipher on Fragment I decodes to "THE LIGHT IS STILL THERE" — the sun is not gone, only blocked. This shifts the question from *how do we make a new sun* to *how do we unblock the one that remains.* The main ritual cipher is partially legible with Fragment I alone: "SUN RETURNS" and "_ILLING RELE_SE" surface, but the mechanism is still incomplete. A second fragment is needed to read most of the rest.
 
-**What players carry into this session:** Fragment I. Edoran's two notes (already looted). The knowledge that someone organised enough to intercept them on day one is gone — and whatever that means for who comes next.
+**What players carry into this session:** Fragment I (already partially decoded). Edoran's two notes. The knowledge that someone organised enough to intercept them on day one is gone — and whatever that means for who comes next. And a relationship with Sera that has been started but not finished.
 
 </details>
 
@@ -92,11 +92,11 @@ These are seeds. They don't change the plot. They make the revelation personal.
 <summary>📄 Session Map</summary>
 
 ```
-Scene 1 (RP)       → Players meet Sera. They like her. They agree to look at the box.
-Scene 2 (Puzzle)   → The Resonance Box. Fragment II retrieved. Both halves now in hand.
-Scene 3 (Reveal)   → "SENTIENT NODES." The decoding. The Dawnborn are the anchors.
+Scene 1 (RP)       → Sera summons players — she's been investigating. They compare notes.
+Scene 2 (Puzzle)   → The Resonance Box: 3 rings (Gebo/Dagaz/Full Sun). Fragment II retrieved.
+Scene 3 (Reveal)   → "SENTIENT NODES." The decoding. Main cipher nearly complete — one symbol missing.
 Scene 4 (RP)       → Theron's confession. Eleven years. Silence in the room.
-Scene 5 (Tension)  → Harran Lecht arrives. Protect the documents. First real choice.
+Scene 5 (Combat)   → The Pale Gathering: spirits released by the box, Harran arrives mid-crisis.
 ```
 
 **If players skip Scene 1** (refuse to meet Sera, go straight to Theron): Run Scene 4 first. Theron's confession hits harder without the emotional investment — but players who chose not to meet Sera will feel the cost of that choice when they do meet her in Session 3.
@@ -112,36 +112,36 @@ Scene 5 (Tension)  → Harran Lecht arrives. Protect the documents. First real c
 ---
 
 <details>
-<summary>📁 Scene 1 — Sera Voss at the Dawnhall (RP)</summary>
+<summary>📁 Scene 1 — Sera Voss: A Conversation Already Started (RP)</summary>
 
 <details>
 <summary>📄 Quick Card</summary>
 
 | | |
 |---|---|
-| **Goal** | Players care about Sera before they know what she costs |
+| **Goal** | Deepen the relationship — players realise Sera has been investigating independently and is further along than they knew |
 | **Location** | Dawnhall common room, Lowmark district |
-| **Beat 2** | Sera reads Fragment I — "So. It's real." |
+| **Beat 2** | Sera confirms one of the other Dawnborn — Aldric — has gone quiet. Not taken. Just disappeared from sight. She's already worked out what that means. |
 | **Exit** | Runner delivers Theron's message: "She has the box." |
-| **DC** | Insight DC 13 (Sera hiding something); Persuasion DC 14 (get her to show the box tonight) |
-| **Secondary Objective** | Earn Sera's *personal* trust, not just her cooperation. Players who lead with Fragment I instead of conversation get the box — but not the woman. That gap costs them in Session 3 when she has to decide whether to tell the other Dawnborn. |
+| **DC** | Insight DC 13 (Sera is managing fear, not reporting it); Investigation DC 11 (Reckoning pamphlet found under side door — different paper stock, recent print) |
+| **Secondary Objective** | Listen before speaking. Players who immediately tell Sera what they found in the Archive miss three things she's already pieced together. Let her go first — she's been working this longer. |
 
 </details>
 
 <details>
 <summary>📄 Read Aloud — Arrival</summary>
 
-> The Dawnhall is long and low. The ceiling above the lamps is brown from decades of burning. Tables of worn wood, chairs that don't match, floors that give slightly underfoot. The walls are painted the colour they used to be when sunlight hit them — someone made that deliberate decision; it's wrong in the dark, and everyone knows it and nobody says it.
+> The Dawnhall is the same as you left it. Long and low, ceiling brown from decades of burning, the sound of tired people and scraping spoons. But she is watching the door. She sees you before you're through it — doesn't stand, doesn't call out — just pulls out the chair across from her before you've crossed the room. The recognition is there, but something else is under it. The specific stillness of someone managing a situation they haven't told anyone about yet.
 >
-> You hear it before you're through the door: the murmur of tired people, scrape of spoons on bowls, a coughing fit from the far end that nobody acknowledges. It smells like broth, lamp oil, and damp wool — and underneath all of it, the specific smell of a place that has been feeding people who have nowhere better to go for a very long time. The warmth is the first thing. After the chill of the Lowmark street, it lands like a decision someone made on your behalf.
+> "Sit down." She slides a folded pamphlet across the table without looking at it. Reckoning print — block lettering, promises of restoration, standard. "That was under the side door this morning. Not the public entrance. The *side* door." A pause. "They know where I sleep."
 >
-> A woman about forty — grey threads at her temple, strong hands, a half-eaten bowl pushed to the corner of her table — looks up from a ledger when you come in. She doesn't stand. She says: *"You look like people with a question. Sit down, I'll finish this line."*
+> She pushes the half-eaten bowl toward the centre of the table out of habit. The broth is barely warm. She forgot she'd offered it.
 >
-> *(She pushes the half-eaten bowl toward the centre of the table without asking. The broth is barely warm. It tastes like charity — not an insult, just what charity tastes like: enough, carefully rationed.)*
+> "I wasn't going to send for you. And then I decided I was."
 
-*(Passive Perception ≥ 14: The ledger is a food distribution log. The numbers in the column she just closed are smaller than last week's.)*
+*(Passive Perception ≥ 13: Two people have been watching you since you sat down. Dawnhall workers — not Reckoning. They're watching Sera's back. She didn't ask them to. They decided.)*
 
-*(Passive Insight ≥ 13: She checked your hands before your faces. Looking for what you're carrying.)*
+*(Passive Insight ≥ 12: She's already run through several versions of this conversation. She's on the one she thinks you can use.)*
 
 </details>
 
@@ -152,13 +152,15 @@ Sera Voss manages the Dawnhall's emergency feeding programme. She has been doing
 
 She was born in Varenhold three years before the Silence. She is one of fourteen known Dawnborn in the city. She doesn't talk about that unless pressed, and even then she talks about it the way she talks about being left-handed: a fact, not an identity.
 
-**What she wants right now:** To finish the ledger before the lamp burns down.
+**What's changed since Session 1:** She has been paying attention. She's catalogued three new things: the Reckoning pamphlet under the side door, a terse message from Aldric (another Dawnborn) saying he "needs some time alone" — which he has never said in nine years — and a feeling she doesn't have a name for. She has not connected all of these out loud yet. She is waiting to see what the players bring before she does.
+
+**What she wants right now:** To compare notes with people who might know more than she does.
 
 **What she actually wants:** For someone to tell her there is a way through this that doesn't require anyone to die.
 
 **Voice:** Flat, direct, occasionally dry. She does not perform warmth but she is warm. She offers food unprompted. She remembers names immediately.
 
-**DM Direction — let this scene breathe:** Don't rush to Theron's message. Give players two or three minutes of conversation with Sera before anything happens. Let them like her. This scene only works if they do.
+**DM Direction:** Sera is further along in her own investigation than players expect. She's not waiting to be informed — she's comparing notes. The scene lands when players realise she's been working this independently the whole time.
 
 </details>
 
@@ -167,28 +169,28 @@ She was born in Varenhold three years before the Silence. She is one of fourteen
 
 | Character | What they notice |
 |-----------|-----------------|
-| **Cleric / Paladin** | *(Religion DC 12, auto if Auris-domain)* The small carved token on Sera's wrist is an Auris penitent's mark — worn by those who have made a personal vow to a god they are no longer certain exists. She wears it anyway. |
-| **Druid / Ranger** | *(Nature DC 10)* Her skin has a faint luminescence in direct lamplight — not glow, more like light reflects differently off her than off other people. Classic Dawnborn marker. You've seen it in field descriptions of post-Silence survivors. |
-| **Rogue / any Streetwise** | *(Passive Perception ≥ 15)* One of the Dawnhall workers near the door clocked you when you came in and hasn't stopped watching. Not threatening — protective. Sera has people looking out for her without her asking. |
-| **Fighter / Soldier background** | *(Auto)* The way she scanned you at the door — hands first, then face — is how soldiers check for weapons. She's learned to do that somewhere. She didn't serve; she survived something that taught her the same lesson. |
+| **Cleric / Paladin** | *(Religion DC 12, auto if Auris-domain)* The Auris penitent's mark on Sera's wrist — she's checked it twice since you sat down. Whatever she's decided, she's measuring it against a vow. |
+| **Druid / Ranger** | *(Nature DC 10)* Her skin has a faint luminescence in direct lamplight — not glow, more like light reflects differently off her than off other people. Classic Dawnborn marker. It's slightly stronger than it was when you last saw her. Stress does that sometimes. |
+| **Rogue / any Streetwise** | *(Passive Perception ≥ 15)* The two workers watching Sera's back are different from last time. Younger. Better placed near the exits. She's quietly upgraded who she trusts around her. |
+| **Fighter / Soldier background** | *(Auto)* The pamphlet is folded so the print faces inward. Not embarrassment — she doesn't want anyone else in the room to read the header. She's been carrying it for hours and hasn't shown anyone else. |
 | **History DC 14** | The Dawnhall was originally the Archmagister's residential wing. The placard at the door has been removed but the mounting bracket is still there. Whoever turned this into a feeding hall made a deliberate point of *not* commemorating who built it. |
 
 </details>
 
 <details>
-<summary>📄 Beat 2 — "So. It's real."</summary>
+<summary>📄 Beat 2 — "One of the others isn't answering."</summary>
 
-When the players show Fragment I to Sera:
+After players have shared something (or if they stay quiet, Sera decides to go first):
 
-> She takes it without hesitating — just holds out her hand, like she's done this before. She turns it in the light for a long time. Then she sets it on the table and looks at it, not at you.
+> "Aldric." She says the name like it costs something. "He's been coming here every third day since we were children. Reliable as lamp oil. Five days ago he stopped." She looks at the table. "I sent someone to his room. His coat is still there. His tools. He hasn't gone on a trip." A breath. "He's just — gone quiet."
 >
-> "So. It's real." A pause. "I had a conversation six years ago with a man who told me something like this existed. I told him he was frightened and frightened people see patterns." She looks up. "Turns out he was right and I was kind. Those are not the same thing."
+> "The Reckoning doesn't kill Dawnborn. Not if they need us for something. So he's not dead." She looks up. "Which means someone convinced him to stop being visible. And the only thing that makes a Dawnborn suddenly invisible is fear."
 >
-> She turns the cylinder over once more. "I've had six years to decide I wasn't frightened." A pause that carries more weight than it should. "I'm not going to tell you what I decided."
+> She flattens the Reckoning pamphlet on the table. "So. What did you find in the Archive?"
 
-*(Passive Insight ≥ 12: She has decided. She decided somewhere around the third sentence of that paragraph. She is frightened. She is not going to say so, because saying so would make it a thing she needs someone else to manage, and she does not do that.)*
+*(Passive Insight ≥ 12: She already knows some of what they found. She's not asking to be informed — she's asking to see if they'll be honest.)*
 
-**DM Direction:** Let players respond. Don't fill the silence. Sera will ask one question: *"Where did you get this?"*
+**DM Direction:** Let players share what they know. Sera is not shaken by the revelation about the Dawnborn as ritual components — she's already suspected something along these lines. What lands is the confirmation that someone organised is moving. The emotional beat: *she's been carrying this alone, and now she isn't.*
 
 </details>
 
@@ -199,7 +201,7 @@ A Dawnhall worker comes in with a folded note. Sera reads it, folds it again, an
 
 *The note (in Theron's handwriting):* "She has the box. Corner of Ashfen Gate and the Unmarked Lane. The amber lamp with no hook. — W."
 
-Sera: "The Resonance Box. I've had it for eleven years. I thought it was decorative." A beat. "Apparently not."
+Sera: "The Resonance Box. I've had it for eleven years. I thought it was decorative." A long beat. "Apparently not."
 
 She stands up and picks up her coat. "Are we going now, or do you need to finish your soup?"
 
