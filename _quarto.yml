@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources:
     - audio/
+    - cipher-game.html
+    - cipher-manuscript.html
 
 book:
   title: "The Price of Dawn"
