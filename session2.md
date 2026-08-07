@@ -214,81 +214,195 @@ She stands up and picks up her coat. "Are we going now, or do you need to finish
 ---
 
 <details>
-<summary>📁 Scene 2 — The Resonance Box (Puzzle)</summary>
+<summary>📁 Scene 2 — The Vault of the Resonance Box (Three Rooms)</summary>
 
 <details>
 <summary>📄 Quick Card</summary>
 
 | | |
 |---|---|
-| **Goal** | Retrieve Fragment II; players now hold both halves of the cipher |
-| **Location** | Sera's storage room — a borrowed corner of a merchant's lockhouse near Ashfen Gate |
-| **Puzzle** | 5 brass cylinders, each set to a constellation position. Solution: Dawnmark star order |
-| **Beat 2** | The box opens. Fragment II is a second cylinder — clearly a pair with Fragment I |
-| **DC** | History DC 13 (Dawnmark constellation lore); Arcana DC 15 (resonance mechanism); or Sera (auto, if asked) |
-| **Secondary Objective** | Sera's trust: how players treat the box signals who they are. Elegant puzzle-solving — or asking her — builds investment. Forcing the mechanism (Thieves' Tools) damages Fragment II and her confidence in them. That gap affects whether she volunteers the names of the other Dawnborn in Session 3. |
+| **Goal** | Reach the box through three layered defences; solve the runic combination; retrieve Fragment II |
+| **Location** | Valdric's Lockhouse, Ashfen Gate district — three nested rooms |
+| **Structure** | Room 1: Entry/Surveillance (social/stealth); Room 2: Antechamber cipher lock (puzzle using F1); Room 3: The box itself (runic combination) |
+| **Beat 2** | The box opens. Fragment II retrieved. Self-decode: "THE WILLING VESSEL IS THE MECHANISM." |
+| **Second Partial Win** | F1 + F2 together: lines 1, 2, 4, 5 of the ritual cipher become almost fully readable. Only "E\_ACT" remains. The mechanism is clear. One symbol still missing. |
+| **Clock** | If players were spotted in Room 1 — Reckoning backup arrives in 2d4 rounds from the moment they enter Room 2. Count openly. |
+| **Secondary Objective** | Sera's trust: how players treat the box signals who they are. The combination comes from reasoning, not forcing. Players who brute-force the rings get it open but Sera sees them do it — that gap costs trust in Session 3. |
+
+</details>
+
+---
+
+<details>
+<summary>📄 Room 1 — The Lockhouse Entry</summary>
+
+<details>
+<summary>📄 Read Aloud</summary>
+
+> Valdric's Lockhouse: a three-storey building of solid stone at the corner of Ashfen Gate and the Unmarked Lane. Amber lamp above the door — but no hook beneath it, exactly as Theron's note said. The building is dark. It is not empty. A figure at the corner of the next block has been there since before you rounded the turn. Standing still, collar up, watching.
+
+*(Passive Perception ≥ 12: The figure has a crossbow slung low at their hip, kept out of the street light. They are not trying to be invisible — they are trying to be boring. Reckoning.)*
+
+*(Passive Perception ≥ 15: A second figure on the roofline of the building opposite. They clocked you thirty seconds ago.)*
+
+</details>
+
+**The Challenge:** The Reckoning has had this lockhouse under watch for at least two hours. They do not yet know about the box or its exact location — they are following Theron's movements, not Sera's. They will not stop players from entering (they have no grounds yet), but if players are visibly noted, they'll signal their contact inside the hour.
+
+**Entry options:**
+
+| Approach | DC / Condition | Consequence |
+|---|---|---|
+| Sera's key (side entrance) | Auto — she has it | No alarm; Reckoning does not see who entered, only that the side door opened |
+| Bluff / distract the watcher | Deception or Persuasion DC 13 | Full pass; watcher doesn't signal for 1 hour |
+| Stealth (group check) | DC 14 | Success: unseen. Failure: watcher makes a note — backup arrives later |
+| Confront the watcher | Combat: CR 1 Scout; roofline watcher (CR 1/2 Scout) joins round 2 | Loud. Watcher 2 signals before engaging — 4 rounds until 3 more Reckoning arrive |
+
+**Sera:** "I have a key. The side door. Let me go first." She does not wait for agreement.
+
+</details>
+
+---
+
+<details>
+<summary>📄 Room 2 — The Antechamber (Cipher Lock)</summary>
+
+<details>
+<summary>📄 Read Aloud</summary>
+
+> The corridor behind the side entrance smells of old wood and the specific cold of a building that stores things rather than people. At the far end: a heavy iron door. Section C, according to the painted number. Sera's section.
+>
+> Her key does not fit. The lock has been changed.
+>
+> A newer mechanism has been fitted — a rotating-ring cipher lock mounted over the original keyhole. Four brass rings, each engraved with ten symbols. You have seen these symbols before. You are holding one of the keys to reading them.
+
+*(Passive Perception ≥ 14: A thin wire runs from the back of the lock housing to a point three inches inside the door frame. Trigger mechanism. Whatever it activates is on the other side.)*
+
+</details>
+
+**The Lock:** The Reckoning fitted this lock six hours ago. It is their own design — but they used the notation symbols as the ring characters, because the notation symbols were in their research files. They did not know that the very people coming here would already have Fragment I.
+
+**Mechanism:** Four rings, each with 10 symbols from Fragment I. Setting them to spell a four-letter word in sequence. The correct word: **◎◇●⬠** = S, H, R, I... wait — that's five letters. The correct word: **◎◇●⬠⬡◈** spells S-H-R-I-N-E (six). Actually the rings spell **◎◈⬠⬡** = S-E-I-N...
+
+**Correct reading: four rings, four symbols:**
+- ✦◇●◈ = T · H · R · E → does not spell a word
+- Use **◎◈⬡✦** = S · E · N · T → "SENT" (the word on the original deposit slip Theron filed, visible if players search the room)
+
+*A deposit receipt pinned to the wall nearby (Perception DC 11 to notice):* "Section C contents: three crates personal effects, one wrapped parcel — SENT for long-term hold. Depositor: Waide, T." The word SENT is the access code.
+
+**How players find the word:**
+- Deposit receipt on wall: Passive Perception ≥ 11 — automatic in a lit corridor
+- Fragment I in hand: the four ring symbols are immediately readable (◎=S, ◈=E, ⬡=N, ✦=T) — no check required if Fragment I is decoded
+- Investigation DC 12 without Fragment I: notice the symbols match a pattern from the fragment they're carrying
+- Ask Sera: she doesn't know the combination but notices the receipt — "That's Theron's handwriting. Why does the receipt have four letters circled?"
+
+**The Trap:**
+*(Thieves' Tools to DISARM the wire: DC 13 — safely neutralised)*
+*(Forcing the rings without the right combination: Shriek Ward activates — a magical alarm scream audible two streets away; Reckoning backup arrives in 2d4 rounds if not already running)*
+
+**Character-Specific:**
+
+| Character | Edge |
+|---|---|
+| **Rogue** | Auto-spots the trigger wire (Passive Perception ≥ 14 auto-met by Rogue proficiency); DC 13 Thieves' Tools to disarm safely |
+| **Wizard / Arcana** | *(Arcana DC 11)* The Shriek Ward is a standard Reckoning ward — not dangerous, just loud. Recognisable from Archive documents. Suppressing it requires casting Silence (auto-suppressed) or Dispel Magic DC 12 |
+| **Cleric / any divine** | *(Religion DC 10)* The layout of the rings matches a pre-Silence notation style — the symbols are the same script as the fragment. This is Corven's system. |
+| **Any character with Fragment I decoded** | No check. ◎◈⬡✦ = SENT. They see it immediately. |
+
+</details>
+
+---
+
+<details>
+<summary>📄 Room 3 — The Storage Alcove</summary>
+
+<details>
+<summary>📄 Read Aloud — Entering</summary>
+
+> Section C is exactly what it says: shelves of wrapped objects, crates with tag numbers, the cold stillness of things stored long-term by people who hoped to come back for them. Most have dust on the tags. Some have dates.
+>
+> At the far shelf — unwrapped, because Sera didn't think it needed wrapping — the box. The size of a large book. Brass-fitted dark wood, old in the way of objects that have outlasted everyone who made them. Three rings protrude from the lid in concentric bands. The inner two are engraved with symbols you don't immediately recognise — angular, geometric, fifty characters between them. The outermost ring: phases of the sun and moon, twelve positions, the crowns ranging from dark new moon to full blazing disc.
+>
+> When you bring Fragment I close, the resonance begins before you expect it. A faint harmonic hum — not sound exactly, more like the air beside your ear deciding to vibrate.
+
+*(Passive Perception ≥ 15: The exterior bottom of the box has three characters scratched lightly into the wood — ᚷ · ᛞ · ☀ — in a hand that was being careful. Someone left a backup for themselves.)*
 
 </details>
 
 <details>
-<summary>📄 Read Aloud — The Box</summary>
+<summary>📄 The Puzzle — Three-Ring Runic Combination</summary>
 
-> Sera's borrowed corner of the lockhouse: a narrow room behind a merchant's accounts office, shelves of wrapped objects whose owners you'll never know. The air is cold in a way that doesn't fix when the door closes — it smells of old wood, metal polish, and the particular stillness of a room used for holding things, not living in them. The air tastes of old brass and locked rooms. You are the first warm thing to have been in here in a long time.
->
-> She takes something from the back shelf and sets it on the only clear surface. The box is the size of a large book: brass-fitted wood, dark from years of handling, old in the way of objects that have outlasted the people who made them. Five cylinders protrude from the lid, each engraved with astronomical symbols on rotating rings. When you bring Fragment I close, something happens before you expect it — a faint resonant hum, barely there, like two tuning forks too far apart to ring together properly. The symbols match. Partially.
->
-> There's no keyhole. No obvious latch. The cylinders click softly when turned — precisely, like something that has been waiting a very long time for someone to remember what it's waiting for.
+**The Resonance Box has three rotating rings:**
 
-*(Passive Perception ≥ 15: The wood of the box is slightly discoloured in five spots where hands have held it regularly. Someone opened this box more than once.)*
+| Ring | Characters | Count | Must be set to |
+|------|-----------|-------|---------------|
+| **Inner ring** | All 24 Elder Futhark runes | 24 positions | **ᚷ Gebo** — Gift, voluntary giving |
+| **Outer ring** | All 24 Elder Futhark runes | 24 positions | **ᛞ Dagaz** — Dawn, irreversible breakthrough |
+| **Crown ring** | Twelve sun/moon phases | 12 positions | **☀ Full Sun** — Complete solar presence |
 
-</details>
+**The clues players already hold:**
 
-<details>
-<summary>📄 The Puzzle — Dawnmark Setting Order</summary>
+| Clue source | What it points to |
+|---|---|
+| **Edoran's sealed note** (looted from his body): *"The willing heart gives freely what the bound heart cannot"* | **Gebo** — the rune of gifts, voluntary giving, exchange that cannot be compelled. The only rune in the Futhark that means *giving freely*. |
+| **Fragment I self-cipher** (decoded in Session 1): *"THE LIGHT IS STILL THERE"* | The sun is not gone. The crown ring must reflect that: **Full Sun**. |
+| **The book's title** in the Archive, written above the ritual notation: *"Ritual of Eternal Dawn"* | **Dagaz** — the dawn rune. Not morning. Not sunrise. The specific moment of transition — irreversible once crossed. |
+| **Exterior scratches on box bottom** *(Passive Perception ≥ 15)*: ᚷ · ᛞ · ☀ | The complete answer, if players are truly stuck |
 
-**The mechanism:** Each cylinder represents one star in the Dawnmark constellation — the star cluster associated with the sun god Auris and the last celestial event visible before the Silence. Setting the cylinders to the correct *rising order* (the sequence in which the Dawnmark stars appeared on the last night before the Silence) opens the box.
+**The math:** 24 × 24 × 12 = **6,912 possible combinations**. A math professor trying random combinations would need to brute-force. A player reasoning from Edoran's note → Gebo, the Archive title → Dagaz, and the Fragment I self-cipher → Full Sun can solve it without the backup hint. This is its own satisfaction.
 
-**The solution:**
+**Gebo specifically:** The only rune in the Elder Futhark associated with voluntary sacrifice and love as gift. Gebo and Dagaz are both symmetric runes — they look the same forwards and backwards. The mechanism *cannot be undone once set correctly.* The box opens and does not close fully again. This is a feature.
 
-1. The Pale Fisher (always first — the fishers' star, navigation anchor)
-2. The Warden's Star (second — Auris's herald)
-3. The Shepherd's Eye (third — traditionally marks the harvest season)
-4. Vael's Crown (fourth — the Ashfen clans use it as a funeral marker)
-5. The Trailing Light (last — the star that remained visible the longest after Silence fell)
+**How players work it:**
 
-**How players can learn this:**
-
-| Method | DC / Condition |
-|--------|---------------|
-| History check | DC 13 — Dawnmark rising order is in standard astronomical records |
-| Religion check | DC 11 — Auris liturgy includes the star sequence as a chant |
-| Fragment I | The symbols on the cylinder, examined carefully, are Dawnmark glyphs — the order is encoded in the fragment itself (Arcana DC 15 or Investigation DC 14 to notice) |
-| Ask Sera | Auto — she knows the constellation but doesn't know why it matters. "My father knew every star. This one he pointed out twice." |
-| Consult star map (if carried from Archive) | Auto |
+- Setting a ring: one action per ring. With the solution known, three rounds minimum to align all three.
+- Setting a wrong combination: the box does not lock or trap — it simply doesn't open. The rings reset to neutral.
+- The Arcana DC 14 recognition: *The resonance hum changes pitch as each ring approaches its correct position.* A Wizard or anyone with Arcana proficiency can use this as audio feedback — advantage on "is this ring right?" judgement.
 
 **Character-Specific Knowledge:**
 
 | Character | What they know |
-|-----------|---------------|
-| **Cleric (Auris domain)** | Auto-knows the sequence — it's in the Sunrise Litany, recited at dawn ceremonies. *"We've been singing this for fifty years without a dawn to mark."* |
-| **Druid / Ashfen Clan background** | Auto-knows Vael's Crown position — it marks the death-season. The fact that it's fourth, not last, is unusual. That detail nags. |
-| **Wizard / Arcana proficiency** | *(Arcana DC 12)* The cylinders are set with a resonance lock — two physical fragments tuned to the same frequency will cause the correct cylinder to vibrate faintly when the matching glyph aligns. Fragment I in hand acts as a tuning key. |
-| **Rogue / Thieves' Tools** | *(Thieves' Tools DC 16, or Dex DC 18)* Could force the mechanism — but it would damage the Fragment II inside. Sera will object loudly. |
+|---|---|
+| **Cleric / Paladin** | *(Religion DC 11, auto if Auris domain)* Gebo is the rune of the sacred exchange — the gift that consecrates. Dagaz is the rune of the Eternal Day, used in Auris dawn liturgy. Both appear in the Sunrise Litany's opening stanza. |
+| **Druid / Ashfen background** | *(Nature DC 10)* Dagaz marks the shift-point — solstice, the irrevocable turn. It is read as "the thing that changes and cannot un-change." Gebo is the rune given to those who vow freely. |
+| **Wizard / Arcana** | *(Arcana DC 14)* The resonance feedback — the hum pitches slightly higher as each ring approaches correct alignment. Acts as a tuning signal. Advantage on verifying each ring. |
+| **Rogue / high Perception** | *(Passive Perception ≥ 15)* The scratched marks on the box exterior: ᚷ · ᛞ · ☀. Full solution, no checks needed. |
+| **Anyone with Elder Futhark reference page** *(prop)* | Can look up Gebo and Dagaz directly. Automatic. |
 
 </details>
 
 <details>
 <summary>📄 Beat 2 — Fragment II Retrieved</summary>
 
-> The last cylinder clicks into place. The box opens on a hinge you couldn't see before.
+> The third ring clicks. The hum becomes something felt rather than heard — a long, low vibration through the wood and into your palms, and then the lid lifts on a hinge you couldn't see.
 >
-> Inside: a second brass cylinder, longer than the first, engraved with matching symbols — clearly designed to interlock with the one you're carrying. When you bring them together, the symbols align perfectly along the join. Two halves of something that was never meant to be separated.
+> Inside: a second brass cylinder. Longer than the first. The same notation symbols, a different set — clearly designed to work with what you're already carrying. When you bring them together, the symbols align perfectly at the join. Two halves of something that was never meant to be separated. The resonance doubles.
 
-Sera picks up the empty box and looks at the inside of the lid. There's a word pressed into the wood in small, careful letters.
+Sera picks up the empty box and examines the inside of the lid. There is a single word pressed into the wood in careful letters.
 
-> "It says *remember.*" She sets the box down. "Eleven years I had this in a lockhouse. I thought it was a family piece."
+> "It says *remember.*" She sets the box down. "Eleven years."
 
-*(Passive Insight ≥ 13: She's not angry. She's relieved she finally knows.)*
+*(Passive Insight ≥ 13: She's not angry. She's relieved she finally knows. And she is deciding something.)*
+
+**Second Partial Win — what decoding Fragment II immediately reveals:**
+
+Players who combine Fragment I + Fragment II can now read the self-cipher on Fragment II's cylinder:
+
+> **◈ ⬠ ⬡ ⊙ ▲ ⬟ ⊕ ⬠ ⬟ ⬟ ⬠ ⬡ ◆ &nbsp; ■ ◇ ◈ □ ⊕ ⬠ ⬟ ⬟ ⬠ ⬡ ◆ &nbsp; ⊕ ⬠ ⬟ ⬟ ⬠ ⬡ ◆ &nbsp; ▲ ▼ ✦ ⊙ ▲ □ ◈**
+
+Decoded: **"ENCOLWING PHEMWING WILLING OUTCOME"** — wait, let me use the correct mapping.
+
+*Fragment II self-cipher (cylinder reverse face):* ⊕◇◈ &nbsp; ⊕⬠⬟⬟⬠⬡◆ &nbsp; ▼◈◎◎◈⬟ &nbsp; ⬠◎ &nbsp; ✦◇◈ &nbsp; □◈⊙◇⊗⬡⬠◎□
+
+**Decoded:** "THE WILLING VESSEL IS THE MECHANISM"
+
+This is the second standalone win. The Dawnborn are not observers. They are components. The ritual doesn't use them — it runs *through* them.
+
+**Main cipher state with F1 + F2 active:**
+
+The ritual notation is now almost fully readable. Only the word "E\_ACT" in line 3 (missing X, held by Fragment III) remains as a gap. Players can see the shape of what the ritual demands. The one missing letter is deliberate — precision of timing is the last secret.
+
+</details>
 
 </details>
 
@@ -458,145 +572,153 @@ If players ask her what she's thinking:
 ---
 
 <details>
-<summary>📁 Scene 5 — Harran Lecht's Arrival (Tension / Combat)</summary>
+<summary>📁 Scene 5 — The Pale Gathering (Combat / Survival)</summary>
 
 <details>
 <summary>📄 Quick Card</summary>
 
 | | |
 |---|---|
-| **Goal** | Players make their first real choice under pressure |
-| **Location** | Dawnhall common room / ground floor |
-| **Threat** | Harran Lecht + 2 Reckoning enforcers |
-| **Secondary Objective** | Protect the documents (both cylinders + Theron's notes). If Harran gets them, Session 3 is harder. |
-| **Beat 2** | Harran makes an offer — without threatening yet. |
-| **Exit** | Players flee / hold / negotiate. Any outcome works. No outcome closes future options. |
+| **Goal** | Survive what the box released. Protect Sera. Manage Harran as a wild card. |
+| **Location** | Dawnhall common room — the largest enclosed space available |
+| **Primary Threat** | The Pale Anchors × 2 (CR 5 each) + Dawn-Shades × 6 (CR 1 each) — spirits released when the Resonance Box was opened |
+| **Wild Card** | Harran Lecht arrives mid-scene with 2 Enforcers — neither side expected this timing |
+| **Secondary Objectives** | (1) Protect Sera — she is the spirits' priority target; (2) Keep the cylinders — if dropped, shades are drawn to them; (3) Decide about Harran — does the party work with him against a common threat, or not |
+| **Beat 2** | A Pale Anchor reaches Sera — makes contact — she goes very still and then says one word: *"Mother."* |
+| **Win Conditions** | All spirits destroyed (requires magic or radiant) · OR · Complete the runic box alignment (Gebo + Dagaz + Full Sun) for an immediate radiant burst · OR · Close the box (1 action, Strength DC 13) to suppress new shades and cause 1d4 existing shades to fade |
+| **Exit** | Spirits destroyed or suppressed. Harran either became an ally for 60 seconds or watched from the door. The room is cold. Nobody is okay. |
 
 </details>
 
 <details>
-<summary>📄 Read Aloud — The Knock</summary>
+<summary>📄 Signs During Scenes 3 and 4 — The Building Dread</summary>
+
+The box has been open since Scene 2. Over the course of the decoding and Theron's confession, the room is changing. Players who are watching will notice. Players who are not will be caught completely off-guard.
+
+| DC | What they notice |
+|----|-----------------|
+| Passive Perception 10 | A candle on Theron's side of the table goes out without wind |
+| Passive Perception 13 | The shadows in the corner near where the box sits are slightly wrong — oriented toward it rather than away from the lamp |
+| Passive Perception 15 | The shadow on the wall behind Sera doesn't match her posture exactly. It's anticipating her |
+| Passive Perception 17 | A second silhouette in the corner shadows — one that isn't there when you look directly at it |
+| Active Investigation DC 12 | The temperature in the room has dropped three degrees since the box was opened |
+
+**DM Direction:** Do not describe these proactively. Only reveal to players who ask or whose passive scores qualify. The dread should build quietly until it can't anymore.
+
+</details>
+
+---
+
+<details>
+<summary>📄 Read Aloud — Harran Arrives / The Room Changes</summary>
 
 > Three knocks. Measured. Not urgent. The specific knock of someone who is confident you will answer.
 >
-> The door opens before anyone does. Cold night air for one second — you can smell it, the Lowmark streets, chill and amber-lit — and then the room closes around a broad-shouldered man, around fifty, wearing amber-and-grey as a colour choice rather than a uniform. He steps in without looking at the door. He is already looking at the table. At the cylinders.
+> The door opens before anyone does. A broad-shouldered man, around fifty, amber-and-grey. He steps in without looking at the door — already looking at the table, at the cylinders. He catalogues the room in the order of someone who has done this before: exits, objects of value, people most likely to cause problems. Then—
 >
-> He catalogues everyone in the room in the order of someone who has done this many times: the exits, the objects of value, the people most likely to cause problems. Then a nod — not quite apologetic; more like acknowledgment that this is awkward and he has decided to proceed anyway.
+> He stops.
 >
-> Behind him, two figures hold the doorframe. Their hands are visible. Nothing is drawn.
+> Not a social stop. The stop of someone who has recognised something they were not expecting to find here. His hand goes to his inside coat pocket — not a weapon. Something else.
 >
-> *"I heard the box was opened. I came to talk before anyone did anything they couldn't undo."*
+> *"How long has the box been open?"*
+>
+> The temperature drops. Not gradually. Like a door opening onto winter.
+>
+> And in the corner near the back shelf, the shadows collect.
 
-*(Passive Perception ≥ 13: There is a silhouette at the window to the left of the door. A fourth person. Watching.)*
-
-*(In the room: the metallic specific taste of a situation that hasn't become violence yet but is considering it.)*
+*(The room smells of old metal and something else — something that does not belong in a Dawnhall, cold and vast and wrong, like the air three feet off the ground in a place where something died.)*
 
 </details>
 
+---
+
 <details>
-<summary>📄 Harran Lecht</summary>
+<summary>📄 Read Aloud — Manifestation</summary>
 
-**Harran's offer (before any roll):** "The ritual is real. We've known for nine months. We're going to complete it regardless — not because we're cruel, but because the alternative is that sixty percent of this city dies over four years and no one survives to argue about whether it was right. What we want is cooperation, not a fight. The Dawnborn who participate survive — or most do. The ones who refuse complicate things."
-
-**He does not threaten. He states.**
-
-**What he won't say without pressure:**
-
-| Check | Revelation |
-|-------|-----------|
-| Insight DC 13 | "Most do" is doing heavy lifting. He doesn't actually know the survival rate. |
-| Persuasion DC 14 | The Reckoning's independent derivation is complete. They don't need Theron's documents anymore. He's here to contain, not acquire. |
-| Intimidation DC 16 | "Complicate things" means forced participation, not death. They want living Dawnborn for the ritual. Killing them defeats the purpose. |
-| Persuasion DC 18 or roleplay that lands | He personally finds this decision abhorrent and has told his leadership so. He is here because someone has to be, and he trusts himself more than the alternative. |
-
-**The enforcers:** Stay at the door. Do not draw weapons unless Harran signals or players attack first.
+> There are three of them. Later, when you try to remember seeing them arrive, you won't be able to — they are simply *there*, the way a room's cold spots are always there but you only notice when you stop moving. Pale and partial. Their outlines suggest people who were interrupted in the middle of being something.
+>
+> They do not have faces exactly. But they are oriented toward Sera.
+>
+> The youngest-looking one — it is wrong to call it young, but the impression is there — reaches out one hand. The temperature drops another ten degrees. And the Dawnhall, outside the door, continues on without noticing a thing: voices, spoons, someone calling a name.
+>
+> In here: the particular silence of a room that is now somewhere else.
 
 </details>
 
+---
+
 <details>
-<summary>📄 Three Ways This Scene Resolves</summary>
+<summary>📄 The Three-Way Situation — Harran, Players, Spirits</summary>
 
-*All three paths are equally valid. No outcome closes future options.*
+When the Pale Anchors manifest, three forces occupy the same room. How this resolves depends entirely on what players do in round 1.
 
-**Path 1 — Talk (Preferred by Harran)**
+**Harran's read:** He has seen this before. The Reckoning researched the Silence extensively. He knows what these things are — echoes of Dawnborn consumed in the original failed ritual. He knows they target living Dawnborn first. He knows there is one living Dawnborn in this room.
 
-Harran opens with an offer before any hostility (see his stat block and dialogue above). Players can negotiate by engaging directly with his logic.
+**Harran's options (depending on what players do):**
 
-- *DC 15 Persuasion + clear argument for Dawnborn consent:* Harran agrees to "observe only" for 72 hours. He gives his word. He keeps it. This is not a trick — but it normalises the Reckoning as a party you negotiate with, which is its own trap.
-- *DC 18 Persuasion or exceptional roleplay:* Harran confirms he personally opposes forced participation. He will not act against Sera directly. "I'm not the one you need to worry about." This is genuine. It also tells them someone worse is waiting.
-- *DC 13 Insight mid-negotiation:* Harran's "most do" survive estimate is load-bearing. He doesn't actually know the survival rate.
-
-**Path 2 — Flee (Secondary: Save Documents)**
-
-The kitchen exit is at the back of the Dawnhall common room. A Rogue clocks it automatically. Others: DC 14 Dexterity (Stealth) to slip out while Harran is still talking.
-
-- Documents must be grabbed first (bonus action or action). If players flee without them, an Enforcer pockets both cylinders by round 2.
-- The Watcher outside covers the main door. The kitchen exit bypasses them — but only if players move before Harran signals.
-- If players flee successfully, Harran doesn't pursue immediately. From the door: *"We'll talk when you've had time to think."* He lets them go. He's already learned what he came to learn.
-
-**Path 3 — Fight (Secondary: Protect the Documents)**
-
-See Combat section below. Secondary objective: the cylinders are on the table. Any round players don't act to secure them, an Enforcer moves for a Document Grab. If an Enforcer pockets both cylinders and Disengages, Harran calls withdrawal — he has what the Reckoning needed.
-
-| Player Action | Consequence |
+| Player action round 1 | Harran's response |
 |---|---|
-| Secure documents immediately | Enforcers redirect to covering Harran's exit. Fight becomes simpler. |
-| Ignore documents | Turn 2: one Enforcer Grabs and Disengages. Turn 3: Harran withdraws with both cylinders. |
-| Attack Harran first | Enforcers use Document Grab as cover action while players are focused on him. |
+| Players engage spirits cooperatively | Harran draws his sword and positions between Sera and nearest Anchor. Fights alongside party this encounter. No negotiation needed — he is simply not willing to let Sera die if he can stop it. |
+| Players attack Harran before noticing spirits | Harran defends himself for round 1. On round 2 he sees the spirits reach Sera. He makes a choice. (DC 13 Persuasion to redirect him toward spirits; auto-redirected if Sera screams.) |
+| Players do nothing / freeze | Harran orders his Enforcers to form a line and addresses the party: *"Whatever your problem is with me — that is not the problem right now."* |
+| Players try to use spirits as cover to flee | The spirits follow the strongest resonance — the cylinders and Sera. Fleeing with the cylinders draws two Shades with you. |
+
+**Harran's enforcers:** They do not understand what they're seeing. One attempts to draw on a shade and the bolt passes through. That takes one round to register. After that, they take defensive positions and look to Harran.
+
+**Harran's hard limit:** He will not let Sera be consumed. He does not explain this. His reasons are his own. He will fight spirits until he is incapacitated or they are destroyed.
 
 </details>
 
-<details>
-<summary>📄 Combat (if it starts)</summary>
-
-**Trigger:** Players attack, Sera panics and bolts (Harran will block her), or Theron tries to leave with the documents.
-
-**Full stat blocks in the GM Monster Cards section below.** Summary:
-
-| Combatant | AC | HP | Key Ability |
-|---|---|---|---|
-| **Harran Lecht** | 14 | 58 | Multiattack 2, Parry reaction, Tactical Withdrawal, Nonlethal Mandate |
-| **Reckoning Enforcer ×2** | 12 | 27 | Cunning Action, Document Grab bonus action, one has a concealed crossbow |
-| **Reckoning Watcher (outside)** | 13 | 16 | Warning Shot on signal, will flee if confronted directly |
-
-**Gestalt note (5 players × gestalt level 4):** This fight is mechanically easy. It is not designed to challenge HP — it is designed to challenge *decisions*. The Enforcers will attempt Document Grab every round. Harran is almost impossible to provoke into lethal force. The Watcher is a deterrent, not a combatant. The encounter ends the moment players make a clear choice (documents secure, Harran withdraws, or a path from the Three Ways section above).
-
-**Secondary objective:** The cylinders are on the table. Any round players don't act to secure them, an Enforcer uses Document Grab. It takes one bonus action to pocket both cylinders and Disengage. If an Enforcer gets them, Harran calls a tactical withdrawal — he's achieved his secondary goal regardless of the fight's outcome.
-
-**Character-Specific:**
-
-| Character | Edge |
-|-----------|------|
-| **Rogue** | *(Auto)* Back exit through the kitchen — clocked it on arrival. 10 feet, unguarded. |
-| **Wizard / Sorcerer** | Harran is not resistant to magic — but he is not a fool. He will use Disarming Strike against anyone who begins casting if he can reach them. Enforcer B's Distraction Bolt (concealed crossbow, DC 13 CON save) specifically targets Concentration. Priority: the spellcaster. |
-| **Paladin / any face** | Harran will pause combat to finish a sentence. He'd genuinely rather not fight. DC 15 Persuasion mid-combat to get him to stand down for a parley. |
-| **Fighter / any martial** | *(Passive Perception ≥ 13)* The enforcers have a signal — a tap on the door frame — for a third person outside. Harran came with backup. |
-
-</details>
+---
 
 <details>
-<summary>📄 Beat 2 — Harran's Offer</summary>
+<summary>📄 Beat 2 — "Mother."</summary>
 
-Whether combat starts or not, at some point Harran will say:
+On round 2, if a Pale Anchor reaches Sera and makes contact (touch, not damage — approaching within 5 ft is enough), she goes very still.
 
-> "I'm going to ask you a question and I want you to think before you answer." He looks at the cylinders — or wherever they are. "The sun comes back. Varenhold survives. Fourteen people — who consented, most of them, when they understood what they were — are gone or diminished. Is that a price you would pay? With your own hands?"
+> She is not being hurt. She is being *recognised*. The Anchor has her face in its hands — it has something like hands — and it is looking at her with the specific attention of something that has been trying to find its way back for fifty years.
 >
-> He waits.
+> Sera, eyes very wide, says one word.
+>
+> *"Mother."*
+>
+> Then the Anchor moves toward her heart.
 
-**DM Direction:** This is not a trick. He wants to know their answer. He'll remember it.
+**DM Direction:** This is the emotional peak. Do not rush it. Players who do not immediately act to pull Sera away or destroy the Anchor will watch the thing consume her. That is also valid — it makes the revelation about what the Pale Anchors are hit significantly harder. If players save her: Sera is shaking and does not explain what she saw. She says: *"I'm fine."* She is not fine.
 
 </details>
+
+---
+
+<details>
+<summary>📄 Win Conditions</summary>
+
+**1 — Destroy all spirits through combat**
+Requires magical weapons or spells. All spirits have immunity to nonmagical bludgeoning, piercing, slashing. Radiant damage is doubly effective — spirits struck by radiant glow visibly and lose cohesion for 1 round (disadvantage on all attacks). Destroying a Pale Anchor destroys all Shades it has spawned this encounter.
+
+**2 — Complete the runic box alignment (Gebo + Dagaz + Full Sun)**
+If the box is still present and a player attempts the combination during combat (1 action per ring = 3 rounds minimum), completing the full alignment produces a pulse of concentrated radiant energy: all spirits within 30 ft take 6d8 radiant damage, DC 15 Constitution save or immediately destroyed. This is the most satisfying possible resolution — the puzzle that opened this problem is the key that closes it.
+
+**3 — Close the box**
+1 action, Strength DC 13. The box closes fully for the first time since it was opened. Effect: new Dawn-Shades stop arriving; 1d4 existing Shades immediately fade and disperse. Pale Anchors are weakened but remain. This buys time.
+
+**4 — Remove Sera from the room**
+The Pale Anchors' target priority is Sera. If she is physically moved more than 60 ft from the box (outside the building), both Pale Anchors pause for 1 full round (hovering, disoriented) and Dawn-Shades scatter toward the box instead. This does not end the encounter but creates an opening.
+
+</details>
+
+---
 
 <details>
 <summary>📄 Exits</summary>
 
-| Player choice | What happens |
-|--------------|-------------|
-| **Fight and win** | Harran withdraws. Notes players as "decisive." Sessions 3+ he sends intermediaries instead of coming himself. |
-| **Fight and lose** | Harran takes the documents. Doesn't harm players (he needs information they might have). Session 3 begins with players at a disadvantage. *(Note: against 5 gestalt level 4 characters this outcome requires players to be badly split, exhausted, or deliberately choosing to lose. If players want this outcome — they're making a choice, not failing. Honour it.)* |
-| **Negotiate** | Harran agrees to 48 hours of "no action" in exchange for players bringing him one Dawnborn's stated position voluntarily. This is a trap — it normalises the Reckoning as a party to negotiate with. |
-| **Flee with documents** | Harran pursues briefly, then lets them go. "We'll talk when you've had time to think." |
-| **Let him take the documents** | Theron is devastated. Sera is calculating. The players have made their first major choice and it will echo. |
+| Outcome | What follows |
+|---------|-------------|
+| **Spirits destroyed, Harran present** | He stands in the aftermath, sword sheathed. *"I came to talk. We still need to talk."* — but he doesn't start with an offer now. He's seen something he didn't expect. He needs a minute. |
+| **Runic box used to end the fight** | The box does not open again. Whatever was in it is gone. Harran watches. He knows what the combination means. He says nothing, but his Enforcers write it down. |
+| **Sera consumed / incapacitated** | Pale Anchors drift toward the box, satisfied. Harran's posture changes completely. He is no longer managing a situation — he is furious in the specific way of someone whose plan just became ash. He leaves. He does not take the cylinders. |
+| **Players flee with cylinders** | Two Dawn-Shades pursue (drawn to the resonance). Harran does not pursue. The Dawnhall is left with the Anchors, Theron, and a room full of people who don't know what they're seeing. |
+| **Box combination solved mid-combat** | Scene closes on the flash of radiant energy, the cold receding, and Harran standing in the doorway with his Enforcers — all of them blinking. A long silence. Then Harran: *"I'm going to need to revise several things I thought I knew."* |
 
 </details>
 
@@ -615,10 +737,11 @@ Fill this out at the end of session. Carry it to Session 3.
 | Consequence | Notes |
 |-------------|-------|
 | Documents secured? | Yes / No — location: |
-| Sera's position | Willing / Undecided / Unwilling (she won't decide tonight) |
+| Sera's position | Willing / Undecided / Unwilling — and was she touched by an Anchor? |
 | Theron's status | Trusted / Mistrusted / Exposed |
-| Harran's read of players | Enemies / Negotiating partners / Unknowns |
-| Any Dawnborn alarmed? | Did players say anything to Sera that she'll share with the others? |
+| Harran's read of players | Temporary allies / Enemies / Unknowns |
+| Box combination used? | If yes: Harran knows the answer now. That changes Session 3. |
+| Any Dawn-Shades fled? | Did any escape the Dawnhall? Varenhold notices things that move wrong in the amber dark. |
 
 </details>
 
@@ -627,11 +750,11 @@ Fill this out at the end of session. Carry it to Session 3.
 
 *Ask this at the table, not rhetorically:*
 
-**"Theron had eleven years. If you were him — if you found something that true and that terrible — what would you have done differently?"**
+**"Sera said 'Mother.' What do you think she saw?"**
 
-Wait for answers. Players who answer quickly and confidently are certain about something. Players who hesitate are doing the interesting work. Both tell you something about Session 3.
+Wait for answers. Then: *"What does it mean that the Pale Anchors are trying to find their way back?"*
 
-*(The second question, if the table wants to keep going:)* "When Harran asked if you'd pay that price with your own hands — what did your character think?"
+*(The second question, if the table wants to keep going:)* "If you could seal the box and never open it again — would you? What would that decision cost?"
 
 </details>
 
@@ -641,21 +764,22 @@ Wait for answers. Players who answer quickly and confidently are certain about s
 | Milestone | Awarded if |
 |-----------|-----------|
 | **The Box Opens** | Players retrieved Fragment II |
-| **The Truth** | Players decoded the ritual text |
+| **The Truth** | Players decoded the ritual text with F1 + F2 |
 | **Theron's Silence** | Players heard the full confession |
-| **First Choice** | Players resolved Scene 5 by any means |
+| **The Pale Gathering** | Players survived Scene 5 by any means |
+| **Bonus: Elegant Resolution** | Players ended the encounter by completing the runic box combination |
 
-All four milestones = full session XP. Partial milestones prorate.
+All four core milestones = full session XP. Bonus milestone = one inspiration each.
 
 </details>
 
 <details>
 <summary>📄 What Comes Next (Session 3 hooks)</summary>
 
-- Sera says she'll talk to the other Dawnborn. When she does, the Reckoning will know. How?
+- Sera says she'll talk to the other Dawnborn. One of them is already missing. Aldric.
 - Theron's second copy of the documents. Where is it? Who else knows it exists?
-- Harran Lecht's 48-hour offer (if taken). Players have committed to something without knowing what.
-- Isolde Maren, Spire historian — she has been trying to reach Theron for weeks. Her message arrives the morning after.
+- Harran Lecht saw the runic box combination work. He now knows Gebo + Dagaz + Full Sun. What does the Reckoning do with that?
+- Isolde Maren, Spire historian — she has been trying to reach Theron for weeks. Her message arrives the morning after. She has Fragment III.
 
 </details>
 
@@ -664,16 +788,110 @@ All four milestones = full session XP. Partial milestones prorate.
 ---
 
 <details>
-<summary>📁 GM Monster Cards — Scene 5</summary>
+<summary>📁 GM Monster Cards — Scene 5 (The Pale Gathering)</summary>
 
-*All three stat blocks built for gestalt level 4 × 5 players (≈ 10 standard level-4 characters). No HP increases. Enhanced tactics, reactions, and meaningful weaknesses. Source base: Monster Manual (Veteran p.350, Spy p.349, Scout p.349).*
+*All stat blocks built for gestalt level 4 × 5 players (≈ effective level 7–8 single-class). Spirit immunities mean nonmagical martial characters are significantly reduced unless they have magic weapons. This is intentional — the encounter rewards creative problem-solving, not raw damage.*
+
+**Encounter XP:**
+- 2 Pale Anchors (CR 5): 3,600 XP
+- 6 Dawn-Shades (CR 1): 1,200 XP
+- Subtotal: 4,800 XP × 2.5 multiplier (7–10 creatures) = **12,000 XP — Hard/approaching Deadly**
 
 ---
 
 <details>
-<summary>🃏 Harran Lecht — Reckoning Investigator (CR 3, Veteran base)</summary>
+<summary>🃏 Pale Anchor ×2 (CR 5, Wraith variant)</summary>
 
-*Medium humanoid. Studded leather, civilian dress. He does not look like what he is.*
+*Medium Undead. Neutral. Partial-form echoes of Dawnborn consumed in the original Silence — fifty years of containment in the Resonance Box have made them hungry for completion.*
+
+| | STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|---|
+| **Score** | 1 | 14 | — | 12 | 12 | 16 |
+| **Mod** | −5 | +2 | — | +1 | +1 | +3 |
+
+**AC** 13 · **HP** 67 (9d8+27) · **Speed** 0 ft, fly 60 ft (hover)
+**Saves:** none
+**Damage Immunities:** Cold, Necrotic, Poison; Bludgeoning/Piercing/Slashing from nonmagical attacks
+**Damage Vulnerabilities:** Radiant
+**Condition Immunities:** Charmed, Exhaustion, Frightened, Grappled, Paralysed, Petrified, Poisoned, Prone, Restrained
+**Senses:** Darkvision 60 ft, Passive Perception 11
+**Languages:** Understands pre-Silence Varenhold — cannot speak
+
+---
+
+**Special Traits**
+
+**Incorporeal Movement.** Can move through creatures and objects as difficult terrain. Takes 5 (1d10) force damage if ending its turn inside a solid object.
+
+**Dawnborn Hunger.** While within 10 ft of a living Dawnborn (Sera), the Pale Anchor has advantage on all attack rolls and deals one extra die of damage with Life Drain. Sera makes saving throws against Life Drain at disadvantage while the Anchor is adjacent.
+
+**Resonance Pull.** Can sense Fragment cylinders within 60 ft. If no living Dawnborn is closer, it moves toward the cylinders instead (it wants completion, not destruction).
+
+**Anchor Form (1/encounter).** When first reduced below half HP: the Pale Anchor immediately spawns 1 Dawn-Shade and its maximum HP becomes its current HP (no healing above this threshold). Happens once per Anchor.
+
+---
+
+**Actions**
+
+**Multiattack.** Two Life Drain attacks.
+
+**Life Drain.** *Melee Spell Attack:* +6 to hit, reach 5 ft. *Hit:* 3d8+3 necrotic. Target makes DC 14 Constitution saving throw. On failure: target's HP maximum is reduced by the damage dealt until after a long rest. If this reduces HP maximum to 0: target dies.
+
+---
+
+**Tactics:** Both Anchors move directly toward Sera on round 1 — they do not coordinate, they compete. If one is blocked by the party, the other continues. When Anchor Form triggers, the spawned Shade immediately flanks the character who dealt the damage. Anchors do not flee.
+
+**Morale:** They cannot retreat. They are drawn here. They have been drawn here for fifty years.
+
+</details>
+
+---
+
+<details>
+<summary>🃏 Dawn-Shade ×6 (CR 1, Shadow variant)</summary>
+
+*Small Undead. Neutral. Fragments of awareness from the same original ritual failure — less coherent than the Anchors, more like intention without memory.*
+
+| | STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|---|
+| **Score** | 6 | 14 | — | 6 | 10 | 8 |
+| **Mod** | −2 | +2 | — | −2 | 0 | −1 |
+
+**AC** 12 · **HP** 22 (5d8) · **Speed** 0 ft, fly 40 ft (hover)
+**Damage Immunities:** Cold, Poison; Bludgeoning/Piercing/Slashing from nonmagical attacks
+**Damage Vulnerabilities:** Radiant
+**Condition Immunities:** Exhaustion, Frightened, Grappled, Paralysed, Petrified, Poisoned, Prone, Restrained
+
+---
+
+**Special Traits**
+
+**Amorphous.** Can move through spaces at least 1 inch wide without squeezing.
+
+**Incorporeal Movement.** As Pale Anchor above.
+
+**Suppressed in Bright Light.** In a bright light source (Light cantrip, Daylight, Luminous Flame, similar), Dawn-Shades have disadvantage on attack rolls and cannot use Strength Drain.
+
+---
+
+**Actions**
+
+**Strength Drain.** *Melee Spell Attack:* +4 to hit, reach 5 ft. *Hit:* 2d6+2 necrotic. Target makes DC 12 Strength saving throw. On failure: Strength score reduced by 1d4 until after a short or long rest. **If Strength reaches 0: target dies and rises as a new Dawn-Shade at the start of its next turn.**
+
+---
+
+**Tactics:** Dawn-Shades prioritise heavy-armour targets (high STR scores drain faster). They do not go for Sera — they leave her for the Anchors. Any player who deals radiant damage becomes their next priority (eliminate the threat before it eliminates them). If the box is closed during combat: 1d4 Shades immediately fade and disperse; remaining Shades cluster around the box.
+
+**Morale:** Do not flee. Do not pursue beyond 60 ft of the box.
+
+</details>
+
+---
+
+<details>
+<summary>🃏 Harran Lecht — Reckoning Investigator (as secondary combatant)</summary>
+
+*If players work with Harran against spirits, use this block. If players fight Harran AND spirits simultaneously, this becomes a chaotic three-way — viable, hard, memorable.*
 
 | | STR | DEX | CON | INT | WIS | CHA |
 |---|---|---|---|---|---|---|
@@ -681,149 +899,33 @@ All four milestones = full session XP. Partial milestones prorate.
 | **Mod** | +3 | +2 | +2 | +2 | +2 | +1 |
 
 **AC** 14 · **HP** 58 (9d8+18) · **Speed** 30 ft
-**Saves:** STR +5, CON +4
 **Skills:** Athletics +5, Insight +4, Investigation +3, Perception +4
 
----
+**Shortsword.** *Melee:* +5 to hit, 1d6+3 piercing. Against spirits: **only deals damage if magical or silvered**. Harran's sword is neither. He is aware of this. He uses himself as a physical barrier rather than a damage dealer.
 
-**Actions**
+**Tactical Position.** On his turn: moves to block a Pale Anchor's path to Sera (free action Shove attempt, DC 14 Strength vs. the Anchor's spell save). Anchors cannot be Shoved — but it costs the Anchor its movement to pass through him (5 force damage to Anchor, 5 force damage to Harran).
 
-**Multiattack.** Two shortsword attacks, or one shortsword + Disarming Strike.
+**Commanding Voice.** One Enforcer within 30 ft uses its reaction to drag Sera toward the kitchen exit (10 ft per use). If used twice: Sera is out of the Anchors' 60 ft detection range.
 
-**Shortsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft. *Hit:* 1d6+3 piercing. Always nonlethal (see below).
-
-**Disarming Strike.** One creature within 5 ft makes a DC 14 Strength save or drops one held item.
-
----
-
-**Bonus Actions**
-
-**Tactical Withdrawal.** Disengage as a bonus action; reposition to block an exit or stand between an Enforcer and a threat.
-
-**Commanding Voice.** One Reckoning Enforcer within 30 ft uses its reaction to move up to 10 ft and gains advantage on its next attack.
-
----
-
-**Reactions**
-
-**Parry.** +2 AC against one melee attack. Must see attacker and be holding a melee weapon.
-
----
-
-**Special Traits**
-
-**Nonlethal Mandate.** Harran always pulls his strikes. All damage is nonlethal unless he drops below 20 HP — at that point the mandate breaks. DC 13 Wisdom save at the start of each subsequent turn; on a failure, attacks deal lethal damage.
-
-**Calculated Eye (1/combat).** At initiative start, Harran identifies one player's primary combat style. He has advantage on saving throws against that player's spells and class abilities for the rest of the encounter.
-
-**"We Should Talk."** A player who makes DC 15 Persuasion while *not* attacking Harran that round forces him to call a halt (bonus action: order all Enforcers to hold, cease attacking). He will re-engage if players do — but he will try not to.
-
----
-
-**Weakness:** A good argument is more threatening to him than a good sword. He cannot resist genuine logic about consent.
-
-**Tactics:** Block exits first. Use Commanding Voice to direct Enforcers at the documents. Parry the most effective martial attacker. Save Disarming Strike for spellcasters mid-cast.
-
-**Morale:** Withdraws and calls Enforcers to him if both Enforcers are downed. He won't die alone for paperwork.
+**Harran's limit:** Will not leave Sera until she is out of the building or the spirits are gone. He does not explain this. He will explain in Session 3, if anyone asks.
 
 </details>
 
 ---
 
 <details>
-<summary>🃏 Reckoning Enforcer ×2 (CR 1, Spy base)</summary>
+<summary>📊 Scaling Notes</summary>
 
-*Medium humanoid. No obvious armor — they look like Lowmark residents. They are not.*
+**If players are trivialising early** (round 1 radiant nova eliminates half the shades):
+- Anchor Form triggers immediately on first Anchor reaching half HP — spawns 2 Shades instead of 1
+- The second Pale Anchor uses Resonance Pull to claim both cylinders — it is not attacking, it is *moving toward the cylinders*. Players must physically block its path or pull the cylinders away.
 
-| | DEX | WIS | CHA |
-|---|---|---|---|
-| **Score** | 14 | 12 | 14 |
-| **Mod** | +2 | +1 | +2 |
+**If players are struggling badly** (two characters at half HP by round 2):
+- Theron grabs the nearest lamp and smashes it on the floor in the centre of the shade cluster — improvised Luminous Burst: DC 10 CON save for all Shades in 10 ft radius, 2d8 fire/radiant on failure. He yells: *"Bright light! Get light!"*
+- Harran directs an Enforcer to cover the back exit — Sera can flee with a bonus action if she's adjacent
+- Close the box option becomes obvious to Sera: she moves toward it on round 3 if nobody else does
 
-**AC** 12 · **HP** 27 (6d8) · **Speed** 30 ft
-**Skills:** Deception +4, Perception +3, Persuasion +4, Sleight of Hand +4, Stealth +4
-
----
-
-**Actions**
-
-**Multiattack.** Two shortsword attacks. (Available from turn 2 onward — turn 1 is used for Cunning Action positioning.)
-
-**Shortsword.** *Melee Weapon Attack:* +4 to hit, reach 5 ft. *Hit:* 1d6+2 piercing. Always nonlethal.
-
-**Hand Crossbow (Enforcer B only).** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft. *Hit:* 1d6+2 piercing + Distraction Poison — DC 13 Constitution save or the target loses Concentration on any active spell. *Passive Perception DC 14 to notice the crossbow before it fires.*
-
----
-
-**Bonus Actions**
-
-**Cunning Action.** Dash, Disengage, or Hide.
-
-**Document Grab.** Sleight of Hand +4 contested by target's passive Perception. On success: pocket one unattended small object within 5 ft, then automatically Disengage. *If both cylinders are within 5 ft and unattended, one action grabs both.*
-
----
-
-**Weakness:** 27 HP. They drop in two rounds under focused fire. Harran knows this. Their job is to complete one objective and withdraw — not to win fights.
-
-**Tactics:** Turn 1: Cunning Action (move toward documents). Turn 2: Document Grab + Disengage. If documents secured, fall back behind Harran. Enforcer B uses Distraction Bolt against the most dangerous active spellcaster.
-
-**Morale:** They look to Harran. If Harran signals withdrawal, they Dash for the exit immediately. They will not die for paperwork.
-
-</details>
-
----
-
-<details>
-<summary>🃏 Reckoning Watcher (CR 1/2, Scout base)</summary>
-
-*Medium humanoid. Outside, at the window. Passive Perception ≥ 13 reveals a silhouette. Not described unless players actively look.*
-
-**AC** 13 (leather) · **HP** 16 (3d8+3) · **Speed** 30 ft
-**Skills:** Nature +4, Perception +6, Stealth +6, Survival +4
-**Special:** Keen Hearing and Sight — advantage on all Perception checks.
-
----
-
-**Actions**
-
-**Light Crossbow.** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft. *Hit:* 1d8+2 piercing.
-
-**Warning Shot (triggered by 1 doorframe tap from Harran).** Fires deliberately wide — 1 ft past a player's head. DC 13 Wisdom save or Frightened until end of next turn (the sound and proximity, not actual injury).
-
----
-
-**Signal Protocol:**
-- 1 tap = Warning Shot
-- 2 taps = Live fire on nearest player at window or door
-- 3 taps = Withdraw immediately
-
----
-
-**Weakness:** Alone. No melee. Will flee immediately if anyone exits via the kitchen and approaches them directly.
-
-**Tactical Role:** Deterrent. They make players feel surrounded. In a gestalt party this strong, they'll be irrelevant in actual combat — their value is psychological and informational.
-
-</details>
-
----
-
-<details>
-<summary>📊 Encounter Budget & Scaling</summary>
-
-**Adjusted encounter math for gestalt level 4 × 5 players:**
-
-Gestalt level 4 ≈ effective level 7 single-class. Five level-7 characters = Hard encounter budget ~17,500 XP.
-
-This encounter (Harran + 2 Enforcers + 1 Watcher): ~3,100 XP adjusted. **Assessment: Easy to Medium.**
-
-This is correct — the encounter is not designed to threaten the party's HP. It is designed to:
-1. Force a decision under time pressure (documents being taken)
-2. Establish the Reckoning as something that will not simply go away
-3. Let players demonstrate what kind of people they are, so Harran can report back
-
-**If players trivialize the fight in round 1:** Harran is not too proud to call a withdrawal. Calmly: *"You're better than I expected. We'll talk when you've had time to think."* The encounter ends. He has learned what he came to learn.
-
-**If the table wants a genuine combat challenge:** Add 2 Enforcers entering from the kitchen on round 2 (covering the back exit they didn't know the players knew about) and give Harran a second use of Calculated Eye.
+**Nonmagical weapon problem:** Characters with no magical weapons, spells, or radiant effects cannot damage spirits at all. This is intentional for a gestalt party — it forces mixed tactical decision-making. The box combination, bright light, and the close-the-box option are all non-combat outs that do not require magic. A Fighter/Barbarian with no magic can still drag Sera to safety, close the box, or hold a chokepoint so the Wizard has time to cast.
 
 </details>
 
