@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Ritual of Eternal Dawn — Final Notation</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=IM+Fell+English:ital@0;1&family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+
+@page { size: A4 portrait; margin: 15mm; }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 10pt;
+  color: #1a1208;
+  background: #d8cdb0;
+}
+
+/* ── Page shell ── */
+.page {
+  width: 180mm;
+  min-height: 267mm;
+  margin: 0 auto 8mm;
+  padding: 14mm 14mm 14mm;
+  position: relative;
+  page-break-after: always;
+  background:
+    repeating-linear-gradient(
+      0deg, transparent, transparent 25pt,
+      rgba(139,110,60,0.04) 25pt, rgba(139,110,60,0.04) 25.5pt
+    ),
+    #fdf8ee;
+}
+.page:last-child { page-break-after: auto; }
+
+/* Double border frame */
+.frame {
+  position: absolute;
+  top: 8mm; right: 8mm; bottom: 8mm; left: 8mm;
+  border: 1.5pt solid #1a1208;
+  pointer-events: none;
+}
+.frame::after {
+  content: '';
+  position: absolute;
+  top: 3pt; right: 3pt; bottom: 3pt; left: 3pt;
+  border: 0.5pt solid #1a1208;
+  opacity: 0.55;
+}
+
+/* Content sits inside the frame */
+.content {
+  position: relative;
+  z-index: 1;
+  height: 100%;
+}
+
+/* ── Typography ── */
+.archive-stamp {
+  font-family: 'Special Elite', monospace;
+  font-size: 6pt;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  text-align: center;
+  border-bottom: 0.75pt solid #1a1208;
+  padding-bottom: 3mm;
+  margin-bottom: 6mm;
+}
+.archive-stamp .ref {
+  display: block;
+  margin-top: 1.5mm;
+  font-size: 5.5pt;
+  color: #4a3820;
+  letter-spacing: 0.18em;
+}
+
+.doc-title {
+  font-family: 'Cinzel', serif;
+  font-size: 17pt;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 0.18em;
+  line-height: 1.3;
+  margin-bottom: 2mm;
+}
+.doc-subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: 8.5pt;
+  text-align: center;
+  letter-spacing: 0.25em;
+  color: #4a3820;
+  margin-bottom: 8mm;
+  padding-bottom: 4mm;
+  border-bottom: 0.5pt solid #8a7050;
+}
+
+p {
+  line-height: 1.65;
+  margin-bottom: 3mm;
+  font-size: 9.5pt;
+}
+p.i { font-style: italic; }
+p.c { text-align: center; }
+p.sm { font-size: 7.5pt; color: #4a3820; }
+
+.section-rule {
+  font-family: 'Special Elite', monospace;
+  font-size: 5.5pt;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #4a3820;
+  border-top: 0.5pt solid #a08850;
+  padding-top: 2mm;
+  margin: 5mm 0 2.5mm;
+}
+
+/* ── Restricted stamp ── */
+.restricted {
+  border: 2pt solid #1a1208;
+  padding: 4mm 8mm;
+  margin: 6mm 0;
+  text-align: center;
+}
+.restricted .word {
+  font-family: 'Cinzel', serif;
+  font-size: 15pt;
+  letter-spacing: 0.3em;
+}
+.restricted .sub {
+  font-family: 'Special Elite', monospace;
+  font-size: 5.5pt;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #4a3820;
+  display: block;
+  margin-top: 1.5mm;
+  line-height: 1.7;
+}
+
+/* ── Signatures ── */
+.sig-row {
+  display: flex;
+  justify-content: center;
+  gap: 14mm;
+  margin: 4mm 0 2mm;
+}
+.sig {
+  text-align: center;
+  min-width: 28mm;
+}
+.sig-name {
+  font-family: 'Cinzel', serif;
+  font-size: 9pt;
+  letter-spacing: 0.12em;
+  border-top: 0.75pt solid #1a1208;
+  padding-top: 1.5mm;
+}
+.sig-note {
+  font-size: 6pt;
+  color: #4a3820;
+  font-style: italic;
+  margin-top: 0.5mm;
+}
+
+/* ── Archive seal (CSS circle) ── */
+.seal {
+  width: 26mm; height: 26mm;
+  border-radius: 50%;
+  border: 1.5pt solid #1a1208;
+  margin: 5mm auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.seal::before {
+  content: '';
+  position: absolute;
+  top: 2.5pt; right: 2.5pt; bottom: 2.5pt; left: 2.5pt;
+  border-radius: 50%;
+  border: 0.4pt solid #1a1208;
+  opacity: 0.55;
+}
+.seal-glyph { font-size: 13pt; position: relative; z-index: 1; }
+.seal-text {
+  font-family: 'Special Elite', monospace;
+  font-size: 4.5pt;
+  letter-spacing: 0.2em;
+  color: #4a3820;
+  position: relative;
+  z-index: 1;
+}
+
+/* ── Reference table ── */
+.ref-table {
+  font-family: 'Special Elite', monospace;
+  font-size: 7.5pt;
+  line-height: 2;
+  padding-left: 2mm;
+  color: #1a1208;
+}
+
+/* ── Diagram page ── */
+.diagram-page .content { padding: 0 2mm; }
+.diagram-title {
+  font-family: 'Special Elite', monospace;
+  font-size: 6pt;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #4a3820;
+  margin-bottom: 1.5mm;
+}
+svg.circle {
+  display: block;
+  margin: 0 auto;
+  width: 154mm;
+  height: 154mm;
+}
+
+/* ── Legend ── */
+.legend {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5mm 5mm;
+  padding-top: 3mm;
+  border-top: 0.5pt solid #a08850;
+  margin-top: 2mm;
+}
+.legend-item {
+  font-family: 'Special Elite', monospace;
+  font-size: 5.5pt;
+  letter-spacing: 0.08em;
+  color: #4a3820;
+  display: flex;
+  align-items: center;
+  gap: 1.5mm;
+}
+.li-line {
+  display: inline-block;
+  width: 8mm;
+  height: 1px;
+  flex-shrink: 0;
+}
+.legend-note {
+  grid-column: span 2;
+  font-family: 'IM Fell English', serif;
+  font-size: 6.5pt;
+  font-style: italic;
+  color: #3d4a30;
+}
+
+/* ── Cipher block ── */
+.cipher {
+  font-family: 'Special Elite', monospace;
+  font-size: 11pt;
+  text-align: center;
+  letter-spacing: 0.2em;
+  line-height: 2.4;
+  margin: 4mm 0;
+  padding: 4mm 3mm;
+  border: 0.5pt solid #8a7050;
+}
+
+/* ── Two-path flow ── */
+.paths {
+  display: flex;
+  gap: 5mm;
+  margin: 3mm 0;
+}
+.path-col {
+  flex: 1;
+  border: 0.5pt solid #8a7050;
+  padding: 3mm;
+}
+.path-col h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 7pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 0.5pt solid #8a7050;
+  padding-bottom: 1.5mm;
+  margin-bottom: 2mm;
+}
+.step {
+  font-size: 8pt;
+  line-height: 1.7;
+  padding-left: 2.5mm;
+  border-left: 1.5pt solid #a08850;
+  margin-bottom: 1.5mm;
+}
+.step.warn {
+  border-left-color: #1a1208;
+  font-weight: bold;
+}
+.step.outcome {
+  border-left: none;
+  padding-left: 0;
+  font-style: italic;
+  text-align: center;
+  margin-top: 2mm;
+  font-size: 9pt;
+}
+
+/* ── Margin notes ── */
+.mnote {
+  font-family: 'IM Fell English', serif;
+  font-size: 7.5pt;
+  font-style: italic;
+  color: #2d4030;
+  border-left: 1.5pt solid #2d4030;
+  padding-left: 2.5mm;
+  margin: 3mm 0 3mm 5mm;
+  line-height: 1.6;
+}
+.mnote.blue {
+  color: #1a2d4a;
+  border-left-color: #1a2d4a;
+}
+
+/* ── Footer rule ── */
+.page-footer {
+  position: absolute;
+  bottom: 12mm;
+  left: 14mm;
+  right: 14mm;
+  border-top: 0.5pt solid #a08850;
+  padding-top: 1.5mm;
+  font-family: 'Special Elite', monospace;
+  font-size: 5pt;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #4a3820;
+}
+
+@media print {
+  body { background: white; }
+  .page { background: white; margin: 0; }
+}
+
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PAGE 1 — ARCHIVE COVER SHEET               -->
+<!-- ═══════════════════════════════════════════ -->
+<div class="page">
+<div class="frame"></div>
+<div class="content">
+
+  <div class="archive-stamp">
+    Varenhold Archive &nbsp;·&nbsp; Restricted Series
+    <span class="ref">CR-44-09 &nbsp;·&nbsp; Filed Year 0 P.R. &nbsp;·&nbsp; Restored Year 23 P.R. &nbsp;·&nbsp; Tier IV Classification</span>
+  </div>
+
+  <div class="doc-title">Ritual of Eternal Dawn</div>
+  <div class="doc-subtitle">Final Notation &nbsp;·&nbsp; Archmagister Corven &nbsp;·&nbsp; Year 0 P.R.</div>
+
+  <div class="restricted">
+    <div class="word">Restricted</div>
+    <span class="sub">
+      Not to be copied &nbsp;·&nbsp; Not to be removed from Archive premises<br>
+      Access: Senior Archivists and above &nbsp;·&nbsp; Tier IV Classification<br>
+      Sealed Drawer: Shelf 4-17-3
+    </span>
+  </div>
+
+  <div class="section-rule">Declaration of Filing</div>
+  <p>
+    The following document was composed by Archmagister Corven on the night of the Ritual, Year 0 P.R.,
+    and deposited in the Sealed Archive by his own hand before the morning of Year 1 P.R. The document
+    was transferred to Restricted Series CR-44 in Year 2 P.R. by order of the Provisional Authority.
+    Its contents have not been reviewed by any serving Archivist since that transfer order was issued.
+  </p>
+  <p>
+    Three witnesses attested the original document at the time of filing. Their signatures appear below
+    in the order they were given. The document was sealed with Corven's personal mark: a circle enclosing
+    a small sun. The seal was intact at the time of the cover sheet addition in Year 23 P.R.
+  </p>
+  <p class="i sm">
+    This cover sheet was added in Year 23 P.R. by Archivist Lenn, on discovery that the original filing
+    lacked a public index entry. The contents of CR-44-09 were not examined at that time. The decision to
+    leave the seal intact was recorded and signed at Senior Archivist level. A note in the restricted index
+    reads: "contents unknown — do not open without authorisation."
+  </p>
+
+  <div class="section-rule">Witnesses at Filing</div>
+  <div class="sig-row">
+    <div class="sig">
+      <div class="sig-name">Corven</div>
+      <div class="sig-note">bold. deliberate.</div>
+    </div>
+    <div class="sig">
+      <div class="sig-name">Sali</div>
+      <div class="sig-note">precise. even.</div>
+    </div>
+    <div class="sig">
+      <div class="sig-name">Wren</div>
+      <div class="sig-note">rushed. ink pressed hard.</div>
+    </div>
+  </div>
+  <p class="c sm" style="margin-top:1.5mm;">In the order of our signatures. In the order we understood.</p>
+
+  <div class="seal">
+    <div class="seal-glyph">⊙</div>
+    <div class="seal-text">CR · 0 P.R.</div>
+  </div>
+
+  <div class="section-rule">Restricted Series — Related Documents</div>
+  <div class="ref-table">
+    CR-44-09 &nbsp;&nbsp; Ritual notation, primary (this document)<br>
+    CR-44-11 &nbsp;&nbsp; Corven correspondence, pre-ritual<br>
+    CR-44-17 &nbsp;&nbsp; Corven correspondence, post-ritual<br>
+    AST-48-Y &nbsp;&nbsp; Astronomical registry, Year 48 projection<br>
+  </div>
+  <p class="i sm" style="margin-top:2mm;">
+    All items listed above are held in the Sealed Drawer, Shelf 4-17-3.
+    Do not open without Tier IV authorisation and a second witness.
+  </p>
+
+</div>
+<div class="page-footer">
+  CR-44-09 &nbsp;·&nbsp; Year 0 P.R. &nbsp;·&nbsp; Restricted &nbsp;·&nbsp; Varenhold Archive &nbsp;·&nbsp; Page 1 of 3
+</div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PAGE 2 — THE RITUAL CIRCLE                 -->
+<!-- ═══════════════════════════════════════════ -->
+<div class="page diagram-page">
+<div class="frame"></div>
+<div class="content">
+
+  <div class="archive-stamp">
+    CR-44-09 &nbsp;·&nbsp; Figure I &nbsp;·&nbsp; The Ashring Configuration &nbsp;·&nbsp; Corven's Hand
+  </div>
+
+  <div class="diagram-title">
+    Anchor Positions &nbsp;·&nbsp; Circuit Layout &nbsp;·&nbsp; Focal Geometry &nbsp;·&nbsp; Year 0 P.R.
+  </div>
+
+  <!--
+    SVG: viewBox 0 0 500 500
+    Center: (250, 250)
+    Outer ring r=170 — 10 anchor nodes
+    Middle ring r=125 — circuit II
+    Inner ring r=72 — circuit I
+    Node positions (angle = 270 + i*36 degrees, y-down):
+      N0  (Warden's Star)   270°  → 250, 80
+      N1                    306°  → 349.9, 112.5
+      N2  (Pale Fisher)     342°  → 411.7, 197.5
+      N3                     18°  → 411.7, 302.5
+      N4  (Vael's Crown)     54°  → 349.9, 387.5
+      N5                     90°  → 250, 420
+      N6  (Shepherd's Eye)  126°  → 150.1, 387.5
+      N7                    162°  → 88.3, 302.5
+      N8  (Trailing Light)  198°  → 88.3, 197.5
+      N9                    234°  → 150.1, 112.5
+    Pentagram 0→4→8→2→6→0:
+      (250,80)→(349.9,387.5)→(88.3,197.5)→(411.7,197.5)→(150.1,387.5)→(250,80)
+  -->
+
+  <svg class="circle" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Aged paper texture: faint horizontal lines -->
+    <line x1="0" y1="83"  x2="500" y2="83"  stroke="#c8a860" stroke-width="0.3" opacity="0.25"/>
+    <line x1="0" y1="166" x2="500" y2="166" stroke="#c8a860" stroke-width="0.3" opacity="0.25"/>
+    <line x1="0" y1="249" x2="500" y2="249" stroke="#c8a860" stroke-width="0.3" opacity="0.25"/>
+    <line x1="0" y1="332" x2="500" y2="332" stroke="#c8a860" stroke-width="0.3" opacity="0.25"/>
+    <line x1="0" y1="415" x2="500" y2="415" stroke="#c8a860" stroke-width="0.3" opacity="0.25"/>
+
+    <!-- ── CIRCUIT III: Outer ring (solid, primary) ── -->
+    <circle cx="250" cy="250" r="170" fill="none" stroke="#1a1208" stroke-width="1.2"/>
+
+    <!-- Outer ring small tick marks at each 36° (anchor position markers) -->
+    <!-- N0=270°, N1=306°... incrementing 36° per tick -->
+    <!-- tick = short line at angle, from r=174 to r=180, toward center direction -->
+    <!-- Actually let's do ticks from r=170 outward to r=176 -->
+    <!-- I'll hardcode 10 ticks -->
+    <!-- N0 top: x=250, y=80 → tick from (250,80) toward (250,74) -->
+    <line x1="250"   y1="80"   x2="250"   y2="72"   stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="349.9" y1="112.5" x2="356.6" y2="107.0" stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="411.7" y1="197.5" x2="420.4" y2="194.8" stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="411.7" y1="302.5" x2="420.4" y2="305.2" stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="349.9" y1="387.5" x2="356.6" y2="393.0" stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="250"   y1="420"  x2="250"   y2="428"  stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="150.1" y1="387.5" x2="143.4" y2="393.0" stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="88.3"  y1="302.5" x2="79.6"  y2="305.2" stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="88.3"  y1="197.5" x2="79.6"  y2="194.8" stroke="#1a1208" stroke-width="0.8"/>
+    <line x1="150.1" y1="112.5" x2="143.4" y2="107.0" stroke="#1a1208" stroke-width="0.8"/>
+
+    <!-- ── CIRCUIT II: Middle ring (dashed) ── -->
+    <circle cx="250" cy="250" r="125" fill="none" stroke="#1a1208" stroke-width="0.7"
+            stroke-dasharray="5,3.5" opacity="0.65"/>
+
+    <!-- ── CIRCUIT I: Inner ring (fine dashed) ── -->
+    <circle cx="250" cy="250" r="72" fill="none" stroke="#1a1208" stroke-width="0.5"
+            stroke-dasharray="2,4" opacity="0.45"/>
+
+    <!-- ── PENTAGRAM: Dawnmark constellation circuit ── -->
+    <!-- 0→4→8→2→6→0 skip-pattern on 5 star nodes -->
+    <polygon
+      points="250,80 349.9,387.5 88.3,197.5 411.7,197.5 150.1,387.5"
+      fill="none"
+      stroke="#1a1208"
+      stroke-width="0.6"
+      stroke-dasharray="2.5,2"
+      opacity="0.38"
+    />
+
+    <!-- ── RADIAL LINES: Each anchor to focal point ── -->
+    <!-- Star nodes: solid, slightly thicker -->
+    <line x1="250"   y1="80"   x2="250" y2="250" stroke="#1a1208" stroke-width="0.65" opacity="0.5"/>
+    <line x1="411.7" y1="197.5" x2="250" y2="250" stroke="#1a1208" stroke-width="0.65" opacity="0.5"/>
+    <line x1="349.9" y1="387.5" x2="250" y2="250" stroke="#1a1208" stroke-width="0.65" opacity="0.5"/>
+    <line x1="150.1" y1="387.5" x2="250" y2="250" stroke="#1a1208" stroke-width="0.65" opacity="0.5"/>
+    <line x1="88.3"  y1="197.5" x2="250" y2="250" stroke="#1a1208" stroke-width="0.65" opacity="0.5"/>
+    <!-- Secondary nodes: dashed, lighter -->
+    <line x1="349.9" y1="112.5" x2="250" y2="250" stroke="#1a1208" stroke-width="0.4" stroke-dasharray="2,2" opacity="0.3"/>
+    <line x1="411.7" y1="302.5" x2="250" y2="250" stroke="#1a1208" stroke-width="0.4" stroke-dasharray="2,2" opacity="0.3"/>
+    <line x1="250"   y1="420"  x2="250" y2="250" stroke="#1a1208" stroke-width="0.4" stroke-dasharray="2,2" opacity="0.3"/>
+    <line x1="88.3"  y1="302.5" x2="250" y2="250" stroke="#1a1208" stroke-width="0.4" stroke-dasharray="2,2" opacity="0.3"/>
+    <line x1="150.1" y1="112.5" x2="250" y2="250" stroke="#1a1208" stroke-width="0.4" stroke-dasharray="2,2" opacity="0.3"/>
+
+    <!-- ── ANCHOR NODES ── -->
+    <!-- STAR NODES (solid, larger circle) -->
+    <circle cx="250"   cy="80"   r="10" fill="#fdf8ee" stroke="#1a1208" stroke-width="1.2"/>
+    <circle cx="411.7" cy="197.5" r="10" fill="#fdf8ee" stroke="#1a1208" stroke-width="1.2"/>
+    <circle cx="349.9" cy="387.5" r="10" fill="#fdf8ee" stroke="#1a1208" stroke-width="1.2"/>
+    <circle cx="150.1" cy="387.5" r="10" fill="#fdf8ee" stroke="#1a1208" stroke-width="1.2"/>
+    <circle cx="88.3"  cy="197.5" r="10" fill="#fdf8ee" stroke="#1a1208" stroke-width="1.2"/>
+
+    <!-- Star symbol inside each star node -->
+    <text x="250"   y="84"   text-anchor="middle" font-size="9" fill="#1a1208">★</text>
+    <text x="411.7" y="201.5" text-anchor="middle" font-size="9" fill="#1a1208">★</text>
+    <text x="349.9" y="391.5" text-anchor="middle" font-size="9" fill="#1a1208">★</text>
+    <text x="150.1" y="391.5" text-anchor="middle" font-size="9" fill="#1a1208">★</text>
+    <text x="88.3"  y="201.5" text-anchor="middle" font-size="9" fill="#1a1208">★</text>
+
+    <!-- SECONDARY NODES (dashed, smaller) -->
+    <circle cx="349.9" cy="112.5" r="6.5" fill="#fdf8ee" stroke="#1a1208" stroke-width="0.7" stroke-dasharray="2,1.5"/>
+    <circle cx="411.7" cy="302.5" r="6.5" fill="#fdf8ee" stroke="#1a1208" stroke-width="0.7" stroke-dasharray="2,1.5"/>
+    <circle cx="250"   cy="420"   r="6.5" fill="#fdf8ee" stroke="#1a1208" stroke-width="0.7" stroke-dasharray="2,1.5"/>
+    <circle cx="88.3"  cy="302.5" r="6.5" fill="#fdf8ee" stroke="#1a1208" stroke-width="0.7" stroke-dasharray="2,1.5"/>
+    <circle cx="150.1" cy="112.5" r="6.5" fill="#fdf8ee" stroke="#1a1208" stroke-width="0.7" stroke-dasharray="2,1.5"/>
+
+    <!-- Dot in secondary nodes -->
+    <circle cx="349.9" cy="112.5" r="1.8" fill="#1a1208"/>
+    <circle cx="411.7" cy="302.5" r="1.8" fill="#1a1208"/>
+    <circle cx="250"   cy="420"   r="1.8" fill="#1a1208"/>
+    <circle cx="88.3"  cy="302.5" r="1.8" fill="#1a1208"/>
+    <circle cx="150.1" cy="112.5" r="1.8" fill="#1a1208"/>
+
+    <!-- ── NODE LABELS (Roman numerals, outer) ── -->
+    <!-- Star nodes: label above/beside the node outward -->
+    <text x="250"   y="57"   text-anchor="middle" font-family="'Special Elite', monospace" font-size="7.5" fill="#1a1208">I</text>
+    <text x="432"   y="196"  text-anchor="start"  font-family="'Special Elite', monospace" font-size="7.5" fill="#1a1208">III</text>
+    <text x="360"   y="412"  text-anchor="middle" font-family="'Special Elite', monospace" font-size="7.5" fill="#1a1208">V</text>
+    <text x="140"   y="412"  text-anchor="middle" font-family="'Special Elite', monospace" font-size="7.5" fill="#1a1208">VII</text>
+    <text x="67"    y="196"  text-anchor="end"    font-family="'Special Elite', monospace" font-size="7.5" fill="#1a1208">IX</text>
+    <!-- Secondary node labels, smaller, faded -->
+    <text x="352"   y="90"   text-anchor="middle" font-family="'Special Elite', monospace" font-size="6.5" fill="#1a1208" opacity="0.65">II</text>
+    <text x="432"   y="308"  text-anchor="start"  font-family="'Special Elite', monospace" font-size="6.5" fill="#1a1208" opacity="0.65">IV</text>
+    <text x="250"   y="444"  text-anchor="middle" font-family="'Special Elite', monospace" font-size="6.5" fill="#1a1208" opacity="0.65">VI</text>
+    <text x="67"    y="308"  text-anchor="end"    font-family="'Special Elite', monospace" font-size="6.5" fill="#1a1208" opacity="0.65">VIII</text>
+    <text x="148"   y="90"   text-anchor="middle" font-family="'Special Elite', monospace" font-size="6.5" fill="#1a1208" opacity="0.65">X</text>
+
+    <!-- ── STAR NAMES (Dawnmark constellation, placed outside diagram) ── -->
+    <text x="250"   y="46"   text-anchor="middle" font-family="'IM Fell English', serif" font-size="8" fill="#1a1208" font-style="italic">Warden's Star</text>
+    <text x="450"   y="186"  text-anchor="start"  font-family="'IM Fell English', serif" font-size="8" fill="#1a1208" font-style="italic">Pale Fisher</text>
+    <text x="372"   y="420"  text-anchor="middle" font-family="'IM Fell English', serif" font-size="8" fill="#1a1208" font-style="italic">Vael's Crown</text>
+    <text x="128"   y="420"  text-anchor="middle" font-family="'IM Fell English', serif" font-size="8" fill="#1a1208" font-style="italic">Shepherd's Eye</text>
+    <text x="49"    y="186"  text-anchor="end"    font-family="'IM Fell English', serif" font-size="8" fill="#1a1208" font-style="italic">Trailing Light</text>
+
+    <!-- ── CIRCUIT LABELS ── -->
+    <text x="250" y="173" text-anchor="middle" font-family="'Special Elite', monospace" font-size="6" fill="#1a1208" opacity="0.5">circuit II</text>
+    <text x="250" y="120" text-anchor="middle" font-family="'Special Elite', monospace" font-size="6" fill="#1a1208" opacity="0.5">circuit III</text>
+    <text x="250" y="318" text-anchor="middle" font-family="'Special Elite', monospace" font-size="6" fill="#1a1208" opacity="0.4">circuit I</text>
+
+    <!-- ── CENTRAL FOCAL POINT (sun symbol) ── -->
+    <circle cx="250" cy="250" r="24" fill="#fdf8ee" stroke="#1a1208" stroke-width="1.4"/>
+    <circle cx="250" cy="250" r="19" fill="none"    stroke="#1a1208" stroke-width="0.5" opacity="0.5"/>
+    <!-- Sun core -->
+    <circle cx="250" cy="250" r="7.5" fill="none" stroke="#1a1208" stroke-width="1"/>
+    <!-- 8 rays -->
+    <line x1="250"   y1="238"   x2="250"   y2="233"   stroke="#1a1208" stroke-width="0.9"/>
+    <line x1="259"   y1="241"   x2="262.5" y2="237.5" stroke="#1a1208" stroke-width="0.9"/>
+    <line x1="262.5" y1="250"   x2="267.5" y2="250"   stroke="#1a1208" stroke-width="0.9"/>
+    <line x1="259"   y1="259"   x2="262.5" y2="262.5" stroke="#1a1208" stroke-width="0.9"/>
+    <line x1="250"   y1="262.5" x2="250"   y2="267.5" stroke="#1a1208" stroke-width="0.9"/>
+    <line x1="241"   y1="259"   x2="237.5" y2="262.5" stroke="#1a1208" stroke-width="0.9"/>
+    <line x1="237.5" y1="250"   x2="232.5" y2="250"   stroke="#1a1208" stroke-width="0.9"/>
+    <line x1="241"   y1="241"   x2="237.5" y2="237.5" stroke="#1a1208" stroke-width="0.9"/>
+
+    <!-- ── CIPHER ANNOTATION near focal point ── -->
+    <!-- "WILLING RELEASE" below center, in Corven cipher, small -->
+    <text x="250" y="287" text-anchor="middle" font-family="'Special Elite', monospace" font-size="7.5" fill="#1a1208" opacity="0.55">⊕⬠⬟⬟⬠⬡◆ ●◈⬟◈⊗◎◈</text>
+    <!-- Timing mark below that -->
+    <text x="250" y="298" text-anchor="middle" font-family="'Special Elite', monospace" font-size="5.5" fill="#4a3820" opacity="0.5">02:14 · Year 48 P.R.</text>
+
+    <!-- ── HANDWRITTEN MARGIN ANNOTATION (italic, green-ink tone) ── -->
+    <!-- annotation pointing at the outer ring area, upper right -->
+    <text x="370" y="140" text-anchor="start" font-family="'IM Fell English', serif" font-size="7.5" fill="#2d4030" font-style="italic">third circuit dwells.</text>
+    <text x="370" y="151" text-anchor="start" font-family="'IM Fell English', serif" font-size="7.5" fill="#2d4030" font-style="italic">energy does not disperse.</text>
+    <!-- small arrow line from annotation toward circuit III -->
+    <line x1="364" y1="146" x2="345" y2="158" stroke="#2d4030" stroke-width="0.6" opacity="0.7"/>
+    <!-- arrowhead -->
+    <polygon points="345,158 349,151 351,157" fill="#2d4030" opacity="0.7"/>
+
+    <!-- second annotation: lower left -->
+    <text x="130" y="320" text-anchor="end" font-family="'IM Fell English', serif" font-size="7.5" fill="#2d4030" font-style="italic">vessel = mechanism.</text>
+    <text x="130" y="331" text-anchor="end" font-family="'IM Fell English', serif" font-size="7.5" fill="#2d4030" font-style="italic">not container.</text>
+    <line x1="134" y1="326" x2="148" y2="318" stroke="#2d4030" stroke-width="0.6" opacity="0.7"/>
+    <polygon points="148,318 141,319 146,322" fill="#2d4030" opacity="0.7"/>
+
+  </svg>
+
+  <div class="legend">
+    <div class="legend-item">
+      <span class="li-line" style="border-top: 1.2pt solid #1a1208;"></span>
+      Primary anchor — Dawnmark star position (I, III, V, VII, IX)
+    </div>
+    <div class="legend-item">
+      <span class="li-line" style="border-top: 0.7pt dashed #1a1208;"></span>
+      Secondary anchor — Dawnborn vessel (II, IV, VI, VIII, X)
+    </div>
+    <div class="legend-item">
+      <span class="li-line" style="border-top: 0.6pt dashed #1a1208; opacity:0.4;"></span>
+      Pentagram — Dawnmark star alignment (circuits I–III)
+    </div>
+    <div class="legend-item">
+      ★ &nbsp; Dawnmark constellation node
+    </div>
+    <div class="legend-note">
+      Italic annotations in darker ink were added after the ritual in a different hand. The word "dwells" appears three times in these additions.
+    </div>
+  </div>
+
+</div>
+<div class="page-footer">
+  CR-44-09 &nbsp;·&nbsp; Year 0 P.R. &nbsp;·&nbsp; Restricted &nbsp;·&nbsp; Varenhold Archive &nbsp;·&nbsp; Page 2 of 3
+</div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PAGE 3 — MECHANISM & CENTER NOTATION       -->
+<!-- ═══════════════════════════════════════════ -->
+<div class="page">
+<div class="frame"></div>
+<div class="content">
+
+  <div class="archive-stamp">
+    CR-44-09 &nbsp;·&nbsp; Figure II &nbsp;·&nbsp; Mechanism &amp; Center Notation &nbsp;·&nbsp; Corven's Hand
+  </div>
+
+  <div class="section-rule">Center Notation from Figure I — Corven's Cipher</div>
+  <p class="sm i" style="margin-bottom:2mm;">
+    Encoded in Corven's private notation system, Sections I, II, and III.
+    Requires the complete Notation Key to decode. The last line is underlined in the original.
+  </p>
+
+  <div class="cipher">
+    ⬠⬡▪◈●◎⬠▲⬡ &nbsp; ■⊗✦◇<br>
+    ⊕⬠⬟⬟⬠⬡◆ &nbsp; ●◈⬟◈⊗◎◈<br>
+    ⊗⬟⬟ &nbsp; ✦◈⬡ &nbsp; · &nbsp; ◈⬤⊗⊙✦ &nbsp; □▲□◈⬡✦<br>
+    ◎▼⬡ &nbsp; ●◈✦▼●⬡◎<br>
+    <span style="text-decoration:underline;">▲⬡◈ &nbsp; ▼⬡⊕⬠⬟⬟⬠⬡◆ &nbsp; → &nbsp; △◈◎✦●▼⊙✦⬠▪◈</span>
+  </div>
+
+  <div class="mnote">
+    The final line is not a warning. It is a specification. The mechanism does not permit a third outcome.
+    The underline is in Corven's hand. &mdash; added in different ink, same annotating hand as Figure I.
+  </div>
+
+  <div class="section-rule">Completion Mechanism — Two Paths</div>
+
+  <div class="paths">
+    <div class="path-col">
+      <h4>Path A &nbsp;·&nbsp; Willing Release</h4>
+      <div class="step">All ten anchors present at the focal point (the Ashring)</div>
+      <div class="step">Exact moment: 02:14, Dawnmark overhead</div>
+      <div class="step">Each vessel releases willingly</div>
+      <div class="step">Third circuit closes inward</div>
+      <div class="step">Energy returns through focal point</div>
+      <div class="step outcome">Sun Returns</div>
+    </div>
+    <div class="path-col">
+      <h4>Path B &nbsp;·&nbsp; Forced or Incomplete</h4>
+      <div class="step warn">One or more unwilling, absent, or coerced</div>
+      <div class="step warn">Circuit closes — opposite direction</div>
+      <div class="step warn">Inversion. Energy disperses outward.</div>
+      <div class="step warn">Irreversible once initiated</div>
+      <div class="step outcome" style="font-weight:bold;">Destructive Inversion</div>
+    </div>
+  </div>
+
+  <div class="mnote blue">
+    "Willing release is not the same mechanism as forced release. This is not a philosophical observation.
+    It is an engineering specification." &mdash; margin addition, Corven's hand, later date. Blue-black ink.
+  </div>
+
+  <div class="section-rule">Astronomical Timing</div>
+  <p>
+    The Dawnmark rises when the anchor holds. The five primary anchor positions (I, III, V, VII, IX)
+    correspond to the five stars of the Dawnmark constellation: Warden's Star, Pale Fisher, Shepherd's Eye,
+    Vael's Crown, and Trailing Light. These positions are fixed by the original ritual structure.
+    They cannot be changed, moved, or substituted.
+  </p>
+  <p>
+    The constellation reaches the required overhead position at 02:14 on the date projected as Year 48 P.R.
+    The Pale Fisher rises first. The Trailing Light sets last. Order matters.
+  </p>
+
+  <div class="section-rule">Corven's Notes — Page 3 (recovered from Resonance Box)</div>
+  <p class="i" style="padding-left:4mm; border-left:1pt solid #a08850;">
+    The anchors are not lost. The light did not die. It redistributed into ten living vessels born at
+    the moment of inversion. The ritual is incomplete, not failed. The completion requires their release.
+  </p>
+
+  <div class="mnote">
+    The mouse survived. The mouse is not the same mouse. &mdash; not Corven's hand. Added later, in a third hand.
+  </div>
+
+  <div class="section-rule">Corven's Notes — Page 4 (one line only)</div>
+  <p class="c i" style="font-size:12pt; margin:4mm 0 3mm;">
+    No one should be forced.
+  </p>
+  <p class="c sm">
+    [This line appears alone on the fourth page. No other content. The paper is otherwise blank.]
+  </p>
+
+</div>
+<div class="page-footer">
+  CR-44-09 &nbsp;·&nbsp; Year 0 P.R. &nbsp;·&nbsp; Restricted &nbsp;·&nbsp; Varenhold Archive &nbsp;·&nbsp; Page 3 of 3
+</div>
+</div>
+
+</body>
+</html>

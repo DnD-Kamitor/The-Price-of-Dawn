@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Elder Futhark — Rune Reference</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=IM+Fell+English:ital@0;1&family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+
+@page { size: A4 portrait; margin: 14mm 16mm; }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 9pt;
+  color: #1a1208;
+  background: #d0c5a8;
+}
+
+.page {
+  width: 178mm;
+  min-height: 269mm;
+  margin: 0 auto 8mm;
+  padding: 12mm 13mm;
+  position: relative;
+  page-break-after: always;
+  background:
+    repeating-linear-gradient(
+      0deg, transparent, transparent 22pt,
+      rgba(139,110,60,0.035) 22pt, rgba(139,110,60,0.035) 22.4pt
+    ),
+    #fef9ee;
+}
+.page:last-child { page-break-after: auto; }
+
+.frame {
+  position: absolute;
+  top: 7mm; right: 7mm; bottom: 7mm; left: 7mm;
+  border: 1.5pt solid #1a1208;
+  pointer-events: none;
+}
+.frame::after {
+  content: '';
+  position: absolute;
+  top: 3pt; right: 3pt; bottom: 3pt; left: 3pt;
+  border: 0.5pt solid #1a1208;
+  opacity: 0.5;
+}
+
+.content { position: relative; z-index: 1; }
+
+/* ── Header ── */
+.doc-title {
+  font-family: 'Cinzel', serif;
+  font-size: 15pt;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 0.2em;
+  margin-bottom: 1.5mm;
+}
+.doc-subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: 8pt;
+  text-align: center;
+  letter-spacing: 0.25em;
+  color: #4a3820;
+  margin-bottom: 2mm;
+}
+.header-rule {
+  border: none;
+  border-top: 0.75pt solid #1a1208;
+  margin-bottom: 4mm;
+}
+
+.intro {
+  font-size: 8.5pt;
+  line-height: 1.6;
+  margin-bottom: 4mm;
+  font-style: italic;
+  color: #2a1e0a;
+}
+
+/* ── Aett section ── */
+.aett-title {
+  font-family: 'Cinzel', serif;
+  font-size: 8pt;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #1a1208;
+  border-bottom: 0.5pt solid #a08850;
+  padding-bottom: 1.5mm;
+  margin-bottom: 3mm;
+}
+
+/* ── Three-column rune grid ── */
+.rune-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 3mm 4mm;
+  margin-bottom: 4mm;
+}
+
+/* ── Individual rune entry ── */
+.rune {
+  border: 0.4pt solid #c8a860;
+  padding: 2mm 2.5mm 2mm;
+  background: rgba(255,248,230,0.4);
+}
+
+.rune-top {
+  display: flex;
+  align-items: baseline;
+  gap: 2mm;
+  margin-bottom: 1mm;
+  border-bottom: 0.3pt solid #c8a860;
+  padding-bottom: 1mm;
+}
+
+/* Rune character — uses system font for best Unicode coverage */
+.rune-char {
+  font-family: 'Segoe UI Historic', 'Noto Sans Runic', Georgia, sans-serif;
+  font-size: 18pt;
+  line-height: 1;
+  color: #1a1208;
+  min-width: 13mm;
+  text-align: center;
+}
+
+.rune-meta {
+  flex: 1;
+}
+
+.rune-name {
+  font-family: 'Cinzel', serif;
+  font-size: 7.5pt;
+  letter-spacing: 0.1em;
+  display: block;
+}
+.rune-phonetic {
+  font-family: 'Special Elite', monospace;
+  font-size: 6pt;
+  letter-spacing: 0.12em;
+  color: #4a3820;
+  display: block;
+  margin-top: 0.5mm;
+}
+
+.rune-meanings {
+  font-size: 7pt;
+  line-height: 1.55;
+  color: #1a1208;
+}
+.rune-meanings .primary {
+  display: block;
+  margin-bottom: 0.5mm;
+}
+.rune-meanings .emotional {
+  display: block;
+  font-style: italic;
+  color: #2d4030;
+  font-size: 6.7pt;
+}
+.rune-meanings .also {
+  display: block;
+  font-size: 6.2pt;
+  color: #4a3820;
+  margin-top: 0.3mm;
+  font-style: italic;
+}
+
+/* ── Page 2 ── */
+.notes-section {
+  margin-top: 5mm;
+}
+.notes-title {
+  font-family: 'Cinzel', serif;
+  font-size: 8pt;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  border-bottom: 0.5pt solid #a08850;
+  padding-bottom: 1.5mm;
+  margin-bottom: 3mm;
+}
+
+.note-block {
+  margin-bottom: 4mm;
+}
+.note-block h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 7.5pt;
+  letter-spacing: 0.08em;
+  margin-bottom: 1.5mm;
+}
+.note-block p {
+  font-size: 8.5pt;
+  line-height: 1.65;
+  margin-bottom: 2mm;
+}
+.note-block p.i { font-style: italic; }
+.note-block p.sm { font-size: 7.5pt; color: #4a3820; }
+
+.aett-summary {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 3mm;
+  margin: 3mm 0;
+}
+.aett-col {
+  border: 0.4pt solid #c8a860;
+  padding: 2.5mm;
+}
+.aett-col h5 {
+  font-family: 'Cinzel', serif;
+  font-size: 7pt;
+  letter-spacing: 0.1em;
+  margin-bottom: 2mm;
+  border-bottom: 0.3pt solid #c8a860;
+  padding-bottom: 1mm;
+}
+.aett-col p {
+  font-size: 7pt;
+  line-height: 1.6;
+  font-style: italic;
+  color: #2a1e0a;
+}
+
+/* Moon/sun phase box */
+.phase-box {
+  border: 0.75pt solid #1a1208;
+  padding: 3mm 4mm;
+  margin: 4mm 0;
+}
+.phase-box h4 {
+  font-family: 'Cinzel', serif;
+  font-size: 7.5pt;
+  letter-spacing: 0.12em;
+  margin-bottom: 2mm;
+  border-bottom: 0.3pt solid #a08850;
+  padding-bottom: 1mm;
+}
+.phase-row {
+  display: flex;
+  gap: 4mm;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.phase-item {
+  text-align: center;
+  min-width: 14mm;
+}
+.phase-symbol {
+  font-size: 16pt;
+  display: block;
+  line-height: 1.2;
+}
+.phase-name {
+  font-family: 'Special Elite', monospace;
+  font-size: 5.5pt;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #4a3820;
+  display: block;
+}
+
+.page-footer {
+  position: absolute;
+  bottom: 11mm;
+  left: 13mm;
+  right: 13mm;
+  border-top: 0.4pt solid #a08850;
+  padding-top: 1.5mm;
+  font-family: 'Special Elite', monospace;
+  font-size: 5pt;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #4a3820;
+}
+
+@media print {
+  body { background: white; }
+  .page { background: white; margin: 0; }
+}
+
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════ -->
+<!-- PAGE 1 — THE 24 RUNES                   -->
+<!-- ════════════════════════════════════════ -->
+<div class="page">
+<div class="frame"></div>
+<div class="content">
+
+  <div class="doc-title">The Elder Futhark</div>
+  <div class="doc-subtitle">Twenty-Four Runes &nbsp;·&nbsp; Three Aettir &nbsp;·&nbsp; Their Names and Meanings</div>
+  <hr class="header-rule">
+
+  <p class="intro">
+    The Elder Futhark is the oldest form of the runic alphabet, used across the Germanic world.
+    Its twenty-four runes are arranged in three groups of eight, called <em>aettir</em> (singular: <em>aett</em>),
+    each associated with a divine principle. Each rune carries a name, a phonetic value, and a cluster of meanings
+    — practical, symbolic, and emotional. The emotional reading is not separate from the practical one.
+    The runes were understood to describe the inner state of things as much as their outer form.
+  </p>
+
+  <!-- ── FIRST AETT ── -->
+  <div class="aett-title">First Aett &nbsp;·&nbsp; Freyr's Aett &nbsp;·&nbsp; The forces of creation and sustenance</div>
+  <div class="rune-grid">
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚠ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Fehu</span>
+          <span class="rune-phonetic">F — cattle, wealth</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Abundance, fortune, nourishment. The energy that sustains what lives.</span>
+        <span class="emotional">Emotional: the warmth of provision, fulfillment, what feeds.</span>
+        <span class="also">Also: that which flows and therefore can be lost.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚢ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Uruz</span>
+          <span class="rune-phonetic">U — auroch, wild ox</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Primal strength, raw vitality, the force of untamed nature.</span>
+        <span class="emotional">Emotional: courage before it is named, endurance in the body, the will that pushes without asking why.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚦ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Thurisaz</span>
+          <span class="rune-phonetic">Th — giant, thorn</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Conflict and protection both. The force that cuts.</span>
+        <span class="emotional">Emotional: the moment of confrontation you cannot avoid, the crisis that clarifies, defense through destruction.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚨ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Ansuz</span>
+          <span class="rune-phonetic">A — god, Odin, breath</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Divine speech, wisdom received. The rune of breath, word, and revelation.</span>
+        <span class="emotional">Emotional: inspiration, the feeling of being spoken to by something larger than yourself.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚱ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Raidho</span>
+          <span class="rune-phonetic">R — ride, journey</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Movement with purpose. The right path taken in the right way.</span>
+        <span class="emotional">Emotional: direction, the alignment of will and action, the soul in motion toward what it knows.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚲ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Kenaz</span>
+          <span class="rune-phonetic">K / C — torch, craft</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Controlled fire, knowledge, craft. The light held against darkness.</span>
+        <span class="emotional">Emotional: clarity that comes from within, the warmth of making, creativity as discipline.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚷ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Gebo</span>
+          <span class="rune-phonetic">G — gift, exchange</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">The gift freely given, partnership, the exchange that binds both parties.</span>
+        <span class="emotional">Emotional: generosity as power, the voluntary sacrifice, love as gift. Cannot be reversed.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚹ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Wunjo</span>
+          <span class="rune-phonetic">W / V — joy, tribe</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Harmony, belonging, the tribe at peace. Shared happiness.</span>
+        <span class="emotional">Emotional: the feeling of rightness in one's place, kinship, the relief of being held by others.</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ── SECOND AETT ── -->
+  <div class="aett-title">Second Aett &nbsp;·&nbsp; Hagal's Aett &nbsp;·&nbsp; The forces of disruption and transformation</div>
+  <div class="rune-grid">
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚺ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Hagalaz</span>
+          <span class="rune-phonetic">H — hail, disruption</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">The storm that comes regardless of will. Disruption from outside.</span>
+        <span class="emotional">Emotional: the crisis you did not choose, transformation through destruction, what cannot be resisted.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᚾ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Nauthiz</span>
+          <span class="rune-phonetic">N — need, necessity</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Constraint, necessity. The fire made by friction. That which must be.</span>
+        <span class="emotional">Emotional: hardship that reveals strength, endurance, the compressed energy of what cannot be avoided.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛁ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Isaz</span>
+          <span class="rune-phonetic">I — ice, stillness</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Suspension, the frozen moment. Nothing moves.</span>
+        <span class="emotional">Emotional: the patience that is not passive, clarity through cold, the self held in stillness before something breaks.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛃ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Jera</span>
+          <span class="rune-phonetic">J / Y — year, harvest</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Cycles, the earned reward, the natural order of time.</span>
+        <span class="emotional">Emotional: patience rewarded, the knowledge that seasons turn, what was planted returns when the time is right.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛇ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Eihwaz</span>
+          <span class="rune-phonetic">Ei — yew tree, axis</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">The axis between life and death. The tree that is both.</span>
+        <span class="emotional">Emotional: transformation, the paradox of endings that are beginnings, resilience in the deepest dark.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛈ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Perthro</span>
+          <span class="rune-phonetic">P — lot cup, mystery</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Fate, chance, the hidden. What is held in the container you cannot see into.</span>
+        <span class="emotional">Emotional: the unknown that shapes you, the peace of accepting what is not yours to control.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛉ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Algiz</span>
+          <span class="rune-phonetic">Z / R — elk, protection</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Protection, sanctuary, the reach upward toward the divine.</span>
+        <span class="emotional">Emotional: the feeling of being held by something beyond you, the refusal to be consumed, connection that defends.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛊ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Sowilo</span>
+          <span class="rune-phonetic">S — sun, victory</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">The sun. Victory, wholeness, vital force. The self in full light.</span>
+        <span class="emotional">Emotional: clarity, the will toward life, the self that does not apologise for existing. Cannot be reversed.</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ── THIRD AETT ── -->
+  <div class="aett-title">Third Aett &nbsp;·&nbsp; Tyr's Aett &nbsp;·&nbsp; The forces of order, sacrifice, and becoming</div>
+  <div class="rune-grid">
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛏ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Tiwaz</span>
+          <span class="rune-phonetic">T — Tyr, justice</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Sacrifice for principle, honor, the right action regardless of cost.</span>
+        <span class="emotional">Emotional: the courage to lose something for what is right, the wound that was worth it, duty as meaning.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛒ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Berkano</span>
+          <span class="rune-phonetic">B — birch, renewal</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">New growth, renewal, nurturing. The beginning after the end.</span>
+        <span class="emotional">Emotional: the mother's care, what grows when it is given what it needs, the tender courage of starting again.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛖ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Ehwaz</span>
+          <span class="rune-phonetic">E — horse, partnership</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Partnership, movement in harmony. The bond between horse and rider.</span>
+        <span class="emotional">Emotional: cooperation, loyalty, the movement that comes from trust between two who know each other.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛗ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Mannaz</span>
+          <span class="rune-phonetic">M — man, humanity</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">The self in relation to others. The human condition.</span>
+        <span class="emotional">Emotional: self-awareness without illusion, kinship, the dignity of being one among many, the examined self.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛚ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Laguz</span>
+          <span class="rune-phonetic">L — water, lake, flow</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Flow, the unconscious, intuition. The deep that pulls.</span>
+        <span class="emotional">Emotional: the feeling-knowledge that cannot be fully spoken, emotion as information, what cannot be held but shapes everything.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛜ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Ingwaz</span>
+          <span class="rune-phonetic">Ng — Ing, inner work</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Completion of inner work, gestation, potential held before release.</span>
+        <span class="emotional">Emotional: the quiet before emergence, what is becoming but not yet — the seed in winter. Release comes when the work is done.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛞ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Dagaz</span>
+          <span class="rune-phonetic">D — day, dawn</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Breakthrough, the threshold between dark and light. The instant everything changes.</span>
+        <span class="emotional">Emotional: awakening, the moment of transformation, hope that does not wait but arrives as fact. Cannot be reversed.</span>
+      </div>
+    </div>
+
+    <div class="rune">
+      <div class="rune-top">
+        <div class="rune-char">ᛟ</div>
+        <div class="rune-meta">
+          <span class="rune-name">Othala</span>
+          <span class="rune-phonetic">O — ancestral land, home</span>
+        </div>
+      </div>
+      <div class="rune-meanings">
+        <span class="primary">Heritage, belonging, what is inherited from those who came before.</span>
+        <span class="emotional">Emotional: the roots that hold, the love of what was given to you without being asked, home as identity.</span>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+<div class="page-footer">
+  The Elder Futhark &nbsp;·&nbsp; Twenty-Four Runes &nbsp;·&nbsp; Three Aettir &nbsp;·&nbsp; Page 1 of 2
+</div>
+</div>
+
+
+<!-- ════════════════════════════════════════ -->
+<!-- PAGE 2 — READING NOTES & MOON/SUN KEY   -->
+<!-- ════════════════════════════════════════ -->
+<div class="page">
+<div class="frame"></div>
+<div class="content">
+
+  <div class="doc-title">Reading the Runes</div>
+  <div class="doc-subtitle">Notes on Interpretation &nbsp;·&nbsp; The Three Aettir &nbsp;·&nbsp; The Phase Ring</div>
+  <hr class="header-rule">
+
+  <!-- Aett summaries -->
+  <div class="notes-section">
+    <div class="notes-title">The Three Aettir — What Each Governs</div>
+    <div class="aett-summary">
+      <div class="aett-col">
+        <h5>Freyr's Aett (I–VIII)</h5>
+        <p>The forces of creation, sustenance, and exchange. What nourishes and connects. The outer world and its gifts. How we survive and relate to others.</p>
+      </div>
+      <div class="aett-col">
+        <h5>Hagal's Aett (IX–XVI)</h5>
+        <p>The forces of disruption and transformation. What breaks us open. The middle passage between what we were and what we must become. Crisis that teaches.</p>
+      </div>
+      <div class="aett-col">
+        <h5>Tyr's Aett (XVII–XXIV)</h5>
+        <p>The forces of order, sacrifice, and becoming. What we choose, what we build, what we pass on. The self in relation to principle, time, and heritage.</p>
+      </div>
+    </div>
+
+    <div class="note-block">
+      <h4>How to Read a Rune</h4>
+      <p>
+        Each rune has at minimum three layers: its concrete meaning (cattle, ice, torch), its symbolic meaning
+        (wealth, stillness, knowledge), and its emotional or inner meaning — the feeling-state it describes.
+        The emotional layer is not separate from the other two. The runes were understood as forces present
+        in the world and in the self at the same time.
+      </p>
+      <p>
+        When reading a rune, ask: what is the outer form, what does it point to, and what does it feel like
+        from the inside? A reading that stops at the symbol misses what the rune is for.
+      </p>
+    </div>
+
+    <div class="note-block">
+      <h4>Reversed Runes (Merkstave)</h4>
+      <p>
+        Not all runes have a reversed meaning — Gebo, Sowilo, Jera, Ingwaz, Dagaz, and Isaz cannot be
+        reversed by their nature (symmetrical, or representing forces with no opposite). For runes that
+        can be reversed, the reversed position suggests the shadow quality of the same force: the gift
+        withheld, the strength turned inward destructively, the harvest that does not come.
+      </p>
+      <p class="i">
+        A reversed rune does not mean the opposite. It means the same force blocked, delayed, or turned
+        against the one who carries it.
+      </p>
+    </div>
+
+    <div class="note-block">
+      <h4>Direction of Reading</h4>
+      <p>
+        Elder Futhark runes were typically written left to right but were sometimes reversed or mirrored.
+        The order of the three aettir is consistent across all known sources. The name "Futhark" comes from
+        the first six runes in order: Fehu, Uruz, Thurisaz, Ansuz, Raidho, Kenaz.
+      </p>
+    </div>
+
+    <!-- The moon/sun phase ring -->
+    <div class="phase-box">
+      <h4>The Phase Ring &nbsp;·&nbsp; Moon and Sun Positions</h4>
+      <p style="font-size:7.5pt; margin-bottom:3mm; font-style:italic; color:#2a1e0a;">
+        The centre ring of the runic box shows phases of the moon and sun as they appear through a cycle.
+        Each position describes a state of light — from darkness through partial to full, and back.
+        In the context of the runes, the phase ring marks the condition under which the runes are read.
+      </p>
+      <div class="phase-row">
+        <div class="phase-item">
+          <span class="phase-symbol">🌑</span>
+          <span class="phase-name">New Moon</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌒</span>
+          <span class="phase-name">Waxing Crescent</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌓</span>
+          <span class="phase-name">First Quarter</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌔</span>
+          <span class="phase-name">Waxing Gibbous</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌕</span>
+          <span class="phase-name">Full Moon</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌖</span>
+          <span class="phase-name">Waning Gibbous</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌗</span>
+          <span class="phase-name">Last Quarter</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌘</span>
+          <span class="phase-name">Waning Crescent</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">☀</span>
+          <span class="phase-name">Full Sun</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌤</span>
+          <span class="phase-name">Sun Rising</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌅</span>
+          <span class="phase-name">Dawn</span>
+        </div>
+        <div class="phase-item">
+          <span class="phase-symbol">🌄</span>
+          <span class="phase-name">Dusk</span>
+        </div>
+      </div>
+      <p style="font-size:7pt; margin-top:2.5mm; font-style:italic; color:#4a3820;">
+        The new moon and full sun are opposite states. The dawn positions — where darkness yields to light — are
+        transitional. The ritual described in the Archive documents references a moment of transition, not of stasis.
+      </p>
+    </div>
+
+    <div class="note-block">
+      <h4>Three Runes That Cannot Be Reversed</h4>
+      <p>
+        <strong>Gebo (ᚷ):</strong> The gift has no shadow form because a gift freely given cannot be taken back without
+        becoming something else entirely. Once given, it is no longer yours to reverse.<br>
+        <strong>Sowilo (ᛊ):</strong> The sun does not have an opposite. Darkness is only the sun's absence.<br>
+        <strong>Dagaz (ᛞ):</strong> The moment of breakthrough cannot be unreached. Once the threshold is crossed, there is no path back — only a new beginning.
+      </p>
+      <p class="i sm" style="margin-top:2mm;">
+        These three are said to be the runes of things that, once in motion, complete themselves.
+      </p>
+    </div>
+
+  </div>
+
+</div>
+<div class="page-footer">
+  The Elder Futhark &nbsp;·&nbsp; Twenty-Four Runes &nbsp;·&nbsp; Three Aettir &nbsp;·&nbsp; Page 2 of 2
+</div>
+</div>
+
+</body>
+</html>
