@@ -136,6 +136,8 @@ Scene 5 (Tension)  → Harran Lecht arrives. Protect the documents. First real c
 > You hear it before you're through the door: the murmur of tired people, scrape of spoons on bowls, a coughing fit from the far end that nobody acknowledges. It smells like broth, lamp oil, and damp wool — and underneath all of it, the specific smell of a place that has been feeding people who have nowhere better to go for a very long time. The warmth is the first thing. After the chill of the Lowmark street, it lands like a decision someone made on your behalf.
 >
 > A woman about forty — grey threads at her temple, strong hands, a half-eaten bowl pushed to the corner of her table — looks up from a ledger when you come in. She doesn't stand. She says: *"You look like people with a question. Sit down, I'll finish this line."*
+>
+> *(She pushes the half-eaten bowl toward the centre of the table without asking. The broth is barely warm. It tastes like charity — not an insult, just what charity tastes like: enough, carefully rationed.)*
 
 *(Passive Perception ≥ 14: The ledger is a food distribution log. The numbers in the column she just closed are smaller than last week's.)*
 
@@ -181,8 +183,10 @@ When the players show Fragment I to Sera:
 > She takes it without hesitating — just holds out her hand, like she's done this before. She turns it in the light for a long time. Then she sets it on the table and looks at it, not at you.
 >
 > "So. It's real." A pause. "I had a conversation six years ago with a man who told me something like this existed. I told him he was frightened and frightened people see patterns." She looks up. "Turns out he was right and I was kind. Those are not the same thing."
+>
+> She turns the cylinder over once more. "I've had six years to decide I wasn't frightened." A pause that carries more weight than it should. "I'm not going to tell you what I decided."
 
-*(Passive Insight ≥ 12: She's not surprised. She's been half-expecting this for six years and had almost convinced herself she wouldn't have to deal with it.)*
+*(Passive Insight ≥ 12: She has decided. She decided somewhere around the third sentence of that paragraph. She is frightened. She is not going to say so, because saying so would make it a thing she needs someone else to manage, and she does not do that.)*
 
 **DM Direction:** Let players respond. Don't fill the silence. Sera will ask one question: *"Where did you get this?"*
 
@@ -220,13 +224,14 @@ She stands up and picks up her coat. "Are we going now, or do you need to finish
 | **Puzzle** | 5 brass cylinders, each set to a constellation position. Solution: Dawnmark star order |
 | **Beat 2** | The box opens. Fragment II is a second cylinder — clearly a pair with Fragment I |
 | **DC** | History DC 13 (Dawnmark constellation lore); Arcana DC 15 (resonance mechanism); or Sera (auto, if asked) |
+| **Secondary Objective** | Sera's trust: how players treat the box signals who they are. Elegant puzzle-solving — or asking her — builds investment. Forcing the mechanism (Thieves' Tools) damages Fragment II and her confidence in them. That gap affects whether she volunteers the names of the other Dawnborn in Session 3. |
 
 </details>
 
 <details>
 <summary>📄 Read Aloud — The Box</summary>
 
-> Sera's borrowed corner of the lockhouse: a narrow room behind a merchant's accounts office, shelves of wrapped objects whose owners you'll never know. The air is cold in a way that doesn't fix when the door closes. It smells of old wood, metal polish, and the particular stillness of a room used for holding things, not living in them.
+> Sera's borrowed corner of the lockhouse: a narrow room behind a merchant's accounts office, shelves of wrapped objects whose owners you'll never know. The air is cold in a way that doesn't fix when the door closes — it smells of old wood, metal polish, and the particular stillness of a room used for holding things, not living in them. The air tastes of old brass and locked rooms. You are the first warm thing to have been in here in a long time.
 >
 > She takes something from the back shelf and sets it on the only clear surface. The box is the size of a large book: brass-fitted wood, dark from years of handling, old in the way of objects that have outlasted the people who made them. Five cylinders protrude from the lid, each engraved with astronomical symbols on rotating rings. When you bring Fragment I close, something happens before you expect it — a faint resonant hum, barely there, like two tuning forks too far apart to ring together properly. The symbols match. Partially.
 >
@@ -302,6 +307,7 @@ Sera picks up the empty box and looks at the inside of the lid. There's a word p
 | **Mechanic** | Two-column cipher — Fragment I is the key, Fragment II is the encoded text |
 | **Beat 2** | Theron arrives before they finish decoding. He already knows what it says. |
 | **DC** | Investigation DC 12 (notice the two-column structure); Arcana DC 14 (understand the resonance encoding) |
+| **Secondary Objective** | Watch Sera as the text surfaces. Passive Insight ≥ 11 any round: she reaches the conclusion before the decoding finishes. Her face shows the moment she knows. Players who notice see her make a decision — visible, quiet, irreversible. That decision is who she'll be in Session 3. |
 
 </details>
 
@@ -315,7 +321,7 @@ Sera picks up the empty box and looks at the inside of the lid. There's a word p
 >
 > The Dawnhall continues on the other side of the door. Someone laughs at something. Spoons. A chair dragging. Normal. Irrelevant. In here: the scratch of charcoal as someone marks down each symbol. The particular quiet of people who have stopped breathing normally.
 >
-> The text surfaces slowly. Some symbols worn past reading. The core is clear.
+> The text surfaces slowly. Some symbols worn past reading. The core is clear. The word at the centre of it — *conduit* — sits in the mouth wrong before anyone says it aloud.
 
 </details>
 
@@ -367,6 +373,7 @@ A player who attempts to decode gets the following (no check required — the me
 | **Beat 2** | "Eleven years." — the silence after this line is the scene |
 | **Exit** | Players have information. Theron has absolution he may not deserve. No one feels good. |
 | **DC** | Insight DC 15 (Theron is not sorry for finding it, only for what it means); Persuasion/Intimidation DC 17 (he will not go to authorities — he's thought about this longer than they have) |
+| **Secondary Objective** | Extract what Theron is still hiding. Second copy of the documents (Persuasion DC 16). His contact with Harran two years ago (Insight DC 15). His destroyed private research (History DC 12 to notice the gap). Each secret found changes what players can leverage in Session 3 — and tells them who they're actually dealing with. |
 
 </details>
 
@@ -375,13 +382,13 @@ A player who attempts to decode gets the following (no check required — the me
 
 > Theron sits without being invited. Coat stays on — the coat of a man who arrived from somewhere and hasn't decided he's staying. He looks at his hands on the table, not at any of you.
 >
-> Outside the door, the Dawnhall continues: voices, the scrape of a chair, someone calling a name. It sounds very far away. The gap between that sound and this room is the distance between people who don't know yet and people who do.
+> Outside the door, the Dawnhall continues: voices, the scrape of a chair, someone calling a name. It sounds very far away. The gap between that sound and this room is the distance between people who don't know yet and people who do. In your mouth, without reason, the aftertaste of tea that went cold while everyone was reading.
 >
 > "I have been the Archive's senior historian for twenty-three years. I found the original ritual documentation eleven years ago, in a collection donated by a Spire scholar who did not understand what he was giving us."
 >
 > "I spent eight months verifying it. Then I spent three years hoping I had misread it. Then I spent another two years trying to find an alternative mechanism — something that would work without requiring—" He stops. "Without requiring what it requires."
 >
-> He looks at his hands on the table.
+> A long silence. He does not look up.
 >
 > "I gave Sera the box to protect when I thought the Reckoning was getting close to the Archive. I told her it was a family piece from the collection. I did not tell her what was inside." A long pause. "I did not tell anyone."
 >
@@ -480,6 +487,8 @@ If players ask her what she's thinking:
 
 *(Passive Perception ≥ 13: There is a silhouette at the window to the left of the door. A fourth person. Watching.)*
 
+*(In the room: the metallic specific taste of a situation that hasn't become violence yet but is considering it.)*
+
 </details>
 
 <details>
@@ -557,7 +566,7 @@ See Combat section below. Secondary objective: the cylinders are on the table. A
 | Character | Edge |
 |-----------|------|
 | **Rogue** | *(Auto)* Back exit through the kitchen — clocked it on arrival. 10 feet, unguarded. |
-| **Wizard / Sorcerer** | Harran is not resistant to magic. The enforcers have Counterspell (one use each, +4). |
+| **Wizard / Sorcerer** | Harran is not resistant to magic — but he is not a fool. He will use Disarming Strike against anyone who begins casting if he can reach them. Enforcer B's Distraction Bolt (concealed crossbow, DC 13 CON save) specifically targets Concentration. Priority: the spellcaster. |
 | **Paladin / any face** | Harran will pause combat to finish a sentence. He'd genuinely rather not fight. DC 15 Persuasion mid-combat to get him to stand down for a parley. |
 | **Fighter / any martial** | *(Passive Perception ≥ 13)* The enforcers have a signal — a tap on the door frame — for a third person outside. Harran came with backup. |
 
@@ -582,7 +591,7 @@ Whether combat starts or not, at some point Harran will say:
 | Player choice | What happens |
 |--------------|-------------|
 | **Fight and win** | Harran withdraws. Notes players as "decisive." Sessions 3+ he sends intermediaries instead of coming himself. |
-| **Fight and lose** | Harran takes the documents. Doesn't harm players (he needs information they might have). Session 3 begins with players at a disadvantage. |
+| **Fight and lose** | Harran takes the documents. Doesn't harm players (he needs information they might have). Session 3 begins with players at a disadvantage. *(Note: against 5 gestalt level 4 characters this outcome requires players to be badly split, exhausted, or deliberately choosing to lose. If players want this outcome — they're making a choice, not failing. Honour it.)* |
 | **Negotiate** | Harran agrees to 48 hours of "no action" in exchange for players bringing him one Dawnborn's stated position voluntarily. This is a trap — it normalises the Reckoning as a party to negotiate with. |
 | **Flee with documents** | Harran pursues briefly, then lets them go. "We'll talk when you've had time to think." |
 | **Let him take the documents** | Theron is devastated. Sera is calculating. The players have made their first major choice and it will echo. |
