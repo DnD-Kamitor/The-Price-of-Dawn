@@ -5,6 +5,7 @@ project:
     - audio/
     - cipher-game.html
     - cipher-manuscript.html
+    - fragment-decoder.html
 
 book:
   title: "The Price of Dawn"

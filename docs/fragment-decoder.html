@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Corven's Notation Decoder — The Price of Dawn</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=IM+Fell+English:ital@0;1&family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background-color: #0a0805;
+  min-height: 100vh;
+  font-family: 'Special Elite', 'Courier New', Courier, monospace;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.5rem 1.5rem 4rem;
+  gap: 2rem;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Atmospheric background */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 60% 40% at 50% 20%, #1a1104 0%, #0a0805 100%),
+    #0a0805;
+  z-index: -1;
+}
+
+.page-bg-glow {
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e00 0%, transparent 70%);
+  z-index: -1;
+  transition: background 1.5s ease;
+  pointer-events: none;
+}
+
+.page-bg-glow.all-active {
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e08 0%, transparent 70%);
+}
+
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  color: #a07840;
+  text-align: center;
+}
+
+.subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #6a5028;
+  text-align: center;
+  margin-top: -1.2rem;
+}
+
+.instructions {
+  font-size: 0.65rem;
+  color: #6a5028;
+  letter-spacing: 0.1em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* ── Fragment Cards ── */
+.fragments-row {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 760px;
+}
+
+.fragment-card {
+  border: 1px solid #3d3018;
+  padding: 1rem 1.1rem;
+  cursor: pointer;
+  width: 210px;
+  transition: border-color 0.5s, box-shadow 0.5s, background 0.5s;
+  user-select: none;
+  background: #110e07;
+  position: relative;
+}
+
+.fragment-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e00 0%, transparent 80%);
+  pointer-events: none;
+  transition: background 0.6s ease;
+}
+
+.fragment-card.active::after {
+  background: radial-gradient(ellipse 80% 60% at 50% 20%, #c8963e0c 0%, transparent 80%);
+}
+
+.fragment-card:hover {
+  border-color: #6a5028;
+}
+
+.fragment-card.active {
+  border-color: #c8963e;
+  box-shadow: 0 0 25px #c8963e1a, 0 0 60px #c8963e08;
+}
+
+.f-label {
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #6a5028;
+  margin-bottom: 0.4rem;
+  transition: color 0.5s;
+}
+.fragment-card.active .f-label { color: #9a7840; }
+
+.f-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  color: #7a6030;
+  margin-bottom: 0.8rem;
+  letter-spacing: 0.05em;
+  transition: color 0.5s;
+}
+.fragment-card.active .f-title { color: #c8963e; }
+
+.f-symbols {
+  font-size: 1.1rem;
+  color: #6a5828;
+  letter-spacing: 0.15em;
+  line-height: 2;
+  transition: color 0.5s;
+}
+.fragment-card.active .f-symbols { color: #a07840; }
+
+.f-mappings {
+  font-size: 0.6rem;
+  color: #5a4820;
+  margin-top: 0.5rem;
+  line-height: 1.7;
+  transition: color 0.5s;
+}
+.fragment-card.active .f-mappings { color: #9a7840; }
+
+.f-status {
+  margin-top: 0.7rem;
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #4a3a18;
+  transition: color 0.5s;
+}
+.fragment-card.active .f-status { color: #c8963e; }
+
+/* ── Progress Bar ── */
+.progress-track {
+  max-width: 700px;
+  width: 100%;
+  height: 1px;
+  background: #3a3018;
+  position: relative;
+}
+
+.progress-fill {
+  height: 1px;
+  background: linear-gradient(to right, #6a5028, #c8963e);
+  width: 0%;
+  transition: width 0.8s ease;
+  box-shadow: 0 0 6px #c8963e99;
+}
+
+/* ── Cipher Display ── */
+.cipher-container {
+  max-width: 700px;
+  width: 100%;
+  border: 1px solid #3d3018;
+  background: #0c0a05;
+  padding: 2rem 2rem 1.5rem;
+}
+
+.cipher-header {
+  font-family: 'Cinzel', serif;
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+  color: #6a5028;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1.8rem;
+  border-bottom: 1px solid #3d3018;
+  padding-bottom: 0.8rem;
+}
+
+.cipher-line {
+  text-align: center;
+  margin: 0.5rem 0;
+  font-size: 1.4rem;
+  letter-spacing: 0.06em;
+  line-height: 1.8;
+  min-height: 2.5rem;
+}
+
+.glyph {
+  display: inline-block;
+  min-width: 0.85em;
+  text-align: center;
+  color: #5a4a20;
+  transition: color 0.5s ease, text-shadow 0.5s ease;
+}
+
+.glyph.space {
+  min-width: 0.55em;
+}
+
+.glyph.punct {
+  color: #8a7030;
+  min-width: 0.35em;
+  font-size: 1rem;
+  vertical-align: middle;
+}
+
+.glyph.revealed {
+  color: #c8963e;
+  text-shadow: 0 0 10px #c8963e55;
+  animation: revealChar 0.5s ease forwards;
+}
+
+@keyframes revealChar {
+  0%   { opacity: 0; transform: translateY(-4px) scaleY(0.7); color: #c8963ecc; text-shadow: 0 0 20px #c8963eaa; }
+  60%  { opacity: 1; transform: translateY(1px) scaleY(1.05); }
+  100% { opacity: 1; transform: translateY(0) scaleY(1); color: #c8963e; text-shadow: 0 0 8px #c8963e44; }
+}
+
+/* full reveal pulse when all 3 active */
+.cipher-container.full-reveal .glyph.revealed {
+  animation: none;
+  color: #e8b05e;
+  text-shadow: 0 0 14px #c8963e88;
+}
+
+/* ── Decoded Panel ── */
+.decoded-container {
+  max-width: 700px;
+  width: 100%;
+  border: 1px solid #3d3018;
+  padding: 1.2rem 2rem;
+  background: #0c0a05;
+}
+
+.decoded-header {
+  font-family: 'Cinzel', serif;
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
+  color: #6a5028;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+  border-bottom: 1px solid #3d3018;
+  padding-bottom: 0.6rem;
+}
+
+.decoded-text {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 0.9rem;
+  color: #8a7040;
+  line-height: 2;
+  white-space: pre-line;
+  letter-spacing: 0.08em;
+  transition: color 0.8s, text-shadow 0.8s;
+  min-height: 5rem;
+}
+
+.decoded-text.full {
+  color: #c8963e;
+  text-shadow: 0 0 30px #c8963e22;
+}
+
+/* ── Reset button ── */
+.reset-btn {
+  background: transparent;
+  border: 1px solid #3d3018;
+  color: #6a5028;
+  font-family: inherit;
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  transition: border-color 0.3s, color 0.3s;
+}
+.reset-btn:hover {
+  border-color: #6a5028;
+  color: #9a7840;
+}
+
+/* ── Complete message ── */
+.complete-message {
+  max-width: 700px;
+  width: 100%;
+  text-align: center;
+  font-family: 'IM Fell English', Georgia, serif;
+  font-style: italic;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  color: #1e1808;
+  transition: color 1s, text-shadow 1s;
+  padding: 0.5rem;
+}
+
+.complete-message.visible {
+  color: #c8963e;
+  text-shadow: 0 0 20px #c8963e44;
+}
+
+</style>
+</head>
+<body>
+
+<div class="page-bg-glow" id="bg-glow"></div>
+
+<h1>Corven's Notation System</h1>
+<div class="subtitle">Fragment Decoder &nbsp;·&nbsp; Ritual of Eternal Dawn</div>
+
+<div class="instructions">Click each fragment card as it is found in the campaign</div>
+
+<!-- Fragment Cards -->
+<div class="fragments-row">
+
+  <div class="fragment-card" id="card-1" onclick="toggleFragment(1)">
+    <div class="f-label">Notation Reference</div>
+    <div class="f-title">Section I &nbsp;·&nbsp; of III</div>
+    <div class="f-symbols">✦ ◈ ⬡ ⬟ ⬠ ◆<br>◇ ○ ● ◎</div>
+    <div class="f-mappings">
+      ✦=T &nbsp; ◈=E &nbsp; ⬡=N &nbsp; ⬟=L<br>
+      ⬠=I &nbsp; ◆=G &nbsp; ◇=H &nbsp; ○=B<br>
+      ●=R &nbsp; ◎=S
+    </div>
+    <div class="f-status" id="status-1">· sealed ·</div>
+  </div>
+
+  <div class="fragment-card" id="card-2" onclick="toggleFragment(2)">
+    <div class="f-label">Notation Reference</div>
+    <div class="f-title">Section II &nbsp;·&nbsp; of III</div>
+    <div class="f-symbols">⊕ ⊗ ⊙ △ ▽<br>▲ ▼ □ ■ ▪ ▸</div>
+    <div class="f-mappings">
+      ⊕=W &nbsp; ⊗=A &nbsp; ⊙=C &nbsp; △=D<br>
+      ▽=F &nbsp; ▲=O &nbsp; ▼=U &nbsp; □=M<br>
+      ■=P &nbsp; ▪=V &nbsp; ▸=Y
+    </div>
+    <div class="f-status" id="status-2">· sealed ·</div>
+  </div>
+
+  <div class="fragment-card" id="card-3" onclick="toggleFragment(3)">
+    <div class="f-label">Notation Reference</div>
+    <div class="f-title">Section III &nbsp;·&nbsp; of III</div>
+    <div class="f-symbols">⬢ ☆ ◉ ⬤ ✧</div>
+    <div class="f-mappings">
+      ⬢=J &nbsp; ☆=K &nbsp; ◉=Q<br>
+      ⬤=X &nbsp; ✧=Z
+    </div>
+    <div class="f-status" id="status-3">· sealed ·</div>
+  </div>
+
+</div>
+
+<div class="progress-track">
+  <div class="progress-fill" id="progress"></div>
+</div>
+
+<!-- Cipher Text Display -->
+<div class="cipher-container" id="cipher-container">
+  <div class="cipher-header">Ritual of Eternal Dawn — Center Notation (recovered, Year 48)</div>
+  <div id="cipher-display"></div>
+</div>
+
+<!-- Decoded Text -->
+<div class="decoded-container">
+  <div class="decoded-header">Decoded &nbsp;·&nbsp; revealed symbols only</div>
+  <div class="decoded-text" id="decoded-display">· · ·</div>
+</div>
+
+<div class="complete-message" id="complete-msg">
+  The notation is complete. The path was always there.
+</div>
+
+<button class="reset-btn" onclick="resetAll()">Reset all fragments</button>
+
+<script>
+// ================================================================
+//  CIPHER DEFINITION
+//  Each char: { l: letter/punct, g: glyph, f: fragment (1/2/3/0) }
+//  f=0 = always visible (space, punctuation, separator)
+// ================================================================
+
+const LINES = [
+  // Line 1: INVERSION PATH:
+  [
+    {l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"V",g:"▪",f:2},
+    {l:"E",g:"◈",f:1},{l:"R",g:"●",f:1},{l:"S",g:"◎",f:1},
+    {l:"I",g:"⬠",f:1},{l:"O",g:"▲",f:2},{l:"N",g:"⬡",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"P",g:"■",f:2},{l:"A",g:"⊗",f:2},{l:"T",g:"✦",f:1},{l:"H",g:"◇",f:1},
+    {l:"·",g:"·",f:0}
+  ],
+  // Line 2: WILLING RELEASE
+  [
+    {l:"W",g:"⊕",f:2},{l:"I",g:"⬠",f:1},{l:"L",g:"⬟",f:1},
+    {l:"L",g:"⬟",f:1},{l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"G",g:"◆",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"R",g:"●",f:1},{l:"E",g:"◈",f:1},{l:"L",g:"⬟",f:1},
+    {l:"E",g:"◈",f:1},{l:"A",g:"⊗",f:2},{l:"S",g:"◎",f:1},{l:"E",g:"◈",f:1}
+  ],
+  // Line 3: ALL TEN · EXACT MOMENT
+  [
+    {l:"A",g:"⊗",f:2},{l:"L",g:"⬟",f:1},{l:"L",g:"⬟",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"T",g:"✦",f:1},{l:"E",g:"◈",f:1},{l:"N",g:"⬡",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"·",g:"·",f:0},
+    {l:" ",g:" ",f:0},
+    {l:"E",g:"◈",f:1},{l:"X",g:"⬤",f:3},{l:"A",g:"⊗",f:2},
+    {l:"C",g:"⊙",f:2},{l:"T",g:"✦",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"M",g:"□",f:2},{l:"O",g:"▲",f:2},{l:"M",g:"□",f:2},
+    {l:"E",g:"◈",f:1},{l:"N",g:"⬡",f:1},{l:"T",g:"✦",f:1}
+  ],
+  // Line 4: SUN RETURNS
+  [
+    {l:"S",g:"◎",f:1},{l:"U",g:"▼",f:2},{l:"N",g:"⬡",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"R",g:"●",f:1},{l:"E",g:"◈",f:1},{l:"T",g:"✦",f:1},
+    {l:"U",g:"▼",f:2},{l:"R",g:"●",f:1},{l:"N",g:"⬡",f:1},{l:"S",g:"◎",f:1}
+  ],
+  // Line 5: ONE UNWILLING → DESTRUCTIVE
+  [
+    {l:"O",g:"▲",f:2},{l:"N",g:"⬡",f:1},{l:"E",g:"◈",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"U",g:"▼",f:2},{l:"N",g:"⬡",f:1},{l:"W",g:"⊕",f:2},
+    {l:"I",g:"⬠",f:1},{l:"L",g:"⬟",f:1},{l:"L",g:"⬟",f:1},
+    {l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"G",g:"◆",f:1},
+    {l:" ",g:" ",f:0},
+    {l:"→",g:"→",f:0},
+    {l:" ",g:" ",f:0},
+    {l:"D",g:"△",f:2},{l:"E",g:"◈",f:1},{l:"S",g:"◎",f:1},
+    {l:"T",g:"✦",f:1},{l:"R",g:"●",f:1},{l:"U",g:"▼",f:2},
+    {l:"C",g:"⊙",f:2},{l:"T",g:"✦",f:1},{l:"I",g:"⬠",f:1},
+    {l:"V",g:"▪",f:2},{l:"E",g:"◈",f:1}
+  ]
+];
+
+// ── State ──
+const active = new Set();
+
+function toggleFragment(n) {
+  const card = document.getElementById('card-' + n);
+  const status = document.getElementById('status-' + n);
+  if (active.has(n)) {
+    active.delete(n);
+    card.classList.remove('active');
+    status.textContent = '· sealed ·';
+  } else {
+    active.add(n);
+    card.classList.add('active');
+    status.textContent = '· active ·';
+  }
+  updateDisplay();
+}
+
+function resetAll() {
+  active.clear();
+  [1,2,3].forEach(n => {
+    document.getElementById('card-' + n).classList.remove('active');
+    document.getElementById('status-' + n).textContent = '· sealed ·';
+  });
+  updateDisplay();
+}
+
+function updateDisplay() {
+  const totalGlyphs = LINES.flat().filter(c => c.f > 0).length;
+  const decodedCount = LINES.flat().filter(c => c.f > 0 && active.has(c.f)).length;
+  const allActive = active.size === 3;
+  const anyActive = active.size > 0;
+
+  // Progress bar
+  document.getElementById('progress').style.width = ((active.size / 3) * 100) + '%';
+
+  // Background glow
+  document.getElementById('bg-glow').classList.toggle('all-active', allActive);
+
+  // Complete message
+  document.getElementById('complete-msg').classList.toggle('visible', allActive);
+
+  // Full-reveal class on cipher container
+  document.getElementById('cipher-container').classList.toggle('full-reveal', allActive);
+
+  // Rebuild cipher display
+  const cipherDiv = document.getElementById('cipher-display');
+  cipherDiv.innerHTML = '';
+
+  const decodedLines = [];
+
+  LINES.forEach((line, li) => {
+    const lineDiv = document.createElement('div');
+    lineDiv.className = 'cipher-line';
+
+    let dLine = '';
+
+    line.forEach((ch, ci) => {
+      const span = document.createElement('span');
+
+      if (ch.f === 0) {
+        // Always-visible punctuation / space
+        span.className = ch.l === ' ' ? 'glyph space' : 'glyph punct';
+        span.textContent = ch.g;
+        dLine += ch.l === ' ' ? ' ' : ch.l;
+      } else if (active.has(ch.f)) {
+        span.className = 'glyph f' + ch.f + ' revealed';
+        span.textContent = ch.l;
+        span.style.animationDelay = (ci * 35) + 'ms';
+        dLine += ch.l;
+      } else {
+        span.className = 'glyph f' + ch.f;
+        span.textContent = ch.g;
+        dLine += '_';
+      }
+
+      lineDiv.appendChild(span);
+    });
+
+    cipherDiv.appendChild(lineDiv);
+    decodedLines.push(dLine);
+  });
+
+  // Decoded panel
+  const decodedDiv = document.getElementById('decoded-display');
+  if (!anyActive) {
+    decodedDiv.textContent = '· · ·';
+    decodedDiv.className = 'decoded-text';
+  } else {
+    decodedDiv.textContent = decodedLines.join('\n');
+    decodedDiv.className = allActive ? 'decoded-text full' : 'decoded-text';
+  }
+}
+
+// Init
+updateDisplay();
+</script>
+</body>
+</html>
