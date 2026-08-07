@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Special+Elite&display=swap" rel="stylesheet">
 <style>
   @page {
     size: 80mm 10000mm;
@@ -9,9 +11,9 @@
   }
   * { box-sizing: border-box; }
   body {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'IM Fell English', Georgia, serif;
     font-size: 9pt;
-    line-height: 1.35;
+    line-height: 1.4;
     width: 74mm;
     margin: 0;
     padding: 0;
@@ -25,11 +27,12 @@
   }
   .prop:first-child { border-top: none; margin-top: 0; }
   .prop-title {
-    font-size: 8pt;
-    font-weight: bold;
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 7.5pt;
+    font-weight: normal;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 2mm;
+    letter-spacing: 0.08em;
+    margin-bottom: 1.5mm;
     border-bottom: 1px solid #000;
     padding-bottom: 1mm;
   }
@@ -40,8 +43,8 @@
     font-style: italic;
   }
   pre {
-    font-family: inherit;
-    font-size: 8pt;
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 7.5pt;
     white-space: pre-wrap;
     overflow-wrap: break-word;
     margin: 0;
@@ -55,15 +58,26 @@
   }
   p { margin: 0 0 1.5mm 0; }
   .tear { text-align: center; color: #bbb; margin: 3mm 0; font-size: 7pt; }
-  .stars { text-align: center; line-height: 1.6; }
+  .stars {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    text-align: center;
+    line-height: 1.6;
+    font-size: 8pt;
+  }
   .small { font-size: 7.5pt; }
+  .cipher {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 9pt;
+    line-height: 1.8;
+    text-align: center;
+    letter-spacing: 0.1em;
+    margin: 1.5mm 0;
+  }
 </style>
 </head>
 <body>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- EDORAN'S NOTES — found on body, S1      -->
-<!-- ═══════════════════════════════════════ -->
+<!-- EDORAN'S NOTES -->
 
 <div class="prop">
   <div class="prop-title">Sealed Note — Edoran's Coat</div>
@@ -71,7 +85,7 @@
   <blockquote>
     The willing heart gives freely what the bound heart cannot.
   </blockquote>
-  <p class="small">— Auris scripture, written in his hand</p>
+  <p class="small">Auris scripture, written in his hand.</p>
 </div>
 
 <div class="prop">
@@ -81,30 +95,28 @@
     You have no idea what you are looking for.<br>
     When you find it, you will understand why I did not want you to.
   </blockquote>
-  <p class="small">— unsigned</p>
+  <p class="small">Unsigned.</p>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- DAWNMARK STAR MAP — Scene 2 puzzle aid  -->
-<!-- ═══════════════════════════════════════ -->
+<!-- DAWNMARK STAR MAP -->
 
 <div class="prop">
   <div class="prop-title">Dawnmark Constellation</div>
-  <div class="prop-label">Star chart — Varenhold Astronomical Registry, Year 3 P.R.</div>
+  <div class="prop-label">Star chart. Varenhold Astronomical Registry, Year 3 P.R.</div>
 <pre class="stars">
-        ✦ Warden's Star
+        * Warden's Star
        /
-✦ Pale Fisher
+* Pale Fisher
        \
-        ✦ Shepherd's Eye
+        * Shepherd's Eye
               \
-               ✦ Vael's Crown
+               * Vael's Crown
               /
-✦ Trailing Light
+* Trailing Light
 </pre>
   <p class="small">
-    Five stars of the Dawnmark. Last seen rising<br>
-    in full sequence the night before the Silence.<br>
+    Five stars of the Dawnmark. Last seen rising in full<br>
+    sequence the night before the Silence.<br>
     <br>
     The Pale Fisher rises first.<br>
     The Trailing Light sets last.<br>
@@ -112,9 +124,7 @@
   </p>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- THREE PARCHMENT SLIPS — Scene 2         -->
-<!-- ═══════════════════════════════════════ -->
+<!-- THREE PARCHMENT SLIPS -->
 
 <div class="prop">
   <div class="prop-title">Parchment Slip I</div>
@@ -128,7 +138,7 @@
 
 <div class="prop">
   <div class="prop-title">Parchment Slip II</div>
-  <div class="prop-label">Same hand. Slightly different ink — written later.</div>
+  <div class="prop-label">Same hand. Slightly different ink. Written at a different time.</div>
   <blockquote>
     Ask the archivist what lives within the amber light.
     The answer is not in the records.
@@ -138,29 +148,29 @@
 
 <div class="prop">
   <div class="prop-title">Parchment Slip III</div>
-  <div class="prop-label">Same handwriting. Parchment feels different — recopied.</div>
+  <div class="prop-label">Same handwriting. Parchment feels different; recopied.</div>
   <blockquote>
     Every third scholar agreed: the Dawnborn are the mechanism.
     The energy lives in willing vessels.
-    The ritual them waits still.
+    The ritual waits still.
   </blockquote>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- COLOPHON — Corven witnesses             -->
-<!-- ═══════════════════════════════════════ -->
+<!-- COLOPHON -->
 
 <div class="prop">
   <div class="prop-title">Colophon — Corven's Final Notation</div>
   <div class="prop-label">Outer document of recovered Archive bundles.</div>
 <pre>
-RITUAL OF ETERNAL DAWN — FINAL NOTATION
-Archmagister Corven · Year 0 P.R.
-(the night of the ritual)
+RITUAL OF ETERNAL DAWN
+FINAL NOTATION
+
+Archmagister Corven
+Year 0 P.R. (the night of the ritual)
 
 [Document content — restricted]
 
-─────────────────────────────────
+────────────────────────────
 WITNESSED AND ATTESTED:
 
   CORVEN  ·  SALI  ·  WREN
@@ -168,16 +178,14 @@ WITNESSED AND ATTESTED:
 In the order of our signatures.
 In the order we understood.
 
-[Three signatures — the first bold,
+[Three signatures. The first bold,
  the second precise, the third rushed,
  as if written while something else
- was already happening]
+ was already happening.]
 </pre>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- CORVEN'S REDIRECTION NOTES — from Box   -->
-<!-- ═══════════════════════════════════════ -->
+<!-- CORVEN'S NOTES — RESONANCE BOX -->
 
 <div class="prop">
   <div class="prop-title">Corven's Notes — from the Resonance Box</div>
@@ -188,7 +196,7 @@ In the order we understood.
     the moment of inversion. The ritual is incomplete,
     not failed. The completion requires their release.
   </blockquote>
-  <p class="small">[Margin, different ink — added later:]</p>
+  <p class="small">[Margin note, different ink, added later:]</p>
   <blockquote>
     The mechanism will not function as designed if the
     distinction is collapsed. Willing release is not the
@@ -196,58 +204,53 @@ In the order we understood.
     philosophical observation. It is an engineering
     specification.
   </blockquote>
-  <p class="small">[Page 4 — blank except for a single line:]</p>
+  <p class="small">[Page 4, blank except for one line:]</p>
   <blockquote>
     No one should be forced.
   </blockquote>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- FRAGMENT II — Cipher Key               -->
-<!-- ═══════════════════════════════════════ -->
+<!-- FRAGMENT II -->
 
 <div class="prop">
   <div class="prop-title">Fragment II — Notation Key (Section II of III)</div>
   <div class="prop-label">Found inside the Resonance Box. Same size as Fragment I.</div>
-  <p class="small">SYMBOL MAPPINGS (one side):</p>
+  <p class="small">KEY:</p>
 <pre>
 ⊕=W  ⊗=A  ⊙=C  △=D  ▽=F
 ▲=O  ▼=U  □=M  ■=P  ▪=V  ▸=Y
-[Section III carries: remaining symbols]
+[Section III carries remaining symbols]
 </pre>
-  <p class="small">CIPHER TEXT (other side):</p>
-<pre>
-✦◇◈  ⊕⬠⬟⬟⬠⬡◆  ▪◈◎◎◈⬟
-⬠◎  ✦◇◈  □◈⊙◇⊗⬡⬠◎□
-</pre>
-  <p class="small">F1 only: T-H-E ·ILLING ·ESSEL IS T-H-E ·E·H·NIS·<br>
-  F1+F2: THE WILLING VESSEL IS THE MECHANISM</p>
-  <p class="small">PLAIN-LANGUAGE GLOSSES (below cipher):</p>
+  <p class="small">CIPHER:</p>
+  <div class="cipher">
+    ✦◇◈  ⊕⬠⬟⬟⬠⬡◆  ▪◈◎◎◈⬟<br>
+    ⬠◎  ✦◇◈  □◈⊙◇⊗⬡⬠◎□
+  </div>
+  <p class="small">NOTES (reverse):</p>
   <blockquote>
-    "The vessel is not the container. The vessel is the
-    carrier. The distinction is the mechanism."
+    The vessel is not the container. The vessel is the
+    carrier. The distinction is the mechanism.
   </blockquote>
   <blockquote>
-    "The completion mechanism is not separate from the
+    The completion mechanism is not separate from the
     vessel. The vessel IS the mechanism. To separate
-    them is to destroy both."
+    them is to destroy both.
   </blockquote>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- THERON'S JOURNAL                        -->
-<!-- ═══════════════════════════════════════ -->
+<!-- THERON'S JOURNAL -->
 
 <div class="prop">
   <div class="prop-title">Theron's Journal — Day 4,017</div>
-  <div class="prop-label">Small leather journal, much-handled. Open to a recent entry.</div>
+  <div class="prop-label">Small leather journal, well-worn. Open to a recent entry.</div>
   <blockquote>
     Day 4,017. Still counting. Still unable to tell them.<br>
     <br>
     The mathematics of love and duty: I know the answer,
-    and I cannot say it aloud. The day I found out — the
-    day I should have gone to them immediately — I told
-    myself I needed more time. That was 4,017 days ago.<br>
+    and I cannot say it aloud. The day I found out. That
+    was the day I should have gone to them immediately.
+    I told myself I needed more time. That was 4,017
+    days ago.<br>
     <br>
     What kind of scholar am I?<br>
     <br>
@@ -264,9 +267,7 @@ In the order we understood.
   </blockquote>
 </div>
 
-<!-- ═══════════════════════════════════════ -->
-<!-- RECKONING GUARD ORDERS                  -->
-<!-- ═══════════════════════════════════════ -->
+<!-- RECKONING GUARD ORDERS -->
 
 <div class="prop">
   <div class="prop-title">Reckoning Guard Orders</div>
@@ -292,7 +293,7 @@ OPEN. Direct order from the Commander.
 Do not ask why. Leave it sealed.
 
 Report to Crestwick Lane on completion.
-— Reckoning Command
+Reckoning Command
 </pre>
 </div>
 
