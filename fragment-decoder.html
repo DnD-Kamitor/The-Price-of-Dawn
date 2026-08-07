@@ -12,38 +12,34 @@
 body {
   background-color: #0a0805;
   min-height: 100vh;
-  font-family: 'Special Elite', 'Courier New', Courier, monospace;
+  font-family: 'Special Elite', 'Courier New', monospace;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2.5rem 1.5rem 4rem;
-  gap: 2rem;
+  padding: 2.5rem 1.5rem 5rem;
+  gap: 1.8rem;
   position: relative;
   overflow-x: hidden;
 }
 
-/* Atmospheric background */
 body::before {
   content: '';
   position: fixed;
-  inset: 0;
-  background:
-    radial-gradient(ellipse 60% 40% at 50% 20%, #1a1104 0%, #0a0805 100%),
-    #0a0805;
+  top: 0; right: 0; bottom: 0; left: 0;
+  background: radial-gradient(ellipse 60% 40% at 50% 20%, #1a1104 0%, #0a0805 100%), #0a0805;
   z-index: -1;
 }
 
 .page-bg-glow {
   position: fixed;
-  inset: 0;
+  top: 0; right: 0; bottom: 0; left: 0;
   background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e00 0%, transparent 70%);
   z-index: -1;
   transition: background 1.5s ease;
   pointer-events: none;
 }
-
-.page-bg-glow.all-active {
-  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e08 0%, transparent 70%);
+.page-bg-glow.all-done {
+  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e10 0%, transparent 70%);
 }
 
 h1 {
@@ -54,10 +50,9 @@ h1 {
   color: #a07840;
   text-align: center;
 }
-
 .subtitle {
   font-family: 'Cinzel', serif;
-  font-size: 0.65rem;
+  font-size: 0.62rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: #6a5028;
@@ -65,15 +60,15 @@ h1 {
   margin-top: -1.2rem;
 }
 
-.instructions {
-  font-size: 0.65rem;
-  color: #6a5028;
-  letter-spacing: 0.1em;
-  text-align: center;
+/* ── GM Fragment Cards ── */
+.gm-label {
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
+  color: #4a3818;
+  text-align: center;
 }
 
-/* ── Fragment Cards ── */
 .fragments-row {
   display: flex;
   gap: 1.2rem;
@@ -84,224 +79,320 @@ h1 {
 }
 
 .fragment-card {
-  border: 1px solid #3d3018;
+  border: 1px solid #2a2010;
   padding: 1rem 1.1rem;
   cursor: pointer;
   width: 210px;
-  transition: border-color 0.5s, box-shadow 0.5s, background 0.5s;
+  transition: border-color 0.4s, box-shadow 0.4s, background 0.4s;
   user-select: none;
-  background: #110e07;
+  background: #0d0c07;
   position: relative;
+  text-align: center;
 }
-
-.fragment-card::after {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(ellipse 80% 60% at 50% 30%, #c8963e00 0%, transparent 80%);
-  pointer-events: none;
-  transition: background 0.6s ease;
-}
-
-.fragment-card.active::after {
-  background: radial-gradient(ellipse 80% 60% at 50% 20%, #c8963e0c 0%, transparent 80%);
-}
-
-.fragment-card:hover {
-  border-color: #6a5028;
-}
-
-.fragment-card.active {
+.fragment-card:hover { border-color: #5a4020; }
+.fragment-card.unlocked {
   border-color: #c8963e;
-  box-shadow: 0 0 25px #c8963e1a, 0 0 60px #c8963e08;
+  box-shadow: 0 0 20px #c8963e18, 0 0 50px #c8963e08;
+  background: #120f07;
 }
 
-.f-label {
-  font-size: 0.55rem;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: #6a5028;
-  margin-bottom: 0.4rem;
-  transition: color 0.5s;
-}
-.fragment-card.active .f-label { color: #9a7840; }
+.f-label { font-size: 0.55rem; letter-spacing: 0.2em; text-transform: uppercase; color: #4a3818; margin-bottom: 0.3rem; transition: color 0.4s; }
+.fragment-card.unlocked .f-label { color: #9a7840; }
 
-.f-title {
-  font-family: 'Cinzel', serif;
-  font-size: 0.75rem;
-  color: #7a6030;
-  margin-bottom: 0.8rem;
-  letter-spacing: 0.05em;
-  transition: color 0.5s;
-}
-.fragment-card.active .f-title { color: #c8963e; }
+.f-title { font-family: 'Cinzel', serif; font-size: 0.72rem; letter-spacing: 0.1em; color: #5a4020; margin-bottom: 0.6rem; transition: color 0.4s; }
+.fragment-card.unlocked .f-title { color: #c8963e; }
 
-.f-symbols {
-  font-size: 1.1rem;
-  color: #6a5828;
-  letter-spacing: 0.15em;
-  line-height: 2;
-  transition: color 0.5s;
-}
-.fragment-card.active .f-symbols { color: #a07840; }
+.f-symbols { font-size: 1.1rem; color: #3a2e12; letter-spacing: 0.15em; line-height: 1.8; margin-bottom: 0.5rem; transition: color 0.4s; }
+.fragment-card.unlocked .f-symbols { color: #8a7040; }
 
-.f-mappings {
-  font-size: 0.6rem;
-  color: #5a4820;
-  margin-top: 0.5rem;
-  line-height: 1.7;
-  transition: color 0.5s;
-}
-.fragment-card.active .f-mappings { color: #9a7840; }
+.f-status { font-size: 0.55rem; letter-spacing: 0.2em; text-transform: uppercase; color: #3a2a10; transition: color 0.4s; }
+.fragment-card.unlocked .f-status { color: #a07840; }
 
-.f-status {
-  margin-top: 0.7rem;
-  font-size: 0.55rem;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: #4a3a18;
-  transition: color 0.5s;
-}
-.fragment-card.active .f-status { color: #c8963e; }
-
-/* ── Progress Bar ── */
-.progress-track {
-  max-width: 700px;
+/* ── Progress ── */
+.progress-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
   width: 100%;
-  height: 1px;
-  background: #3a3018;
+  max-width: 760px;
+}
+.progress-track {
+  flex: 1;
+  height: 2px;
+  background: #1e1808;
   position: relative;
 }
-
 .progress-fill {
-  height: 1px;
-  background: linear-gradient(to right, #6a5028, #c8963e);
+  height: 100%;
+  background: #c8963e;
+  transition: width 0.5s ease;
   width: 0%;
-  transition: width 0.8s ease;
-  box-shadow: 0 0 6px #c8963e99;
+  box-shadow: 0 0 8px #c8963e60;
+}
+.progress-label {
+  font-size: 0.6rem;
+  letter-spacing: 0.15em;
+  color: #6a5028;
+  white-space: nowrap;
+  font-family: 'Cinzel', serif;
+  text-transform: uppercase;
 }
 
-/* ── Cipher Display ── */
+/* ── Cipher Container ── */
 .cipher-container {
-  max-width: 700px;
   width: 100%;
-  border: 1px solid #3d3018;
-  background: #0c0a05;
-  padding: 2rem 2rem 1.5rem;
+  max-width: 760px;
+  border: 1px solid #2a2010;
+  background: #0d0b06;
+  padding: 1.4rem 1.6rem;
+  transition: border-color 0.8s, box-shadow 0.8s;
+}
+.cipher-container.full-reveal {
+  border-color: #c8963e44;
+  box-shadow: 0 0 40px #c8963e14;
 }
 
 .cipher-header {
   font-family: 'Cinzel', serif;
   font-size: 0.6rem;
   letter-spacing: 0.2em;
-  color: #6a5028;
   text-transform: uppercase;
+  color: #5a4020;
+  margin-bottom: 1rem;
   text-align: center;
-  margin-bottom: 1.8rem;
-  border-bottom: 1px solid #3d3018;
-  padding-bottom: 0.8rem;
 }
 
 .cipher-line {
-  text-align: center;
-  margin: 0.5rem 0;
-  font-size: 1.4rem;
-  letter-spacing: 0.06em;
-  line-height: 1.8;
-  min-height: 2.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  margin-bottom: 0.7rem;
+  min-height: 2rem;
+  align-items: baseline;
+  justify-content: center;
 }
+.cipher-line:last-child { margin-bottom: 0; }
 
 .glyph {
   display: inline-block;
-  min-width: 0.85em;
-  text-align: center;
-  color: #5a4a20;
-  transition: color 0.5s ease, text-shadow 0.5s ease;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  letter-spacing: 0.05em;
+  transition: color 0.3s;
+  cursor: default;
 }
+.glyph.space { width: 0.5em; }
+.glyph.punct { color: #6a5828; }
 
-.glyph.space {
-  min-width: 0.55em;
-}
+/* Locked glyphs — different by fragment */
+.glyph.f1 { color: #2e2510; }
+.glyph.f2 { color: #2a2510; }
+.glyph.f3 { color: #2a2212; }
 
-.glyph.punct {
-  color: #8a7030;
-  min-width: 0.35em;
-  font-size: 1rem;
-  vertical-align: middle;
-}
+/* Unlocked but not guessed */
+.glyph.f1.available { color: #7a6030; cursor: pointer; }
+.glyph.f2.available { color: #7a6030; cursor: pointer; }
+.glyph.f3.available { color: #7a6030; cursor: pointer; }
+.glyph.available:hover { color: #c8963e; text-shadow: 0 0 8px #c8963e60; }
 
+/* Revealed (correctly guessed) */
 .glyph.revealed {
   color: #c8963e;
-  text-shadow: 0 0 10px #c8963e55;
-  animation: revealChar 0.5s ease forwards;
+  animation: revealPop 0.5s ease-out forwards;
+}
+@keyframes revealPop {
+  0%   { transform: scale(1.4) translateY(-3px); color: #fff; text-shadow: 0 0 12px #c8963e; }
+  60%  { transform: scale(1.05); color: #e8b060; }
+  100% { transform: scale(1); color: #c8963e; text-shadow: none; }
 }
 
-@keyframes revealChar {
-  0%   { opacity: 0; transform: translateY(-4px) scaleY(0.7); color: #c8963ecc; text-shadow: 0 0 20px #c8963eaa; }
-  60%  { opacity: 1; transform: translateY(1px) scaleY(1.05); }
-  100% { opacity: 1; transform: translateY(0) scaleY(1); color: #c8963e; text-shadow: 0 0 8px #c8963e44; }
-}
-
-/* full reveal pulse when all 3 active */
-.cipher-container.full-reveal .glyph.revealed {
-  animation: none;
-  color: #e8b05e;
-  text-shadow: 0 0 14px #c8963e88;
-}
-
-/* ── Decoded Panel ── */
-.decoded-container {
-  max-width: 700px;
+/* ── Glyph Palette ── */
+.palette-section {
   width: 100%;
-  border: 1px solid #3d3018;
-  padding: 1.2rem 2rem;
-  background: #0c0a05;
+  max-width: 760px;
 }
-
-.decoded-header {
-  font-family: 'Cinzel', serif;
-  font-size: 0.55rem;
+.palette-header {
+  font-size: 0.58rem;
   letter-spacing: 0.2em;
-  color: #6a5028;
   text-transform: uppercase;
+  color: #5a4020;
+  font-family: 'Cinzel', serif;
+  text-align: center;
   margin-bottom: 0.8rem;
-  border-bottom: 1px solid #3d3018;
-  padding-bottom: 0.6rem;
 }
-
-.decoded-text {
-  font-family: 'IM Fell English', Georgia, serif;
-  font-size: 0.9rem;
-  color: #8a7040;
-  line-height: 2;
-  white-space: pre-line;
-  letter-spacing: 0.08em;
-  transition: color 0.8s, text-shadow 0.8s;
-  min-height: 5rem;
+.glyph-palette {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
 }
-
-.decoded-text.full {
-  color: #c8963e;
-  text-shadow: 0 0 30px #c8963e22;
-}
-
-/* ── Reset button ── */
-.reset-btn {
-  background: transparent;
-  border: 1px solid #3d3018;
-  color: #6a5028;
+.palette-glyph {
+  width: 46px;
+  height: 46px;
+  border: 1px solid #2a2010;
+  background: #0e0c07;
+  color: #3a2e12;
+  font-size: 1.2rem;
+  cursor: not-allowed;
+  transition: border-color 0.3s, color 0.3s, box-shadow 0.3s, background 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
   font-family: inherit;
+}
+.palette-glyph.available {
+  color: #8a7040;
+  border-color: #4a3818;
+  cursor: pointer;
+}
+.palette-glyph.available:hover {
+  border-color: #c8963e;
+  color: #c8963e;
+  box-shadow: 0 0 10px #c8963e30;
+  background: #141008;
+}
+.palette-glyph.solved {
+  background: #140f06;
+  border-color: #c8963e60;
+  color: #c8963e;
+  cursor: default;
+  font-size: 0.85rem;
+  font-family: 'IM Fell English', serif;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+.palette-glyph .pal-sub {
+  position: absolute;
+  bottom: 2px;
+  right: 3px;
+  font-size: 0.38rem;
+  color: #4a3818;
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0;
+}
+.palette-glyph.solved .pal-sub { color: #c8963e60; }
+
+/* ── Letter Picker Modal ── */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  top: 0; right: 0; bottom: 0; left: 0;
+  background: #0a080599;
+  z-index: 100;
+  align-items: center;
+  justify-content: center;
+}
+.modal-overlay.open { display: flex; }
+
+.modal-box {
+  background: #0f0d08;
+  border: 1px solid #c8963e60;
+  padding: 2rem 2rem 1.5rem;
+  max-width: 380px;
+  width: 92%;
+  box-shadow: 0 0 60px #c8963e18;
+  text-align: center;
+  position: relative;
+}
+.modal-box.shake {
+  animation: shake 0.35s ease;
+}
+@keyframes shake {
+  0%,100% { transform: translateX(0); }
+  20%      { transform: translateX(-8px); }
+  40%      { transform: translateX(8px); }
+  60%      { transform: translateX(-5px); }
+  80%      { transform: translateX(5px); }
+}
+
+.modal-glyph {
+  font-size: 3rem;
+  color: #c8963e;
+  margin-bottom: 0.4rem;
+  line-height: 1;
+  text-shadow: 0 0 20px #c8963e50;
+}
+.modal-prompt {
+  font-family: 'Cinzel', serif;
   font-size: 0.6rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  padding: 0.5rem 1.5rem;
+  color: #6a5028;
+  margin-bottom: 1.2rem;
+}
+.modal-error {
+  font-size: 0.6rem;
+  color: #8a3020;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: 'Cinzel', serif;
+  height: 1em;
+  margin-bottom: 0.5rem;
+  transition: opacity 0.3s;
+}
+
+.letter-grid {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 4px;
+  margin-bottom: 1rem;
+}
+.letter-btn {
+  height: 32px;
+  border: 1px solid #2a2010;
+  background: #130f07;
+  color: #8a7040;
+  font-family: 'IM Fell English', serif;
+  font-size: 0.9rem;
   cursor: pointer;
-  transition: border-color 0.3s, color 0.3s;
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
 }
-.reset-btn:hover {
-  border-color: #6a5028;
-  color: #9a7840;
+.letter-btn:hover {
+  border-color: #c8963e;
+  color: #c8963e;
+  background: #1a1408;
 }
+
+.modal-cancel {
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #4a3818;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: 'Cinzel', serif;
+  transition: color 0.2s;
+}
+.modal-cancel:hover { color: #7a5828; }
+
+/* ── Decoded Panel ── */
+.decoded-container {
+  width: 100%;
+  max-width: 760px;
+  border: 1px solid #1e1808;
+  background: #0c0a05;
+  padding: 1rem 1.4rem;
+}
+.decoded-header {
+  font-family: 'Cinzel', serif;
+  font-size: 0.58rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #4a3818;
+  margin-bottom: 0.6rem;
+}
+.decoded-text {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 0.85rem;
+  color: #6a5828;
+  white-space: pre;
+  line-height: 1.9;
+  letter-spacing: 0.08em;
+  transition: color 0.8s;
+}
+.decoded-text.full { color: #c8963e; }
 
 /* ── Complete message ── */
 .complete-message {
@@ -310,18 +401,31 @@ h1 {
   text-align: center;
   font-family: 'IM Fell English', Georgia, serif;
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   letter-spacing: 0.1em;
-  color: #1e1808;
+  color: #0a0805;
   transition: color 1s, text-shadow 1s;
   padding: 0.5rem;
 }
-
 .complete-message.visible {
   color: #c8963e;
-  text-shadow: 0 0 20px #c8963e44;
+  text-shadow: 0 0 24px #c8963e44;
 }
 
+/* ── Reset ── */
+.reset-btn {
+  background: none;
+  border: 1px solid #2a2010;
+  color: #4a3818;
+  padding: 0.4rem 1.2rem;
+  font-family: 'Cinzel', serif;
+  font-size: 0.55rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+}
+.reset-btn:hover { border-color: #5a4020; color: #8a6030; }
 </style>
 </head>
 <body>
@@ -331,61 +435,57 @@ h1 {
 <h1>Corven's Notation System</h1>
 <div class="subtitle">Fragment Decoder &nbsp;·&nbsp; Ritual of Eternal Dawn</div>
 
-<div class="instructions">Click each fragment card as it is found in the campaign</div>
+<div class="gm-label">GM: click a fragment card when players find it &nbsp;·&nbsp; Players: click any amber symbol to decode it</div>
 
-<!-- Fragment Cards -->
+<!-- Fragment Cards — GM unlocks, players decode -->
 <div class="fragments-row">
 
   <div class="fragment-card" id="card-1" onclick="toggleFragment(1)">
     <div class="f-label">Notation Reference</div>
     <div class="f-title">Section I &nbsp;·&nbsp; of III</div>
     <div class="f-symbols">✦ ◈ ⬡ ⬟ ⬠ ◆<br>◇ ○ ● ◎</div>
-    <div class="f-mappings">
-      ✦=T &nbsp; ◈=E &nbsp; ⬡=N &nbsp; ⬟=L<br>
-      ⬠=I &nbsp; ◆=G &nbsp; ◇=H &nbsp; ○=B<br>
-      ●=R &nbsp; ◎=S
-    </div>
-    <div class="f-status" id="status-1">· sealed ·</div>
+    <div class="f-status" id="status-1">· locked ·</div>
   </div>
 
   <div class="fragment-card" id="card-2" onclick="toggleFragment(2)">
     <div class="f-label">Notation Reference</div>
     <div class="f-title">Section II &nbsp;·&nbsp; of III</div>
     <div class="f-symbols">⊕ ⊗ ⊙ △ ▽<br>▲ ▼ □ ■ ▪ ▸</div>
-    <div class="f-mappings">
-      ⊕=W &nbsp; ⊗=A &nbsp; ⊙=C &nbsp; △=D<br>
-      ▽=F &nbsp; ▲=O &nbsp; ▼=U &nbsp; □=M<br>
-      ■=P &nbsp; ▪=V &nbsp; ▸=Y
-    </div>
-    <div class="f-status" id="status-2">· sealed ·</div>
+    <div class="f-status" id="status-2">· locked ·</div>
   </div>
 
   <div class="fragment-card" id="card-3" onclick="toggleFragment(3)">
     <div class="f-label">Notation Reference</div>
     <div class="f-title">Section III &nbsp;·&nbsp; of III</div>
     <div class="f-symbols">⬢ ☆ ◉ ⬤ ✧</div>
-    <div class="f-mappings">
-      ⬢=J &nbsp; ☆=K &nbsp; ◉=Q<br>
-      ⬤=X &nbsp; ✧=Z
-    </div>
-    <div class="f-status" id="status-3">· sealed ·</div>
+    <div class="f-status" id="status-3">· locked ·</div>
   </div>
 
 </div>
 
-<div class="progress-track">
-  <div class="progress-fill" id="progress"></div>
+<!-- Progress -->
+<div class="progress-row">
+  <div class="progress-label" id="progress-label">0 / 26 decoded</div>
+  <div class="progress-track">
+    <div class="progress-fill" id="progress"></div>
+  </div>
 </div>
 
-<!-- Cipher Text Display -->
+<!-- Cipher Text -->
 <div class="cipher-container" id="cipher-container">
   <div class="cipher-header">Ritual of Eternal Dawn — Center Notation (recovered, Year 48)</div>
   <div id="cipher-display"></div>
 </div>
 
+<!-- Glyph Palette -->
+<div class="palette-section">
+  <div class="palette-header">Click an amber symbol to identify it</div>
+  <div class="glyph-palette" id="glyph-palette"></div>
+</div>
+
 <!-- Decoded Text -->
 <div class="decoded-container">
-  <div class="decoded-header">Decoded &nbsp;·&nbsp; revealed symbols only</div>
+  <div class="decoded-header">Decoded &nbsp;·&nbsp; correctly identified symbols only</div>
   <div class="decoded-text" id="decoded-display">· · ·</div>
 </div>
 
@@ -393,17 +493,26 @@ h1 {
   The notation is complete. The path was always there.
 </div>
 
-<button class="reset-btn" onclick="resetAll()">Reset all fragments</button>
+<button class="reset-btn" onclick="resetAll()">Reset everything</button>
+
+<!-- Letter Picker Modal -->
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal-box" id="modal-box">
+    <div class="modal-glyph" id="modal-glyph">?</div>
+    <div class="modal-prompt">What letter does this symbol represent?</div>
+    <div class="modal-error" id="modal-error"></div>
+    <div class="letter-grid" id="letter-grid"></div>
+    <button class="modal-cancel" onclick="closeModal()">Cancel</button>
+  </div>
+</div>
 
 <script>
 // ================================================================
 //  CIPHER DEFINITION
-//  Each char: { l: letter/punct, g: glyph, f: fragment (1/2/3/0) }
-//  f=0 = always visible (space, punctuation, separator)
+//  l = plain letter, g = glyph, f = fragment (1/2/3), 0 = always visible
 // ================================================================
-
 const LINES = [
-  // Line 1: INVERSION PATH:
+  // INVERSION PATH
   [
     {l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"V",g:"▪",f:2},
     {l:"E",g:"◈",f:1},{l:"R",g:"●",f:1},{l:"S",g:"◎",f:1},
@@ -412,7 +521,7 @@ const LINES = [
     {l:"P",g:"■",f:2},{l:"A",g:"⊗",f:2},{l:"T",g:"✦",f:1},{l:"H",g:"◇",f:1},
     {l:"·",g:"·",f:0}
   ],
-  // Line 2: WILLING RELEASE
+  // WILLING RELEASE
   [
     {l:"W",g:"⊕",f:2},{l:"I",g:"⬠",f:1},{l:"L",g:"⬟",f:1},
     {l:"L",g:"⬟",f:1},{l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"G",g:"◆",f:1},
@@ -420,37 +529,33 @@ const LINES = [
     {l:"R",g:"●",f:1},{l:"E",g:"◈",f:1},{l:"L",g:"⬟",f:1},
     {l:"E",g:"◈",f:1},{l:"A",g:"⊗",f:2},{l:"S",g:"◎",f:1},{l:"E",g:"◈",f:1}
   ],
-  // Line 3: ALL TEN · EXACT MOMENT
+  // ALL TEN · EXACT MOMENT
   [
     {l:"A",g:"⊗",f:2},{l:"L",g:"⬟",f:1},{l:"L",g:"⬟",f:1},
     {l:" ",g:" ",f:0},
     {l:"T",g:"✦",f:1},{l:"E",g:"◈",f:1},{l:"N",g:"⬡",f:1},
-    {l:" ",g:" ",f:0},
-    {l:"·",g:"·",f:0},
-    {l:" ",g:" ",f:0},
+    {l:" ",g:" ",f:0},{l:"·",g:"·",f:0},{l:" ",g:" ",f:0},
     {l:"E",g:"◈",f:1},{l:"X",g:"⬤",f:3},{l:"A",g:"⊗",f:2},
     {l:"C",g:"⊙",f:2},{l:"T",g:"✦",f:1},
     {l:" ",g:" ",f:0},
     {l:"M",g:"□",f:2},{l:"O",g:"▲",f:2},{l:"M",g:"□",f:2},
     {l:"E",g:"◈",f:1},{l:"N",g:"⬡",f:1},{l:"T",g:"✦",f:1}
   ],
-  // Line 4: SUN RETURNS
+  // SUN RETURNS
   [
     {l:"S",g:"◎",f:1},{l:"U",g:"▼",f:2},{l:"N",g:"⬡",f:1},
     {l:" ",g:" ",f:0},
     {l:"R",g:"●",f:1},{l:"E",g:"◈",f:1},{l:"T",g:"✦",f:1},
     {l:"U",g:"▼",f:2},{l:"R",g:"●",f:1},{l:"N",g:"⬡",f:1},{l:"S",g:"◎",f:1}
   ],
-  // Line 5: ONE UNWILLING → DESTRUCTIVE
+  // ONE UNWILLING → DESTRUCTIVE
   [
     {l:"O",g:"▲",f:2},{l:"N",g:"⬡",f:1},{l:"E",g:"◈",f:1},
     {l:" ",g:" ",f:0},
     {l:"U",g:"▼",f:2},{l:"N",g:"⬡",f:1},{l:"W",g:"⊕",f:2},
     {l:"I",g:"⬠",f:1},{l:"L",g:"⬟",f:1},{l:"L",g:"⬟",f:1},
     {l:"I",g:"⬠",f:1},{l:"N",g:"⬡",f:1},{l:"G",g:"◆",f:1},
-    {l:" ",g:" ",f:0},
-    {l:"→",g:"→",f:0},
-    {l:" ",g:" ",f:0},
+    {l:" ",g:" ",f:0},{l:"→",g:"→",f:0},{l:" ",g:" ",f:0},
     {l:"D",g:"△",f:2},{l:"E",g:"◈",f:1},{l:"S",g:"◎",f:1},
     {l:"T",g:"✦",f:1},{l:"R",g:"●",f:1},{l:"U",g:"▼",f:2},
     {l:"C",g:"⊙",f:2},{l:"T",g:"✦",f:1},{l:"I",g:"⬠",f:1},
@@ -458,76 +563,141 @@ const LINES = [
   ]
 ];
 
-// ── State ──
-const active = new Set();
+// ── Build glyph→{letter,fragment} map from LINES ──
+const GLYPH_MAP = {};
+LINES.flat().forEach(ch => {
+  if (ch.f > 0 && !GLYPH_MAP[ch.g]) {
+    GLYPH_MAP[ch.g] = { letter: ch.l, fragment: ch.f };
+  }
+});
 
+// Ordered list of unique glyphs for the palette
+const GLYPH_ORDER = [];
+LINES.flat().forEach(ch => {
+  if (ch.f > 0 && !GLYPH_ORDER.includes(ch.g)) GLYPH_ORDER.push(ch.g);
+});
+
+const TOTAL = Object.keys(GLYPH_MAP).length; // 26
+
+// ── State ──
+const unlocked = new Set();   // fragment numbers the GM has unlocked
+const decoded  = {};          // glyph → correct letter (player has guessed correctly)
+let   activeGlyph = null;
+
+// ── Fragment card toggle (GM action) ──
 function toggleFragment(n) {
-  const card = document.getElementById('card-' + n);
+  const card   = document.getElementById('card-' + n);
   const status = document.getElementById('status-' + n);
-  if (active.has(n)) {
-    active.delete(n);
-    card.classList.remove('active');
-    status.textContent = '· sealed ·';
+  if (unlocked.has(n)) {
+    unlocked.delete(n);
+    card.classList.remove('unlocked');
+    status.textContent = '· locked ·';
   } else {
-    active.add(n);
-    card.classList.add('active');
-    status.textContent = '· active ·';
+    unlocked.add(n);
+    card.classList.add('unlocked');
+    status.textContent = '· available ·';
   }
   updateDisplay();
 }
 
-function resetAll() {
-  active.clear();
-  [1,2,3].forEach(n => {
-    document.getElementById('card-' + n).classList.remove('active');
-    document.getElementById('status-' + n).textContent = '· sealed ·';
+// ── Open modal for a specific glyph ──
+function openModal(glyph) {
+  const info = GLYPH_MAP[glyph];
+  if (!info) return;
+  if (decoded[glyph]) return;
+  if (!unlocked.has(info.fragment)) return;
+
+  activeGlyph = glyph;
+  document.getElementById('modal-glyph').textContent = glyph;
+  document.getElementById('modal-error').textContent = '';
+
+  const grid = document.getElementById('letter-grid');
+  grid.innerHTML = '';
+  'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').forEach(letter => {
+    const btn = document.createElement('button');
+    btn.className = 'letter-btn';
+    btn.textContent = letter;
+    btn.onclick = () => guessLetter(letter);
+    grid.appendChild(btn);
   });
-  updateDisplay();
+
+  document.getElementById('modal-overlay').classList.add('open');
 }
 
+function closeModal() {
+  document.getElementById('modal-overlay').classList.remove('open');
+  activeGlyph = null;
+}
+
+function guessLetter(letter) {
+  if (!activeGlyph) return;
+  const correct = GLYPH_MAP[activeGlyph].letter;
+
+  if (letter === correct) {
+    decoded[activeGlyph] = letter;
+    closeModal();
+    updateDisplay();
+  } else {
+    // Wrong — shake and show hint
+    const box = document.getElementById('modal-box');
+    box.classList.remove('shake');
+    void box.offsetWidth; // reflow
+    box.classList.add('shake');
+    document.getElementById('modal-error').textContent = 'Not that one. Look again at the fragment.';
+    setTimeout(() => box.classList.remove('shake'), 400);
+  }
+}
+
+// Close modal on overlay click
+document.getElementById('modal-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modal-overlay')) closeModal();
+});
+
+// ── Main display update ──
 function updateDisplay() {
-  const totalGlyphs = LINES.flat().filter(c => c.f > 0).length;
-  const decodedCount = LINES.flat().filter(c => c.f > 0 && active.has(c.f)).length;
-  const allActive = active.size === 3;
-  const anyActive = active.size > 0;
+  const count  = Object.keys(decoded).length;
+  const allDone = count === TOTAL;
 
-  // Progress bar
-  document.getElementById('progress').style.width = ((active.size / 3) * 100) + '%';
+  // Progress
+  document.getElementById('progress-label').textContent = count + ' / ' + TOTAL + ' decoded';
+  document.getElementById('progress').style.width = (count / TOTAL * 100) + '%';
 
-  // Background glow
-  document.getElementById('bg-glow').classList.toggle('all-active', allActive);
+  // Background / complete
+  document.getElementById('bg-glow').classList.toggle('all-done', allDone);
+  document.getElementById('complete-msg').classList.toggle('visible', allDone);
+  document.getElementById('cipher-container').classList.toggle('full-reveal', allDone);
 
-  // Complete message
-  document.getElementById('complete-msg').classList.toggle('visible', allActive);
-
-  // Full-reveal class on cipher container
-  document.getElementById('cipher-container').classList.toggle('full-reveal', allActive);
-
-  // Rebuild cipher display
+  // ── Cipher display ──
   const cipherDiv = document.getElementById('cipher-display');
   cipherDiv.innerHTML = '';
-
   const decodedLines = [];
 
-  LINES.forEach((line, li) => {
+  LINES.forEach(line => {
     const lineDiv = document.createElement('div');
     lineDiv.className = 'cipher-line';
-
     let dLine = '';
 
     line.forEach((ch, ci) => {
       const span = document.createElement('span');
 
       if (ch.f === 0) {
-        // Always-visible punctuation / space
         span.className = ch.l === ' ' ? 'glyph space' : 'glyph punct';
         span.textContent = ch.g;
         dLine += ch.l === ' ' ? ' ' : ch.l;
-      } else if (active.has(ch.f)) {
+
+      } else if (decoded[ch.g]) {
         span.className = 'glyph f' + ch.f + ' revealed';
         span.textContent = ch.l;
-        span.style.animationDelay = (ci * 35) + 'ms';
+        span.style.animationDelay = (ci * 30) + 'ms';
         dLine += ch.l;
+
+      } else if (unlocked.has(ch.f)) {
+        span.className = 'glyph f' + ch.f + ' available';
+        span.textContent = ch.g;
+        span.title = 'Click to decode this symbol';
+        span.onclick = () => openModal(ch.g);
+        dLine += '_';
+
       } else {
         span.className = 'glyph f' + ch.f;
         span.textContent = ch.g;
@@ -541,15 +711,64 @@ function updateDisplay() {
     decodedLines.push(dLine);
   });
 
-  // Decoded panel
+  // ── Decoded text panel ──
   const decodedDiv = document.getElementById('decoded-display');
-  if (!anyActive) {
+  if (count === 0) {
     decodedDiv.textContent = '· · ·';
     decodedDiv.className = 'decoded-text';
   } else {
     decodedDiv.textContent = decodedLines.join('\n');
-    decodedDiv.className = allActive ? 'decoded-text full' : 'decoded-text';
+    decodedDiv.className = allDone ? 'decoded-text full' : 'decoded-text';
   }
+
+  // ── Glyph palette ──
+  buildPalette();
+}
+
+// ── Glyph palette ──
+function buildPalette() {
+  const palette = document.getElementById('glyph-palette');
+  palette.innerHTML = '';
+
+  GLYPH_ORDER.forEach(glyph => {
+    const info = GLYPH_MAP[glyph];
+    const btn  = document.createElement('button');
+    btn.className = 'palette-glyph';
+
+    const sub = document.createElement('span');
+    sub.className = 'pal-sub';
+    sub.textContent = 'F' + info.fragment;
+
+    if (decoded[glyph]) {
+      btn.classList.add('solved');
+      btn.textContent = decoded[glyph];
+      btn.title = glyph + ' = ' + decoded[glyph];
+    } else if (unlocked.has(info.fragment)) {
+      btn.classList.add('available');
+      btn.textContent = glyph;
+      btn.title = 'Click to identify this symbol';
+      btn.onclick = () => openModal(glyph);
+    } else {
+      btn.textContent = glyph;
+      btn.title = 'Fragment ' + info.fragment + ' not yet found';
+    }
+
+    btn.appendChild(sub);
+    palette.appendChild(btn);
+  });
+}
+
+// ── Reset ──
+function resetAll() {
+  unlocked.clear();
+  Object.keys(decoded).forEach(k => delete decoded[k]);
+  activeGlyph = null;
+  closeModal();
+  [1,2,3].forEach(n => {
+    document.getElementById('card-' + n).classList.remove('unlocked');
+    document.getElementById('status-' + n).textContent = '· locked ·';
+  });
+  updateDisplay();
 }
 
 // Init
