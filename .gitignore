@@ -19,6 +19,10 @@ passwords.kdbx
 *.kdbx
 .env.campaign
 
+# Claude Code internal state (not project content)
+.claude/proven-config.json
+.claude/.proven-config-version
+
 # Tool artifacts — not part of the GitBook
 graphify-out/
 .claude-flow/

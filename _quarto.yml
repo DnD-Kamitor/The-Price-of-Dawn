@@ -39,14 +39,11 @@ book:
         - session-recording.md
     - part: "The Sessions"
       chapters:
-        - plot-overview.md
         - master-plot.md
         - session0-5.md
-        - props-session0-5.md
         - print-props-session0-5.md
         - session1.md
         - print-props-session1.md
-        - player-props-session1.md
         - session2.md
         - print-props-session2.md
         - session3.md
