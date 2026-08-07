@@ -196,6 +196,57 @@ The mouse survived. The mouse is not the same mouse.
 </details>
 
 <details>
+<summary>Fragment 3 — Corven's Notation Key (found in Isolde's workroom)</summary>
+
+*Tucked into the back of Isolde's working papers on the desk — she found it in the Corven correspondence estate lot, didn't know what it was, filed it under "cipher samples." Same size and format as Fragments 1 and 2. Hand to players when they examine the desk in Scene 3.*
+
+---
+
+*[A single sheet in the same careful hand as Fragments 1 and 2. Header reads "Notation Reference — Section III of III." At the bottom: a single underlined note: "This completes the key. The rest is already written. You only needed to be able to read it."]*
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  CORVEN PRIVATE NOTATION — FRAGMENT III OF III                ║
+║  Section III: Final Symbols (completes the notation system)   ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   ⬢ = J     ☆ = K     ◉ = Q     ⬤ = X     ✧ = Z            ║
+║                                                              ║
+║   [All three sections complete the full notation key]        ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  CIPHER TEXT (in Corven's hand):                             ║
+║                                                              ║
+║    ◈⬤⊗⊙✦  ⊕⬠⬟⬟⬠⬡◆  ●◈⬟◈⊗◎◈                               ║
+║    ◎▼⬡  ●◈✦▼●⬡◎                                             ║
+║                                                              ║
+║  [Fragments 1+2 decode: "E·ACT WILLING RELEASE: SUN RETURNS"]║
+║  [All three decode:      "EXACT WILLING RELEASE: SUN RETURNS"]║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  PLAIN NOTE (in Corven's hand):                              ║
+║                                                              ║
+║  "All ten at the focal point. The same moment.               ║
+║   The door opened from inside, willingly.                    ║
+║   One unwilling or absent — the circuit closes               ║
+║   the other way. There is no third option."                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+::: {.prop-alt-ink}
+*With all three Fragments, players can now fully decode the Tier 3 notation on the ritual diagram found in Session 2. The center notation — which Theron missed, or chose not to look for — reads: "INVERSION PATH: WILLING RELEASE. ALL TEN. EXACT MOMENT. SUN RETURNS. ONE UNWILLING → DESTRUCTIVE."*
+
+*This is the alternative ending. It was in the diagram the whole time. It required the complete key to read.*
+
+*Isolde did not know what she was sitting on. She filed it as "cipher sample." The notation on her own desk unlocks the mechanism she's been trying to build for three years.*
+:::
+
+</details>
+
+<details>
 <summary>Reckoning Operational Order — found on soldiers in Scene 5</summary>
 
 *Found on any Reckoning soldier captured or searched in the Scene 5 raid on Isolde's workroom.*

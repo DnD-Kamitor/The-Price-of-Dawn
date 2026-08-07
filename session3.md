@@ -53,7 +53,7 @@
 
 **Setup:** Isolde's workroom is cramped and brilliant — three lux-crystal channels mounted on a workbench, each a different color (amber, silver, grey), surrounded by annotated diagrams and a shelf of specimen jars. One jar holds a grey mouse that moves wrong, like something walking through water. Players who make DC 14 Medicine or DC 13 Arcana understand what they're seeing before Isolde says anything: the mouse survived the transfer. It is not the mouse it was. This is the outcome she hasn't found a word for.
 
-**The Puzzle:** Each channel has a direction dial calibrated 0°-360°. The correct configuration redirects lux energy without destroying the vessel. The three correct dial positions are: amber=60°, silver=180°, grey=300°. These correspond to the angular positions of the three surge-phase Dawnborn at the Ashring during the original ritual — derivable from Tomas's Asymmetry Journal (found or decoded in Session 2). Players with the journal get advantage on the DC 14 Arcana check to work it out; DC 12 with journal in hand and a successful DC 10 History check to connect the positions to the star map inside.
+**The Puzzle:** Each channel has a direction dial calibrated 0°-360°. The correct configuration redirects lux energy without destroying the vessel. The three correct dial positions are: amber=60°, silver=180°, grey=300°. These correspond to the angular positions of the three surge-phase Dawnborn at the Ashring during the original ritual — encoded in the angular position table in Isolde's notes, readable only with Fragment 2 of the Notation Key (Session 2, Resonance Box). Players with Fragment 2 get advantage on the DC 14 Arcana check to decode the table directly. Without it: DC 14 Arcana, or DC 12 with a successful DC 10 History check connecting the angular positions to the star chart on Isolde's wall.
 
 **Solution:** Set amber to 60°, silver to 180°, grey to 300°. Speak the configuration aloud to Isolde if uncertain — she can confirm or deny without giving the answer directly.
 
@@ -118,7 +118,7 @@
 ## End of Session
 
 **What players now know:**
-- Three paths exist: Transfer (Isolde's apparatus), Asymmetry (Tomas's five surge-phase Dawnborn), and something hinted at by the Ashring stones that hasn't been fully revealed.
+- Three paths exist: Transfer (Isolde's apparatus), Asymmetry (five surge-phase Dawnborn at reduced mortality risk — Isolde's theoretical path), and something hinted at by the Ashring stones that hasn't been fully revealed.
 - The Reckoning is actively working to close down alternatives. Someone is feeding them information.
 - Consent among the Dawnborn is not a single answer. It is ten separate answers, and they are not the same.
 

@@ -421,17 +421,35 @@ Unit 4 deployed in linen storage. Both active.
 
 ---
 
-*[A single sheet, cipher text on one side, two plain-language glosses on the other. The cipher matches Fragment 1's style — same notation system.]*
+*[A single sheet. One side: symbol mapping key, same format as Fragment 1. Other side: cipher text with plain-language glosses below.]*
 
-**CIPHER TEXT (one side):**
+**SYMBOL MAPPINGS — Section II (one side):**
 
 ```
-⊕⬠⬟⬟⬠⬡◆  ⬡◆⬠⬟  ◆⬠⬡⬟⊕  ⬡⬠◆⬟⊕⬡
-⊕◆⬠⬡⬟  ⬠⬡◆⬟⊕  ⊕⬡◆⬠⬟  ◆⬡⬠⬟⊕⬡
-⬡⊕⬠⬟◆  ⬠⊕⬡◆⬟  ◆⊕⬡⬠⬟  ⬟⊕⬠⬡◆⬡
+╔══════════════════════════════════════════════════════════════╗
+║  CORVEN PRIVATE NOTATION — FRAGMENT II OF III                 ║
+║  Section II: Extended Symbols (partial — see Section III)     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║   ⊕ = W     ⊗ = A     ⊙ = C     △ = D     ▽ = F            ║
+║   ▲ = O     ▼ = U     □ = M     ■ = P     ▪ = V     ▸ = Y  ║
+║                                                              ║
+║   [continues →] Section III carries: remaining symbols        ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-**PLAIN-LANGUAGE GLOSSES (other side):**
+**CIPHER TEXT (other side):**
+
+```
+✦◇◈  ⊕⬠⬟⬟⬠⬡◆  ▪◈◎◎◈⬟
+⬠◎  ✦◇◈  □◈⊙◇⊗⬡⬠◎□
+```
+
+*[Fragment 1 alone decodes: "T-H-E ·ILLING ·ESSEL IS T-H-E ·E·H·NIS·"]*
+*[Fragments 1+2 together decode: "THE WILLING VESSEL IS THE MECHANISM"]*
+
+**PLAIN-LANGUAGE GLOSSES (below cipher text, same side):**
 
 *"The vessel is not the container. The vessel is the carrier. The distinction is the mechanism."*
 
