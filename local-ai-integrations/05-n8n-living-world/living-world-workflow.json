@@ -1,0 +1,319 @@
+{
+  "name": "Price of Dawn — Living World",
+  "nodes": [
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000001",
+      "name": "Gitea Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [240, 300],
+      "webhookId": "living-world-trigger",
+      "parameters": {
+        "path": "living-world-trigger",
+        "responseMode": "onReceived",
+        "responseData": "firstEntryJson",
+        "httpMethod": "POST"
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000002",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [240, 480],
+      "parameters": {}
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000003",
+      "name": "Merge Triggers",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 2,
+      "position": [460, 380],
+      "parameters": {
+        "mode": "chooseBranch",
+        "chooseBranchMode": "waitForBoth"
+      },
+      "notes": "Handles both webhook and manual trigger. For manual test, set session_number below."
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000004",
+      "name": "Extract Commit Info",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [680, 380],
+      "parameters": {
+        "jsCode": "// Handle both Gitea webhook payload and manual trigger\nconst body = $input.first().json;\n\nlet commitSha = '';\nlet sessionNumber = 0;\nlet repoUrl = 'https://gitea.research-ready.nl/api/v1/repos/admin/price-of-dawn';\n\nif (body.commits && body.commits.length > 0) {\n  // Gitea webhook payload\n  commitSha = body.commits[0].id;\n  const modifiedFiles = body.commits[0].modified || body.commits[0].added || [];\n  // Detect session number from changed files (e.g. session3.md -> 3)\n  for (const f of modifiedFiles) {\n    const m = f.match(/session(\\d+)\\.md/);\n    if (m) { sessionNumber = parseInt(m[1]); break; }\n  }\n} else {\n  // Manual trigger — use defaults for testing\n  commitSha = body.sha || 'HEAD';\n  sessionNumber = body.session_number || 3; // Edit this before manual test run\n}\n\nreturn [{\n  json: {\n    commitSha,\n    sessionNumber,\n    repoUrl,\n    timestamp: new Date().toISOString()\n  }\n}];"
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000005",
+      "name": "Get Session Notes",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [900, 380],
+      "parameters": {
+        "method": "GET",
+        "url": "={{ $json.repoUrl }}/raw/master/session{{ $json.sessionNumber }}.md",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {
+          "timeout": 15000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "gitea-api-token",
+          "name": "Gitea API Token"
+        }
+      },
+      "notes": "Credential: create 'Header Auth' credential named 'Gitea API Token' with Name=Authorization Value='token YOUR_GITEA_TOKEN'"
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000006",
+      "name": "Extract Session Events",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1120, 380],
+      "parameters": {
+        "jsCode": "const sessionText = $input.first().json.data;\nconst sessionNumber = $('Extract Commit Info').first().json.sessionNumber;\n\n// Extract key content sections — look for scene headings and content\n// Pull the first 3000 chars as summary context (full file may be long)\nconst truncated = typeof sessionText === 'string'\n  ? sessionText.substring(0, 4000)\n  : JSON.stringify(sessionText).substring(0, 4000);\n\n// Extract scene/event summary — look for ## headings as scene markers\nconst lines = truncated.split('\\n');\nconst eventLines = [];\nlet inRelevantSection = false;\n\nfor (const line of lines) {\n  if (line.startsWith('## Scene') || line.startsWith('## Beat') || line.startsWith('## Encounter')) {\n    inRelevantSection = true;\n    eventLines.push(line.replace(/^#+\\s*/, '- '));\n  } else if (line.startsWith('## ') && inRelevantSection) {\n    inRelevantSection = false;\n  } else if (inRelevantSection && line.trim().length > 20) {\n    eventLines.push('  ' + line.trim().substring(0, 120));\n  }\n  if (eventLines.length > 30) break;\n}\n\nconst sessionEvents = eventLines.length > 0\n  ? eventLines.join('\\n')\n  : `Session ${sessionNumber} notes — full text:\\n` + truncated.substring(0, 1500);\n\nreturn [{\n  json: {\n    sessionNumber,\n    sessionEvents,\n    rawLength: truncated.length\n  }\n}];"
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000007",
+      "name": "LiteLLM — NPC Reactions",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1340, 260],
+      "parameters": {
+        "method": "POST",
+        "url": "http://10.0.1.105:4000/v1/chat/completions",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": \"pod-fast\",\n  \"max_tokens\": 800,\n  \"temperature\": 0.7,\n  \"metadata\": {\"tags\": [\"living-world\", \"price-of-dawn\", \"npc-reactions\"]},\n  \"messages\": [\n    {\n      \"role\": \"system\",\n      \"content\": \"You are generating GM notes for a D&D 5e campaign called 'The Price of Dawn.'\\n\\nCAMPAIGN CONTEXT:\\nTen people (the Dawnborn) were born the night a ritual failed 50 years ago, keeping the sun from rising. The ritual to restore the sun requires their deaths. The party is investigating this. Key NPCs: Theron Waide (archivist, guilty, anxious), Sera Voss (guard captain, decided yes, direct), Lira Anwick (healer, has young daughter, decided yes quietly), Brother Edoran (Restorers founder, lost daughter to grey sickness, serene), Chancellor Ostenveld (city council head, managing information, controlled), Erem the Wadewalker (Ashfen clan elder, patient, skeptical), Tomas Areth (former Spire researcher, methodical, honest), Ysel Dorn (Auris temple keeper, warm, unafraid).\\n\\nTASK:\\nFor each major NPC listed above, write 2-4 sentences describing:\\n1. What they heard about or observed from the session events\\n2. How they emotionally or practically react (consistent with their personality)\\n3. Any concrete action they take before the next session\\n\\nFormat:\\n## [NPC Name]\\n[Reaction paragraph]\\n**Before next session:** [specific action]\\n\\nConstraints:\\n- Each NPC only knows what they could realistically have heard about\\n- Do not resolve campaign plot points — create texture, not resolution\\n- Actions must be plausible within their role and resources\"\n    },\n    {\n      \"role\": \"user\",\n      \"content\": \"SESSION {{ $('Extract Session Events').first().json.sessionNumber }} EVENTS:\\n\\n{{ $('Extract Session Events').first().json.sessionEvents }}\"\n    }\n  ]\n}",
+        "options": {
+          "timeout": 60000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "litellm-api-key",
+          "name": "LiteLLM API Key"
+        }
+      },
+      "notes": "Credential: create 'Header Auth' named 'LiteLLM API Key' with Name=Authorization Value='Bearer YOUR_LITELLM_KEY'"
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000008",
+      "name": "LiteLLM — Faction Shifts",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1340, 420],
+      "parameters": {
+        "method": "POST",
+        "url": "http://10.0.1.105:4000/v1/chat/completions",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": \"pod-fast\",\n  \"max_tokens\": 600,\n  \"temperature\": 0.65,\n  \"metadata\": {\"tags\": [\"living-world\", \"price-of-dawn\", \"faction-shifts\"]},\n  \"messages\": [\n    {\n      \"role\": \"system\",\n      \"content\": \"You are generating faction attitude updates for a D&D 5e campaign called 'The Price of Dawn.'\\n\\nFACTIONS:\\n- The Civic Council (governance; care about stability and political control)\\n- The Arcane Spire (knowledge; care about research legitimacy and information control)\\n- The Restorers (public sympathy; care about the ritual proceeding with consent)\\n- The Grey Market (trade networks; care about profit and information as currency)\\n- The Ashfen Clans (oral knowledge and ritual participation; care about consent and proper process)\\n\\nTASK:\\nFor each faction, write 3-5 sentences describing:\\n1. Their attitude shift (if any) toward the party, toward each other, toward the ritual question\\n2. What concrete action they took in response to session events\\n3. What they are positioning for next\\n\\nFormat:\\n## [Faction Name]\\n**Attitude shift:** [brief]\\n**Response:** [what they did]\\n**Positioning:** [what they're preparing]\\n\\nBe specific. Avoid vague 'watching carefully' language. Each section 3-5 sentences max.\"\n    },\n    {\n      \"role\": \"user\",\n      \"content\": \"SESSION {{ $('Extract Session Events').first().json.sessionNumber }} EVENTS:\\n\\n{{ $('Extract Session Events').first().json.sessionEvents }}\"\n    }\n  ]\n}",
+        "options": {
+          "timeout": 60000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "litellm-api-key",
+          "name": "LiteLLM API Key"
+        }
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000009",
+      "name": "LiteLLM — World Events",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1340, 580],
+      "parameters": {
+        "method": "POST",
+        "url": "http://10.0.1.105:4000/v1/chat/completions",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": \"pod-fast\",\n  \"max_tokens\": 400,\n  \"temperature\": 0.85,\n  \"metadata\": {\"tags\": [\"living-world\", \"price-of-dawn\", \"world-events\"]},\n  \"messages\": [\n    {\n      \"role\": \"system\",\n      \"content\": \"Generate 4-6 minor world events that happen in Varenhold between sessions. These are background texture — not plot-relevant, but they make the world feel alive.\\n\\nWORLD STATE:\\n- It has been dark (perpetual twilight, no sunrise) for 50 years\\n- Grey sickness affects roughly 15% of the population at any time\\n- Amber lanterns are the primary light source everywhere\\n- It is late autumn in the city\\n- The party's activities are being noticed by at least some factions\\n\\nGenerate events in this exact format — one per line:\\n- [Location]: [Event]. [Sensory detail that makes it feel real].\\n\\nLocations to use: Lowmark, Ashring Plaza, Dawnhall, The Healing House, The Archive, The Civic Hall, Grey Market stalls, Varenhold docks, The Ashfen Gate, Ironbell District\\n\\nAvoid: events that resolve or directly reference the main ritual plot. This is texture, not story.\"\n    },\n    {\n      \"role\": \"user\",\n      \"content\": \"Session {{ $('Extract Session Events').first().json.sessionNumber }} context — {{ $('Extract Session Events').first().json.sessionEvents.substring(0, 600) }}\"\n    }\n  ]\n}",
+        "options": {
+          "timeout": 45000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "litellm-api-key",
+          "name": "LiteLLM API Key"
+        }
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000010",
+      "name": "Merge LLM Results",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 2,
+      "position": [1580, 420],
+      "parameters": {
+        "mode": "combine",
+        "combinationMode": "mergeByPosition",
+        "options": {}
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000011",
+      "name": "Assemble Report",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1800, 420],
+      "parameters": {
+        "jsCode": "const sessionNumber = $('Extract Session Events').first().json.sessionNumber;\nconst today = new Date().toISOString().split('T')[0];\n\n// Pull content from each LLM node\nconst npcReactions = $('LiteLLM — NPC Reactions').first().json.choices[0].message.content.trim();\nconst factionShifts = $('LiteLLM — Faction Shifts').first().json.choices[0].message.content.trim();\nconst worldEvents = $('LiteLLM — World Events').first().json.choices[0].message.content.trim();\n\n// Token usage summary\nconst totalTokens =\n  ($('LiteLLM — NPC Reactions').first().json.usage?.total_tokens || 0) +\n  ($('LiteLLM — Faction Shifts').first().json.usage?.total_tokens || 0) +\n  ($('LiteLLM — World Events').first().json.usage?.total_tokens || 0);\n\nconst doc = `# Living World Report — Session ${sessionNumber}\n\n*Generated: ${today} | Tokens used: ${totalTokens}*\n\n> **GM Note:** This is a generated first draft. Review before session ${sessionNumber + 1}. Edit or delete anything that contradicts player choices or campaign direction. NPC knowledge is constrained to what they could realistically have observed.\n\n---\n\n## NPC Reactions\n\n${npcReactions}\n\n---\n\n## Faction Shifts\n\n${factionShifts}\n\n---\n\n## World Events (between sessions)\n\n${worldEvents}\n\n---\n\n*Living World auto-generated for The Price of Dawn. Edit freely.*\n`;\n\nconst filename = `living-world/session${sessionNumber}-living-world.md`;\n\nreturn [{\n  json: {\n    content: doc,\n    filename,\n    sessionNumber,\n    totalTokens\n  }\n}];"
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000012",
+      "name": "Check File Exists",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [2020, 420],
+      "parameters": {
+        "method": "GET",
+        "url": "=https://gitea.research-ready.nl/api/v1/repos/admin/price-of-dawn/contents/{{ $json.filename }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {
+          "timeout": 10000,
+          "response": {
+            "response": {
+              "fullResponse": true,
+              "neverError": true
+            }
+          }
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "gitea-api-token",
+          "name": "Gitea API Token"
+        }
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000013",
+      "name": "Prepare Gitea Commit",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [2240, 420],
+      "parameters": {
+        "jsCode": "const reportData = $('Assemble Report').first().json;\nconst fileCheckResponse = $input.first().json;\n\n// Base64 encode the content\nconst content = Buffer.from(reportData.content).toString('base64');\n\n// If file exists (200), include SHA for update; if not (404), create new\nconst body = {\n  message: `auto: living world report session ${reportData.sessionNumber}`,\n  content: content,\n  branch: 'master'\n};\n\nif (fileCheckResponse.statusCode === 200 && fileCheckResponse.body?.sha) {\n  body.sha = fileCheckResponse.body.sha; // required for updates\n}\n\nreturn [{\n  json: {\n    filename: reportData.filename,\n    body,\n    method: fileCheckResponse.statusCode === 200 ? 'PUT' : 'POST',\n    sessionNumber: reportData.sessionNumber,\n    totalTokens: reportData.totalTokens\n  }\n}];"
+      }
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000014",
+      "name": "Commit to Gitea",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [2460, 420],
+      "parameters": {
+        "method": "={{ $json.method }}",
+        "url": "=https://gitea.research-ready.nl/api/v1/repos/admin/price-of-dawn/contents/{{ $json.filename }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json.body) }}",
+        "options": {
+          "timeout": 15000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "gitea-api-token",
+          "name": "Gitea API Token"
+        }
+      },
+      "notes": "Creates or updates living-world/sessionN-living-world.md in Gitea repo"
+    },
+    {
+      "id": "a1b2c3d4-0001-0001-0001-000000000015",
+      "name": "Log Summary",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [2680, 420],
+      "parameters": {
+        "jsCode": "const commitResult = $input.first().json;\nconst prepData = $('Prepare Gitea Commit').first().json;\n\nconsole.log(`Living World Report committed: session ${prepData.sessionNumber}, ${prepData.totalTokens} tokens used`);\nconsole.log(`File: ${prepData.filename}`);\nconsole.log(`Gitea response: ${commitResult.statusCode || 'unknown'}`);\n\nreturn [{\n  json: {\n    success: true,\n    sessionNumber: prepData.sessionNumber,\n    filename: prepData.filename,\n    totalTokens: prepData.totalTokens,\n    gitea_sha: commitResult.content?.sha || 'unknown',\n    timestamp: new Date().toISOString()\n  }\n}];"
+      }
+    }
+  ],
+  "connections": {
+    "Gitea Webhook": {
+      "main": [[{"node": "Merge Triggers", "type": "main", "index": 0}]]
+    },
+    "Manual Trigger": {
+      "main": [[{"node": "Merge Triggers", "type": "main", "index": 1}]]
+    },
+    "Merge Triggers": {
+      "main": [[{"node": "Extract Commit Info", "type": "main", "index": 0}]]
+    },
+    "Extract Commit Info": {
+      "main": [[{"node": "Get Session Notes", "type": "main", "index": 0}]]
+    },
+    "Get Session Notes": {
+      "main": [[{"node": "Extract Session Events", "type": "main", "index": 0}]]
+    },
+    "Extract Session Events": {
+      "main": [
+        [
+          {"node": "LiteLLM — NPC Reactions", "type": "main", "index": 0},
+          {"node": "LiteLLM — Faction Shifts", "type": "main", "index": 0},
+          {"node": "LiteLLM — World Events", "type": "main", "index": 0}
+        ]
+      ]
+    },
+    "LiteLLM — NPC Reactions": {
+      "main": [[{"node": "Merge LLM Results", "type": "main", "index": 0}]]
+    },
+    "LiteLLM — Faction Shifts": {
+      "main": [[{"node": "Merge LLM Results", "type": "main", "index": 1}]]
+    },
+    "LiteLLM — World Events": {
+      "main": [[{"node": "Merge LLM Results", "type": "main", "index": 2}]]
+    },
+    "Merge LLM Results": {
+      "main": [[{"node": "Assemble Report", "type": "main", "index": 0}]]
+    },
+    "Assemble Report": {
+      "main": [[{"node": "Check File Exists", "type": "main", "index": 0}]]
+    },
+    "Check File Exists": {
+      "main": [[{"node": "Prepare Gitea Commit", "type": "main", "index": 0}]]
+    },
+    "Prepare Gitea Commit": {
+      "main": [[{"node": "Commit to Gitea", "type": "main", "index": 0}]]
+    },
+    "Commit to Gitea": {
+      "main": [[{"node": "Log Summary", "type": "main", "index": 0}]]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "saveExecutionProgress": true,
+    "errorWorkflow": "",
+    "timezone": "Europe/Amsterdam"
+  },
+  "tags": [
+    {"name": "price-of-dawn"},
+    {"name": "living-world"},
+    {"name": "automation"}
+  ],
+  "notes": "Import this workflow into n8n at https://n8n.research-ready.nl.\n\nAfter import:\n1. Create 'Header Auth' credential named 'Gitea API Token': Name=Authorization, Value='token YOUR_GITEA_TOKEN'\n2. Create 'Header Auth' credential named 'LiteLLM API Key': Name=Authorization, Value='Bearer YOUR_LITELLM_KEY'\n3. Activate the workflow\n4. Configure Gitea webhook: Settings > Webhooks > Add > URL: https://n8n.research-ready.nl/webhook/living-world-trigger, Events: Push, Branch: master\n5. The living-world/ folder must exist in the Gitea repo (create with a README.md)\n\nFor manual testing: open workflow, click 'Execute Workflow' (uses Manual Trigger branch).",
+  "staticData": null
+}

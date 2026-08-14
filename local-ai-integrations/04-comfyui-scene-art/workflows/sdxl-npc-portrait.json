@@ -1,0 +1,66 @@
+{
+  "1": {
+    "inputs": {
+      "ckpt_name": "dreamshaperXL_v21TurboDPMSDE.safetensors"
+    },
+    "class_type": "CheckpointLoaderSimple",
+    "_meta": {"title": "Load Checkpoint — DreamShaper XL"}
+  },
+  "2": {
+    "inputs": {
+      "text": "NPC DESCRIPTION HERE,\nportrait, upper body, facing viewer, character study, detailed face,\ndark fantasy illustration, twilight atmosphere, amber candlelight from below and side,\nmuted colors with amber and ochre accents, painterly style, cinematic composition,\nhistorical Northern European setting, atmospheric depth",
+      "clip": ["1", 1]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {"title": "Positive Prompt — REPLACE NPC DESCRIPTION"}
+  },
+  "3": {
+    "inputs": {
+      "text": "bright daylight, sunshine, anime style, cartoon, oversaturated colors, photorealistic photography, watermark, signature, text, blurry, low quality, fantasy armour, robes with glowing runes, magic sparkles, neon, flat lighting, full body shot",
+      "clip": ["1", 1]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {"title": "Negative Prompt"}
+  },
+  "4": {
+    "inputs": {
+      "width": 768,
+      "height": 1024,
+      "batch_size": 1
+    },
+    "class_type": "EmptyLatentImage",
+    "_meta": {"title": "Resolution — 768x1024 Portrait"}
+  },
+  "5": {
+    "inputs": {
+      "seed": 42,
+      "steps": 40,
+      "cfg": 7.0,
+      "sampler_name": "dpmpp_2m",
+      "scheduler": "karras",
+      "denoise": 1.0,
+      "model": ["1", 0],
+      "positive": ["2", 0],
+      "negative": ["3", 0],
+      "latent_image": ["4", 0]
+    },
+    "class_type": "KSampler",
+    "_meta": {"title": "KSampler"}
+  },
+  "6": {
+    "inputs": {
+      "samples": ["5", 0],
+      "vae": ["1", 2]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {"title": "VAE Decode"}
+  },
+  "7": {
+    "inputs": {
+      "filename_prefix": "pod-npc-portrait",
+      "images": ["6", 0]
+    },
+    "class_type": "SaveImage",
+    "_meta": {"title": "Save Image"}
+  }
+}
