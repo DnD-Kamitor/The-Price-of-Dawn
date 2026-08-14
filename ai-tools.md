@@ -2,62 +2,87 @@
 
 This chapter covers four AI-powered tools that enhance The Price of Dawn:
 
-1. **NPC Voice Synthesis** - generate or live-perform NPC voices using ElevenLabs
+1. **NPC Voice Synthesis** - generate or live-perform NPC voices using openedai-speech (self-hosted, no API key required)
 2. **Offline NPC Chat** - let players talk to NPCs between sessions using LLM prompts
 3. **Accounting** - gold tracking, encumbrance, and party expenses
 4. **Living World Tracker** - faction status, consequence flags, and time pressure
 
 ---
 
-## 1. NPC Voice Synthesis (ElevenLabs)
+## 1. NPC Voice Synthesis (openedai-speech)
 
-ElevenLabs lets you create distinct AI voices for NPCs and generate audio files in advance - or use the live text-to-speech feature at the table.
+The campaign uses a self-hosted OpenAI-compatible TTS service at `https://tts.research-ready.nl`. No API key or account required — it runs on the local cluster.
 
-### Setup
+Pre-generated NPC key lines are in `audio/` and embedded in the campaign book. You can generate new lines at any time from the command line.
 
-1. Create an account at [elevenlabs.io](https://elevenlabs.io) (free tier supports limited monthly characters)
-2. For each major NPC, create a **Voice** using Voice Design or by cloning a reference sample
-3. Save each voice under the NPC's name in your Voice Library
+### Voice Assignments Per NPC
 
-### Voice Profiles Per NPC
+Each NPC is mapped to a specific voice for consistency:
 
-Use these prompts when setting up voices in ElevenLabs Voice Design:
+| NPC | Voice | Speed | Character |
+|-----|-------|-------|-----------|
+| **Theron Waide** | `echo` | 1.05 | Older male academic, slightly anxious |
+| **Sera Voss** | `nova` | 0.95 | Direct, measured female |
+| **Lira Anwick** | `shimmer` | 0.95 | Warm but guarded female |
+| **Erem the Wadewalker** | `echo` | 0.90 | Deliberate elder male |
+| **Brother Edoran** | `alloy` | 0.85 | Slow, serene former priest |
+| **Tomas Areth** | `onyx` | 0.90 | Measured, careful male |
+| **Chancellor Ostenveld** | `onyx` | 0.90 | Controlled, formal male |
+| **Ysel Dorn** | `shimmer` | 1.00 | Warm, certain female |
 
-| NPC | Voice Profile Settings |
-|-----|----------------------|
-| **Chancellor Ostenveld** | *Age: 50s. Accent: Northern European, clipped. Tone: Controlled, professional. Speaking style: Low register, quiet intensity. Never raises voice.* |
-| **Theron Waide (Archivist)** | *Age: 60s. Accent: Soft academic, slight lisp on S. Tone: Anxious, rapid. Speaking style: Over-qualifies everything, trails off mid-sentence.* |
-| **Sera Voss** | *Age: early 50s. Accent: Working class city, direct. Tone: Warm but no-nonsense. Speaking style: Short declarative sentences, occasional dry humor.* |
-| **Tomas Areth** | *Age: early 50s. Accent: Formal, educated, no strong regional marker. Tone: Measured, deliberate. Speaking style: Never uses contractions when thinking carefully.* |
-| **Lira Cain** | *Age: early 50s. Accent: Slight regional variant (different vowels). Tone: Guarded, clipped. Speaking style: Very short sentences when suspicious; opens up completely in medical contexts.* |
-| **Brother Edoran** | *Age: 60s. Accent: Southern provinces, softened. Tone: Serene, never raised. Speaking style: Former priest cadences, slight upward lilt at sentence ends.* |
+Note: `fable` voice is not available on this TTS instance — use `alloy` as fallback.
 
-### Pre-Generating Lines
+### Quick-Generate a Line
 
-For key scenes, generate audio files in advance:
+```bash
+# Single line — play immediately via aplay
+curl -s https://tts.research-ready.nl/v1/audio/speech \
+  -H "Content-Type: application/json" \
+  -d '{"model":"tts-1","input":"I have been alone with this for eleven years.","voice":"echo","speed":1.05}' \
+  --output /tmp/npc-line.wav && aplay /tmp/npc-line.wav
 
-1. In ElevenLabs, select the NPC's voice
-2. Paste the sample dialogue from the [NPCs chapter](npcs.md)
-3. Export as MP3 and name the file: `npc-name_scene-description.mp3`
-4. Play through a Bluetooth speaker or share screen audio in virtual play
+# Or use the NPC client (handles mTLS and voice config automatically):
+cd local-ai-integrations/01-talking-npcs
+python3 npc_client.py --npc theron-waide --player "Kira"
+```
 
-**Suggested pre-gen priority:**
+### Pre-Generating Key Lines
 
-- Theron's reveal monologue (Session 2, Scene 1)
-- Ysel's "this is my calling" line (Session 4)
-- Lira's "I have a daughter" (Session 4)
-- The closing read-aloud for Session 5 (narrated by your own voice, but having NPC audio for contrast helps)
+Audio files already generated (in `audio/`):
+
+- `theron-archive-greeting.wav` — opening line at the Archive
+- `theron-reveal-knew.wav` — Tier 2 revelation
+- `theron-apology.wav` — Tier 3 moment
+- `sera-decision.wav` — Sera's quiet certainty
+- `sera-marta.wav` — Tier 2 unlock
+- `lira-mira-sunlight.wav` — Lira on her daughter
+- `edoran-annem.wav` — Brother Edoran on loss
+- `ysel-not-afraid.wav` — Ysel's Tier 2 line
+- `narration-campaign-opener.wav` — campaign open read-aloud
+
+**Suggested pre-gen for remaining scenes:**
+
+- Theron's full reveal monologue (Session 2, Scene 1) — split into 3-4 shorter clips
+- The closing read-aloud for Session 5 epilogue
 
 ### Live Use at the Table
 
-For in-the-moment NPC speech:
+The NPC client handles real-time TTS during conversations:
 
-1. Keep ElevenLabs open in a browser tab
-2. Have each NPC's voice selected and ready
-3. Type the NPC's response in the text box and generate
-4. There will be a 2–4 second delay - use this as the NPC "considering" their response
+```bash
+python3 local-ai-integrations/01-talking-npcs/npc_client.py \
+  --npc theron-waide --player "Kira"
+# Every NPC response auto-plays via aplay/paplay
+```
 
-**Tip:** Have a short default line pre-loaded for each NPC for when players ask unexpected questions. Something that stalls naturally: *"That's not a question I was prepared for."*
+For manual live use (type → play):
+```bash
+echo '{"model":"tts-1","input":"YOUR LINE HERE","voice":"echo","speed":1.05}' | \
+  curl -s https://tts.research-ready.nl/v1/audio/speech \
+    -H "Content-Type: application/json" -d @- -o /tmp/line.wav && aplay /tmp/line.wav
+```
+
+**Tip:** Have a short fallback line pre-loaded for each NPC for unexpected questions. Use the NPC client's live chat mode — it auto-generates speech for every reply.
 
 ---
 
