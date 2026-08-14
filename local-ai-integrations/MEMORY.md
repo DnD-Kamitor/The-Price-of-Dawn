@@ -4,13 +4,13 @@
 
 | Integration | Code | Tested | Notes |
 |---|---|---|---|
-| 01-talking-npcs | DONE | YES | npc_client.py working, openwebui_setup.py needs admin creds |
-| 02-graphiti-npc-memory | DONE | NO | graphiti_client.py done; CT124 not reachable from outside cluster |
-| 03-onyx-gm-assistant | README only | NO | needs Onyx admin credentials |
-| 04-comfyui-scene-art | README only | NO | JSON workflow files needed |
-| 05-n8n-living-world | README only | NO | n8n workflow JSON needed |
-| 06-openedai-tts-replace | README only | NO | working already, just docs |
-| 07-neo4j-relationship-graph | README only | NO | Cypher scripts needed |
+| 01-talking-npcs | DONE | YES | npc_client.py working end-to-end; openwebui_setup.py ready (needs admin creds) |
+| 02-graphiti-npc-memory | DONE | NO | graphiti_client.py done; CT124 unreachable from outside cluster |
+| 03-onyx-gm-assistant | DONE | NO | upload_to_onyx.py ready; needs ONYX_EMAIL + ONYX_PASSWORD |
+| 04-comfyui-scene-art | DONE | NO | generate_scenes.py + ComfyUI workflow JSONs; needs COMFYUI_URL access |
+| 05-n8n-living-world | DONE | NO | living-world-workflow.json importable to n8n; needs Gitea API token + LiteLLM key |
+| 06-openedai-tts-replace | DONE | YES | ai-tools.md updated, audio/ files exist, npc_client.py uses it |
+| 07-neo4j-relationship-graph | DONE | NO | init_graph.cypher + neo4j_client.py; needs NEO4J_PASSWORD |
 
 ## Working Services (confirmed)
 
@@ -57,9 +57,12 @@ LITELLM_API_KEY=sk-xxx python3 npc_client.py --npc theron-waide --player "Kira"
 OPENWEBUI_EMAIL=admin@... OPENWEBUI_PASSWORD=... python3 openwebui_setup.py
 ```
 
-## Next Build Priority
+## All Integrations DONE — Pending Credentials/Access
 
-1. **05-n8n-living-world** — can build full JSON workflow without cluster access
-2. **04-comfyui-scene-art** — ComfyUI workflow JSONs, no cluster access needed
-3. **07-neo4j-relationship-graph** — Cypher init scripts, no cluster access needed
-4. **03-onyx-gm-assistant** — needs Onyx admin credentials to configure
+To activate each integration, need:
+- **03-onyx**: `ONYX_EMAIL` + `ONYX_PASSWORD` in KeePass `PriceOfDawn/Onyx`
+- **04-comfyui**: ComfyUI URL accessible (test with `curl https://comfyui.research-ready.nl/system_stats`)
+- **05-n8n**: import `living-world-workflow.json`, set Gitea token + LiteLLM key credentials
+- **07-neo4j**: `NEO4J_PASSWORD` from KeePass `PriceOfDawn/Neo4j`, then `python3 neo4j_client.py --init`
+- **01 OpenWebUI**: `OPENWEBUI_EMAIL` + `OPENWEBUI_PASSWORD`, then run `openwebui_setup.py`
+- **02 Graphiti**: SSH tunnel or cluster access, then `graphiti_client.py --action health`
