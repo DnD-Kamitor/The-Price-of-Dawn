@@ -291,51 +291,51 @@ Sera does not answer. She has no answer. The two women look at each other across
 
 ---
 
-## Scene 4 — Puzzle: Theron's Second Cryptic
+## Scene 4 — Puzzle: The Paired Cryptics
 
 After the tannery, somewhere safe — a Divination Tower safe house, Sera's backup location, or wherever players establish as secure.
 
 **Five senses (the safe house):**
-- Sight: A back room with a single shuttered window, a table, mismatched chairs. A candle stub is the only light. Someone left it.
-- Sound: The city quieter here. Distant iron bells. The players' own breathing.
-- Smell: Dust and old plaster. Under it, faintly: tanning chemicals from their own clothes. They brought the tannery with them.
-- Touch: The box is warm from being carried. Older than it looks — the wood is dense, the rings move with deliberate mechanical precision, no looseness.
-- The rings: When a ring settles on the correct symbol, it produces a faint, clean click — like a lock finding its tooth. Wrong settings are silent.
+- Sight: Two cryptic documents spread side by side on the table. Part A (library): Theron's precise hand, 24 symbols in 6 rows of 4. Part B (archive box): older parchment, slightly yellowed, same 24 symbols in 4 rows of 6. The ritual drawings from the box lie open beside them — a circle, ten marked positions, lines of notation around the rim. A candle stub is the only light.
+- Sound: Distant iron bells. Papers sliding on wood. Someone breathing through their nose while they think.
+- Smell: Old ink. The ritual drawings carry a faint mineral smell — stone dust, chalk. The same smell as old Ashring.
+- Touch: Part A is crisp, written within the last twenty years. Part B is much older — edges softened, parchment slightly translucent when held to light.
+- The discovery: Holding Part B over Part A against the candle, symbols from Part A show through — shifted in a specific, non-random pattern. This is not wear. This is the mechanism.
 
-They have two cryptics. The first (the library cryptic, found in the sealed room) has been partially decoded. The second is Theron's — he built it himself, in Year 43, and hid it in the Archive deliberately. His is different. Not a cipher. A mechanism.
+**The setup:**
 
-**The Object:** A nested wooden box, palm-sized, with three rotating outer rings. Each ring is engraved with seven symbols — the original ritual notation Corven used. The rings can be set to any combination. A small aperture in the center will open when the correct configuration is set.
+They have both parts of Theron's cryptic. Neither decoded fully alone — they've been treating them as two separate documents. They are one system. Theron encoded the message across both, requiring both simultaneously. Part A alone produces fragments of ritual notation — meaningful but incomplete. Same for Part B. The message exists in neither document individually.
 
-**Visual clue (DC 12 Investigation — free to attempt, no time pressure):** One symbol on the outermost ring has a faint scratch beside it. Not damage — deliberate. Theron's personal notation mark, the same one he uses in his archive cataloguing. Players who handled any of Theron's papers recognize it with DC 10 History.
+**Finding the method:**
 
-**The three-ring puzzle:**
+*DC 15 Arcana:* "These documents use the same base notation but complementary encoding. The symbol frequency in Part A is the mathematical inverse of Part B — they were designed as a paired key. One cannot be read without the other."
 
-*Ring 1 (outermost):* The scratch marks the correct symbol. Its meaning: **the moment before**. In Corven's ritual notation: the symbol for threshold — the instant between states.
+*DC 13 Investigation (no Arcana required):* Count the symbols. Part A: 24. Part B: 24. Same count, different arrangement, same notation system, same author. That is not coincidence.
 
-*Ring 2 (middle):* The inscription on the lid of the box reads: *"What comes before the ritual, after the silence, and beneath the agreement."* The answer, in Corven's notation: the symbol for **consent**. Players who studied the ritual documents (Sessions 1–2) have advantage on DC 14 Arcana to identify it. Without that background: DC 17.
+*Sephandrius:* Advantage on either check. Paired-key encoding is used in prophetic ciphers to prevent partial readings — a diviner recognises the structure immediately.
 
-*Ring 3 (innermost):* Self-referential. The third ring's answer is encoded in the library cryptic itself — Theron embedded a single forward-reference symbol in it, recognisable because it uses a notation style that appears nowhere else in the cipher. It looks like a spiral with a broken outer edge. It appears once, in the cryptic's lower margin, seemingly decorative. Once noticed, it is unmistakably deliberate.
+*No roll needed if players try the physical method:* Holding Part B over Part A against the candle causes certain symbol pairs to align — the double layer darkens them visibly. The aligned symbols, read in sequence, are the message. If players physically hold the documents up to the light, they find this without rolling anything.
 
-*DC 16 Investigation with both cryptics present* (the anomalous spiral stands out against the cipher's consistent style). *DC 14 Arcana for a player specialising in divination or encryption.* Sephandrius: advantage on either.
+**Once the method is found:**
 
-**GM Note — Cryptic decoding state:** Before running this scene, check what state the library cryptic is in. If it was not decoded in Session 2, players can attempt it here: approximately 1 hour in-world, DC 14 group Investigation check. On success, the forward-reference symbol becomes identifiable. On failure, the Arcana route above still applies.
+DC 12 Investigation to work through the cross-reference systematically. This is methodical, not hard — the difficulty was the method, not the execution. On failure: they extract the name and district but not the street number. DC 14 History fills the gap from knowledge of Ashring's old layout, or Sephandrius can ask Osindra.
 
-**If the box seals (all three rings wrong simultaneously):** The aperture locks permanently. Alternative routes to Ellan Voss's address — three-clue rule:
-1. **Osindra:** She has observed the Dusk Faction watching a specific street in Ashring for three years. DC 14 Arcana or a direct, well-framed question from the players will prompt her to share it.
-2. **Theron directly:** Players can send him a message. He knows the address. A DC 13 Charisma (Persuasion) appeal gets it within the hour, assuming they can reach him.
-3. **Sera + legwork:** Sera heard rumours of an old woman in Ashring the Dusk Faction was protecting. She doesn't have the address, but she knows the street. DC 14 Investigation on foot in Ashring narrows it to three doors.
+**The ritual drawings connect here:** The decoded name corresponds to the ninth marked position in the circle diagram. That position has a mark beside it that none of the others have — a single line through it, added in a different ink, at a different time. Someone crossed out that participant after the ritual ended. Theron, Year 43. The line was added in grief or in guilt — it is impossible to tell which from the pressure of the pen.
 
-**If players attempt to force it:** Only one wrong attempt allowed when all three rings are set incorrectly at the same time. Individual rings can be adjusted freely without penalty.
+**What the paired reading produces:**
 
-**What's inside:** A folded letter, Theron's handwriting, addressed to no one.
+The aligned symbols translate from Corven's notation into old Varenhold script:
 
-> *The ritual failed because the agreement was not whole.*
-> *One withdrew. All broke.*
-> *The one who withdrew is still alive. She lives in Ashring. Her name is Ellan Voss.*
-> *She has been preventing it from being tried again for fifty years.*
-> *She does not know I know.*
+> *Ellan Voss. Ashring. [Street name]. [Door number].*
+> *Ninth position. Withdrew Year 42.*
+> *She is still alive.*
 
-Below that, a district and a street. A door number.
+No letter. No sentiment. Compressed data — hidden across two documents for fifty years. Theron didn't write feelings here. He wrote a location and a fact and trusted that whoever stood in this room needing it would know what to do.
+
+**Three-clue fallback (if they cannot decode it):**
+1. **Osindra:** Has observed the Dusk Faction watching a specific Ashring street for three years. DC 14 Arcana or direct, well-framed roleplay prompts her to share it.
+2. **Theron directly:** He knows the address. DC 13 Persuasion via Sending or in person.
+3. **Sera + legwork:** Heard rumours of an old woman the Dusk Faction protects. Knows the street, not the door. DC 14 Investigation on foot narrows it to three houses.
 
 ---
 
