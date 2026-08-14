@@ -38,12 +38,12 @@
 ║       ↑ reinforcement enters here (2 failures only)              ║
 ║                                                                  ║
 ║  [REAR LOADING HATCH — ground level, back wall]                  ║
-║  ↑ Lira enters here, end of round 2                              ║
+║  ↑ Maerin Voss enters here, post-combat                          ║
 ║                                                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  STARTING POSITIONS                                              ║
-║  — 3 cultists: lane (outside, move on ambush signal)            ║
-║  — 2 cultists: already inside, positions [N] and [S] of vats    ║
+║  — 3 The Returned (ghasts): outside lane, enter on signal       ║
+║  — 2 The Returned: already inside, [N] and [S] of vats          ║
 ║  — Dusk Priest: inside, near vats, concealed in dim light        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -116,10 +116,10 @@
 ║  PERSONAL JOURNAL — UNDATED PAGE                                 ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  ◈⬟⬟⊗⬡  ▪▽◎◎                                                   ║
+║  ◈⬟⬟⊗⬡  ▪▲◎◎                                                   ║
 ║  ⬡⬠⬡✦◇  ⊕⬠✦◇△●◈⊕                                               ║
 ║  ⊗◎◇●⬠⬡◆  ✦◇⬠●△  ⬟⊗⬡◈                                          ║
-║  ⬡▽  ☆⬡▽⊙☆◈●                                                    ║
+║  ⬡▲  ☆⬡▲⊙☆◈●                                                    ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -130,7 +130,7 @@
 - *Line 1: ELLAN VOSS*
 - *Line 2: NINTH WITHDREW*
 - *Line 3: ASHRING THIRD LANE*
-- *Line 4: NO _NOC_ER  (K gaps — Fragment 3 needed for ☆=K)*
+- *Line 4: NO ·NOC·ER  (K gaps — Fragment 3 needed for ☆=K)*
 
 *With all three fragments:*
 
@@ -213,8 +213,8 @@
 ║   ◆ = G     ◇ = H     ○ = B     ● = R     ◎ = S               ║
 ║                                                                  ║
 ║  SECTION II (Fragment 2 — Resonance Box):                        ║
-║   ⊕ = W     ⊗ = A     ⊙ = C     △ = D     ▽ = O               ║
-║   ▲ = F     ▼ = U     □ = M     ■ = P     ▪ = V     ▸ = Y     ║
+║   ⊕ = W     ⊗ = A     ⊙ = C     △ = D     ▽ = F               ║
+║   ▲ = O     ▼ = U     □ = M     ■ = P     ▪ = V     ▸ = Y     ║
 ║                                                                  ║
 ║  SECTION III (Fragment 3 — Dusk Priest):                         ║
 ║   ⬢ = J     ☆ = K     ◉ = Q     ⬤ = X     ✧ = Z               ║
@@ -225,7 +225,129 @@
 </details>
 
 <details>
-<summary>Osindra's Intelligence Summary — player handout (Scene 1)</summary>
+<summary>Concordance Field Report — IRONBELL-7 (found in tannery back room)</summary>
+
+*Found in a sealed document sleeve in the tannery's back room — same desk as Fragment 3, or in the Dusk Priest's satchel. This is a prop the players find and read — not a player handout in the usual sense, but print it and place it on the table when they search. Players must cross-reference with documents they already have to extract the full picture.*
+
+---
+
+*[A folded field report, written in a precise, clipped hand. Official faction letterhead: a sealed door, inverted. The ink is fresh.]*
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  CONCORDANCE OF THE WITHDRAWN — FIELD REPORT                     ║
+║  Designation: IRONBELL-7          Filed by: WATCHER-1            ║
+║  Status: ACTIVE — DO NOT ARCHIVE                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  OBJECTIVE SUMMARY                                               ║
+║                                                                  ║
+║  Primary: Locate ASSET IX before SUNRISE-4 makes contact.        ║
+║  Secondary: Recover CORVEN-LOCK. Fragment III now in hand.        ║
+║  Ritual diagram decoded. Full Inversion Path confirmed.          ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ASSET IX — STATUS: HOSTILE-UNCONTACTED                          ║
+║                                                                  ║
+║  Last confirmed sighting: Ashring Third Lane, north end.         ║
+║  Previous approach (Weeks 12–14) failed. Asset refused contact.  ║
+║  Asset is aware of the circuit requirement. Asset is using this. ║
+║  Note: IX is the only position that can close the circuit        ║
+║  willingly. Coercion closes it the other way.                    ║
+║  We do not have a counter.                                       ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  SUNRISE-4 — STATUS: MOBILE, UNAWARE                             ║
+║                                                                  ║
+║  Not yet confirmed to know IX's location.                        ║
+║  Unknown party accessed Archive-Box (Week 19).                   ║
+║  Assess as SUNRISE-4 associates or rival collection.             ║
+║  Either case: accelerate timeline.                               ║
+║  Do not allow SUNRISE-4 to reach IX.                             ║
+║  If IX consents for them instead of us — objective fails.        ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  RECOMMENDATION: Priority shift to SUNRISE-4 interdiction.       ║
+║  Current orders: hold SUNRISE-4 at IRONBELL. IX secondary.       ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+::: {.prop-alt-ink}
+*Cross-reference guide (GM only):*
+
+- *ASSET IX → Ritual circle diagram, Position IX → Ellan Voss. "Only IX can close the circuit willingly" = only Ellan's willing participation opens the Inversion path. Coercion → Destructive path.*
+- *SUNRISE-4 → Sera Voss. The Concordance knows she's been searching for Ellan but hasn't confirmed contact yet.*
+- *CORVEN-LOCK → Fragment 3 (the notation key). The Concordance needed it to decode the ritual diagram. They did — before the players.*
+- *"Unknown party accessed Archive-Box Week 19" → the players, in Session 2. The Concordance knows someone else is working this problem.*
+- *WATCHER-1 → The Watcher (Revenant). It filed this report. It is currently somewhere in Varenhold.*
+
+*Key player insight: the Concordance wants Ellan to consent for them. She won't. That's why they're holding Sera at Ironbell — if Sera reaches Ellan and Ellan chooses to help the players instead, the Concordance loses everything. The players are now that SUNRISE-4 association. The faction's entire strategy just became "stop the party."*
+:::
+
+</details>
+
+<details>
+<summary>Corven's Resonance Formula — INVERT puzzle (found in Ashring door compartment)</summary>
+
+*Found in a small sealed compartment in the stone panel beside the Ashring door — Scene 5. After players discover the panel (no knocker → search the door frame), they find two items: Theron's final letter and this formula sheet. The formula gives the six-letter activation word for the ritual gate's Inversion Path mechanism.*
+
+*Print and hand to players when they open the door compartment.*
+
+---
+
+*[A quarter-sheet of heavy paper, folded twice. Corven's hand — the same as the Notation Fragments. No date.]*
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  RESONANCE FORMULA — ASHRING FOCAL POINT                         ║
+║  The positions define the field. Solve for the activation word.  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  Let:  I = 1    II = 2    III = 3    IV = 4    V = 5            ║
+║        VI = 6   VII = 7   VIII = 8   IX = 9    X = 10           ║
+║                                                                  ║
+║  Convert each answer to its letter: A = 1,  B = 2 ... Z = 26    ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  (1)   V  +  IV              = ___       letter: ___             ║
+║  (2)   VIII  +  VI           = ___       letter: ___             ║
+║  (3)   X  +  IX  +  III      = ___       letter: ___             ║
+║  (4)   III  +  II            = ___       letter: ___             ║
+║  (5)   III  ×  VI            = ___       letter: ___             ║
+║  (6)   IV  ×  V              = ___       letter: ___             ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  "Speak the six letters in sequence at the focal point.          ║
+║   The circuit opens from inside."                                ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+::: {.prop-alt-ink}
+*Solutions:*
+
+- *(1)  5 + 4 = 9 → **I***
+- *(2)  8 + 6 = 14 → **N***
+- *(3)  10 + 9 + 3 = 22 → **V***
+- *(4)  3 + 2 = 5 → **E***
+- *(5)  3 × 6 = 18 → **R***
+- *(6)  4 × 5 = 20 → **T***
+
+*Activation word: **INVERT***
+
+*Speaking INVERT at the focal point triggers the Abjuration ward's Inversion path mechanism — the alternative ritual outcome Corven documented fifty years ago. However: the ward reads depth, not formula. If players speak INVERT without Ellan's willing consent present in the chamber, nothing happens. Corven designed this deliberately. The word is necessary but not sufficient.*
+:::
+
+</details>
+
+<details>
+<summary>Osindra's Intelligence Summary — GM memory aid (Scene 1)</summary>
 
 *Osindra speaks these points. She does not write them down. If players ask for something written: she tears a corner from a scrying log sheet and writes three words only: "Ironbell. Copper pipes. Footprints." She offers nothing more in writing.*
 
@@ -273,19 +395,38 @@ The door opens.
 </details>
 
 <details>
-<summary>Any player — On the Sera/Lira confrontation (post-combat, Scene 3)</summary>
+<summary>Any player — On the Sera/Maerin Voss confrontation (post-combat, Scene 3)</summary>
 
-*Play immediately after the Lira/Sera beat lands — after Lira says "I have a daughter. You don't." Do not play before.*
+*Play immediately after the beat lands — after Maerin says "Nine others. You are one. Why does it have to be you who decides first?" and Sera answers "Because someone has to." Do not play before.*
 
 ---
 
 Neither of them is asking you to choose.
 
-That's the thing about this moment. Sera isn't saying you should agree with her. Lira isn't asking for your endorsement. They have each arrived at a position through fifty years of living, and they are not confused about it, and they do not need you to resolve it.
+That's the thing about this moment. Sera isn't saying you should agree with her. Maerin isn't asking for your endorsement. They have each arrived at a position — one through fifty years of service in the temple, one through a life spent watching what that service costs other people — and they are not confused about it, and they do not need you to resolve it.
 
 You can speak. They will hear you. But the gap between them is not one that argument closes.
 
 *What does your character do with their hands while this is happening?*
+
+</details>
+
+<details>
+<summary>Iza — On Ellan recognizing her (Scene 5)</summary>
+
+*Play when Ellan says Iza's name — the moment of recognition. Only after Ellan has seen Iza's face and confirmed she knows. Coordinate with Iza's player in advance if possible — or let it land cold if the player wants that.*
+
+---
+
+You have been told, in one way or another, your whole life, that you were an experiment.
+
+You do not know who made you. You know only that something went wrong — or went right for the wrong reasons — and that whatever you are, you came out of someone's decision that you could not consent to, made before you could speak.
+
+The woman in front of you is in her late sixties. She is looking at you the way people look at something they were certain they would never see again.
+
+She says your name. Once. Not loudly.
+
+*What does your body do before your mind catches up?*
 
 </details>
 
@@ -298,7 +439,7 @@ You can speak. They will hear you. But the gap between them is not one that argu
 
 You have been taught about sacrifice. Most of what you were taught was written by people who survived.
 
-Ellan Voss is ninety-something years old and she is the only person you have met who actually said no when it mattered, at the cost that mattered, and has had to live with it every day since.
+Ellan Voss is in her late sixties and she is the only person you have met who actually said no when it mattered, at the cost that mattered, and has had to live with it every day since.
 
 She is not broken by it. She is not proud of it either. She has something rarer than both: she has looked at what she did, and she has kept looking, and she has not looked away.
 
