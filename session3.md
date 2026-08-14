@@ -728,7 +728,7 @@ Examples:
 
 **After each player speaks their real reason:** The panel slides aside. One compartment. One wax-sealed letter, addressed: *"To whoever finds this after I'm gone — I expect I will be."*
 
-And, deeper in the compartment, tucked beneath the letter: a single folded sheet in Corven's hand. This is the Resonance Formula — the math puzzle prop. Players can take it. It will matter in a later session.
+And, beneath the letter, tucked against the back of the compartment: a small card in Corven's hand. One sentence. No date.
 
 </details>
 
@@ -796,7 +796,7 @@ Iza's Dawnborn-adjacent properties — whatever they are — may result from thi
 </details>
 
 <details>
-<summary>📄 Theron's Letter + The Resonance Formula</summary>
+<summary>📄 Theron's Letter + Corven's Invocation Note</summary>
 
 **The sealed letter** (from the door panel compartment):
 
@@ -811,13 +811,21 @@ Iza's Dawnborn-adjacent properties — whatever they are — may result from thi
 
 ---
 
-**The Resonance Formula (second item in the compartment):**
+**Corven's Invocation Note (second item in the compartment):**
 
-A single folded sheet in Corven's hand. This is the math puzzle prop — the key to operating the ritual gate. Players can take it now; they will need it in a later session.
+*[See print-props for the handout. Hand it to players immediately.]*
 
-*[See print props for the handout version. This is not a puzzle for Session 3 — it is something players carry forward.]*
+A small card — same hand as the Notation Fragments. One sentence:
 
-**GM note:** The formula uses ritual position numbers (I through X) as variables in a series of equations. Solving the equations gives numbers 1-26 corresponding to letters. The six letters spell INVERT — the activation word for the ritual gate's Inversion Path mechanism. Corven designed the gate to require the correct word, spoken by someone who has done the mathematical work to find it. Performers of formulas, not performers of authority.
+> *"The incantation is written in the diagram. You decoded it. Speak it at the focal point — all of it, in order, with willing intent. The circuit requires both the words and the will. Neither alone is sufficient."*
+
+**GM note:** The spell phrase is the decoded cipher text from the ritual diagram — the text players have already decoded using the Fragments and the online tool. The incantation they speak at the ritual gate (Session 4–5) is:
+
+> **"INVERSION PATH — WILLING RELEASE — ALL TEN — EXACT MOMENT — SUN RETURNS"**
+
+Corven encoded his own incantation into the ritual diagram fifty years ago. The Fragments, the cipher, the decoder — it was all a key to a spell, not just a secret. Players who decoded the diagram didn't just learn about the Inversion Path. They learned *how to open it*.
+
+The gate will not respond to the words alone. The ward reads willing intent. If the person speaking does not genuinely mean it — or if Ellan Voss's consent is absent from the circle — the circuit stays closed. Both are required.
 
 **Cliffhanger:** As they leave, Ellan says — not dramatically, just factually: *"The Concordance will know you came here. They watch this street. They have for three years."*
 
@@ -842,7 +850,7 @@ She closes the door.
 - The Concordance decoded the ritual diagram before the players did. They know about the Inversion Path.
 - The Concordance has a source inside the Archive — someone the players haven't identified.
 - SUNRISE-4 = Sera. The Concordance has tracked her with that code for months. They knew her before the beacon.
-- There is a Resonance Formula — six equations that reveal how to open the ritual gate.
+- The cipher they decoded was always an incantation. The decoded text is the spell that opens the ritual gate.
 
 **What they don't know yet:**
 - Who leads the Concordance. (The brass ring with black glass — if they saw it on the Priest — is a thread.)
@@ -850,7 +858,7 @@ She closes the door.
 - What Ellan actually saw in the moment she withdrew — and why Theron thought it mattered.
 - The identity of the Concordance's Archive contact.
 - The full truth of Iza's origins (if not revealed this session).
-- What INVERT means, or how the ritual gate works.
+- That speaking the incantation without Ellan's genuine willing consent does nothing. Both are required.
 
 **What they carry forward:**
 - Maerin Voss's face when Sera said *"Because someone has to."*
@@ -877,7 +885,7 @@ Wait for an answer. Don't accept a quick one.
 | Dusk Priest | Escaped (if withdrawal triggered). Brass ring with black glass = senior leadership token. |
 | Fragment 3 | Retrieved. Key complete. Decoder now works on all encoded text. |
 | Concordance Field Report | Retrieved. Players now know SUNRISE-4 = Sera, ASSET IX = Ellan, and the Concordance has an Archive contact. |
-| Resonance Formula | Retrieved. Six equations. Answer: INVERT. Players will need this later. |
+| Corven's Invocation Note | Retrieved. Spell phrase = decoded cipher text: "INVERSION PATH — WILLING RELEASE — ALL TEN — EXACT MOMENT — SUN RETURNS." Requires Ellan's willing consent to activate. |
 | Theron's letter | Read. Eleven years of inaction. Confession. |
 | Iza's revelation | Seeded / Delivered (GM choice). Coordinate with Iza's player before Session 4. |
 | Skill challenge failures | Track (0 / 1 / 2 / full) — full failure changes Session 4 significantly. |

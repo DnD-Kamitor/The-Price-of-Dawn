@@ -291,57 +291,39 @@
 </details>
 
 <details>
-<summary>Corven's Resonance Formula — INVERT puzzle (found in Ashring door compartment)</summary>
+<summary>Corven's Invocation Note — spell phrase (found in Ashring door compartment)</summary>
 
-*Found in a small sealed compartment in the stone panel beside the Ashring door — Scene 5. After players discover the panel (no knocker → search the door frame), they find two items: Theron's final letter and this formula sheet. The formula gives the six-letter activation word for the ritual gate's Inversion Path mechanism.*
-
-*Print and hand to players when they open the door compartment.*
+*Found tucked behind Theron's sealed letter in the stone panel compartment — Scene 5. A small card in Corven's hand. Print and hand to players immediately when they open the compartment.*
 
 ---
 
-*[A quarter-sheet of heavy paper, folded twice. Corven's hand — the same as the Notation Fragments. No date.]*
+*[A small card — same precise hand as the Notation Fragments. Unsigned. No date.]*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  RESONANCE FORMULA — ASHRING FOCAL POINT                         ║
-║  The positions define the field. Solve for the activation word.  ║
-╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  Let:  I = 1    II = 2    III = 3    IV = 4    V = 5            ║
-║        VI = 6   VII = 7   VIII = 8   IX = 9    X = 10           ║
+║  The incantation is written in the diagram.                      ║
+║  You decoded it.                                                 ║
 ║                                                                  ║
-║  Convert each answer to its letter: A = 1,  B = 2 ... Z = 26    ║
+║  Speak it at the focal point — all of it, in order,             ║
+║  with willing intent.                                            ║
 ║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  (1)   V  +  IV              = ___       letter: ___             ║
-║  (2)   VIII  +  VI           = ___       letter: ___             ║
-║  (3)   X  +  IX  +  III      = ___       letter: ___             ║
-║  (4)   III  +  II            = ___       letter: ___             ║
-║  (5)   III  ×  VI            = ___       letter: ___             ║
-║  (6)   IV  ×  V              = ___       letter: ___             ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  "Speak the six letters in sequence at the focal point.          ║
-║   The circuit opens from inside."                                ║
+║  The circuit requires both the words and the will.               ║
+║  Neither alone is sufficient.                                    ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ::: {.prop-alt-ink}
-*Solutions:*
+*The spell phrase — decoded from the ritual diagram cipher:*
 
-- *(1)  5 + 4 = 9 → **I***
-- *(2)  8 + 6 = 14 → **N***
-- *(3)  10 + 9 + 3 = 22 → **V***
-- *(4)  3 + 2 = 5 → **E***
-- *(5)  3 × 6 = 18 → **R***
-- *(6)  4 × 5 = 20 → **T***
+> **"INVERSION PATH — WILLING RELEASE — ALL TEN — EXACT MOMENT — SUN RETURNS"**
 
-*Activation word: **INVERT***
+*Players decoded this already using the Fragments and the cipher tool. They did not know it was a spell. Corven encoded his own incantation into the ritual diagram fifty years ago.*
 
-*Speaking INVERT at the focal point triggers the Abjuration ward's Inversion path mechanism — the alternative ritual outcome Corven documented fifty years ago. However: the ward reads depth, not formula. If players speak INVERT without Ellan's willing consent present in the chamber, nothing happens. Corven designed this deliberately. The word is necessary but not sufficient.*
+*The gate opens when someone speaks these words at the focal point with genuine willing intent — AND when Ellan Voss is present in the circle, willing. Without Ellan's real consent, the circuit stays closed. Without the words, same result. Both are required.*
+
+*"ONE UNWILLING → DESTRUCTIVE" is the warning, not the incantation. Players should not speak it.*
 :::
 
 </details>
