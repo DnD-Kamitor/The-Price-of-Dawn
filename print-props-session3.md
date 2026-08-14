@@ -109,27 +109,17 @@
 
 ---
 
-*[A single journal page. Dense handwriting, no date. Corven's notation system throughout — the same symbols as the Fragments. Three annotations in a different hand (Theron's own, added later, in plain language) appear in the margins.]*
+*[A single journal page. No date. Written entirely in Corven's private notation — the same symbol system as the Fragments.]*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  THERON WAIDE — PERSONAL JOURNAL (page, undated)                ║
+║  PERSONAL JOURNAL — UNDATED PAGE                                 ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  ◈⬟⬟⊗⬡  ▪▽◎◎                                                   ║
 ║  ⬡⬠⬡✦◇  ⊕⬠✦◇△●◈⊕                                               ║
 ║  ⊗◎◇●⬠⬡◆  ✦◇⬠●△  ⬟⊗⬡◈                                          ║
 ║  ⬡▽  ☆⬡▽⊙☆◈●                                                    ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  MARGIN NOTES (plain language, Theron's hand):                  ║
-║                                                                  ║
-║  [beside line 1:]  "Seven years. I have known seven years."     ║
-║                                                                  ║
-║  [beside line 2:]  "She chose to live. I cannot fault her."     ║
-║                                                                  ║
-║  [beside line 4:]  "Do not knock. The door has no knocker.      ║
-║                    The panel is to the left of the frame."      ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -146,9 +136,7 @@
 
 - *Line 4: NO KNOCKER*
 
-*The margin notes are in plain language — available immediately. "The panel is to the left of the frame" is Theron's addition. He knew about the riddle mechanism.*
-
-*The cipher text (four lines) is what the puzzle in Scene 4 decodes. The ritual circle diagram identifies who Ellan Voss is — position IX, crossed out.*
+*The cipher text is the whole puzzle. No margin notes — this page was encoded because it was meant to be unreadable. Players arrive at Scene 5 knowing there is no knocker; the stone panel beside the door is visible on arrival.*
 :::
 
 </details>

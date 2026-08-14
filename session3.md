@@ -1,4 +1,4 @@
-# Session 3 — The Watched City (Level 6)
+# Session 3 — The Watched City (Level 5)
 
 *Dilemma: What does it mean to choose something when choosing is itself a kind of violence?*
 
@@ -111,11 +111,11 @@ She has two days of information to give. She doesn't get the chance.
 
 **GM Note — If Sera is captured:** The Dusk Faction holds her as leverage. Session 4 opens differently: players must locate where she is held before pursuing Ellan Voss. The faction will attempt to use Sera — a willing Dawnborn — to pressure the others. This is a harder, darker path. Note it in your Session 4 prep.
 
-**Encounter XP:** 3,800 adjusted XP — Hard encounter for 4 level-6 characters. With 2 skill challenge failures (reinforcement arrives round 2): ~4,200 adjusted — Deadly. Warn players with secondary objective stakes, not numbers.
+**Encounter XP:** 3,800 adjusted XP — Hard encounter for 4 level-5 characters. With 2 skill challenge failures (reinforcement arrives round 2): ~4,200 adjusted — Deadly. Warn players with secondary objective stakes, not numbers.
 
 ---
 
-**Tannery Environment:** Level-6 players will interact with the space. Key features:
+**Tannery Environment:** Level-5 players will interact with the space. Key features:
 
 - **Tanning vats** (3 ft deep, acid/chemical solution): Creatures pushed in take 2d6 acid damage per turn; climbing out costs full movement. Shove action can push adjacent creatures in.
 - **Hanging hides on wooden racks**: Soft cover (−2 to ranged attack rolls through them). Moving through costs extra movement (difficult terrain). Can be pulled down with DC 11 Athletics to create a 10-ft area of difficult terrain.
@@ -308,7 +308,7 @@ After the tannery, somewhere safe — a Divination Tower safe house, Sera's back
 - Sound: Distant iron bells. The quiet scratch of someone tracing symbols down the key, cross-referencing. A small sound when the last line completes.
 - Smell: Old parchment and candlewax. Faint chemical smell still on their clothes from the tannery.
 - Touch: Fragment 3 is the most recently handled — the leather sleeve cared for by someone who read it regularly.
-- The moment: Running Fragment 3's symbols down the encoded journal, the gap in Line 4 fills. *NO _NOC_ER* becomes *NO KNOCKER.* And the margin note — Theron's plain hand, always there — reads: *"The panel is to the left of the frame."*
+- The moment: Running Fragment 3's symbols down the encoded journal, the gap in Line 4 fills. *NO _NOC_ER* becomes *NO KNOCKER.*
 
 **The setup:**
 
@@ -316,29 +316,26 @@ They've had Theron's encoded journal since Session 2. A single undated page — 
 
 Fragment 3 gives them: ☆ = K.
 
-They've had the address and the door mechanism in their hands since Session 2. They lacked one symbol.
+They've had the address since Session 2. They lacked one symbol to complete it.
 
 **Applying the complete key:**
 
 No roll required to decode line by line with all three Fragments assembled. The difficulty was always getting all three sections, not the execution.
 
-*DC 12 Investigation:* Work through the cipher quickly; a player who makes this check spots the margin notes before the decoded text fully registers — they see *"The panel is to the left of the frame"* and understand what it means before they've finished Line 4.
+*DC 12 Investigation:* Work through the cipher quickly; the full decoded text lands at once.
 
-*Sephandrius:* Advantage on the check. He recognises the notation structure immediately — Corven's system is not published anywhere. Knowing it implies direct contact with Corven or access to the original Ashring materials. *"Theron was inside the ritual chamber. He didn't learn this secondhand."*
+*Sephandrius:* Advantage on the check. Recognises the notation structure immediately — Corven's system is not published anywhere. *"Whoever wrote this was inside the ritual chamber. They didn't learn this secondhand."*
 
 **The decoded journal:**
 
-Four lines of cipher, three margin notes in Theron's plain hand:
+Four lines, no decoration:
 
 - *Line 1:* ELLAN VOSS
-  - *Margin: "Seven years. I have known seven years."*
 - *Line 2:* NINTH WITHDREW
-  - *Margin: "She chose to live. I cannot fault her."*
 - *Line 3:* ASHRING THIRD LANE
 - *Line 4:* NO KNOCKER
-  - *Margin: "Do not knock. The door has no knocker. The panel is to the left of the frame."*
 
-No sentiment in the cipher. The feelings are in the margins, in plain language. Theron didn't expect this to be subtle. He expected it to be read by someone who cared enough to need it.
+Compressed data, no sentiment. Someone encoded a location and a fact and expected whoever needed it to know what to do.
 
 **Fragment 3's plain note (Corven's hand, on the same sheet as the key symbols):**
 
@@ -347,8 +344,6 @@ No sentiment in the cipher. The feelings are in the margins, in plain language. 
 This is Corven's voice, not Theron's. The Dusk Faction has read this. They already understand what the ritual requires and what it cannot survive.
 
 **The ritual diagram connects here:** The decoded name ELLAN VOSS corresponds to position IX in the circle diagram — the one crossed out in different ink, different time. The annotation, now legible with the complete key, reads: *"withdrew. circle incomplete."*
-
-Theron added that line in Year 43. Grief or guilt — impossible to tell from the pressure of the pen.
 
 **Three-clue fallback (if they cannot decode it):**
 1. **Osindra:** Has observed the Dusk Faction watching a specific Ashring street for three years. DC 14 Arcana or direct, well-framed roleplay prompts her to share it.
