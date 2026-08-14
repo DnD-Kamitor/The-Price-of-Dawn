@@ -90,20 +90,141 @@ Sera Voss is inside, crossbow across her knees, sitting against the far wall. No
 
 She has two days of information to give. She doesn't get the chance.
 
-**The ambush hits when players enter or signal entry.** The three figures in the lane move. More inside — they were already here.
+**The ambush hits when players enter or signal entry.** Three figures in the lane move simultaneously — coordinated, not panicked. The door behind the players closes. Two more agents were already inside.
 
-**Enemies:**
-- Necromancer Agents: 4, use Cultist stats (MM p.345). Not undead — people. They have traded sunlight for something. They fight without hesitation and do not beg when downed.
-- Darkness Fanatic: 1, use Cult Fanatic stats (MM p.345). The leader. Hangs back. Has one use of *Hold Person* (DC 14 Wisdom save) — targeting Sera, not the players.
+**Secondary Objective (state before first initiative roll):** The Priest's goal is to extract Sera alive, not kill her. Players must fight and protect Sera simultaneously. If Sera drops to 0 HP (captured via Hold Person + drag), the Priest signals immediate withdrawal — and Session 4 changes significantly.
 
-**Secondary Objective (state before first initiative roll):** The Fanatic's goal is to extract Sera alive. Not kill her. Players must both fight and prevent Sera from being grabbed or held. Sera fights — she's competent — but the Fanatic is specifically targeting her and knows it.
+**Encounter XP:** 3,800 adjusted XP — Hard encounter for 4 level-6 characters. With 2 skill challenge failures (reinforcement arrives round 2): 4,600 adjusted — Deadly. Warn players with secondary objective stakes, not with numbers.
 
-**Tactical environment:**
-- Vats along the west wall contain caustic tanning fluid. Flammable. Structural. A shoved vat deals 2d6 acid damage and creates difficult terrain (10-foot radius).
-- The only exit is the lane door and a hatch in the ceiling leading to the roof.
-- The Fanatic does not enter melee until Sera is Held. If Sera goes down (captured, not dead), they withdraw — and Session 4 changes significantly.
+---
 
-**Mid-combat beat:** Sera, if she has a turn where she's not under direct attack, shouts something that lands quietly despite the noise: *"They've had my name for months. This isn't about the cryptics. They've been hunting us one by one."*
+### Dusk Cultist (×4)
+
+*People who traded sunlight for something. They do not beg when downed.*
+
+| | |
+|---|---|
+| **AC** | 13 (leather armour) |
+| **HP** | 32 (5d8 + 10) |
+| **Speed** | 30 ft |
+| **Initiative** | +2 |
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 12 (+1) | 14 (+2) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Saves:** None notable.
+
+**Skills:** Stealth +4, Perception +2.
+
+**Senses:** Darkvision 30 ft (pact-granted). Passive Perception 12.
+
+**Damage Immunity:** None. They bleed like anyone else.
+
+---
+
+**Actions**
+
+***Darkened Blade.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft, one target. *Hit:* 1d6+2 piercing + 1d4 necrotic. The necrotic damage cannot be healed until the start of the target's next turn.
+
+***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft, one target. *Hit:* 1d6+2 piercing.
+
+**Bonus Actions**
+
+***Shadow Step.*** When in dim light or darkness, the Dusk Cultist can teleport up to 15 feet to another space it can see that is also in dim light or darkness. Does not provoke opportunity attacks. Usable once per turn.
+
+---
+
+**Tactics:** The tannery is lit by one amber lamp — almost everything beyond 10 feet is dim light. Cultists use Shadow Step aggressively to flank, disengage, and reposition. They prioritise players who are actively engaging the Priest, not Sera — their job is to lock down the party while the Priest works. They do not retreat individually; when the Priest signals withdrawal, all disengage simultaneously.
+
+---
+
+### Dusk Priest (×1)
+
+*The leader. Controlled. Efficient. Has done this before.*
+
+| | |
+|---|---|
+| **AC** | 13 (studded leather) |
+| **HP** | 58 (9d8 + 18) |
+| **Speed** | 30 ft |
+| **Initiative** | +2 |
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 10 (+0) | 14 (+2) | 15 (+2) | 13 (+1) | 17 (+3) | 14 (+2) |
+
+**Saves:** Wisdom +5, Charisma +4.
+
+**Skills:** Deception +4, Insight +5, Perception +5, Stealth +4.
+
+**Senses:** Darkvision 60 ft. Passive Perception 15.
+
+**Spellcasting.** The Priest is a 7th-level spellcaster. Spellcasting ability is Wisdom (spell save DC 13, +5 to hit).
+
+| Slots | Spells |
+|---|---|
+| At will | *Toll the Dead* (2d8 or 2d12 if target is missing HP), *Thaumaturgy* |
+| 1st (4 slots) | *Inflict Wounds*, *Detect Magic* |
+| 2nd (3 slots) | *Hold Person*, *Darkness*, *Silence* |
+| 3rd (3 slots) | *Animate Dead*, *Bestow Curse* |
+| 4th (1 slot) | *Shadow of Moil* |
+
+---
+
+**Actions**
+
+***Toll the Dead.*** *Ranged Spell Attack* (cantrip): one target within 60 ft. WIS save DC 13. *Fail:* 2d8 necrotic (2d12 if target is below max HP). *Success:* no damage. No concentration, no spell slot.
+
+***Inflict Wounds (1st-level slot).*** *Melee Spell Attack:* +5 to hit, reach 5 ft. *Hit:* 3d10 necrotic. Upcast to 3rd: 5d10 necrotic. Used when a player is within reach and already locked down.
+
+**Bonus Actions**
+
+***Shadow Step.*** Same as Dusk Cultist. The Priest has darkvision 60 ft and uses this to stay mobile.
+
+---
+
+**Tactical Priority (run in this order each round):**
+
+**Round 1:** Cast *Darkness* (2nd-level) centred on the amber lamp — plunges 15-foot radius into magical darkness. All Dusk Cultists have darkvision and can Shadow Step through it. Players without darkvision have disadvantage on attacks and the Priest has advantage on attacks against them. Sera is inside the darkness zone. Finding her requires action or Blindsight.
+
+**Round 2:** Cast *Hold Person* targeting Sera (WIS save DC 13). If she fails, two cultists immediately move to her position and begin dragging (10 ft per round, costs their movement). If she succeeds: the Priest uses Toll the Dead on the highest-HP player.
+
+**Round 3+:** If Sera is Held and being dragged: the Priest uses Shadow Step to flank any player blocking the extraction route. If Sera is free: repeat Hold Person (uses 2nd slot). If both 2nd slots are spent: Inflict Wounds on the nearest player, use cultists as a screen.
+
+**Withdrawal trigger:** If 3 of 4 Cultists are downed OR the Priest drops below 20 HP — the Priest signals withdrawal with a specific hand gesture. All remaining Cultists disengage simultaneously (no opportunity attacks, Shadow Step away). The Priest dimension-doors if possible; otherwise disengages and runs. They do not fight to the death.
+
+**Bestow Curse / Shadow of Moil:** Only used if the fight goes longer than 5 rounds (unlikely). Bestow Curse on the most active player (disadvantage on WIS saves — makes Hold Person harder to resist). Shadow of Moil is the Priest's last-resort when below 20 HP: 4d12 necrotic to adjacent attackers per turn, heavily obscures the Priest.
+
+---
+
+**Lira Anwick arrives end of round 2** through the roof hatch: medical kit, no weapons, cannot fight. She goes immediately to Sera's position. If Sera is Held, Lira attempts to break the hold by physically grabbing her — she cannot end the spell but she can prevent the cultists from dragging her more than 5 ft (opposed STR check, Lira's STR is 10). This creates a standoff and buys one round.
+
+**Reinforcement (2 skill challenge failures only):** 1 additional Dusk Cultist enters via the lane door at the end of round 2. Uses Shadow Step immediately to position.
+
+---
+
+### Sera Voss — Active Combatant
+
+*Guard Captain, 50 years on the job. Crossbow on her knees when they arrive.*
+
+| | |
+|---|---|
+| **AC** | 15 (chain shirt + DEX) |
+| **HP** | 42 / 52 (injured, two days hiding) |
+| **Speed** | 30 ft |
+| **Initiative** | +3 |
+
+***Crossbow.*** +5 to hit, 80/320 ft, 1d8+3 piercing.
+***Short Sword.*** +5 to hit, 5 ft, 1d6+3 piercing.
+***Extra Attack.*** Two attacks per action.
+***Captain's Eye (bonus action).*** Once per turn: one ally within 30 ft can make a weapon attack as a reaction.
+
+She targets the Priest with her crossbow from range, switching to sword when forced into melee. She does not prioritise self-preservation — this is a tactical liability the players should notice.
+
+**Mid-combat beat:** Sera, when she has a moment between attacks, says — not loudly, just clearly: *"They've had my name for months. This isn't about the cryptics. They've been hunting us one by one."*
+
+Let that sit. Move on with combat. Don't explain it.
 
 Let that sit. Don't explain it. Move on with combat.
 
