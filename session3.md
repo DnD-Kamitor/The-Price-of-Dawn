@@ -289,48 +289,66 @@ Sera does not answer. She has no answer. The two women look at each other across
 
 **How it connects forward:** Players now know the consent problem is not theoretical. Two Dawnborn, same room, diametrically opposite positions, both freely chosen. Any path that requires unanimous agreement must reckon with this moment.
 
+**After the confrontation — searching the Priest:**
+
+If players search the Dusk Priest's body (or investigate the tannery's back room documents, DC 12 Investigation to notice if they're not specifically looking): a flat leather document sleeve, well-preserved, wax-sealed. Inside: a single sheet in the same careful hand as the notation key fragments they recovered in Sessions 1 and 2.
+
+This is Fragment 3. Header: *"Notation Reference — Section III of III."* Content: five final symbols — ⬢=J, ☆=K, ◉=Q, ⬤=X, ✧=Z. Below the symbols, underlined in Corven's hand: *"This completes the key. The rest is already written. You only needed to be able to read it."*
+
+**GM note:** The Dusk Faction recovered Fragment 3 before the players. They've been working the cipher problem in parallel — decoding the ritual diagram, identifying Ellan Voss, understanding the Inversion path. The tannery was about Sera, but also about this. The party finding it here closes a gap they didn't know they had.
+
 ---
 
-## Scene 4 — Puzzle: The Paired Cryptics
+## Scene 4 — Puzzle: Reading What Was Always There
 
 After the tannery, somewhere safe — a Divination Tower safe house, Sera's backup location, or wherever players establish as secure.
 
 **Five senses (the safe house):**
-- Sight: Two cryptic documents spread side by side on the table. Part A (library): Theron's precise hand, 24 symbols in 6 rows of 4. Part B (archive box): older parchment, slightly yellowed, same 24 symbols in 4 rows of 6. The ritual drawings from the box lie open beside them — a circle, ten marked positions, lines of notation around the rim. A candle stub is the only light.
-- Sound: Distant iron bells. Papers sliding on wood. Someone breathing through their nose while they think.
-- Smell: Old ink. The ritual drawings carry a faint mineral smell — stone dust, chalk. The same smell as old Ashring.
-- Touch: Part A is crisp, written within the last twenty years. Part B is much older — edges softened, parchment slightly translucent when held to light.
-- The discovery: Holding Part B over Part A against the candle, symbols from Part A show through — shifted in a specific, non-random pattern. This is not wear. This is the mechanism.
+- Sight: Three notation key fragments spread across the table — the two from Sessions 1 and 2, and the one just recovered from the Dusk Priest's leather sleeve. Beside them: Theron's encoded journal page from the Session 2 archive box, still mostly unreadable. The ritual circle diagram open at the edge — ten positions, one crossed out. A candle stub is the only light.
+- Sound: Distant iron bells. The quiet scratch of someone tracing symbols down the key, cross-referencing. A small sound when the last line completes.
+- Smell: Old parchment and candlewax. Faint chemical smell still on their clothes from the tannery.
+- Touch: Fragment 3 is the most recently handled — the leather sleeve cared for by someone who read it regularly.
+- The moment: Running Fragment 3's symbols down the encoded journal, the gap in Line 4 fills. *NO _NOC_ER* becomes *NO KNOCKER.* And the margin note — Theron's plain hand, always there — reads: *"The panel is to the left of the frame."*
 
 **The setup:**
 
-They have both parts of Theron's cryptic. Neither decoded fully alone — they've been treating them as two separate documents. They are one system. Theron encoded the message across both, requiring both simultaneously. Part A alone produces fragments of ritual notation — meaningful but incomplete. Same for Part B. The message exists in neither document individually.
+They've had Theron's encoded journal since Session 2. A single undated page — dense with Corven's private notation — that they couldn't fully decode. Fragments 1 and 2 decoded most of it. Line 4 stayed incomplete: *NO _NOC_ER.* The missing symbol was ☆.
 
-**Finding the method:**
+Fragment 3 gives them: ☆ = K.
 
-*DC 15 Arcana:* "These documents use the same base notation but complementary encoding. The symbol frequency in Part A is the mathematical inverse of Part B — they were designed as a paired key. One cannot be read without the other."
+They've had the address and the door mechanism in their hands since Session 2. They lacked one symbol.
 
-*DC 13 Investigation (no Arcana required):* Count the symbols. Part A: 24. Part B: 24. Same count, different arrangement, same notation system, same author. That is not coincidence.
+**Applying the complete key:**
 
-*Sephandrius:* Advantage on either check. Paired-key encoding is used in prophetic ciphers to prevent partial readings — a diviner recognises the structure immediately.
+No roll required to decode line by line with all three Fragments assembled. The difficulty was always getting all three sections, not the execution.
 
-*No roll needed if players try the physical method:* Holding Part B over Part A against the candle causes certain symbol pairs to align — the double layer darkens them visibly. The aligned symbols, read in sequence, are the message. If players physically hold the documents up to the light, they find this without rolling anything.
+*DC 12 Investigation:* Work through the cipher quickly; a player who makes this check spots the margin notes before the decoded text fully registers — they see *"The panel is to the left of the frame"* and understand what it means before they've finished Line 4.
 
-**Once the method is found:**
+*Sephandrius:* Advantage on the check. He recognises the notation structure immediately — Corven's system is not published anywhere. Knowing it implies direct contact with Corven or access to the original Ashring materials. *"Theron was inside the ritual chamber. He didn't learn this secondhand."*
 
-DC 12 Investigation to work through the cross-reference systematically. This is methodical, not hard — the difficulty was the method, not the execution. On failure: they extract the name and district but not the street number. DC 14 History fills the gap from knowledge of Ashring's old layout, or Sephandrius can ask Osindra.
+**The decoded journal:**
 
-**The ritual drawings connect here:** The decoded name corresponds to the ninth marked position in the circle diagram. That position has a mark beside it that none of the others have — a single line through it, added in a different ink, at a different time. Someone crossed out that participant after the ritual ended. Theron, Year 43. The line was added in grief or in guilt — it is impossible to tell which from the pressure of the pen.
+Four lines of cipher, three margin notes in Theron's plain hand:
 
-**What the paired reading produces:**
+- *Line 1:* ELLAN VOSS
+  - *Margin: "Seven years. I have known seven years."*
+- *Line 2:* NINTH WITHDREW
+  - *Margin: "She chose to live. I cannot fault her."*
+- *Line 3:* ASHRING THIRD LANE
+- *Line 4:* NO KNOCKER
+  - *Margin: "Do not knock. The door has no knocker. The panel is to the left of the frame."*
 
-The aligned symbols translate from Corven's notation into old Varenhold script:
+No sentiment in the cipher. The feelings are in the margins, in plain language. Theron didn't expect this to be subtle. He expected it to be read by someone who cared enough to need it.
 
-> *Ellan Voss. Ashring. [Street name]. [Door number].*
-> *Ninth position. Withdrew Year 42.*
-> *She is still alive.*
+**Fragment 3's plain note (Corven's hand, on the same sheet as the key symbols):**
 
-No letter. No sentiment. Compressed data — hidden across two documents for fifty years. Theron didn't write feelings here. He wrote a location and a fact and trusted that whoever stood in this room needing it would know what to do.
+> *"All ten at the focal point. The same moment. The door opened from inside, willingly. One unwilling or absent — the circuit closes the other way. There is no third option."*
+
+This is Corven's voice, not Theron's. The Dusk Faction has read this. They already understand what the ritual requires and what it cannot survive.
+
+**The ritual diagram connects here:** The decoded name ELLAN VOSS corresponds to position IX in the circle diagram — the one crossed out in different ink, different time. The annotation, now legible with the complete key, reads: *"withdrew. circle incomplete."*
+
+Theron added that line in Year 43. Grief or guilt — impossible to tell from the pressure of the pen.
 
 **Three-clue fallback (if they cannot decode it):**
 1. **Osindra:** Has observed the Dusk Faction watching a specific Ashring street for three years. DC 14 Arcana or direct, well-framed roleplay prompts her to share it.

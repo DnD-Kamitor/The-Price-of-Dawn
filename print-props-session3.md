@@ -9,103 +9,90 @@
 ## Maps & Drawings
 
 <details>
-<summary>Lowmark Alley — Approach to Isolde's Building (Scene 1)</summary>
+<summary>Ironbell Tannery — Combat Layout (Scene 3)</summary>
 
-*GM reference for Scene 1 crowd encounter. Show to players or describe verbally.*
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  LOWMARK ALLEY — CHANDLER'S BLOCK             SCALE: 1:75       ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  [NORTH EXIT]                                                    ║
-║       │                                                          ║
-║  ─────┤ LOWMARK ALLEY (15ft wide)                               ║
-║       │                                                          ║
-║  [SIDE LANE]  ←── 8ft, possible flanking route                  ║
-║                                                                  ║
-║  ░░░░░░░░░░░░░░░░░░░░░░ CROWD (30 members) ░░░░░░░░░░░░░░░░░░░  ║
-║  ░  Difficult terrain. 2 ft per 1 ft to push through.         ░  ║
-║  ░  [SENNA] at crowd center, 20ft from building door          ░  ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║                                                                  ║
-║       ┌──────────────────────────────────────────┐              ║
-║       │     CHANDLER'S SHOP (ground floor)        │              ║
-║       │     [DOOR — to Isolde's stairwell]         │              ║
-║       │     [WINDOW — second floor, lit]           │              ║
-║       └──────────────────────────────────────────┘              ║
-║                                                                  ║
-║  [SOUTH — players arrive from here]                             ║
-║                                                                  ║
-║  CAFÉ ACROSS THE ALLEY: Davan Crel watching from here.          ║
-║  DC 13 Perception to spot him. He does not approach.           ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</details>
-
-<details>
-<summary>Isolde's Workroom — Layout (Scene 3)</summary>
-
-*Show after players enter the workroom. Can be left on table for the puzzle scene.*
+*GM reference for the tannery ambush. Show to players at start of combat or describe verbally.*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ISOLDE MAREN — RENTED WORKROOM, SECOND FLOOR    SCALE: 1:25   ║
-║  Approx. 20ft × 15ft. Cramped. Genius-level disorder.          ║
+║  IRONBELL TANNERY — GROUND FLOOR              SCALE: 1:25       ║
+║  Approx. 40ft × 30ft. Low ceiling. One amber lamp.             ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  NORTH WALL (window — closed, star map pinned over it)          ║
-║  ┌──────────────────────────────────────────────────┐           ║
-║  │  [BOOKCASE]           [SPECIMEN SHELF]            │           ║
-║  │                        ↑ Grey mouse jar here      │           ║
-║  │  ┌────────────────────────────────────────────┐  │           ║
-║  │  │          WORKBENCH (fixed to wall)          │  │           ║
-║  │  │                                            │  │           ║
-║  │  │  [AMBER]    [SILVER]    [GREY]             │  │           ║
-║  │  │  channel    channel    channel             │  │           ║
-║  │  │  dial 0°    dial 0°    dial 0°             │  │           ║
-║  │  │                                            │  │           ║
-║  │  └────────────────────────────────────────────┘  │           ║
-║  │                                                   │           ║
-║  │  [DESK — Isolde's notes]    [STOOL]               │           ║
-║  │                                                   │           ║
-║  └──────────────────────────────────────────────────┘           ║
-║  [DOOR — landing → stairwell]                                    ║
-║                                                                  ║
-║  TRANSFER APPARATUS HP: 20 (Scene 5 secondary objective)        ║
-║  CORRECT DIAL SETTINGS: amber=60° · silver=180° · grey=300°    ║
-║  Wrong setting: 2d8 radiant, 10ft burst, dials reset            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</details>
-
-<details>
-<summary>Dawnhall Common Room — Scene 4 layout</summary>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  DAWNHALL — COMMON ROOM (LOWMARK, CRESTWICK LANE)   SCALE: 1:50 ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  [KITCHEN DOOR → north]                                          ║
+║  [LANE DOOR ← WEST] ← players enter here                       ║
 ║                                                                  ║
 ║  ┌──────────────────────────────────────────────────────┐        ║
-║  │                  COMMUNAL TABLE                       │        ║
-║  │  [SERA]                                  [LIRA]       │        ║
-║  │  (west end,                              (east end,   │        ║
-║  │   encouraged)                             unmoved)    │        ║
+║  │                                                      │        ║
+║  │  [TANNING VATS ×3]        [AMBER LAMP — center]     │        ║
+║  │   Acid solution, 3ft deep  Only light source         │        ║
+║  │   Shove → 2d6 acid/turn                              │        ║
+║  │                                                      │        ║
+║  │  [HANGING HIDES on racks] — soft cover, diff. terr. │        ║
+║  │                                                      │        ║
+║  │  [BARRELS of tanbark ×4] — can be pushed/stacked    │        ║
+║  │                                                      │        ║
+║  │                [SERA — back wall, crossbow]          │        ║
+║  │                                                      │        ║
 ║  └──────────────────────────────────────────────────────┘        ║
+║       [WINDOW — shuttered, east wall]                            ║
+║       ↑ reinforcement enters here (2 failures only)              ║
 ║                                                                  ║
-║  [CHILD'S DRAWING — pinned near kitchen door. Yellow sun.       ║
-║   Only yellow thing in the room.]                               ║
+║  [REAR LOADING HATCH — ground level, back wall]                  ║
+║  ↑ Lira enters here, end of round 2                              ║
 ║                                                                  ║
-║  [TWO OTHER DAWNBORN at far table — background only]            ║
-║                                                                  ║
-║  [MAIN ENTRY ← south]                                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STARTING POSITIONS                                              ║
+║  — 3 cultists: lane (outside, move on ambush signal)            ║
+║  — 2 cultists: already inside, positions [N] and [S] of vats    ║
+║  — Dusk Priest: inside, near vats, concealed in dim light        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+
+</details>
+
+<details>
+<summary>Ashring — Ritual Circle Diagram (Scene 4 / player handout)</summary>
+
+*Found in the box from Session 2 (with the cryptic documents and ritual drawings). Players already have this. It shows 10 positions. Position IX is crossed out — added in a different hand, different ink.*
+
+*Hand this to players when they work on the Scene 4 puzzle, or remind them they already have it.*
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ASHRING RITUAL CONFIGURATION — YEAR 42                         ║
+║  Diagram: Archmagister Corven. Notation: see key.               ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║                          I  (Maren S.)                           ║
+║                                                                  ║
+║           X (Corven)               II  (Davan T.)               ║
+║                                                                  ║
+║    ═══════════════════════════════════════════════════           ║
+║    IX  ~~ELLAN VOSS~~*                       III  (Heth V.)     ║
+║    ═══════════════════════════════════════════════════           ║
+║                     ┌─────────────────┐                          ║
+║    VIII (Aldec R.)  │       ✦         │      IV  (Iolet C.)     ║
+║                     │  FOCAL POINT    │                          ║
+║                     └─────────────────┘                          ║
+║    VII  (Carra V.)                          V  (Bram S.)        ║
+║                                                                  ║
+║                      VI  (Oswin F.)                              ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  * Position IX: annotation added Year 43, different ink:        ║
+║    "withdrew. circle incomplete."                                ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+::: {.prop-alt-ink}
+*The names at positions I-VIII and X require DC 14 History to read (old Varenhold script). GM may reveal them at their discretion — none are currently active NPCs.*
+
+*Position IX is clearly legible in both old and modern script — whoever added the annotation wrote the name plainly, as a record.*
+
+*With all three Notation Key fragments, players can decode the two lines of Corven's cipher at the bottom of the original diagram (if they have the ritual-notation-prop). The decoded content names the Inversion path.*
+:::
 
 </details>
 
@@ -114,205 +101,160 @@
 ## Documents
 
 <details>
-<summary>Frequency Lock Card — pinned to Isolde's door (Scene 2)</summary>
+<summary>Theron's Encoded Journal Entry — player handout (Scene 4 puzzle)</summary>
 
-*Hand to players when they reach the workroom door landing. This is the physical card pinned at eye level.*
+*Players retrieved Theron's personal journal from the archive box in Session 2. Most entries are in plain language. One page — this one — is written entirely in Corven's private notation. They could not decode it before. With all three Notation Key Fragments, they can now.*
+
+*Print and hand to players at the start of Scene 4.*
 
 ---
 
-*[A card of stiff paper, pinned with a single nail at eye level. Handwriting: small, precise, ink slightly faded from moisture.]*
+*[A single journal page. Dense handwriting, no date. Corven's notation system throughout — the same symbols as the Fragments. Three annotations in a different hand (Theron's own, added later, in plain language) appear in the margins.]*
 
-> I am the same at the beginning and end of a prayer.
->
-> I live between noise and music.
->
-> You cannot hold me, but you can give me away completely.
->
-> What am I?
-
-*[Below the riddle, in smaller handwriting, added later:]*
-
-*Please don't misfire it. The neighbours have complained twice.*
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  THERON WAIDE — PERSONAL JOURNAL (page, undated)                ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ◈⬟⬟⊗⬡  ▪▽◎◎                                                   ║
+║  ⬡⬠⬡✦◇  ⊕⬠✦◇△●◈⊕                                               ║
+║  ⊗◎◇●⬠⬡◆  ✦◇⬠●△  ⬟⊗⬡◈                                          ║
+║  ⬡▽  ☆⬡▽⊙☆◈●                                                    ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  MARGIN NOTES (plain language, Theron's hand):                  ║
+║                                                                  ║
+║  [beside line 1:]  "Seven years. I have known seven years."     ║
+║                                                                  ║
+║  [beside line 2:]  "She chose to live. I cannot fault her."     ║
+║                                                                  ║
+║  [beside line 4:]  "Do not knock. The door has no knocker.      ║
+║                    The panel is to the left of the frame."      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ::: {.prop-alt-ink}
-*Answer: a tone. Any player who hums, sings, or describes producing a clear sustained note triggers the lock.*
+*Players with Fragments 1+2 can decode lines 1–3 in full, and line 4 partially:*
 
-*Hint 1 (if asked): "You cannot hold me." What can you give but not keep?*
-*Hint 2 (wrong third attempt): the lock fires at full volume — Davan Crel, watching from the café across the alley, now has Isolde's exact location.*
+- *Line 1: ELLAN VOSS*
+- *Line 2: NINTH WITHDREW*
+- *Line 3: ASHRING THIRD LANE*
+- *Line 4: NO _NOC_ER  (K gaps — Fragment 3 needed for ☆=K)*
 
-*The riddle mirrors the campaign's central question: what the Dawnborn are being asked to give away completely. If players notice, let them sit with it.*
+*With all three fragments:*
+
+- *Line 4: NO KNOCKER*
+
+*The margin notes are in plain language — available immediately. "The panel is to the left of the frame" is Theron's addition. He knew about the riddle mechanism.*
+
+*The cipher text (four lines) is what the puzzle in Scene 4 decodes. The ritual circle diagram identifies who Ellan Voss is — position IX, crossed out.*
 :::
 
 </details>
 
 <details>
-<summary>Transfer Apparatus — Calibration Notes (found in workroom)</summary>
+<summary>Fragment 3 — Corven's Notation Key (found on the Dusk Priest, post-combat)</summary>
 
-*Found on Isolde's desk. Players can examine this during Scene 3. Hand it over if they ask to look at her notes — no roll required.*
+*Found in a leather document sleeve on the Dusk Priest's body — or in a satchel in the tannery's back room — after the combat in Scene 3. The Dusk Faction has also been collecting the Fragments. They decoded the ritual diagram before the players did. Same size and format as Fragments 1 and 2 from Sessions 1–2.*
+
+*Hand to players when they search the Priest or the tannery's documents.*
 
 ---
 
-*[Several pages of dense technical notation, most unreadable without the Notation Key. A working page on top has annotations in three different ink colours — different sessions of work over months.]*
+*[A single sheet in the same careful hand as Fragments 1 and 2. Header: "Notation Reference — Section III of III." At the bottom, underlined: "This completes the key. The rest is already written. You only needed to be able to read it."]*
 
 ```
-TRANSFER APPARATUS — WORKING CONFIGURATION
-Trial series: 14 (ongoing)
-
-CHANNEL CONFIGURATION (lux crystal array):
-  Amber channel   →  [see angular position table]
-  Silver channel  →  [see angular position table]
-  Grey channel    →  [see angular position table]
-
-ANGULAR POSITION TABLE:
-[Most of this section is in Corven's notation — unreadable
- without Fragment 2 of the Notation Key]
-
-[Margin note, most recent ink:]
-The positions match the surge-phase distribution at the
-Ashring. I am certain of this now. The question is why
-Corven built it that way and whether he knew the mechanism
-would redistribute rather than complete.
-
-[Later annotation:]
-He knew. It's in Fragment 2. He built the redistribution
-in as a failsafe. The apparatus uses the same geometry
-because it has to — the anchor positions are fixed by
-the original ritual structure.
-
-MORTALITY RISK (theoretical): 15-20% per transfer.
-Source: cascade modeling, not empirical.
-I do not have a way to verify this without a live test.
-The mouse survived. The mouse is not the same mouse.
+╔══════════════════════════════════════════════════════════════════╗
+║  CORVEN PRIVATE NOTATION — FRAGMENT III OF III                   ║
+║  Section III: Final Symbols (completes the notation system)      ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   ⬢ = J     ☆ = K     ◉ = Q     ⬤ = X     ✧ = Z               ║
+║                                                                  ║
+║   [All three sections complete the full notation key]            ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  CIPHER TEXT (Corven's hand):                                    ║
+║                                                                  ║
+║    ◈⬤⊗⊙✦  ⊕⬠⬟⬟⬠⬡◆  ●◈⬟◈⊗◎◈                                    ║
+║    ◎▼⬡  ●◈✦▼●⬡◎                                                 ║
+║                                                                  ║
+║  [Fragments 1+2 decode: "E·ACT WILLING RELEASE: SUN RETURNS"]   ║
+║  [All three decode:      "EXACT WILLING RELEASE: SUN RETURNS"]   ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  PLAIN NOTE (Corven's hand):                                     ║
+║                                                                  ║
+║  "All ten at the focal point. The same moment.                   ║
+║   The door opened from inside, willingly.                        ║
+║   One unwilling or absent — the circuit closes                   ║
+║   the other way. There is no third option."                      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ::: {.prop-alt-ink}
-*Players with Fragment 2 of the Notation Key (Session 2, Resonance Box) can decode the angular position table: amber=60°, silver=180°, grey=300°.*
+*The Dusk Faction had Fragment 3 before the players. Finding it here confirms: they decoded the ritual diagram. They know about Ellan Voss. They know about the Inversion path.*
 
-*Without Fragment 2: DC 14 Arcana to derive the positions from the star map on the wall (the Ashring's surge-phase Dawnborn positions are on it, unlabelled).*
+*This fragment is what makes the tannery combat feel like it matters beyond the immediate fight: the faction was here for Sera, but they've been moving on the cipher problem in parallel.*
 
-*"The mouse is not the same mouse" — Isolde has been working on this for three years. She is the only person in the city who might know how to save all ten Dawnborn. Keseph has had her work in institutional review the entire time.*
+*With all three Fragments, players can now fully decode Theron's encoded journal entry (see above) — and the Tier 3 notation on the ritual diagram from Session 2: "INVERSION PATH: WILLING RELEASE. ALL TEN. EXACT MOMENT. SUN RETURNS. ONE UNWILLING → DESTRUCTIVE."*
+
+*The Inversion path is an alternative outcome. It has been in the diagram the whole time.*
 :::
 
 </details>
 
 <details>
-<summary>Fragment 3 — Corven's Notation Key (found in Isolde's workroom)</summary>
+<summary>Corven's Notation — Quick Reference (for players using all three Fragments)</summary>
 
-*Tucked into the back of Isolde's working papers on the desk — she found it in the Corven correspondence estate lot, didn't know what it was, filed it under "cipher samples." Same size and format as Fragments 1 and 2. Hand to players when they examine the desk in Scene 3.*
+*Give this to players once they have all three Fragments and are actively decoding. It collects all three sections onto one sheet so they don't have to juggle three papers.*
 
 ---
 
-*[A single sheet in the same careful hand as Fragments 1 and 2. Header reads "Notation Reference — Section III of III." At the bottom: a single underlined note: "This completes the key. The rest is already written. You only needed to be able to read it."]*
-
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  CORVEN PRIVATE NOTATION — FRAGMENT III OF III                ║
-║  Section III: Final Symbols (completes the notation system)   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   ⬢ = J     ☆ = K     ◉ = Q     ⬤ = X     ✧ = Z            ║
-║                                                              ║
-║   [All three sections complete the full notation key]        ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  CIPHER TEXT (in Corven's hand):                             ║
-║                                                              ║
-║    ◈⬤⊗⊙✦  ⊕⬠⬟⬟⬠⬡◆  ●◈⬟◈⊗◎◈                               ║
-║    ◎▼⬡  ●◈✦▼●⬡◎                                             ║
-║                                                              ║
-║  [Fragments 1+2 decode: "E·ACT WILLING RELEASE: SUN RETURNS"]║
-║  [All three decode:      "EXACT WILLING RELEASE: SUN RETURNS"]║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  PLAIN NOTE (in Corven's hand):                              ║
-║                                                              ║
-║  "All ten at the focal point. The same moment.               ║
-║   The door opened from inside, willingly.                    ║
-║   One unwilling or absent — the circuit closes               ║
-║   the other way. There is no third option."                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  CORVEN PRIVATE NOTATION — COMPLETE KEY (Fragments I + II + III) ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  SECTION I (Fragment 1 — Archive shelf):                         ║
+║   ✦ = T     ◈ = E     ⬡ = N     ⬟ = L     ⬠ = I               ║
+║   ◆ = G     ◇ = H     ○ = B     ● = R     ◎ = S               ║
+║                                                                  ║
+║  SECTION II (Fragment 2 — Resonance Box):                        ║
+║   ⊕ = W     ⊗ = A     ⊙ = C     △ = D     ▽ = O               ║
+║   ▲ = F     ▼ = U     □ = M     ■ = P     ▪ = V     ▸ = Y     ║
+║                                                                  ║
+║  SECTION III (Fragment 3 — Dusk Priest):                         ║
+║   ⬢ = J     ☆ = K     ◉ = Q     ⬤ = X     ✧ = Z               ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-::: {.prop-alt-ink}
-*With all three Fragments, players can now fully decode the Tier 3 notation on the ritual diagram found in Session 2. The center notation — which Theron missed, or chose not to look for — reads: "INVERSION PATH: WILLING RELEASE. ALL TEN. EXACT MOMENT. SUN RETURNS. ONE UNWILLING → DESTRUCTIVE."*
-
-*This is the alternative ending. It was in the diagram the whole time. It required the complete key to read.*
-
-*Isolde did not know what she was sitting on. She filed it as "cipher sample." The notation on her own desk unlocks the mechanism she's been trying to build for three years.*
-:::
 
 </details>
 
 <details>
-<summary>Reckoning Operational Order — found on soldiers in Scene 5</summary>
+<summary>Osindra's Intelligence Summary — player handout (Scene 1)</summary>
 
-*Found on any Reckoning soldier captured or searched in the Scene 5 raid on Isolde's workroom.*
+*Osindra speaks these points. She does not write them down. If players ask for something written: she tears a corner from a scrying log sheet and writes three words only: "Ironbell. Copper pipes. Footprints." She offers nothing more in writing.*
 
----
-
-**[RECKONING OPERATIONAL ORDER — ISOLDE MAREN WORKSITE]**
-
-```
-Objective:   Transfer apparatus — secure and destroy.
-             Do not allow removal from premises.
-
-Secondary:   Research notes — destroy in place.
-             Priority: any materials referencing angular
-             positions, lux channel configuration, or
-             notation key fragments.
-
-Target:      Rented room, second floor, chandler's block,
-             Lowmark Alley. [building number redacted]
-
-Note on subject MAREN: non-combatant. Do not harm.
-Restrain if necessary. She is a resource.
-
-The Chancellor's investigators are expected to reach
-this location. If present: treat as hostile.
-
-Source intelligence: ALDISS (Spire contact)
-Report to: Crestwick Lane on completion.
-— Reckoning Command
-```
-
-::: {.prop-alt-ink}
-*"ALDISS (Spire contact)" — this is Varren Aldiss, Spire administrator. He fed Harran the location within hours of players reaching Isolde.*
-
-*Players who saw the frequency lock misfire from outside may instead suspect Davan Crel (Keseph's aide). Both possibilities are real — they serve different masters, and both have been watching.*
-
-*"She is a resource" — the Reckoning wants Isolde alive. Her expertise is valuable to them if the Dawnborn won't cooperate. Note this.*
-:::
-
-</details>
-
-<details>
-<summary>Senna Kard's Placard — carried by crowd members, Scene 1</summary>
-
-*If players examine the crowd closely (DC 10 Perception) or ask what people are holding, describe this. Do not hand out — just read or describe.*
+*This card is a GM memory aid — not a player handout.*
 
 ---
 
-*[Rough wood, words painted in broad strokes, the paint still slightly tacky — made last night.]*
-
-> WE GAVE THE DAWNHALLS EVERYTHING
->
-> WHAT DID IT GIVE US BACK
-
-*[On the reverse, in smaller letters, written in charcoal:]*
-
-> My daughters' names are Nia and Brek.
-> They are nine and six.
-> I am not here for politics.
-
 ::: {.prop-alt-ink}
-*Senna is not a villain. She is a parent who has run out of other options. She will not initiate violence — she will respond to acknowledgment.*
+*Three things Osindra tells them, freely:*
 
-*De-escalation requires naming what she's actually losing: not "we understand your pain" but something that names her daughters, or her fear that the Dawnborn's deaths won't save them anyway, or the specific cruelty of a city that took everything from her and still can't give her sun.*
+1. *The Dusk Faction has operated in Varenhold for at least twenty years. Not improvised. Not new.*
 
-*If de-escalated: "If they die for this, I need to know they chose it." She becomes a potential ally. She understands the consent question more clearly than most people in this city.*
+2. *Their seer reads arcane signatures in the streets — every spell cast in the open leaves a trace. The trace decays in minutes but is readable in real time.*
+
+3. *"The Ironbell district has a dead zone for scrying — old clay pipes in the walls, copper-lined. Use them."*
+
+*What she does not say: she has received an offer from the Dusk Faction. She has not refused it. She knows their leadership's name. She suspects their seer is more accurate than hers.*
 :::
 
 </details>
@@ -322,59 +264,76 @@ Report to: Crestwick Lane on completion.
 ## Player Moments
 
 <details>
-<summary>Kaelen — On the Desperate Crowd [martial/soldier PC only]</summary>
+<summary>Sephandrius — On arriving at the Divination Tower (Scene 1)</summary>
 
-*Play at the start of Scene 1, before any roll is made.*
+*Play before they reach the door — or read at the start of the scene.*
 
 ---
 
-Thirty people in a narrow alley. Dockworkers, parents, people who haven't slept. No weapons visible.
+You have visited other towers. The Conjuration tower smelled of sulphur and ambition. The Abjuration tower required seven forms of identification and a waiting list.
 
-You've seen crowds like this before. You know what they become when the first person swings — not a mob, not soldiers, just people who've been pushed past a threshold and have nowhere else to go.
+This tower has no signage. The windows contain orreries that don't match any sky you've charted. The brass speaking tube by the door is polished to a mirror finish — you can see yourself in it.
 
-The woman at the center is watching you. Not the way someone watches a threat. The way someone watches to see if you're going to make them prove something.
+You're adjusting something about your appearance when the tube crackles.
 
-She's holding a placard. She's been awake since before dawn. She has already decided how far she'll go.
+*"Sephandrius. Third footnote, Aldshire Compendium, temporal recursion paper. The citation is wrong. Magistra Osindra would like to discuss it."*
 
-*The secondary objective here is not to fight. What does your character do in the first ten seconds?*
+The door opens.
+
+*You have not knocked.*
 
 </details>
 
 <details>
-<summary>Scholar/Investigator PC — On the Transfer Mouse</summary>
+<summary>Any player — On the Sera/Lira confrontation (post-combat, Scene 3)</summary>
 
-*Play when the character first sees the specimen jar in Isolde's workroom.*
+*Play immediately after the Lira/Sera beat lands — after Lira says "I have a daughter. You don't." Do not play before.*
 
 ---
 
-The jar is on the south shelf between two others — preserved specimens, nothing unusual. Except the mouse in this one is alive.
+Neither of them is asking you to choose.
 
-It moves. Not quickly. It moves the way something moves when it is still learning what movement is. Deliberate. Searching. It turns its head and looks at you with both eyes at once, which is not how mice look.
+That's the thing about this moment. Sera isn't saying you should agree with her. Lira isn't asking for your endorsement. They have each arrived at a position through fifty years of living, and they are not confused about it, and they do not need you to resolve it.
 
-Isolde hasn't named it. She uses the clinical language of someone who has learned not to be attached to results. But you notice she's moved the jar to a position where she can see it from her desk.
+You can speak. They will hear you. But the gap between them is not one that argument closes.
 
-*DC 14 Medicine or DC 13 Arcana: the mouse survived the transfer. It is not the mouse it was. What does that mean for the Dawnborn?*
+*What does your character do with their hands while this is happening?*
 
 </details>
 
 <details>
-<summary>Cleric/Religious PC — Sera and Lira's argument (Scene 4)</summary>
+<summary>Cleric or devotee PC — On Ellan Voss's choice (Scene 5)</summary>
 
-*Play during the Scene 4 confrontation at the Dawnhall.*
+*Play after Ellan says "I was afraid. I was nineteen. I chose to live."*
 
 ---
 
-You have heard arguments about sacrifice before. Most of them are theoretical. Most of them are made by people who are not being asked to give anything.
+You have been taught about sacrifice. Most of what you were taught was written by people who survived.
 
-Sera's faith is not theoretical. It costs her something to believe what she believes, and she knows it, and she pays it anyway. You recognize the posture.
+Ellan Voss is ninety-something years old and she is the only person you have met who actually said no when it mattered, at the cost that mattered, and has had to live with it every day since.
 
-Lira's refusal is not selfishness. It is the most honest form of love you have seen anyone display in this city. She has a daughter. That is not a small thing.
+She is not broken by it. She is not proud of it either. She has something rarer than both: she has looked at what she did, and she has kept looking, and she has not looked away.
 
-Neither of them is wrong.
+Your tradition has a word for this. You may want to examine whether that word is fair.
 
-Your tradition has a position on sacrifice. You may want to examine whether that position was written by someone who was being asked to die.
+*What does your character want to ask her that they don't?*
 
-*What does your character say, if anything?*
+</details>
+
+<details>
+<summary>Diviner PC — On the Ashring door mechanism (Scene 5)</summary>
+
+*Play when the door doesn't open after they say "consent." After at least one failed attempt.*
+
+---
+
+You have worked with ward-locked mechanisms before. Glyphs, sigils, resonance locks. Most of them read truth. This one reads something different.
+
+It reads *depth.* Not whether you believe what you're saying — whether you've *asked yourself* what you mean by it.
+
+You've cracked resonance locks before by speaking formulaic truth. This ward would recognize a formula. The question is whether you know why you're standing here — not tactically, not because your party came — but why *you* are here, in this body, at this door, on this particular night.
+
+*What's the true answer?*
 
 </details>
 
