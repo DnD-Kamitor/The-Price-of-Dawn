@@ -4,6 +4,60 @@
 
 ---
 
+## Quick Reference Card
+
+| | |
+|---|---|
+| **Level** | 7 · ~3–4 hours · Opener + 5 scenes |
+| **Session dilemma** | What do you owe to people who choose to sacrifice themselves? |
+| **Session arc** | Revelation → Confrontation → Discovery → Doubt → Ultimatum |
+| **Three factions** | Dawnless (watching), Solennite Blades (intercepting), Reckoning (seizing) |
+
+| NPC | Want | Fear | Lie |
+|---|---|---|---|
+| **Ellan Voss** | Someone to ask the right question | That she will say yes too late | *"I will not give consent. Not before."* |
+| **Maerin Voss** | Sera to change her mind | She is already too late | *"I'm not asking you to say no"* |
+| **Harran Lecht** | To solve the crisis before the city starves | Grief has made him impatient in ways he cannot see | *"This is purely strategic"* |
+| **Cormac Ossel** | To not have to decide again | Everyone will see his uncertainty collapse | His nine-weeks-ago yes is still the same yes |
+| **Ysel Thanis** | The Inversion to succeed — all ten willing | Cormac's wavering will spread to others | She is not frightened herself |
+| **Aldric Oal** | To help — he has already chosen | That he chose wrong | He is not afraid of dying |
+
+---
+
+## Faction Overview — Three Active Threats
+
+**The Dawnless** (= Concordance of the Withdrawn)
+
+They lost their Dusk Priest in Session 3. They are regrouping. This session they do not attack directly — their seer watches the open streets. No magic cast outside the copper-pipe zone reaches them unread.
+
+- **Posture:** Watching. Not yet moving.
+- **What they know:** The party visited Ellan Voss. Ellan's warning was accurate — her street has been watched for three years.
+- **What they want:** Ellan's continued refusal. The party stopped before the Inversion can be assembled.
+- **This session:** Background threat only. They reappear in Session 5 if the Inversion looks likely to complete.
+- **GM note:** No magic in the open. If players forget: describe someone watching from a corner. They'll remember.
+
+---
+
+**The Solennite Blades** (Keseph Vyne's retainer)
+
+**Keseph Vyne** — Warden of the Amber Compact. Has been suppressing Archive documents since the investigation began in Session 1. He is not opposed to the ritual on theological grounds. He profits from the current arrangement — amber trade, supply contracts, the political structure that fifty years of twilight built. The sun returning reorganizes everything. He is protecting his position.
+
+- **Posture:** Active intercept — Scene 1.
+- **What they know:** The party is heading to the Ashring. Keseph wants them detained, not killed.
+- **What they want:** Contract fulfilled; payment received. No ideology. Professionally indifferent.
+
+---
+
+**The Reckoning** (Harran Lecht's soldiers)
+
+**Maren Drel** — Harran's second-in-command for six years. Led the Session 1 ambush at Lowmark Junction on Harran's orders. Killed by the party. Harran has said nothing about it to anyone in the Reckoning. He deals with it the way soldiers deal with things — by not dealing with it until forced.
+
+- **Posture:** Escalating — Scene 5.
+- **What they know:** The Ashring activation sequence (via Spire contact Varren Aldiss). Aldric's location. The party's names.
+- **What they want:** Control of the ritual site; a forced partial ritual on Reckoning terms before the seven-day deadline.
+
+---
+
 ## Session Opener — Finishing Session 3: Ellan's Door
 
 *Players arrive with the door ward riddle as homework. This is where the next session begins — at Ellan's door — before Scene 1 starts.*
@@ -145,6 +199,29 @@ In the contract's margin, handwritten in a different hand: *"Reckoning also mobi
 
 **What players learn:** Keseph Vyne's name, for the first time, as the person willing to use mercenaries to stop them reaching the Ashring.
 
+**Tactical notes:**
+- Formation: Two Commanders center-rear, four Blades forward in a skirmish line across the road. They are blocking, not encircling — gaps exist on both flanks.
+- Terrain: Road narrows here between an old garden wall (three-quarters cover) and the Ashring's outer marker stones (half cover). No cover in the road itself. Flanking requires moving off-road onto uneven ground.
+- The Blades move to bracket if players try to break through — two shift to close the side gaps. They have done this before.
+
+**Social option — negotiate past them:**
+Players presenting a valid Spire academic permit (obtained Session 2 or 3) and succeeding on DC 14 Persuasion force the Commander to stand down without combat. The permit creates legal ambiguity their contract didn't account for. He reviews it, says *"This changes the scope of our order,"* and withdraws. He sends a report to Keseph immediately — no fight, but Keseph knows they reached the Ashring.
+
+DC 16 Persuasion to bribe without the permit: possible, but the Blades are well-paid.
+
+**Davan Crel** — Keseph's field watcher
+
+*Want:* An accurate report. He prides himself on precise observation.
+*Fear:* That Keseph will hold him responsible if the party succeeds despite his reports.
+*Lie:* "I am only observing." He is also recording which Dawnborn appear at which stones.
+
+Appearance: Middle-aged man in a grey coat, always near a doorway or corner. Never speaks at volume. Writes constantly in a small notebook. Present at the Ashring plaza during Scene 1 and again during Scene 3 — if players fail on the stone sequence, he notes it.
+
+He will not fight. If confronted:
+- DC 14 Insight: He is frightened, not confident.
+- DC 15 Intimidation: He reveals Keseph's instruction was to "slow them, not stop them permanently" — Keseph wants options, not martyrs.
+- DC 18 Persuasion: He can be flipped. He gives Keseph's location and daily schedule in exchange for being left out of whatever comes next. He is not a true believer. He is an employee.
+
 ---
 
 ## Scene 2 — The Riddle: The Primer Stone Inscription
@@ -190,6 +267,51 @@ In the contract's margin, handwritten in a different hand: *"Reckoning also mobi
 
 ---
 
+**Maret Lonn** — Observatory archivist
+
+*Want:* To not be responsible for what someone does with the records she protects.
+*Fear:* That her caution makes her complicit in the wrong outcome.
+*Lie:* "I cannot share restricted records." She can. She decides not to.
+
+Voice: Precise and measuring. She asks clarifying questions before she does anything. She is cautious because the last people who accessed these records were the original ritual participants — and she watched that end.
+
+What she needs: a legitimate reason that falls within her interpretation of Observatory duty. The log is restricted because the ritual ended in disaster. If players can argue that accessing the sequence now prevents a worse outcome — and she believes the argument — she unlocks it. She does not need certainty. She needs to believe the players have thought harder about this than she has.
+
+If players mention the Inversion path (all ten freely consent, no deaths): she goes quiet. Long pause. Then, carefully: *"That would be different. That would be very different from what I was told to prevent."*
+
+---
+
+**Tomas Areth** — Dawnborn; has memorized the activation sequence
+
+The scene begins when players ask for the sequence. He does not give it immediately.
+
+> *"Tell me first. What are you planning to do with it?"*
+
+**If they explain the Inversion path:**
+
+Tomas goes still. Quiet for longer than is comfortable. Then:
+
+> *"Say that again. Slowly. The part where no one has to die."*
+
+He asks three questions in order. Let him ask them. Do not rush past them.
+
+1. > *"Is Ellan Voss still alive?"* [Yes] *"I didn't know that. I assumed the Dawnless had her. I assumed they'd taken her years ago."*
+
+2. > *"All ten. Not nine. Not ten minus one. Ten."* [Confirmed] *"Then who is the tenth? There was always one we couldn't locate."*
+
+3. > *"When you say 'freely' — you mean actually freely. Not 'convinced because the alternative is worse.' Not 'decided with a city starving outside their window.'"* [Confirmed] *"Then I have to think about whether I am free. Give me a moment."*
+
+He is quiet. Not performing thought — actually in it.
+
+Then: *"I'll give you the sequence. But you need to understand something. If this doesn't succeed — if it's nine voices instead of ten — the sequence is in the wrong hands. Not your hands. Anyone who comes after you could use it to force this instead of invite it. I am trusting you with the mechanism. Don't use it like one."*
+
+**If players pressure him:**
+> *"No. I know what pressure looks like. I know what it feels like from the inside. You can ask me again when you've stopped doing it."*
+
+This is not hostile. It is absolute.
+
+---
+
 ## Scene 4 — The RP Scene: Cormac's Wavering
 
 **NPC:** Cormac Ossel (with Ysel Thanis present and watching)
@@ -206,6 +328,9 @@ In the contract's margin, handwritten in a different hand: *"Reckoning also mobi
 - Sight: Amber lantern light. The long Dawnhall table. Cormac's hands around a clay cup.
 - Sound: Food sounds from the kitchen. The specific silence of a room waiting for someone to speak.
 - Smell: Warm bread. Lamp oil. Old wood.
+- Touch: The bench worn smooth where many people have sat for years. Clay cups warm from the kitchen.
+- Taste: Watered cider set out without asking. Slightly sour. Well-intentioned.
+- Air: Old timber and smoke. The warmth of a room that feeds a lot of people.
 
 **The Encounter Beat:** Cormac freezes. His mouth opens. He does not answer. He sets the cup down carefully, as if it might break. He stands up and walks out. The door does not slam. That's what makes it terrible.
 
@@ -223,6 +348,18 @@ If players do not follow up before Session 5 closes: his stone is dark at the In
 - Cormac (most honest): *"I said yes when I thought it would be over before I had time to think about it again. It kept not being over."*
 
 **How it connects forward:** Cormac is one of the ten Dawnborn. His consent status determines whether Ending B is achievable. Players who treat this scene as a logistics problem will not reach him.
+
+---
+
+**Aldric Oal** — Dawnborn; willing; already at his Primer Stone
+
+*Want:* To help. He has already chosen — his consent is the clearest of all ten.
+*Fear:* That he chose wrong. Not whether to participate, but whether his participation will be enough.
+*Lie:* "I am not afraid of dying." He is not afraid in the sense of fear. He is afraid of dying uselessly — of giving himself and having it not matter.
+
+Voice: Quiet and direct. No hedging, no softening. *"I said yes. I meant it. I mean it now."*
+
+Physical: Late fifties. Deliberate in his movements. He has been at his Primer Stone three mornings this week. He knows which stone is his.
 
 ---
 
@@ -245,6 +382,48 @@ Aldric Oal, a willing Dawnborn, is already at his Primer Stone — he came to ve
 > *"My name is Harran Lecht. You killed Maren Drel at the Lowmark Junction. I need you to know that before we proceed."*
 
 Then the ultimatum. He does not dwell on it. The professionalism is more unsettling than grief would be.
+
+**Harran's ultimatum — full text:**
+
+> *"You've found the Inversion path. Good. So have we. The difference is: you believe you can wait for consent. I have six months before this city starts eating itself. I cannot wait. Tonight we begin. If you step aside, I will give you forty-eight hours before my soldiers touch the stones. I will not give you more than that. Use the time."*
+
+He waits five seconds for an answer. Then he nods to the soldiers.
+
+---
+
+**Negotiation path — the 48-hour option:**
+
+Harran will negotiate. He will not yield. These are different things.
+
+*Trigger:* Players must show material evidence that the Inversion is progressing — not a plan, not a promise. Evidence that works: Ellan Voss present and speaking (he knows her name; he did not know she was alive), the center dais inscription glowing and readable, or Cormac's renewed consent witnessed by Reckoning soldiers.
+
+Promises without evidence: he has had those for months.
+
+| Evidence shown | Result |
+|---|---|
+| None | Tonight. Soldiers move immediately. |
+| One piece (e.g., center dais glowing) | DC 15 Persuasion: 48 hours. On fail: 24 hours. He is impressed even if unmoved. |
+| Two pieces (e.g., dais + Ellan present) | 48 hours automatically. DC 13 Persuasion for 72 hours. |
+
+Harran on successful negotiation: *"Forty-eight hours. One condition: if I don't see all ten at those stones by then, I move. Not because I want to. Because I have to."*
+
+He is not lying. He will move.
+
+---
+
+**Harran Lecht** — Commander, the Reckoning
+
+*Want:* To solve the crisis before the city collapses. Not to win. Not to be right.
+*Fear:* That grief has made him impatient in ways he cannot see clearly.
+*Lie:* "This is purely strategic." It is not. Maren Drel is always in the room.
+
+Voice: Level, unhurried. He does not raise his voice. He is most dangerous when he is quietest. He says difficult things simply, without decoration.
+
+Physical: Late forties. Military bearing without performance. Has looked tired for months. Does not disguise it.
+
+Background: Former city watch, elevated as the Reckoning expanded. Spent the first four months genuinely trying to find a peaceful path. Stopped two months ago when the starvation projections came in. He has not told the Reckoning that Maren Drel died on his orders — he told them it was enemy action. He mostly believes that version now. But not when he is alone.
+
+---
 
 **Combat ends when:** Reckoning withdraw when Harran withdraws or when 6 soldiers are downed. If reduced to half HP or surrounded on three sides, Harran stops fighting. He says, level, to the players: *"When the city collapses in six months, tell me which principle saved it."* He withdraws. He takes any soldiers who can walk. He is not done.
 
@@ -278,3 +457,11 @@ Then the ultimatum. He does not dwell on it. The professionalism is more unsettl
 | Chancellor's deadline | Seven days. Clock is running. |
 | Transfer apparatus | Intact from Session 3 / destroyed / under rebuild |
 | Petra Innes | Location known (Greenhollow) / unknown |
+
+---
+
+**What they don't know yet:**
+- Keseph Vyne has a working arrangement with the Concordance of the Withdrawn. Not loyalty — business. He knows when they move; they know when he does. They have been coordinating on "keeping the current arrangement" for two years.
+- Varren Aldiss, Harran's Spire contact, has also been feeding information to the Dawnless. Both the Reckoning and the Concordance know the Inversion inscription exists. Neither has the full activation sequence.
+- Ellan's refusal is not permanent. She said *"ask me again when they've all had the chance to choose freely."* She is waiting to be asked correctly. She has been waiting for a long time.
+- There are ten Primer Stones and eleven known Dawnborn. One stone has no assigned claimant. Someone steps back voluntarily in Session 5 so another can take their place. Who chooses to step back depends on what happened in Session 4.
