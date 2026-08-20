@@ -1146,3 +1146,225 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 
 ---
 
+## Antagonist Factions — Intelligence Tiers
+
+**Design principle:** knowing more about an enemy faction translates directly into mechanical advantages at the table. Each tier of knowledge unlocks specific options — lower DCs, new social paths, combat call-outs, or ways to cut problems off before they start.
+
+**How to run discovery:** Players don't need to ask "can I research the Reckoning?" — embed intel opportunities in scenes. A Spire archivist mentions a name. A Blade drops something when searched. A witness in the Ashfen saw which direction they came from. When players follow up, use the DCs below to gate what they learn.
+
+> **GM note:** Intel gained in one session persists. Track on the Faction Status tracker in session5.md. Players who arrive at Session 5 with Tier 3 knowledge on all three factions have a meaningfully different (and easier) final scene.
+
+---
+
+### Faction A: Concordance of the Withdrawn
+
+*Full lore in `concordance-faction-guide.md`. This section covers the mechanical advantages intel unlocks.*
+
+**Who they are (visible — no check):** An organisation of reclusive scholars and ritual theorists. They oppose the Dawn Ritual on philosophical grounds — they believe it creates a permanent dependency and the Dawnborn should have refused. Three grey-robed figures have been seen near the Archive.
+
+---
+
+<details>
+<summary><strong>Tier 1 — Common Knowledge (no check)</strong></summary>
+
+**Intel:**
+- Called "the Dawnless" by street gossip; their own name is the Concordance of the Withdrawn
+- They want refusal, not death — they believe the Dawnborn should step back voluntarily
+- They communicate through written dead-drops, not face-to-face
+
+**Advantages unlocked:**
+- Correctly identify Concordance members on sight (grey robes, copper-inlaid writing tools) rather than mistaking them for neutral scholars
+- When a Concordance member approaches, players know this is a potential conversation, not a threat — no wasted initiative rounds
+
+</details>
+
+---
+
+<details>
+<summary><strong>Tier 2 — Investigative (DC 13 History or Investigation; or DC 12 Persuasion with a Spire Scholar)</strong></summary>
+
+**Intel:**
+- Concordance field operatives never use magic outside copper-bound conduits — they carry copper pipe fragments as ritual insulators; free ambient magic is against doctrine
+- Their key asset in Varenhold is a seer named **Vara**, operating from a rented room in the Third District; she feeds them real-time information on Dawnborn movements
+- The Concordance has never killed a Dawnborn. Their methods are interception, disinformation, and witness manipulation only.
+
+**Advantages unlocked:**
+- **Route planning:** Concordance operatives avoid unshielded magic. Place magical wards or amber-light markers along a route — any path with no copper residue on door frames is probably unmonitored.
+- **Counter-intelligence:** Find Vara before Session 4 and she will share Concordance intelligence on Keseph's movements in exchange for Dawnborn access. (Vara knows Keseph met with a Blade captain twice in the Second District.)
+- **Negotiation shortcut:** Invoking the Inversion Path by name opens a truce — Concordance stands down 48 hours if players can demonstrate genuine Inversion progress. No roll if the name is spoken and the context is real.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Tier 3 — Deep Knowledge (DC 17 Arcana + Concordance texts; or Vara's full cooperation)</strong></summary>
+
+**Intel:**
+- **Ellan Voss is their real target.** The Concordance believes her refusal alone would collapse the ritual's ethical foundation — she is the oldest, the one who first said yes fifty years ago. They watch her house, not the plaza.
+- **Coverage gap:** No Concordance operatives cover the Ashfen Gate approach or the Lowmark district. Any movement through those routes is unobserved.
+- **No escalation authority:** The Concordance leadership is three days' travel away. The local cell cannot authorize violence even if they wanted to — bureaucratically incapable of escalation.
+
+**Advantages unlocked:**
+- **Ellan as decoy:** Tell Ellan about the Concordance's fixation. If she agrees, she can draw the entire local cell into a 3-hour meeting at a location the players choose — neutralized for the full Session 5 ritual window.
+- **Safe corridor:** Ashfen Gate and Lowmark routes are confirmed unmonitored. Move Dawnborn through them with zero risk of Concordance interception.
+- **Call the bluff:** If confronted by the cell, players can state outright: *"You can't authorize violence. Your leadership is three days away."* This ends any standoff with no roll. Without this knowledge: DC 15 Intimidation or Persuasion.
+
+</details>
+
+---
+
+### Faction B: Solennite Blades (Keseph Vyne)
+
+*Keseph Vyne is Spire Deputy Chancellor, theoretical division. The Blades are a private enforcement unit funded through a shell arrangement with the Merchants' Compact.*
+
+**Who they are (visible — no check):** Armed enforcers near Spire facilities and the Second District. No insignia, but matching short blades with distinctive wrapped grips. Rumour says "someone in the Spire." They have been seen shadowing Dawnborn.
+
+---
+
+<details>
+<summary><strong>Tier 1 — Common Knowledge (no check)</strong></summary>
+
+**Intel:**
+- The Blades are professionals, not ideologues — they work for payment, not cause
+- They do not operate openly in the First District — some arrangement with the City Guard keeps them out
+
+**Advantages unlocked:**
+- Players know the Blades are a hire: their loyalty is contractual and therefore potentially buyable or redirectable
+- First District is a safe haven for the Dawnborn if pursued
+
+</details>
+
+---
+
+<details>
+<summary><strong>Tier 2 — Investigative (DC 13 Investigation; or DC 12 Persuasion with a Compact contact)</strong></summary>
+
+**Intel:**
+- The contract specifies **incapacitate and deliver, not kill** — Keseph wants the Dawnborn present at a controlled ritual on his timeline, alive
+- Payment flows through a Compact factor named **Davan Crel**; Crel handles the books and knows the full arrangement
+- The Blades have **seven active members** in Varenhold: four on Dawnborn watch, three on standby at a warehouse in the Fourth District
+
+**Advantages unlocked:**
+- **Call the contract in combat:** Knowing the "incapacitate only" order allows a mid-fight Persuasion/Intimidation (DC 13): *"Your contract won't let you kill us."* Success: Blades hesitate for one round, or withdraw entirely if Keseph isn't present.
+- **Davan Crel approach:** Find and pressure Crel (want: keep the business; fear: Compact censure for illegal arms contracts; lie: "I just do the accounting"). He will reveal Keseph's schedule and planned ritual location for DC 14 Persuasion or any credible threat of Compact exposure. Without Crel's intel, approaching Keseph directly is DC 18 Persuasion. With it: DC 14.
+- **Warehouse location:** Players know where the reserve three Blades stage. Neutralize them in advance (before Session 5) and only four Blades appear on ritual night.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Tier 3 — Deep Knowledge (DC 17 Investigation + Crel's cooperation; or intercepted Blade correspondence)</strong></summary>
+
+**Intel:**
+- **Keseph's real goal:** He wants the ritual's energy *redirected*, not stopped. He believes the Dawnborn connection to the Primer Stones can power a permanent ambient-magic generator for Varenhold. He needs them alive and cooperative at a specific convergence — the same night as the players' ritual.
+- **Keseph is paying the Concordance's local cell** a small retainer to share Dawnborn movement data. The Concordance thinks he's a neutral academic. Expose this and the cell immediately withdraws from the arrangement and turns actively hostile to Keseph.
+- **Blade captain Senna Kard has doubts.** She took this job expecting guard work; she didn't sign up to harvest people. She is reachable.
+
+**Advantages unlocked:**
+- **Keseph as negotiating partner:** Armed with his real goal, offer him an alternative: the residual energy from ten consenting Dawnborn simultaneously disconnecting from the Stones during the Inversion Path may produce exactly the ambient surge he needs, without coercion. DC 15 Arcana to frame convincingly. If it lands, Keseph pulls the Blades entirely — no combat.
+- **Concordance/Keseph schism:** Expose the intel-sharing to Vara or the Concordance cell. They immediately terminate the arrangement and begin actively interfering with Blade operations for the remainder of the campaign. Two factions now working against each other.
+- **Senna Kard recruitment:** See Session 5, Scene 1. Knowing Senna's doubts drops mid-combat de-escalation from DC 15 to DC 11. Players can open with her name and a specific line: *"Senna. You know what you're being asked to do here."* She will pause before the first attack roll.
+
+</details>
+
+---
+
+### Faction C: The Reckoning (Harran Lecht)
+
+*Harran Lecht is a former Restorer field medic who lost someone to a Dawnborn decision. The Reckoning is less an organisation than a leader with followers — people who believe the Dawnborn have been choosing who lives and dies and must be made to answer for it.*
+
+**Who they are (visible — no check):** A loose group known to confront Dawnborn publicly. Two demonstrations at the Healers' Guild. Leader not yet publicly named. Escalating.
+
+---
+
+<details>
+<summary><strong>Tier 1 — Common Knowledge (no check)</strong></summary>
+
+**Intel:**
+- The Reckoning's argument is moral, not metaphysical — they believe the Dawnborn have been making life-and-death decisions without consent
+- Not uniformly violent — some members are grieving people who found community; others are prepared to act
+- Operating legally; their demonstrations have been permitted by the City Guard
+
+**Advantages unlocked:**
+- Players know this faction has a legitimate grievance — moral engagement is possible, not just force
+- The Reckoning cannot be removed without a political error; they have legal standing in Varenhold
+
+</details>
+
+---
+
+<details>
+<summary><strong>Tier 2 — Investigative (DC 12 Insight after meeting Harran; or DC 14 Investigation in the Second or Third District)</strong></summary>
+
+**Intel:**
+- The leader is **Harran Lecht**, former Restorer field medic. He lost a patient — **Maren Drel** — when a Dawnborn (Lira) prioritised another case the same night. Whether Lira's choice was medically right is ambiguous. To Harran it is settled.
+- Harran's timeline is fixed on the ritual window — he intends a confrontation at the Primer Stones on the ritual night, not before. He is waiting.
+- Most Reckoning members follow Harran personally, not a cause — they stand down if he does.
+
+**Advantages unlocked:**
+- **Name Maren Drel:** In any confrontation, players who know the name can use it: *"We know about Maren Drel."* This immediately shifts Harran from hostility to listening — no roll required. Without it: DC 16 Persuasion to open dialogue. With it: DC 12.
+- **Harran's timeline:** Knowing he waits for ritual night, players can seek him out on their own terms (at a Restorer clinic, neutral ground) — all social DCs drop by 2, and he arrives at the Stones with fewer followers.
+- **Follower fragility:** If Harran publicly stands down, his followers disperse within minutes. Players only need to deal with Harran, not the group.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Tier 3 — Deep Knowledge (DC 16 Persuasion with a Restorer who knew Harran; or DC 17 Investigation + Restorer intake records)</strong></summary>
+
+**Intel:**
+- **Maren Drel was Harran's partner**, not just his patient. He has never said this publicly. He is not seeking justice — he is grieving in the only form that feels active.
+- **Harran's private condition for peace:** He wants one of the Dawnborn to say, in front of witnesses, that Maren's death was real, that it mattered, and that the choice was hard — not that the choice was right. He will accept grief. He cannot accept indifference.
+- **Senna Kard knows Harran** — they were in the same Restorer cohort three years ago. If Senna has already de-escalated (Faction B, Tier 3), she can broker a direct meeting between Harran and the Dawnborn before ritual night. No DCs required.
+
+**Advantages unlocked:**
+- **The actual resolution:** Bring Lira to Harran. If Lira speaks Maren's name and acknowledges the cost, Harran dissolves the Reckoning. The faction ceases to exist before Session 5 begins.
+- **The 48-hour deal:** Without full resolution, knowing Harran's condition allows a partial concession: *"Give us until the ritual is done. If the Dawnborn choose freely, will you listen?"* With Maren intel: succeeds automatically. Without it: DC 16 Persuasion, and Harran has no reason to believe the guarantee.
+- **Senna bridge:** If Senna Kard has been turned (Faction B, Tier 3), she can facilitate the one conversation that ends the Reckoning with no roll at all.
+
+</details>
+
+---
+
+### Cross-Faction Synergies
+
+These advantages compound. Players who gather intel across all three factions unlock interactions the factions themselves don't know about:
+
+| Player knows | Combines with | Result |
+|---|---|---|
+| Keseph's Concordance payment (B-T3) | Concordance intel (A-T2) | Expose the arrangement; Concordance turns on Keseph |
+| Senna's doubts (B-T3) | Senna knows Harran (C-T3) | Senna brokers Harran/Lira meeting; Reckoning dissolves |
+| Harran's condition (C-T3) | Lira's consent | No combat needed at Stones; Reckoning absent |
+| Concordance Ellan fixation (A-T3) | Ellan's cooperation | Concordance cell occupied; Stones approach clear |
+| All Tier 3 across all three | Inversion Path | Session 5 ritual window is uncontested — all three factions neutralized before the first die rolls |
+
+**GM note:** The maximum-intel scenario is not "players win automatically" — it is "players spend Session 5 in an emotional finale instead of a combat one." The stakes don't disappear; they concentrate on the ritual itself and the Dawnborn choices. That is the better story.
+
+---
+
+### Intel Tracking Sheet
+
+Use this at the start of each session to record what the players know:
+
+```
+CONCORDANCE OF THE WITHDRAWN
+  Tier 1 □  Tier 2 □  Tier 3 □
+  Key unlocks: Vara location □  Coverage gap □  Ellan as decoy □
+
+SOLENNITE BLADES / KESEPH VYNE
+  Tier 1 □  Tier 2 □  Tier 3 □
+  Key unlocks: Incapacitate order □  Davan Crel □  Senna doubts □
+
+THE RECKONING / HARRAN LECHT
+  Tier 1 □  Tier 2 □  Tier 3 □
+  Key unlocks: Maren's name □  Harran's timeline □  Harran's condition □
+
+CROSS-FACTION
+  Keseph/Concordance link exposed □
+  Senna/Harran bridge active □
+  Harran/Lira meeting happened □
+```
+

@@ -4,6 +4,86 @@
 
 ---
 
+## Quick Reference Card
+
+| | |
+|---|---|
+| **Level** | 8 · ~3–4 hours · Opener + 5 scenes + Ritual Moment |
+| **Session dilemma** | When the "right" choice and the "good" choice are different, which do you make? |
+| **Session arc** | Assembly → Confrontation → Positions → Declaration → Signal |
+| **Ritual paths** | B (all 10): Inversion — sun returns, all live · A (8–9): Sacrifice — some gone · C: Transfer · D: Refusal · E: Cascade |
+
+| NPC | Want | Fear | Lie |
+|---|---|---|---|
+| **Harran Lecht** | To have done enough | That he has run out of time to stop | *"I have no choice left"* |
+| **Senna Kard** | This to end without more death | That her caution is just cowardice | She doesn't care which ending — she cares about this specific one |
+| **Ellan Voss** | To say yes at the right moment | That the right moment has already passed | *"I haven't decided yet"* |
+| **Tomas Areth** | The circle to close, nothing held back | That his memorized sequence has a flaw | He is not afraid |
+| **Ysel Thanis** | Every voice to be genuinely free | That Cormac's uncertainty is contagious | She is not frightened herself |
+
+---
+
+## Faction Status — Session 5 Start
+
+**The Dawnless (Concordance of the Withdrawn)**
+Their long game was Ellan's permanent refusal. Once she steps onto the plaza — or once word reaches them she intends to — they know they have lost the position they held for three years. They do not mount an attack. One watcher is visible at the plaza's western edge throughout the session. If players confront her: she steps back without speaking. They are done.
+
+**The Solennite Blades / Keseph Vyne**
+If exposed in Session 4 (contract recovered): Keseph is under informal Compact inquiry. No Blades appear. He does not attend the ritual. He waits to see what authority looks like in a city with a sun.
+If not exposed: 2 Blades in Scene 1 (Spy stat block). After the ritual, players may confront Keseph directly — he capitulates immediately. The sun changes his leverage position entirely. He was protecting an arrangement built for permanent twilight. That arrangement no longer exists.
+
+**The Reckoning**
+Harran is in Scenes 1 and 5. After he goes down and the ritual completes, the Reckoning fractures within hours. Some soldiers join the plaza crowd to watch the sun rise. Others leave the city without explanation. The organization dissolves into individual decisions.
+
+---
+
+## Session Opener — The Morning of the Ritual
+
+*Players have had the 48-hour window Harran negotiated (or the Chancellor's remaining days). This is what the city looks like when it arrives.*
+
+---
+
+**Setup:** Not-quite-dawn. Amber-shift — what passes for morning in Varenhold. The Ashring plaza is already filling. The Dawnborn have been arriving since before the amber came up. The activation work from Session 4 has primed the stones — they are not glowing yet, but the air around each one is warmer than it should be.
+
+**Five senses:**
+- Sight: Amber light on the stones, warmer than ambient. The plaza crowd keeping a respectful distance from the circle — not frightened, not festive. Waiting.
+- Sound: The city behind the plaza. Not celebrating. Held breath.
+- Smell: Cold stone, ozone sharper than yesterday. And bread from the Dawnhall kitchen — someone baked because they didn't know what else to do.
+- Touch: Flagstones slightly warm from the stones' ambient charge. Present. Faint.
+- Air: Stiller than usual. Even the harbor draft has stopped.
+
+---
+
+**The 11th Dawnborn — reveal this here or when players reach Scene 3:**
+
+As Dawnborn take their positions, the count comes up wrong. Ten stones. Eleven people who carry something from the original ritual. One stone has no name, no warmth.
+
+No one raises it directly. Players who count will find it.
+
+If players raise it: Edoran, at the plaza edge, quietly: *"We found the eleventh three months ago. We didn't know what to do with it."*
+
+**Who steps back** — one Dawnborn volunteers to yield their position. It is not decided in advance. It emerges from the relationships players have built.
+
+| Who | What they say | What it means |
+|---|---|---|
+| **Ellan Voss** | *"I stepped back once. I know what that costs. This time I choose it."* | She gives the permission she always withheld — and steps away. The circle closes. Most resonant if she is present and no one else moves first. |
+| **Aldric Oal** | *"I said I wanted to help. This is how."* | Yields his stone and stands in the plaza to watch. Consistent with his want and his fear about dying uselessly. |
+| **Cormac Ossel** (only if his arc fully resolved) | *"I changed my mind once. I can change it again. This kind is different."* | His renewed yes was real. Yielding it freely proves it. |
+
+**GM note:** If Ellan is present — and players have brought her to the plaza — she steps forward if no one else does. She has been waiting fifty years to act freely. This is the action.
+
+The eleventh Dawnborn takes the unmarked stone. It warms on contact.
+
+---
+
+**Varren Aldiss — optional before Scene 1:**
+
+Players who investigate Session 4's revealed intelligence (Harran's Spire contact who was double-feeding) can expose Aldiss before combat begins. DC 14 Investigation (Tomas's journal + Spire records) or DC 16 Persuasion (direct confrontation).
+
+If exposed: Harran arrives in Scene 1 without his intelligence advantage. He doesn't know the stone positions are primed. He wastes his opening action recalibrating — no stat block change, just a narrative disadvantage.
+
+---
+
 ## Scene 1 — Opening Combat: The Last Stand
 
 **Five senses:** Ozone, sharp and electrical — the Primer Stones have been building charge since dawn. Stone underfoot, still faintly warm from last night. The sound of the Reckoning in formation across the plaza, boots on flagstone, nothing else. Amber light on every post, the same amber it has always been. No wind.
@@ -27,6 +107,26 @@
 **Combat ends when:** The Reckoning lieutenant (or Senna) is downed or captured, and remaining soldiers fail a DC 13 Wisdom saving throw — on a failure, they disengage and withdraw. On a success, they fight one more round, then reassess.
 
 **What players learn:** Who is still at their stone. Who isn't. The shape of what the ritual moment will look like.
+
+**Tactical notes:**
+- The Ashring stones at 40-foot spacing create natural cover positions (half cover behind each stone). Dawnborn at their stones cannot move to cover without abandoning position.
+- Reckoning soldiers prioritize Dawnborn closest to unlit stones — they are creating gaps in the circle, not winning a fight.
+- The dais is the fixed point. Treat it as a 30 HP object, AC 15. Any player on or adjacent can interpose for one incoming attack as a reaction.
+- Signal problem is live from round 1: the circle is 40 feet across. Players who don't plan the signal during combat will scramble for it after.
+
+**Senna Kard** — Reckoning lieutenant (include only if not de-escalated in Session 3)
+
+*Want:* This to end without more death.
+*Fear:* That her caution is just cowardice with a better name.
+*Lie:* She doesn't care which ending happens — she cares about this specific one.
+
+She is not Harran. She does not believe in the mission the way he does. She has been following him for two years and spent the last two months watching him change in ways she finds frightening.
+
+Mid-combat de-escalation: DC 15 Persuasion, invoking her stated fear directly (*"The circle is complete — stopping it now just kills people for nothing"*). On success: she stops fighting and orders the soldiers nearest her to stand down. This triggers the Wisdom save for the others.
+
+She does not speak to Harran during the combat. She knows better.
+
+Voice: Quiet, careful. Fewer words than Harran. Means them more.
 
 ---
 
@@ -91,7 +191,13 @@ The letter is in Corven's handwriting. Below the blank: *No one should be forced
 
 **Setup:** At the stones, before the ritual is triggered. The circle is lit or partly lit. The plaza is quiet — the combat is over, the antagonists are gone or standing down. This is the pause before the word is spoken.
 
-**Five senses:** Gold light rising from the stones — not harsh, not blinding, more like early morning through thin curtains. The smell of warm stone and ozone, fading now. The sound of the city beyond the Ashring perimeter, distant, waiting.
+**Five senses:**
+- Sight: Gold light rising from the stones — not harsh, not blinding. More like early morning through thin curtains.
+- Sound: The city beyond the Ashring perimeter. Distant. Waiting.
+- Smell: Warm stone and ozone, fading now. Whatever was electrical about the Ashring is calming.
+- Touch: The stones themselves warm — not hot, just present. Faintly thrumming. Like a stopped bell still ringing at the edge of perception.
+- Taste: Cold air. Clean. As if something has already been decided.
+- Air: Stiller than the plaza has been in fifty years. The held-breath feeling is gone. Something released it.
 
 **The Encounter Beat — the montage:**
 
@@ -242,3 +348,29 @@ If a player tries to resolve it: "The campaign doesn't answer that. That's yours
 **What they carry forward:** The question the campaign never answered — and the certainty that they answered it anyway.
 
 **Session debrief question:** *"When the 'right' choice and the 'good' choice were different — which did your character make? Do they know?"*
+
+---
+
+**Consequence tracker:**
+
+| Element | State |
+|---------|-------|
+| Ending | B (Inversion) / A (Sacrifice) / C (Transfer) / D (Refusal) / E (Cascade) / F (Long Dark) |
+| Ellan's final act | Stepped back freely / Took her position / Did not come |
+| 11th Dawnborn problem | Resolved (who stepped back: ___) / Unresolved (circle incomplete) |
+| Cormac's stone | Lit / Cold |
+| Lira's stone | Lit / Cold |
+| Harran's final state | Witnessed the ritual / Went down fighting / Talked down by Senna |
+| Senna Kard | De-escalated mid-combat / Fought to the end / Not present |
+| Keseph Vyne | Under inquiry / Confronted after ritual / Never surfaced |
+| Varren Aldiss | Exposed / Never surfaced |
+| The activation word | *(record what the players chose)* |
+| The debrief | Done / Skipped |
+
+---
+
+**What the city will remember:**
+
+Varenhold will make saints of this. The songs will not be accurate. The people in this room — the players — are the ones who know the difference between what happened and what the songs will say happened. That is theirs to carry.
+
+Corven spent six minutes writing a blank that took fifty years to fill. The word the table chose is the word this campaign carried. Write it down. It belongs to the record.
