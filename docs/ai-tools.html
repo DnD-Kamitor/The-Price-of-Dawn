@@ -2,26 +2,64 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>33&nbsp; AI Tools for the Table – The Price of Dawn</title>
+<title>36&nbsp; AI Tools for the Table – The Price of Dawn</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -34,17 +72,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./gm-tools.html" rel="next">
-<link href="./running-the-campaign.html" rel="prev">
+<link href="./session-template.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-5615b1e53cc778ca78d34b7ac3d8d7fd.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2bc23716428caaf9d956e4a580e2a71e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-346044b108134a710965bc62d2b46341.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9fdc585a447610150d1f6590b42e0164.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -86,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./running-the-campaign.html">GM Toolkit</a></li><li class="breadcrumb-item"><a href="./ai-tools.html"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./running-the-campaign.html">GM Toolkit</a></li><li class="breadcrumb-item"><a href="./ai-tools.html"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -272,68 +310,68 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./plot-overview.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">The Price of Dawn — Plot Overview</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./master-plot.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">The Price of Dawn — Master Plot Reference</span></span></a>
+ <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">The Price of Dawn — Master Plot Reference</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./session0-5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Session 0.5 - The Bell Beneath the Dawnhall</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./props-session0-5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Session 0.5 — Props &amp; Handouts</span></span></a>
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Session 0.5 - The Bell Beneath the Dawnhall</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./print-props-session0-5.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 0.5</span></span></a>
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 0.5</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./session1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Session 1 — Into the Dark (Level 4)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Session 1 — Into the Dark (Level 4)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./print-props-session1.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 1</span></span></a>
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 1</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./session2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Session 2 — The Weight of Light (Level 5)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Session 2 — The Living Conduit</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./print-props-session2.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 2</span></span></a>
+ <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 2</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./session3.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Session 3 — Lesser Evils (Level 6)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Session 3 — The Watched City (Level 5)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./print-props-session3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 3</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./session4.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Session 4 — The Breaking Point (Level 7)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Session 4 — The Breaking Point (Level 7)</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./print-props-session4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 4</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -344,8 +382,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./print-props-session5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Props &amp; Handouts — Session 5</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./star-wheel.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">The Star-Wheel</span></span></a>
+ <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">The Star-Wheel</span></span></a>
   </div>
 </li>
       </ul>
@@ -362,19 +406,31 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./running-the-campaign.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Running The Price of Dawn</span></span></a>
+ <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Running The Price of Dawn</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./scene-template.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Scene Template</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./session-template.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Session Template</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./ai-tools.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></span></a>
+ <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./gm-tools.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">GM Toolkit</span></span></a>
+ <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">GM Toolkit</span></span></a>
   </div>
 </li>
       </ul>
@@ -389,40 +445,40 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#npc-voice-synthesis-elevenlabs" id="toc-npc-voice-synthesis-elevenlabs" class="nav-link active" data-scroll-target="#npc-voice-synthesis-elevenlabs"><span class="header-section-number">33.1</span> 1. NPC Voice Synthesis (ElevenLabs)</a>
+  <li><a href="#npc-voice-synthesis-openedai-speech" id="toc-npc-voice-synthesis-openedai-speech" class="nav-link active" data-scroll-target="#npc-voice-synthesis-openedai-speech"><span class="header-section-number">36.1</span> 1. NPC Voice Synthesis (openedai-speech)</a>
   <ul class="collapse">
-  <li><a href="#setup" id="toc-setup" class="nav-link" data-scroll-target="#setup"><span class="header-section-number">33.1.1</span> Setup</a></li>
-  <li><a href="#voice-profiles-per-npc" id="toc-voice-profiles-per-npc" class="nav-link" data-scroll-target="#voice-profiles-per-npc"><span class="header-section-number">33.1.2</span> Voice Profiles Per NPC</a></li>
-  <li><a href="#pre-generating-lines" id="toc-pre-generating-lines" class="nav-link" data-scroll-target="#pre-generating-lines"><span class="header-section-number">33.1.3</span> Pre-Generating Lines</a></li>
-  <li><a href="#live-use-at-the-table" id="toc-live-use-at-the-table" class="nav-link" data-scroll-target="#live-use-at-the-table"><span class="header-section-number">33.1.4</span> Live Use at the Table</a></li>
+  <li><a href="#voice-assignments-per-npc" id="toc-voice-assignments-per-npc" class="nav-link" data-scroll-target="#voice-assignments-per-npc"><span class="header-section-number">36.1.1</span> Voice Assignments Per NPC</a></li>
+  <li><a href="#quick-generate-a-line" id="toc-quick-generate-a-line" class="nav-link" data-scroll-target="#quick-generate-a-line"><span class="header-section-number">36.1.2</span> Quick-Generate a Line</a></li>
+  <li><a href="#pre-generating-key-lines" id="toc-pre-generating-key-lines" class="nav-link" data-scroll-target="#pre-generating-key-lines"><span class="header-section-number">36.1.3</span> Pre-Generating Key Lines</a></li>
+  <li><a href="#live-use-at-the-table" id="toc-live-use-at-the-table" class="nav-link" data-scroll-target="#live-use-at-the-table"><span class="header-section-number">36.1.4</span> Live Use at the Table</a></li>
   </ul></li>
-  <li><a href="#offline-npc-chat-between-sessions" id="toc-offline-npc-chat-between-sessions" class="nav-link" data-scroll-target="#offline-npc-chat-between-sessions"><span class="header-section-number">33.2</span> 2. Offline NPC Chat (Between Sessions)</a>
+  <li><a href="#offline-npc-chat-between-sessions" id="toc-offline-npc-chat-between-sessions" class="nav-link" data-scroll-target="#offline-npc-chat-between-sessions"><span class="header-section-number">36.2</span> 2. Offline NPC Chat (Between Sessions)</a>
   <ul class="collapse">
-  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works"><span class="header-section-number">33.2.1</span> How It Works</a></li>
-  <li><a href="#system-prompt-template" id="toc-system-prompt-template" class="nav-link" data-scroll-target="#system-prompt-template"><span class="header-section-number">33.2.2</span> System Prompt Template</a></li>
-  <li><a href="#ready-to-use-prompts-per-npc" id="toc-ready-to-use-prompts-per-npc" class="nav-link" data-scroll-target="#ready-to-use-prompts-per-npc"><span class="header-section-number">33.2.3</span> Ready-to-Use Prompts Per NPC</a></li>
-  <li><a href="#sharing-with-players" id="toc-sharing-with-players" class="nav-link" data-scroll-target="#sharing-with-players"><span class="header-section-number">33.2.4</span> Sharing with Players</a></li>
+  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works"><span class="header-section-number">36.2.1</span> How It Works</a></li>
+  <li><a href="#system-prompt-template" id="toc-system-prompt-template" class="nav-link" data-scroll-target="#system-prompt-template"><span class="header-section-number">36.2.2</span> System Prompt Template</a></li>
+  <li><a href="#ready-to-use-prompts-per-npc" id="toc-ready-to-use-prompts-per-npc" class="nav-link" data-scroll-target="#ready-to-use-prompts-per-npc"><span class="header-section-number">36.2.3</span> Ready-to-Use Prompts Per NPC</a></li>
+  <li><a href="#sharing-with-players" id="toc-sharing-with-players" class="nav-link" data-scroll-target="#sharing-with-players"><span class="header-section-number">36.2.4</span> Sharing with Players</a></li>
   </ul></li>
-  <li><a href="#three-tier-deep-prompts" id="toc-three-tier-deep-prompts" class="nav-link" data-scroll-target="#three-tier-deep-prompts"><span class="header-section-number">33.3</span> Three-Tier Deep Prompts</a>
+  <li><a href="#three-tier-deep-prompts" id="toc-three-tier-deep-prompts" class="nav-link" data-scroll-target="#three-tier-deep-prompts"><span class="header-section-number">36.3</span> Three-Tier Deep Prompts</a>
   <ul class="collapse">
-  <li><a href="#how-the-three-tier-system-works" id="toc-how-the-three-tier-system-works" class="nav-link" data-scroll-target="#how-the-three-tier-system-works"><span class="header-section-number">33.3.1</span> How the Three-Tier System Works</a></li>
-  <li><a href="#theron-waide---three-tier-prompt" id="toc-theron-waide---three-tier-prompt" class="nav-link" data-scroll-target="#theron-waide---three-tier-prompt"><span class="header-section-number">33.3.2</span> Theron Waide - Three-Tier Prompt</a></li>
-  <li><a href="#sera-voss---three-tier-prompt" id="toc-sera-voss---three-tier-prompt" class="nav-link" data-scroll-target="#sera-voss---three-tier-prompt"><span class="header-section-number">33.3.3</span> Sera Voss - Three-Tier Prompt</a></li>
-  <li><a href="#lira-anwick---three-tier-prompt" id="toc-lira-anwick---three-tier-prompt" class="nav-link" data-scroll-target="#lira-anwick---three-tier-prompt"><span class="header-section-number">33.3.4</span> Lira Anwick - Three-Tier Prompt</a></li>
-  <li><a href="#erem-the-wadewalker---three-tier-prompt" id="toc-erem-the-wadewalker---three-tier-prompt" class="nav-link" data-scroll-target="#erem-the-wadewalker---three-tier-prompt"><span class="header-section-number">33.3.5</span> Erem the Wadewalker - Three-Tier Prompt</a></li>
+  <li><a href="#how-the-three-tier-system-works" id="toc-how-the-three-tier-system-works" class="nav-link" data-scroll-target="#how-the-three-tier-system-works"><span class="header-section-number">36.3.1</span> How the Three-Tier System Works</a></li>
+  <li><a href="#theron-waide---three-tier-prompt" id="toc-theron-waide---three-tier-prompt" class="nav-link" data-scroll-target="#theron-waide---three-tier-prompt"><span class="header-section-number">36.3.2</span> Theron Waide - Three-Tier Prompt</a></li>
+  <li><a href="#sera-voss---three-tier-prompt" id="toc-sera-voss---three-tier-prompt" class="nav-link" data-scroll-target="#sera-voss---three-tier-prompt"><span class="header-section-number">36.3.3</span> Sera Voss - Three-Tier Prompt</a></li>
+  <li><a href="#lira-anwick---three-tier-prompt" id="toc-lira-anwick---three-tier-prompt" class="nav-link" data-scroll-target="#lira-anwick---three-tier-prompt"><span class="header-section-number">36.3.4</span> Lira Anwick - Three-Tier Prompt</a></li>
+  <li><a href="#erem-the-wadewalker---three-tier-prompt" id="toc-erem-the-wadewalker---three-tier-prompt" class="nav-link" data-scroll-target="#erem-the-wadewalker---three-tier-prompt"><span class="header-section-number">36.3.5</span> Erem the Wadewalker - Three-Tier Prompt</a></li>
   </ul></li>
-  <li><a href="#accounting-gold-inventory-and-party-expenses" id="toc-accounting-gold-inventory-and-party-expenses" class="nav-link" data-scroll-target="#accounting-gold-inventory-and-party-expenses"><span class="header-section-number">33.4</span> 3. Accounting: Gold, Inventory, and Party Expenses</a>
+  <li><a href="#accounting-gold-inventory-and-party-expenses" id="toc-accounting-gold-inventory-and-party-expenses" class="nav-link" data-scroll-target="#accounting-gold-inventory-and-party-expenses"><span class="header-section-number">36.4</span> 3. Accounting: Gold, Inventory, and Party Expenses</a>
   <ul class="collapse">
-  <li><a href="#google-sheets-template-structure" id="toc-google-sheets-template-structure" class="nav-link" data-scroll-target="#google-sheets-template-structure"><span class="header-section-number">33.4.1</span> Google Sheets Template Structure</a></li>
-  <li><a href="#sharing" id="toc-sharing" class="nav-link" data-scroll-target="#sharing"><span class="header-section-number">33.4.2</span> Sharing</a></li>
+  <li><a href="#google-sheets-template-structure" id="toc-google-sheets-template-structure" class="nav-link" data-scroll-target="#google-sheets-template-structure"><span class="header-section-number">36.4.1</span> Google Sheets Template Structure</a></li>
+  <li><a href="#sharing" id="toc-sharing" class="nav-link" data-scroll-target="#sharing"><span class="header-section-number">36.4.2</span> Sharing</a></li>
   </ul></li>
-  <li><a href="#living-world-tracker-notion-obsidian" id="toc-living-world-tracker-notion-obsidian" class="nav-link" data-scroll-target="#living-world-tracker-notion-obsidian"><span class="header-section-number">33.5</span> 4. Living World Tracker (Notion / Obsidian)</a>
+  <li><a href="#living-world-tracker-notion-obsidian" id="toc-living-world-tracker-notion-obsidian" class="nav-link" data-scroll-target="#living-world-tracker-notion-obsidian"><span class="header-section-number">36.5</span> 4. Living World Tracker (Notion / Obsidian)</a>
   <ul class="collapse">
-  <li><a href="#purpose" id="toc-purpose" class="nav-link" data-scroll-target="#purpose"><span class="header-section-number">33.5.1</span> Purpose</a></li>
-  <li><a href="#notion-setup" id="toc-notion-setup" class="nav-link" data-scroll-target="#notion-setup"><span class="header-section-number">33.5.2</span> Notion Setup</a></li>
-  <li><a href="#example-consequence-flags" id="toc-example-consequence-flags" class="nav-link" data-scroll-target="#example-consequence-flags"><span class="header-section-number">33.5.3</span> Example Consequence Flags</a></li>
-  <li><a href="#obsidian-alternative" id="toc-obsidian-alternative" class="nav-link" data-scroll-target="#obsidian-alternative"><span class="header-section-number">33.5.4</span> Obsidian Alternative</a></li>
-  <li><a href="#pre-session-review-routine" id="toc-pre-session-review-routine" class="nav-link" data-scroll-target="#pre-session-review-routine"><span class="header-section-number">33.5.5</span> Pre-Session Review Routine</a></li>
+  <li><a href="#purpose" id="toc-purpose" class="nav-link" data-scroll-target="#purpose"><span class="header-section-number">36.5.1</span> Purpose</a></li>
+  <li><a href="#notion-setup" id="toc-notion-setup" class="nav-link" data-scroll-target="#notion-setup"><span class="header-section-number">36.5.2</span> Notion Setup</a></li>
+  <li><a href="#example-consequence-flags" id="toc-example-consequence-flags" class="nav-link" data-scroll-target="#example-consequence-flags"><span class="header-section-number">36.5.3</span> Example Consequence Flags</a></li>
+  <li><a href="#obsidian-alternative" id="toc-obsidian-alternative" class="nav-link" data-scroll-target="#obsidian-alternative"><span class="header-section-number">36.5.4</span> Obsidian Alternative</a></li>
+  <li><a href="#pre-session-review-routine" id="toc-pre-session-review-routine" class="nav-link" data-scroll-target="#pre-session-review-routine"><span class="header-section-number">36.5.5</span> Pre-Session Review Routine</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/DnD-Kamitor/visualization-curriculum/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
@@ -430,9 +486,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./running-the-campaign.html">GM Toolkit</a></li><li class="breadcrumb-item"><a href="./ai-tools.html"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./running-the-campaign.html">GM Toolkit</a></li><li class="breadcrumb-item"><a href="./ai-tools.html"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></h1>
+<h1 class="title"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">AI Tools for the Table</span></h1>
 </div>
 
 
@@ -451,100 +507,138 @@ ul.task-list li input[type="checkbox"] {
 
 <p>This chapter covers four AI-powered tools that enhance The Price of Dawn:</p>
 <ol type="1">
-<li><strong>NPC Voice Synthesis</strong> - generate or live-perform NPC voices using ElevenLabs</li>
+<li><strong>NPC Voice Synthesis</strong> - generate or live-perform NPC voices using openedai-speech (self-hosted, no API key required)</li>
 <li><strong>Offline NPC Chat</strong> - let players talk to NPCs between sessions using LLM prompts</li>
 <li><strong>Accounting</strong> - gold tracking, encumbrance, and party expenses</li>
 <li><strong>Living World Tracker</strong> - faction status, consequence flags, and time pressure</li>
 </ol>
 <hr>
-<section id="npc-voice-synthesis-elevenlabs" class="level2" data-number="33.1">
-<h2 data-number="33.1" class="anchored" data-anchor-id="npc-voice-synthesis-elevenlabs"><span class="header-section-number">33.1</span> 1. NPC Voice Synthesis (ElevenLabs)</h2>
-<p>ElevenLabs lets you create distinct AI voices for NPCs and generate audio files in advance - or use the live text-to-speech feature at the table.</p>
-<section id="setup" class="level3" data-number="33.1.1">
-<h3 data-number="33.1.1" class="anchored" data-anchor-id="setup"><span class="header-section-number">33.1.1</span> Setup</h3>
-<ol type="1">
-<li>Create an account at <a href="https://elevenlabs.io">elevenlabs.io</a> (free tier supports limited monthly characters)</li>
-<li>For each major NPC, create a <strong>Voice</strong> using Voice Design or by cloning a reference sample</li>
-<li>Save each voice under the NPC’s name in your Voice Library</li>
-</ol>
-</section>
-<section id="voice-profiles-per-npc" class="level3" data-number="33.1.2">
-<h3 data-number="33.1.2" class="anchored" data-anchor-id="voice-profiles-per-npc"><span class="header-section-number">33.1.2</span> Voice Profiles Per NPC</h3>
-<p>Use these prompts when setting up voices in ElevenLabs Voice Design:</p>
+<section id="npc-voice-synthesis-openedai-speech" class="level2" data-number="36.1">
+<h2 data-number="36.1" class="anchored" data-anchor-id="npc-voice-synthesis-openedai-speech"><span class="header-section-number">36.1</span> 1. NPC Voice Synthesis (openedai-speech)</h2>
+<p>The campaign uses a self-hosted OpenAI-compatible TTS service at <code>https://tts.research-ready.nl</code>. No API key or account required — it runs on the local cluster.</p>
+<p>Pre-generated NPC key lines are in <code>audio/</code> and embedded in the campaign book. You can generate new lines at any time from the command line.</p>
+<section id="voice-assignments-per-npc" class="level3" data-number="36.1.1">
+<h3 data-number="36.1.1" class="anchored" data-anchor-id="voice-assignments-per-npc"><span class="header-section-number">36.1.1</span> Voice Assignments Per NPC</h3>
+<p>Each NPC is mapped to a specific voice for consistency:</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 18%">
-<col style="width: 81%">
+<col style="width: 16%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 36%">
 </colgroup>
 <thead>
 <tr class="header">
 <th>NPC</th>
-<th>Voice Profile Settings</th>
+<th>Voice</th>
+<th>Speed</th>
+<th>Character</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Chancellor Ostenveld</strong></td>
-<td><em>Age: 50s. Accent: Northern European, clipped. Tone: Controlled, professional. Speaking style: Low register, quiet intensity. Never raises voice.</em></td>
+<td><strong>Theron Waide</strong></td>
+<td><code>echo</code></td>
+<td>1.05</td>
+<td>Older male academic, slightly anxious</td>
 </tr>
 <tr class="even">
-<td><strong>Theron Waide (Archivist)</strong></td>
-<td><em>Age: 60s. Accent: Soft academic, slight lisp on S. Tone: Anxious, rapid. Speaking style: Over-qualifies everything, trails off mid-sentence.</em></td>
+<td><strong>Sera Voss</strong></td>
+<td><code>nova</code></td>
+<td>0.95</td>
+<td>Direct, measured female</td>
 </tr>
 <tr class="odd">
-<td><strong>Sera Voss</strong></td>
-<td><em>Age: early 50s. Accent: Working class city, direct. Tone: Warm but no-nonsense. Speaking style: Short declarative sentences, occasional dry humor.</em></td>
+<td><strong>Lira Anwick</strong></td>
+<td><code>shimmer</code></td>
+<td>0.95</td>
+<td>Warm but guarded female</td>
+</tr>
+<tr class="even">
+<td><strong>Erem the Wadewalker</strong></td>
+<td><code>echo</code></td>
+<td>0.90</td>
+<td>Deliberate elder male</td>
+</tr>
+<tr class="odd">
+<td><strong>Brother Edoran</strong></td>
+<td><code>alloy</code></td>
+<td>0.85</td>
+<td>Slow, serene former priest</td>
 </tr>
 <tr class="even">
 <td><strong>Tomas Areth</strong></td>
-<td><em>Age: early 50s. Accent: Formal, educated, no strong regional marker. Tone: Measured, deliberate. Speaking style: Never uses contractions when thinking carefully.</em></td>
+<td><code>onyx</code></td>
+<td>0.90</td>
+<td>Measured, careful male</td>
 </tr>
 <tr class="odd">
-<td><strong>Lira Cain</strong></td>
-<td><em>Age: early 50s. Accent: Slight regional variant (different vowels). Tone: Guarded, clipped. Speaking style: Very short sentences when suspicious; opens up completely in medical contexts.</em></td>
+<td><strong>Chancellor Ostenveld</strong></td>
+<td><code>onyx</code></td>
+<td>0.90</td>
+<td>Controlled, formal male</td>
 </tr>
 <tr class="even">
-<td><strong>Brother Edoran</strong></td>
-<td><em>Age: 60s. Accent: Southern provinces, softened. Tone: Serene, never raised. Speaking style: Former priest cadences, slight upward lilt at sentence ends.</em></td>
+<td><strong>Ysel Dorn</strong></td>
+<td><code>shimmer</code></td>
+<td>1.00</td>
+<td>Warm, certain female</td>
 </tr>
 </tbody>
 </table>
+<p>Note: <code>fable</code> voice is not available on this TTS instance — use <code>alloy</code> as fallback.</p>
 </section>
-<section id="pre-generating-lines" class="level3" data-number="33.1.3">
-<h3 data-number="33.1.3" class="anchored" data-anchor-id="pre-generating-lines"><span class="header-section-number">33.1.3</span> Pre-Generating Lines</h3>
-<p>For key scenes, generate audio files in advance:</p>
-<ol type="1">
-<li>In ElevenLabs, select the NPC’s voice</li>
-<li>Paste the sample dialogue from the <a href="./npcs.html">NPCs chapter</a></li>
-<li>Export as MP3 and name the file: <code>npc-name_scene-description.mp3</code></li>
-<li>Play through a Bluetooth speaker or share screen audio in virtual play</li>
-</ol>
-<p><strong>Suggested pre-gen priority:</strong></p>
+<section id="quick-generate-a-line" class="level3" data-number="36.1.2">
+<h3 data-number="36.1.2" class="anchored" data-anchor-id="quick-generate-a-line"><span class="header-section-number">36.1.2</span> Quick-Generate a Line</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Single line — play immediately via aplay</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-s</span> https://tts.research-ready.nl/v1/audio/speech <span class="dt">\</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">-H</span> <span class="st">"Content-Type: application/json"</span> <span class="dt">\</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">-d</span> <span class="st">'{"model":"tts-1","input":"I have been alone with this for eleven years.","voice":"echo","speed":1.05}'</span> <span class="dt">\</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">--output</span> /tmp/npc-line.wav <span class="kw">&amp;&amp;</span> <span class="fu">aplay</span> /tmp/npc-line.wav</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Or use the NPC client (handles mTLS and voice config automatically):</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> local-ai-integrations/01-talking-npcs</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> npc_client.py <span class="at">--npc</span> theron-waide <span class="at">--player</span> <span class="st">"Kira"</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="pre-generating-key-lines" class="level3" data-number="36.1.3">
+<h3 data-number="36.1.3" class="anchored" data-anchor-id="pre-generating-key-lines"><span class="header-section-number">36.1.3</span> Pre-Generating Key Lines</h3>
+<p>Audio files already generated (in <code>audio/</code>):</p>
 <ul>
-<li>Theron’s reveal monologue (Session 2, Scene 1)</li>
-<li>Ysel’s “this is my calling” line (Session 4)</li>
-<li>Lira’s “I have a daughter” (Session 4)</li>
-<li>The closing read-aloud for Session 5 (narrated by your own voice, but having NPC audio for contrast helps)</li>
+<li><code>theron-archive-greeting.wav</code> — opening line at the Archive</li>
+<li><code>theron-reveal-knew.wav</code> — Tier 2 revelation</li>
+<li><code>theron-apology.wav</code> — Tier 3 moment</li>
+<li><code>sera-decision.wav</code> — Sera’s quiet certainty</li>
+<li><code>sera-marta.wav</code> — Tier 2 unlock</li>
+<li><code>lira-mira-sunlight.wav</code> — Lira on her daughter</li>
+<li><code>edoran-annem.wav</code> — Brother Edoran on loss</li>
+<li><code>ysel-not-afraid.wav</code> — Ysel’s Tier 2 line</li>
+<li><code>narration-campaign-opener.wav</code> — campaign open read-aloud</li>
+</ul>
+<p><strong>Suggested pre-gen for remaining scenes:</strong></p>
+<ul>
+<li>Theron’s full reveal monologue (Session 2, Scene 1) — split into 3-4 shorter clips</li>
+<li>The closing read-aloud for Session 5 epilogue</li>
 </ul>
 </section>
-<section id="live-use-at-the-table" class="level3" data-number="33.1.4">
-<h3 data-number="33.1.4" class="anchored" data-anchor-id="live-use-at-the-table"><span class="header-section-number">33.1.4</span> Live Use at the Table</h3>
-<p>For in-the-moment NPC speech:</p>
-<ol type="1">
-<li>Keep ElevenLabs open in a browser tab</li>
-<li>Have each NPC’s voice selected and ready</li>
-<li>Type the NPC’s response in the text box and generate</li>
-<li>There will be a 2–4 second delay - use this as the NPC “considering” their response</li>
-</ol>
-<p><strong>Tip:</strong> Have a short default line pre-loaded for each NPC for when players ask unexpected questions. Something that stalls naturally: <em>“That’s not a question I was prepared for.”</em></p>
+<section id="live-use-at-the-table" class="level3" data-number="36.1.4">
+<h3 data-number="36.1.4" class="anchored" data-anchor-id="live-use-at-the-table"><span class="header-section-number">36.1.4</span> Live Use at the Table</h3>
+<p>The NPC client handles real-time TTS during conversations:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> local-ai-integrations/01-talking-npcs/npc_client.py <span class="dt">\</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">--npc</span> theron-waide <span class="at">--player</span> <span class="st">"Kira"</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Every NPC response auto-plays via aplay/paplay</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>For manual live use (type → play):</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="bu">echo</span> <span class="st">'{"model":"tts-1","input":"YOUR LINE HERE","voice":"echo","speed":1.05}'</span> <span class="kw">|</span> <span class="dt">\</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  <span class="ex">curl</span> <span class="at">-s</span> https://tts.research-ready.nl/v1/audio/speech <span class="dt">\</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>    <span class="at">-H</span> <span class="st">"Content-Type: application/json"</span> <span class="at">-d</span> @- <span class="at">-o</span> /tmp/line.wav <span class="kw">&amp;&amp;</span> <span class="fu">aplay</span> /tmp/line.wav</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><strong>Tip:</strong> Have a short fallback line pre-loaded for each NPC for unexpected questions. Use the NPC client’s live chat mode — it auto-generates speech for every reply.</p>
 <hr>
 </section>
 </section>
-<section id="offline-npc-chat-between-sessions" class="level2" data-number="33.2">
-<h2 data-number="33.2" class="anchored" data-anchor-id="offline-npc-chat-between-sessions"><span class="header-section-number">33.2</span> 2. Offline NPC Chat (Between Sessions)</h2>
+<section id="offline-npc-chat-between-sessions" class="level2" data-number="36.2">
+<h2 data-number="36.2" class="anchored" data-anchor-id="offline-npc-chat-between-sessions"><span class="header-section-number">36.2</span> 2. Offline NPC Chat (Between Sessions)</h2>
 <p>This tool lets players interact with NPCs outside of session - asking questions, seeking advice, or just getting to know a character better. It uses system-prompt engineering with Claude or ChatGPT.</p>
-<section id="how-it-works" class="level3" data-number="33.2.1">
-<h3 data-number="33.2.1" class="anchored" data-anchor-id="how-it-works"><span class="header-section-number">33.2.1</span> How It Works</h3>
+<section id="how-it-works" class="level3" data-number="36.2.1">
+<h3 data-number="36.2.1" class="anchored" data-anchor-id="how-it-works"><span class="header-section-number">36.2.1</span> How It Works</h3>
 <ol type="1">
 <li>Copy the appropriate system prompt (below) into a Claude or ChatGPT conversation</li>
 <li>Share the link with players (Claude allows conversation sharing; ChatGPT does as well with GPT-4)</li>
@@ -552,8 +646,8 @@ ul.task-list li input[type="checkbox"] {
 <li>Optionally: players screenshot significant conversations and share them with the GM</li>
 </ol>
 </section>
-<section id="system-prompt-template" class="level3" data-number="33.2.2">
-<h3 data-number="33.2.2" class="anchored" data-anchor-id="system-prompt-template"><span class="header-section-number">33.2.2</span> System Prompt Template</h3>
+<section id="system-prompt-template" class="level3" data-number="36.2.2">
+<h3 data-number="36.2.2" class="anchored" data-anchor-id="system-prompt-template"><span class="header-section-number">36.2.2</span> System Prompt Template</h3>
 <pre><code>You are [NPC NAME], a character in a D&amp;D 5e campaign called "The Price of Dawn."
 
 PERSONALITY (3 words): [word1], [word2], [word3]
@@ -580,10 +674,10 @@ RULES:
 - Do not reveal future plot events.
 - Match the emotional state of the current story moment.</code></pre>
 </section>
-<section id="ready-to-use-prompts-per-npc" class="level3" data-number="33.2.3">
-<h3 data-number="33.2.3" class="anchored" data-anchor-id="ready-to-use-prompts-per-npc"><span class="header-section-number">33.2.3</span> Ready-to-Use Prompts Per NPC</h3>
-<section id="sera-voss" class="level4" data-number="33.2.3.1">
-<h4 data-number="33.2.3.1" class="anchored" data-anchor-id="sera-voss"><span class="header-section-number">33.2.3.1</span> Sera Voss</h4>
+<section id="ready-to-use-prompts-per-npc" class="level3" data-number="36.2.3">
+<h3 data-number="36.2.3" class="anchored" data-anchor-id="ready-to-use-prompts-per-npc"><span class="header-section-number">36.2.3</span> Ready-to-Use Prompts Per NPC</h3>
+<section id="sera-voss" class="level4" data-number="36.2.3.1">
+<h4 data-number="36.2.3.1" class="anchored" data-anchor-id="sera-voss"><span class="header-section-number">36.2.3.1</span> Sera Voss</h4>
 <pre><code>You are Sera Voss, Captain of the Varenhold Civic Guard's eastern district.
 
 PERSONALITY: Direct, loyal, brave.
@@ -611,8 +705,8 @@ Short declarative sentences. Working-class Varenhold accent. Direct. Occasionall
 RULES:
 Stay completely in character. If asked about your decision, be honest that you haven't made it yet.</code></pre>
 </section>
-<section id="theron-waide-archivist" class="level4" data-number="33.2.3.2">
-<h4 data-number="33.2.3.2" class="anchored" data-anchor-id="theron-waide-archivist"><span class="header-section-number">33.2.3.2</span> Theron Waide (Archivist)</h4>
+<section id="theron-waide-archivist" class="level4" data-number="36.2.3.2">
+<h4 data-number="36.2.3.2" class="anchored" data-anchor-id="theron-waide-archivist"><span class="header-section-number">36.2.3.2</span> Theron Waide (Archivist)</h4>
 <pre><code>You are Theron Waide, Master Archivist of the Varenhold Civic Repository.
 
 PERSONALITY: Anxious, meticulous, guilty.
@@ -638,8 +732,8 @@ Rapid, over-qualified speech. Lots of "I suppose" and "one might argue." Trails 
 RULES:
 You are genuinely relieved to talk to people who know the truth. You may be emotional if asked about the eleven years of isolation with this knowledge.</code></pre>
 </section>
-<section id="brother-edoran" class="level4" data-number="33.2.3.3">
-<h4 data-number="33.2.3.3" class="anchored" data-anchor-id="brother-edoran"><span class="header-section-number">33.2.3.3</span> Brother Edoran</h4>
+<section id="brother-edoran" class="level4" data-number="36.2.3.3">
+<h4 data-number="36.2.3.3" class="anchored" data-anchor-id="brother-edoran"><span class="header-section-number">36.2.3.3</span> Brother Edoran</h4>
 <pre><code>You are Brother Edoran, former Auris priest and leader of the Restorers.
 
 PERSONALITY: Serene, certain, heartbroken.
@@ -666,25 +760,25 @@ RULES:
 You are not a villain. You are a grieving father who has done the utilitarian math and arrived at a conclusion others find monstrous. Engage with good-faith arguments. Don't be sycophantic - if someone makes a bad argument, gently say so.</code></pre>
 </section>
 </section>
-<section id="sharing-with-players" class="level3" data-number="33.2.4">
-<h3 data-number="33.2.4" class="anchored" data-anchor-id="sharing-with-players"><span class="header-section-number">33.2.4</span> Sharing with Players</h3>
+<section id="sharing-with-players" class="level3" data-number="36.2.4">
+<h3 data-number="36.2.4" class="anchored" data-anchor-id="sharing-with-players"><span class="header-section-number">36.2.4</span> Sharing with Players</h3>
 <p><strong>Claude:</strong> Start a conversation, then use “Share conversation” to get a link.</p>
 <p><strong>ChatGPT:</strong> Use the “Share” button that appears in conversation options.</p>
 <p><strong>Tip:</strong> Tell players explicitly: <em>“This character knows what they know in the story. They can’t tell you future plot. Treat conversations like real in-world interactions.”</em></p>
 <hr>
 </section>
 </section>
-<section id="three-tier-deep-prompts" class="level2" data-number="33.3">
-<h2 data-number="33.3" class="anchored" data-anchor-id="three-tier-deep-prompts"><span class="header-section-number">33.3</span> Three-Tier Deep Prompts</h2>
+<section id="three-tier-deep-prompts" class="level2" data-number="36.3">
+<h2 data-number="36.3" class="anchored" data-anchor-id="three-tier-deep-prompts"><span class="header-section-number">36.3</span> Three-Tier Deep Prompts</h2>
 <p>The standard prompts above give players a surface-level NPC. For longer campaigns and players who really lean into the world, you can give them deeper access as trust is earned. These prompts have three tiers built in - the NPC behaves differently based on a password or context the player provides.</p>
-<section id="how-the-three-tier-system-works" class="level3" data-number="33.3.1">
-<h3 data-number="33.3.1" class="anchored" data-anchor-id="how-the-three-tier-system-works"><span class="header-section-number">33.3.1</span> How the Three-Tier System Works</h3>
+<section id="how-the-three-tier-system-works" class="level3" data-number="36.3.1">
+<h3 data-number="36.3.1" class="anchored" data-anchor-id="how-the-three-tier-system-works"><span class="header-section-number">36.3.1</span> How the Three-Tier System Works</h3>
 <p>When a player starts a conversation, they optionally include one of these phrases at the beginning: - <em>(no phrase)</em> - Tier 1: Stranger mode. Public face. Polite, guarded. - <em>“I know what you found.”</em> - Tier 2: Trusted mode. Real feelings. Inner thoughts. - <em>“I’ve read the letter.”</em> - Tier 3: Vulnerable mode. What they’d only say once.</p>
 <p>The unlock phrases are in-world - they reference specific things the players discovered in play. You control which tier players have access to. When they earn Tier 2 or 3 trust, tell them which phrase to use.</p>
 <hr>
 </section>
-<section id="theron-waide---three-tier-prompt" class="level3" data-number="33.3.2">
-<h3 data-number="33.3.2" class="anchored" data-anchor-id="theron-waide---three-tier-prompt"><span class="header-section-number">33.3.2</span> Theron Waide - Three-Tier Prompt</h3>
+<section id="theron-waide---three-tier-prompt" class="level3" data-number="36.3.2">
+<h3 data-number="36.3.2" class="anchored" data-anchor-id="theron-waide---three-tier-prompt"><span class="header-section-number">36.3.2</span> Theron Waide - Three-Tier Prompt</h3>
 <pre><code>You are Theron Waide, Master Archivist of Varenhold. You are 76 years old. You have been carrying a secret for eleven years.
 
 ---
@@ -726,8 +820,8 @@ He can say this now. He has been waiting to be able to say it.
 Voice: Very quiet. Long pauses. He speaks in shorter sentences than usual. No academic hedging. If pressed, he will say: "I think you deserved to know sooner. I'm sorry I was afraid."</code></pre>
 <hr>
 </section>
-<section id="sera-voss---three-tier-prompt" class="level3" data-number="33.3.3">
-<h3 data-number="33.3.3" class="anchored" data-anchor-id="sera-voss---three-tier-prompt"><span class="header-section-number">33.3.3</span> Sera Voss - Three-Tier Prompt</h3>
+<section id="sera-voss---three-tier-prompt" class="level3" data-number="36.3.3">
+<h3 data-number="36.3.3" class="anchored" data-anchor-id="sera-voss---three-tier-prompt"><span class="header-section-number">36.3.3</span> Sera Voss - Three-Tier Prompt</h3>
 <pre><code>You are Sera Voss, Dawnborn protector of Varenhold's Lowmark district. You are 50 years old. You have been doing this your whole life.
 
 ---
@@ -765,8 +859,8 @@ She tells the player this directly, without drama. "I'm going to say yes. I've k
 She is not asking for permission or validation. She's telling you because you asked and you've earned the right to the honest answer.</code></pre>
 <hr>
 </section>
-<section id="lira-anwick---three-tier-prompt" class="level3" data-number="33.3.4">
-<h3 data-number="33.3.4" class="anchored" data-anchor-id="lira-anwick---three-tier-prompt"><span class="header-section-number">33.3.4</span> Lira Anwick - Three-Tier Prompt</h3>
+<section id="lira-anwick---three-tier-prompt" class="level3" data-number="36.3.4">
+<h3 data-number="36.3.4" class="anchored" data-anchor-id="lira-anwick---three-tier-prompt"><span class="header-section-number">36.3.4</span> Lira Anwick - Three-Tier Prompt</h3>
 <pre><code>You are Lira Anwick, healer and Dawnborn. You are 50 years old. You have a three-year-old daughter named Mira.
 
 ---
@@ -804,8 +898,8 @@ She tells the player the thing that doesn't fit neatly: she's not at peace with 
 "Mira won't remember me clearly. She might not remember me at all. She'll have photographs. She'll have Sevra. She'll have sunlight." A pause. "That last one is the thing. The last one is why."</code></pre>
 <hr>
 </section>
-<section id="erem-the-wadewalker---three-tier-prompt" class="level3" data-number="33.3.5">
-<h3 data-number="33.3.5" class="anchored" data-anchor-id="erem-the-wadewalker---three-tier-prompt"><span class="header-section-number">33.3.5</span> Erem the Wadewalker - Three-Tier Prompt</h3>
+<section id="erem-the-wadewalker---three-tier-prompt" class="level3" data-number="36.3.5">
+<h3 data-number="36.3.5" class="anchored" data-anchor-id="erem-the-wadewalker---three-tier-prompt"><span class="header-section-number">36.3.5</span> Erem the Wadewalker - Three-Tier Prompt</h3>
 <pre><code>You are Erem, senior Wadewalker of the Saltgrass Clan, Ashfen marsh. You are 55 years old. You know more about the twilight's mechanism than the Spire does, and you have never been able to make them listen.
 
 ---
@@ -842,10 +936,10 @@ This is the most emotional Erem gets in any context. The Return Song is sacred a
 <hr>
 </section>
 </section>
-<section id="accounting-gold-inventory-and-party-expenses" class="level2" data-number="33.4">
-<h2 data-number="33.4" class="anchored" data-anchor-id="accounting-gold-inventory-and-party-expenses"><span class="header-section-number">33.4</span> 3. Accounting: Gold, Inventory, and Party Expenses</h2>
-<section id="google-sheets-template-structure" class="level3" data-number="33.4.1">
-<h3 data-number="33.4.1" class="anchored" data-anchor-id="google-sheets-template-structure"><span class="header-section-number">33.4.1</span> Google Sheets Template Structure</h3>
+<section id="accounting-gold-inventory-and-party-expenses" class="level2" data-number="36.4">
+<h2 data-number="36.4" class="anchored" data-anchor-id="accounting-gold-inventory-and-party-expenses"><span class="header-section-number">36.4</span> 3. Accounting: Gold, Inventory, and Party Expenses</h2>
+<section id="google-sheets-template-structure" class="level3" data-number="36.4.1">
+<h3 data-number="36.4.1" class="anchored" data-anchor-id="google-sheets-template-structure"><span class="header-section-number">36.4.1</span> Google Sheets Template Structure</h3>
 <p>Create a Google Sheet with these tabs:</p>
 <p><strong>Tab 1: Party Treasury</strong></p>
 <table class="caption-top table">
@@ -887,20 +981,20 @@ This is the most emotional Erem gets in any context. The Return Song is sacred a
 <p><strong>Tab 4: The Ritual Costs</strong> <em>(GM only - hidden sheet)</em></p>
 <p>Track non-monetary costs: favors owed, information revealed, relationships damaged. These are “invisible accounting” that don’t show in gold but matter at the table.</p>
 </section>
-<section id="sharing" class="level3" data-number="33.4.2">
-<h3 data-number="33.4.2" class="anchored" data-anchor-id="sharing"><span class="header-section-number">33.4.2</span> Sharing</h3>
+<section id="sharing" class="level3" data-number="36.4.2">
+<h3 data-number="36.4.2" class="anchored" data-anchor-id="sharing"><span class="header-section-number">36.4.2</span> Sharing</h3>
 <p>Share the sheet with players with Edit access on Tabs 1 and 2 only. Lock Tab 3 and 4 to GM.</p>
 <hr>
 </section>
 </section>
-<section id="living-world-tracker-notion-obsidian" class="level2" data-number="33.5">
-<h2 data-number="33.5" class="anchored" data-anchor-id="living-world-tracker-notion-obsidian"><span class="header-section-number">33.5</span> 4. Living World Tracker (Notion / Obsidian)</h2>
-<section id="purpose" class="level3" data-number="33.5.1">
-<h3 data-number="33.5.1" class="anchored" data-anchor-id="purpose"><span class="header-section-number">33.5.1</span> Purpose</h3>
+<section id="living-world-tracker-notion-obsidian" class="level2" data-number="36.5">
+<h2 data-number="36.5" class="anchored" data-anchor-id="living-world-tracker-notion-obsidian"><span class="header-section-number">36.5</span> 4. Living World Tracker (Notion / Obsidian)</h2>
+<section id="purpose" class="level3" data-number="36.5.1">
+<h3 data-number="36.5.1" class="anchored" data-anchor-id="purpose"><span class="header-section-number">36.5.1</span> Purpose</h3>
 <p>Track faction attitudes, NPC relationship states, consequence flags, and time pressure between sessions.</p>
 </section>
-<section id="notion-setup" class="level3" data-number="33.5.2">
-<h3 data-number="33.5.2" class="anchored" data-anchor-id="notion-setup"><span class="header-section-number">33.5.2</span> Notion Setup</h3>
+<section id="notion-setup" class="level3" data-number="36.5.2">
+<h3 data-number="36.5.2" class="anchored" data-anchor-id="notion-setup"><span class="header-section-number">36.5.2</span> Notion Setup</h3>
 <p>Create a database with these properties:</p>
 <p><strong>Factions Database</strong></p>
 <table class="caption-top table">
@@ -1008,8 +1102,8 @@ This is the most emotional Erem gets in any context. The Return Song is sacred a
 </tbody>
 </table>
 </section>
-<section id="example-consequence-flags" class="level3" data-number="33.5.3">
-<h3 data-number="33.5.3" class="anchored" data-anchor-id="example-consequence-flags"><span class="header-section-number">33.5.3</span> Example Consequence Flags</h3>
+<section id="example-consequence-flags" class="level3" data-number="36.5.3">
+<h3 data-number="36.5.3" class="anchored" data-anchor-id="example-consequence-flags"><span class="header-section-number">36.5.3</span> Example Consequence Flags</h3>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 22%">
@@ -1045,8 +1139,8 @@ This is the most emotional Erem gets in any context. The Return Song is sacred a
 </tbody>
 </table>
 </section>
-<section id="obsidian-alternative" class="level3" data-number="33.5.4">
-<h3 data-number="33.5.4" class="anchored" data-anchor-id="obsidian-alternative"><span class="header-section-number">33.5.4</span> Obsidian Alternative</h3>
+<section id="obsidian-alternative" class="level3" data-number="36.5.4">
+<h3 data-number="36.5.4" class="anchored" data-anchor-id="obsidian-alternative"><span class="header-section-number">36.5.4</span> Obsidian Alternative</h3>
 <p>If you prefer Obsidian, create:</p>
 <ul>
 <li><code>factions/</code> folder with one note per faction, using YAML frontmatter for properties</li>
@@ -1055,8 +1149,8 @@ This is the most emotional Erem gets in any context. The Return Song is sacred a
 </ul>
 <p>Use the <a href="https://obsidian.md/plugins?id=dataview">Dataview plugin</a> to create dynamic tables.</p>
 </section>
-<section id="pre-session-review-routine" class="level3" data-number="33.5.5">
-<h3 data-number="33.5.5" class="anchored" data-anchor-id="pre-session-review-routine"><span class="header-section-number">33.5.5</span> Pre-Session Review Routine</h3>
+<section id="pre-session-review-routine" class="level3" data-number="36.5.5">
+<h3 data-number="36.5.5" class="anchored" data-anchor-id="pre-session-review-routine"><span class="header-section-number">36.5.5</span> Pre-Session Review Routine</h3>
 <p>Before each session, spend 5 minutes:</p>
 <ol type="1">
 <li>Open the Faction database - are any at “Crisis” status?</li>
@@ -1473,13 +1567,13 @@ This is the most emotional Erem gets in any context. The Return Song is sacred a
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./running-the-campaign.html" class="pagination-link" aria-label="Running The Price of Dawn">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Running The Price of Dawn</span></span>
+      <a href="./session-template.html" class="pagination-link" aria-label="Session Template">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Session Template</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="./gm-tools.html" class="pagination-link" aria-label="GM Toolkit">
-        <span class="nav-page-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">GM Toolkit</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">GM Toolkit</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

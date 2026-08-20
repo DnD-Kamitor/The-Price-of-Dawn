@@ -17,6 +17,8 @@
 
 **Secondary Objective (state before combat begins):** Capture at least one Blade alive AND recover the written contract one of them carries. The contract names Keseph Vyne as employer and references "Compact security arrangements" — the first hard evidence tying Keseph to active interference. Without it, Keseph remains a rumor. With it, players have leverage.
 
+In the contract's margin, handwritten in a different hand: *"Reckoning also mobilizing. Lecht running this himself."* This note is not Keseph's — someone is tracking both operations simultaneously and sharing intelligence between them. The players are being closed in on from two directions at once.
+
 **Enemies:**
 - Solennite Blades: 4, use Spy stats (MM p.349) with advantage on Perception and proficiency in Insight and Deception. Motivated by contract and payment, not ideology.
 - Solennite Commander: 2, use Bandit Captain stats. One carries the contract document folded inside their coat (DC 12 Perception to spot the paper's edge, or found automatically if they're captured or searched).
@@ -108,6 +110,8 @@ If players do not follow up before Session 5 closes: his stone is dark at the In
 
 ## Scene 5 — Closing Combat: Harran at the Ashring
 
+**Before the scene — environmental hint:** On the approach to the Ashring perimeter, players pass a pair of Reckoning soldiers at a checkpoint. One says to the other, low: *"Commander hasn't slept in two days."* They don't explain. Move on without drawing attention to it.
+
 **Setup:** Evening. Players are at or returning to the Ashring perimeter. Commander Harran Lecht arrives with twelve Reckoning soldiers. He has not come to destroy the stones — he has come to claim the site and control ritual access. He knows about the Inversion inscription from his Spire contact Varren Aldiss. His calculation: if he controls the Ashring, he controls whether the Inversion happens or whether the forced version does. His ultimatum: players step aside, or the Reckoning proceeds without them.
 
 Aldric Oal, a willing Dawnborn, is already at his Primer Stone — he came to verify the activation sequence players demonstrated. The Reckoning needs Dawnborn present to begin any version of the ritual. Harran has instructed soldiers to secure Aldric first.
@@ -117,6 +121,12 @@ Aldric Oal, a willing Dawnborn, is already at his Primer Stone — he came to ve
 **Enemies:**
 - Reckoning Soldiers: 8, use Veteran stats (MM p.350).
 - Harran Lecht: 1, use Bandit Captain stats plus 2 additional attacks per multiattack, plus once per combat (recharge 5-6): Inspiring Shout — all Reckoning allies within 30 feet regain 10 HP.
+
+**Harran's opening line (before initiative, before the ultimatum):** He does not open with politics. He opens with this — level, unhurried, looking directly at the party:
+
+> *"My name is Harran Lecht. You killed Maren Drel at the Lowmark Junction. I need you to know that before we proceed."*
+
+Then the ultimatum. He does not dwell on it. The professionalism is more unsettling than grief would be.
 
 **Combat ends when:** Reckoning withdraw when Harran withdraws or when 6 soldiers are downed. If reduced to half HP or surrounded on three sides, Harran stops fighting. He says, level, to the players: *"When the city collapses in six months, tell me which principle saved it."* He withdraws. He takes any soldiers who can walk. He is not done.
 
@@ -131,6 +141,7 @@ Aldric Oal, a willing Dawnborn, is already at his Primer Stone — he came to ve
 - The Inversion path (Ending B) exists and is mechanically possible: all ten Dawnborn at their stones, unanimous genuine consent, no one dies.
 - The Inversion path requires Cormac's renewed consent, Lira's consent, Petra Innes's consent, and seven others — all of whom have not given it yet.
 - The Chancellor's seven-day deadline is now in effect.
+- Harran Lecht named Maren Drel before the fight started. He withdrew anyway. He is not done.
 
 **What they carry forward:** Cormac's cup, set down too carefully. The question of whether listening is enough.
 
