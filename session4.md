@@ -4,6 +4,124 @@
 
 ---
 
+## Session Opener — Finishing Session 3: Ellan's Door
+
+*Players arrive with the door ward riddle as homework. This is where the next session begins — at Ellan's door — before Scene 1 starts.*
+
+---
+
+**Setup:** Ashring Third Lane. House with no knocker. Stone panel beside the door frame, warm to the touch.
+
+**Five senses:**
+- *Sight:* Row of pre-darkness stone houses. One door without a knocker. No lock visible — just a carved panel.
+- *Sound:* Low irregular resonance from the stone circle nearby. Not wind. Something older.
+- *Smell:* Old stone, faintly mineral. A place that has been waiting.
+- *Touch:* Panel warm when touched. Not lamp-warm — something inside the stone.
+- *Air:* Inexplicably warmer than the lane.
+
+---
+
+**The ward mechanic:**
+
+Players will say "consent" immediately. Nothing happens. Let the silence sit.
+
+The ward reads *intention*, not vocabulary. Each player must state aloud their real reason for being here — not the mission, not the city. The actual reason.
+
+| What they say | Response |
+|---|---|
+| *"We need to speak with her"* | Cold. A task, not a reason. |
+| *"To save the city"* | Cold. A mission, not consent. |
+| *"Because I need to understand how someone says no to something this important"* | **Click.** |
+| *"I follow my companions"* | Cold. Obligation is not consent. They must find their own reason. |
+| *"I am afraid of what happens if I don't"* | **Click.** Vulnerability counts. |
+
+Anyone who cannot find a real reason stands outside. The door stays open. That is its own answer.
+
+**Hint timing:** 10 real minutes before any hint. Then Sera (if present): *"It's not asking you to say the word. It's asking you to do it."* Five more minutes: Sera steps to the panel and speaks her own reason. Click.
+
+---
+
+**Maerin's arrival:**
+
+She appears as the last player speaks their reason — coming around the corner of the lane, moving fast, alone. She takes in the door, the panel, the party. She does not explain how she found it.
+
+She steps to the panel and speaks her own reason without being invited. Not dramatic. The ward clicks.
+
+She looks at whoever is nearest: *"I know this door. I know what's inside. Let me go first."*
+
+She does not wait. She goes in.
+
+---
+
+**Ellan answers the door before they finish reading the letter in the compartment.**
+
+She is in her late sixties. Moves slowly, without assistance. Looks at them with the calm of someone who has been expecting a specific knock for a very long time.
+
+*"Theron finally sent someone. Good. Come in."*
+
+She makes tea. She watches Iza throughout — her expression is different when her eyes land on Iza versus the others. Subtle. Only players watching Ellan watch Iza will catch it.
+
+**Key lines:**
+
+> *"The ritual didn't fail because the cost was wrong. It failed because I withdrew my consent at the last moment. I was the ninth. I said no. And because I said no, it ended."*
+
+> *"The Dawnless found out I existed approximately three years ago. They have been keeping me alive because I am useful to them. If the ritual proceeds, it requires my consent. I will not give it. Not because I am afraid. Because I am the only person in this city who has seen what happens when someone changes their mind at the last second inside the circle."*
+
+> *"It was not a small thing."*
+
+**If asked "Will you say yes now?":**
+> *Long silence. Then: "Ask me again when you've found all ten of them. Ask me again when they've all had the chance to choose freely. Then ask me. Not before."*
+
+---
+
+**The Iza beat — choose one trigger before the session, tell no one else:**
+
+| Option | How it plays |
+|---|---|
+| Ellan goes still when Iza speaks | Iza's player notices before anyone else does |
+| *"Your name — how did you come to have it?"* | Direct; gives Iza's player a choice point |
+| Parting line: *"You are not an experiment. You were never an experiment."* — she looks at Iza | Gut-punch, no explanation given |
+
+---
+
+**Maerin and Sera — the confrontation (inside, while Ellan makes tea):**
+
+It does not get loud. That is what makes it real.
+
+Maerin, looking at Sera: *"Nine others. You are one. Why does it have to be you who decides first?"*
+
+Sera: *"Because someone has to."*
+
+Long pause.
+
+Maerin: *"That's not an answer."*
+
+Sera: *"It's the only answer I have."*
+
+Players can intervene. They will not resolve it. Both are right. The gap between them is not an argument — it is a fact about how the world works.
+
+- **Maerin wants:** To hear Sera say she changed her mind. She will not get it.
+- **Maerin fears:** That she is too late to be part of whatever comes next.
+- **Maerin lies:** *"I'm not asking you to say no."* She absolutely is.
+
+---
+
+**Sera's warning — as they prepare to leave:**
+
+> *"The Reckoning has been asking about you by name. Not description — name. Someone gave them your names specifically. That's not standard intelligence work."*
+
+She does not elaborate. She does not need to.
+
+**GM note:** This plants the Harran personal stake before Scene 5. Players who remember this line when Harran names Maren Drel will feel the thread connect.
+
+---
+
+**Cliffhanger:** As they leave, Ellan says — not dramatically, just factually: *"The Dawnless will know you came here. They watch this street. They have for three years."*
+
+She closes the door.
+
+---
+
 ## Scene 1 — Opening Combat: Solennite Blades
 
 **Five senses:**

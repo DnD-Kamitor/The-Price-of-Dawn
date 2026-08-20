@@ -796,41 +796,6 @@ Iza's Dawnborn-adjacent properties — whatever they are — may result from thi
 </details>
 
 <details>
-<summary>📄 Maerin — Arrival at the Door</summary>
-
-She appears as the last player speaks their reason — stepping around the corner of the lane, moving fast, alone. She takes in the door, the panel, the party. She does not explain how she found it.
-
-She steps to the panel without being invited and speaks her own reason. It is not dramatic. The ward clicks.
-
-She looks at whoever is nearest: *"I know this door. I know what's inside. Let me go first."*
-
-She does not wait for permission. She goes in.
-
----
-
-**Maerin and Sera — the confrontation (inside, while Ellan makes tea):**
-
-It does not get loud. That is what makes it real.
-
-Maerin, looking at Sera: *"Nine others. You are one. Why does it have to be you who decides first?"*
-
-Sera: *"Because someone has to."*
-
-A long pause.
-
-Maerin: *"That's not an answer."*
-
-Sera: *"It's the only answer I have."*
-
-Players can intervene. They will not resolve it. Maerin is not wrong. Sera is not wrong. The gap between them is not an argument — it is a fact about how the world works.
-
-- **Want:** To hear Sera say she changed her mind. She will not get it.
-- **Fear:** That she is too late to be part of whatever comes next.
-- **Lie:** *"I'm not asking you to say no."* She absolutely is.
-
-</details>
-
-<details>
 <summary>📄 Theron's Letter + Corven's Invocation Note</summary>
 
 **The sealed letter** (from the door panel compartment):
@@ -868,19 +833,6 @@ She closes the door.
 
 </details>
 
-<details>
-<summary>📄 Sera — The Reckoning Warning</summary>
-
-As they prepare to leave Ellan's house, Sera says quietly — not alarmed, just factual:
-
-> *"The Reckoning has been asking about you by name. Not description — name. Someone gave them your names specifically. That's not standard intelligence work."*
-
-She does not elaborate. She does not need to.
-
-**GM note:** This plants the Harran personal stake before Session 4 Scene 5. Players who remember this line when Harran names Maren Drel will feel the thread connect. Do not explain it further here — let the silence carry it.
-
-</details>
-
 </details>
 
 </div>
@@ -899,7 +851,6 @@ She does not elaborate. She does not need to.
 - The Concordance has a source inside the Archive — someone the players haven't identified.
 - SUNRISE-4 = Sera. The Concordance has tracked her with that code for months. They knew her before the beacon.
 - The cipher they decoded was always an incantation. The decoded text is the spell that opens the ritual gate.
-- The Reckoning has been asking about the party by name — not description. Someone with inside knowledge fed them specific intelligence.
 
 **What they don't know yet:**
 - Who leads the Concordance. (The brass ring with black glass — if they saw it on the Priest — is a thread.)
@@ -925,7 +876,7 @@ Wait for an answer. Don't accept a quick one.
 | Element | State |
 |---|---|
 | Sera Voss | Recovered from tannery. Alive. Still decided: yes. |
-| Maerin Voss | Present at Ellan's door. Alive. Decided: not yet. Still standing at the edge of a decision she can't make. |
+| Maerin Voss | Present at tannery. Decided: no. Still standing at the edge of a decision she can't make. |
 | Concordance seer | Active in Varenhold. Do not cast spells in open streets. |
 | Osindra / Divination Tower | Gave intelligence. Has Concordance offer. Has not refused. **Session 4 betrayal hook.** |
 | Concordance awareness | Know players visited Ellan. Mobilizing. |
