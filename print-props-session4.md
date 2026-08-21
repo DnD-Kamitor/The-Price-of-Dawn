@@ -354,77 +354,175 @@ You asked her. You didn't need the answer to be yes. That's the difference.
 
 ## Faction Intel
 
-*Player-facing. Hand out when players first make contact with or ask about a faction. No GM secrets included.*
+*Player-facing. Hand out when players first make contact with or research a faction. No GM secrets included. Each document is styled as the faction would produce it - intercepted or publicly distributed.*
 
 <details>
-<summary>The Concordance of the Withdrawn — Faction Brief</summary>
+<summary>⊥ The Concordance of the Withdrawn — Intercepted Document</summary>
 
-*Hand to players when they first encounter or research the Dawnless. This is what an educated Varenhold citizen could piece together.*
+*Hand to players when they first encounter or research the Dawnless. Framed as a recovered internal document - theological in register, operational at the edges.*
 
 ---
 
-**THE CONCORDANCE OF THE WITHDRAWN**
-*Known as "the Dawnless" on the street. They prefer their full name.*
+```
+⊥  CONCORDANCE OF THE WITHDRAWN  ⊥
+INWARD CRESCENT SERIES - CITY OPERATIONS
+FOR THE EYES OF THE UNLIT AND ABOVE
 
-**Who they are:** A three-generation organization of scholars, disaffected priests, and shadow-touched elven exiles who believe the permanent twilight is not a catastrophe but a correction. They were founded by Shadar-kai academics in the years immediately following the ritual failure, when the first amber winter turned into a second, and then a decade. They argued, publicly at first and then in private, that the sun had always been a kind of imposition. They stopped arguing publicly around thirty years ago.
+THE PASSAGE DOCTRINE
+Third Codification, Year of Continued Correction 49
 
-**What they look like:** Shadar-kai — pale grey-white skin, dark hollow eyes that are biological, not cosmetic. Silver or white hair regardless of age. They move without sound. They dress in deep grey and charcoal, never black (black is a statement; grey is already gone). No jewelry except polished obsidian. The Concordance wears its symbol inside clothing: an obsidian disc with an inward-facing crescent. You see it only if they choose to show it.
+The door has closed.
 
-**What they want:** For the sun to stay down. They believe a second attempt at the ritual — the Inversion — would be the same violation twice. They have been working for thirty years to ensure it doesn't happen. Their methods have escalated as the deadline has approached.
+What lies beyond it does not return. To pull the light back
+through would be to unmake the passage itself - an act of
+cosmic desecration that Morthis will not forgive and that
+we are bound, by oath and by understanding, to prevent.
 
-**What they'll offer:** Information about the original ritual's true mechanics. Access to records that the Amber Compact sealed. They have the deepest historical knowledge of any faction — some of it genuinely useful, some of it shaped to serve their conclusions.
+The twilight is not a wound.
+The twilight is what follows a completed passage.
+Restoring the sun would be necromancy on a cosmological scale:
+dragging a soul back from beyond the threshold.
+We do not do this. We do not permit this.
 
-**What they'll do:** They've already killed. The Dusk Priest in Session 3 was theirs. They use interrogation tools designed to break people. They operate in small cells with no central point of failure. If you want to negotiate with them, you need something they can't get themselves.
+OPERATIONAL SUMMARY
 
-**How to approach:** Through the obsidian disc symbol — leave one visible in a location where they watch. They will make contact. Be honest about what you're offering. They respect precision and they have no patience for manipulation.
+Asset ELLAN VOSS: Secured. Observed. Essential.
+Do not move her. She must be present. She must believe
+she has chosen to be present. The distinction matters.
+
+Asset SUNRISE-4 (Sera Voss): Location confirmed.
+Asset WATCHER-1: Deployed. Do not interfere with its work.
+
+Threat assessment - active investigators: ELEVATED.
+Small party. Unknown sponsorship. Dangerous in aggregate.
+Do not engage in open streets. Cell integrity above all.
+They will make mistakes. Wait for the mistakes.
+
+The Unlit do not act without Priest-level authorization.
+The Priests do not act without Unmoved authorization.
+This chain exists for a reason. Hold it.
+
+The passage is complete.
+We are the passage now.
+
+⊥  SEALED. DO NOT COPY.  ⊥
+```
+
+**On approach:** Their symbol is an obsidian disc, inward-facing crescent. Leave one visible in a location they watch. They will make contact. They respect precision. They have no patience for manipulation and a great deal of patience for everything else.
 
 </details>
 
 <details>
-<summary>The Solennite Blade Company — Faction Brief</summary>
+<summary>✿ The Flowering — Recovered Correspondence</summary>
 
-*Hand to players when they want to know who they just fought, or when they ask about the mercenary company.*
+*Hand to players when they first encounter evidence of The Flowering - a letter, a pressed flower left somewhere, a name spoken by someone who goes quiet immediately after. The Flowering does not announce itself. It arrives.*
 
 ---
 
-**THE SOLENNITE BLADE COMPANY**
-*Four-generation hobgoblin mercenary operation. Based in the Trader Quarter. Not hard to find — they don't hide.*
+```
+✿  THE FLOWERING  ✿
 
-**Who they are:** The Solennite Blades are one of the oldest mercenary companies operating in Varenhold. Founded by the Solennite family (hobgoblin, military lineage, seven documented generations of professional soldiers), the Company has served every major faction in the city at least once, and several minor ones. They do not comment on past contracts. They do not endorse causes. They show up, do the job, and leave.
+To the one who should not exist but does -
 
-**What they look like:** Hobgoblins — orange-red skin ranging from rust to burnt copper, amber-yellow eyes with slit pupils. Close-cropped black hair. Their armor is matching: black-lacquered leather with amber-colored brass clasps. The uniformity is deliberate. If you can't immediately tell who is in command, that's working as designed. Their spacing is always tactical. Even at rest, they hold position. They do not fidget.
+We have been looking for you for a long time.
+Not to harm you. We want you to understand that first.
+Not to harm you. Never to harm you.
 
-**What they believe:** Nothing, professionally. Their ancestral text, the Solennite Compact of 1204, contains seventeen pages on payment schedules and one sentence on ideology: *"We don't have one."*
+You are what love makes when love refuses to be told no.
+You are proof that the lines the world draws are not laws.
+They are suggestions. They are the world's fear,
+wearing the mask of the world's rules.
 
-**What they'll offer:** Exactly what they're paid to do. Nothing more, nothing less. They will switch contracts if the new offer supersedes the old one — this is written into their standard terms. They consider it professional, not disloyal.
+We helped someone once. A woman in this city,
+many years ago, who loved someone the world said
+she was not permitted to love - not in the way she did,
+not with the outcome she wanted.
+We showed her it was possible.
+You are the outcome.
 
-**Rates:** 200 gold minimum for a seven-day contract. They negotiate scope, not price. If you want them cheaper, they do less. Payment in advance, no exceptions.
+We have been trying to make more outcomes like you.
+We have not always succeeded.
+The ones who did not succeed are still with us.
+We do not leave them. We do not abandon what we begin.
+We tend what grows, in whatever shape it grows.
 
-**How to approach:** Walk into the Trader Quarter and ask for the Blade Company. They're not hiding. Name your mission and your budget. They will ask three questions: What do you want done? Who is at risk? What are we not allowed to do? If the answers are workable, the conversation takes ten minutes.
+You belong with us.
+Not because we need you - though we do, we will be honest,
+we need you very much - but because we are the only ones
+who will look at what you are and not look away.
+
+We are in this city.
+We have been watching you since you arrived.
+Come to us. Or simply stop walking away.
+We will find each other. We always do.
+
+With love that does not stop,
+[no signature. a pressed flower is attached.
+the petals are one too many. the center is dark.]
+```
+
+**On approach:** The Flowering does not operate through open channels. They approach through people already known to the target - a familiar face in a crowd, a gift left somewhere personal, a letter that could only have come from someone watching closely. They do not fight directly. What they send to fight is not them.
 
 </details>
 
 <details>
-<summary>The Reckoning — Faction Brief</summary>
+<summary>✦ The Restorers — Public Pamphlet</summary>
 
-*Hand to players when they encounter Reckoning soldiers or ask who Harran Lecht is.*
+*Hand to players when they first encounter Restorer literature or ask who Brother Edoran is. This is distributed openly - posted on Dawnhall boards, pressed into hands at the market.*
 
 ---
 
-**THE RECKONING**
-*No formal name on the street. They call themselves the Reckoning. Harran Lecht founded it eleven years ago.*
+```
+✦  THE RESTORERS  ✦
+A Society for the Return of Auris's Light
+Public Pamphlet, Forty-Ninth Year of the Twilight
 
-**Who they are:** Soldiers — mostly Goliath veterans, some human, a few half-orc — who fought together in the third harvest crisis and watched the city's slow collapse from the inside. Harran Lecht organized them after a supply crisis killed forty people in the Lowmark district. He told them: the city is dying, and the only thing that will save it is completing what was started fifty years ago. Eleven years later, they are still together, still convinced, and out of patience.
+WE HAVE STUDIED THE FAILURE.
 
-**What they look like:** Goliaths — stone-grey and marble-white skin marked with natural dark geometric lithic patterns, unique to each individual. They average seven to eight feet tall. Heavily scarred. Commander Lecht has a long-healed split through his right lithic marking that changed its pattern — he calls it the Reminder. Lieutenant Senna Kard is young by Goliath reckoning; her patterns are still clean.
+Not to condemn those who attempted it - may Auris
+receive Corven's soul, and may he be forgiven
+the gap between his intention and his preparation.
+We condemn nothing. We have learned everything we can.
 
-**What they believe:** The ritual must complete. They believe the Dawnborn, by carrying the ritual's anchor, implicitly accepted the responsibility to see it through. They know this argument is contested. They have chosen to act on it anyway, because the city's food supply collapses in seven days and they have run out of time for philosophy.
+We know where the error was. We know the alignment
+that was missing. We know the devotion that was insufficient
+and the sacrifice that was misunderstood and the precise moment
+where what should have been a dawn became something else.
 
-**What they want right now:** Control of the Ashring. A completed ritual, by consent if possible, by other means if not. Seven-day deadline. They are not open to delay.
+We know how to do it correctly.
 
-**What you can offer them:** A faster voluntary solution. Harran Lecht is not a monster. He is a soldier at the end of his options. If you can show him that ten willing consents can be assembled within the deadline — that the Inversion can complete without force — that changes everything. Show him something real and mean it.
+FIFTY YEARS.
+Every prayer answered with silence.
+But silence is not refusal.
+Silence is Auris waiting for us to be ready.
 
-**How to approach:** You probably don't approach them — they approach you. If you want to find Lecht first, ask at the Ashfen checkpoints. The soldiers there know his schedule. They will tell you if you give them a good reason.
+THE DAWN DOES NOT COME TO THOSE WHO STOP ASKING.
+
+Come to the Sevenday meeting.
+Auris temple, public hall. Candle-rise.
+Brother Edoran speaks.
+
+If you carry knowledge of the original ritual - any piece,
+any fragment, any record of what Corven attempted and why -
+come to Brother Edoran directly. Do not wait.
+We cannot afford to wait. The city cannot afford to wait.
+We have run out of time for doubt.
+
+We are not afraid of the cost.
+We have always known there is a cost.
+We are afraid of paying it for nothing - of letting the city
+die slowly while the answer sits undiscovered in someone's
+memory or pocket or archive, waiting to be asked for.
+
+Ask us. We will ask you.
+This is how the sun comes back.
+
+✦  FOR AURIS. FOR VARENHOLD. FOR THE DAWN.  ✦
+[Contact: Restorer Coordination Office, Highmark District.
+Ask for the Lantern-Saint. She will find you.]
+```
+
+**On approach:** Attend a Sevenday meeting. Introduce yourself. Ask questions before offering opinions. If you carry evidence that the ritual can succeed - real evidence, not theory - Brother Edoran will see you immediately. If you carry evidence that a second darkness is coming, he will want to hear that more urgently still.
 
 </details>
 

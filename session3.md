@@ -35,6 +35,20 @@ They are not evil by their own theology. They are preventing a second violation 
 
 *The invocation (spoken before operations):* "The door has closed. The passage is complete. We are the passage now."
 
+> **LOCKED GM — THE CONCORDANCE'S TRUE AGENDA**
+>
+> The public theology (prevent a second ritual violation) is believed sincerely by rank-and-file Unlit and most Dusk Priests. The Unmoved council knows the real plan. The Unmoved One - the hidden leader, a Lich of considerable age - does not want to prevent the ritual. He wants to complete it. Correctly. In his meaning of correctly.
+>
+> His theology is internally consistent: the passage has been suspended for fifty years. This is an abomination to Morthis. The correct resolution is not the sun's return - it is the final passage of the city itself, from living to undead. He intends to corrupt the Inversion at the moment of completion, feeding it death-energy instead of dawn-energy. What rises would not be the sun. The "eternal dawn" he plans is an undead dawn - permanent night, the city converted into the first great undead stronghold of a new era.
+>
+> He believes this is mercy. Every soul in Varenhold completes its passage at once, permanently, without the slow degradation of grey sickness. He is not lying to himself. This is what makes him genuinely terrifying.
+>
+> **The Lich:** Does not appear in person yet. His presence is felt through the Unmoved council, through the precision of Concordance operations, through the fact that certain things have clearly been planned for decades. The brass ring with black glass fragment on the Dusk Priest's hand (noted in Scene 3) is a Concordance leadership token - players who identify it correctly will understand they faced a mid-tier operative, not a senior one.
+>
+> **Ellan's role in his plan:** He needs her at the circle. Her consent completing the ritual is what gives it legitimacy - and what allows him to corrupt the completion at the last moment. He has kept her alive and watched for fifty years specifically for this. He does not know she has been waiting too, for her own reason. This is the collision point.
+>
+> **How to disrupt him:** The corruption requires him to be present at the ritual moment. He cannot corrupt from a distance - he must be at the Ashring when the Inversion completes. Forcing the ritual to complete before he arrives, or completing it in a location he doesn't control (the Founding Plaza contingency), removes his ability to corrupt it. He has no plan for the ritual completing without him. His fifty-year preparation assumed he would be there.
+
 ---
 
 **Theron Waide — his actual role:**

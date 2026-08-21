@@ -202,6 +202,43 @@ The public meetings show a movement that is larger and more emotionally urgent t
 
 ---
 
+## The Flowering
+
+**What they are:** A decades-old coalition of people the world calls impossible - half-breeds, interspecies couples, those born between categories, practitioners of alchemical and ritual arts that most institutions refuse to sanction. They operate in the margins of every city they inhabit. In Varenhold they have been present, quietly, for as long as the twilight. They believe biological impossibility is a category error, not a law. They have been proving this, imperfectly, for a long time.
+
+**Public reputation:** None. The Flowering does not have a public face. Most citizens of Varenhold have never heard of them. Those who have encountered them remember an unusual kindness that felt slightly wrong, or a gift they could not explain, or a meeting with someone who knew things about them they hadn't shared. The Flowering is not violent in the conventional sense. It approaches. It invites. What it sends to address problems is not itself.
+
+**Symbol:** A bloom with too many petals. The center is dark. Members may have it tattooed, embroidered, pressed into wax seal. It always looks almost right until you count.
+
+**What they look like:** No single race. The Flowering is specifically composed of those who do not fit - tieflings with unusual bloodlines, half-breeds of combinations that shouldn't produce children, those who have undergone magical alteration, genasi with mixed elemental heritage, people born from their own experiments. Leadership tends toward those most visibly impossible. They dress in layered organic colors - flower tones, earth tones, the deep red-brown of old blood in autumn leaves. They move in pairs. Always mixed-species pairs. Never alone.
+
+**What they want:** More impossible children. Proof, repeatable, that love does not stop at the lines biology draws. They believe those lines are the world's fear given the appearance of law. They have been working to disprove this for decades.
+
+**Their connection to Varenhold:** Approximately twenty years ago, a circle within The Flowering helped a woman in this city conceive a child that biology said was not possible. They used alchemical and ritual methods developed over decades of practice. They were not cruel about it. They genuinely believed they were giving her something beautiful. The Crucible took the child before The Flowering could establish contact. They have been looking for that child since.
+
+**What they don't say:** The experiments that did not succeed are still with them. They do not dispose of failed work. They keep it, tend it, study it. Some of what survived is alive in ways that make alive a complicated word. They believe all of this is love. The horror is that they are not pretending.
+
+**How to approach:** You do not approach The Flowering. It approaches you. If you want to make contact deliberately, leave a bloom with a dark center somewhere you know they watch. They will find you. Be prepared for the conversation to feel warmer than it should.
+
+<details>
+<summary>GM Only — The Flowering: True Agenda & The Ixa Connection</summary>
+
+**Their founding purpose:** Decades of work toward interspecies conception, documented and practiced. Their alchemical methods are genuinely advanced - they have succeeded more times than they have failed, though the failures are numerous and are kept in the lower levels of wherever they are currently based.
+
+**Ixa specifically:** She is their greatest success and they did not get to keep her. They know she is in Varenhold. They have known since she arrived. They have been watching, deciding how to approach. They will not use force - she is sacred to them, not a target. They will use everything else: familiarity, warmth, the language of belonging, the offer of a community that looks like her, the specific terrible gift of being told you are beautiful and necessary.
+
+**What they will not say to her, immediately:** The lower levels. The ones that didn't work. The ones that are still alive in wrong ways. The scale of what they intend to do with what she represents if she agrees to help them.
+
+**Their argument to her:** You exist because we refused to accept the world's rules. Help us make more people like you. The city completing the ritual or failing - this does not matter to us. You matter. Your existence matters. We want more of it.
+
+**The problem with their argument:** It is not entirely wrong. This is what makes it dangerous.
+
+**In combat:** The Flowering does not fight directly. Its members are not soldiers. What they send - the failed experiments, the ones that survived wrong - these are what players fight if The Flowering feels threatened. Treat as aberrations or monstrosities with organic, botanical aesthetics. Vines, petal-like structures over wrong shapes, too many limbs arranged in patterns that almost make sense.
+
+</details>
+
+---
+
 ## The Desperate
 
 ![A gathering of the Desperate movement in a Lowmark square - not a mob yet, just people who have been waiting too long and have stopped waiting quietly](images/the-desperate-lowmark.png)
