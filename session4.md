@@ -135,6 +135,10 @@ Silver-grey hair cut short and close — the kind of cut that says she stopped p
 
 *"Theron finally sent someone. Good. Come in."*
 
+**If players ask why she mentions Theron specifically:** She did not send for him. He sent for her — or rather, he sent someone she could trust to carry a message she could believe. She has not seen Theron Waide in forty years. The last time she saw him was shortly after the ritual failed, when she was still looking for someone to blame. She does not blame him anymore. She blames the math. The math was always going to come out this way.
+
+*(Players who ask what Theron did — beyond "revived Iza" — Ellan cannot tell them. She didn't know about the revival until recently. She thought her daughter died the night of the ritual, as she was told. She thought that for thirty-nine years. If players press: she goes quiet for a long time. Then: "He should be the one to tell you what he took from the Ashring to restart her heart. That is his story. Not mine." She does not say more. She does not know more. She does know that what Theron used to revive Iza was not his to use — it belonged to the ritual, to the sky, to something larger than his grief about what had gone wrong. She is not angry. She is just not the right person to explain it.)*
+
 She makes tea. She watches Iza throughout — not the way she watches the others. With the others she is assessing. With Iza, she is doing something much quieter. Something that does not have a name players will recognize.
 
 **Key lines:**

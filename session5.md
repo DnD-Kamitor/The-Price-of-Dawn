@@ -48,6 +48,35 @@ Harran is in Scenes 1 and 5. After he goes down and the ritual completes, the Re
 *Players have had the 48-hour window Harran negotiated (or the Chancellor's remaining days). This is what the city looks like when it arrives.*
 
 <details>
+<summary>📄 What the Ritual Was Actually Trying to Do</summary>
+
+**GM context — read before running this session.**
+
+Corven's plan was simple in principle and catastrophic in execution. Varenhold was already famous for its amber light. Corven believed the city's geography — crossroads of three trade routes, the specific stone composition of the Ashring, the angle of the valley — made it possible to permanently anchor the sun's warmth to the city. Not magic. Engineering. The ritual would use ten freely-consenting people born in Varenhold as living conduits: they would channel the city's ambient solar energy into the Primer Stones and fix it there permanently. A second sun, rooted in the Ashring. The amber workshops forever. The city's golden age, preserved against entropy and politics and whatever came next.
+
+When Ellan withdrew, nine consents had already begun to flow. The energy couldn't complete — but it couldn't return either. Nine had given everything. It stayed. Trapped in the stones, in the sky, in the blood of everyone born that night. Eternal twilight is Corven's ritual frozen mid-dawn: almost enough, not quite.
+
+The Inversion is not an undoing. It is a completion. Fifty years late, with the element that was always missing.
+
+**What Theron actually did:** Eleven years ago, Theron Waide found Ellan Voss's account of the stillbirth in a restricted Archive record. He located the preserved remains — the ritual's overflow energy had kept them intact in a way that shouldn't have been possible — and used Corven's technique to restart the child's heart. He told himself he was saving a life. He was also, without understanding it, borrowing a piece of the ritual's trapped light to do it.
+
+The other Dawnborn carry the ritual energy the way water is carried in a vessel. The vessel and the water are separate things. When the Inversion completes, the water returns to the sky and the vessels remain.
+
+Iza is not a vessel. When Theron used the ritual energy to revive her, the energy did not pass through her — it became her. Her heartbeat is the ritual's heartbeat. Her warmth is the trapped dawn. When the Inversion completes and the light returns to the sky, she returns with it.
+
+Theron knows this. He has known for three months. He told Edoran. He has not told anyone else. This is his guilt — not the revival, but what he understands now about what the revival was.
+
+**What Iza knows:** Edoran told her. Three months ago. She asked him directly, and he couldn't lie to her. She has had three months to make her choice. She is at the plaza this morning not because she was summoned. She decided to come.
+
+She is eleven years old and she has been alive for eleven years and she is the only person in the Ashring who has had time to fully examine what she is willing to do. She is not performing courage. She is not rushing toward anything. She is simply present, watching, waiting for the right moment — which she has understood, since Edoran told her, is not hers to create. It belongs to someone else.
+
+**What players know:** Whatever they've figured out. If they ask Edoran directly, he tells them — quietly, precisely, once. If they ask Iza directly, she tells them too. She does not soften it. She does not ask them to make it easier. If they don't ask: they may not know until after.
+
+**GM note on player agency:** If players know and still complete the ritual — if they extend a hand knowing what it costs — that is one kind of story. If players don't know and the dawn rises and then they understand — that is another. Both are valid. This is the last session. Let the table choose the version they're in.
+
+</details>
+
+<details>
 <summary>📄 Five Senses & Setup</summary>
 
 **Setup:** Not-quite-dawn. Amber-shift — what passes for morning in Varenhold. The Ashring plaza is already filling. The Dawnborn have been arriving since before the amber came up. The activation work from Session 4 has primed the stones — they are not glowing yet, but the air around each one is warmer than it should be.
@@ -72,28 +101,34 @@ No one raises it directly. Players who count will find it.
 
 If players raise it: Edoran, at the plaza edge, quietly: *"We found the eleventh three months ago. We didn't know what to do with it."*
 
-**The eleventh is Iza.** When Theron revived her at birth using Corven's ritual energy, she absorbed a trace of the original circle. She carries what the unmarked stone responds to — not as a substitute for another Dawnborn, but as the element the ritual always needed and never had. The original ten were never quite enough. They couldn't have known.
+**The eleventh is Iza.** The original ritual was designed for ten. It failed with nine. What no one knew — what Corven couldn't have known — was that the tenth's refusal was not defiance but love: Ellan withdrew because she was carrying a child, and the child was the ritual's missing piece made flesh before she had a name for it. Iza was always the eleventh. She wasn't born in time. That's all. Fifty years late. Still here.
 
 *Physical:* Eleven years old, but the word sits strangely on her. Small, quieter than eleven-year-olds usually are. Grey eyes a shade too light for her face — almost silver in strong light — and hands that are always warm. Not fever-warm. Just consistently, inexplicably warmer than the room. People who shake her hand sometimes look down at it afterward, as if checking something. She notices. She is used to it.
 
-She was dead. For a moment or for longer — the records are unclear and Theron has never specified and she has stopped asking him. She came back, and the ritual energy that revived her left its mark. Not visibly, not dramatically. Just in the quality of her presence. When she enters a room, something shifts slightly. People turn toward her without knowing why. She does not find this strange either. It has always been this way.
+She was dead. For a moment or for longer — the records are unclear and Theron has never specified exactly how long. She came back. The ritual energy that revived her did not leave its mark on her the way a burn leaves a mark or a scar leaves a mark. It left its mark by *being* her. Her warmth is the trapped dawn. Her heartbeat is the ritual's heartbeat. She has been alive for eleven years powered by a piece of unfinished daybreak.
 
-No one told her about the stone. The stone warms when she approaches it — which is how Edoran found out three months ago, and why he didn't know what to say.
+The stone warms when she approaches it. This is how Edoran found out three months ago. He told Theron. Theron told him he had already known for longer. The weight of that conversation is visible in Edoran's face if players look — the specific expression of someone who has been carrying something they cannot put down.
 
-**GM note:** If Iza's player doesn't know yet, this is the moment. Edoran looks at Iza with recognition that doesn't require explanation. The stone does the explaining. Give the player a breath before the next line. This is not a combat reveal — it is a quiet one.
-
-**Crucially — Iza is not a mechanical slot to fill.** She is the 11th element. Her stone does not activate the same way the others do. The others glow when their Dawnborn steps on them and consents. Iza's stone does something different. It waits. It is waiting for something the original ritual never provided. See: The Ritual Moment.
+**GM note:** Iza knows. She has known for three months. She is here because she decided to come. Her stone does not activate through mechanics or argument. See: The Ritual Moment. Give the player a breath before explaining anything. This is not a combat reveal.
 
 </details>
 
 <details>
 <summary>📄 Who Steps Back</summary>
 
-With eleven Dawnborn and eleven stones, the original question of "who yields" transforms. No one has to step back — the circle has room. But players who expected someone to sacrifice their position discover the opposite: the circle is *more* complete than the original ritual ever was.
+With eleven Dawnborn and eleven stones, the original question of "who yields" transforms. No one steps back. But the reason no one has to die — the reason Ending B exists at all — is because Iza does.
 
-**GM note:** This is a deliberate reversal. The campaign has been about consent, sacrifice, and the arithmetic of who gets left out. Session 5 reveals that the ritual's original failure wasn't Ellan withdrawing — it was that Iza hadn't been born yet. Ellan refused because she was carrying Iza. Iza is what made the ritual incomplete. The love that stopped the ritual is the same love that completes it. That is the entire story.
+This is the arithmetic players have been doing wrong. They thought the choice was: which nine of ten survive. The real choice is: all ten survive, and the eleventh, who was not meant to be here at all, returns to where she came from. She was borrowed. The light borrowed her. The ritual's completion is the settling of that debt — not with grief, but with consent. Hers.
 
-If Ellan is present: she recognizes this. She stands at her stone and does not step back. *"I stepped away once. I am done stepping away."* She steps on.
+**GM note:** This is the campaign's final reversal. Five sessions about consent, sacrifice, and the arithmetic of who gets left out. The last answer is: no one gets left out. Everyone who was supposed to be here is here. Iza included — who was never supposed to be here, and who is here anyway, and who gets to choose what that means.
+
+The love that stopped the ritual is the same love that completes it. Ellan refused because she was carrying Iza. Iza completes the circle because she chooses to. She is not a victim of the ritual. She is not a sacrifice demanded by the city or by Corven or by anyone. She is a person who has had three months and made a decision. That is all. That is everything.
+
+If Ellan is present: she steps onto her stone without speaking. She has been waiting fifty years to do this freely. She does not make it large. If a player is watching her face when she sees Iza standing at the 11th stone — the stone that could only exist because she once refused — it is the expression of someone for whom everything finally makes a terrible, perfect sense.
+
+*"I stepped away once. I am done stepping away."*
+
+She steps on.
 
 </details>
 
@@ -288,7 +323,13 @@ The others:
 
 Players who were in the room with Ellan during Session 4 will understand what they are seeing. Players who weren't will still feel the weight of it. The stone under Ellan's feet glows.
 
-**Iza:** She is standing at the 11th stone. Not on it. Her hands at her sides. She is watching the others — Ellan, Lira, Cormac. She has watched Ellan step on, and something crossed her face that she didn't try to hide, because she is eleven and not yet practiced at hiding the things that matter most. She has seen five sessions of what people choose under pressure. She has seen the Reckoning and the Concordance and Theron's guilt and what happens when someone decides alone. She is not yet on her stone. Her stone is still cold. Her hands are warm, the way they always are.
+**Iza:** She is standing at the 11th stone. Not on it. Her hands at her sides, warm the way they always are. She is watching the others — Ellan, Lira, Cormac. She watched Ellan step on, and something crossed her face then that she didn't hide, because she is eleven years old and not yet practiced at hiding the things that cost her most.
+
+She has had three months. She has made her choice. She is here because she decided to come, not because anyone brought her. What she is waiting for now is not permission and not argument and not someone to explain the stakes to her. She knows the stakes. She has known them since Edoran sat across from her and answered the question she asked him directly.
+
+She is waiting to see if people are worth it. She already suspects they are. She wants to be sure.
+
+Her stone is cold. Her hands are warm. She is looking at the party.
 
 *This is the moment the montage opens into. What the players do here determines everything.*
 
@@ -331,24 +372,30 @@ Give the table a moment of actual silence — ten to fifteen seconds — before 
 
 **Iza's stone — the 11th element:**
 
-Ten stones glow when their Dawnborn steps on them. Iza's stone does not work that way. It is waiting for something the original ritual was never designed to provide.
+Ten stones glow when their Dawnborn steps on them. Iza's stone is waiting for something different. Not consent — she consented three months ago, alone, in whatever internal silence an eleven-year-old inhabits when she finds out she was borrowed from something that wants to take her back. What the stone is waiting for is the thing she decided she needed to see first.
 
-Iza has been watching everything — the Concordance, the Reckoning, Harran naming Maren Drel and walking away anyway, Cormac setting down a cup too carefully, Lira saying a name to a stone. She has been shown what people do when they are afraid and powerful and certain. She has also been shown what people do when they are none of those things.
+She has watched everything. Five sessions of people making choices under pressure. She has watched Harran become less than he was. She has watched Cormac set down a cup very carefully and walk out a door and come back. She has watched Ellan Voss step onto a stone fifty years after the moment she couldn't. She has been watching to understand if people are worth what she carries. Whether returning it to the sky is a fair trade for what happens to the city. Whether the exchange is actually just.
 
-She is standing at her stone. She is not on it. She is watching the party.
+She is standing at the 11th stone. Not on it. Her hands are at her sides. Her hands are warm.
 
-**What activates Iza's stone:** A genuine human moment — not a speech, not an argument about the stakes, not someone explaining what she means to the ritual. Something small. Something real. The kind of thing that answers the question she has been carrying since she found out what she is: *Is it worth it? Are people worth this?*
+She has already decided. She is waiting for something to confirm it. Not something about the ritual. Something about people.
 
-It can be anything. It does not require a skill check. It requires a player to stop thinking about the ritual and actually see her.
+**What her stone responds to:** A genuine human moment — not an argument, not an explanation of the stakes, not a speech about what she means to the mission. The stone responds when someone sees her fully — knowing what she is, knowing what stepping on means — and does something human anyway. Something small. Something that has nothing to do with saving the city.
+
+It is not a skill check. There is no wrong answer that isn't an argument. There is no right answer that isn't just a person.
 
 | What a player does | What happens |
 |---|---|
-| Offers their hand — not to lead her to the stone, just because | She takes it. A beat of silence. She steps on. |
-| Says something true — not about the mission, just something true about her or about themselves | Her stone warms under her before she moves. She notices. She steps on. |
-| Says nothing — simply stands beside her and waits | She looks at them for a long moment. Then: *"Okay."* She steps on. |
-| Explains why she should step on, what it means for the city | Cold. She has heard this argument in many forms for five sessions. Her stone does not respond. |
+| Offers their hand — not to lead her to the stone, just because | She looks at the hand for a long moment. Then she takes it. She steps on. |
+| Says something true — not about the ritual, just something true about her or about themselves | Her stone warms before she moves. She notices. She exhales. She steps on. |
+| Says nothing — simply stands beside her and waits | She looks at them for a long time. Then, quietly: *"Okay."* She steps on. |
+| Tells her what she means to the ritual, what her stepping on will accomplish | Her stone stays cold. She has heard this. She has known this for three months. This is not what she was waiting for. |
 
-When she steps on the stone, it does not glow the same gold as the others. It goes white — briefly, startlingly white — and then settles into gold as it connects to the circle. The eleven stones form a complete ring of light for the first time in fifty years. Maybe for the first time ever.
+**If players know and act anyway:** This is the most devastating version. They know what stepping on costs her. They extend a hand knowing. She knows they know. This is not deception and it is not cowardice. It is two people acknowledging a true thing and choosing to do it together. The stone goes white.
+
+**If players don't know:** The stone goes white. The dawn rises. And then someone looks at where Iza was standing, and understands. This is a different kind of devastating. Both are honest.
+
+When she steps on the stone, it does not glow gold like the others. It goes white — briefly, startlingly white, the color of something that has been waiting a very long time — and then settles as it joins the circle. Eleven stones. A complete ring of light, for the first time. Maybe ever.
 
 The activation word can be spoken now.
 
@@ -359,13 +406,27 @@ The activation word can be spoken now.
 
 The word is spoken from the center of the dais. All eleven Dawnborn speak it simultaneously — the players hear their voices overlap across the circle. The amber light doesn't flash. It doesn't surge. It changes quality. Something in the air shifts — the particular heaviness that Varenhold has carried for fifty years lifts, the way a held breath releases. The stones go cold. The Dawnborn are still standing.
 
-Iza's stone goes cold last. She is still standing at it, palm flat against the now-dark surface. She looks up. She looks at whoever it was — whoever it was that made her step on.
+All of them.
 
-She does not say anything. She does not need to.
+And then someone notices.
 
-Sera looks at her hands. She starts laughing. She cannot explain why.
+Iza's stone goes cold last. By the time the players look toward it, it is dark. She was standing there. Her hands were warm.
 
-The sun does not rise immediately. It rises the next morning, for the first time in fifty years. The players have the night to wait with it.
+She is not there.
+
+There is no dramatic exit. No body. No visible departure. The ritual energy returned to the sky and she went with it — the way the sun returns each morning, without announcing itself, simply happening. Her stone is the only one without a person standing beside it. Her stone is the only one already cold.
+
+Sera looks at her hands. She starts laughing. She cannot explain why. She does not know why. She will not be able to explain it for days — the laughter that came before the understanding did.
+
+Players who were beside Iza — who offered their hand, who stood in silence, who said something true — have a moment to decide what they do with that. There is no correct response. There is only what they do.
+
+**Ellan Voss, if present:** She is still standing at her stone. She has not moved. If a player looks at her face: she knows. She has known since the moment she stepped on. She chose to step on anyway. This is what it looks like when someone makes the same choice twice, fifty years apart, for the same reason — because you cannot give consent for someone who has no voice yet, and Iza had a voice, and she used it.
+
+Ellan does not cry. She has been crying, in various ways, for fifty years. She is done.
+
+The sun does not rise immediately. It rises the next morning, for the first time in fifty years. The players have the night to wait with what they carry. They can spend it however they need to.
+
+In the morning, the first light is not amber. It is gold. The real kind. The kind the city forgot.
 
 </details>
 
@@ -374,11 +435,17 @@ The sun does not rise immediately. It rises the next morning, for the first time
 
 Iza did not step on her stone. She is standing beside it, watching.
 
-The willing Dawnborn complete the ritual together — ten voices, not eleven. The energy releases. The stone positions of the willing go quiet — not dramatically, not loudly, just quiet. The sky changes. The players know who is gone before anyone says it. The stones are cold.
+The willing Dawnborn complete the ritual without the 11th element. Without Iza, the energy has nowhere clean to return — it cannot invert, it can only release. The Dawnborn who consented give everything they carry. The stone positions of the willing go quiet — not dramatically, not loudly, just quiet. The sky changes. The players know who is gone before anyone says it.
 
-Iza's stone is the only one still slightly warm. She pulls her hand back from it.
+The stones are cold. The Dawnborn who consented are not standing anymore.
 
-The remaining Dawnborn are alive, standing in a circle around something that was there a moment ago and is not anymore.
+Iza's stone is the only one still slightly warm. She does not pull her hand back from it. She stands there for a long time. She understands, now, what her being here would have meant. She understands it clearly and completely and she has no one to be angry at.
+
+The sun rises the next morning. For the first time in fifty years.
+
+The remaining Dawnborn are alive. The city will recover. The sky is real again. These things are true.
+
+The other things are also true. Both fit in the morning light.
 
 </details>
 
@@ -502,8 +569,9 @@ If a player tries to resolve it: "The campaign doesn't answer that. That's yours
 |---------|-------|
 | Ending | B (Inversion) / A (Sacrifice) / C (Transfer) / D (Refusal) / E (Cascade) / F (Long Dark) |
 | Ellan's final act | Stepped onto her stone freely / Did not come |
-| Iza's stone | Lit (11th element activated) / Cold (circuit incomplete) |
-| What activated Iza's stone | *(record what the player did or said)* |
+| Iza's stone | Lit — she returned to the light / Cold — she did not step on |
+| What activated Iza's stone | *(record exactly what the player did or said — this moment belongs to the record)* |
+| Did players know what stepping on meant | Yes — they knew / No — they found out after |
 | Cormac's stone | Lit / Cold |
 | Lira's stone | Lit / Cold |
 | Harran's final state | Witnessed the ritual / Went down fighting / Talked down by Senna |
@@ -517,6 +585,8 @@ If a player tries to resolve it: "The campaign doesn't answer that. That's yours
 
 **What the city will remember:**
 
-Varenhold will make saints of this. The songs will not be accurate. The people in this room — the players — are the ones who know the difference between what happened and what the songs will say happened. That is theirs to carry.
+Varenhold will make saints of this. The songs will not be accurate. The songs will say ten people saved the city. They will not mention the eleventh. Or they will mention her as a miracle — a child touched by the ritual, who stood in the right place at the right moment. They will not say she chose. They will not say she knew. The people in this room are the ones who know what actually happened. That is theirs to carry.
 
 Corven spent six minutes writing a blank that took fifty years to fill. The word the table chose is the word this campaign carried. Write it down. It belongs to the record.
+
+Iza's hands were warm. Until they weren't.
