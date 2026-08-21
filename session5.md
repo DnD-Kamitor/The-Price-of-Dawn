@@ -62,6 +62,10 @@ No one raises it directly. Players who count will find it.
 
 If players raise it: Edoran, at the plaza edge, quietly: *"We found the eleventh three months ago. We didn't know what to do with it."*
 
+**The eleventh is Iza.** When Theron revived her at birth using Corven's ritual energy, she absorbed a trace of the original circle. She carries what the unmarked stone responds to. No one told her this. The stone warms when she approaches it — which is how Edoran found out three months ago, and why he didn't know what to say.
+
+**GM note:** If Iza's player doesn't know yet, this is the moment. Edoran looks at Iza with recognition that doesn't require explanation. The stone does the explaining.
+
 **Who steps back** — one Dawnborn volunteers to yield their position. It is not decided in advance. It emerges from the relationships players have built.
 
 | Who | What they say | What it means |
@@ -95,14 +99,14 @@ If exposed: Harran arrives in Scene 1 without his intelligence advantage. He doe
 **Secondary Objectives:**
 
 1. Keep Dawnborn at their Primer Stones. Reckoning soldiers will attempt to pull or push them away. Each Dawnborn displaced from their stone must be persuaded to return — DC 14 Persuasion, one action. Every action spent here is an action not spent on the fight.
-2. Protect the center dais. If it takes 30 or more damage, the activation inscription cracks. Inversion still possible, but requires a DC 18 Arcana check from whoever calls the signal instead of activating automatically.
+2. Protect the center dais. If it takes 75 or more damage, the activation inscription cracks. Inversion still possible, but requires a DC 18 Arcana check from whoever calls the signal instead of activating automatically.
 3. Decide how the signal reaches all ten positions. The circle is 40 feet in diameter. Shouting works — if everyone is ready and the plaza is quiet enough. If it isn't, DC 14 Performance to be heard. Players should have a plan before combat ends.
 
 **Enemies (default — adjust based on Session 4 outcomes):**
 
 - Reckoning Veterans: 4–8 (use 8 if Harran was not captured; reduce to 4 if he was). MM Veteran stat block. They are not here to kill — they are here to interrupt. They prioritize Dawnborn positions over player characters.
 - Solennite Blades: 0–2 (include only if Keseph was not fully exposed in Session 4). Use Spy stat block. They move for the dais.
-- Senna Kard (optional — include only if not de-escalated in Session 3): Bandit Captain stat block. She is not trying to stop the ritual. She is trying to stop *any* ritual, because she has stopped trusting that any version of this ends well. She can be talked down mid-combat with DC 15 Persuasion if a player invokes her stated fear directly.
+- Senna Kard (optional — include only if not de-escalated in Session 4): Bandit Captain stat block. She is not trying to stop the ritual. She is trying to stop *any* ritual, because she has stopped trusting that any version of this ends well. She can be talked down mid-combat with DC 15 Persuasion if a player invokes her stated fear directly.
 
 **Combat ends when:** The Reckoning lieutenant (or Senna) is downed or captured, and remaining soldiers fail a DC 13 Wisdom saving throw — on a failure, they disengage and withdraw. On a success, they fight one more round, then reassess.
 
@@ -111,14 +115,16 @@ If exposed: Harran arrives in Scene 1 without his intelligence advantage. He doe
 **Tactical notes:**
 - The Ashring stones at 40-foot spacing create natural cover positions (half cover behind each stone). Dawnborn at their stones cannot move to cover without abandoning position.
 - Reckoning soldiers prioritize Dawnborn closest to unlit stones — they are creating gaps in the circle, not winning a fight.
-- The dais is the fixed point. Treat it as a 30 HP object, AC 15. Any player on or adjacent can interpose for one incoming attack as a reaction.
+- The dais is the fixed point. Treat it as a 75 HP object, AC 15. Any player on or adjacent can interpose for one incoming attack as a reaction. It takes deliberate sustained focus to crack — one soldier for one round won't do it; three veterans dedicated for a full round will.
 - Signal problem is live from round 1: the circle is 40 feet across. Players who don't plan the signal during combat will scramble for it after.
 
-**Senna Kard** — Reckoning lieutenant (include only if not de-escalated in Session 3)
+**Senna Kard** — Reckoning lieutenant (include only if not de-escalated in Session 4)
 
 *Want:* This to end without more death.
 *Fear:* That her caution is just cowardice with a better name.
 *Lie:* She doesn't care which ending happens — she cares about this specific one.
+
+*Physical:* Thirties, compact. Doesn't wear rank insignia. Players who fought alongside her or against her in Session 4 Scene 5 will recognise her immediately. Players who didn't will need to read her — she's the one who isn't Harran and isn't running on conviction.
 
 She is not Harran. She does not believe in the mission the way he does. She has been following him for two years and spent the last two months watching him change in ways she finds frightening.
 
@@ -144,6 +150,8 @@ Voice: Quiet, careful. Fewer words than Harran. Means them more.
 The letter is in Corven's handwriting. Below the blank: *No one should be forced.* His signature. The date: the night of the ritual, fifty years ago. He spent six minutes writing this while dying. Players who think about what that means are doing the work.
 
 **Answer:** There is no answer written in the letter. The blank is the riddle. Players choose the word or phrase. Whatever they choose becomes the activation word — the signal that triggers the Inversion Circle. It is spoken aloud by whoever stands at the center of the dais.
+
+**If players solved the INVERT cipher prop (Session 3):** They already have a candidate: *INVERT*. The blank in Corven's letter is an invitation to examine whether they mean it — not whether it's the right vocabulary, but whether the person speaking it genuinely does. The ritual does not check vocabulary. It checks intent. A player who says *"INVERT"* because the puzzle told them to gets the amber-red pulse. A player who says it because they understand what inverting fifty years of darkness means — and accept what that costs — the stones respond.
 
 **Correct:** Any word chosen through genuine reflection, not rushed, not under duress. The stones respond when it is spoken. There is no mechanical check. The ritual knows.
 
@@ -211,13 +219,25 @@ Cormac (if his stone is lit): "I changed my mind once. This is me changing it ba
 
 Cormac (if his stone is cold): He is not there. His position is an absence.
 
-Lira (if players went to get her): She came. She is standing at her stone. She doesn't speak to the players. She speaks to the stone: "Mira will be okay." She doesn't explain who she's convincing.
+Lira (if players went to get her): She came. She is standing at her stone. She doesn't speak to the players. She speaks to the stone: *"Mira will be okay."* She doesn't explain who she's convincing.
+
+*(Mira is Lira's daughter — nine years old, currently staying with a neighbor in the Healing House district. Players who fetched Lira in Scene 3 may have seen the child: quiet, reading near the window, didn't look up. Mira is why Lira hesitated across Sessions 3 and 4. She is not the reason Lira came today. Both things are true, and Lira knows both things are true, and she says it to the stone anyway.)*
 
 Lira (if players did not go): Her stone is cold. Sera knows. She doesn't say so.
 
 Petra: She nods.
 
-The others — Aldric, Naren, Cori, Maren — each complete in their own way. Use one line per person or let them stand in silence. Both are correct.
+The others:
+
+**Aldric Oal:** Sets his palm flat on his stone and holds it there. Does not speak. He looks relieved — not at the ending, but at finally being useful for something that matters.
+
+**Naren:** A cartographer by trade; he marks things. He takes out a charcoal stick and makes a small glyph on the stone's face — the mark he uses for "confirmed location." He does not explain it. He steps on.
+
+**Cori:** Grips her stone with both hands, looks at the sky, exhales once. Nods to herself.
+
+**Sorel** *(one of the seven Dawnborn who gave consent early and have not wavered — quiet, practical, the kind of person who shows up before being asked):* She has been at her stone for twenty minutes. She is waiting for everyone else to catch up.
+
+**Ellan:** She is not at a stone — she stepped back in the opener, freely, for the first time choosing to yield rather than being forced. She stands at the plaza's edge, watching. If a player goes to her: *"I spent fifty years being the reason it couldn't happen. I'm not going to be that anymore."* She turns back to the circle. That's all.
 
 **The final beat:** Once the montage is done, ask a player — any player — out loud: "What does your character say, if anything, before the word is spoken?" Give them silence and space. This is the last meaningful moment before the ending. It belongs to the table.
 
@@ -233,7 +253,7 @@ The others — Aldric, Naren, Cori, Maren — each complete in their own way. Us
 
 **Enemies:**
 
-- Harran Lecht: Use Bandit Captain stat block, +2 to all attacks (bloodied — this is his last action). He has been running on conviction and exhaustion since Session 2. He goes down fast. The point is not the fight. The point is what he says when he goes down.
+- Harran Lecht: Use Bandit Captain stat block, +2 to all attack rolls (bloodied — desperation, not strategy). He has been running on conviction and exhaustion since Session 4 — when he named Maren Drel and walked away anyway. He goes down fast. The point is not the fight. The point is what he says when he goes down.
 - Reckoning holdouts: 4x Veteran. They stop fighting when Harran does.
 
 **Combat ends when:** Three rounds have passed and positions are set, OR when Harran is downed or captured. Whichever comes first.
@@ -270,13 +290,19 @@ The willing Dawnborn complete the ritual together. The energy releases. The ston
 
 **If Isolde's apparatus was used — Ending C (Transfer):**
 
+*(Isolde Rann: former Compact researcher, fifty years gone. Her redirect apparatus was recovered and partially rebuilt in Session 4 from the Compact's restricted archive. Players must have found and reconstructed it in Session 4 for this ending to be available. If they did not, it is unavailable.)*
+
 The apparatus hums as the energy redirects. The Dawnborn are pale, shaking, but standing. The sky at the horizon changes color — amber becoming gold. There is a 15–20% chance one stone goes cold. The GM decides before the session whether this happens. If it does: it happens quietly, without drama. The Dawnborn at that stone sits down slowly, and the others catch them.
 
 ---
 
 **If players did not speak the word — Ending D (Refusal):**
 
-The players stand in the Ashring and do not speak. The Dawnborn leave, one by one. Sera is last. She says nothing. The city will adapt, or it won't. This is a valid ending. It says some things are worth more than the sun.
+The players stand in the Ashring and do not speak. The Dawnborn leave, one by one. Sera is last.
+
+She looks at the players for a long moment. She does not argue. She does not explain. Then, quietly, without anger: *"I was ready."* She picks up her crossbow and walks out of the Ashring without looking back.
+
+The city will adapt, or it won't. This is a valid ending. It says some things are worth more than the sun.
 
 ---
 

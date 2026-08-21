@@ -197,7 +197,7 @@ Sera's 25-word response:
 <details>
 <summary>📄 Challenge Table + Consequences</summary>
 
-**Stakes:** 3 successes before 2 failures. Track failures silently — announce only what players can observe.
+**Stakes:** Modified challenge — does not end on 2 failures. Run all checks; final outcome tier is determined by the success/failure ratio when players reach Ironbell. Track failures silently — announce only what players can observe.
 
 | Roll | Skill | DC | What it represents |
 |---|---|---|---|
@@ -294,7 +294,7 @@ Approximately 40 ft × 30 ft. Low ceiling. One amber lamp — the only light sou
 
 | STR | DEX | CON | INT | WIS | CHA |
 |---|---|---|---|---|---|
-| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1) |
+| 16 (+3) | 17 (+3) | 14 (+2) | 11 (+0) | 10 (+0) | 8 (−1) |
 
 **Damage Immunities:** Poison.
 
@@ -385,7 +385,7 @@ Approximately 40 ft × 30 ft. Low ceiling. One amber lamp — the only light sou
 
 **Round 1:** Cast *Darkness* centred on the amber lamp — 15-ft radius of magical darkness. The Priest and The Returned see normally inside it. Players without Devil's Sight or Truesight cannot see into the sphere and have disadvantage on attacks against targets inside. Sera is inside the zone.
 
-*If Darkness is Counterspelled:* Spiritual Weapon + Toll the Dead. Shadow Step to a dim corner. Plan shifts to aggression.
+*If Darkness is Counterspelled:* Shadow Step to dim corner (bonus action). Toll the Dead on highest-HP visible target (action). Spiritual Weapon activates Round 2 as a bonus action — he cannot cast it and Shadow Step in the same turn. Plan shifts to aggression — he cannot be safely cornered.
 
 **Round 2:** *Hold Person* targeting Sera (WIS save DC 15). If she fails: two Returned immediately move to drag her (10 ft per round). If she succeeds: Toll the Dead on the highest-HP visible player.
 
