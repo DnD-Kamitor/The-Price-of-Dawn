@@ -11,7 +11,7 @@
 | **Level** | 7 · ~3–4 hours · Opener + 5 scenes |
 | **Session dilemma** | What do you owe to people who choose to sacrifice themselves? |
 | **Session arc** | Revelation → Confrontation → Discovery → Doubt → Ultimatum |
-| **Three factions** | Dawnless (watching), Solennite Blades (intercepting), Reckoning (seizing) |
+| **Three factions** | Concordance of the Withdrawn (corrupting the ritual), The Flowering (capturing Ixa), The Restorers (persuadable — same as Maerin Voss) |
 | **Session goal** | Collect 8 ritual cubes from the 8 living Dawnborn by earning their genuine consent |
 | **The puzzle box** | Corven's Concordance Stone — 8 slots, each cube = one Dawnborn's consent. Assembled correctly and lit: projects a dawn bird. This is the ritual activation signal. |
 
@@ -29,43 +29,64 @@
 <details>
 <summary>📖 Faction Overview — Three Active Threats</summary>
 
-**The Dawnless** (= Concordance of the Withdrawn)
+---
 
-They lost their Dusk Priest in Session 3. They are regrouping. This session they do not attack directly — their seer watches the open streets. No magic cast outside the copper-pipe zone reaches them unread.
+### 1. Concordance of the Withdrawn
 
-- **Posture:** Watching. Not yet moving.
-- **What they know:** The party visited Ellan Voss. Ellan's warning was accurate — her street has been watched for three years.
-- **What they want:** Ellan's continued refusal. The party stopped before the Inversion can be assembled.
-- **This session:** Background threat only. They reappear in Session 5 if the Inversion looks likely to complete.
-- **GM note:** No magic in the open. If players forget: describe someone watching from a corner. They'll remember.
+**Symbol:** An obsidian disc with an inward-facing crescent. Worn inside clothing. Never displayed openly.
+
+**What they say they are:** A philosophical order devoted to honouring the completed passage of Auris into the beyond. They teach that the sun's departure was not a tragedy but a cosmological event — the god completing a journey, crossing a threshold that cannot and must not be reopened. To restore sunlight would be necromancy on a divine scale: dragging a soul back from beyond death. They are the guardians of that boundary. They are the passage now.
+
+**What they actually are:** An organisation led by an ancient undead intelligence called the Unmoved One — a Lich of extraordinary age whose name has been removed from every record it could reach. The Unmoved One does not want to prevent the Inversion out of theological conviction. It wants to corrupt the Inversion: redirect the ritual's catastrophic energy to extinguish rather than restore, turning Varenhold into an eternal night-state under its dominion. The city as larder. The Dawnborn as fuel. The Concordance's rank and file genuinely believe the theology. The leadership does not.
+
+**History:** The Concordance did not exist before the Twilight. It formed in the first decade after the sun stopped — originally a genuine grief-theology, a community of people who needed a way to understand the loss that wasn't "we failed." The Unmoved One found them approximately thirty years ago. It did not announce itself. It worked slowly, through intermediaries, through a doctrine of increasing rigidity, through the careful removal of anyone who asked the wrong questions. The current leadership (the Priests of the Inward Crescent) are almost entirely in the dark about what sits above them in the chain of command. The chain is three tiers: the Unlit (street operatives, cell-based), the Priests (doctrine and operations), and the Unmoved (the Lich and its chosen agents). No Priest has met the Unmoved One directly. They receive sealed orders. They follow them.
+
+**Thirty years of activity:** Watching the Dawnborn. Tracking anyone who got too close to the Inversion's mechanics. Removing obstacles — not through violence when it could be avoided, but through bureaucracy, information suppression, rumour, strategic placement of loyal individuals in city institutions. Keseph Vyne (Warden of the Amber Compact) is not a member; he is a convenient collaborator who profits from the same permanent twilight the Concordance needs. They have a working arrangement, not loyalty.
+
+**This session:** They lost their Dusk Priest in Session 3. The Solennite Blades in Scene 1 are Concordance-contracted — not ideologically aligned, simply hired. Their seer watches the open streets. They know the party visited Ellan Voss. They are not moving yet. They are waiting for the party to do enough of the work — assembling the Dawnborn, locating the ritual sequence — before moving to corrupt rather than prevent. Stopping the party early helps nobody. Letting them get close, then redirecting, is the plan.
+
+**Keseph Vyne** (collaborator, not member) — Warden of the Amber Compact. Has suppressed Archive documents since Session 1. He profits from fifty years of twilight: amber trade monopolies, supply contracts, a political structure built entirely around permanent dark. The Concordance tolerates him because he does their suppression work for financial reasons, which is cleaner than ideological cooperation.
+- *Want:* The current arrangement to outlast anyone who would disrupt it.
+- *Fear:* The sun returns and his position is worthless overnight.
+- *Lie:* "This is a Compact security matter." It is a financial matter.
+
+**Posture this session:** Scene 1 (Solennite Blades intercept). Background observation throughout. No direct move until Session 5 when the Inversion looks likely to complete.
 
 ---
 
-**The Solennite Blades** (Keseph Vyne's retainer)
+### 2. The Flowering
 
-**Keseph Vyne** — Warden of the Amber Compact. Has been suppressing Archive documents since the investigation began in Session 1. He is not opposed to the ritual on theological grounds. He profits from the current arrangement — amber trade, supply contracts, the political structure that fifty years of twilight built. The sun returning reorganizes everything. He is protecting his position.
+**Symbol:** A bloom with one petal too many, center darker than it should be. Left somewhere visible as an invitation.
 
-*Want:* The current political arrangement to outlast anyone who might disrupt it.
-*Fear:* That when the sun returns, his position becomes worthless overnight.
-*Lie:* "This is a Compact security matter." It is not. It is a financial matter.
+**What they say they are:** A family. A refuge. The only community in Varenhold — possibly the world — that does not require you to be a category before it will look at you. They describe themselves as people who love beyond what the world permits: across species lines, across physical possibility, across the boundaries that theology and law and social disgust have drawn around what a person is allowed to be. They helped at least one such love fifty years ago, and they have been searching for what that love produced ever since. They do not frame any of this as aberration. They frame it as natural philosophy.
 
-*Appearance:* Mid-fifties. Impeccably dressed — the kind of man who adjusts his cuffs when cornered. He will not appear in person this session; he sends Blades instead. If players confront him after the ritual: he capitulates immediately. His power was built entirely for permanent twilight.
+**What they actually are:** A faction of people who began as genuine community and have calcified, over fifty years, into something much stranger. The original membership — interspecies couples, half-bloods who had no legal standing, people whose physical form fell outside classification — found each other in the early years of the Twilight, when the city's hierarchy was being reorganised and the voiceless were being systematically cut out. They genuinely helped Ellan Voss conceive Ixa. They genuinely kept that secret for fifty years. But the community has been running experiments for decades. On themselves, on willing participants, on not-entirely-willing participants. They describe this as "tending what grows in whatever shape it grows." The failures — the people whose transformations did not proceed as hoped — are still in the community. Still alive. Considerably changed.
 
-- **Posture:** Active intercept — Scene 1.
-- **What they know:** The party is heading to the Ashring. Keseph wants them detained, not killed.
-- **What they want:** Contract fulfilled; payment received. No ideology. Professionally indifferent.
+**Leader:** Known only as the Gardener. No name given, no face shown to anyone below the innermost circle. Correspondence suggests extreme age — possibly older than the Twilight itself, possibly not human, possibly not entirely singular anymore. The Gardener's theology is this: love that refuses to be bounded by physical law is the closest thing to divinity the living world produces. Ixa is proof. Ixa should be with them. Ixa should help them make more proof.
+
+**History:** Founded in the first decade of the Twilight by people who had no one else. Grew slowly, quietly, into the spaces the city left empty — the districts nobody policed, the dockside rooms nobody asked about, the communities of people who had nowhere else to go. For twenty years they were, genuinely, a refuge. Then the experimentation began. It started with willing participants trying to push the boundaries of what the Twilight's strange ambient energy allowed. It has not stopped. The Gardener believes the Twilight's energy — the same overflow that created Ixa — can be used to produce more like her. They have been trying for thirty years. Some attempts are still alive.
+
+**What they want this session:** Ixa. Not harmed — they are specific about this, earnest about this, and mean it completely. They want Ixa to come to them willingly. They will use warmth, recognition, community, the truth of what she is and where she came from. If Ixa refuses or the party intervenes: they send what they send. The failed experiments are not weapons to the Flowering. They are family members with a job to do. The distinction matters to the Flowering. It will not matter to the players in combat.
+
+**Posture this session:** Active approach — a private letter arrives for Ixa between Scenes 3 and 4. If Ixa engages or the party investigates the letter's origin, The Flowering makes a direct move. If Ixa ignores it: the move comes at the end of Scene 4, just before the Reckoning escalation. See new encounter block below.
 
 ---
 
-**The Reckoning** (Harran Lecht's soldiers)
+### 3. The Restorers
 
-**Harran Lecht** — A large man in his mid-fifties, soldier-built but starting to carry the weight of years differently. Grey at his temples, jaw set in the particular way of someone who made a choice a long time ago and has been living inside it. He moves like someone with nothing personal to lose — not because he doesn't have things he loves, but because he has decided he is willing to lose them. His grief has not made him smaller. It has made him more certain, which is more dangerous.
+**Symbol:** Two crossed lanterns, flame at both ends. Worn openly — they are not secret.
 
-**Maren Drel** — Harran's second-in-command for six years. Led the Session 1 ambush at Lowmark Junction on Harran's orders. Killed by the party. Harran has said nothing about it to anyone in the Reckoning. He deals with it the way soldiers deal with things — by not dealing with it until forced.
+**What they say they are:** A Society for the Return of Auris's Light. The organisation that has studied the ritual's failure for fifty years, identified the precise error (Ellan's withdrawal at the ninth position), determined the conditions for success, and has been waiting — with impeccable theological patience — for someone to ask for their help. They are Lawful Good. They are absolutely sure of this. They are very well-organised. They meet on Sevendays. They have a public hall.
 
-- **Posture:** Escalating — Scene 5.
-- **What they know:** The Ashring activation sequence (via Spire contact Varren Aldiss). Aldric's location. The party's names.
-- **What they want:** Control of the ritual site; a forced partial ritual on Reckoning terms before the seven-day deadline.
+**What they actually are:** Lawful Good and dangerous because of it. The Restorers are not corrupt, not infiltrated, not secretly working for someone else. They are exactly what they appear to be: a community of genuine believers who have spent fifty years building a theology around a second attempt at the ritual, convinced they have identified every point of failure and corrected for it. Their doctrine is right about most things and catastrophically wrong about one: they believe the cost of the ritual is acceptable. They have been convinced, by fifty years of study and grief and prayer, that the people who give themselves to the ritual are not dying — they are completing something. They have dressed a terrible thing in beautiful language and genuinely believe the dress.
+
+**Leader:** Brother Edoran. He has led the Sevenday meetings for eleven years. Before that he was a junior priest at the Auris temple, then a mid-tier archivist, then a man who found the Restorers after a personal loss he has never fully described and began attending their meetings and never left. He is in his late forties. He is the most genuine person in any room he enters. He is convinced beyond argument that the ritual, done correctly, with all ten Dawnborn freely consenting, will return the sun. He is not wrong. He is wrong about what "freely consenting" looks like under the theology he has built around it. To Edoran, consent in the face of the city's suffering is still consent. Players who have read the faction prop have his contact information.
+
+**Maerin Voss** is a Restorer. She carries the priest's cord at her wrist. She has not told Ellan Voss directly — she has been working around Ellan's refusal for three years, hoping that the right evidence, the right moment, the right conversation would move her. She is not a fanatic. She is someone who believes she is helping and is not sure anymore whether she is.
+
+**History:** Founded in Year 5 of the Twilight by a former participant in Corven's original ritual — not a Dawnborn, but one of the supporting circle. He watched the ritual fail at the ninth position, spent the rest of his life trying to understand why, and died without seeing a second attempt. The organisation he built outlasted him. It has been meeting weekly for forty-nine years. It has a library. It has a doctrine. It has been waiting.
+
+**Posture this session:** Not a combat threat. Maerin Voss is present in the opener. If players are struggling against the Concordance or the Flowering, the Restorers can be persuaded (DC 13 Persuasion, or simply by sharing evidence of either faction's actual agenda) to act as active allies — they will provide intelligence, bodies, and sanctuary. They are convinced enemies of the Concordance's theology. Pointing Edoran at the Concordance's true goal — eternal night, not sacred passage — is the fastest way to make him a furious and very organised problem for the Concordance.
 
 </details>
 
@@ -262,6 +283,8 @@ She closes the door.
 - Air: The usual amber-lit stillness. No wind.
 
 **Setup:** Six Solennite Blades — mercenaries on Keseph Vyne's retainer — intercept players on the road to the Ashring. They carry written contracts. Their orders are to incapacitate and detain, not kill. Keseph wants players arrested, not martyred. The Blades know this is a political operation and are professionally indifferent to the ethics of it.
+
+**Concordance connection:** Keseph Vyne's arrangement with the Concordance of the Withdrawn is financial, not ideological. He suppresses Archive documents because twilight is good for his business. The Concordance lets him run the Blades because it keeps their own hands clean. Players who later learn the Concordance's true goal and connect it back to Keseph's mercenaries here — realising he was doing the Lich's groundwork without knowing it — will feel the thread. The Blades do not know who ultimately benefits from their contract. They do not ask.
 
 **Secondary Objective (state before combat begins):** Capture at least one Blade alive AND recover the written contract one of them carries. The contract names Keseph Vyne as employer and references "Compact security arrangements" — the first hard evidence tying Keseph to active interference. Without it, Keseph remains a rumor. With it, players have leverage.
 
@@ -668,6 +691,104 @@ This is not hostile. It is absolute.
 </details>
 
 <details>
+<summary>📁 Scene 3b — The Flowering: Private Approach to Ixa</summary>
+
+<details>
+<summary>📄 Five Senses & Setup</summary>
+
+This scene triggers between Scenes 3 and 4 — after the party leaves Aldric's forge with the first cube, before they arrive at the Dawnhall. It is private: the letter arrives for Ixa specifically, not the party. How it is handled is her choice.
+
+**Five senses:**
+- *Sight:* A pressed flower tucked into a doorway crack or resting on a window ledge at eye height — somewhere that could only have been left by someone watching Ixa specifically. One petal too many. The center darker than it should be.
+- *Sound:* Nothing. No one is nearby. The lane is empty. Someone was here a moment ago.
+- *Smell:* Something faintly botanical. Not unpleasant. Not right.
+- *Touch:* The letter paper is slightly warm — not from the sun. From being held.
+- *Air:* The sensation of being watched from a direction that has no one in it.
+
+**The letter:** A handwritten note, no signature. The text matches the prop (recovered correspondence). Addressed to "the one who should not exist, but does."
+
+Key lines:
+- *"We helped someone once. A woman in this city, many years ago, who loved someone the world said she was not permitted to love. We showed her it was possible. You are the outcome."*
+- *"We have been trying to make more outcomes like you. We have not always succeeded. The ones who did not succeed are still with us."*
+- *"Come to us. Or simply stop walking away. We will find each other."*
+
+**This is for Ixa's player.** The letter tells her, implicitly, three things: (1) they know she exists and what she is, (2) they helped her mother conceive her, (3) they want her to come to them, not to stop the ritual or help it — just to be with her own kind. Whether Ixa shares the letter with the party is her choice.
+
+</details>
+
+<details>
+<summary>📄 If Ixa Ignores the Letter — The Flowering Sends</summary>
+
+If Ixa does not respond, or if the party investigates the letter's origin and moves to shut down the approach, The Flowering sends what they send. This is not aggression in their understanding. It is retrieval.
+
+**What arrives:** Two Grasping Tendrils — failed experiments, people whose transformation did not complete, kept alive because The Flowering does not abandon what it begins. They are not violent in intent. They are extremely violent in body. Their goal is to immobilise Ixa and move her. The rest of the party is an obstacle, not a target.
+
+**Secondary Objective (state before combat begins):** Prevent Ixa from being carried off. The Tendrils will attempt to grapple her exclusively — if one gets Ixa in a grapple and is not broken free within 2 rounds, a third Tendril emerges from a side alley to assist the escape. Protecting Ixa matters more than defeating the creatures.
+
+**Between the two combats (Scene 3b and Scene 5):** If The Flowering combat runs long, compress Scene 4 (Cormac) to the key beat — Ysel's question, Cormac walking out, one player in the alley with him. The Reckoning escalation in Scene 5 is the session's climax and should not be cut.
+
+</details>
+
+<details>
+<summary>📄 Combat Cards — The Flowering's Failed Experiments</summary>
+
+---
+
+**GRASPING TENDRIL** *(×2, +1 if Ixa grappled for 2+ rounds)*
+*Medium aberration (formerly humanoid), unaligned*
+
+The shape is wrong in ways that take a moment to catalogue. It was a person. It still has a person's proportions — two arms, two legs, the right height. But the joints bend past where joints should end. The skin is translucent in patches, fibrous underneath. It moves with the wrong kind of smoothness, like something that has forgotten how walking is supposed to look. It does not speak. It does not make eye contact. It makes eye contact with Ixa and only Ixa.
+
+**AC** 14 (natural armor) · **HP** 91 (14d8+28) · **Speed** 35 ft., climb 20 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 18 (+4) | 16 (+3) | 14 (+2) | 6 (-2) | 10 (+0) | 4 (-3) |
+
+**Saving Throws** Str +7, Con +5 · **Skills** Athletics +7, Stealth +6
+**Damage Resistances** Bludgeoning, piercing, slashing from nonmagical weapons
+**Condition Immunities** Charmed, frightened
+**Senses** Blindsight 30 ft., Darkvision 60 ft., Passive Perception 10 · **Languages** None · **CR** 6 (2,300 XP)
+
+**TRAITS**
+
+***Target Lock.*** The Tendril has designated Ixa as its retrieval target at the start of combat. It cannot be charmed or taunted away from her. If Ixa moves more than 60 ft. from the Tendril and breaks line of sight, it uses its full movement each turn to reacquire her.
+
+***Flexible Form.*** The Tendril can squeeze through spaces as small as 1 ft. wide without penalty. Opportunity attacks against it have disadvantage while it is squeezing.
+
+***Pack Retrieval.*** When two or more Tendrils are within 5 ft. of the same grappled target, both have advantage on Athletics checks to maintain or move the grapple.
+
+***Not Dead.*** When reduced to 0 HP, the Tendril does not die — it collapses and stops functioning. It is stable. The Flowering will collect it later. Players who examine a downed Tendril and succeed on DC 14 Medicine see what it once was. This is the moment to describe the horror at full volume.
+
+**ACTIONS**
+
+***Multiattack.*** Two Grasping Slam attacks, or one Grasping Slam + one Constrict (if a creature is already grappled).
+
+***Grasping Slam.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage. If the target is Large or smaller, it is grappled (escape DC 16). The Tendril can have up to two creatures grappled at once.
+
+***Constrict.*** *Automatic — grappled target only.* The grappled target takes 13 (2d8+4) bludgeoning damage and must succeed on DC 15 Strength saving throw or be restrained until the grapple ends.
+
+***Haul (Bonus Action — grappled target only).*** The Tendril moves up to its full speed, dragging the grappled target with it. This movement does not provoke opportunity attacks from the dragged creature.
+
+**REACTIONS**
+
+***Interpose.*** When a creature the Tendril can see targets Ixa with an attack, the Tendril moves up to 10 ft. (no opportunity attacks) and imposes disadvantage on the attack by placing itself between them. Can only trigger once per round.
+
+> *Tactics — Round 1: Move directly to Ixa, Grasping Slam twice. Round 2: Constrict if grappled, Haul toward the nearest exit. Round 3: If pack retrieval active, one Tendril holds Ixa while the other clears the path. Third Tendril (if triggered) appears in the alley behind the primary exit route — it is already in position. It has been there since the letter was left.*
+>
+> *The Tendrils do not respond to Intimidation, Persuasion, or Deception. They respond to damage and to Ixa voluntarily going with them — if Ixa says she will come willingly, both Tendrils stop immediately and stand aside. They wait.*
+
+---
+
+**After combat:** If the party defeats the Tendrils and examines them: DC 12 Investigation finds a second pressed flower tucked into the larger Tendril's clothing. One petal too many. Center dark. This one has writing on it: *"We will try again. We always do. Please just stop walking away."*
+
+**If Ixa asks to go with them:** This is a player choice with major Session 5 consequences. The Flowering will receive her warmly. They will tell her everything. They will not let her leave without effort. This is a separate track for Session 5 — do not resolve it here.
+
+</details>
+
+</details>
+
+<details>
 <summary>📁 Scene 4 — RP: Cormac's Wavering</summary>
 
 <details>
@@ -889,6 +1010,10 @@ Background: Former city watch, elevated as the Reckoning expanded. Spent the fir
 | Chancellor's deadline | Seven days. Clock is running. |
 | Isolde's apparatus (Transfer path) | Discovered and functional / found but unusable / not found (Ending C unavailable) |
 | Petra Vane | Location known (Greenhollow) / unknown |
+
+---
+
+**The Restorers as allies:** If players share evidence of either faction's true agenda with Brother Edoran or Maerin Voss, the Restorers become active allies — sanctuary, intelligence, bodies at the ritual site. Edoran is the most dangerous kind of enemy to the Concordance: a genuine true believer who has just been told his enemy is the opposite of sacred. He will not be quiet about it. DC 13 Persuasion to activate this, or simply show him the Concordance prop and tell him what the Unmoved One actually wants.
 
 ---
 
