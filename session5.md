@@ -11,7 +11,7 @@
 | **Level** | 8 · ~3–4 hours · Opener + 5 scenes + Ritual Moment |
 | **Session dilemma** | When the "right" choice and the "good" choice are different, which do you make? |
 | **Session arc** | Assembly → Confrontation → Positions → Declaration → Signal |
-| **Ritual paths** | B (all 10): Inversion — sun returns, all live · A (8–9): Sacrifice — some gone · C: Transfer · D: Refusal · E: Cascade |
+| **Ritual paths** | B (all 11): Inversion — sun returns, all live · A (8–10): Sacrifice — some gone · C: Transfer · D: Refusal · E: Cascade |
 
 | NPC | Want | Fear | Lie |
 |---|---|---|---|
@@ -23,7 +23,8 @@
 
 ---
 
-## Faction Status — Session 5 Start
+<details>
+<summary>📖 Faction Status — Session 5 Start</summary>
 
 **The Dawnless (Concordance of the Withdrawn)**
 Their long game was Ellan's permanent refusal. Once she steps onto the plaza — or once word reaches them she intends to — they know they have lost the position they held for three years. They do not mount an attack. One watcher is visible at the plaza's western edge throughout the session. If players confront her: she steps back without speaking. They are done.
@@ -35,13 +36,19 @@ If not exposed: 2 Blades in Scene 1 (Spy stat block). After the ritual, players 
 **The Reckoning**
 Harran is in Scenes 1 and 5. After he goes down and the ritual completes, the Reckoning fractures within hours. Some soldiers join the plaza crowd to watch the sun rise. Others leave the city without explanation. The organization dissolves into individual decisions.
 
+</details>
+
 ---
 
-## Session Opener — The Morning of the Ritual
+<div class="session-tree">
+
+<details>
+<summary>📁 Session Opener — The Morning of the Ritual</summary>
 
 *Players have had the 48-hour window Harran negotiated (or the Chancellor's remaining days). This is what the city looks like when it arrives.*
 
----
+<details>
+<summary>📄 Five Senses & Setup</summary>
 
 **Setup:** Not-quite-dawn. Amber-shift — what passes for morning in Varenhold. The Ashring plaza is already filling. The Dawnborn have been arriving since before the amber came up. The activation work from Session 4 has primed the stones — they are not glowing yet, but the air around each one is warmer than it should be.
 
@@ -52,43 +59,56 @@ Harran is in Scenes 1 and 5. After he goes down and the ritual completes, the Re
 - Touch: Flagstones slightly warm from the stones' ambient charge. Present. Faint.
 - Air: Stiller than usual. Even the harbor draft has stopped.
 
----
+</details>
 
-**The 11th Dawnborn — reveal this here or when players reach Scene 3:**
+<details>
+<summary>📄 The 11th Dawnborn — Iza</summary>
 
-As Dawnborn take their positions, the count comes up wrong. Ten stones. Eleven people who carry something from the original ritual. One stone has no name, no warmth.
+**The count comes up wrong.**
+
+Ten Primer Stones are assigned — each stone warming when its Dawnborn approaches. But there is an eleventh stone: no name, no warmth, standing slightly apart from the circle's geometry. And there are eleven people carrying something from the original ritual.
 
 No one raises it directly. Players who count will find it.
 
 If players raise it: Edoran, at the plaza edge, quietly: *"We found the eleventh three months ago. We didn't know what to do with it."*
 
-**The eleventh is Iza.** When Theron revived her at birth using Corven's ritual energy, she absorbed a trace of the original circle. She carries what the unmarked stone responds to. No one told her this. The stone warms when she approaches it — which is how Edoran found out three months ago, and why he didn't know what to say.
+**The eleventh is Iza.** When Theron revived her at birth using Corven's ritual energy, she absorbed a trace of the original circle. She carries what the unmarked stone responds to — not as a substitute for another Dawnborn, but as the element the ritual always needed and never had. The original ten were never quite enough. They couldn't have known.
 
-**GM note:** If Iza's player doesn't know yet, this is the moment. Edoran looks at Iza with recognition that doesn't require explanation. The stone does the explaining.
+No one told her this. The stone warms when she approaches it — which is how Edoran found out three months ago, and why he didn't know what to say.
 
-**Who steps back** — one Dawnborn volunteers to yield their position. It is not decided in advance. It emerges from the relationships players have built.
+**GM note:** If Iza's player doesn't know yet, this is the moment. Edoran looks at Iza with recognition that doesn't require explanation. The stone does the explaining. Give the player a breath before the next line. This is not a combat reveal — it is a quiet one.
 
-| Who | What they say | What it means |
-|---|---|---|
-| **Ellan Voss** | *"I stepped back once. I know what that costs. This time I choose it."* | She gives the permission she always withheld — and steps away. The circle closes. Most resonant if she is present and no one else moves first. |
-| **Aldric Oal** | *"I said I wanted to help. This is how."* | Yields his stone and stands in the plaza to watch. Consistent with his want and his fear about dying uselessly. |
-| **Cormac Ossel** (only if his arc fully resolved) | *"I changed my mind once. I can change it again. This kind is different."* | His renewed yes was real. Yielding it freely proves it. |
+**Crucially — Iza is not a mechanical slot to fill.** She is the 11th element. Her stone does not activate the same way the others do. The others glow when their Dawnborn steps on them and consents. Iza's stone does something different. It waits. It is waiting for something the original ritual never provided. See: The Ritual Moment.
 
-**GM note:** If Ellan is present — and players have brought her to the plaza — she steps forward if no one else does. She has been waiting fifty years to act freely. This is the action.
+</details>
 
-The eleventh Dawnborn takes the unmarked stone. It warms on contact.
+<details>
+<summary>📄 Who Steps Back</summary>
 
----
+With eleven Dawnborn and eleven stones, the original question of "who yields" transforms. No one has to step back — the circle has room. But players who expected someone to sacrifice their position discover the opposite: the circle is *more* complete than the original ritual ever was.
 
-**Varren Aldiss — optional before Scene 1:**
+**GM note:** This is a deliberate reversal. The campaign has been about consent, sacrifice, and the arithmetic of who gets left out. Session 5 reveals that the ritual's original failure wasn't Ellan withdrawing — it was that Iza hadn't been born yet. The circle was always incomplete. It was waiting for its eleventh element.
+
+If Ellan is present: she recognizes this. She stands at her stone and does not step back. *"I stepped away once. I am done stepping away."* She steps on.
+
+</details>
+
+<details>
+<summary>📄 Varren Aldiss — Optional</summary>
 
 Players who investigate Session 4's revealed intelligence (Harran's Spire contact who was double-feeding) can expose Aldiss before combat begins. DC 14 Investigation (Tomas's journal + Spire records) or DC 16 Persuasion (direct confrontation).
 
 If exposed: Harran arrives in Scene 1 without his intelligence advantage. He doesn't know the stone positions are primed. He wastes his opening action recalibrating — no stat block change, just a narrative disadvantage.
 
----
+</details>
 
-## Scene 1 — Opening Combat: The Last Stand
+</details>
+
+<details>
+<summary>📁 Scene 1 — Combat: The Last Stand</summary>
+
+<details>
+<summary>📄 Five Senses, Setup & Objectives</summary>
 
 **Five senses:** Ozone, sharp and electrical — the Primer Stones have been building charge since dawn. Stone underfoot, still faintly warm from last night. The sound of the Reckoning in formation across the plaza, boots on flagstone, nothing else. Amber light on every post, the same amber it has always been. No wind.
 
@@ -100,7 +120,12 @@ If exposed: Harran arrives in Scene 1 without his intelligence advantage. He doe
 
 1. Keep Dawnborn at their Primer Stones. Reckoning soldiers will attempt to pull or push them away. Each Dawnborn displaced from their stone must be persuaded to return — DC 14 Persuasion, one action. Every action spent here is an action not spent on the fight.
 2. Protect the center dais. If it takes 75 or more damage, the activation inscription cracks. Inversion still possible, but requires a DC 18 Arcana check from whoever calls the signal instead of activating automatically.
-3. Decide how the signal reaches all ten positions. The circle is 40 feet in diameter. Shouting works — if everyone is ready and the plaza is quiet enough. If it isn't, DC 14 Performance to be heard. Players should have a plan before combat ends.
+3. Decide how the signal reaches all eleven positions. The circle is 40 feet in diameter. Shouting works — if everyone is ready and the plaza is quiet enough. If it isn't, DC 14 Performance to be heard. Players should have a plan before combat ends.
+
+</details>
+
+<details>
+<summary>📄 Enemies & Tactics</summary>
 
 **Enemies (default — adjust based on Session 4 outcomes):**
 
@@ -118,7 +143,12 @@ If exposed: Harran arrives in Scene 1 without his intelligence advantage. He doe
 - The dais is the fixed point. Treat it as a 75 HP object, AC 15. Any player on or adjacent can interpose for one incoming attack as a reaction. It takes deliberate sustained focus to crack — one soldier for one round won't do it; three veterans dedicated for a full round will.
 - Signal problem is live from round 1: the circle is 40 feet across. Players who don't plan the signal during combat will scramble for it after.
 
-**Senna Kard** — Reckoning lieutenant (include only if not de-escalated in Session 4)
+</details>
+
+<details>
+<summary>📄 Senna Kard — Reckoning Lieutenant</summary>
+
+*(Include only if not de-escalated in Session 4)*
 
 *Want:* This to end without more death.
 *Fear:* That her caution is just cowardice with a better name.
@@ -134,9 +164,12 @@ She does not speak to Harran during the combat. She knows better.
 
 Voice: Quiet, careful. Fewer words than Harran. Means them more.
 
----
+</details>
 
-## Scene 2 — The Riddle: Corven's Letter
+</details>
+
+<details>
+<summary>📁 Scene 2 — Riddle: Corven's Letter</summary>
 
 **Setup:** Behind the center dais stone — flush with the back face, sealed with wax that has dried to the color of old amber. A letter, fifty years old, slightly warm to the touch. Players find it during combat (Investigation DC 10 if actively searching the dais) or immediately after, when they have a moment to look.
 
@@ -161,33 +194,38 @@ The letter is in Corven's handwriting. Below the blank: *No one should be forced
 
 **GM Note:** The riddle has no answer in the text — only consequences. It is the campaign's moral question made literal. The word the players choose is the word this table carried through five sessions. Make sure they choose it.
 
----
+</details>
 
-## Scene 3 — The Puzzle: The Inversion Circle
+<details>
+<summary>📁 Scene 3 — Puzzle: The Inversion Circle</summary>
 
-**Setup:** The Ashring, ten Primer Stones arranged in a 40-foot ring, the center dais at the middle. This is not a puzzle about magic. It is a logistics problem built entirely out of relationships. Players must get all ten Dawnborn to their stones simultaneously, genuinely willing, and hold them there long enough for the signal to reach every position.
+**Setup:** The Ashring, eleven Primer Stones arranged in a ring, the center dais at the middle. This is not a puzzle about magic. It is a logistics problem built entirely out of relationships. Players must get all eleven Dawnborn to their stones simultaneously, genuinely willing, and hold them there long enough for the signal to reach every position.
 
 **The Puzzle:** Three positions have complications. These cannot be resolved with an Arcana check. They can only be resolved through conversation.
 
 **Cormac's stone:** If players engaged with him in Session 4 and his stone is lit, no action needed — he is there. If his stone is dim (players did not engage), Cormac is present but not at his stone. He needs to be asked, directly, by someone who asked him before — not by Edoran, not by the Chancellor, not by someone with an agenda. He needs to hear a genuine question. One player, one conversation, no check. He either says yes or he doesn't. If no player engaged with him across Sessions 3–4, his stone stays cold. The circle has a gap.
 
-**Lira's position:** Empty. She did not come to the Ashring. She is at the Healing House. Someone must go to her — not to convince her, not to explain the stakes, not to tell her what the city needs. Ask her one more time. The question must be a question, not an argument. If players go: she comes. She does not explain why. If players do not go: her stone stays cold. Ending B becomes the ceiling.
+**Lira's position:** Empty. She did not come to the Ashring. She is at the Healing House. Someone must go to her — not to convince her, not to explain the stakes, not to tell her what the city needs. Ask her one more time. The question must be a question, not an argument. If players go: she comes. She does not explain why. If players do not go: her stone stays cold. Ending B becomes unavailable.
 
 **Petra's position:** She arrived at dawn and is standing near her stone but has not stepped onto it. She has not spoken to anyone. She will speak if spoken to. No check. One player walks over and says something. She nods and steps onto the stone.
 
+**Iza's stone:** See The Ritual Moment. Her stone is the 11th — it does not work the same way as the others. No amount of logistics or persuasion activates it. Only the right moment does.
+
 **Solution:** Conversations with Cormac, Lira, and Petra. In that order or simultaneously if players split up.
 
-**Partial success (8–9 Dawnborn at their stones):** The willing complete the ritual together. The missing stone positions hold amber but do not fully ignite. This produces Ending A — Willing Sacrifice — with the consenting Dawnborn releasing what they carry. The others remain standing.
+**Partial success (8–10 Dawnborn at their stones, Iza's stone cold):** The willing complete the ritual together without the 11th element. This produces Ending A — Willing Sacrifice — the Dawnborn releasing what they carry. The sun rises. Some are gone.
 
-**Full success (all ten):** The Inversion activates. Ending B. The sun returns. No one dies.
+**Full success (all eleven):** The Inversion activates. Ending B. The sun returns. No one dies. Iza's stone is the last to light.
 
 **Failure (players allow Reckoning or other antagonists to position unwilling Dawnborn):** The cooperative resonance breaks the moment it begins. Cascade. Ending E.
 
-**Success:** The circle is complete. All ten stones are gold. The players have the activation word. They know what it costs and what it doesn't.
+</details>
 
----
+<details>
+<summary>📁 Scene 4 — RP: The Dawnborn Declare</summary>
 
-## Scene 4 — The RP Scene: The Dawnborn Declare
+<details>
+<summary>📄 Five Senses & Setup</summary>
 
 **NPC:** All present Dawnborn — run as a montage, one beat per person, in whatever order they're standing.
 
@@ -206,6 +244,11 @@ The letter is in Corven's handwriting. Below the blank: *No one should be forced
 - Touch: The stones themselves warm — not hot, just present. Faintly thrumming. Like a stopped bell still ringing at the edge of perception.
 - Taste: Cold air. Clean. As if something has already been decided.
 - Air: Stiller than the plaza has been in fifty years. The held-breath feeling is gone. Something released it.
+
+</details>
+
+<details>
+<summary>📄 The Montage — Each Dawnborn</summary>
 
 **The Encounter Beat — the montage:**
 
@@ -237,15 +280,22 @@ The others:
 
 **Sorel** *(one of the seven Dawnborn who gave consent early and have not wavered — quiet, practical, the kind of person who shows up before being asked):* She has been at her stone for twenty minutes. She is waiting for everyone else to catch up.
 
-**Ellan:** She is not at a stone — she stepped back in the opener, freely, for the first time choosing to yield rather than being forced. She stands at the plaza's edge, watching. If a player goes to her: *"I spent fifty years being the reason it couldn't happen. I'm not going to be that anymore."* She turns back to the circle. That's all.
+**Ellan:** She steps onto her stone. Not dramatically. She has been waiting fifty years to do this freely. She does not make it large. She just steps on. If a player is watching her face: it is the expression of someone who finally said a word they've been holding in their chest for a very long time.
 
-**The final beat:** Once the montage is done, ask a player — any player — out loud: "What does your character say, if anything, before the word is spoken?" Give them silence and space. This is the last meaningful moment before the ending. It belongs to the table.
+**Iza:** She is standing at the 11th stone. Not on it. Her hands at her sides. She is watching the others — Ellan, Lira, Cormac. She has seen five sessions of what people choose under pressure. She has seen the Reckoning and the Concordance and Theron's guilt and what happens when someone decides alone. She is not yet on her stone. Her stone is still cold.
 
-**How it connects forward:** Whatever is said here — or not said — is what the players carry. The ending scene begins immediately after.
+*This is the moment the montage opens into. What the players do here determines everything.*
 
----
+**The final beat:** Once the other Dawnborn have declared, the table falls quiet. Iza is the last. Ask a player — any player — out loud: "What does your character do or say, if anything, before the word is spoken?" Give them silence and space.
 
-## Scene 5 — Closing Combat: Hold the Dais
+*Iza's stone does not respond to the activation word. It responds to this.*
+
+</details>
+
+</details>
+
+<details>
+<summary>📁 Scene 5 — Combat: Hold the Dais</summary>
 
 **Setup:** One last push. Harran Lecht — or whoever remains of the antagonist forces — makes a final attempt not to stop the ritual but to control it. He believes he is saving the city. He is going to try to position an unwilling Dawnborn at a cold stone. He believes the city's survival justifies it. He is wrong in a way that the campaign has been arguing against for five sessions.
 
@@ -258,13 +308,14 @@ The others:
 
 **Combat ends when:** Three rounds have passed and positions are set, OR when Harran is downed or captured. Whichever comes first.
 
-When Harran goes down — non-lethally, by default — he looks at the circle from the ground. If all ten stones are lit: he says nothing. He closes his eyes. If stones are dark: "I was trying to fix it." He is not asking for absolution. He is explaining. There is a difference.
+When Harran goes down — non-lethally, by default — he looks at the circle from the ground. If all eleven stones are lit: he says nothing. He closes his eyes. If stones are dark: "I was trying to fix it." He is not asking for absolution. He is explaining. There is a difference.
 
-**Into the ritual:** The last soldier falls or flees. The plaza is quiet. Ten positions are lit or dark. The players look at what they built across five sessions. The activation word is in someone's hand.
+**Into the ritual:** The last soldier falls or flees. The plaza is quiet. Eleven positions are lit or dark. The players look at what they built across five sessions. The activation word is in someone's hand.
 
----
+</details>
 
-## The Ritual Moment
+<details>
+<summary>📁 The Ritual Moment</summary>
 
 The Ashring. Whatever stones are lit, whatever stones are dark. Players have the activation word. The Dawnborn are at their positions or they aren't.
 
@@ -272,41 +323,98 @@ Give the table a moment of actual silence — ten to fifteen seconds — before 
 
 ---
 
-**If all ten stones are lit — Ending B (Inversion):**
+**Iza's stone — the 11th element:**
 
-The word is spoken from the center of the dais. All ten Dawnborn speak it simultaneously — the players hear their voices overlap across the 40-foot circle. The amber light doesn't flash. It doesn't surge. It changes quality. Something in the air shifts — the particular heaviness that Varenhold has carried for fifty years lifts, the way a held breath releases. The stones go cold. The Dawnborn are still standing.
+Ten stones glow when their Dawnborn steps on them. Iza's stone does not work that way. It is waiting for something the original ritual was never designed to provide.
+
+Iza has been watching everything — the Concordance, the Reckoning, Harran naming Maren Drel and walking away anyway, Cormac setting down a cup too carefully, Lira saying a name to a stone. She has been shown what people do when they are afraid and powerful and certain. She has also been shown what people do when they are none of those things.
+
+She is standing at her stone. She is not on it. She is watching the party.
+
+**What activates Iza's stone:** A genuine human moment — not a speech, not an argument about the stakes, not someone explaining what she means to the ritual. Something small. Something real. The kind of thing that answers the question she has been carrying since she found out what she is: *Is it worth it? Are people worth this?*
+
+It can be anything. It does not require a skill check. It requires a player to stop thinking about the ritual and actually see her.
+
+| What a player does | What happens |
+|---|---|
+| Offers their hand — not to lead her to the stone, just because | She takes it. A beat of silence. She steps on. |
+| Says something true — not about the mission, just something true about her or about themselves | Her stone warms under her before she moves. She notices. She steps on. |
+| Says nothing — simply stands beside her and waits | She looks at them for a long moment. Then: *"Okay."* She steps on. |
+| Explains why she should step on, what it means for the city | Cold. She has heard this argument in many forms for five sessions. Her stone does not respond. |
+
+When she steps on the stone, it does not glow the same gold as the others. It goes white — briefly, startlingly white — and then settles into gold as it connects to the circle. The eleven stones form a complete ring of light for the first time in fifty years. Maybe for the first time ever.
+
+The activation word can be spoken now.
+
+---
+
+<details>
+<summary>📄 Ending B — The Inversion (all eleven stones lit)</summary>
+
+The word is spoken from the center of the dais. All eleven Dawnborn speak it simultaneously — the players hear their voices overlap across the circle. The amber light doesn't flash. It doesn't surge. It changes quality. Something in the air shifts — the particular heaviness that Varenhold has carried for fifty years lifts, the way a held breath releases. The stones go cold. The Dawnborn are still standing.
+
+Iza's stone goes cold last. She is still standing at it, palm flat against the now-dark surface. She looks up. She looks at whoever it was — whoever it was that made her step on.
+
+She does not say anything. She does not need to.
 
 Sera looks at her hands. She starts laughing. She cannot explain why.
 
 The sun does not rise immediately. It rises the next morning, for the first time in fifty years. The players have the night to wait with it.
 
----
+</details>
 
-**If 8–9 stones are lit — Ending A (Willing Sacrifice):**
+<details>
+<summary>📄 Ending A — Willing Sacrifice (8–10 stones lit, Iza's stone cold)</summary>
 
-The willing Dawnborn complete the ritual together. The energy releases. The stone positions of the willing go quiet — not dramatically, not loudly, just quiet. The sky changes. The players know who is gone before anyone says it. The stones are cold. The remaining Dawnborn are alive, standing in a circle around something that was there a moment ago and is not anymore.
+Iza did not step on her stone. She is standing beside it, watching.
 
----
+The willing Dawnborn complete the ritual together — ten voices, not eleven. The energy releases. The stone positions of the willing go quiet — not dramatically, not loudly, just quiet. The sky changes. The players know who is gone before anyone says it. The stones are cold.
 
-**If Isolde's apparatus was used — Ending C (Transfer):**
+Iza's stone is the only one still slightly warm. She pulls her hand back from it.
+
+The remaining Dawnborn are alive, standing in a circle around something that was there a moment ago and is not anymore.
+
+</details>
+
+<details>
+<summary>📄 Ending C — The Transfer (Isolde's apparatus)</summary>
 
 *(Isolde Rann: former Compact researcher, fifty years gone. Her redirect apparatus was recovered and partially rebuilt in Session 4 from the Compact's restricted archive. Players must have found and reconstructed it in Session 4 for this ending to be available. If they did not, it is unavailable.)*
 
 The apparatus hums as the energy redirects. The Dawnborn are pale, shaking, but standing. The sky at the horizon changes color — amber becoming gold. There is a 15–20% chance one stone goes cold. The GM decides before the session whether this happens. If it does: it happens quietly, without drama. The Dawnborn at that stone sits down slowly, and the others catch them.
 
----
+Whether Iza's stone activated determines whether the transfer reaches full coherence or achieves something partial and costly.
 
-**If players did not speak the word — Ending D (Refusal):**
+</details>
+
+<details>
+<summary>📄 Ending D — Refusal</summary>
 
 The players stand in the Ashring and do not speak. The Dawnborn leave, one by one. Sera is last.
 
 She looks at the players for a long moment. She does not argue. She does not explain. Then, quietly, without anger: *"I was ready."* She picks up her crossbow and walks out of the Ashring without looking back.
 
+Iza watches her go. Then she looks at the players. She does not say anything either. She leaves.
+
 The city will adapt, or it won't. This is a valid ending. It says some things are worth more than the sun.
 
----
+</details>
 
-## The Six Endings
+<details>
+<summary>📄 Ending E — Cascade Failure</summary>
+
+*(Players allow Reckoning or other antagonists to position unwilling Dawnborn)*
+
+The circle breaks. The energy releases without coherence — not a ritual, a rupture. All stones go cold at once. The sky over the Ashring blazes amber for thirty seconds and then goes dark. Harran is on his knees in the plaza. He is not hurt. He is quiet. You are the people in this room who know exactly what just happened and why.
+
+Iza's stone was the coldest of all. It never warmed.
+
+</details>
+
+</details>
+
+<details>
+<summary>📁 The Six Endings — Read Aloud Text</summary>
 
 *Read the appropriate passage aloud. Then close the book.*
 
@@ -320,7 +428,7 @@ The city will adapt, or it won't. This is a valid ending. It says some things ar
 
 **B — The Inversion**
 
-*Read aloud:* "The sun rises. The Dawnborn are alive. Sera is still laughing. Tomas is looking at his notebook and not writing in it. Lira is already gone — she left to get back to Mira before the sun comes up. This is the ending that required everyone to be asked and everyone to answer. It required you. Varenhold doesn't know that yet. It will."
+*Read aloud:* "The sun rises. The Dawnborn are alive. Sera is still laughing. Tomas is looking at his notebook and not writing in it. Lira is already gone — she left to get back to Mira before the sun comes up. And Iza's stone went cold last — just a second after all the others. She was standing at it when it happened. She's still standing there. This is the ending that required everyone to be asked and everyone to answer. It required you to see her. Varenhold doesn't know that yet. It will."
 
 ---
 
@@ -338,7 +446,7 @@ The city will adapt, or it won't. This is a valid ending. It says some things ar
 
 **E — Cascade Failure**
 
-*Read aloud:* "The circle breaks. The energy releases without coherence — not a ritual, a rupture. All ten stones go cold at once. The sky over the Ashring blazes amber for thirty seconds and then goes dark. Harran is on his knees in the plaza. He is not hurt. He is quiet. You are the people in this room who know exactly what just happened and why."
+*Read aloud:* "The circle breaks. The energy releases without coherence — not a ritual, a rupture. All stones go cold at once. The sky over the Ashring blazes amber for thirty seconds and then goes dark. Harran is on his knees in the plaza. He is not hurt. He is quiet. You are the people in this room who know exactly what just happened and why."
 
 ---
 
@@ -346,9 +454,10 @@ The city will adapt, or it won't. This is a valid ending. It says some things ar
 
 *Read aloud:* "The seven days passed. Then more days. The Dawnborn are alive. The food stores are lower. The sun is dark. Varenhold is not dead — cities rarely die quickly. It adapts. You left. Or you stayed. The sun stays dark either way."
 
----
+</details>
 
-## The Debrief
+<details>
+<summary>📁 The Debrief</summary>
 
 Not optional. The fifteen minutes after Session 5 are part of the experience.
 
@@ -361,6 +470,10 @@ Ask each player in turn — not rhetorically, with a pause between each question
 Do not answer these for them. Do not wrap up the moral question. Let it sit.
 
 If a player tries to resolve it: "The campaign doesn't answer that. That's yours to carry."
+
+</details>
+
+</div>
 
 ---
 
@@ -382,8 +495,9 @@ If a player tries to resolve it: "The campaign doesn't answer that. That's yours
 | Element | State |
 |---------|-------|
 | Ending | B (Inversion) / A (Sacrifice) / C (Transfer) / D (Refusal) / E (Cascade) / F (Long Dark) |
-| Ellan's final act | Stepped back freely / Took her position / Did not come |
-| 11th Dawnborn problem | Resolved (who stepped back: ___) / Unresolved (circle incomplete) |
+| Ellan's final act | Stepped onto her stone freely / Did not come |
+| Iza's stone | Lit (11th element activated) / Cold (circuit incomplete) |
+| What activated Iza's stone | *(record what the player did or said)* |
 | Cormac's stone | Lit / Cold |
 | Lira's stone | Lit / Cold |
 | Harran's final state | Witnessed the ritual / Went down fighting / Talked down by Senna |

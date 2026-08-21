@@ -24,7 +24,8 @@
 
 ---
 
-## Faction Overview — Three Active Threats
+<details>
+<summary>📖 Faction Overview — Three Active Threats</summary>
 
 **The Dawnless** (= Concordance of the Withdrawn)
 
@@ -62,15 +63,19 @@ They lost their Dusk Priest in Session 3. They are regrouping. This session they
 - **What they know:** The Ashring activation sequence (via Spire contact Varren Aldiss). Aldric's location. The party's names.
 - **What they want:** Control of the ritual site; a forced partial ritual on Reckoning terms before the seven-day deadline.
 
----
-
-## Session Opener — Finishing Session 3: Ellan's Door
-
-*Players arrive with the door ward riddle as homework. This is where the next session begins — at Ellan's door — before Scene 1 starts.*
-
-**If Session 3 ran long:** If players already completed the full Ellan conversation in Session 3's Scene 5, skip this opener entirely. Begin at Scene 1. Brief recap: *"You met Ellan. She won't consent yet — she has conditions. The Dawnless know you visited her street. Maerin and Sera had their confrontation in the same room. Now you're moving."*
+</details>
 
 ---
+
+<div class="session-tree">
+
+<details>
+<summary>📁 Session Opener — Ellan's Door</summary>
+
+*Session 4 begins here: the party is at Ellan's house in Ashring Third Lane, standing before the door ward left unsolved at the end of Session 3.*
+
+<details>
+<summary>📄 Five Senses & Setup</summary>
 
 **Setup:** Ashring Third Lane. House with no knocker. Stone panel beside the door frame, warm to the touch.
 
@@ -81,9 +86,10 @@ They lost their Dusk Priest in Session 3. They are regrouping. This session they
 - *Touch:* Panel warm when touched. Not lamp-warm — something inside the stone.
 - *Air:* Inexplicably warmer than the lane.
 
----
+</details>
 
-**The ward mechanic:**
+<details>
+<summary>📄 The Ward Mechanic</summary>
 
 Players will say "consent" immediately. Nothing happens. Let the silence sit.
 
@@ -101,9 +107,10 @@ Anyone who cannot find a real reason stands outside. The door stays open. That i
 
 **Hint timing:** 10 real minutes before any hint. Then Sera (if present): *"It's not asking you to say the word. It's asking you to do it."* Five more minutes: Sera steps to the panel and speaks her own reason. Click.
 
----
+</details>
 
-**Maerin's arrival:**
+<details>
+<summary>📄 Maerin's Arrival</summary>
 
 She appears as the last player speaks their reason — coming around the corner of the lane, moving fast, alone. She takes in the door, the panel, the party. She does not explain how she found it.
 
@@ -113,7 +120,10 @@ She looks at whoever is nearest: *"I know this door. I know what's inside. Let m
 
 She does not wait. She goes in.
 
----
+</details>
+
+<details>
+<summary>📄 Ellan — Key Lines & The Iza Beat</summary>
 
 **Ellan answers the door before they finish reading the letter in the compartment.**
 
@@ -144,9 +154,10 @@ She makes tea. She watches Iza throughout — her expression is different when h
 | *"Your name — how did you come to have it?"* | Direct; gives Iza's player a choice point |
 | Parting line: *"You are not an experiment. You were never an experiment."* — she looks at Iza | Gut-punch, no explanation given |
 
----
+</details>
 
-**Maerin and Sera — the confrontation (inside, while Ellan makes tea):**
+<details>
+<summary>📄 Maerin & Sera — Confrontation</summary>
 
 It does not get loud. That is what makes it real.
 
@@ -166,7 +177,10 @@ Players can intervene. They will not resolve it. Both are right. The gap between
 - **Maerin fears:** That she is too late to be part of whatever comes next.
 - **Maerin lies:** *"I'm not asking you to say no."* She absolutely is.
 
----
+</details>
+
+<details>
+<summary>📄 Sera's Warning & Cliffhanger</summary>
 
 **Sera's warning — as they prepare to leave:**
 
@@ -182,9 +196,15 @@ She does not elaborate. She does not need to.
 
 She closes the door.
 
----
+</details>
 
-## Scene 1 — Opening Combat: Solennite Blades
+</details>
+
+<details>
+<summary>📁 Scene 1 — Combat: Solennite Blades</summary>
+
+<details>
+<summary>📄 Five Senses & Setup</summary>
 
 **Five senses:**
 - Sight: The road to the Ashring, morning. Six figures spread across the cobbles in a professional intercept formation — not blocking passage but making it clear passage will cost something.
@@ -198,6 +218,11 @@ She closes the door.
 **Secondary Objective (state before combat begins):** Capture at least one Blade alive AND recover the written contract one of them carries. The contract names Keseph Vyne as employer and references "Compact security arrangements" — the first hard evidence tying Keseph to active interference. Without it, Keseph remains a rumor. With it, players have leverage.
 
 In the contract's margin, handwritten in a different hand: *"Reckoning also mobilizing. Lecht running this himself."* This note is not Keseph's — someone is tracking both operations simultaneously and sharing intelligence between them. The players are being closed in on from two directions at once.
+
+</details>
+
+<details>
+<summary>📄 Enemies, Objectives & Tactics</summary>
 
 **Enemies:**
 - Solennite Blades: 4, use Spy stats (MM p.349) with advantage on Perception and proficiency in Insight and Deception. Motivated by contract and payment, not ideology.
@@ -217,6 +242,11 @@ Players presenting a valid Spire academic permit (obtained Session 2 or 3) and s
 
 DC 16 Persuasion to bribe without the permit: possible, but the Blades are well-paid.
 
+</details>
+
+<details>
+<summary>📄 Davan Crel — Field Watcher</summary>
+
 **Davan Crel** — Keseph's field watcher
 
 *Want:* An accurate report. He prides himself on precise observation.
@@ -230,9 +260,12 @@ He will not fight. If confronted:
 - DC 15 Intimidation: He reveals Keseph's instruction was to "slow them, not stop them permanently" — Keseph wants options, not martyrs.
 - DC 18 Persuasion: He can be flipped. He gives Keseph's location and daily schedule in exchange for being left out of whatever comes next. He is not a true believer. He is an employee.
 
----
+</details>
 
-## Scene 2 — The Riddle: The Primer Stone Inscription
+</details>
+
+<details>
+<summary>📁 Scene 2 — Riddle: The Primer Stone Inscription</summary>
 
 **Setup:** The Ashring — ten weathered standing stones in a circle around a scorched central dais. Each stone carries a partial inscription. Players approaching from the road can see the stones are older than the ritual, but the carvings are fresh by comparison — fifty years old, not five hundred.
 
@@ -251,9 +284,13 @@ He will not fight. If confronted:
 
 **GM Note:** The riddle's answer requires giving, not taking. The Inversion path requires the same. Let that land before moving to the puzzle.
 
----
+</details>
 
-## Scene 3 — The Puzzle: The Astronomical Activation Sequence
+<details>
+<summary>📁 Scene 3 — Puzzle: Astronomical Activation Sequence</summary>
+
+<details>
+<summary>📄 The Puzzle & Routes</summary>
 
 **Setup:** The ten Primer Stones must be activated in the correct order — hands placed on each stone in sequence, the stone's star-name spoken aloud — before the Inversion inscription on the center dais becomes readable. The correct order is the ten brightest stars visible on the night of the original ritual fifty years ago, recorded in the Spire Observatory's sealed log. Wrong order: 1d10 radiant damage per incorrect stone as the stone discharges, then resets.
 
@@ -273,11 +310,17 @@ He will not fight. If confronted:
 
 **Connected to:** Session 5 — the Inversion Circle requires all ten Dawnborn at these specific stone positions at the same moment. This puzzle establishes which stone belongs to which Dawnborn. Any stone not activated in Session 5 means that Dawnborn's consent is absent and the Inversion cannot complete.
 
+</details>
+
+<details>
+<summary>📄 Varren Aldiss Discovery</summary>
+
 **Varren Aldiss discovery:** DC 14 Investigation — cross-referencing Tomas's observatory notes with the Spire's visitor log surfaces a name: Varren Aldiss, Observatory assistant, listed as Tomas's primary archive contact. Cross-reference with Concordance-adjacent meeting records (DC 16 History to recognise the significance): Aldiss has been feeding information to both the Reckoning and the Dawnless simultaneously. If players expose Aldiss before Scene 5 or before Session 5: Harran arrives without his intelligence advantage. He doesn't know the stone positions are primed and wastes his opening action recalibrating.
 
----
+</details>
 
-**Optional discovery — Isolde's redirect apparatus (enables Ending C):**
+<details>
+<summary>📄 Optional: Isolde's Apparatus (Ending C)</summary>
 
 Players who ask Maret Lonn about alternative solutions to the ritual, or who succeed on DC 14 History while reading the Spire's sealed observatory logs, find a notation: a redirect apparatus designed by Isolde Rann, a former Compact researcher. Isolde disappeared from the record three months after the original ritual. Her apparatus — her answer to whether the Dawnborn energy could be *redirected* rather than *released* — is in the Compact's restricted archive, never retrieved.
 
@@ -285,9 +328,10 @@ Recovering and partially reconstructing it requires a skill challenge: DC 14 Arc
 
 **Isolde Rann** — *in absentia.* Fifty years gone. Her notes are careful, exact, written as if she expected someone to read them eventually. If players examine them closely (DC 14 Investigation): the last notation is dated two days before the original ritual. No entry after that. She knew something was going to happen. She prepared for the scenario where it didn't work.
 
----
+</details>
 
-**Maret Lonn** — Observatory archivist
+<details>
+<summary>📄 Maret Lonn — Observatory Archivist</summary>
 
 *Want:* To not be responsible for what someone does with the records she protects.
 *Fear:* That her caution makes her complicit in the wrong outcome.
@@ -299,9 +343,10 @@ What she needs: a legitimate reason that falls within her interpretation of Obse
 
 If players mention the Inversion path (all ten freely consent, no deaths): she goes quiet. Long pause. Then, carefully: *"That would be different. That would be very different from what I was told to prevent."*
 
----
+</details>
 
-**Tomas Areth** — Dawnborn; has memorized the activation sequence
+<details>
+<summary>📄 Tomas Areth — Dawnborn</summary>
 
 *Want:* The circle to close without anyone performing certainty they don't actually have.
 *Fear:* That his memorized activation sequence contains an error he won't discover until the moment it matters.
@@ -338,9 +383,15 @@ Then: *"I'll give you the sequence. But you need to understand something. If thi
 
 This is not hostile. It is absolute.
 
----
+</details>
 
-## Scene 4 — The RP Scene: Cormac's Wavering
+</details>
+
+<details>
+<summary>📁 Scene 4 — RP: Cormac's Wavering</summary>
+
+<details>
+<summary>📄 Five Senses & The Encounter</summary>
 
 **NPC:** Cormac Ossel (with Ysel Thanis present and watching)
 
@@ -377,9 +428,10 @@ If players do not follow up before Session 5 closes: his stone is dark at the In
 
 **How it connects forward:** Cormac is one of the ten Dawnborn. His consent status determines whether Ending B is achievable. Players who treat this scene as a logistics problem will not reach him.
 
----
+</details>
 
-**Aldric Oal** — Dawnborn; willing; already at his Primer Stone
+<details>
+<summary>📄 Aldric Oal — Dawnborn</summary>
 
 *Want:* To help. He has already chosen — his consent is the clearest of all ten.
 *Fear:* That he chose wrong. Not whether to participate, but whether his participation will be enough.
@@ -389,9 +441,10 @@ Voice: Quiet and direct. No hedging, no softening. *"I said yes. I meant it. I m
 
 Physical: Late fifties. Deliberate in his movements. He has been at his Primer Stone three mornings this week. He knows which stone is his.
 
----
+</details>
 
-**Lira** — Dawnborn; at the Healing House; has not answered
+<details>
+<summary>📄 Lira — Dawnborn</summary>
 
 Not present in Session 4's Dawnhall scenes. If players ask Aldric who's missing: *"Lira hasn't come. She knows. She just hasn't said yes yet."* He says it without judgment. He does not elaborate.
 
@@ -403,15 +456,22 @@ Players who visit the Healing House during Session 4: she is polite. She asks th
 *Fear:* That the person who needs her is the reason she can't say yes — and that both things are simultaneously true.
 *Lie:* "I need more time." She has run out of time. She knows it.
 
----
+</details>
 
-**Petra Innes** — Dawnborn; location: Greenhollow district, third ward
+<details>
+<summary>📄 Petra Innes — Dawnborn</summary>
 
 Not present at the Dawnhall. Players can learn her location from Tomas (he knows where all the Dawnborn are: *"Petra's in Greenhollow. Third ward. She's not avoiding anyone — she just doesn't come to group meetings"*) or from Edoran (DC 11 Persuasion). She does not need to be visited in Session 4. In Session 5, she arrives at the Ashring at dawn — she has already decided. Players who know her location are not surprised; players who don't will find an unfamiliar face at one of the stones.
 
----
+</details>
 
-## Scene 5 — Closing Combat: Harran at the Ashring
+</details>
+
+<details>
+<summary>📁 Scene 5 — Combat: Harran at the Ashring</summary>
+
+<details>
+<summary>📄 Setup & Secondary Objective</summary>
 
 **Before the scene — environmental hint:** On the approach to the Ashring perimeter, players pass a pair of Reckoning soldiers at a checkpoint. One says to the other, low: *"Commander hasn't slept in two days."* They don't explain. Move on without drawing attention to it.
 
@@ -426,6 +486,11 @@ Aldric Oal, a willing Dawnborn, is already at his Primer Stone — he came to ve
 - Senna Kard: 1 (Harran's lieutenant — see NPC block below). Use Bandit Captain stats. She is present here for the first time — players who later encounter her in Session 5 Scene 1 will recognise her.
 - Harran Lecht: 1, use Bandit Captain stats plus 1 additional attack per multiattack (4 attacks total), plus once per combat (recharge 5-6): Inspiring Shout — all Reckoning allies within 30 feet regain 10 HP.
 
+</details>
+
+<details>
+<summary>📄 Harran's Opening & Ultimatum</summary>
+
 **Harran's opening line (before initiative, before the ultimatum):** He does not open with politics. He opens with this — level, unhurried, looking directly at the party:
 
 > *"My name is Harran Lecht. You killed Maren Drel at the Lowmark Junction. I need you to know that before we proceed."*
@@ -438,7 +503,10 @@ Then the ultimatum. He does not dwell on it. The professionalism is more unsettl
 
 He waits five seconds for an answer. Then he nods to the soldiers.
 
----
+</details>
+
+<details>
+<summary>📄 Negotiation Path</summary>
 
 **Negotiation path — the 48-hour option:**
 
@@ -458,9 +526,10 @@ Harran on successful negotiation: *"Forty-eight hours. One condition: if I don't
 
 He is not lying. He will move.
 
----
+</details>
 
-**Senna Kard** — Reckoning lieutenant
+<details>
+<summary>📄 Senna Kard — Reckoning Lieutenant</summary>
 
 *Want:* This to end without more death.
 *Fear:* That her caution is just cowardice with a better name.
@@ -474,9 +543,10 @@ She does not share Harran's conviction about the forced ritual. She has stayed b
 
 **If players de-escalate or capture Harran:** Senna stops fighting immediately. She does not need to be asked. She says, to the soldiers nearest her: *"Stand down."* She will not explain. In Session 5, if Harran has been captured or neutralised, Senna does not appear in Scene 1. She is done.
 
----
+</details>
 
-**Harran Lecht** — Commander, the Reckoning
+<details>
+<summary>📄 Harran Lecht — Commander</summary>
 
 *Want:* To solve the crisis before the city collapses. Not to win. Not to be right.
 *Fear:* That grief has made him impatient in ways he cannot see clearly.
@@ -488,11 +558,20 @@ Physical: Late forties. Military bearing without performance. Has looked tired f
 
 Background: Former city watch, elevated as the Reckoning expanded. Spent the first four months genuinely trying to find a peaceful path. Stopped two months ago when the starvation projections came in. He has not told the Reckoning that Maren Drel died on his orders — he told them it was enemy action. He mostly believes that version now. But not when he is alone.
 
----
+</details>
+
+<details>
+<summary>📄 Combat End & Session Hook</summary>
 
 **Combat ends when:** Reckoning withdraw when Harran withdraws or when 6 soldiers are downed. If reduced to half HP or surrounded on three sides, Harran stops fighting. He says, level, to the players: *"When the city collapses in six months, tell me which principle saved it."* He withdraws. He takes any soldiers who can walk. He is not done.
 
 **Session hook:** During or immediately after the combat, the Chancellor's aide delivers a message — a sealed letter handed to whoever is nearest. The message inside: *"Rationing begins in seven days. I am sorry it has come to this."* The deadline is now visible, concrete, and running.
+
+</details>
+
+</details>
+
+</div>
 
 ---
 
