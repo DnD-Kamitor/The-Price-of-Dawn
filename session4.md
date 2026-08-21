@@ -270,131 +270,90 @@ She closes the door.
 </details>
 
 <details>
-<summary>📁 Scene 1 — Combat: Solennite Blades</summary>
+<summary>📁 Scene 1 — Combat: Concordance Unlit Cell</summary>
 
 <details>
 <summary>📄 Five Senses & Setup</summary>
 
 **Five senses:**
-- Sight: The road to the Ashring, morning. Six figures spread across the cobbles in a professional intercept formation — not blocking passage but making it clear passage will cost something.
-- Sound: Quiet. The Blades don't shout. One holds up a hand, palm out.
-- Smell: Leather oil and cold stone. The dry-electrical smell that has been building near the Ashring for days.
-- Touch: The road underfoot is older here — uneven, the stones slightly tilted from tree roots long dead.
-- Air: The usual amber-lit stillness. No wind.
+- *Sight:* The road to the Ashring, morning. Five figures standing in the road — not a military formation, something more precise than that. No weapons drawn. No shouting. One at the center, two flanking, two at the road edges. They have been here for a while.
+- *Sound:* Nothing from them. The road is quiet. From ahead: the low irregular resonance of the Ashring stones.
+- *Smell:* Cold stone and something faintly mineral. The specific dry-electrical smell building near the Ashring. Also, barely: incense. The kind burned in closed rooms.
+- *Touch:* The road is older here — uneven, tilted stones, roots long dead underneath.
+- *Air:* The amber-lit stillness. No wind. The five figures don't shift in it.
 
-**Setup:** Six Solennite Blades — mercenaries on Keseph Vyne's retainer — intercept players on the road to the Ashring. They carry written contracts. Their orders are to incapacitate and detain, not kill. Keseph wants players arrested, not martyred. The Blades know this is a political operation and are professionally indifferent to the ethics of it.
+**Setup:** Five Concordance Unlit operatives — a cell that has been tracking the party since the visit to Ellan Voss — intercept the road to the Ashring. They are not mercenaries. They are true believers in the doctrine: the door has closed, the passage is complete, what the party is doing is cosmological desecration. Their orders are to delay and intimidate, not kill. Killing the party here creates martyrs and questions. What they want is for the party to turn back, to feel watched, to understand that the Concordance is always one step ahead.
 
-**Concordance connection:** Keseph Vyne's arrangement with the Concordance of the Withdrawn is financial, not ideological. He suppresses Archive documents because twilight is good for his business. The Concordance lets him run the Blades because it keeps their own hands clean. Players who later learn the Concordance's true goal and connect it back to Keseph's mercenaries here — realising he was doing the Lich's groundwork without knowing it — will feel the thread. The Blades do not know who ultimately benefits from their contract. They do not ask.
+**The watcher:** A sixth figure, never in the encounter itself — an older shadar-kai woman standing in a doorway twenty feet back, watching. If players move toward her, she steps inside and the door closes. She is the cell's upward contact. She does not fight. She is memorising faces. DC 15 Perception to notice her before she leaves.
 
-**Secondary Objective (state before combat begins):** Capture at least one Blade alive AND recover the written contract one of them carries. The contract names Keseph Vyne as employer and references "Compact security arrangements" — the first hard evidence tying Keseph to active interference. Without it, Keseph remains a rumor. With it, players have leverage.
-
-In the contract's margin, handwritten in a different hand: *"Reckoning also mobilizing. Lecht running this himself."* This note is not Keseph's — someone is tracking both operations simultaneously and sharing intelligence between them. The players are being closed in on from two directions at once.
+**Secondary Objective (state before combat begins):** Take one Unlit operative alive. A captured operative carries a sealed document tube — inside, a partial asset list with the designation SUNRISE-4 (Sera Voss) and IX (Ellan Voss). The handwriting is two different people's. The document is too precise to be operational notes; it is a surveillance summary. Someone has been watching the Dawnborn for a long time and has them categorised.
 
 </details>
 
 <details>
 <summary>📄 Enemies, Objectives & Tactics</summary>
 
-**Enemies — 6 combatants total (gestalt encounter, CR ~9):**
+**Enemies — 5 combatants total (gestalt encounter, CR ~8):**
 
-**Solennite Operative ×4** — *Medium humanoid (hobgoblin)*
-Orange-red skin ranging from rust to burnt copper, amber-yellow eyes with slit pupils. Close-cropped black hair under open-face steel helmets. Matching black-lacquered leather armor with amber brass clasps — Keseph's money shows in the quality. Their spacing is always tactical: two-and-two, or four-across, or three-and-one to bracket. Never just standing. Always positioned. They do not speak unless necessary. They are professional, patient, and not afraid of you.
-*→ Full stat block: Combat Cards section below. CR 6 each.*
+**Unlit Operative ×3** — *Medium humanoid (shadar-kai)*
+Pale-grey skin the color of old ash, eyes so dark they read as black in amber light. Close-cropped hair, dark. No insignia. No colors. Grey-charcoal clothing that reads as unremarkable until you look directly at the cut — it is precise. Made for this. They move like people who have practiced not being noticed, and this has made them visibly good at it.
+*→ Full stat block: Combat Cards section below. CR 5 each.*
 
-**Commander Dek Varris ×1** — *Medium humanoid (hobgoblin)*
-Senior battle commander. Broader than the Operatives, salt-and-pepper close-cropped hair, deep scar from right eye to jaw. Plate armor earned through promotion, not purchased. An obsidian ring is visible on his right gauntleted hand — DC 12 Perception to notice it looks wrong: too cold, too still, like a stone that wants to be a gem but can't quite manage it.
-*→ Full stat block: Combat Cards section below. CR 9 (modified by Ring of Contrariwise).*
+**Unlit Shadow-Keeper ×1** — *Medium humanoid (shadar-kai, cell commander)*
+Taller than the others. The obsidian disc at their neck is visible — the only piece of Concordance symbol the Unlit ever show to an enemy, and only when they intend the enemy to understand what is coming. Carries a shortsword and a focus rod, both of dark iron. Their eyes move from party member to party member with the specific quality of someone who already knows which one to worry about.
+*→ Full stat block: Combat Cards section below. CR 8.*
 
-**Commander Pell ×1** — *Medium humanoid (hobgoblin, arcane officer)*
-Narrower than Varris, grey already at his temples — early even for a hobgoblin. Carries a longsword and a small bone rune-focus on a chain at his neck. His eyes move from player to player the way a commander counts resources. He has already identified the most dangerous combatant. He was watching before you saw him.
-*→ Full stat block: Combat Cards section below. CR 9 (spellcasting officer).*
+**Unlit Doctrinal Voice ×1** — *Medium humanoid (human, theological officer)*
+The one who speaks. Mid-fifties, unremarkable face, the voice of someone who has explained this many times and has not been moved by any response to it. Carries no visible weapon. This is not because they are unarmed.
+*→ Full stat block: Combat Cards section below. CR 7 (spellcasting).*
 
-**Combat ends when:** Players capture a Commander and display the contract — the remaining Blades stand down ("Our employer can't pay a dead contract"). Or when all six are incapacitated.
+**Combat ends when:** The Shadow-Keeper is captured or reduced to 0 HP. The remaining Unlit withdraw immediately and in silence — they do not linger. No last stand, no dramatic speech. They step back, regroup, and are gone. The Doctrinal Voice, if still standing, says one line before vanishing: *"You were warned. The record will show you were warned."*
 
-**What players learn:** Keseph Vyne's name. Also that one of the Commanders is having some kind of episode and it is genuinely hard to tell what side he is on.
+**What players learn:** The Concordance has been tracking the Dawnborn by designation. The surveillance is older than the party's involvement. The cell structure means capturing one operative will not give them much — but the document tube will give them the designations and confirm the surveillance scope.
 
 **Tactical notes:**
-- Formation: Two Commanders center-rear, four Blades forward in a skirmish line across the road. They are blocking, not encircling — gaps exist on both flanks.
-- Terrain: Road narrows here between an old garden wall (three-quarters cover) and the Ashring's outer marker stones (half cover). No cover in the road itself. Flanking requires moving off-road onto uneven ground.
-- The Blades move to bracket if players try to break through — two shift to close the side gaps. They have done this before.
+- Formation: Voice at rear (30 ft. back), Shadow-Keeper center, three Operatives forward across the road. They are not encircling — the flanks are open. They are expecting the party to stop and negotiate.
+- Terrain: Road narrows between an old garden wall (three-quarters cover, left) and Ashring outer marker stones (half cover, right). No cover in the road itself.
+- The Operatives shadow-step if the party tries to break through — they do not need to run to close gaps.
+- The Voice does not move forward under any circumstances.
 
----
+</details>
 
-**Commander Dek Varris — The Ring Problem**
+<details>
+<summary>📄 The Opening — Before Initiative</summary>
 
-Three days ago, a Reckoning scout sweep of the tannery (Session 3's scene) found the Dusk Priest's body and looted it. The Solennite Blades, doing their own sweep for intelligence, found the scout's body and looted that. Commander Varris found the obsidian ring in the scout's pocket, thought it looked expensive, and put it on.
+The Doctrinal Voice speaks. Not loudly. They are close enough that they don't need to be loud.
 
-It has been getting worse since Tuesday.
+> *"The door has closed. We are asking you, politely and for the first time, to stop walking toward it."*
+
+They wait. If the party moves forward, or draws weapons, or makes any hostile gesture:
+
+> *"We understand you believe you are helping. The Concordance understands this about everyone who has stood where you are standing. They all believed they were helping."*
+
+One beat of silence.
+
+> *"None of them could tell us what happened to the people who lived in this city after a forced reopening. Because there was no after."*
+
+Then they stop talking. The Shadow-Keeper draws their shortsword.
+
+**Social path:** DC 14 Persuasion to get the Voice to hear a counter-argument. On success, they will agree to relay a message upward — not to stand down, but to relay. This is not a victory. It is a thirty-minute delay and the knowledge that the Concordance has a communication chain that goes somewhere specific. DC 18 Persuasion (or evidence that the party knows about the Unmoved One's actual goal) causes the Voice to pause for the first time. Long enough for someone to wonder what they actually know. They will not break. But they will pause.
+
+</details>
 
 <details>
 <summary>📄 The Obsidian Ring of Contrariwise — Item Reference</summary>
 
+**Found on the Shadow-Keeper if searched after combat.**
+
 *Cursed Item, requires attunement (automatic on wearing — the ring attunes itself)*
 
-A Concordance interrogation tool, confiscated from a cell that no longer exists. Designed to invert a subject's dominant personality traits for the purposes of breaking operational security or turning agents. The inversion is total, compulsive, and deeply confusing to the wearer, who retains full awareness of what they are doing while being completely unable to stop.
+A Concordance interrogation tool. Designed to invert a subject's dominant personality traits for the purposes of breaking operational security or turning agents. The inversion is total, compulsive, and deeply confusing to the wearer, who retains full awareness of what they are doing while being completely unable to stop.
 
-**Effect:** While attuned, the wearer acts against their dominant nature:
-- The greedy give things away compulsively
-- The obedient defy orders reflexively
-- The aggressive become helpfully conciliatory
-- The cautious become reckless
+**Effect:** While attuned, the wearer acts against their dominant nature — the greedy give things away, the obedient defy orders, the aggressive become helpful, the cautious become reckless. The wearer knows exactly what they're doing. They can't stop.
 
-The wearer knows exactly what they're doing. They can't stop. They remain fully intelligent and aware throughout.
+**Removal:** *Remove Curse* (DC 15) or Wisdom saving throw DC 20 after 24 hours of rest. The wearer physically resists removal attempts — not because they want to, but because the ring wants to.
 
-**Removal:** Cannot be removed without *Remove Curse* (DC 15) or a Wisdom saving throw DC 20 after 24 hours of rest. The wearer is compelled to keep wearing it and will physically resist attempts to remove it — not because they want to, but because the ring wants to.
-
-**Dek Varris's nature:** Greedy, contract-obedient, professionally aggressive. Inverted: compulsively generous, defiant of contracts, helpfully pacifistic. He is absolutely furious about this and has been for three days.
-
-</details>
-
-**How the encounter plays:**
-
-Varris stops the players. He holds up a hand. He takes a breath. He says, with great professional composure: *"We have orders to detain you. Please stop walking."*
-
-Then the ring does something. The specific something depends on what the players do, but the general pattern is:
-
-| Player action | Varris does |
-|---|---|
-| Tries to walk past | *"I'm going to need you to— please, just— you can go. I don't know why I'm saying that. Pell, stop looking at me like that."* |
-| Offers a bribe | Recoils. *"Keep your money. I don't— I don't want it."* His Blades stare at him. He stares at his hands. *"I don't know what's wrong with me."* |
-| Asks what's wrong with him | He holds up the obsidian ring. *"I found this ring three days ago and since then I've given away sixteen silver, apologized to a mule, and told a man his wife was having an affair because I thought he deserved to know. I am a mercenary. That is not what mercenaries do."* |
-| Attacks | He is actively trying to fight. The ring keeps making him offer tactical advice to the players mid-combat. *"Your left flank is— I hate this ring so much— your left flank is open."* |
-| Asks him to let them through | DC 8 Persuasion, not DC 14. The ring is already arguing on the players' behalf. |
-
-**Pell** (the functional Commander) is trying to run the intercept professionally. He keeps looking at Varris for confirmation of orders. He is getting none. At one point he hisses: *"Varris, are we detaining them or not?"* Varris: *"Yes! Professionally! Stop them! I'm just — I'm going to go stand over here."*
-
-**The contract:** Varris will hand it over if players ask him directly what their orders are. He cannot lie about it. He tries. *"Our orders are to— they're to— here, just take it, I'm giving it to you, this is humiliating."*
-
-**If players cast Remove Curse:** The ring pops off. Varris blinks. Looks at the players. Looks at Pell. Looks at the contract he just handed over. His expression shifts from confused relief to professional murder. *"Right. Detain them."* The charm of the entire preceding encounter evaporates immediately. Roll initiative.
-
-**After the encounter** (win or lose): Varris files a full and accurate report to Keseph. He includes a section titled "Ring Situation" which Keseph finds baffling and chooses to ignore. Varris requests reassignment. He does not get it.
-
-**The ring:** Players can keep it. It would be funny. It is an interrogation tool from the Concordance of the Withdrawn — if they bring it to Theron, he can tell them exactly what it is and who made it, and look extremely troubled by the fact that the Dusk Priest had one. *"They were using these on people. To break them."* He takes a moment. *"That's significantly worse than I thought they were."*
-
----
-
-**Social option — negotiate past them (without the ring chaos):**
-Players presenting a valid Spire academic permit (obtained Session 2 or 3) and succeeding on DC 14 Persuasion force Commander Pell to stand down. The permit creates legal ambiguity the contract didn't account for. Pell reviews it, says *"This changes the scope of our order,"* and withdraws. Varris says *"Good. I didn't want to be here anyway."* Pell does not acknowledge this.
-
-DC 16 Persuasion to bribe without the permit: Pell is well-paid. Varris will be bribed by anything offered, immediately, compulsively, and then feel bad about it.
-
-</details>
-
-<details>
-<summary>📄 Davan Crel — Field Watcher</summary>
-
-**Davan Crel** — Keseph's field watcher
-
-*Want:* An accurate report. He prides himself on precise observation.
-*Fear:* That Keseph will hold him responsible if the party succeeds despite his reports.
-*Lie:* "I am only observing." He is also recording which Dawnborn appear at which stones.
-
-Appearance: Middle-aged man in a grey coat, always near a doorway or corner. Never speaks at volume. Writes constantly in a small notebook. Present at the Ashring plaza during Scene 1 and again during Scene 3 — if players fail on the stone sequence, he notes it.
-
-He will not fight. If confronted:
-- DC 14 Insight: He is frightened, not confident.
-- DC 15 Intimidation: He reveals Keseph's instruction was to "slow them, not stop them permanently" — Keseph wants options, not martyrs.
-- DC 18 Persuasion: He can be flipped. He gives Keseph's location and daily schedule in exchange for being left out of whatever comes next. He is not a true believer. He is an employee.
+**What it tells players:** If brought to Theron, he identifies it immediately and looks extremely troubled. *"They were using these on people. To break them."* He takes a moment. *"That's significantly worse than I thought they were."* The ring has been in the Shadow-Keeper's possession for years. It has the wear of something they have used before.
 
 </details>
 
@@ -403,157 +362,125 @@ He will not fight. If confronted:
 
 ---
 
-**SOLENNITE OPERATIVE** *(×4)*
-*Medium humanoid (hobgoblin), lawful neutral*
+**UNLIT OPERATIVE** *(×3)*
+*Medium humanoid (shadar-kai), lawful neutral*
 
-**AC** 16 (studded leather, shield) · **HP** 78 (12d8+24) · **Speed** 30 ft.
+**AC** 15 (studded leather) · **HP** 65 (10d8+20) · **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 14 (+2) | 18 (+4) | 14 (+2) | 13 (+1) | 14 (+2) | 10 (+0) |
+| 12 (+1) | 18 (+4) | 14 (+2) | 13 (+1) | 14 (+2) | 10 (+0) |
 
-**Saving Throws** Dex +7, Wis +5 · **Skills** Stealth +7, Perception +5, Athletics +5, Deception +3
-**Senses** Darkvision 60 ft., Passive Perception 15 · **Languages** Common, Goblin · **CR** 6 (2,300 XP)
+**Saving Throws** Dex +7, Wis +5 · **Skills** Stealth +9, Perception +5, Deception +3, Athletics +4
+**Damage Resistances** Necrotic · **Senses** Darkvision 60 ft., Passive Perception 15 · **Languages** Common, Elvish · **CR** 5 (1,800 XP)
 
 **TRAITS**
 
-***Martial Advantage.*** Once per turn, deals an extra 7 (2d6) damage on a hit when at least one ally is within 5 ft. of the target and isn't incapacitated.
+***Shadow Step (Bonus Action, Recharge 4–6).*** While in dim light or darkness, teleports up to 30 ft. to another dim or dark space. Arrives with advantage on the first melee attack before end of turn. Varenhold's amber twilight always qualifies.
 
-***Sneak Attack (3d6).*** Once per turn, deals extra 10 (3d6) damage on a hit when it has advantage on the roll, or when an ally is within 5 ft. of the target and the Operative has no disadvantage.
+***Cell Discipline.*** Cannot be charmed or frightened. Knows nothing above their own cell — a captured Operative cannot reveal names or locations they do not have.
 
-***Pack Tactics.*** Advantage on attack rolls against a creature when at least one ally is within 5 ft. of it and isn't incapacitated.
-
-***Twilight Trained.*** Advantage on Stealth checks in dim light or darkness. Varenhold's permanent amber twilight always qualifies.
-
-***Contract Discipline.*** Can't be charmed or frightened while executing an active contract. This trait fails if the contract is publicly shown to be fraudulent — e.g., the players display it to the Operatives.
+***Pack Tactics.*** Advantage on attack rolls against a creature when at least one ally is within 5 ft. of it.
 
 **ACTIONS**
 
-***Multiattack.*** Two Shortsword attacks, or one Shortsword + one Hand Crossbow.
+***Multiattack.*** Two Shortsword attacks.
 
-***Shortsword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6+4) piercing.
+***Shortsword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. *Hit:* 7 (1d6+4) piercing.
 
-***Hand Crossbow.*** *Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:* 7 (1d6+4) piercing.
-
-**BONUS ACTIONS**
-
-***Cunning Action.*** Dash, Disengage, or Hide.
+***Hand Crossbow.*** *Ranged Weapon Attack:* +7 to hit, range 30/120 ft. *Hit:* 7 (1d6+4) piercing.
 
 **REACTIONS**
 
-***Parry.*** Reduce damage from one melee attack it can see by 5 (1d6+2). Must be holding a melee weapon.
+***Fade.*** When reduced to 0 HP, the Operative makes one final Shadow Step before falling. They arrive unconscious but at the new location — recovery is possible if someone reaches them.
 
-> *Tactics: Operatives open at range (crossbow), shift to melee once Commanders engage. Never isolated — Pack Tactics is their core. Below 20 HP: retreat to flank, switch to crossbow only. Will not pursue fleeing players — contract says detain, not kill.*
+> *Tactics: Open at range, Shadow Step into melee when an ally is adjacent. Prioritise flanking over frontal engagement. At 15 HP: Shadow Step to cover and switch to crossbow only. Will not pursue. Will withdraw the instant the Shadow-Keeper goes down.*
 
 ---
 
-**COMMANDER DEK VARRIS** *(×1 — Ring of Contrariwise attuned, see above)*
-*Medium humanoid (hobgoblin), lawful neutral (currently: involuntarily benevolent)*
+**UNLIT SHADOW-KEEPER** *(×1)*
+*Medium humanoid (shadar-kai), lawful neutral*
 
-**AC** 18 (plate armor) · **HP** 130 (20d8+40) · **Speed** 30 ft.
+**AC** 17 (chain mail + shield) · **HP** 112 (15d8+45) · **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 18 (+4) | 14 (+2) | 14 (+2) | 16 (+3) | 12 (+1) | 14 (+2) |
+| 16 (+3) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) | 12 (+1) |
 
-**Saving Throws** Str +7, Con +5, Wis +4 · **Skills** Athletics +7, Intimidation +5, History +6, Perception +4
-**Senses** Darkvision 60 ft., Passive Perception 14 · **Languages** Common, Goblin, Thieves' Cant · **CR** 9 (5,000 XP)
+**Saving Throws** Str +6, Con +6, Wis +6 · **Skills** Perception +6, Stealth +6, Athletics +6, Insight +6
+**Damage Resistances** Necrotic · **Senses** Darkvision 60 ft., Passive Perception 16 · **Languages** Common, Elvish, Undercommon · **CR** 8 (3,900 XP)
 
 **TRAITS**
 
-***Martial Advantage.*** Once per turn, deals an extra 14 (4d6) damage when hitting a creature with an ally within 5 ft. of it.
+***Shadow Step (Bonus Action, Recharge 4–6).*** Teleports up to 30 ft. between dim/dark spaces. Advantage on next melee attack.
 
-***Battle Command (Bonus Action, Recharge 5–6).*** Each ally within 30 ft. that can hear Varris can add 1d4 to attack rolls and saving throws for 1 minute (concentration). *While Ring is attuned: this also applies to the players if they are in range. Varris is aware of this. He is furious.*
+***Cell Command.*** When the Shadow-Keeper uses Shadow Step, all Operatives within 30 ft. may use their reaction to make one weapon attack.
 
-***Aggressive.*** Bonus action: Varris moves up to his full speed toward a hostile creature he can see.
+***Twilight Awareness.*** Cannot be surprised while in dim light or darkness. Perceives invisible creatures within 15 ft. as blurred silhouettes (DC 14 to pinpoint).
 
-***Saving Face.*** If Varris misses with an attack roll, he can gain a bonus equal to the number of allies within 5 ft. of the target (max +5), potentially turning the miss. Once per round.
-
-***Ring of Contrariwise Modifiers (while attuned):*** Battle Command benefits all creatures in range including players. All Intimidation checks automatically convert to Persuasion DC 8. Varris cannot willfully withhold tactical information from opponents. He is aware of all of this and cannot stop any of it.
+***Doctrine Hold.*** Immune to spells that would read its thoughts or compel truth. It does not know why — the Concordance administered something years ago that it accepted without question.
 
 **ACTIONS**
 
-***Multiattack.*** Three Greatsword attacks.
+***Multiattack.*** Three Shortsword attacks or two Shortsword + one Shadow Drain.
 
-***Greatsword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing. On a hit, target makes DC 15 Strength check or is pushed 5 ft.
+***Shortsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft. *Hit:* 6 (1d6+3) piercing + 7 (2d6) necrotic.
 
-***Rallying Cry (Recharge 5–6).*** All allies within 30 ft. gain 10 (3d6) temporary HP. *While Ring is attuned: this also restores 5 HP to the nearest player. Varris does not do this on purpose.*
+***Shadow Drain.*** *Ranged Spell Attack:* +6 to hit, range 60 ft. *Hit:* 14 (4d6) necrotic damage. Target's speed is halved until end of its next turn.
 
-***Tactical Advance (3/day).*** Varris and all allies within 30 ft. move up to half speed without provoking opportunity attacks.
+***Enveloping Dark (Recharge 5–6).*** 15-ft radius, centered on self: dim light becomes darkness for 1 minute (concentration). Creatures in the darkness that aren't shadar-kai must succeed DC 14 Constitution save or be blinded until they leave the area.
 
 **REACTIONS**
 
-***Shield of the Commander.*** When an ally within 5 ft. takes damage, Varris takes half instead.
+***Interpose Shadow.*** When an ally within 10 ft. is hit, the Shadow-Keeper takes half the damage instead (split equally).
 
-***Counterattack.*** When a creature misses Varris with a melee attack, Varris makes one Greatsword attack against the attacker.
-
-> *Tactics (normal): Anchors center, uses Rallying Cry when Operatives pressured, coordinates flanking with Pell. Tactics (Ring-compromised): He will attempt these same actions. The ring keeps redirecting him. See encounter table above. If Remove Curse is cast: ring pops off, Varris immediately re-engages at full lethality — roll initiative.*
+> *Tactics: Opens with Enveloping Dark. Shadow Steps to melee frontliner and holds pressure. Uses Cell Command to direct Operative attacks each time it repositions. At 30 HP: stops fighting, states precisely: "This engagement is complete." Will not run — will formally surrender and say nothing.*
 
 ---
 
-**COMMANDER PELL** *(×1)*
-*Medium humanoid (hobgoblin), lawful neutral*
+**UNLIT DOCTRINAL VOICE** *(×1)*
+*Medium humanoid (human), lawful neutral*
 
-**AC** 15 (chain shirt) · **HP** 110 (17d8+51) · **Speed** 30 ft.
+**AC** 13 (mage armor) · **HP** 84 (13d8+26) · **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 12 (+1) | 15 (+2) | 16 (+3) | 19 (+4) | 16 (+3) | 12 (+1) |
+| 10 (+0) | 13 (+1) | 14 (+2) | 18 (+4) | 16 (+3) | 14 (+2) |
 
-**Saving Throws** Con +6, Int +7, Wis +6 · **Skills** Arcana +7, Insight +6, Investigation +7, Perception +6
-**Senses** Darkvision 60 ft., Passive Perception 16 · **Languages** Common, Goblin, Elvish, Dwarvish · **CR** 9 (5,000 XP)
+**Saving Throws** Int +7, Wis +6 · **Skills** Arcana +7, History +7, Insight +6, Persuasion +5
+**Senses** Passive Perception 13 · **Languages** Common, Elvish, Dwarvish, Infernal · **CR** 7 (2,900 XP)
 
-**Spellcasting.** 10th-level spellcaster. Intelligence (save DC 15, +7 to hit with spell attacks).
+**Spellcasting.** 9th-level spellcaster. Intelligence (save DC 15, +7 to hit).
 
-*Cantrips (at will):* fire bolt, toll the dead, minor illusion, mage hand
-*1st level (4 slots):* shield, chromatic orb, thunderwave
-*2nd level (3 slots):* misty step, hold person, scorching ray
-*3rd level (3 slots):* counterspell, fireball, fear
-*4th level (3 slots):* greater invisibility, ice storm, dimension door
+*Cantrips:* toll the dead, minor illusion, chill touch, message
+*1st (4 slots):* shield, silent image, sleep
+*2nd (3 slots):* hold person, darkness, misty step
+*3rd (3 slots):* counterspell, fear, hypnotic pattern
+*4th (2 slots):* banishment, greater invisibility
 
 **TRAITS**
 
-***Arcane Advantage.*** Once per turn, adds extra 7 (2d6) force damage to a damaging spell targeting a creature with an ally within 5 ft. of it.
+***Doctrinal Certainty.*** Immune to being charmed. Advantage on Wisdom saving throws. If a spell attempts to alter its beliefs or compel action against its doctrine, the spell automatically fails — treat as legendary resistance (3/day).
 
-***Tactical Assessment (Bonus Action).*** Designates one creature within 60 ft. as Priority Target. All allies have advantage on attacks against it until start of Pell's next turn.
-
-***Combat Casting.*** Pell doesn't provoke opportunity attacks when casting spells.
-
-***Army Arcane.*** Pell's area spells treat allied creatures within 5 ft. of targets as absent for blast radius purposes.
+***Back Line.*** Never moves within 30 ft. of a player voluntarily.
 
 **ACTIONS**
 
-***Multiattack.*** Two Longsword attacks or one Longsword + one spell of 3rd level or lower.
+***Toll the Dead (Cantrip).*** One creature within 60 ft.: DC 15 Wis save or 9 (2d8) necrotic — 2d12 if missing HP.
 
-***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft. *Hit:* 5 (1d8+1) slashing.
+***Hold Person (2nd slot).*** One humanoid within 60 ft.: DC 15 Wis save or paralyzed 1 minute. Repeat end of each turn.
 
-***Fire Bolt (Cantrip).*** *Ranged Spell Attack:* +7 to hit, range 120 ft. *Hit:* 11 (2d10) fire damage.
+***Fear (3rd slot).*** 30-ft cone: DC 15 Wis save or frightened 1 minute. Dash away from Voice on frightened creature's turn.
 
-***Toll the Dead (Cantrip).*** One creature within 60 ft.: DC 15 Wis save or take 9 (2d8) necrotic damage — 2d12 if target is already missing HP. *A tolling sound fills their skull. Most effective against wounded targets.*
+***Hypnotic Pattern (3rd slot).*** 30-ft cube within 120 ft.: DC 15 Wis save or incapacitated and speed 0 until damaged or shaken. Concentration.
 
-***Hold Person (2nd slot).*** One humanoid within 60 ft.: DC 15 Wis save or paralyzed 1 minute. Repeat save end of each turn. *Pell opens with this on the frontline fighter.*
+***Banishment (4th slot).*** One creature within 60 ft.: DC 15 Cha save or banished to harmless demiplane for 1 minute (concentration). If concentration breaks before then, returns.
 
-***Misty Step (2nd slot, Bonus Action).*** Teleports up to 30 ft. to a visible space. No opportunity attacks.
+***Greater Invisibility (4th slot).*** Self only. Invisible for 1 minute. Concentration.
 
-***Scorching Ray (2nd slot).*** Three rays, each +7 to hit, 60 ft., 7 (2d6) fire damage per hit. Can target multiple creatures.
+**REACTIONS** Shield (1st slot, +5 AC, negates magic missile). Counterspell (3rd slot).
 
-***Fireball (3rd slot).*** 20-ft radius sphere, 150 ft. range: DC 15 Dex save or 28 (8d6) fire, half on success. *Pell will not use this if Varris or Operatives are in range. He has standards.*
-
-***Fear (3rd slot).*** 30-ft cone: DC 15 Wis save or frightened 1 minute. Frightened creatures must Dash away from Pell on their turn. Repeat save end of each turn.
-
-***Counterspell (3rd slot, Reaction).*** Interrupt a spell cast within 60 ft. Automatically negates 3rd level and below. 4th+: DC 13 Intelligence check.
-
-***Greater Invisibility (4th slot).*** One creature (usually himself) becomes invisible 1 minute (concentration). Attacks from invisibility have advantage; attacks against it have disadvantage.
-
-***Ice Storm (4th slot).*** 40-ft cylinder (20 ft. tall) within 300 ft.: DC 15 Dex save, fail = 9 (2d8) bludgeoning + 18 (4d6) cold, success = half. Area becomes difficult terrain until end of Pell's next turn.
-
-***Dimension Door (4th slot).*** Pell teleports up to 500 ft. to a known location. Can bring one willing creature. *Used to exit entirely if Varris is captured and Operatives are down.*
-
-**BONUS ACTIONS** Tactical Assessment; Misty Step (when slotted).
-
-**REACTIONS** Shield (1st slot — +5 AC until start of next turn, blocks magic missile automatically); Counterspell (3rd slot).
-
-> *Tactics — Round 1: Tactical Assessment on most dangerous PC. Hold Person on melee frontliner. Move to 60 ft. Round 2: Fireball if 3+ players clustered, Scorching Ray if spread. Round 3: Greater Invisibility on himself at 50% HP. Fear if players bunch. Ongoing: Counterspell all healing and mobility spells. Misty Step to maintain range. Exit: Dimension Door if Varris captured + Operatives down. He will file a complete report to Keseph within the hour.*
+> *Tactics: Stays at maximum range throughout. Opens with Hold Person on melee frontliner, then Hypnotic Pattern on a clustered group. Fear if the party advances. Greater Invisibility on itself at 50% HP and moves away. Banishment only if a party member is doing something that cannot be countered otherwise. Counterspells all healing. Never engages in melee. If all allies go down: turns invisible, walks away. Files its report within the hour.*
 
 </details>
 
@@ -877,104 +804,153 @@ Not present at the Dawnhall. Players can learn her location from Tomas (he knows
 </details>
 
 <details>
-<summary>📁 Scene 5 — Combat: Harran at the Ashring</summary>
+<summary>📁 Scene 5 — Combat: The Concordance Moves</summary>
 
 <details>
 <summary>📄 Setup & Secondary Objective</summary>
 
-**Before the scene — environmental hint:** On the approach to the Ashring perimeter, players pass a pair of Reckoning soldiers at a checkpoint. One says to the other, low: *"Commander hasn't slept in two days."* They don't explain. Move on without drawing attention to it.
+**Before the scene — environmental hint:** On the approach to the Ashring at dusk, the stones are wrong. They were pulsing at a slow held-breath rhythm all day. Now they are silent. Not dormant — silent, the way a room goes silent when something has entered it. DC 13 Arcana: the silence is not natural suppression. Something is actively absorbing the stones' output. It has been doing it for at least an hour.
 
-**Setup:** Evening. Players are at or returning to the Ashring perimeter. Commander Harran Lecht arrives with twelve Reckoning soldiers. He has not come to destroy the stones — he has come to claim the site and control ritual access. He knows about the Inversion inscription from his Spire contact Varren Aldiss. His calculation: if he controls the Ashring, he controls whether the Inversion happens or whether the forced version does. His ultimatum: players step aside, or the Reckoning proceeds without them.
+**Setup:** Evening. Players return to the Ashring with however many cubes they have gathered. The Concordance has been watching all session. The morning cell was a warning. This is not a warning. A senior Concordance cell has moved into the Ashring site — they arrived while the party was at the Dawnhall. There are seven of them: four Unlit operatives, two Priests of the Inward Crescent, and a single figure standing at the central dais who has not moved since they arrived. The dais is surrounded by a circle of obsidian powder. The Concordance Stone's hiding hollow has been found and opened. The hollow is empty — they have not found the box itself, because the players have it. They are waiting.
 
-Aldric Stone, a willing Dawnborn, is already at his Primer Stone — he came to verify the activation sequence players demonstrated. The Reckoning needs Dawnborn present to begin any version of the ritual. Harran has instructed soldiers to secure Aldric first.
+Aldric Stone, who came to the Ashring ahead of the party to wait at his Primer Stone, is in the circle. He is not bound. He has not been hurt. He is standing very still, and the Priest nearest him has said nothing to him for forty minutes, and he does not know why that is more frightening than threats would be.
 
-**Secondary Objective (state before combat begins):** Keep Aldric at his Primer Stone position. Reckoning soldiers will attempt to physically pull him away — treat each pull attempt as a grapple (contested Athletics). If Aldric is removed from his stone, Harran has what he needs to begin a forced partial ritual tonight. Protecting Aldric matters more than defeating Harran.
+**Secondary Objective (state before combat begins):** Get Aldric out of the obsidian circle before the Priests complete the suppression ritual they have been building. The circle is not finished — they needed the Concordance Stone to anchor it and they don't have it. They are improvising. If Aldric is inside the circle when it completes (end of round 4 if uninterrupted), his connection to his Primer Stone is severed for 24 hours. He cannot give his cube's consent-link without it. He becomes the ritual's missing piece.
 
 **Enemies:**
-- Reckoning Soldiers: 8, use Veteran stats (MM p.350).
-- Senna Kard: 1 (Harran's lieutenant — see NPC block below). Use Bandit Captain stats. She is present here for the first time — players who later encounter her in Session 5 Scene 1 will recognise her.
-- Harran Lecht: 1, use Bandit Captain stats plus 1 additional attack per multiattack (4 attacks total), plus once per combat (recharge 5-6): Inspiring Shout — all Reckoning allies within 30 feet regain 10 HP.
+- Unlit Operative ×4: Use the stat block from Scene 1.
+- Priest of the Inward Crescent ×2: See NPC block below.
+- Null-Warden ×1 (standing at the dais): See NPC block below. This is the most dangerous combatant the party has faced. It does not move until round 2.
 
 </details>
 
 <details>
-<summary>📄 Harran's Opening & Ultimatum</summary>
+<summary>📄 The Opening — Before Initiative</summary>
 
-**Harran's opening line (before initiative, before the ultimatum):** He does not open with politics. He opens with this — level, unhurried, looking directly at the party:
+The figure at the dais turns. Shadar-kai, old enough that the ash-grey of their skin has gone white at the temples. Their eyes are not black — they are the particular grey of old obsidian after it has been held too long. The obsidian disc at their neck is worn outside their clothing for the first time the party has ever seen on a Concordance member.
 
-> *"My name is Harran Lecht. You killed Maren Drel at the Lowmark Junction. I need you to know that before we proceed."*
+They speak. Not loudly.
 
-Then the ultimatum. He does not dwell on it. The professionalism is more unsettling than grief would be.
+> *"You have the Stone. We know you have the Stone. We are not going to take it from you tonight."*
 
-**Harran's ultimatum — full text:**
+A pause. The four Unlit have not moved.
 
-> *"You've found the Inversion path. Good. So have we. The difference is: you believe you can wait for consent. I have six months before this city starts eating itself. I cannot wait. Tonight we begin. If you step aside, I will give you forty-eight hours before my soldiers touch the stones. I will not give you more than that. Use the time."*
+> *"What we are going to do is make sure the door stays closed. Whatever it costs. However long it takes. The passage is complete. We are the passage now."*
 
-He waits five seconds for an answer. Then he nods to the soldiers.
+They look at Aldric.
 
-</details>
+> *"He understands. He has had forty minutes to understand. Ask him yourself, if you like. We did not threaten him. We explained what will happen if this goes forward, and he is still here, which means he is either very committed or he has not entirely made up his mind. We find both outcomes acceptable."*
 
-<details>
-<summary>📄 Negotiation Path</summary>
+Then the Priests begin the suppression circle — murmuring, the obsidian powder shifting — and the Null-Warden turns back to the dais.
 
-**Negotiation path — the 48-hour option:**
-
-Harran will negotiate. He will not yield. These are different things.
-
-*Trigger:* Players must show material evidence that the Inversion is progressing — not a plan, not a promise. Evidence that works: Ellan Voss present and speaking (he knows her name; he did not know she was alive), the center dais inscription glowing and readable, or Cormac's renewed consent witnessed by Reckoning soldiers.
-
-Promises without evidence: he has had those for months.
-
-| Evidence shown | Result |
-|---|---|
-| None | Tonight. Soldiers move immediately. |
-| One piece (e.g., center dais glowing) | DC 15 Persuasion: 48 hours. On fail: 24 hours. He is impressed even if unmoved. |
-| Two pieces (e.g., dais + Ellan present) | 48 hours automatically. DC 13 Persuasion for 72 hours. |
-
-Harran on successful negotiation: *"Forty-eight hours. One condition: if I don't see all ten at those stones by then, I move. Not because I want to. Because I have to."*
-
-He is not lying. He will move.
+**Social path:** DC 17 Persuasion (or revealing that the Unmoved One's true goal is corruption, not prevention) causes one of the Priests to stop. The other continues. The Null-Warden does not turn. What the stopping Priest does next — relay it upward, defect, do nothing — depends on what the party says in the next thirty seconds. This is not a guaranteed out. It is a crack.
 
 </details>
 
 <details>
-<summary>📄 Senna Kard — Reckoning Lieutenant</summary>
+<summary>📄 Combat Cards — Priests & Null-Warden</summary>
 
-*Want:* This to end without more death.
-*Fear:* That her caution is just cowardice with a better name.
-*Lie:* She doesn't care which ending happens — she cares about this specific one.
+---
 
-Voice: Quiet, careful. Fewer words than Harran. Means them more.
+**PRIEST OF THE INWARD CRESCENT** *(×2)*
+*Medium humanoid (shadar-kai), lawful neutral*
 
-Physical: Thirties. Compact, economical in movement. Doesn't wear rank insignia — she finds it performative. She has been watching Harran change for two months and has not said anything directly. She says everything else directly.
+**AC** 14 (chain shirt) · **HP** 97 (15d8+30) · **Speed** 30 ft.
 
-She does not share Harran's conviction about the forced ritual. She has stayed because she trusts Harran's intent, not his plan. That trust is running out.
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 14 (+2) | 14 (+2) | 16 (+3) | 18 (+4) | 13 (+1) |
 
-**If players de-escalate or capture Harran:** Senna stops fighting immediately. She does not need to be asked. She says, to the soldiers nearest her: *"Stand down."* She will not explain. In Session 5, if Harran has been captured or neutralised, Senna does not appear in Scene 1. She is done.
+**Saving Throws** Wis +7, Int +6 · **Skills** Arcana +6, Religion +6, Insight +7, Perception +7
+**Damage Resistances** Necrotic · **Senses** Darkvision 60 ft., Passive Perception 17 · **Languages** Common, Elvish, Undercommon · **CR** 7 (2,900 XP)
 
-</details>
+**Spellcasting.** Wisdom (save DC 15, +7 to hit).
 
-<details>
-<summary>📄 Harran Lecht — Commander</summary>
+*Cantrips:* toll the dead, guidance, sacred flame, spare the dying
+*1st (4 slots):* bane, inflict wounds, detect magic, shield of faith
+*2nd (3 slots):* hold person, silence, spiritual weapon
+*3rd (3 slots):* dispel magic, spirit guardians, counterspell
+*4th (2 slots):* banishment, death ward
 
-*Want:* To solve the crisis before the city collapses. Not to win. Not to be right.
-*Fear:* That grief has made him impatient in ways he cannot see clearly.
-*Lie:* "This is purely strategic." It is not. Maren Drel is always in the room.
+**TRAITS**
 
-Voice: Level, unhurried. He does not raise his voice. He is most dangerous when he is quietest. He says difficult things simply, without decoration.
+***Suppression Ritual (Concentration, Active).*** While both Priests are alive and within 10 ft. of each other, they are building the obsidian circle. Each round they are uninterrupted, the circle completes one step further. At step 4: Aldric's stone connection severs. Breaking the ritual requires dealing 20+ damage to one Priest in a single hit, or physically breaking the obsidian powder line.
 
-Physical: Late forties. Military bearing without performance. Has looked tired for months. Does not disguise it.
+***Doctrinal Certainty.*** Immune to charm. Advantage on saves vs. spells that compel truth or alter belief.
 
-Background: Former city watch, elevated as the Reckoning expanded. Spent the first four months genuinely trying to find a peaceful path. Stopped two months ago when the starvation projections came in. He has not told the Reckoning that Maren Drel died on his orders — he told them it was enemy action. He mostly believes that version now. But not when he is alone.
+***Shadow Step (Bonus Action, Recharge 5–6).*** Teleport up to 30 ft. between dim/dark spaces.
+
+**ACTIONS**
+
+***Multiattack.*** Two attacks: Toll the Dead + Spiritual Weapon, or two Inflict Wounds.
+
+***Toll the Dead.*** One creature within 60 ft.: DC 15 Wis save or 9 (2d8) necrotic, 2d12 if missing HP.
+
+***Inflict Wounds (melee).*** *+7 to hit*, reach 5 ft.: 22 (4d10) necrotic.
+
+***Spiritual Weapon (2nd slot, Bonus Action).*** Spectral obsidian blade appears within 60 ft. Lasts 1 minute. +7 to hit, 1d8+4 force on hit. Move up to 20 ft. and attack as bonus action each turn.
+
+***Spirit Guardians (3rd slot).*** 15-ft radius around self: creatures entering or starting turn there make DC 15 Wis save or take 18 (4d8) necrotic. Concentration.
+
+***Banishment (4th slot).*** One creature within 60 ft.: DC 15 Cha save or banished 1 minute (concentration).
+
+**REACTIONS** Counterspell (3rd slot, interrupt spell within 60 ft.).
+
+> *Tactics: Priests stay adjacent, building suppression ritual every round as bonus action. One Priest handles Spiritual Weapon + Toll the Dead. One handles Spirit Guardians around Aldric's position. Neither moves more than 10 ft. from the obsidian circle while the ritual is active. If forced out of range: ritual pauses, both reorient to reestablish adjacency before attacking.*
+
+---
+
+**NULL-WARDEN** *(×1)*
+*Medium humanoid (shadar-kai), lawful neutral*
+
+The Concordance's response when a situation requires certainty rather than delay. Not a title — a role. The Warden carries a null-focus, a rod of iron and obsidian that the Concordance has used for thirty years to do one specific thing: stop ritual energy from moving. It has been used before. It shows.
+
+**AC** 19 (plate armor) · **HP** 161 (19d8+76) · **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 20 (+5) | 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) | 10 (+0) |
+
+**Saving Throws** Str +9, Con +8, Wis +7 · **Skills** Athletics +9, Perception +7, Arcana +7
+**Damage Resistances** Necrotic; Bludgeoning, Piercing, Slashing from nonmagical weapons
+**Condition Immunities** Charmed, frightened · **Senses** Darkvision 60 ft., Passive Perception 17 · **Languages** Common, Elvish · **CR** 11 (7,200 XP)
+
+**TRAITS**
+
+***Null Aura.*** Creatures within 10 ft. of the Warden cannot cast spells of 1st level or higher without succeeding on a DC 15 Constitution saving throw. On failure: the spell slot is expended and the spell fails.
+
+***Shadow Step (Bonus Action, Recharge 4–6).*** Teleports up to 30 ft. between dim/dark spaces. Arrives with advantage on next melee attack.
+
+***Ritual Anchor.*** While the Warden holds the null-focus and stands within 10 ft. of the Ashring dais, the suppression circle builds two steps per round instead of one (counts as if both Priests acted, stacks).
+
+***Immovable Resolve.*** Cannot be moved against its will by any effect that doesn't first deal 30+ damage in a single hit.
+
+**ACTIONS**
+
+***Multiattack.*** Four Null-Focus Strike attacks, or three Null-Focus Strike + one Null Pulse.
+
+***Null-Focus Strike.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft. *Hit:* 12 (2d6+5) bludgeoning + 9 (2d8) necrotic. On hit, target cannot cast spells using reactions until start of its next turn.
+
+***Null Pulse (Recharge 5–6).*** 20-ft radius, centered on self: DC 17 Constitution save or all ongoing concentration spells within range end immediately. Creatures with active spells that end this way take 18 (4d8) psychic damage.
+
+***Seal the Stone (1/day, Action).*** Targets one Primer Stone within 30 ft. The stone's connection to its Dawnborn is severed for 24 hours. Cannot be used if a Dawnborn is actively touching the stone. *This is what the Warden came to do if the suppression circle fails.*
+
+**REACTIONS**
+
+***Null Response.*** When a spell is cast within 30 ft., the Warden may move up to 15 ft. toward the caster without provoking opportunity attacks (no action required).
+
+> *Tactics — Does not move until round 2. Round 1: Stands at the dais. Does not act offensively. The Null Aura is active. Let players feel it. Round 2: Shadow Steps to the most dangerous spellcaster. Three Null-Focus Strikes + hold position. Round 3+: Maintain adjacency to highest-threat target, Null Pulse when 3+ concentration spells are up. Seal the Stone if Aldric's player attempts to reach the stone without the party's protection. At 50 HP: states flatly — "You are stronger than anticipated. The record will reflect this." Does not stop fighting.*
 
 </details>
 
 <details>
 <summary>📄 Combat End & Session Hook</summary>
 
-**Combat ends when:** Reckoning withdraw when Harran withdraws or when 6 soldiers are downed. If reduced to half HP or surrounded on three sides, Harran stops fighting. He says, level, to the players: *"When the city collapses in six months, tell me which principle saved it."* He withdraws. He takes any soldiers who can walk. He is not done.
+**Combat ends when:** The Null-Warden reaches 0 HP (the Priests and Operatives withdraw immediately) or the suppression circle is broken (the cell's purpose is gone — they leave). If the Null-Warden is captured and conscious: it answers three direct questions truthfully, then refuses to speak further. It does not know the Unmoved One's true nature. It believes the doctrine. The three answers it gives will be precise, accurate, and deeply unsettling.
 
-**Session hook:** During or immediately after the combat, the Chancellor's aide delivers a message — a sealed letter handed to whoever is nearest. The message inside: *"Rationing begins in seven days. I am sorry it has come to this."* The deadline is now visible, concrete, and running.
+**If the circle completes before Aldric is freed:** Aldric's cube is still his. His consent is still his. But his Primer Stone is dark. The ritual cannot complete until the seal breaks in 24 hours. This is a Session 5 opening problem — not a failure state, but a cost.
+
+**Session hook:** As the last Concordance operative withdraws, the Concordance Stone (the puzzle box) pulses once — warmer than before, for a moment. The cubes already inside hum together. Something in the Ashring responded. It has been waiting fifty years for anyone to get this far. It is not done waiting. But it noticed.
 
 </details>
 
@@ -987,11 +963,12 @@ Background: Former city watch, elevated as the Reckoning expanded. Spent the fir
 ## End of Session
 
 **What players now know:**
-- Keseph Vyne is real, named, and willing to use mercenaries. He has been the bureaucratic obstruction since Session 1.
+- The Concordance of the Withdrawn has been tracking the Dawnborn by designation for years. The surveillance predates the party's involvement entirely.
+- The Concordance is capable of direct action at the Ashring. The morning cell was a warning. The evening was not.
+- The Null-Warden exists. The Concordance has purpose-built tools for severing Dawnborn-stone connections.
 - The Inversion path (Ending B) exists and is mechanically possible: all ten Dawnborn at their stones, unanimous genuine consent, no one dies.
-- The Inversion path requires Cormac's renewed consent, Lira's consent, Petra Vane's consent, and seven others — all of whom have not given it yet.
-- The Chancellor's seven-day deadline is now in effect.
-- Harran Lecht named Maren Drel before the fight started. He withdrew anyway. He is not done.
+- The Inversion path requires Cormac's renewed consent, Lira's consent, Petra Vane's consent, and several others — all of whom have not given it yet.
+- The Flowering has found whoever they were looking for. The letter went to someone specific.
 
 **What they carry forward:** Cormac's cup, set down too carefully. The question of whether listening is enough.
 
@@ -1001,14 +978,13 @@ Background: Former city watch, elevated as the Reckoning expanded. Spent the fir
 
 | Element | State |
 |---------|-------|
-| Keseph Vyne | Named / contract obtained / not yet confronted directly |
-| Solennite contract | Recovered (evidence) / not recovered (Keseph remains hidden) |
+| Concordance asset list | Recovered (designations known) / not recovered (surveillance scope unknown) |
+| Obsidian Ring of Contrariwise | Recovered / not recovered |
 | Primer Stones activated | Yes — Inversion inscription revealed / No — inscription unread |
 | Cormac's status | Renewed consent / unresolved (stone dark in Session 5) |
-| Aldric at his stone | Protected / removed by Reckoning |
-| Harran's withdrawal | Withdrew at half HP / defeated / negotiated |
-| Chancellor's deadline | Seven days. Clock is running. |
-| Isolde's apparatus (Transfer path) | Discovered and functional / found but unusable / not found (Ending C unavailable) |
+| Aldric's stone connection | Intact / severed 24 hrs (suppression circle completed) |
+| Null-Warden | Defeated / withdrew / captured (3 answers given) |
+| Ixa — The Flowering letter | Shared with party / kept private / ignored / accepted |
 | Petra Vane | Location known (Greenhollow) / unknown |
 
 ---
@@ -1018,7 +994,7 @@ Background: Former city watch, elevated as the Reckoning expanded. Spent the fir
 ---
 
 **What they don't know yet:**
-- Keseph Vyne has a working arrangement with the Concordance of the Withdrawn. Not loyalty — business. He knows when they move; they know when he does. They have been coordinating on "keeping the current arrangement" for two years.
-- Varren Aldiss, Harran's Spire contact, has also been feeding information to the Dawnless. Both the Reckoning and the Concordance know the Inversion inscription exists. Neither has the full activation sequence.
+- The Unmoved One is not a doctrine. It is a Lich. It does not want to prevent the Inversion — it wants to corrupt it at the moment of completion. The Priests do not know. The Null-Warden does not know. The entire Concordance has been doing the Lich's groundwork for thirty years without knowing what they serve.
+- The Flowering's failed experiments are not weapons. They are people the Flowering cannot let go of. The ones sent after Ixa are alive in the wrong way and have been for decades.
 - Ellan's refusal is not permanent. She said *"ask me again when they've all had the chance to choose freely."* She is waiting to be asked correctly. She has been waiting for a long time.
 - There are ten Primer Stones and eleven known Dawnborn. One stone has no assigned claimant. Someone steps back voluntarily in Session 5 so another can take their place. Who chooses to step back depends on what happened in Session 4.
