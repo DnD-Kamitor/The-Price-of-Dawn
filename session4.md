@@ -18,9 +18,9 @@
 | **Ellan Voss** | Someone to ask the right question | That she will say yes too late | *"I will not give consent. Not before."* |
 | **Maerin Voss** | Sera to change her mind | She is already too late | *"I'm not asking you to say no"* |
 | **Harran Lecht** | To solve the crisis before the city starves | Grief has made him impatient in ways he cannot see | *"This is purely strategic"* |
-| **Cormac Ossel** | To not have to decide again | Everyone will see his uncertainty collapse | His nine-weeks-ago yes is still the same yes |
-| **Ysel Thanis** | The Inversion to succeed — all ten willing | Cormac's wavering will spread to others | She is not frightened herself |
-| **Aldric Oal** | To help — he has already chosen | That he chose wrong | He is not afraid of dying |
+| **Cormac Drell** | To not have to decide again | Everyone will see his uncertainty collapse | His nine-weeks-ago yes is still the same yes |
+| **Ysel Maren** | The Inversion to succeed — all ten willing | Cormac's wavering will spread to others | She is not frightened herself |
+| **Aldric Stone** | To help — he has already chosen | That he chose wrong | He is not afraid of dying |
 
 ---
 
@@ -56,6 +56,8 @@ They lost their Dusk Priest in Session 3. They are regrouping. This session they
 ---
 
 **The Reckoning** (Harran Lecht's soldiers)
+
+**Harran Lecht** — A large man in his mid-fifties, soldier-built but starting to carry the weight of years differently. Grey at his temples, jaw set in the particular way of someone who made a choice a long time ago and has been living inside it. He moves like someone with nothing personal to lose — not because he doesn't have things he loves, but because he has decided he is willing to lose them. His grief has not made him smaller. It has made him more certain, which is more dangerous.
 
 **Maren Drel** — Harran's second-in-command for six years. Led the Session 1 ambush at Lowmark Junction on Harran's orders. Killed by the party. Harran has said nothing about it to anyone in the Reckoning. He deals with it the way soldiers deal with things — by not dealing with it until forced.
 
@@ -112,6 +114,8 @@ Anyone who cannot find a real reason stands outside. The door stays open. That i
 <details>
 <summary>📄 Maerin's Arrival</summary>
 
+Mid-thirties, quick-moving, the kind of person who is always half a step ahead of where she should be. Something of Ellan in the shape of her face — cousins or second cousins, close enough to read once you know. She wears a priest's cord at her wrist, Auris-knotted, but she carries herself less like a penitent and more like someone who has made a private arrangement with her god that suits them both.
+
 She appears as the last player speaks their reason — coming around the corner of the lane, moving fast, alone. She takes in the door, the panel, the party. She does not explain how she found it.
 
 She steps to the panel and speaks her own reason without being invited. Not dramatic. The ward clicks.
@@ -127,32 +131,58 @@ She does not wait. She goes in.
 
 **Ellan answers the door before they finish reading the letter in the compartment.**
 
-She is in her late sixties. Moves slowly, without assistance. Looks at them with the calm of someone who has been expecting a specific knock for a very long time.
+Silver-grey hair cut short and close — the kind of cut that says she stopped performing a long time ago. Hands steadier than they should be for someone who has lived under surveillance for three years. She moves with the deliberate economy of someone who has accepted that there will always be less time than she wants. She looks at each of them in turn. When her eyes reach Iza, something changes in her face — so briefly it might not have happened at all.
 
 *"Theron finally sent someone. Good. Come in."*
 
-She makes tea. She watches Iza throughout — her expression is different when her eyes land on Iza versus the others. Subtle. Only players watching Ellan watch Iza will catch it.
+She makes tea. She watches Iza throughout — not the way she watches the others. With the others she is assessing. With Iza, she is doing something much quieter. Something that does not have a name players will recognize.
 
 **Key lines:**
 
 > *"The ritual didn't fail because the cost was wrong. It failed because I withdrew my consent at the last moment. I was the ninth. I said no. And because I said no, it ended."*
 
+**If asked why:**
+
+She is quiet. Long enough that it stops feeling like a pause.
+
+> *"I was pregnant."*
+
+She does not elaborate immediately. She looks at her hands.
+
+> *"She was — I was five months. Her father had died the winter before. The child was the last thing he left me. The last proof that something had been real between us, between two people who deserved more time than they got. I stood at my stone. I understood what the ritual required. I wanted to give it. I had told myself for months that I would."*
+
+> *"Then I felt her move. And I understood: she had not consented. She had not been asked. She was not nine people with a choice — she was one person inside me who had no voice yet, and I was about to give that voice away. On her behalf. Without asking."*
+
+> *"The ritual required everything. I could not give everything that was not mine to give."*
+
+Silence.
+
+> *"She was born that night. During the aftermath. The ritual failed, the sun stopped, and she was born — and she did not breathe."*
+
+> *"They told me she did not breathe."*
+
+A long silence. She picks up her cup. Sets it back down.
+
+> *"I have been living in that silence for fifty years."*
+
+---
+
 > *"The Dawnless found out I existed approximately three years ago. They have been keeping me alive because I am useful to them. If the ritual proceeds, it requires my consent. I will not give it. Not because I am afraid. Because I am the only person in this city who has seen what happens when someone changes their mind at the last second inside the circle."*
 
-> *"It was not a small thing."*
-
 **If asked "Will you say yes now?":**
-> *Long silence. Then: "Ask me again when you've found all ten of them. Ask me again when they've all had the chance to choose freely. Then ask me. Not before."*
+> *Long silence. Then: "Ask me again when you've found all ten. Ask me again when they've all had the chance to choose freely. Then ask me. Not before."*
 
 ---
 
 **The Iza beat — choose one trigger before the session, tell no one else:**
 
+The trigger is not physical resemblance. Ellan never saw Iza's face — she never saw the child she lost. What she recognizes is something else: the way Iza holds her hands, the particular quality of her stillness, something of her father that carried forward through birth and death and revival and eleven years of living and came out on the other side as this specific girl standing in this specific room. Love made flesh. Unmistakably, heartbreakingly, impossibly.
+
 | Option | How it plays |
 |---|---|
-| Ellan goes still when Iza speaks | Iza's player notices before anyone else does |
-| *"Your name — how did you come to have it?"* | Direct; gives Iza's player a choice point |
-| Parting line: *"You are not an experiment. You were never an experiment."* — she looks at Iza | Gut-punch, no explanation given |
+| Iza says something precise and small — the careful kind of observation a careful person makes | Ellan sets down her cup. Very carefully. She does not look away from Iza for the rest of the conversation. |
+| *"Your name — how did you come to have it?"* | Ellan's answer is too long. She talks about the name's etymology, its origins, which regions use it — and players watching understand she is not answering the question she was asked. She is talking to buy time. |
+| Parting line: *"You were not an experiment. Whatever you were told about how you came to exist — you were never an experiment. You were the reason."* — she looks at Iza | She does not explain the second sentence. She does not need to. |
 
 </details>
 
@@ -393,7 +423,11 @@ This is not hostile. It is absolute.
 <details>
 <summary>📄 Five Senses & The Encounter</summary>
 
-**NPC:** Cormac Ossel (with Ysel Thanis present and watching)
+**NPC:** Cormac Drell (with Ysel Maren present and watching)
+
+**Cormac Drell** — Compact and broad, dock-worker built, mid-thirties. Brown eyes doing a lot of work keeping his face neutral. His hands are always doing something — when he's not actually working, he fidgets with whatever is nearest. He is a good man in a bad situation of his own making, and he knows himself exactly well enough to know which part of that is the hard part.
+
+**Ysel Maren** — Taller than she seems when seated, Ashfen Clan heritage clear in her face and bearing. She has earned her calm rather than performed it. When she asks the question, she does not look like she is attacking Cormac. She looks like someone who is simply done waiting to find out.
 
 **Want:** Cormac wants to not have to decide again. He gave his answer nine weeks ago. He believed it then.
 
@@ -401,7 +435,7 @@ This is not hostile. It is absolute.
 
 **Lie:** That his yes from nine weeks ago is still the same yes. It isn't. He knows it isn't.
 
-**Setup:** At the Dawnhall after players return from the Ashring. Ysel Thanis has been watching Cormac for three weeks. She has not said anything to him directly. Until now. She asks him, in the open, in front of players and two other Dawnborn seated at the far end of the table: *"Do you still mean what you told Edoran?"*
+**Setup:** At the Dawnhall after players return from the Ashring. Ysel Maren has been watching Cormac for three weeks. She has not said anything to him directly. Until now. She asks him, in the open, in front of players and two other Dawnborn seated at the far end of the table: *"Do you still mean what you told Edoran?"*
 
 **Five senses:**
 - Sight: Amber lantern light. The long Dawnhall table. Cormac's hands around a clay cup.
@@ -419,6 +453,8 @@ What resolves Cormac is not persuasion. It is not reassurance. It is someone sta
 
 If players help Cormac reach genuine re-consent through actual examination of his choice (not comfort, not urgency): flag "Cormac: renewed." His stone activates in Session 5.
 
+**Ysel after the scene:** She does not comment on the outcome. If Cormac came back to yes, she says nothing. If Cormac left without answering, she says nothing. She is not satisfied. She is not worried. She is doing the thing she has always done: waiting to find out what kind of person someone actually is, patiently, without judgment, but also without flinching from the answer.
+
 If players do not follow up before Session 5 closes: his stone is dark at the Inversion Circle. The Inversion cannot complete.
 
 **Sample dialogue:**
@@ -431,7 +467,7 @@ If players do not follow up before Session 5 closes: his stone is dark at the In
 </details>
 
 <details>
-<summary>📄 Aldric Oal — Dawnborn</summary>
+<summary>📄 Aldric Stone — Dawnborn</summary>
 
 *Want:* To help. He has already chosen — his consent is the clearest of all ten.
 *Fear:* That he chose wrong. Not whether to participate, but whether his participation will be enough.
@@ -439,7 +475,9 @@ If players do not follow up before Session 5 closes: his stone is dark at the In
 
 Voice: Quiet and direct. No hedging, no softening. *"I said yes. I meant it. I mean it now."*
 
-Physical: Late fifties. Deliberate in his movements. He has been at his Primer Stone three mornings this week. He knows which stone is his.
+*Physical:* Late fifties, blacksmith-built, moves with the economy of someone who has spent forty years managing heat and weight. His eyes are amber-gold — not brown, not hazel, *amber*, the precise color of the ritual stones mid-activation. In low light they catch and hold illumination in a way that makes people glance twice. He runs warmer than other people; his apprentices used to joke about standing near him in winter. He does not find this strange. He was born the night the ritual broke, and he glowed faintly for three days after. His mother called it beautiful. He has the manner of someone who has made his peace completely — not with dying, but with whatever comes.
+
+He has been at his Primer Stone three mornings this week. When his hand touches it, it responds faster and warmer than for any other Dawnborn. He hasn't mentioned this. It doesn't seem like the kind of thing that needs mentioning.
 
 </details>
 
@@ -459,7 +497,7 @@ Players who visit the Healing House during Session 4: she is polite. She asks th
 </details>
 
 <details>
-<summary>📄 Petra Innes — Dawnborn</summary>
+<summary>📄 Petra Vane — Dawnborn</summary>
 
 Not present at the Dawnhall. Players can learn her location from Tomas (he knows where all the Dawnborn are: *"Petra's in Greenhollow. Third ward. She's not avoiding anyone — she just doesn't come to group meetings"*) or from Edoran (DC 11 Persuasion). She does not need to be visited in Session 4. In Session 5, she arrives at the Ashring at dawn — she has already decided. Players who know her location are not surprised; players who don't will find an unfamiliar face at one of the stones.
 
@@ -477,7 +515,7 @@ Not present at the Dawnhall. Players can learn her location from Tomas (he knows
 
 **Setup:** Evening. Players are at or returning to the Ashring perimeter. Commander Harran Lecht arrives with twelve Reckoning soldiers. He has not come to destroy the stones — he has come to claim the site and control ritual access. He knows about the Inversion inscription from his Spire contact Varren Aldiss. His calculation: if he controls the Ashring, he controls whether the Inversion happens or whether the forced version does. His ultimatum: players step aside, or the Reckoning proceeds without them.
 
-Aldric Oal, a willing Dawnborn, is already at his Primer Stone — he came to verify the activation sequence players demonstrated. The Reckoning needs Dawnborn present to begin any version of the ritual. Harran has instructed soldiers to secure Aldric first.
+Aldric Stone, a willing Dawnborn, is already at his Primer Stone — he came to verify the activation sequence players demonstrated. The Reckoning needs Dawnborn present to begin any version of the ritual. Harran has instructed soldiers to secure Aldric first.
 
 **Secondary Objective (state before combat begins):** Keep Aldric at his Primer Stone position. Reckoning soldiers will attempt to physically pull him away — treat each pull attempt as a grapple (contested Athletics). If Aldric is removed from his stone, Harran has what he needs to begin a forced partial ritual tonight. Protecting Aldric matters more than defeating Harran.
 
@@ -580,7 +618,7 @@ Background: Former city watch, elevated as the Reckoning expanded. Spent the fir
 **What players now know:**
 - Keseph Vyne is real, named, and willing to use mercenaries. He has been the bureaucratic obstruction since Session 1.
 - The Inversion path (Ending B) exists and is mechanically possible: all ten Dawnborn at their stones, unanimous genuine consent, no one dies.
-- The Inversion path requires Cormac's renewed consent, Lira's consent, Petra Innes's consent, and seven others — all of whom have not given it yet.
+- The Inversion path requires Cormac's renewed consent, Lira's consent, Petra Vane's consent, and seven others — all of whom have not given it yet.
 - The Chancellor's seven-day deadline is now in effect.
 - Harran Lecht named Maren Drel before the fight started. He withdrew anyway. He is not done.
 
@@ -600,7 +638,7 @@ Background: Former city watch, elevated as the Reckoning expanded. Spent the fir
 | Harran's withdrawal | Withdrew at half HP / defeated / negotiated |
 | Chancellor's deadline | Seven days. Clock is running. |
 | Isolde's apparatus (Transfer path) | Discovered and functional / found but unusable / not found (Ending C unavailable) |
-| Petra Innes | Location known (Greenhollow) / unknown |
+| Petra Vane | Location known (Greenhollow) / unknown |
 
 ---
 

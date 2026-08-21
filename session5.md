@@ -19,7 +19,7 @@
 | **Senna Kard** | This to end without more death | That her caution is just cowardice | She doesn't care which ending — she cares about this specific one |
 | **Ellan Voss** | To say yes at the right moment | That the right moment has already passed | *"I haven't decided yet"* |
 | **Tomas Areth** | The circle to close, nothing held back | That his memorized sequence has a flaw | He is not afraid |
-| **Ysel Thanis** | Every voice to be genuinely free | That Cormac's uncertainty is contagious | She is not frightened herself |
+| **Ysel Maren** | Every voice to be genuinely free | That Cormac's uncertainty is contagious | She is not frightened herself |
 
 ---
 
@@ -74,7 +74,11 @@ If players raise it: Edoran, at the plaza edge, quietly: *"We found the eleventh
 
 **The eleventh is Iza.** When Theron revived her at birth using Corven's ritual energy, she absorbed a trace of the original circle. She carries what the unmarked stone responds to — not as a substitute for another Dawnborn, but as the element the ritual always needed and never had. The original ten were never quite enough. They couldn't have known.
 
-No one told her this. The stone warms when she approaches it — which is how Edoran found out three months ago, and why he didn't know what to say.
+*Physical:* Eleven years old, but the word sits strangely on her. Small, quieter than eleven-year-olds usually are. Grey eyes a shade too light for her face — almost silver in strong light — and hands that are always warm. Not fever-warm. Just consistently, inexplicably warmer than the room. People who shake her hand sometimes look down at it afterward, as if checking something. She notices. She is used to it.
+
+She was dead. For a moment or for longer — the records are unclear and Theron has never specified and she has stopped asking him. She came back, and the ritual energy that revived her left its mark. Not visibly, not dramatically. Just in the quality of her presence. When she enters a room, something shifts slightly. People turn toward her without knowing why. She does not find this strange either. It has always been this way.
+
+No one told her about the stone. The stone warms when she approaches it — which is how Edoran found out three months ago, and why he didn't know what to say.
 
 **GM note:** If Iza's player doesn't know yet, this is the moment. Edoran looks at Iza with recognition that doesn't require explanation. The stone does the explaining. Give the player a breath before the next line. This is not a combat reveal — it is a quiet one.
 
@@ -87,7 +91,7 @@ No one told her this. The stone warms when she approaches it — which is how Ed
 
 With eleven Dawnborn and eleven stones, the original question of "who yields" transforms. No one has to step back — the circle has room. But players who expected someone to sacrifice their position discover the opposite: the circle is *more* complete than the original ritual ever was.
 
-**GM note:** This is a deliberate reversal. The campaign has been about consent, sacrifice, and the arithmetic of who gets left out. Session 5 reveals that the ritual's original failure wasn't Ellan withdrawing — it was that Iza hadn't been born yet. The circle was always incomplete. It was waiting for its eleventh element.
+**GM note:** This is a deliberate reversal. The campaign has been about consent, sacrifice, and the arithmetic of who gets left out. Session 5 reveals that the ritual's original failure wasn't Ellan withdrawing — it was that Iza hadn't been born yet. Ellan refused because she was carrying Iza. Iza is what made the ritual incomplete. The love that stopped the ritual is the same love that completes it. That is the entire story.
 
 If Ellan is present: she recognizes this. She stands at her stone and does not step back. *"I stepped away once. I am done stepping away."* She steps on.
 
@@ -272,17 +276,19 @@ Petra: She nods.
 
 The others:
 
-**Aldric Oal:** Sets his palm flat on his stone and holds it there. Does not speak. He looks relieved — not at the ending, but at finally being useful for something that matters.
+**Aldric Stone:** Sets his palm flat on his stone and holds it there. Does not speak. The stone warms immediately — faster and brighter than any other. Players who watched the activation sequence in Session 4 will notice the difference; players who didn't will still feel it in the air. He looks relieved — not at the ending, but at finally being useful for something that matters. His amber-gold eyes catch the glow from the stone and hold it. He does not look strange in this light. He looks, for the first time, completely right.
 
-**Naren:** A cartographer by trade; he marks things. He takes out a charcoal stick and makes a small glyph on the stone's face — the mark he uses for "confirmed location." He does not explain it. He steps on.
+**Orya Doss:** A cartographer by trade; she marks things. She takes out a charcoal stick and makes a small glyph on the stone's face — the mark she uses for "confirmed location." She does not explain it. She steps on.
 
 **Cori:** Grips her stone with both hands, looks at the sky, exhales once. Nods to herself.
 
 **Sorel** *(one of the seven Dawnborn who gave consent early and have not wavered — quiet, practical, the kind of person who shows up before being asked):* She has been at her stone for twenty minutes. She is waiting for everyone else to catch up.
 
-**Ellan:** She steps onto her stone. Not dramatically. She has been waiting fifty years to do this freely. She does not make it large. She just steps on. If a player is watching her face: it is the expression of someone who finally said a word they've been holding in their chest for a very long time.
+**Ellan:** She steps onto her stone. Not dramatically. She has been waiting fifty years to do this freely. She does not make it large. She just steps on. If a player is watching her face: it is the expression of someone who finally said a word they have been holding in their chest for a very long time — the word she couldn't say the first time because she was carrying someone else inside her, and that someone else is now standing six feet away at a stone of her own.
 
-**Iza:** She is standing at the 11th stone. Not on it. Her hands at her sides. She is watching the others — Ellan, Lira, Cormac. She has seen five sessions of what people choose under pressure. She has seen the Reckoning and the Concordance and Theron's guilt and what happens when someone decides alone. She is not yet on her stone. Her stone is still cold.
+Players who were in the room with Ellan during Session 4 will understand what they are seeing. Players who weren't will still feel the weight of it. The stone under Ellan's feet glows.
+
+**Iza:** She is standing at the 11th stone. Not on it. Her hands at her sides. She is watching the others — Ellan, Lira, Cormac. She has watched Ellan step on, and something crossed her face that she didn't try to hide, because she is eleven and not yet practiced at hiding the things that matter most. She has seen five sessions of what people choose under pressure. She has seen the Reckoning and the Concordance and Theron's guilt and what happens when someone decides alone. She is not yet on her stone. Her stone is still cold. Her hands are warm, the way they always are.
 
 *This is the moment the montage opens into. What the players do here determines everything.*
 
