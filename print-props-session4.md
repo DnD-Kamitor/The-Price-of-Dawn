@@ -23,20 +23,20 @@
 ║  ─────┼──────────────────────────────────────── MAIN ROAD ───── ║
 ║       │                                                          ║
 ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║  ░  [BLADE 1]  [BLADE 2]  [COMMANDER A]  [BLADE 3]  [BLADE 4] ░  ║
-║  ░                           ↑ contract                        ░  ║
+║  ░  [BLADE 1]  [BLADE 2]  [VARRIS]  [BLADE 3]  [BLADE 4]      ░  ║
+║  ░                          ↑ contract (inside coat)           ░  ║
 ║  ░              spread: 30ft across road                       ░  ║
 ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
 ║                                                                  ║
-║  [COMMANDER B — flanking position, 15ft east of road]            ║
+║  [PELL — flanking position, 15ft east of road, spellcasting]     ║
 ║                                                                  ║
 ║  [LOW WALL, east — 3ft, difficult terrain to vault]              ║
 ║  [DRAINAGE DITCH, west — 5ft wide, costs 10ft movement]          ║
 ║                                                                  ║
 ║  [PLAYERS — arriving from south]                                 ║
 ║                                                                  ║
-║  CONTRACT location: inside Commander A's coat.                   ║
-║  DC 12 Perception to spot the paper edge. Auto if captured.     ║
+║  CONTRACT: inside Commander Varris's coat.                       ║
+║  DC 12 Perception to spot paper edge. Auto if Varris captured.  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -57,13 +57,13 @@
 ║                    (SERA VOSS)                                   ║
 ║                                                                  ║
 ║        [STONE 10]              [STONE 2]                         ║
-║        (PETRA INNES)           (TOMAS ARETH)                     ║
+║        (PETRA VANE)            (TOMAS ARETH)                     ║
 ║                                                                  ║
 ║   [STONE 9]                          [STONE 3]                   ║
-║   (ALDRIC STONE)    ╔══════╗         (YSEL THANIS)               ║
+║   (ALDRIC STONE)    ╔══════╗         (YSEL MAREN)                ║
 ║                     ║      ║                                     ║
 ║   [STONE 8]         ║ DAIS ║         [STONE 4]                   ║
-║   (NAREN COLTH)     ║      ║         (CORMAC OSSEL)              ║
+║   (ORYA DOSS)       ║      ║         (CORMAC DRELL)              ║
 ║                     ╚══════╝                                     ║
 ║   [STONE 7]                          [STONE 5]                   ║
 ║   (CORI WREN)                        (LIRA ANWICK)               ║
@@ -332,7 +332,7 @@ He needs someone to stand in the alley with him without immediately asking him t
 <details>
 <summary>PC who asked Ysel genuinely — Her acknowledgment (Scene 4 or earlier)</summary>
 
-*Play for whichever player, in any previous session, asked Ysel Thanis a direct question about her consent without an agenda behind it. If no player did this, hold the card — it belongs to a moment that didn't happen.*
+*Play for whichever player, in any previous session, asked Ysel Maren a direct question about her consent without an agenda behind it. If no player did this, hold the card — it belongs to a moment that didn't happen.*
 
 ---
 
@@ -350,4 +350,83 @@ You asked her. You didn't need the answer to be yes. That's the difference.
 
 </details>
 
+---
+
+## Faction Intel
+
+*Player-facing. Hand out when players first make contact with or ask about a faction. No GM secrets included.*
+
+<details>
+<summary>The Concordance of the Withdrawn — Faction Brief</summary>
+
+*Hand to players when they first encounter or research the Dawnless. This is what an educated Varenhold citizen could piece together.*
+
+---
+
+**THE CONCORDANCE OF THE WITHDRAWN**
+*Known as "the Dawnless" on the street. They prefer their full name.*
+
+**Who they are:** A three-generation organization of scholars, disaffected priests, and shadow-touched elven exiles who believe the permanent twilight is not a catastrophe but a correction. They were founded by Shadar-kai academics in the years immediately following the ritual failure, when the first amber winter turned into a second, and then a decade. They argued, publicly at first and then in private, that the sun had always been a kind of imposition. They stopped arguing publicly around thirty years ago.
+
+**What they look like:** Shadar-kai — pale grey-white skin, dark hollow eyes that are biological, not cosmetic. Silver or white hair regardless of age. They move without sound. They dress in deep grey and charcoal, never black (black is a statement; grey is already gone). No jewelry except polished obsidian. The Concordance wears its symbol inside clothing: an obsidian disc with an inward-facing crescent. You see it only if they choose to show it.
+
+**What they want:** For the sun to stay down. They believe a second attempt at the ritual — the Inversion — would be the same violation twice. They have been working for thirty years to ensure it doesn't happen. Their methods have escalated as the deadline has approached.
+
+**What they'll offer:** Information about the original ritual's true mechanics. Access to records that the Amber Compact sealed. They have the deepest historical knowledge of any faction — some of it genuinely useful, some of it shaped to serve their conclusions.
+
+**What they'll do:** They've already killed. The Dusk Priest in Session 3 was theirs. They use interrogation tools designed to break people. They operate in small cells with no central point of failure. If you want to negotiate with them, you need something they can't get themselves.
+
+**How to approach:** Through the obsidian disc symbol — leave one visible in a location where they watch. They will make contact. Be honest about what you're offering. They respect precision and they have no patience for manipulation.
+
+</details>
+
+<details>
+<summary>The Solennite Blade Company — Faction Brief</summary>
+
+*Hand to players when they want to know who they just fought, or when they ask about the mercenary company.*
+
+---
+
+**THE SOLENNITE BLADE COMPANY**
+*Four-generation hobgoblin mercenary operation. Based in the Trader Quarter. Not hard to find — they don't hide.*
+
+**Who they are:** The Solennite Blades are one of the oldest mercenary companies operating in Varenhold. Founded by the Solennite family (hobgoblin, military lineage, seven documented generations of professional soldiers), the Company has served every major faction in the city at least once, and several minor ones. They do not comment on past contracts. They do not endorse causes. They show up, do the job, and leave.
+
+**What they look like:** Hobgoblins — orange-red skin ranging from rust to burnt copper, amber-yellow eyes with slit pupils. Close-cropped black hair. Their armor is matching: black-lacquered leather with amber-colored brass clasps. The uniformity is deliberate. If you can't immediately tell who is in command, that's working as designed. Their spacing is always tactical. Even at rest, they hold position. They do not fidget.
+
+**What they believe:** Nothing, professionally. Their ancestral text, the Solennite Compact of 1204, contains seventeen pages on payment schedules and one sentence on ideology: *"We don't have one."*
+
+**What they'll offer:** Exactly what they're paid to do. Nothing more, nothing less. They will switch contracts if the new offer supersedes the old one — this is written into their standard terms. They consider it professional, not disloyal.
+
+**Rates:** 200 gold minimum for a seven-day contract. They negotiate scope, not price. If you want them cheaper, they do less. Payment in advance, no exceptions.
+
+**How to approach:** Walk into the Trader Quarter and ask for the Blade Company. They're not hiding. Name your mission and your budget. They will ask three questions: What do you want done? Who is at risk? What are we not allowed to do? If the answers are workable, the conversation takes ten minutes.
+
+</details>
+
+<details>
+<summary>The Reckoning — Faction Brief</summary>
+
+*Hand to players when they encounter Reckoning soldiers or ask who Harran Lecht is.*
+
+---
+
+**THE RECKONING**
+*No formal name on the street. They call themselves the Reckoning. Harran Lecht founded it eleven years ago.*
+
+**Who they are:** Soldiers — mostly Goliath veterans, some human, a few half-orc — who fought together in the third harvest crisis and watched the city's slow collapse from the inside. Harran Lecht organized them after a supply crisis killed forty people in the Lowmark district. He told them: the city is dying, and the only thing that will save it is completing what was started fifty years ago. Eleven years later, they are still together, still convinced, and out of patience.
+
+**What they look like:** Goliaths — stone-grey and marble-white skin marked with natural dark geometric lithic patterns, unique to each individual. They average seven to eight feet tall. Heavily scarred. Commander Lecht has a long-healed split through his right lithic marking that changed its pattern — he calls it the Reminder. Lieutenant Senna Kard is young by Goliath reckoning; her patterns are still clean.
+
+**What they believe:** The ritual must complete. They believe the Dawnborn, by carrying the ritual's anchor, implicitly accepted the responsibility to see it through. They know this argument is contested. They have chosen to act on it anyway, because the city's food supply collapses in seven days and they have run out of time for philosophy.
+
+**What they want right now:** Control of the Ashring. A completed ritual, by consent if possible, by other means if not. Seven-day deadline. They are not open to delay.
+
+**What you can offer them:** A faster voluntary solution. Harran Lecht is not a monster. He is a soldier at the end of his options. If you can show him that ten willing consents can be assembled within the deadline — that the Inversion can complete without force — that changes everything. Show him something real and mean it.
+
+**How to approach:** You probably don't approach them — they approach you. If you want to find Lecht first, ask at the Ashfen checkpoints. The soldiers there know his schedule. They will tell you if you give them a good reason.
+
+</details>
+
 :::
+

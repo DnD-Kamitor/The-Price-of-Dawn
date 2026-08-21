@@ -258,10 +258,19 @@ In the contract's margin, handwritten in a different hand: *"Reckoning also mobi
 <details>
 <summary>📄 Enemies, Objectives & Tactics</summary>
 
-**Enemies:**
-- Solennite Blades: 4, use Spy stats (MM p.349) with advantage on Perception and proficiency in Insight and Deception. Motivated by contract and payment, not ideology.
-- Solennite Commander Dek Varris: 1 (see below — something is wrong with him). Use Bandit Captain stats. He carries the contract document folded inside his coat *and he will probably hand it to the players before the encounter is over.*
-- Solennite Commander Pell: 1, functioning normally. Use Bandit Captain stats. Increasingly exasperated by Varris.
+**Enemies — 6 combatants total (gestalt encounter, CR ~9):**
+
+**Solennite Operative ×4** — *Medium humanoid (hobgoblin)*
+Orange-red skin ranging from rust to burnt copper, amber-yellow eyes with slit pupils. Close-cropped black hair under open-face steel helmets. Matching black-lacquered leather armor with amber brass clasps — Keseph's money shows in the quality. Their spacing is always tactical: two-and-two, or four-across, or three-and-one to bracket. Never just standing. Always positioned. They do not speak unless necessary. They are professional, patient, and not afraid of you.
+*→ Full stat block: Combat Cards section below. CR 6 each.*
+
+**Commander Dek Varris ×1** — *Medium humanoid (hobgoblin)*
+Senior battle commander. Broader than the Operatives, salt-and-pepper close-cropped hair, deep scar from right eye to jaw. Plate armor earned through promotion, not purchased. An obsidian ring is visible on his right gauntleted hand — DC 12 Perception to notice it looks wrong: too cold, too still, like a stone that wants to be a gem but can't quite manage it.
+*→ Full stat block: Combat Cards section below. CR 9 (modified by Ring of Contrariwise).*
+
+**Commander Pell ×1** — *Medium humanoid (hobgoblin, arcane officer)*
+Narrower than Varris, grey already at his temples — early even for a hobgoblin. Carries a longsword and a small bone rune-focus on a chain at his neck. His eyes move from player to player the way a commander counts resources. He has already identified the most dangerous combatant. He was watching before you saw him.
+*→ Full stat block: Combat Cards section below. CR 9 (spellcasting officer).*
 
 **Combat ends when:** Players capture a Commander and display the contract — the remaining Blades stand down ("Our employer can't pay a dead contract"). Or when all six are incapacitated.
 
@@ -349,6 +358,165 @@ He will not fight. If confronted:
 - DC 14 Insight: He is frightened, not confident.
 - DC 15 Intimidation: He reveals Keseph's instruction was to "slow them, not stop them permanently" — Keseph wants options, not martyrs.
 - DC 18 Persuasion: He can be flipped. He gives Keseph's location and daily schedule in exchange for being left out of whatever comes next. He is not a true believer. He is an employee.
+
+</details>
+
+<details>
+<summary>📄 Combat Cards — Full Stat Blocks</summary>
+
+---
+
+**SOLENNITE OPERATIVE** *(×4)*
+*Medium humanoid (hobgoblin), lawful neutral*
+
+**AC** 16 (studded leather, shield) · **HP** 78 (12d8+24) · **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 (+2) | 18 (+4) | 14 (+2) | 13 (+1) | 14 (+2) | 10 (+0) |
+
+**Saving Throws** Dex +7, Wis +5 · **Skills** Stealth +7, Perception +5, Athletics +5, Deception +3
+**Senses** Darkvision 60 ft., Passive Perception 15 · **Languages** Common, Goblin · **CR** 6 (2,300 XP)
+
+**TRAITS**
+
+***Martial Advantage.*** Once per turn, deals an extra 7 (2d6) damage on a hit when at least one ally is within 5 ft. of the target and isn't incapacitated.
+
+***Sneak Attack (3d6).*** Once per turn, deals extra 10 (3d6) damage on a hit when it has advantage on the roll, or when an ally is within 5 ft. of the target and the Operative has no disadvantage.
+
+***Pack Tactics.*** Advantage on attack rolls against a creature when at least one ally is within 5 ft. of it and isn't incapacitated.
+
+***Twilight Trained.*** Advantage on Stealth checks in dim light or darkness. Varenhold's permanent amber twilight always qualifies.
+
+***Contract Discipline.*** Can't be charmed or frightened while executing an active contract. This trait fails if the contract is publicly shown to be fraudulent — e.g., the players display it to the Operatives.
+
+**ACTIONS**
+
+***Multiattack.*** Two Shortsword attacks, or one Shortsword + one Hand Crossbow.
+
+***Shortsword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6+4) piercing.
+
+***Hand Crossbow.*** *Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:* 7 (1d6+4) piercing.
+
+**BONUS ACTIONS**
+
+***Cunning Action.*** Dash, Disengage, or Hide.
+
+**REACTIONS**
+
+***Parry.*** Reduce damage from one melee attack it can see by 5 (1d6+2). Must be holding a melee weapon.
+
+> *Tactics: Operatives open at range (crossbow), shift to melee once Commanders engage. Never isolated — Pack Tactics is their core. Below 20 HP: retreat to flank, switch to crossbow only. Will not pursue fleeing players — contract says detain, not kill.*
+
+---
+
+**COMMANDER DEK VARRIS** *(×1 — Ring of Contrariwise attuned, see above)*
+*Medium humanoid (hobgoblin), lawful neutral (currently: involuntarily benevolent)*
+
+**AC** 18 (plate armor) · **HP** 130 (20d8+40) · **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 18 (+4) | 14 (+2) | 14 (+2) | 16 (+3) | 12 (+1) | 14 (+2) |
+
+**Saving Throws** Str +7, Con +5, Wis +4 · **Skills** Athletics +7, Intimidation +5, History +6, Perception +4
+**Senses** Darkvision 60 ft., Passive Perception 14 · **Languages** Common, Goblin, Thieves' Cant · **CR** 9 (5,000 XP)
+
+**TRAITS**
+
+***Martial Advantage.*** Once per turn, deals an extra 14 (4d6) damage when hitting a creature with an ally within 5 ft. of it.
+
+***Battle Command (Bonus Action, Recharge 5–6).*** Each ally within 30 ft. that can hear Varris can add 1d4 to attack rolls and saving throws for 1 minute (concentration). *While Ring is attuned: this also applies to the players if they are in range. Varris is aware of this. He is furious.*
+
+***Aggressive.*** Bonus action: Varris moves up to his full speed toward a hostile creature he can see.
+
+***Saving Face.*** If Varris misses with an attack roll, he can gain a bonus equal to the number of allies within 5 ft. of the target (max +5), potentially turning the miss. Once per round.
+
+***Ring of Contrariwise Modifiers (while attuned):*** Battle Command benefits all creatures in range including players. All Intimidation checks automatically convert to Persuasion DC 8. Varris cannot willfully withhold tactical information from opponents. He is aware of all of this and cannot stop any of it.
+
+**ACTIONS**
+
+***Multiattack.*** Three Greatsword attacks.
+
+***Greatsword.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing. On a hit, target makes DC 15 Strength check or is pushed 5 ft.
+
+***Rallying Cry (Recharge 5–6).*** All allies within 30 ft. gain 10 (3d6) temporary HP. *While Ring is attuned: this also restores 5 HP to the nearest player. Varris does not do this on purpose.*
+
+***Tactical Advance (3/day).*** Varris and all allies within 30 ft. move up to half speed without provoking opportunity attacks.
+
+**REACTIONS**
+
+***Shield of the Commander.*** When an ally within 5 ft. takes damage, Varris takes half instead.
+
+***Counterattack.*** When a creature misses Varris with a melee attack, Varris makes one Greatsword attack against the attacker.
+
+> *Tactics (normal): Anchors center, uses Rallying Cry when Operatives pressured, coordinates flanking with Pell. Tactics (Ring-compromised): He will attempt these same actions. The ring keeps redirecting him. See encounter table above. If Remove Curse is cast: ring pops off, Varris immediately re-engages at full lethality — roll initiative.*
+
+---
+
+**COMMANDER PELL** *(×1)*
+*Medium humanoid (hobgoblin), lawful neutral*
+
+**AC** 15 (chain shirt) · **HP** 110 (17d8+51) · **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 12 (+1) | 15 (+2) | 16 (+3) | 19 (+4) | 16 (+3) | 12 (+1) |
+
+**Saving Throws** Con +6, Int +7, Wis +6 · **Skills** Arcana +7, Insight +6, Investigation +7, Perception +6
+**Senses** Darkvision 60 ft., Passive Perception 16 · **Languages** Common, Goblin, Elvish, Dwarvish · **CR** 9 (5,000 XP)
+
+**Spellcasting.** 10th-level spellcaster. Intelligence (save DC 15, +7 to hit with spell attacks).
+
+*Cantrips (at will):* fire bolt, toll the dead, minor illusion, mage hand
+*1st level (4 slots):* shield, chromatic orb, thunderwave
+*2nd level (3 slots):* misty step, hold person, scorching ray
+*3rd level (3 slots):* counterspell, fireball, fear
+*4th level (3 slots):* greater invisibility, ice storm, dimension door
+
+**TRAITS**
+
+***Arcane Advantage.*** Once per turn, adds extra 7 (2d6) force damage to a damaging spell targeting a creature with an ally within 5 ft. of it.
+
+***Tactical Assessment (Bonus Action).*** Designates one creature within 60 ft. as Priority Target. All allies have advantage on attacks against it until start of Pell's next turn.
+
+***Combat Casting.*** Pell doesn't provoke opportunity attacks when casting spells.
+
+***Army Arcane.*** Pell's area spells treat allied creatures within 5 ft. of targets as absent for blast radius purposes.
+
+**ACTIONS**
+
+***Multiattack.*** Two Longsword attacks or one Longsword + one spell of 3rd level or lower.
+
+***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft. *Hit:* 5 (1d8+1) slashing.
+
+***Fire Bolt (Cantrip).*** *Ranged Spell Attack:* +7 to hit, range 120 ft. *Hit:* 11 (2d10) fire damage.
+
+***Toll the Dead (Cantrip).*** One creature within 60 ft.: DC 15 Wis save or take 9 (2d8) necrotic damage — 2d12 if target is already missing HP. *A tolling sound fills their skull. Most effective against wounded targets.*
+
+***Hold Person (2nd slot).*** One humanoid within 60 ft.: DC 15 Wis save or paralyzed 1 minute. Repeat save end of each turn. *Pell opens with this on the frontline fighter.*
+
+***Misty Step (2nd slot, Bonus Action).*** Teleports up to 30 ft. to a visible space. No opportunity attacks.
+
+***Scorching Ray (2nd slot).*** Three rays, each +7 to hit, 60 ft., 7 (2d6) fire damage per hit. Can target multiple creatures.
+
+***Fireball (3rd slot).*** 20-ft radius sphere, 150 ft. range: DC 15 Dex save or 28 (8d6) fire, half on success. *Pell will not use this if Varris or Operatives are in range. He has standards.*
+
+***Fear (3rd slot).*** 30-ft cone: DC 15 Wis save or frightened 1 minute. Frightened creatures must Dash away from Pell on their turn. Repeat save end of each turn.
+
+***Counterspell (3rd slot, Reaction).*** Interrupt a spell cast within 60 ft. Automatically negates 3rd level and below. 4th+: DC 13 Intelligence check.
+
+***Greater Invisibility (4th slot).*** One creature (usually himself) becomes invisible 1 minute (concentration). Attacks from invisibility have advantage; attacks against it have disadvantage.
+
+***Ice Storm (4th slot).*** 40-ft cylinder (20 ft. tall) within 300 ft.: DC 15 Dex save, fail = 9 (2d8) bludgeoning + 18 (4d6) cold, success = half. Area becomes difficult terrain until end of Pell's next turn.
+
+***Dimension Door (4th slot).*** Pell teleports up to 500 ft. to a known location. Can bring one willing creature. *Used to exit entirely if Varris is captured and Operatives are down.*
+
+**BONUS ACTIONS** Tactical Assessment; Misty Step (when slotted).
+
+**REACTIONS** Shield (1st slot — +5 AC until start of next turn, blocks magic missile automatically); Counterspell (3rd slot).
+
+> *Tactics — Round 1: Tactical Assessment on most dangerous PC. Hold Person on melee frontliner. Move to 60 ft. Round 2: Fireball if 3+ players clustered, Scorching Ray if spread. Round 3: Greater Invisibility on himself at 50% HP. Fear if players bunch. Ongoing: Counterspell all healing and mobility spells. Misty Step to maintain range. Exit: Dimension Door if Varris captured + Operatives down. He will file a complete report to Keseph within the hour.*
 
 </details>
 
