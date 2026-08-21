@@ -133,7 +133,19 @@ She does not wait. She goes in.
 
 **Ellan answers the door before they finish reading the letter in the compartment.**
 
-Silver-grey hair cut short and close — the kind of cut that says she stopped performing a long time ago. Hands steadier than they should be for someone who has lived under surveillance for three years. She moves with the deliberate economy of someone who has accepted that there will always be less time than she wants. She looks at each of them in turn. When her eyes reach Iza, something changes in her face — so briefly it might not have happened at all.
+Silver-grey hair cut short and close — the kind of cut that says she stopped performing a long time ago. Small-framed, slight, with amber-warm eyes the color of old resin. Hands steadier than they should be for someone who has lived under surveillance for three years. She moves with the deliberate economy of someone who has accepted that there will always be less time than she wants. She looks at each of them in turn. When her eyes reach Iza, something changes in her face — so briefly it might not have happened at all.
+
+> **GM — If Ixa is in the party [LOCKED: players do not know this]**
+>
+> When Ellan's gaze moves past Iza and reaches Ixa, she pauses — nothing visible, nothing anyone else would mark. But she looks at Ixa's hands once, quickly. Then her face does what faces do when they catch themselves doing something they cannot explain: it smooths.
+>
+> She will look at Ixa's hands one more time before the conversation ends. She will not say why.
+>
+> **What Ellan does not know:** She knows she lost a child to the ritual's overflow fifty years ago. She does not know the Crucible took that child and labeled her IX-A — her mother's ritual position, IX. She does not know Ixa survived. She has spent fifty years believing both her daughters are dead.
+>
+> **The truth of the title:** Ixa is the price of dawn. The ritual's overflow energy, when Ellan withdrew, did not dissipate — it went into Ellan, and the child born from it was taken by the Crucible before Ellan could hold her. The ritual has been asking the same question for fifty years. Ixa is the answer. What returning that answer costs is the question for Session 5.
+>
+> **For Ixa's player (if paying attention):** Perception DC 14 to notice Ellan looking at her hands. DC 17 to notice Ellan's hands share the same narrow bone structure. Neither check is a confirmation. Both are seeds.
 
 *"Theron finally sent someone. Good. Come in."*
 

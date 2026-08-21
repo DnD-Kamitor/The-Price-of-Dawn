@@ -737,7 +737,7 @@ And, beneath the letter, tucked against the back of the compartment: a small car
 
 She answers the door before they finish reading the letter.
 
-She is in her late sixties. She moves slowly, without assistance, and looks at them with the calm of someone who has been expecting a specific knock for a very long time. She is weathered — fifty years of waiting has a cost — but her eyes are clear and her hands are steady.
+She is in her late sixties. Small-framed — the kind of slight build that makes the steadiness of her hands surprising. Her eyes are amber-warm, the color of old resin, clear despite everything. She moves without hurry and looks at them with the calm of someone who has been expecting a specific knock for a very long time. She is weathered — fifty years of waiting has a cost — but weathered the way certain stones are: harder underneath than they appear.
 
 *"Theron finally sent someone. Good. Come in."*
 
