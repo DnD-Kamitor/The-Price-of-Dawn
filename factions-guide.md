@@ -142,15 +142,19 @@ When asked about the ritual, each Dawnborn pauses before answering in a way that
 
 ## The Restorers
 
-**What they are:** A reformist religious and civic movement with roots in Auris-worship, organized around the belief that restoring the sun is an urgent moral obligation, not merely a practical goal.
+**What they are:** A reformist religious and civic movement with roots in Auris-worship, organized around the belief that restoring the sun is an urgent moral obligation, not merely a practical goal. They are the oldest continuous advocacy organisation in Varenhold devoted to the ritual — they have been meeting, petitioning, praying, and studying for forty-nine years. They have a library. They have a doctrine. They are not naive.
 
-**Public reputation:** Passionate, persistent, grief-driven, legitimate. They have been making the same arguments for decades with varying degrees of organization and fervor. Most Varenholders have sympathy for their goals even when they find the movement's methods exhausting. The Restorers are not radical - they work through petitions, public meetings, and pamphlets, not disruption. The Council takes their positions seriously as a political constituency even when individual Councillors disagree with their specific proposals.
+**History:** The Restorers were founded in Year Five of the Twilight by a man named Corren Ashby — not Corven the ritualist, a different man, one of the outer support circle who stood outside the Ashring the night the original ritual failed and watched it collapse. He spent the rest of his life trying to understand why. He built the organisation around that question. He died without seeing a second attempt. The movement he left behind has had six leaders since, each more structured than the last. Brother Edoran has led them for eleven years. Before he found them, he was a junior Auris priest at the Ashring temple, then a mid-level archivist, then a man who attended a Sevenday meeting after a personal loss he has never fully described and simply did not leave. He runs the movement with the particular intensity of someone who needed it as much as he serves it.
 
-**What they say they want:** Dramatically increased resources for restoration research, a formal Council mandate to treat the twilight as an emergency rather than a chronic condition, and - their theological wing's position - public religious acknowledgment that the city has a spiritual obligation to seek the sun's return.
+**Public reputation:** Passionate, persistent, grief-driven, legitimate. They have been making the same arguments for decades with varying degrees of organisation and fervor. Most Varenholders have sympathy for their goals even when they find the movement's methods exhausting. The Restorers are not radical — they work through petitions, public meetings, and pamphlets, not disruption. The Council takes their positions seriously as a political constituency even when individual Councillors disagree with their specific proposals.
 
-**Where to find them:** Sevenday evening meetings at the Auris temple's public hall. Their pamphlets appear on Dawnhall notice boards throughout the week. The Restorers have a small coordination office in the Highmark district that is technically a "scholarly society" for administrative purposes. Ask at the Auris temple; the Wounded-faction clergy are sympathetic and will direct you.
+**What they say they want:** Dramatically increased resources for restoration research, a formal Council mandate to treat the twilight as an emergency rather than a chronic condition, and — their theological wing's position — public religious acknowledgment that the city has a spiritual obligation to seek the sun's return. Their inner circle knows about the ritual's cost. Their rank and file does not. Edoran made this decision deliberately. He has not reconsidered it.
 
-**How to be seen as an ally vs. a threat:** Show up to a meeting, introduce yourself, ask questions before offering opinions. The Restorers have dealt with enough people who parachuted in claiming to have solutions that they are appropriately skeptical of newcomers with answers. People who demonstrate they understand the complexity of the situation get further than people who arrive confident. If you're representing a church or scholarly institution with relevant expertise, say so early.
+**Brother Edoran** is in his late forties. He is the most genuine person in any room he enters. He reads as someone without secrets, which is itself information. He attends every Sevenday meeting without fail. He responds to all correspondence personally. He is convinced beyond argument that the ritual, done correctly, with all ten Dawnborn freely consenting, will return the sun. He is not wrong about that.
+
+**Where to find them:** Sevenday evening meetings at the Auris temple's public hall. Their pamphlets appear on Dawnhall notice boards throughout the week. The Restorers have a small coordination office in the Highmark district officially registered as a "scholarly society." Ask for the Lantern-Saint. Ask at the Auris temple; the Wounded-faction clergy are sympathetic and will direct you.
+
+**How to be seen as an ally vs. a threat:** Show up to a meeting, introduce yourself, ask questions before offering opinions. The Restorers have dealt with enough people who arrived claiming to have solutions that they are appropriately skeptical of newcomers with answers. People who demonstrate they understand the complexity of the situation get further than people who arrive confident. If you carry knowledge of the original ritual — any fragment, any record — come to Edoran directly. He will see you immediately.
 
 > **Trust gate:** Getting past the public meetings and reaching Edoran requires attending at least two sessions and demonstrating genuine commitment — not clever arguments. He's not hiding. He's vetting. The introduction to the inner circle comes after you've earned it.
 
@@ -204,13 +208,17 @@ The public meetings show a movement that is larger and more emotionally urgent t
 
 ## The Flowering
 
-**What they are:** A decades-old coalition of people the world calls impossible - half-breeds, interspecies couples, those born between categories, practitioners of alchemical and ritual arts that most institutions refuse to sanction. They operate in the margins of every city they inhabit. In Varenhold they have been present, quietly, for as long as the twilight. They believe biological impossibility is a category error, not a law. They have been proving this, imperfectly, for a long time.
+**What they are:** A coalition of people the world calls impossible - half-breeds, interspecies couples, those born between categories, practitioners of alchemical and ritual arts that most institutions refuse to sanction. They operate in the margins of every city they inhabit. In Varenhold they have been present, quietly, for as long as the twilight. They believe biological impossibility is a category error, not a law. They have been proving this, imperfectly, for a long time.
+
+**History:** The Flowering did not begin with an agenda. It began with need. In the first decade of the Twilight, when the city was reorganising its hierarchy and the voiceless were being systematically cut out of whatever structures remained, a group of people who had nowhere else found each other: interspecies couples with no legal standing, half-bloods the city's new order did not have a category for, people whose physical form fell outside what the law knew how to classify. For nearly twenty years they were, genuinely, a refuge. Then the experimentation began. Not cruelly — that is important to understand, and also not a comfort. It began with willing participants trying to push what the Twilight's unusual ambient energy allowed. It has not stopped. The organisation that exists today has been running for approximately fifty years. It has moved locations at least four times. It does not have a public record.
+
+**Leadership:** The Flowering is led by someone known only as the Gardener. No name is used. No face is shown to anyone below the innermost circle. Written correspondence suggests extreme age. The Gardener's stated theology is this: love that refuses to be bounded by physical law is the closest thing to divinity the living world produces. The Flowering's work is therefore sacred. The ones who did not survive the work are also sacred. Everything is kept. Nothing is discarded.
 
 **Public reputation:** None. The Flowering does not have a public face. Most citizens of Varenhold have never heard of them. Those who have encountered them remember an unusual kindness that felt slightly wrong, or a gift they could not explain, or a meeting with someone who knew things about them they hadn't shared. The Flowering is not violent in the conventional sense. It approaches. It invites. What it sends to address problems is not itself.
 
 **Symbol:** A bloom with too many petals. The center is dark. Members may have it tattooed, embroidered, pressed into wax seal. It always looks almost right until you count.
 
-**What they look like:** No single race. The Flowering is specifically composed of those who do not fit - tieflings with unusual bloodlines, half-breeds of combinations that shouldn't produce children, those who have undergone magical alteration, genasi with mixed elemental heritage, people born from their own experiments. Leadership tends toward those most visibly impossible. They dress in layered organic colors - flower tones, earth tones, the deep red-brown of old blood in autumn leaves. They move in pairs. Always mixed-species pairs. Never alone.
+**What they look like:** No single race. The Flowering is specifically composed of those who do not fit - tieflings with unusual bloodlines, half-breeds of combinations that shouldn't produce children, those who have undergone magical alteration, genasi with mixed elemental heritage, people born from their own experiments. Leadership tends toward those most visibly impossible. They dress in layered organic colours — flower tones, earth tones, the deep red-brown of old blood in autumn leaves. They move in pairs. Always mixed-species pairs. Never alone.
 
 **What they want:** More impossible children. Proof, repeatable, that love does not stop at the lines biology draws. They believe those lines are the world's fear given the appearance of law. They have been working to disprove this for decades.
 
@@ -234,6 +242,73 @@ The public meetings show a movement that is larger and more emotionally urgent t
 **The problem with their argument:** It is not entirely wrong. This is what makes it dangerous.
 
 **In combat:** The Flowering does not fight directly. Its members are not soldiers. What they send - the failed experiments, the ones that survived wrong - these are what players fight if The Flowering feels threatened. Treat as aberrations or monstrosities with organic, botanical aesthetics. Vines, petal-like structures over wrong shapes, too many limbs arranged in patterns that almost make sense.
+
+</details>
+
+---
+
+## The Concordance of the Withdrawn
+
+**What they are:** A philosophical and religious order devoted to one central doctrine: the sun's departure was not a tragedy. It was a completion. Auris — their name for the sun as deity — did not fail, was not stolen, was not damaged by whatever went wrong fifty years ago. Auris passed through a threshold. The passage is complete. The door has closed. What lies beyond it does not return, and to attempt to pull it back would be an act of cosmic desecration — necromancy on a divine scale, dragging a soul back from beyond death. The Concordance exists to prevent this.
+
+**History:** The Concordance did not exist before the Twilight. It formed in the first decade after the sun stopped, when the city was desperate for a theology that could make sense of the loss. The original members were people who genuinely needed a framework for grief — who could not hold "we failed" and needed "this was meant to be." The doctrine they built around that need is internally coherent and, on its own terms, genuinely sophisticated. The Concordance has been refining it for forty years. They have texts. They have liturgy. They have a hierarchical structure of considerable precision: the Unlit (outer members, operational), the Priests of the Inward Crescent (doctrine and leadership), and above them, an authority referred to only as the Unmoved — which the rank and file understand as a theological concept, a name for whatever divine principle ratified Auris's departure, and do not examine closely.
+
+**In practice:** The Concordance has been operating in Varenhold for approximately thirty years. In that time they have: tracked the Dawnborn and their locations, maintained surveillance on individuals deemed likely to advance restoration efforts, worked through city institutions to suppress documents and redirect research, and on occasion arranged for obstacles to become less obstructive. They do not operate openly. They operate in cells — small groups that know only their own membership, reporting through a single upward contact. This structure has allowed them to survive for three decades without a single successful exposure of their organisation. When a cell is burned, the rest continue.
+
+**What they say they want:** The passage to be honoured. The dead to stay dead. The city to accept its grief and build something lasting inside it. They frame this as mercy — they are preventing the city from committing a cosmic crime in its desperation. They believe they are protecting Varenhold from itself. Their materials read as sincere. Most of their membership is sincere.
+
+**Symbol:** An obsidian disc with an inward-facing crescent. Worn inside clothing. Never shown publicly. To leave one visible where they watch is an invitation to contact.
+
+**How to identify them:** You cannot, from the outside. The Concordance does not announce itself. Its members look like anyone else. What players may notice: a watch post near a relevant location that has been there too long; correspondence that was clearly read and resealed; a document request declined without a reason. The pattern is consistent and patient. They have been at this for thirty years.
+
+**How to approach:** Leave the symbol visible somewhere they watch. They will make contact. They respect precision — arrive with a clear position, a clear reason, and no attempt at manipulation. They have a great deal of patience for almost everything else. They are significantly more dangerous than they appear from any single interaction.
+
+> **Trust gate:** The Concordance does not vet through warmth. It vets through observation. They know who you've met, where you've been, and roughly what you want before they approach. If they approach, they have already decided you are worth the contact. This is not reassuring.
+
+<div class="player-callout">
+
+**Skill Checks: The Concordance of the Withdrawn**
+
+<details class="skill-passive">
+<summary><strong>Religion (proficient)</strong></summary>
+
+The Concordance of the Withdrawn is a philosophical-religious order that holds the Twilight to be a completed cosmological event — Auris completing a passage, not failing. Their doctrine positions restoration attempts as sacrilege rather than heroism. They have operated in Varenhold for approximately thirty years, though their precise membership and reach is unknown.
+
+</details>
+
+<details class="skill-passive">
+<summary><strong>History (proficient)</strong></summary>
+
+The Concordance formed in the early years of the Twilight as a grief-theology — a framework for people who needed the sun's departure to mean something other than failure. Their doctrine has become more rigid over time. They are known to operate in a cell structure with no single public-facing leadership. The name of their highest authority is never stated directly in any recovered document.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Insight (DC 13, speaking with a Concordance representative)</strong></summary>
+
+The representative believes what they are saying. That is not the same as the organisation's leadership believing it. There is a quality to how they speak about the Unmoved — the authority above the Priests — that suggests they have been instructed not to look too closely at what it refers to.
+
+</details>
+
+<details class="skill-reveal">
+<summary><strong>Investigation (DC 15, examining a recovered Concordance document)</strong></summary>
+
+The operational documents are written in a register that is not theology. They track people. They use asset designations. They refer to outcomes that are phrased carefully enough to be deniable but specific enough to imply violence. The theology and the operations are written in two different voices, by people with two different sets of priorities.
+
+</details>
+
+</div>
+
+<details class="gm-only">
+<summary>GM Only — The Concordance: True Agenda & The Unmoved One</summary>
+
+**The Unmoved One** is a Lich of extraordinary age. Its name has been removed from every record it could reach. It does not want to prevent the Inversion on theological grounds. It wants to corrupt the Inversion — redirect the ritual's energy at the moment of completion to extinguish rather than restore, turning Varenhold into a permanent night-state under its dominion. The city as territory. The Dawnborn as the mechanism. The ritual itself does the work; it simply needs the ending redirected.
+
+**The leadership structure:** The Priests of the Inward Crescent are almost entirely sincere. They do not know what the Unmoved One is. They receive sealed orders through a chain they do not question because questioning it would violate the doctrine they have spent thirty years building. The doctrine has been carefully constructed to make questioning feel like sacrilege.
+
+**What the Concordance knows this session:** The party visited Ellan Voss. They have the Concordance Stone. They are collecting cubes. The Inversion is progressing. The Concordance's calculation: stop the party early and the Unmoved One loses its opportunity. Let the party get the Dawnborn to the Ashring, then redirect at the last moment.
+
+**Keseph Vyne** is not a member. He is a convenient collaborator — he suppresses documents because twilight is profitable for him. The Concordance uses his work without his knowing what they ultimately intend. He would not cooperate if he knew. He is not a good man, but he is not suicidal.
 
 </details>
 
