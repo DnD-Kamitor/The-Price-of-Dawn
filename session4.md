@@ -260,21 +260,77 @@ In the contract's margin, handwritten in a different hand: *"Reckoning also mobi
 
 **Enemies:**
 - Solennite Blades: 4, use Spy stats (MM p.349) with advantage on Perception and proficiency in Insight and Deception. Motivated by contract and payment, not ideology.
-- Solennite Commander: 2, use Bandit Captain stats. One carries the contract document folded inside their coat (DC 12 Perception to spot the paper's edge, or found automatically if they're captured or searched).
+- Solennite Commander Dek Varris: 1 (see below — something is wrong with him). Use Bandit Captain stats. He carries the contract document folded inside his coat *and he will probably hand it to the players before the encounter is over.*
+- Solennite Commander Pell: 1, functioning normally. Use Bandit Captain stats. Increasingly exasperated by Varris.
 
-**Combat ends when:** Players capture the Commander and display the contract — the remaining Blades stand down ("Our employer can't pay a dead contract"). Or when all six are incapacitated.
+**Combat ends when:** Players capture a Commander and display the contract — the remaining Blades stand down ("Our employer can't pay a dead contract"). Or when all six are incapacitated.
 
-**What players learn:** Keseph Vyne's name, for the first time, as the person willing to use mercenaries to stop them reaching the Ashring.
+**What players learn:** Keseph Vyne's name. Also that one of the Commanders is having some kind of episode and it is genuinely hard to tell what side he is on.
 
 **Tactical notes:**
 - Formation: Two Commanders center-rear, four Blades forward in a skirmish line across the road. They are blocking, not encircling — gaps exist on both flanks.
 - Terrain: Road narrows here between an old garden wall (three-quarters cover) and the Ashring's outer marker stones (half cover). No cover in the road itself. Flanking requires moving off-road onto uneven ground.
 - The Blades move to bracket if players try to break through — two shift to close the side gaps. They have done this before.
 
-**Social option — negotiate past them:**
-Players presenting a valid Spire academic permit (obtained Session 2 or 3) and succeeding on DC 14 Persuasion force the Commander to stand down without combat. The permit creates legal ambiguity their contract didn't account for. He reviews it, says *"This changes the scope of our order,"* and withdraws. He sends a report to Keseph immediately — no fight, but Keseph knows they reached the Ashring.
+---
 
-DC 16 Persuasion to bribe without the permit: possible, but the Blades are well-paid.
+**Commander Dek Varris — The Ring Problem**
+
+Three days ago, a Reckoning scout sweep of the tannery (Session 3's scene) found the Dusk Priest's body and looted it. The Solennite Blades, doing their own sweep for intelligence, found the scout's body and looted that. Commander Varris found the obsidian ring in the scout's pocket, thought it looked expensive, and put it on.
+
+It has been getting worse since Tuesday.
+
+<details>
+<summary>📄 The Obsidian Ring of Contrariwise — Item Reference</summary>
+
+*Cursed Item, requires attunement (automatic on wearing — the ring attunes itself)*
+
+A Concordance interrogation tool, confiscated from a cell that no longer exists. Designed to invert a subject's dominant personality traits for the purposes of breaking operational security or turning agents. The inversion is total, compulsive, and deeply confusing to the wearer, who retains full awareness of what they are doing while being completely unable to stop.
+
+**Effect:** While attuned, the wearer acts against their dominant nature:
+- The greedy give things away compulsively
+- The obedient defy orders reflexively
+- The aggressive become helpfully conciliatory
+- The cautious become reckless
+
+The wearer knows exactly what they're doing. They can't stop. They remain fully intelligent and aware throughout.
+
+**Removal:** Cannot be removed without *Remove Curse* (DC 15) or a Wisdom saving throw DC 20 after 24 hours of rest. The wearer is compelled to keep wearing it and will physically resist attempts to remove it — not because they want to, but because the ring wants to.
+
+**Dek Varris's nature:** Greedy, contract-obedient, professionally aggressive. Inverted: compulsively generous, defiant of contracts, helpfully pacifistic. He is absolutely furious about this and has been for three days.
+
+</details>
+
+**How the encounter plays:**
+
+Varris stops the players. He holds up a hand. He takes a breath. He says, with great professional composure: *"We have orders to detain you. Please stop walking."*
+
+Then the ring does something. The specific something depends on what the players do, but the general pattern is:
+
+| Player action | Varris does |
+|---|---|
+| Tries to walk past | *"I'm going to need you to— please, just— you can go. I don't know why I'm saying that. Pell, stop looking at me like that."* |
+| Offers a bribe | Recoils. *"Keep your money. I don't— I don't want it."* His Blades stare at him. He stares at his hands. *"I don't know what's wrong with me."* |
+| Asks what's wrong with him | He holds up the obsidian ring. *"I found this ring three days ago and since then I've given away sixteen silver, apologized to a mule, and told a man his wife was having an affair because I thought he deserved to know. I am a mercenary. That is not what mercenaries do."* |
+| Attacks | He is actively trying to fight. The ring keeps making him offer tactical advice to the players mid-combat. *"Your left flank is— I hate this ring so much— your left flank is open."* |
+| Asks him to let them through | DC 8 Persuasion, not DC 14. The ring is already arguing on the players' behalf. |
+
+**Pell** (the functional Commander) is trying to run the intercept professionally. He keeps looking at Varris for confirmation of orders. He is getting none. At one point he hisses: *"Varris, are we detaining them or not?"* Varris: *"Yes! Professionally! Stop them! I'm just — I'm going to go stand over here."*
+
+**The contract:** Varris will hand it over if players ask him directly what their orders are. He cannot lie about it. He tries. *"Our orders are to— they're to— here, just take it, I'm giving it to you, this is humiliating."*
+
+**If players cast Remove Curse:** The ring pops off. Varris blinks. Looks at the players. Looks at Pell. Looks at the contract he just handed over. His expression shifts from confused relief to professional murder. *"Right. Detain them."* The charm of the entire preceding encounter evaporates immediately. Roll initiative.
+
+**After the encounter** (win or lose): Varris files a full and accurate report to Keseph. He includes a section titled "Ring Situation" which Keseph finds baffling and chooses to ignore. Varris requests reassignment. He does not get it.
+
+**The ring:** Players can keep it. It would be funny. It is an interrogation tool from the Concordance of the Withdrawn — if they bring it to Theron, he can tell them exactly what it is and who made it, and look extremely troubled by the fact that the Dusk Priest had one. *"They were using these on people. To break them."* He takes a moment. *"That's significantly worse than I thought they were."*
+
+---
+
+**Social option — negotiate past them (without the ring chaos):**
+Players presenting a valid Spire academic permit (obtained Session 2 or 3) and succeeding on DC 14 Persuasion force Commander Pell to stand down. The permit creates legal ambiguity the contract didn't account for. Pell reviews it, says *"This changes the scope of our order,"* and withdraws. Varris says *"Good. I didn't want to be here anyway."* Pell does not acknowledge this.
+
+DC 16 Persuasion to bribe without the permit: Pell is well-paid. Varris will be bribed by anything offered, immediately, compulsively, and then feel bad about it.
 
 </details>
 
