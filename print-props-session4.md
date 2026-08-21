@@ -57,7 +57,7 @@
 ║                    (SERA VOSS)                                   ║
 ║                                                                  ║
 ║        [STONE 10]              [STONE 2]                         ║
-║        (PETRA VANE)            (TOMAS ARETH)                     ║
+║        (DAVIN SHORE)           (TOMAS ARETH)                     ║
 ║                                                                  ║
 ║   [STONE 9]                          [STONE 3]                   ║
 ║   (ALDRIC STONE)    ╔══════╗         (YSEL MAREN)                ║
@@ -66,7 +66,7 @@
 ║   (ORYA DOSS)       ║      ║         (CORMAC DRELL)              ║
 ║                     ╚══════╝                                     ║
 ║   [STONE 7]                          [STONE 5]                   ║
-║   (CORI WREN)                        (LIRA ANWICK)               ║
+║   (NIN FLETCH)                       (LIRA ANWICK)               ║
 ║                                                                  ║
 ║        [STONE 6]              [STONE 6b]                         ║
 ║        (PETRA VANE)           → see GM note                      ║

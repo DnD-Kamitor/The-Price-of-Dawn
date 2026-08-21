@@ -47,6 +47,15 @@ Harran is in Scenes 1 and 5. After he goes down and the ritual completes, the Re
 
 *Players have had the 48-hour window Harran negotiated (or the Chancellor's remaining days). This is what the city looks like when it arrives.*
 
+**The puzzle box (Corven's Concordance Stone):** Players carry the 8-slotted ritual vessel. Every cube collected in Session 4 hums warm; every empty slot is cold. The morning of Session 5 opens with a count: how many cubes do they have? The uncollected ones drive the session's early urgency.
+
+**Remaining cubes checklist (adjust per actual Session 4 play):**
+- Petra Vane (Stone 6): missing, needs finding. Her last known contact was the Compound — ask there first.
+- Davin Shore's cube (Stone 10): held by his daughter Mira Shore, a woodcutter 3 hours east. Has had it since childhood. Doesn't know what it is.
+- Any Dawnborn the players didn't reach in Session 4.
+
+**The ritual activation:** When all 8 cubes are in the box, in the correct astronomical order (brightest to dimmest stars from the ritual night), shining any light source through the top projects a bird — Corven's dawn symbol. This projection, visible from the Ashring plaza, is what cues each Dawnborn at their stone that the Inversion is ready to begin. The bird is the signal. Players assembled it. They light it.
+
 <details>
 <summary>📄 What the Ritual Was Actually Trying to Do</summary>
 

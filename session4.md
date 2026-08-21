@@ -12,6 +12,8 @@
 | **Session dilemma** | What do you owe to people who choose to sacrifice themselves? |
 | **Session arc** | Revelation → Confrontation → Discovery → Doubt → Ultimatum |
 | **Three factions** | Dawnless (watching), Solennite Blades (intercepting), Reckoning (seizing) |
+| **Session goal** | Collect 8 ritual cubes from the 8 living Dawnborn by earning their genuine consent |
+| **The puzzle box** | Corven's Concordance Stone — 8 slots, each cube = one Dawnborn's consent. Assembled correctly and lit: projects a dawn bird. This is the ritual activation signal. |
 
 | NPC | Want | Fear | Lie |
 |---|---|---|---|
@@ -523,98 +525,106 @@ He will not fight. If confronted:
 </details>
 
 <details>
-<summary>📁 Scene 2 — Riddle: The Primer Stone Inscription</summary>
+<summary>📁 Scene 2 — The Diagnostic Circle: What the Stones Remember</summary>
 
-**Setup:** The Ashring — ten weathered standing stones in a circle around a scorched central dais. Each stone carries a partial inscription. Players approaching from the road can see the stones are older than the ritual, but the carvings are fresh by comparison — fifty years old, not five hundred.
+<details>
+<summary>📄 Setup & The Empty Box</summary>
 
-**The Riddle:** The ten partial inscriptions, assembled in clockwise order starting from the north stone, form a complete riddle:
+The Dusk Priest's death in Session 3 did something to the Ashring. The stones are no longer dormant — they pulse with a slow rhythm like a held breath. This is not comfortable.
 
-> I am the moment before and the moment after.
-> I live where the fire was, not where it is.
-> I cannot be taken — only given.
-> I am what remains when everything chosen has been honored.
+**The hidden hollow:** DC 12 Investigation to find without looking; DC 8 if players search the dais deliberately. Inside the underface of the central dais, a hollow has been carved. Inside it: an eight-sided vessel of the same stone as the Primer Stones, roughly the size of two closed fists. Eight empty slots, each shaped for a specific insert. The vessel has been here for fifty years. The slots have never been filled.
 
-**Answer:** DAWN. Or ASH. Or CONSENT. Any of the three spoken aloud at the center dais triggers the response — the stones recognize synonyms for the same thing.
+**What it is:** Corven called it the *Concordance Stone*. Players will call it the puzzle box. It is the Inversion's physical activation mechanism — not a metaphor, an engineering component. Eight Ritual Cubes, one held by each of the eight living Dawnborn, must be placed inside in the correct astronomical order. When complete and lit with any light source, the box projects the activation image: a bird, the old dawn-symbol. This is the signal that begins the Inversion.
 
-**Correct:** All ten stones glow amber simultaneously for the first time in fifty years. Secondary text appears on the center dais, carved underneath the weathered surface and only visible when the stones are active: *"If all ten give the word freely, the word becomes the sun."* This is the Inversion pathway, in plain language. Players who read it understand immediately: unanimous genuine consent undoes the ritual without anyone dying.
+**Where are the cubes?** Each living Dawnborn received theirs from Corven fifty years ago, shortly before the original ritual. He told them it was "a record of participation." He did not explain further. Most have had it in a drawer or on a shelf their entire lives. All of them know, on some level, what it is. Some have been waiting for someone to come for it.
 
-**Wrong:** One stone glows. The others do not. Players learn something important about the mechanism even from the failure — the answer requires all ten to respond at once. This is a preview of the Inversion Circle's core problem: it cannot be partially completed.
-
-**GM Note:** The riddle's answer requires giving, not taking. The Inversion path requires the same. Let that land before moving to the puzzle.
+**The box in players' hands from this point forward.** It is their progress tracker. Every cube added hums faintly. The hum deepens each time a new cube joins. Empty slots feel cold. Filled slots are warm.
 
 </details>
 
 <details>
-<summary>📁 Scene 3 — Puzzle: Astronomical Activation Sequence</summary>
+<summary>📄 The Diagnostic Puzzle — Each Stone's Echo</summary>
 
-<details>
-<summary>📄 The Puzzle & Routes</summary>
+Each stone now broadcasts a psychic impression of its assigned Dawnborn's internal relationship with the ritual. Not a memory. An emotional state rendered as image and sensation.
 
-**Setup:** The ten Primer Stones must be activated in the correct order — hands placed on each stone in sequence, the stone's star-name spoken aloud — before the Inversion inscription on the center dais becomes readable. The correct order is the ten brightest stars visible on the night of the original ritual fifty years ago, recorded in the Spire Observatory's sealed log. Wrong order: 1d10 radiant damage per incorrect stone as the stone discharges, then resets.
+**Reading a stone:** DC 12 Perception to notice the impression radiating from a stone nearby. DC 14 Arcana to read it clearly. Success = full vision below. Failure before checking (touching without Perception/Arcana first) = 1d8 psychic damage and one image: a person watching something they valued become the past. Not specific to a Dawnborn. Specific to the solver. The stones are not threatening. They are being honest.
 
-**The Puzzle:** Players have three routes to the activation sequence:
+| Stone | Vision | What it reveals |
+|-------|--------|-----------------|
+| **Stone 1** — Sera Voss | A woman standing in a doorway. Already dressed to go out. She has been dressed for an hour. She is waiting for someone to tell her it is time. | She said yes. She is ready. She is waiting. Find her — she will give the cube immediately. |
+| **Stone 2** — Tomas Areth | A man at a desk covered in calculations, all checked and rechecked. One column crossed out and rewritten four times. The answer is the same each time. He cannot stop checking. | He knows the sequence. He fears it has an error he cannot find. Approachable; needs someone to trust the math with him. |
+| **Stone 3** — Ysel Maren | A woman looking at a door she has already walked through. She is not looking back the way someone hesitates. She is looking back the way someone says goodbye. | Ready for months. She wants someone to have noticed. Cube goes freely — but ask genuinely how she is. |
+| **Stone 4** — Cormac Drell | A man holding something invisible. His grip is very tight. He does not know if he is holding on or holding it back. | He said yes nine weeks ago. He does not know if he still means it. He has not examined it because examining it might break it. The cube is with him. He has not put it away. |
+| **Stone 5** — Lira Anwick | A pair of hands, and a smaller pair nested inside them. The smaller pair needs the larger pair to stay. | Someone depends on her. She believes leaving them is the thing she cannot do. The cube is at the Healing House. Approach gently — this is a harder conversation. |
+| **Stone 6** — Petra Vane | Darkness. The stone is cold. The impression is absent — not blocked, not hidden. She hasn't been seen in the city in three weeks. | She is the one they cannot find. Her location is Session 5's opening problem. Her cube will require finding her first. |
+| **Stone 7** — Nin Fletch | A road going in two directions at once. The figure at the crossroads stands still, as if the choice might resolve itself if left alone long enough. | They will say yes if asked directly and waited for. They have been waiting for an excuse not to choose. Remove the excuse: walk to them and ask. |
+| **Stone 8** — Orya Doss | A map with one location circled, then circled again, then again until the paper is worn through at the center. | She knows where she needs to be. She has been ready. She simply has not told anyone. Go find her — she is probably already at home waiting. |
+| **Stone 9** — Aldric Stone | A forge. The heat is fine. Work is good. A man finishing a piece that was done three weeks ago. He keeps refining it because there is nothing else to do while he waits. | Already yes. Has been for years. The cube is in his apron pocket. He has been carrying it for three weeks. **Start here.** |
+| **Stone 10** — Davin Shore | Cold. No vision. Not blocked, not hidden — empty. Gone for twenty years. | This Dawnborn is dead. His stone has been cold since the day he died. His cube was kept by his daughter Mira Shore, a woodcutter three hours east of the city. She does not know what it is. She has had it since she was four. This is a Session 5 problem. |
 
-1. **Observatory records** — requires Spire access. DC 13 Persuasion with Maret Lonn (the Observatory archivist, cautious but not hostile), or DC 15 Thieves' Tools on the Observatory archive lock if Lonn won't cooperate.
-2. **Corven's Notation Key** — if players assembled Fragment 1 (Session 1) and Fragment 2 (Session 2), the combined key maps the star sequence. Grants advantage on DC 12 Arcana to derive the order from the stone glyphs.
-3. **Tomas Areth** — he has memorized the sequence. He will give it if asked. But asking him means having the Inversion conversation, because he immediately asks: *"Why do you need the sequence? What are you planning to do with it?"*
+*Stone 6b (the Iza position, marked by a worn depression in the dais floor rather than a standing stone): no impression, no vision. Just warmth in the air above it. It has no explanation that is comfortable to look at directly.*
 
-**Solution:** Activate stones in star-brightness order (brightest to dimmest, from the ritual night's sky). Players must have at least one of the three source routes — the sequence cannot be guessed or brute-forced without catastrophic radiant damage accumulation.
+**What players learn from a successful reading of all stones:**
+- Priority order: Aldric (Stone 9, start here) → Sera, Ysel, Orya, Tomas, Nin Fletch (willing or near-willing) → Cormac (wavering, needs care) → Lira (harder) → Petra Vane (missing, Session 5)
+- Davin Shore's cube is with his daughter outside the city — the box can only be completed in Session 5 unless they go get it now
+- The box needs 8 cubes. They will not have all 8 today.
 
-**Partial success:** 7-9 stones activated correctly before an error. The incorrect stone discharges (1d10 radiant, DC 12 Dexterity save for half). Stones reset. The center dais glows faintly — the inscription is almost visible but not readable. A second full attempt completes it.
+**Also on the dais:** The activation sequence (brightest to dimmest stars visible on the ritual night) is encoded in the dais's central star map carving. DC 15 Arcana to read it correctly; Tomas Areth can assist (advantage). This is the ORDER for placing cubes in Session 5.
 
-**Failure:** Fewer than 7 correct before an error. Full reset, full damage from the incorrect stone. The watching crowd at the plaza's edge takes a step back. Davan Crel, if present, notes the discharge and its timing in his report to Keseph.
-
-**Success:** All ten activated in sequence. The center dais inscription glows amber and holds. The Inversion pathway is revealed and readable. Players now know that Ending B (all ten freely consent, no one dies) is mechanically possible — and that it requires every single Dawnborn at their exact stone position simultaneously.
-
-**Connected to:** Session 5 — the Inversion Circle requires all ten Dawnborn at these specific stone positions at the same moment. This puzzle establishes which stone belongs to which Dawnborn. Any stone not activated in Session 5 means that Dawnborn's consent is absent and the Inversion cannot complete.
+</details>
 
 </details>
 
 <details>
-<summary>📄 Varren Aldiss Discovery</summary>
+<summary>📁 Scene 3 — First Cube: Aldric at the Forge</summary>
 
-**Varren Aldiss discovery:** DC 14 Investigation — cross-referencing Tomas's observatory notes with the Spire's visitor log surfaces a name: Varren Aldiss, Observatory assistant, listed as Tomas's primary archive contact. Cross-reference with Concordance-adjacent meeting records (DC 16 History to recognise the significance): Aldiss has been feeding information to both the Reckoning and the Dawnless simultaneously. If players expose Aldiss before Scene 5 or before Session 5: Harran arrives without his intelligence advantage. He doesn't know the stone positions are primed and wastes his opening action recalibrating.
+<details>
+<summary>📄 Five Senses & Setup</summary>
+
+Players go directly to Aldric Stone — the Diagnostic showed them Stone 9 without ambiguity: already yes, already ready. His forge is in the Ashring District, three minutes from the circle. They can smell it before they see it: coal smoke, iron, the specific dry heat of active metalwork.
+
+**Five senses:**
+- *Sight:* A wide-doored forge, open to the street. Amber light that is actual fire, not ritual. A large man in a leather apron, working at something that was clearly finished days ago.
+- *Sound:* Hammer-strikes at a regular pace. Not urgent. Not hurried. The sound of someone doing a thing they know how to do while they wait.
+- *Smell:* Coal, iron, sweat. The particular smell of work done well.
+- *Touch:* The forge's heat extends into the street. Warmer than Varenhold should be. Warmer than the amber lanterns ever manage.
+- *Air:* Clean, despite everything. The kind of heat that burns off complexity.
 
 </details>
 
 <details>
-<summary>📄 Optional: Isolde's Apparatus (Ending C)</summary>
+<summary>📄 The Scene</summary>
 
-Players who ask Maret Lonn about alternative solutions to the ritual, or who succeed on DC 14 History while reading the Spire's sealed observatory logs, find a notation: a redirect apparatus designed by Isolde Rann, a former Compact researcher. Isolde disappeared from the record three months after the original ritual. Her apparatus — her answer to whether the Dawnborn energy could be *redirected* rather than *released* — is in the Compact's restricted archive, never retrieved.
+**When players arrive:** Aldric does not stop working immediately. He finishes the strike. Sets down the hammer. Turns. He has been expecting someone — not these people specifically, but someone — for three weeks.
 
-Recovering and partially reconstructing it requires a skill challenge: DC 14 Arcana, DC 12 Tinker's Tools (or Artificer tools), DC 13 History. Two successes out of three: the apparatus is functional. This enables **Ending C (Transfer)** in Session 5. One success or failure: functional but unstable (15-20% chance of failure on use in Session 5 — GM decides before that session). Zero successes: the apparatus is found but unusable.
+> *"You've been to the stones."*
 
-**Isolde Rann** — *in absentia.* Fifty years gone. Her notes are careful, exact, written as if she expected someone to read them eventually. If players examine them closely (DC 14 Investigation): the last notation is dated two days before the original ritual. No entry after that. She knew something was going to happen. She prepared for the scenario where it didn't work.
+Not a question. He reaches into his apron pocket and sets a cube on the workbench. Stone, smooth, carved with a single symbol that matches the glyph on Stone 9. He has been carrying it since he put it there three weeks ago.
 
-</details>
+> *"I said yes fifty years ago when I was born into this. I'm saying yes again now. Same answer. Don't make it bigger than it is."*
 
-<details>
-<summary>📄 Maret Lonn — Observatory Archivist</summary>
+**Giving the cube:** He places it in the box without ceremony. If players have the puzzle box already, he puts it directly in the slot. The slot closes warm. The box hums faintly for a moment, then settles.
 
-*Want:* To not be responsible for what someone does with the records she protects.
-*Fear:* That her caution makes her complicit in the wrong outcome.
-*Lie:* "I cannot share restricted records." She can. She decides not to.
+**What Aldric tells players — unsolicited:**
+- *On Cormac:* *"He's been at the Dawnhall for a couple of hours. Ysel came and told me. She asked if I'd talk to him. I said it wasn't mine to do. If Cormac needs something, it's someone who isn't already sure."*
+- *On Lira:* *"She's at the Healing House. She has someone. I don't know who. She hasn't said. None of us have asked."* Long pause. *"We should have asked."*
+- *On Nin Fletch:* *"Nin takes time. Don't rush them — they'll come to yes if you wait. They're probably already halfway there; they just need someone to walk the second half with them."*
+- *On Petra Vane:* *"I haven't seen her in three weeks. Nobody has. That's not like her."* He picks up the hammer again, then sets it down. *"She wouldn't hide. She would leave."*
 
-Voice: Precise and measuring. She asks clarifying questions before she does anything. She is cautious because the last people who accessed these records were the original ritual participants — and she watched that end.
-
-What she needs: a legitimate reason that falls within her interpretation of Observatory duty. The log is restricted because the ritual ended in disaster. If players can argue that accessing the sequence now prevents a worse outcome — and she believes the argument — she unlocks it. She does not need certainty. She needs to believe the players have thought harder about this than she has.
-
-If players mention the Inversion path (all ten freely consent, no deaths): she goes quiet. Long pause. Then, carefully: *"That would be different. That would be very different from what I was told to prevent."*
+**What players leave with:** Cube 1 (Slot 9). A map of where to go next. A model for how the cube-giving works — it is not transactional; it is ceremonial. Each Dawnborn hands over something they have carried for fifty years. Treat it accordingly.
 
 </details>
 
 <details>
-<summary>📄 Tomas Areth — Dawnborn</summary>
+<summary>📄 Tomas Areth — If Players Visit Him This Session</summary>
 
 *Want:* The circle to close without anyone performing certainty they don't actually have.
 *Fear:* That his memorized activation sequence contains an error he won't discover until the moment it matters.
 *Lie:* He is not afraid.
 
-*Voice:* Careful, unhurried. Asks precise questions before answering any. Does not start sentences he doesn't intend to finish.
-
 *Physical:* Early forties. Thin, deliberate. Ink stains on his right hand — permanent, not today's. His notebook is always open somewhere nearby. He has the manner of someone who has thought about this specific moment for a long time and is not surprised it has arrived.
 
-The scene begins when players ask for the sequence. He does not give it immediately.
+The scene begins when players ask for the cube OR ask about the sequence. He does not give either immediately.
 
 > *"Tell me first. What are you planning to do with it?"*
 
@@ -627,14 +637,14 @@ Tomas goes still. Quiet for longer than is comfortable. Then:
 He asks three questions in order. Let him ask them. Do not rush past them.
 
 1. > *"Is Ellan Voss still alive?"* [Yes] *"I didn't know that. I assumed the Dawnless had her. I assumed they'd taken her years ago."*
-
 2. > *"All ten. Not nine. Not ten minus one. Ten."* [Confirmed] *"Then who is the tenth? There was always one we couldn't locate."*
-
-3. > *"When you say 'freely' — you mean actually freely. Not 'convinced because the alternative is worse.' Not 'decided with a city starving outside their window.'"* [Confirmed] *"Then I have to think about whether I am free. Give me a moment."*
+3. > *"When you say 'freely' — you mean actually freely. Not convinced because the alternative is worse."* [Confirmed] *"Then I have to think about whether I am free. Give me a moment."*
 
 He is quiet. Not performing thought — actually in it.
 
 Then: *"I'll give you the sequence. But you need to understand something. If this doesn't succeed — if it's nine voices instead of ten — the sequence is in the wrong hands. Not your hands. Anyone who comes after you could use it to force this instead of invite it. I am trusting you with the mechanism. Don't use it like one."*
+
+His cube goes with the sequence. He does not separate them.
 
 **If players pressure him:**
 > *"No. I know what pressure looks like. I know what it feels like from the inside. You can ask me again when you've stopped doing it."*
@@ -663,7 +673,7 @@ This is not hostile. It is absolute.
 
 **Lie:** That his yes from nine weeks ago is still the same yes. It isn't. He knows it isn't.
 
-**Setup:** At the Dawnhall after players return from the Ashring. Ysel Maren has been watching Cormac for three weeks. She has not said anything to him directly. Until now. She asks him, in the open, in front of players and two other Dawnborn seated at the far end of the table: *"Do you still mean what you told Edoran?"*
+**Setup:** Players arrive at the Dawnhall on Aldric's direction — *"He's been there two hours. Ysel's watching."* This requires no arrangement. Players walk in the door and the scene is already happening. Cormac is at the long communal table, hands around a clay cup. Ysel Maren is at the opposite end, not eating, watching him. She has been watching him for three weeks. She has not said anything directly. Until now — until someone else arrives who changes the weight of the room. She asks him, in front of players and two other Dawnborn at the far end of the table: *"Do you still mean what you told Edoran?"*
 
 **Five senses:**
 - Sight: Amber lantern light. The long Dawnhall table. Cormac's hands around a clay cup.
