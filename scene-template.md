@@ -3,19 +3,19 @@ title: "Scene Template"
 subtitle: "Copy. Fill in. Run. Works for any campaign."
 ---
 
-*This template works for any D&D campaign. Every bracket contains a rule describing what goes there and what it should look like when done. Remove the rule text once you've filled the field. The structure, CSS classes, and section logic are campaign-agnostic — copy the whole page into any Quarto book project.*
+*This template works for any D&D campaign. Every bracket contains a rule describing what goes there and what it should look like when done. Remove the rule text once you've filled the field. The structure, CSS classes, and section logic are campaign-agnostic - copy the whole page into any Quarto book project.*
 
 ---
 
-## Scene [N] — [Title] ([Type])
+## Scene [N] - [Title] ([Type])
 
 *Type is one of: Combat / Puzzle / RP / Exploration. If a scene is more than one type, split it into two scenes.*
 
 *Title should be evocative, not descriptive. "The Restorer Ambush" not "Combat Encounter 1." The title communicates character, not plot function.*
 
-*Opening line: one sentence placing players physically and atmospherically. This is the establishing shot. "The road narrows into a four-way junction — food queue on the left, four figures not in the queue on the right."*
+*Opening line: one sentence placing players physically and atmospherically. This is the establishing shot. "The road narrows into a four-way junction, food queue on the left, four figures not in the queue on the right."*
 
-**Players know:** *List 3–5 facts players actively carry in from previous events. Not background lore — things that happened in play. Bullet form.*
+**Players know:** *List 3–5 facts players actively carry in from previous events. Not background lore - things that happened in play. Bullet form.*
 **Players don't know:** *The information payload this scene delivers. One sentence. Naming it here keeps the scene from drifting.*
 **Confirm before running:** *Physical checklist. The things that must be true before you open your mouth. If any are false, stop. "Prop X in hand · NPC Y positioned at Z · Handout printed and cut."*
 
@@ -27,32 +27,32 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 | | |
 |---|---|
-| **Purpose** | *One sentence: the moral or narrative function. Not what happens — why it matters. Ask: what does this scene change about how players understand the world, NPCs, or each other? Bad: "Players fight bandits." Good: "Establishes the bandit leader has a legitimate grievance — making the fight morally uncomfortable from round one."* |
-| **Key reveal** | *The single fact that must survive regardless of player choices. A plain English fact, not a plot summary. Bad: "Players learn about the villain." Good: "The village elder ordered the disappearances — to protect the village from something worse."* |
+| **Purpose** | *One sentence: the moral or narrative function. Not what happens - why it matters. Ask: what does this scene change about how players understand the world, NPCs, or each other? Bad: "Players fight bandits." Good: "Establishes the bandit leader has a legitimate grievance, making the fight morally uncomfortable from round one."* |
+| **Key reveal** | *The single fact that must survive regardless of player choices. A plain English fact, not a plot summary. Bad: "Players learn about the villain." Good: "The village elder ordered the disappearances, to protect the village from something worse."* |
 | **Key mechanic** | *The number or answer you need mid-scene without digging. DC, puzzle answer, victory condition, peak moment trigger. One line. Example: "Puzzle answer: the merchant's name carved on the chest lid."* |
 | **Beat 1** | *The setup. What players encounter in the first 30 seconds. The initial situation before anything moves.* |
-| **Beat 2** | *The turning point — the specific event that pivots the scene. Name the exact moment, not the mood. "The prisoner grabs the guard's knife mid-conversation" is a Beat 2. "Tension rises" is not.* |
+| **Beat 2** | *The turning point - the specific event that pivots the scene. Name the exact moment, not the mood. "The prisoner grabs the guard's knife mid-conversation" is a Beat 2. "Tension rises" is not.* |
 | **Beat 3** | *Resolution and the sentence that transitions players to the next scene. Write it here so you don't improvise it.* |
 | **XP / reward** | *Exact numbers. No ranges. Bonus conditions named explicitly. "200 XP base + 50 bonus if the prisoner is brought in alive."* |
-| **If they skip** | *One sentence: where the reveal still reaches players. Must name a specific future scene, NPC, or object — not "they'll find out eventually."* |
-| **Three clues** | *Three independent paths to the key reveal. ① Primary: obvious action, ideally no roll. ② Secondary: different skill, NPC, or action — genuinely independent of ①. ③ Passive: already in front of players, no roll required, fires even if they do nothing right.* |
-| **Handouts** | *Each prop on one line: [Prop name] — [exact trigger moment] — [how it enters players' hands: found on body / handed by NPC / mounted on wall / etc.]* |
+| **If they skip** | *One sentence: where the reveal still reaches players. Must name a specific future scene, NPC, or object, not "they'll find out eventually."* |
+| **Three clues** | *Three independent paths to the key reveal. ① Primary: obvious action, ideally no roll. ② Secondary: different skill, NPC, or action - genuinely independent of ①. ③ Passive: already in front of players, no roll required, fires even if they do nothing right.* |
+| **Handouts** | *Each prop on one line: [Prop name] ([exact trigger moment]) [how it enters players' hands: found on body / handed by NPC / mounted on wall / etc.]* |
 
 **NPC positions at scene start:**
 
-*For each named NPC in or near this scene: exact physical action (not "in room 3" — what they are literally doing with their body), their information state, and their goal. This is the living dungeon principle — NPCs have schedules, not map positions.*
+*For each named NPC in or near this scene: exact physical action (not "in room 3" - what they are literally doing with their body), their information state, and their goal. This is the living dungeon principle - NPCs have schedules, not map positions.*
 
 | NPC | Right now | Knows | Wants |
 |---|---|---|---|
-| [Name] | *Exact physical action — specific enough to quote at the table. "Sorting correspondence at the east desk, back to the door, not looking up when it opens."* | *Full information state: what they've heard, what they suspect but can't confirm, what they're hiding.* | *Their goal this scene in one phrase — what they're trying to achieve or avoid.* |
+| [Name] | *Exact physical action - specific enough to quote at the table. "Sorting correspondence at the east desk, back to the door, not looking up when it opens."* | *Full information state: what they've heard, what they suspect but can't confirm, what they're hiding.* | *Their goal this scene in one phrase, what they're trying to achieve or avoid.* |
 | [Name] | *Exact physical action* | *Information state* | *Goal* |
 
 ---
 
 <details>
-<summary>Scene Description — What's Happening & Why</summary>
+<summary>Scene Description - What's Happening & Why</summary>
 
-*GM-only context. Nothing in this section is player-perceivable — if players could hear it, it belongs in Read Aloud instead.*
+*GM-only context. Nothing in this section is player-perceivable - if players could hear it, it belongs in Read Aloud instead.*
 
 **What is happening**
 
@@ -64,7 +64,7 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 **Why they should care**
 
-*Personal stakes — not "the plot requires it." What does this scene offer or cost a specific character type? If you can name a player or character archetype for whom this lands harder, do it. A scene with no personal hook is texture, not drama.*
+*Personal stakes, not "the plot requires it." What does this scene offer or cost a specific character type? If you can name a player or character archetype for whom this lands harder, do it. A scene with no personal hook is texture, not drama.*
 
 **Story relevance**
 
@@ -72,22 +72,22 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 **Emotional target**
 
-*The feeling players carry out of this scene. One phrase. Not the event — the emotion. "Watched." "Implicated without meaning to be." "Hopeful about the wrong thing." Every decision you make about this scene should serve this landing.*
+*The feeling players carry out of this scene. One phrase. Not the event - the emotion. "Watched." "Implicated without meaning to be." "Hopeful about the wrong thing." Every decision you make about this scene should serve this landing.*
 
 </details>
 
 ---
 
 <div class="scene-open">
-<span class="variant-label">Read Aloud — [Default / Variant A label]</span>
+<span class="variant-label">Read Aloud - [Default / Variant A label]</span>
 
-*Rules for this block: (1) Open with sensory detail before any plot moves — ground players in the room first. (2) Present tense throughout. (3) Describe NPCs physically only — how they look, what they're doing, how they hold themselves. Never describe what they're thinking or feeling. (4) Do not say anything a GM should not say aloud — no hidden information, no meta-commentary. (5) End when players have enough to act. Do not narrate their decisions.*
+*Rules for this block: (1) Open with sensory detail before any plot moves - ground players in the room first. (2) Present tense throughout. (3) Describe NPCs physically only - how they look, what they're doing, how they hold themselves. Never describe what they're thinking or feeling. (4) Do not say anything a GM should not say aloud - no hidden information, no meta-commentary. (5) End when players have enough to act. Do not narrate their decisions.*
 
 *Write the actual narration here. Second person. Specific sensory details. Named NPCs described with their first impression lines from the NPC Appearance section.*
 
-<span class="variant-label">Variant B — [Label: when this text applies]</span>
+<span class="variant-label">Variant B - [Label: when this text applies]</span>
 
-*Use when how players arrived changes the opening significantly — cautious vs. rushing, forewarned vs. oblivious. Label clearly. Delete this block if only one version is needed.*
+*Use when how players arrived changes the opening significantly - cautious vs. rushing, forewarned vs. oblivious. Label clearly. Delete this block if only one version is needed.*
 
 </div>
 
@@ -96,27 +96,27 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 <details>
 <summary>NPC Appearance & Presence</summary>
 
-*Every named NPC in this scene gets a full appearance block. Players build mental images from physical detail, not stat blocks. One memorable specific detail per NPC is worth more than three paragraphs of description. Fill all five fields — they feed directly into the Read Aloud narration and your improvised descriptions.*
+*Every named NPC in this scene gets a full appearance block. Players build mental images from physical detail, not stat blocks. One memorable specific detail per NPC is worth more than three paragraphs of description. Fill all five fields - they feed directly into the Read Aloud narration and your improvised descriptions.*
 
 ---
 
 **[NPC Name]**
 
-- **Look:** *Age range, build, coloring — 2–3 words each. Not a paragraph. "Late forties. Compact, square-shouldered. Dark-complexioned, close-cropped grey at the temples." This establishes the person before anything else.*
+- **Look:** *Age range, build, coloring - 2–3 words each. Not a paragraph. "Late forties. Compact, square-shouldered. Dark-complexioned, close-cropped grey at the temples." This establishes the person before anything else.*
 
-- **Wearing:** *Specific clothing with one detail that reveals character. Clothing is character. "Plain merchant's coat, but the boots are military issue and well-maintained — someone who served and hasn't quite stopped." "Noble-cut doublet, but the cuffs are mended badly — money problems, kept secret."*
+- **Wearing:** *Specific clothing with one detail that reveals character. Clothing is character. "Plain merchant's coat, but the boots are military issue and well-maintained - someone who served and hasn't quite stopped." "Noble-cut doublet, but the cuffs are mended badly, money problems, kept secret."*
 
-- **Posture and movement:** *Their psychology made physical. "Never turns her whole body toward you — always a quarter-turn, like she's ready to leave." "Keeps both hands visible on the table at all times." "Perfectly still. Not relaxed — controlled."*
+- **Posture and movement:** *Their psychology made physical. "Never turns her whole body toward you - always a quarter-turn, like she's ready to leave." "Keeps both hands visible on the table at all times." "Perfectly still. Not relaxed, controlled."*
 
-- **One memorable detail:** *The single thing players describe to each other after the session. A habit under stress. Something that doesn't fit. Specific enough that players picture this person and no one else. "His voice is calm. His hands aren't." "She's been crying recently — only visible at the edges of her eyes." "He keeps touching his left coat pocket without looking at it."*
+- **One memorable detail:** *The single thing players describe to each other after the session. A habit under stress. Something that doesn't fit. Specific enough that players picture this person and no one else. "His voice is calm. His hands aren't." "She's been crying recently - only visible at the edges of her eyes." "He keeps touching his left coat pocket without looking at it."*
 
-- **First impression (read-aloud line):** *1–2 sentences. Second person, present tense, player-perceivable only. The line you read when players first see this NPC. Contains posture and one memorable detail. Creates an impression without explaining it. Example: "The woman at the back of the room isn't watching the door — she's watching whoever comes through it. She's been here long enough to have a preferred seat."*
+- **First impression (read-aloud line):** *1–2 sentences. Second person, present tense, player-perceivable only. The line you read when players first see this NPC. Contains posture and one memorable detail. Creates an impression without explaining it. Example: "The woman at the back of the room isn't watching the door - she's watching whoever comes through it. She's been here long enough to have a preferred seat."*
 
 ---
 
 **[NPC Name]**
 
-- **Look:** *Age, build, coloring — brief*
+- **Look:** *Age, build, coloring, brief*
 - **Wearing:** *Specific clothing with one revealing detail*
 - **Posture and movement:** *Personality made physical*
 - **One memorable detail:** *The thing players describe afterward*
@@ -129,23 +129,23 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 <details>
 <summary>Handouts</summary>
 
-*Handouts are physical props that transfer from GM to players at a specific moment. Each handout must justify its existence — it should reveal something, raise a question, or deepen a relationship. Handing over a prop is one of the most powerful moments in tabletop play; it makes information tangible. Every prop gets its own block.*
+*Handouts are physical props that transfer from GM to players at a specific moment. Each handout must justify its existence - it should reveal something, raise a question, or deepen a relationship. Handing over a prop is one of the most powerful moments in tabletop play; it makes information tangible. Every prop gets its own block.*
 
 ---
 
 **Handout: [Name]**
 
-- **What it is physically:** *Describe the object before the content — material, condition, size, how it's sealed, stored, or marked. Players see it before they read it. Physical description sets up the reading. "A folded square of parchment, sealed with black wax stamped with a tower mark. The paper is expensive — whoever wrote this expected it to be kept." "A small iron key, old, with a number scratched into the bow — 7."*
+- **What it is physically:** *Describe the object before the content - material, condition, size, how it's sealed, stored, or marked. Players see it before they read it. Physical description sets up the reading. "A folded square of parchment, sealed with black wax stamped with a tower mark. The paper is expensive - whoever wrote this expected it to be kept." "A small iron key, old, with a number scratched into the bow, 7."*
 
-- **Trigger moment:** *The exact in-scene event that puts this in players' hands. Specific enough to execute without deciding at the table. "After combat, if players search the body — inside the left boot." "When players successfully pick the lock." "The innkeeper slides it across without being asked, before they can say a word."*
+- **Trigger moment:** *The exact in-scene event that puts this in players' hands. Specific enough to execute without deciding at the table. "After combat, if players search the body - inside the left boot." "When players successfully pick the lock." "The innkeeper slides it across without being asked, before they can say a word."*
 
-- **Handoff narration:** *One sentence, in the scene's tone, said while handing the prop across. "You find it folded under the coin purse — someone placed it there deliberately." "She doesn't say anything when she gives it to you. She watches your face instead."*
+- **Handoff narration:** *One sentence, in the scene's tone, said while handing the prop across. "You find it folded under the coin purse - someone placed it there deliberately." "She doesn't say anything when she gives it to you. She watches your face instead."*
 
-- **What it reveals without checks:** *Everything a player learns by reading or examining it normally. State the information plainly — this is what the prop delivers.*
+- **What it reveals without checks:** *Everything a player learns by reading or examining it normally. State the information plainly; this is what the prop delivers.*
 
-- **What a skill check adds:** *DC [N] [Skill check]: [Additional layer revealed on success. This should deepen, not repeat — tell them something about the person who made it, or something hidden in the object itself.]*
+- **What a skill check adds:** *DC [N] [Skill check]: [Additional layer revealed on success. This should deepen, not repeat, tell them something about the person who made it, or something hidden in the object itself.]*
 
-- **How it connects forward:** *Which future scene, NPC, or revelation this handout feeds. "The sun-ring symbol on the wax matches the symbol on the pamphlet players already have — if they connect them, they know these came from the same organization." "Establishes Edoran's handwriting, which becomes significant when they find his second note in Session 2."*
+- **How it connects forward:** *Which future scene, NPC, or revelation this handout feeds. "The sun-ring symbol on the wax matches the symbol on the pamphlet players already have - if they connect them, they know these came from the same organization." "Establishes Edoran's handwriting, which becomes significant when they find his second note in Session 2."*
 
 ---
 
@@ -175,16 +175,16 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 | Object | Action | Consequence |
 |---|---|---|
-| *[Object name]* | *What players can do with it* | *What happens — mechanical effect and/or narrative consequence* |
+| *[Object name]* | *What players can do with it* | *What happens, mechanical effect and/or narrative consequence* |
 | *[Object name]* | *Action* | *Consequence* |
 | *[Object name]* | *Action* | *Consequence* |
 
 **Five Senses**
 
-*Write at least sight, sound, and smell for every scene. Touch and taste where relevant. Sensory grounding anchors players before plot moves. Be specific — "lamp oil and old paper" not "musty." "The sound of someone crying two floors up, and the specific moment it stops" not "background noise."*
+*Write at least sight, sound, and smell for every scene. Touch and taste where relevant. Sensory grounding anchors players before plot moves. Be specific - "lamp oil and old paper" not "musty." "The sound of someone crying two floors up, and the specific moment it stops" not "background noise."*
 
 - **Sight:** *Lighting quality and color. What's visible at range versus up close. What's in shadow.*
-- **Sound:** *Ambient — what's always playing. Triggered — what starts when players enter or act.*
+- **Sound:** *Ambient - what's always playing. Triggered, what starts when players enter or act.*
 - **Smell:** *Specific. One dominant smell and one underneath it.*
 - **Touch:** *Temperature of the air. Texture of relevant surfaces. What players feel if they reach out.*
 - **Taste:** *Optional. Use in ritual, food, poison, or highly atmospheric scenes.*
@@ -195,7 +195,7 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 | Skill | DC | What they find |
 |---|---|---|
-| *[Skill]* | *[N]* | *Specific detail — not "you notice something unusual"* |
+| *[Skill]* | *[N]* | *Specific detail, not "you notice something unusual"* |
 | *[Skill]* | *[N]* | *Specific detail* |
 | *[Skill]* | *[N]* | *Specific detail* |
 
@@ -210,8 +210,8 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 
 **[NPC Name]**
 - **Right now:** *Exact physical action at scene start. "Standing at the east wall chart, tracing the star positions with one finger, not looking up when the door opens." Specific enough to quote at the table.*
-- **Knows:** *Complete information state — what they've heard, what they suspect but can't confirm, what they're actively hiding. This shapes every line of dialogue.*
-- **Triggered by:** *The specific events that change their behavior. Not "if combat starts" — name the exact trigger. "If players mention this NPC's superior by name, her hands stop moving." "If players show the symbol, he goes very still."*
+- **Knows:** *Complete information state - what they've heard, what they suspect but can't confirm, what they're actively hiding. This shapes every line of dialogue.*
+- **Triggered by:** *The specific events that change their behavior. Not "if combat starts" - name the exact trigger. "If players mention this NPC's superior by name, her hands stop moving." "If players show the symbol, he goes very still."*
 - **If never found:** *Where they go and what they do after this scene if players don't interact with them. They must go somewhere. Their absence should be potentially visible in the next scene.*
 
 **[NPC Name]**
@@ -227,29 +227,29 @@ subtitle: "Copy. Fill in. Run. Works for any campaign."
 <details>
 <summary>Three Clues</summary>
 
-*Every important revelation needs three independent paths. Independent means: different player action, different skill, different NPC, different location. If two clues both require searching the same object, they are one clue with two steps. If you cannot write three genuinely independent paths, the revelation is not ready to run — add paths first.*
+*Every important revelation needs three independent paths. Independent means: different player action, different skill, different NPC, different location. If two clues both require searching the same object, they are one clue with two steps. If you cannot write three genuinely independent paths, the revelation is not ready to run, add paths first.*
 
 **The reveal:** *State it in plain English. One sentence. The fact, not the plot summary.*
 
 ---
 
-**Clue ①** — Primary *(obvious action — ideally no roll required)*
+**Clue ①** (Primary *(obvious action) ideally no roll required)*
 
 *What happens when players do the most natural thing. This rewards players who think clearly and act directly. If it requires a roll, the DC should be low.*
 
 ---
 
-**Clue ②** — Secondary *(independent of ① — different skill, NPC, or action)*
+**Clue ②** (Secondary *(independent of ①) different skill, NPC, or action)*
 
 *A different approach that reaches the same fact. A player who misses ① hits this instead. Must not share a precondition with ①.*
 
-DC [N] [Skill] — or: *[alternate trigger condition]*
+DC [N] [Skill], or: *[alternate trigger condition]*
 
 ---
 
-**Clue ③** — Passive *(no roll, no deliberate action required)*
+**Clue ③**: Passive *(no roll, no deliberate action required)*
 
-*Something already in front of players that confirms the reveal without them having to do anything right. A prop already in their hands. A phrase in ambient dialogue they hear regardless. A visible detail in the read-aloud. Players may not understand it during this scene — they will remember it when the reveal lands later and feel smart for having had it all along.*
+*Something already in front of players that confirms the reveal without them having to do anything right. A prop already in their hands. A phrase in ambient dialogue they hear regardless. A visible detail in the read-aloud. Players may not understand it during this scene; they will remember it when the reveal lands later and feel smart for having had it all along.*
 
 </details>
 
@@ -261,7 +261,7 @@ DC [N] [Skill] — or: *[alternate trigger condition]*
 *No single scene should gate all access to a critical piece of information. Fill this in before the session, not during it.*
 
 **Likely skip scenarios:**
-- *The most plausible way players bypass this scene — go somewhere else first, fail the entry condition, leave before searching*
+- *The most plausible way players bypass this scene, go somewhere else first, fail the entry condition, leave before searching*
 - *A second plausible miss*
 
 **Where the reveal still reaches them:**
@@ -279,9 +279,9 @@ DC [N] [Skill] — or: *[alternate trigger condition]*
 
 *(Delete this section entirely for RP-only scenes)*
 
-*Stat blocks belong here, adjacent to the encounter — not in an appendix the GM has to flip to mid-combat. CR and XP go at the top. Abbreviate wherever possible. During combat, GMs look up AC, HP, and the attack roll — put those first.*
+*Stat blocks belong here, adjacent to the encounter - not in an appendix the GM has to flip to mid-combat. CR and XP go at the top. Abbreviate wherever possible. During combat, GMs look up AC, HP, and the attack roll, put those first.*
 
-**[Enemy Name]** ×[N] — CR [N] · [N] XP each
+**[Enemy Name]** ×[N] - CR [N] · [N] XP each
 
 > **AC** [N] · **HP** [N] ([NdN+N]) · **Speed** [N] ft
 >
@@ -294,15 +294,15 @@ DC [N] [Skill] — or: *[alternate trigger condition]*
 > **[Special ability].** *[One sentence description.]*
 
 **Initiative (pre-rolled):**
-1. [NPC name] — [N]
-2. [NPC name] — [N]
+1. [NPC name], [N]
+2. [NPC name], [N]
 3. Players
 
-**Round-by-round guide** *(fallback — what NPCs do when players don't surprise them)*
+**Round-by-round guide** *(fallback - what NPCs do when players don't surprise them)*
 
-- **Round 1:** *Default NPC actions — positioning, first attacks, how the scene looks at the top of combat*
+- **Round 1:** *Default NPC actions, positioning, first attacks, how the scene looks at the top of combat*
 - **Round 2:** *The peak moment. Name the specific designed event that fires this round. Commit to triggering it. "The note-carrier crouches and holds the folded paper to the lantern flame." Write it here, then do it.*
-- **Round 3+:** *Escalation condition or retreat trigger. What changes — who runs, who calls for reinforcements, what the terrain does*
+- **Round 3+:** *Escalation condition or retreat trigger. What changes, who runs, who calls for reinforcements, what the terrain does*
 
 **Tactical AI** *(one line per NPC: what changes their default)*
 
@@ -310,9 +310,9 @@ DC [N] [Skill] — or: *[alternate trigger condition]*
 - [NPC] → [Specific trigger] causes [specific behavior change]
 
 **Terrain effects:**
-- [Feature]: [Mechanical effect — difficult terrain, half cover, climbable surface, destructible element, etc.]
+- [Feature]: [Mechanical effect, difficult terrain, half cover, climbable surface, destructible element, etc.]
 
-**Secondary objective:** *The non-combat goal running alongside the fight. This is the most important line in a combat scene. If the only path to "winning" is killing everyone, redesign the scene. The secondary objective is what players talk about after — what they protected, captured, prevented, or saved while also fighting. Name it here and make sure it's visible from round one.*
+**Secondary objective:** *The non-combat goal running alongside the fight. This is the most important line in a combat scene. If the only path to "winning" is killing everyone, redesign the scene. The secondary objective is what players talk about after - what they protected, captured, prevented, or saved while also fighting. Name it here and make sure it's visible from round one.*
 
 </details>
 
@@ -321,7 +321,7 @@ DC [N] [Skill] — or: *[alternate trigger condition]*
 <details>
 <summary>Check on Basics</summary>
 
-*Run this checklist before the session begins. Not between scenes — before you sit down.*
+*Run this checklist before the session begins. Not between scenes, before you sit down.*
 
 ```
 PRE-SCENE CHECKLIST
@@ -332,13 +332,13 @@ NPC PREP
 □ [NPC name] want / fear / lie held in head
 
 HANDOUTS
-□ [Prop name] — physically in hand — trigger: [exact moment]
-□ [Prop name] — physically in hand — trigger: [exact moment]
+□ [Prop name] (physically in hand) trigger: [exact moment]
+□ [Prop name] (physically in hand) trigger: [exact moment]
 
 CLUES
-□ Clue ① — can state it without looking
-□ Clue ② — can state it without looking
-□ Clue ③ — confirmed in players' hands or in read-aloud narration
+□ Clue ①; can state it without looking
+□ Clue ②; can state it without looking
+□ Clue ③, confirmed in players' hands or in read-aloud narration
 
 SKIP FALLBACK
 □ If skipped, reveal reaches players at: [scene / NPC name]
@@ -349,7 +349,7 @@ MECHANICS
 □ Initiative pre-rolled: [NPC] [N] / [NPC] [N]
 
 SCENE FLOW
-□ Read-aloud variant selected: [which one — state why for this party]
+□ Read-aloud variant selected: [which one, state why for this party]
 □ Peak moment committed: [describe it in one line]
 □ Transition line to Scene [N+1] ready: [write it here]
 ```

@@ -1,6 +1,6 @@
 # Campaign State Trackers
 
-*These trackers are filled in by the GM between sessions. Players see the current state — not the underlying mechanics that produced it.*
+*These trackers are filled in by the GM between sessions. Players see the current state, not the underlying mechanics that produced it.*
 
 *Print this page. Update it between sessions. Put it on the table at the start of each session.*
 
@@ -36,7 +36,7 @@
 
 ## Dawnborn Consent Status
 
-*Where each Dawnborn stands on participating in the ritual. Updated as the campaign progresses. Positions can change — this is the current state, not a final answer.*
+*Where each Dawnborn stands on participating in the ritual. Updated as the campaign progresses. Positions can change; this is the current state, not a final answer.*
 
 | Dawnborn | Position | Notes |
 |----------|----------|-------|
@@ -56,7 +56,7 @@
 **Notes on consent mechanics:**
 - The inversion pathway (full sun return) requires all 10 simultaneously willing
 - The partial ritual (5 Dawnborn) produces measurable but incomplete improvement
-- Consent cannot be manufactured — only earned through genuine engagement
+- Consent cannot be manufactured, only earned through genuine engagement
 - The five "surge-phase" anchors (Sera, Tomas, Ysel, Lira, Petra) are more powerful; 5 standard vs. 5 surge = meaningfully different outcomes
 
 ---
@@ -131,7 +131,7 @@
 
 **Current wild card:** ________________________________
 
-*The wild card is the thing that can make this session unexpected. It should connect to something the players already care about — a complication, a revelation, or a presence that wasn't expected. See Session Prep Cards in gm-tools.md for examples.*
+*The wild card is the thing that can make this session unexpected. It should connect to something the players already care about - a complication, a revelation, or a presence that wasn't expected. See Session Prep Cards in gm-tools.md for examples.*
 
 ---
 

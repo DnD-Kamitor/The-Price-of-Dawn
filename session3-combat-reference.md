@@ -1,4 +1,4 @@
-# Session 3 — Combat NPC Reference
+# Session 3 - Combat NPC Reference
 
 *GM quick-reference for all Scene 3 combatants. Print or keep open during the tannery fight.*
 
@@ -27,21 +27,21 @@
 **Shortsword.** +6 to hit, 1d6+4 piercing.
 **Hand Crossbow.** +6 to hit, range 30/120 ft., 1d6+4 piercing.
 
-**Tactics:** Stays mobile. Targets spellcasters first. Fights to disable — not kill. Below 15 HP she disengages and retreats. Will talk if cornered.
+**Tactics:** Stays mobile. Targets spellcasters first. Fights to disable - not kill. Below 15 HP she disengages and retreats. Will talk if cornered.
 
 ---
 
 ### Background
 
-Harran Lecht's Reckoning recruited her two years ago. Not a true believer — a pragmatist who ran the numbers: the grey sickness kills everyone eventually, the ritual is the only solution, she'll do what it takes.
+Harran Lecht's Reckoning recruited her two years ago. Not a true believer, a pragmatist who ran the numbers: the grey sickness kills everyone eventually, the ritual is the only solution, she'll do what it takes.
 
-She has been following the party since Session 1. Not to stop them — to watch them work. The Reckoning doesn't have the fragments, doesn't have Ellan's address, doesn't have Theron's trust. The players do. Cinder's job: let them find everything, then report back.
+She has been following the party since Session 1. Not to stop them - to watch them work. The Reckoning doesn't have the fragments, doesn't have Ellan's address, doesn't have Theron's trust. The players do. Cinder's job: let them find everything, then report back.
 
-She didn't expect the Concordance to move tonight. She was watching the tannery from outside when the ambush started. She went in because Sera matters — one confirmed Dawnborn in Reckoning hands changes everything.
+She didn't expect the Concordance to move tonight. She was watching the tannery from outside when the ambush started. She went in because Sera matters - one confirmed Dawnborn in Reckoning hands changes everything.
 
 **Want:** Extract Sera if possible. If not, learn what the players know and where they're going next.
 **Fear:** The Reckoning's timeline runs out before the players find all ten. Harran has a backup plan. She's seen it. She doesn't want to be there when it's used.
-**Lie:** *"I had nothing to do with the ambush."* True — but she knew it was coming.
+**Lie:** *"I had nothing to do with the ambush."* True, but she knew it was coming.
 
 **If captured:** Won't name Harran directly. Will admit she's been following the party. Will say: *"We want the same thing you do. We just don't have the luxury of waiting for everyone to feel good about it."* DC 15 Insight: she means it. That's worse than if she didn't.
 
@@ -73,7 +73,7 @@ Dead Concordance initiates returned as Ghasts by the Dusk Priests. Sealed-door b
 **Bite.** +5 to hit, 2d6+3 piercing. If target is humanoid and dies, rises as Ghoul in 24h (unless destroyed or *bless* cast).
 **Claws.** +5 to hit, 2d4+3 slashing. Non-undead target must make DC 13 CON save or be Paralysed until end of its next turn.
 
-**Tactics:** Lock down players with Paralysis. Use Pack Tactics — stay adjacent to each other and targets. Two prioritise players engaging the Priest. One positions between party and Sera. When Priest signals withdrawal (sealed-door hand gesture), all disengage simultaneously.
+**Tactics:** Lock down players with Paralysis. Use Pack Tactics - stay adjacent to each other and targets. Two prioritise players engaging the Priest. One positions between party and Sera. When Priest signals withdrawal (sealed-door hand gesture), all disengage simultaneously.
 
 ---
 
@@ -161,24 +161,24 @@ Bound to the arcane trace of the Sending spell. Cannot think. Cannot be reasoned
 
 **Founded:** Within a decade of the Twilight (the Silence).
 
-**Theology:** Heretical Morthis reading. The sun completed its passage through the god of death's door. Darkness is not a wound — it is what follows. Restoring the sun = dragging a soul back from beyond the threshold. Cosmic necromancy. Violation of Morthis himself. They are preventing a second violation of the cosmos. This coherence is what makes them genuinely dangerous.
+**Theology:** Heretical Morthis reading. The sun completed its passage through the god of death's door. Darkness is not a wound - it is what follows. Restoring the sun = dragging a soul back from beyond the threshold. Cosmic necromancy. Violation of Morthis himself. They are preventing a second violation of the cosmos. This coherence is what makes them genuinely dangerous.
 
 **Hierarchy:**
-- Dusk Priests — ordained operatives, corrupted Morthis liturgy
-- The Returned — dead initiates reanimated as Ghasts; theology made flesh
-- The Watcher — Revenant, bound tracker, WATCHER-1 in field reports
-- Field operatives — non-undead contractors
+- Dusk Priests - ordained operatives, corrupted Morthis liturgy
+- The Returned - dead initiates reanimated as Ghasts; theology made flesh
+- The Watcher - Revenant, bound tracker, WATCHER-1 in field reports
+- Field operatives, non-undead contractors
 
-**Mark:** Sealed-door tattoo — inverted open-door, on the wrist. The Returned bear it branded, glowing faint violet.
+**Mark:** Sealed-door tattoo - inverted open-door, on the wrist. The Returned bear it branded, glowing faint violet.
 
-**Names:** "The Concordance" (Osindra, formal). "The Withdrawn" (Ellan — personal, she despises being their patron saint). "We" (cultists, internally).
+**Names:** "The Concordance" (Osindra, formal). "The Withdrawn" (Ellan - personal, she despises being their patron saint). "We" (cultists, internally).
 
 **Operations:**
 - Active in Varenhold 20+ years
-- Seer reads arcane signatures in real time — every open-street spell = position fix
+- Seer reads arcane signatures in real time, every open-street spell = position fix
 - Decoded the ritual diagram before the players
 - Have watched Ellan Voss's Ashring street for 3 years
-- Made an offer to Osindra — she has not refused
+- Made an offer to Osindra; she has not refused
 
 **Patron saint:** Ellan Voss. She withdrew consent. In Concordance theology, she did the right thing. She is proof their position is correct. She despises this. They keep her alive because her ongoing refusal prevents the ritual. She is an asset, not a person.
 

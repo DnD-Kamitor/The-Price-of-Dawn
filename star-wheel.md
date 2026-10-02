@@ -1,16 +1,16 @@
 ---
 title: "The Star-Wheel"
-subtitle: "Varenhold Civic Archive — Restricted Stacks"
+subtitle: "Varenhold Civic Archive - Restricted Stacks"
 ---
 
-*Three brass rings on the central column. Each engraved with constellation symbols. Turn them to the correct west-to-east rise order of the Dawnmark — then turn the wheel.*
+*Three brass rings on the central column. Each engraved with constellation symbols. Turn them to the correct west-to-east rise order of the Dawnmark, then turn the wheel.*
 
 <div id="star-wheel-app">
 
 <div class="wheel-container">
 
 <div class="wheel-column">
-<div class="ring-label">West Star — Ring 1</div>
+<div class="ring-label">West Star - Ring 1</div>
 <button class="spin-btn up-btn" onclick="spin(0,-1)">&#9650;</button>
 <div class="wheel-viewport">
 <div class="wheel-track" id="track-0"></div>
@@ -21,7 +21,7 @@ subtitle: "Varenhold Civic Archive — Restricted Stacks"
 <div class="wheel-divider">✦</div>
 
 <div class="wheel-column">
-<div class="ring-label">Middle Star — Ring 2</div>
+<div class="ring-label">Middle Star - Ring 2</div>
 <button class="spin-btn up-btn" onclick="spin(1,-1)">&#9650;</button>
 <div class="wheel-viewport">
 <div class="wheel-track" id="track-1"></div>
@@ -32,7 +32,7 @@ subtitle: "Varenhold Civic Archive — Restricted Stacks"
 <div class="wheel-divider">✦</div>
 
 <div class="wheel-column">
-<div class="ring-label">East Star — Ring 3</div>
+<div class="ring-label">East Star - Ring 3</div>
 <button class="spin-btn up-btn" onclick="spin(2,-1)">&#9650;</button>
 <div class="wheel-viewport">
 <div class="wheel-track" id="track-2"></div>
@@ -53,13 +53,13 @@ subtitle: "Varenhold Civic Archive — Restricted Stacks"
 ---
 
 <details>
-<summary>★ Star Chart — East Wall Reference</summary>
+<summary>★ Star Chart - East Wall Reference</summary>
 
-*The chart is mounted in a wide wooden frame. Stars labeled in plain Common. One constellation is circled in red ink — recent addition. A note below reads: "overhead on the night of the ritual, Year 48."*
+*The chart is mounted in a wide wooden frame. Stars labeled in plain Common. One constellation is circled in red ink - recent addition. A note below reads: "overhead on the night of the ritual, Year 48."*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  VARENHOLD OBSERVATORY — NIGHT SKY REFERENCE                     ║
+║  VARENHOLD OBSERVATORY - NIGHT SKY REFERENCE                     ║
 ║  Year 48, Third Month. The Dawnmark Constellation (circled).     ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
@@ -422,26 +422,26 @@ subtitle: "Varenhold Civic Archive — Restricted Stacks"
   function successHTML() {
     return '<div class="result-success">' +
       '<div class="result-heading" style="color:#2d9e5f;">&#10003; The shelves shift.</div>' +
-      '<p>A low mechanical tone moves through the floor. The shelves rotate on their column — a quarter turn, deliberate, then stop. Shelf 4-17-3 is directly in front of you.</p>' +
+      '<p>A low mechanical tone moves through the floor. The shelves rotate on their column - a quarter turn, deliberate, then stop. Shelf 4-17-3 is directly in front of you.</p>' +
       '<p><em>The brass is recently polished. The oil is fresh. Someone has maintained this room for eleven years.</em></p>' +
       '<div class="shelf-contents">' +
       '<strong>Contents of shelf 4-17-3:</strong>' +
       '<div class="document-block">' +
-      '<p style="font-size:0.78em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#6bac84;">Corven\'s Public Notes — Technical Summary</p>' +
-      '<p><em>[Several pages of formal notation, bound with dark cord. Filing stamp: "Ritual of Eternal Dawn — Technical Documentation — Archmagister A. Corven." Filed Year 48. Not opened since.]</em></p>' +
-      '<p><strong>RITUAL OF ETERNAL DAWN — TECHNICAL SUMMARY</strong></p>' +
-      '<p>The mechanism employed in the Year 48 ritual attempt draws on distributed sympathetic resonance — anchor points distributed across multiple sites rather than concentrated at a single point.</p>' +
+      '<p style="font-size:0.78em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#6bac84;">Corven\'s Public Notes - Technical Summary</p>' +
+      '<p><em>[Several pages of formal notation, bound with dark cord. Filing stamp: "Ritual of Eternal Dawn, Technical Documentation, Archmagister A. Corven." Filed Year 48. Not opened since.]</em></p>' +
+      '<p><strong>RITUAL OF ETERNAL DAWN - TECHNICAL SUMMARY</strong></p>' +
+      '<p>The mechanism employed in the Year 48 ritual attempt draws on distributed sympathetic resonance, anchor points distributed across multiple sites rather than concentrated at a single point.</p>' +
       '<p>The living conduit mechanism was selected as the most reliable method for maintaining the distributed sympathetic anchors over time. Theoretical alternatives were considered and rejected.</p>' +
       '<p><strong>The ritual did not fail in the manner first reported.</strong></p>' +
       '<p>Further details are encoded in the supplementary notation. The key is provided separately, in three portions.</p>' +
-      '<p><em>[The remaining pages are dense notation — unreadable without the Notation Key.]</em></p>' +
+      '<p><em>[The remaining pages are dense notation - unreadable without the Notation Key.]</em></p>' +
       '</div>' +
       '<div class="document-block" style="margin-top:0.75em;">' +
-      '<p style="font-size:0.78em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#6bac84;">Fragment I — Corven\'s Private Notation Key</p>' +
-      '<p><em>[A single sheet, careful hand. "Notation Reference — Section I of III." The grid clearly continues beyond the page edge.]</em></p>' +
+      '<p style="font-size:0.78em;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:#6bac84;">Fragment I - Corven\'s Private Notation Key</p>' +
+      '<p><em>[A single sheet, careful hand. "Notation Reference - Section I of III." The grid clearly continues beyond the page edge.]</em></p>' +
       '<div class="notation-grid">' +
       '╔══════════════════════════════════════════════════╗\n' +
-      '║  CORVEN NOTATION — FRAGMENT I OF III              ║\n' +
+      '║  CORVEN NOTATION - FRAGMENT I OF III              ║\n' +
       '╠══════════════════════════════════════════════════╣\n' +
       '║  ✦=T  ◈=E  ⬡=N  ⬟=L  ⬠=I                       ║\n' +
       '║  ◆=G  ◇=H  ○=B  ●=R  ◎=S                       ║\n' +
@@ -465,17 +465,17 @@ subtitle: "Varenhold Civic Archive — Restricted Stacks"
 
   function partialHTML(wrongRing) {
     return '<div class="result-partial">' +
-      '<div class="result-heading" style="color:#c9922a;">&#9680; The shelves move — not enough.</div>' +
-      '<p>The mechanism engages. Shelves shift. Sections 4-17-1 and 4-17-2 become accessible — but not 4-17-3. One ring is wrong.</p>' +
+      '<div class="result-heading" style="color:#c9922a;">&#9680; The shelves move, not enough.</div>' +
+      '<p>The mechanism engages. Shelves shift. Sections 4-17-1 and 4-17-2 become accessible - but not 4-17-3. One ring is wrong.</p>' +
       '<p><em>Ring ' + wrongRing + ' is not correct. The correct shelf is one setting away.</em></p>' +
       '</div>';
   }
 
   function failureHTML(n) {
     var msgs = [
-      '<div class="result-heading" style="color:#9e2d2d;">&#10007; The shelves rotate — wrong configuration.</div><p>A grinding resistance, then motion. The shelves turn on their column — full rotation, slow and deliberate. When they stop, everything has shifted. Thirty minutes of work to restore a starting position.</p><p><em>Whoever operated the wheel: one level of exhaustion.</em></p>',
-      '<div class="result-heading" style="color:#9e2d2d;">&#10007; The shelves rotate again.</div><p>A second wrong configuration. Thirty more minutes. Another level of exhaustion on the operator.</p><p><em>From somewhere below — distant footsteps. Someone heard the shelves move.</em></p>',
-      '<div class="result-heading" style="color:#9e2d2d;">&#10007; The mechanism locks.</div><p>The rings resist when you try them. Something beyond mechanical — the wheel will not respond.</p><p>The footsteps are closer now. Theron Waide appears in the doorway. Coat slightly askew. Ink on his sleeve. He looks at the shelves, then the rings, then you.</p><p><em>"I\'ve known the configuration since Corven sealed this room. I have not been able to set it myself."</em></p><p>He crosses to the column and sets all three rings without looking at the star chart.</p>'
+      '<div class="result-heading" style="color:#9e2d2d;">&#10007; The shelves rotate - wrong configuration.</div><p>A grinding resistance, then motion. The shelves turn on their column - full rotation, slow and deliberate. When they stop, everything has shifted. Thirty minutes of work to restore a starting position.</p><p><em>Whoever operated the wheel: one level of exhaustion.</em></p>',
+      '<div class="result-heading" style="color:#9e2d2d;">&#10007; The shelves rotate again.</div><p>A second wrong configuration. Thirty more minutes. Another level of exhaustion on the operator.</p><p><em>From somewhere below - distant footsteps. Someone heard the shelves move.</em></p>',
+      '<div class="result-heading" style="color:#9e2d2d;">&#10007; The mechanism locks.</div><p>The rings resist when you try them. Something beyond mechanical - the wheel will not respond.</p><p>The footsteps are closer now. Theron Waide appears in the doorway. Coat slightly askew. Ink on his sleeve. He looks at the shelves, then the rings, then you.</p><p><em>"I\'ve known the configuration since Corven sealed this room. I have not been able to set it myself."</em></p><p>He crosses to the column and sets all three rings without looking at the star chart.</p>'
     ];
     var idx = Math.min(n - 1, msgs.length - 1);
     return '<div class="result-failure">' + msgs[idx] + '</div>';

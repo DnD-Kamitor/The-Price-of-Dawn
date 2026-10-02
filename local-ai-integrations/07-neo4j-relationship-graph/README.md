@@ -1,4 +1,4 @@
-# 07 — Neo4j NPC Relationship Graph
+# 07 - Neo4j NPC Relationship Graph
 
 The static relationship web table in npcs.md becomes a live, queryable graph. Track how relationships evolve as the campaign progresses.
 Service: Neo4j at https://neo4j.research-ready.nl (CT114).

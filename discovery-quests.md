@@ -202,7 +202,7 @@ After each session, your GM will tell you which quests are available. There are 
 
 > At three hundred feet above Varenhold, the light is different.
 >
-> You can't say exactly how. The haze is the same. The sky is the same sourceless grey-amber. But there's something else in the air that you notice on the second day, something about the quality of the light at a specific angle in the morning, that feels — almost warm. Not lantern-warm. Something else.
+> You can't say exactly how. The haze is the same. The sky is the same sourceless grey-amber. But there's something else in the air that you notice on the second day, something about the quality of the light at a specific angle in the morning, that feels - almost warm. Not lantern-warm. Something else.
 >
 > A Hold-man notices you noticing. He says: "About three times a year, usually, for maybe an hour. The old-timers know the days. We put out white cloth to see if it casts a shadow. Sometimes it does." He shows you a calendar he keeps. There are dates circled. Forty-three dates across the past five years, in clusters. "We haven't told the Spire because the last Spire people were rude," he says. "You seem less rude."
 >

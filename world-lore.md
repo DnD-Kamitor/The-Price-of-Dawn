@@ -173,7 +173,7 @@ The city's population halved in the first twenty years. The Merchants' Compact i
 </details>
 
 <details class="skill-reveal">
-<summary><strong>History (DC 0 — automatic)</strong></summary>
+<summary><strong>History (DC 0 - automatic)</strong></summary>
 
 The night the sun stopped, the Ritual of Eternal Dawn, Archmagister Corven, and the Dawnborn's existence are common knowledge throughout the Reaches.
 
@@ -281,7 +281,7 @@ Solenne is ruled by religious authority (the High Penitent); Auris worship is ma
 <details class="skill-reveal">
 <summary><strong>History (DC 13)</strong></summary>
 
-The Solennite Penitent faction in Varenhold receives correspondence from High Penitent Ven personally. Solenne's transit trade has been reduced to a fraction of its former volume — officially for logistical reasons, not theological ones.
+The Solennite Penitent faction in Varenhold receives correspondence from High Penitent Ven personally. Solenne's transit trade has been reduced to a fraction of its former volume, officially for logistical reasons, not theological ones.
 
 </details>
 
@@ -295,7 +295,7 @@ The theological split between Penitent (Varenhold caused this through sin and mu
 <details class="skill-reveal">
 <summary><strong>Insight (DC 14, when meeting Penitent clergy)</strong></summary>
 
-Solenne's official neutrality masks active investment in a specific theological outcome. They want the ritual resolved in a way that confirms Auris's role — a secular solution would be genuinely difficult for them.
+Solenne's official neutrality masks active investment in a specific theological outcome. They want the ritual resolved in a way that confirms Auris's role, a secular solution would be genuinely difficult for them.
 
 </details>
 
@@ -349,7 +349,7 @@ The Arveth Compact is a mercantile republic of seven cities; Varenhold's Merchan
 <details class="skill-reveal">
 <summary><strong>History (DC 13)</strong></summary>
 
-The bypass roads the Compact built give them financial incentive against Varenhold's full recovery — their road investment would lose value. They officially support restoration. Their economic structure does not.
+The bypass roads the Compact built give them financial incentive against Varenhold's full recovery - their road investment would lose value. They officially support restoration. Their economic structure does not.
 
 </details>
 
@@ -433,7 +433,7 @@ The cold-tolerant crops the Parishes developed (root vegetables, indoor growing,
 <details class="skill-reveal">
 <summary><strong>Insight (DC 12, when meeting Harrow Seld)</strong></summary>
 
-His impatience is not political positioning. He is genuinely running out of time. Something specific is driving the urgency he hasn't disclosed — and it is more immediate than the general Parish situation.
+His impatience is not political positioning. He is genuinely running out of time. Something specific is driving the urgency he hasn't disclosed - and it is more immediate than the general Parish situation.
 
 </details>
 
@@ -494,7 +494,7 @@ The Ashfen Clans are independent marsh-dwellers south of the city. They use pre-
 <details class="skill-reveal">
 <summary><strong>Arcana (DC 12)</strong></summary>
 
-"Pre-systematic" magic means it predates formal arcane frameworks and operates on different principles — not weaker, just differently structured. A Wadewalker's knowledge of the marsh's magical field is likely more current than the Spire's.
+"Pre-systematic" magic means it predates formal arcane frameworks and operates on different principles - not weaker, just differently structured. A Wadewalker's knowledge of the marsh's magical field is likely more current than the Spire's.
 
 </details>
 
@@ -569,7 +569,7 @@ The Holds have been subsidizing Varenhold's road maintenance for eight years as 
 <details class="skill-reveal">
 <summary><strong>Arcana (DC 14, upon hearing about the natural light events)</strong></summary>
 
-Light appearing consistently at three specific locations at 40-day intervals is not random atmospheric variation. A pattern this regular suggests the twilight's mechanism has a periodic structure — something the Spire's ground-level instruments would miss.
+Light appearing consistently at three specific locations at 40-day intervals is not random atmospheric variation. A pattern this regular suggests the twilight's mechanism has a periodic structure - something the Spire's ground-level instruments would miss.
 
 </details>
 
@@ -624,7 +624,7 @@ Transit trade is at forty percent of pre-twilight volume. The amber workshops st
 <details class="skill-reveal">
 <summary><strong>Investigation (DC 13, at the Compact House or Grain Measure)</strong></summary>
 
-The gap between official trade figures and actual goods flowing through the city can be identified from public ledgers. The discrepancy isn't large, but it's consistent — and it's been consistent for three years.
+The gap between official trade figures and actual goods flowing through the city can be identified from public ledgers. The discrepancy isn't large, but it's consistent, and it's been consistent for three years.
 
 </details>
 
@@ -761,7 +761,7 @@ The Dusk Sitting, the Lantern Remembrance, and the lanternhalt musical form are 
 <details class="skill-reveal">
 <summary><strong>Insight (DC 11)</strong></summary>
 
-Using Varenholder expressions naturally — calling someone "a stayer," referencing "lumenbread thinking" — signals to locals that you have spent real time in the city or have genuine connections here. Using them incorrectly is noticed but not held against you.
+Using Varenholder expressions naturally (calling someone "a stayer," referencing "lumenbread thinking") signals to locals that you have spent real time in the city or have genuine connections here. Using them incorrectly is noticed but not held against you.
 
 </details>
 
@@ -775,7 +775,7 @@ Knowing "The First Winter" lyrics marks you as someone who has spent meaningful 
 <details class="skill-reveal">
 <summary><strong>History (DC 13, upon attending the Lantern Remembrance)</strong></summary>
 
-The ceremony has been held every year since Year 1 without exception. There are no records of any chancellor, crisis, or faction conflict ever interrupting it. This continuity is deliberate — the ceremony is the one thing everyone has agreed not to use as leverage.
+The ceremony has been held every year since Year 1 without exception. There are no records of any chancellor, crisis, or faction conflict ever interrupting it. This continuity is deliberate, the ceremony is the one thing everyone has agreed not to use as leverage.
 
 </details>
 

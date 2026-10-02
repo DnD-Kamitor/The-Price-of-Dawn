@@ -1,4 +1,4 @@
-# 04 — ComfyUI Scene Art Generation
+# 04 - ComfyUI Scene Art Generation
 
 Generate atmospheric scene images from five-senses descriptions. Pre-gen before sessions or improvise at the table.
 Service: ComfyUI at https://comfyui.research-ready.nl (CT300, GPU node).
@@ -38,7 +38,7 @@ futuristic elements, fantasy tropes (dragons, elves visible)
 
 ## Per-Session Scene Prompts
 
-### Session 1 — The Archive
+### Session 1 - The Archive
 
 **Scene 1: Archive exterior at dusk**
 ```
@@ -55,14 +55,14 @@ rows of numbered boxes and leather-bound registers, stone floor, cold atmosphere
 [style template]
 ```
 
-**Scene 3: Shelf 4-17-3 — the sealed documents**
+**Scene 3: Shelf 4-17-3 - the sealed documents**
 ```
 Close view of old wooden archive shelf, a small locked metal box among paper files,
 dust disturbed, candlelight casting long shadows, fingers reaching toward the box,
 sense of long concealment, discovery moment, [style template]
 ```
 
-### Session 2 — Lowmark District
+### Session 2 - Lowmark District
 
 **Scene 1: Dawnhall exterior at morning**
 ```
@@ -85,7 +85,7 @@ working-class street beyond, figure is watchful but relaxed, weight of long duty
 [style template]
 ```
 
-### Session 3 — The Ashfen Marshes
+### Session 3 - The Ashfen Marshes
 
 **Scene 1: Ashfen approach**
 ```
@@ -107,7 +107,7 @@ Ancient stone circle in moorland, large standing stones with amber lichen, twili
 ritual marks visible on stone surfaces, empty circle, sense of waiting, [style template]
 ```
 
-### Session 4 — The Dawnborn Decisions
+### Session 4 - The Dawnborn Decisions
 
 **Scene 1: Lira's healing room**
 ```
@@ -123,7 +123,7 @@ former priest bearing, maps and documents on a table, serious purpose, not threa
 underground gathering but lawful in intent, [style template]
 ```
 
-### Session 5 — The Ritual
+### Session 5 - The Ritual
 
 **Scene 1: The ritual site at Ashring**
 ```
@@ -205,4 +205,4 @@ npc-portrait-sera-voss.png
 npc-portrait-theron-waide.png
 ```
 
-Drop into `images/` folder in campaign repo. Asset guard enforces PNG format — ComfyUI outputs PNG by default.
+Drop into `images/` folder in campaign repo. Asset guard enforces PNG format - ComfyUI outputs PNG by default.

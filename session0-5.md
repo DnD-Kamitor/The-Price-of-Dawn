@@ -136,7 +136,7 @@ Round: [1][2][3][4][5][6]
 - [ ] Know the Futhark sequence for the vault door: ᚺ ᚾ ᚲ ᛊ - and why that order
 - [ ] Decide which Dawnhall Desperate has a sick child upstairs - this is the one who breaks first
 - [ ] Know Maerin's three lines by heart before play
-- [ ] Know that the Vault-Warden (Tolvin Heuschel's bind) has the FULL door sequence — it designed the vault. It gives it freely to anyone it believes is here to stop the ritual, not complete it. Ixa's presence makes it cooperative automatically.
+- [ ] Know that the Vault-Warden (Tolvin Heuschel's bind) has the FULL door sequence - it designed the vault. It gives it freely to anyone it believes is here to stop the ritual, not complete it. Ixa's presence makes it cooperative automatically.
 - [ ] Set ambient tone before Phase 1: amber lanterns too bright, Lowmark crowd uneasy, something wrong in the air
 
 ---
@@ -157,9 +157,9 @@ The general population does not know this happened. The Council's official histo
 
 The Restorers found this place because someone with Spire access gave them a method, a map, and the door sequence. That person has not been identified.
 
-### Faction Stakes — Who Wins If the Ritual Runs
+### Faction Stakes - Who Wins If the Ritual Runs
 
-The anchor is not broken. It is doing exactly what it was designed to do. If it runs to completion without interruption, it performs a second failed ritual — quieter than the first, but with consequences.
+The anchor is not broken. It is doing exactly what it was designed to do. If it runs to completion without interruption, it performs a second failed ritual, quieter than the first, but with consequences.
 
 | Faction | If ritual completes and fails again | Why |
 |---|---|---|
@@ -169,7 +169,7 @@ The anchor is not broken. It is doing exactly what it was designed to do. If it 
 | **Lowmark residents** | Loss | Anchor flare harms the sick immediately. Dawnhall becomes unsafe for weeks. |
 | **Compact** | Nervous | Another failed ritual accelerates Varenhold's decline as a trade hub. |
 
-**The horrible positive:** A completed-and-failed anchor leaves a *resonance scar* — a permanent magical dead zone. Grey sickness accelerates in a 3-block radius. But the resonance burn also destroys the Spire's forensic evidence. Restorer leadership walks free. They have a new martyr site and a new recruitment story.
+**The horrible positive:** A completed-and-failed anchor leaves a *resonance scar* - a permanent magical dead zone. Grey sickness accelerates in a 3-block radius. But the resonance burn also destroys the Spire's forensic evidence. Restorer leadership walks free. They have a new martyr site and a new recruitment story.
 
 **The party is the only actor that loses nothing from stopping this and gains everything from evidence preserved.**
 
@@ -177,18 +177,18 @@ The anchor is not broken. It is doing exactly what it was designed to do. If it 
 
 The Restorer Scouts on the street were not told about the vault. They were paid four silver each to manage crowd overflow for "a private Restorer vigil." They believe it. If captured and pressed: *"We were told it was a ceremony. We were paid to keep the crowd from getting too large. That is all we know."*
 
-Whoever hired them had operational resources in the Lowmark — the kind of reach that does not come from a street-level faction. This is a thread.
+Whoever hired them had operational resources in the Lowmark - the kind of reach that does not come from a street-level faction. This is a thread.
 
 ### The Removed Warnings
 
-The original makers left warnings throughout the vault approach. Someone removed them recently — crude plastering over carved text, chisel marks above doorframes, plaster still pale against the older stone.
+The original makers left warnings throughout the vault approach. Someone removed them recently, crude plastering over carved text, chisel marks above doorframes, plaster still pale against the older stone.
 
 What was removed:
 - Above the Phase 3 doorframe: *"The error was in the foundation. Do not repeat it."*
 - On the Phase 4 staircase wall: a diagram showing the correct anchor calibration range (which would have made Phase 7 much easier)
 - On the vault door surround: a line warning that the door sequence encodes the *order of failure*, not the order of success
 
-Who removed it: the same person who gave Maerin the door sequence and the map. They did not want the party — or anyone else — to solve this too cleanly.
+Who removed it: the same person who gave Maerin the door sequence and the map. They did not want the party (or anyone else) to solve this too cleanly.
 
 ### Connections to Sessions 1-5
 
@@ -247,33 +247,33 @@ Either outcome: Ixa's player knows this place means something. The rest of the t
 
 ## The Entrance Scene
 
-*This session opens with four strangers arriving at the same building for different reasons. Address each player individually before reading the Five-Senses Opening — one sentence of context, then "You approach the Dawnhall." Once all four have been placed at the entrance, read the opening aloud.*
+*This session opens with four strangers arriving at the same building for different reasons. Address each player individually before reading the Five-Senses Opening - one sentence of context, then "You approach the Dawnhall." Once all four have been placed at the entrance, read the opening aloud.*
 
 ### Why Each Character Is Here
 
-**Pel** — He has been asking around the Lowmark for Sera Voss since her letter arrived. A cloth-merchant two streets over told him Sera came to this Dawnhall three days ago asking about basement access and was never seen leaving. This building is the last known point. He needs to get inside.
+**Pel**: He has been asking around the Lowmark for Sera Voss since her letter arrived. A cloth-merchant two streets over told him Sera came to this Dawnhall three days ago asking about basement access and was never seen leaving. This building is the last known point. He needs to get inside.
 
-**Serah** — She has been working the Lowmark sick-houses for days. Her patients are grey sickness sufferers who depend on this Dawnhall's lantern warmth and Ilya Ren's medicines. Two nights ago the medicine supply from this hall stopped. A family came to her door this morning: their daughter worsening since the Dawnhall stopped letting people in. She came to find out why Ilya stopped sending supplies — and what is wrong with the light.
+**Serah**: She has been working the Lowmark sick-houses for days. Her patients are grey sickness sufferers who depend on this Dawnhall's lantern warmth and Ilya Ren's medicines. Two nights ago the medicine supply from this hall stopped. A family came to her door this morning: their daughter worsening since the Dawnhall stopped letting people in. She came to find out why Ilya stopped sending supplies, and what is wrong with the light.
 
-**Keiran** — He has been watching a Restorer cell move through the Lowmark for a week. Three nights ago they carried supplies — wrapped in oilskin, heavy — through the servants' entrance of this building. Nothing came back out. Tonight the lights in the windows changed color. He has been deciding whether to go in alone. The decision is made.
+**Keiran**: He has been watching a Restorer cell move through the Lowmark for a week. Three nights ago they carried supplies (wrapped in oilskin, heavy) through the servants' entrance of this building. Nothing came back out. Tonight the lights in the windows changed color. He has been deciding whether to go in alone. The decision is made.
 
-**Ixa** — She noticed the lanterns two days ago. Wrong resonance. The amber light in this building has something underneath it — not warmth, not fire. She has walked past four times. Each time she slows. Tonight she stopped walking. She cannot explain why she needs to be inside this building, and that is almost reason enough not to trust it — but she is here anyway.
+**Ixa**: She noticed the lanterns two days ago. Wrong resonance. The amber light in this building has something underneath it - not warmth, not fire. She has walked past four times. Each time she slows. Tonight she stopped walking. She cannot explain why she needs to be inside this building, and that is almost reason enough not to trust it, but she is here anyway.
 
 ### Why the Entrance is Crowded
 
-The Dawnhall serves the Lowmark every day: hot food, lantern warmth for the grey-sick, medicines from Ilya Ren. The Restorers did not announce themselves. They arrived with forged access records and moved downstairs. They are not blocking the front door — the food line and sickroom upstairs are still running — but there is a locked door where there used to be an open one, the lights are wrong, and people can feel something is off.
+The Dawnhall serves the Lowmark every day: hot food, lantern warmth for the grey-sick, medicines from Ilya Ren. The Restorers did not announce themselves. They arrived with forged access records and moved downstairs. They are not blocking the front door (the food line and sickroom upstairs are still running) but there is a locked door where there used to be an open one, the lights are wrong, and people can feel something is off.
 
 The crowd outside is people who came for their usual service and found the atmosphere hostile. The Restorer scouts told some of them the hall is "under maintenance." Others felt the wrong light on their skin and did not go in. They are not blocking the entrance. They are waiting for someone to tell them it is safe.
 
-*This crowd matters: in Phase 2 they are the people the party is fighting for. In Phase 7, the Dawnhall Desperates came from among them — neighbours who followed the Restorers down believing they were protecting something.*
+*This crowd matters: in Phase 2 they are the people the party is fighting for. In Phase 7, the Dawnhall Desperates came from among them - neighbours who followed the Restorers down believing they were protecting something.*
 
 ### How the Party Forms
 
-The four arrive within minutes of each other — separately, on foot, from different directions. They do not know one another. The Restorer scouts notice all of them at approximately the same time.
+The four arrive within minutes of each other - separately, on foot, from different directions. They do not know one another. The Restorer scouts notice all of them at approximately the same time.
 
 The scouts provide the catalyst. When two watchmen step toward one stranger and then clock a second and a third arriving behind her, they have a problem. The strangers have a choice: cooperate against a common obstacle, or waste time being suspicious of each other while the scouts call for help.
 
-*Let this moment breathe. Ask each player: "What does your character do when they realize they are not the only one here?" The scouts are not the threat — the question of whether these four strangers can trust each other enough to take a single step together is.*
+*Let this moment breathe. Ask each player: "What does your character do when they realize they are not the only one here?" The scouts are not the threat, the question of whether these four strangers can trust each other enough to take a single step together is.*
 
 ---
 
@@ -383,8 +383,8 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 **The reinforced door** (south wall east): Iron bands added recently. Locked from below with a heavy mechanism.
 - Pel's Thieves' Tools: DC 14
 - *Knock* spell: automatic
-- Athletics (forcing): DC 18 (the bands are solid; possible but loud — the Vault-Warden on the bridge below hears it and is no longer surprised)
-- Finding the key: a Restorer soldier was stationed at the bridge landing before the Warden reactivated (his pack is still there — see Phase 5)
+- Athletics (forcing): DC 18 (the bands are solid; possible but loud - the Vault-Warden on the bridge below hears it and is no longer surprised)
+- Finding the key: a Restorer soldier was stationed at the bridge landing before the Warden reactivated (his pack is still there - see Phase 5)
 
 **Skill checks in the upper basement:**
 
@@ -435,31 +435,31 @@ The scouts provide the catalyst. When two watchmen step toward one stranger and 
 >
 > Beyond the landing, the walls fall away.
 >
-> You are standing at one end of a narrow stone arch — maybe four feet wide, maybe forty feet long — spanning a drop into old darkness. Below, twenty feet down, water moves slowly in what was once a civic cistern. The stone of the bridge is pre-Ritual: older, smoother, carved with marks that predate the Dawnhall above by at least a century.
+> You are standing at one end of a narrow stone arch (maybe four feet wide, maybe forty feet long) spanning a drop into old darkness. Below, twenty feet down, water moves slowly in what was once a civic cistern. The stone of the bridge is pre-Ritual: older, smoother, carved with marks that predate the Dawnhall above by at least a century.
 >
 > On the far side, something stands with its back to the vault door.
 >
 > It is shaped like a person. But it is not a person.
 >
-> When it hears you, it turns. The motion is unhurried and exact. Two smooth depressions in a face of grey-amber stone catch the light. Its chest holds an iron housing — old metal, amber-set — that pulses faintly. It has been standing here, you understand without being told, for a very long time.
+> When it hears you, it turns. The motion is unhurried and exact. Two smooth depressions in a face of grey-amber stone catch the light. Its chest holds an iron housing (old metal, amber-set) that pulses faintly. It has been standing here, you understand without being told, for a very long time.
 
 **The bridge:** 40 ft long, 4 ft wide (one square), 20-ft drop to dark water below. The drop is survivable (2d6 bludgeoning, 5 ft water, DC 12 Athletics to keep gear). Prone creatures make DC 11 Dex save at start of their turn or slide 5 ft toward the edge.
 
-**The Vault-Warden:** One Vault-Warden construct (CR 5). A bound spirit — the remnant of Tolvin Heuschel, architect of the second ritual attempt — sealed into a stone guardian 200 years ago so that someone would always know what went wrong. The Warden has been here ever since. It is not on the Restorers' side. It was not told to stand aside for them. It was told — two centuries ago — to let no unauthorized person through. It was given authorization codes by the same person who sent Maerin the map.
+**The Vault-Warden:** One Vault-Warden construct (CR 5). A bound spirit (the remnant of Tolvin Heuschel, architect of the second ritual attempt) sealed into a stone guardian 200 years ago so that someone would always know what went wrong. The Warden has been here ever since. It is not on the Restorers' side. It was not told to stand aside for them. It was told (two centuries ago) to let no unauthorized person through. It was given authorization codes by the same person who sent Maerin the map.
 
 A Restorer soldier was stationed here before the Warden unexpectedly reactivated. His orders and gear remain in a pack by the landing wall. He has retreated into the vault to warn Maerin and has not returned. The Warden did not follow. It is watching the party.
 
 **Tactical notes:**
 - Warden begins at the far end (40 ft), blocking the vault door
 - Cannot be moved, pushed, or knocked prone on the bridge (Bridge Lock)
-- Has tremorsense 30 ft on the bridge surface — magical darkness does not blind it
-- Warden's Pulse (recharge 5–6): DC 14 Constitution save, 4d6 radiant + prone — devastating on a narrow bridge
+- Has tremorsense 30 ft on the bridge surface; magical darkness does not blind it
+- Warden's Pulse (recharge 5–6): DC 14 Constitution save, 4d6 radiant + prone, devastating on a narrow bridge
 - Prone creatures who fail DC 11 Dex slide toward the edge; at the edge, a failed save is a 20-ft fall
 - Ranged attacks work freely; but the Warden's Threshold Challenge reaction stops the first creature to cross the midpoint
 
 **Gear on the landing (from the fleeing Restorer's abandoned pack):**
 - Ritual Lantern of Warding (3 charges), Ritual Chain (functions as +1 flail, reach 10 ft)
-- Restorer Lieutenant Token — **this is the bypass.** The Warden's Authorization sense recognizes it. A character who holds the Token openly before crossing the midpoint is not attacked.
+- Restorer Lieutenant Token - **this is the bypass.** The Warden's Authorization sense recognizes it. A character who holds the Token openly before crossing the midpoint is not attacked.
 
 **Social option:**
 If the party pauses and engages the Warden respectfully for one round (not attacking, not charging):
@@ -468,12 +468,12 @@ If the party pauses and engages the Warden respectfully for one round (not attac
 - If convinced the party is here to stop the ritual: Persuasion DC 16 (DC 10 with Ixa), and it steps aside entirely, watching
 
 **What the Warden tells the party (if cooperative):**
-- The full vault door sequence, verbatim: *"Disruption. Need. Fire. Light. In the order we failed."* — ᚺ ᚾ ᚲ ᛊ
+- The full vault door sequence, verbatim: *"Disruption. Need. Fire. Light. In the order we failed."*, ᚺ ᚾ ᚲ ᛊ
 - The warnings on this approach were removed. It is angry about this. It cannot leave the bridge to do anything about it.
-- If Ixa is present: it addresses her as *"one of the children."* The vault was built by the same hands that made her, or people working from the same research. It will tell her the third plinth setting specifically if asked — the one most parties struggle with.
+- If Ixa is present: it addresses her as *"one of the children."* The vault was built by the same hands that made her, or people working from the same research. It will tell her the third plinth setting specifically if asked, the one most parties struggle with.
 - Its name: Tolvin Heuschel. Architect of the second attempt. He sealed his own consciousness here so that the record would never be lost.
 
-*Why the Warden has the full sequence: it designed the vault. Maerin independently derived her sequence from the door and the letter she received. She got it right — but she did not know the Warden existed, or that it knew.*
+*Why the Warden has the full sequence: it designed the vault. Maerin independently derived her sequence from the door and the letter she received. She got it right - but she did not know the Warden existed, or that it knew.*
 
 ---
 
@@ -483,7 +483,7 @@ If the party pauses and engages the Warden respectfully for one round (not attac
 
 > The door at the end of the bridge is not what you expected.
 >
-> It is old stone — older than the bridge, older than the Dawnhall, possibly older than Varenhold's current form. It stands eight feet tall with no handle, no keyhole, no visible mechanism.
+> It is old stone - older than the bridge, older than the Dawnhall, possibly older than Varenhold's current form. It stands eight feet tall with no handle, no keyhole, no visible mechanism.
 >
 > What it has is runes.
 >
@@ -495,7 +495,7 @@ If the party pauses and engages the Warden respectfully for one round (not attac
 >
 > *First: what fell and made restoration necessary.*
 > *Second: what drove the work back into motion despite the fear.*
-> *Third: the flame they carried — contained, purposeful, not the bonfire.*
+> *Third: the flame they carried, contained, purposeful, not the bonfire.*
 > *Fourth: the name of what they worked toward. The morning not yet come.*
 >
 > Below the rune ring, a single line of text in old academic Varenhold:
@@ -505,7 +505,7 @@ If the party pauses and engages the Warden respectfully for one round (not attac
 **The puzzle:** Four of the twenty-four runes are raised and can be pressed. There are two ways to identify them:
 
 1. **By touch** (DC 10 Investigation or simply running a hand along the ring): feel the four that stand slightly proud of the surface.
-2. **By the arch inscription**: the riddle above the ring describes all four runes by meaning, in order. Religion DC 12 or Arcana DC 13 lets a character match each description to a specific Elder Futhark rune — no need to find the raised ones first.
+2. **By the arch inscription**: the riddle above the ring describes all four runes by meaning, in order. Religion DC 12 or Arcana DC 13 lets a character match each description to a specific Elder Futhark rune, no need to find the raised ones first.
 
 The four raised runes: **ᚺ Hagalaz, ᚾ Nauthiz, ᚲ Kenaz, ᛊ Sowilo**
 
@@ -525,14 +525,14 @@ Wrong order: nothing. The door does not respond. No punishment. Players can try 
 | Source | Clue |
 |---|---|
 | Bell inscription (existing, upstairs in hall) | Positions the sequence within ritual theory |
-| Upper basement chalk marks | ᚾ Nauthiz and ᛊ Sowilo visible — 2nd and 4th |
-| Arch inscription (vault door frame) | Describes all four runes in order by meaning — Religion DC 12 or Arcana DC 13 to decode |
-| Vault-Warden (if cooperative) | Full sequence verbatim: *"Disruption. Need. Fire. Light."* — ᚺ ᚾ ᚲ ᛊ |
+| Upper basement chalk marks | ᚾ Nauthiz and ᛊ Sowilo visible, 2nd and 4th |
+| Arch inscription (vault door frame) | Describes all four runes in order by meaning - Religion DC 12 or Arcana DC 13 to decode |
+| Vault-Warden (if cooperative) | Full sequence verbatim: *"Disruption. Need. Fire. Light."*, ᚺ ᚾ ᚲ ᛊ |
 | Religion DC 14 at the door | The makers acknowledged failure before claiming restoration; Hagalaz first |
 | History DC 13 at the door | Inscription language consistent with second-generation ritual scholarship |
 | Ixa's vision (fail or success) | Fills in whatever is still missing |
 
-**The missing rune:** ᚲ Kenaz (controlled fire, the torch, the smith's flame) is the hardest to identify. The arch inscription calls it "the flame — contained, purposeful, not the bonfire." A character who recognizes that description as Kenaz's meaning (Religion DC 12) can identify it without touching the door. Without that check or the Vault-Warden's help, only Ixa's vision provides it directly.
+**The missing rune:** ᚲ Kenaz (controlled fire, the torch, the smith's flame) is the hardest to identify. The arch inscription calls it "the flame - contained, purposeful, not the bonfire." A character who recognizes that description as Kenaz's meaning (Religion DC 12) can identify it without touching the door. Without that check or the Vault-Warden's help, only Ixa's vision provides it directly.
 
 **Ixa at the door:**
 
@@ -778,7 +778,7 @@ These people are desperate, not foolish.
 | Phase 5 | Persuasion | 13 | Vault-Warden halts to speak; DC 16 (10 with Ixa) to stand aside entirely |
 | Phase 5 | Arcana | 14 | Identify Warden as a bound-spirit construct; formal acknowledgement is the right approach |
 | Phase 6 | Religion/Arcana | 12/13 | Arch inscription: decode four rune meanings from the carved riddle |
-| Phase 6 | Religion | 14 | Hagalaz pressed first — acknowledge failure before claiming restoration |
+| Phase 6 | Religion | 14 | Hagalaz pressed first, acknowledge failure before claiming restoration |
 | Phase 6 | Ixa vision | DC 15 Wis | ᚲ Kenaz identified, one plinth inscription |
 | Phase 7 | Investigation | 12 | Read plinth inscriptions for dial settings |
 | Phase 7 | History | 13 | Wall inscriptions - second-attempt site, sealed by makers |
@@ -802,7 +802,7 @@ As written. This is the baseline encounter balance.
 
 ### 6 Gestalt Characters
 
-Add 1 Anchor-Bearer and 1 Echo. Increase anchor HP to 48. Add a second pressure point: a lantern regulator near the vault entrance overheating (DC 14 to cool; if ignored 2 rounds, it bursts — all creatures on the stairs make DC 13 Dex save or take 2d8 fire damage).
+Add 1 Anchor-Bearer and 1 Echo. Increase anchor HP to 48. Add a second pressure point: a lantern regulator near the vault entrance overheating (DC 14 to cool; if ignored 2 rounds, it bursts - all creatures on the stairs make DC 13 Dex save or take 2d8 fire damage).
 
 ### If the Party Is Struggling
 
@@ -850,13 +850,13 @@ Party learns the second attempt failed for the same reason as the first - but th
 **Consumables:** 2 potions of healing, 1 healer's kit
 
 **Combat Loot (see stat blocks for full detail):**
-- Flash Vials (up to 6 from scouts) — thrown blinding grenades, DC 12 Con save
-- Ritual Lantern of Warding (from landing pack) — frighten effect, 3 charges, recharges
-- Ritual Chain (from landing pack) — +1 flail, reach 10 ft, grapple on hit
-- Amber Sentinel Core (from Vault-Warden, if destroyed) — warm amber crystal, magical focus, 100 gp to a scholar or artificer
-- Primer Lantern (from Maerin) — +7 ranged, 2d8 radiant + blind, limited charges
-- Charged Amber Shards (up to 4 from Bearers) — 1d8 radiant thrown, 1 hour of charge remaining
-- Restorer Lieutenant Token (from Guard) — faction dialogue opener Sessions 2–3
+- Flash Vials (up to 6 from scouts) - thrown blinding grenades, DC 12 Con save
+- Ritual Lantern of Warding (from landing pack), frighten effect, 3 charges, recharges
+- Ritual Chain (from landing pack), +1 flail, reach 10 ft, grapple on hit
+- Amber Sentinel Core (from Vault-Warden, if destroyed), warm amber crystal, magical focus, 100 gp to a scholar or artificer
+- Primer Lantern (from Maerin), +7 ranged, 2d8 radiant + blind, limited charges
+- Charged Amber Shards (up to 4 from Bearers), 1d8 radiant thrown, 1 hour of charge remaining
+- Restorer Lieutenant Token (from Guard) - faction dialogue opener Sessions 2–3
 
 **Evidence (if preserved):**
 - Anchor fragments and calibration rings
@@ -942,14 +942,14 @@ Party learns the second attempt failed for the same reason as the first - but th
 - *Threshold Challenge.* When a creature crosses the bridge midpoint without authorization, the Warden makes one Crushing Blow against them as a reaction and the creature's movement stops for the turn.
 
 **What It Tells the Party (if cooperative):**
-- Full door sequence: *"Disruption. Need. Fire. Light. In the order we failed."* — ᚺ ᚾ ᚲ ᛊ
+- Full door sequence: *"Disruption. Need. Fire. Light. In the order we failed."*, ᚺ ᚾ ᚲ ᛊ
 - The warnings on this approach were removed. It is angry. It cannot leave the bridge.
 - If Ixa is present: the Plinth 3 (Eye ring) setting. The one most parties struggle with.
 - Its name: Tolvin Heuschel. Architect of the second attempt. Sealed himself here so the record would never be lost.
 
 **Morale:** Cannot be intimidated. Does not surrender. Steps aside willingly if convinced the party will stop the ritual (see Imperfect Memory trait).
 
-**Loot (if destroyed):** Amber Sentinel Core — a warm amber crystal extracted from the iron housing in the Warden's chest. Magical focus, 100 gp to a scholar or artificer. Faint inscription on the bridge stone beneath where it stood: TOLVIN HEUSCHEL — ARCHIT[ECT] — YEAR 43.
+**Loot (if destroyed):** Amber Sentinel Core - a warm amber crystal extracted from the iron housing in the Warden's chest. Magical focus, 100 gp to a scholar or artificer. Faint inscription on the bridge stone beneath where it stood: TOLVIN HEUSCHEL - ARCHIT[ECT] - YEAR 43.
 
 ---
 
@@ -982,14 +982,14 @@ Party learns the second attempt failed for the same reason as the first - but th
 - *Spellcasting.* (See above.)
 
 **Bonus Action**
-- *Redirect Anchor (3/day).* The anchor's next pulse (initiative 20) affects a 15-ft radius centered on a point Maerin chooses within 60 ft — or she suppresses the next pulse entirely.
+- *Redirect Anchor (3/day).* The anchor's next pulse (initiative 20) affects a 15-ft radius centered on a point Maerin chooses within 60 ft, or she suppresses the next pulse entirely.
 
 **Reactions**
 - *Anchor Shield.* When targeted by an attack, Maerin expends 1 Primer Lantern charge to gain +3 AC against it.
 
 **Tactics:** Opens with words. Round 1: *bless* on Anchor-Bearers, *spiritual weapon* (bonus action, glowing lantern shape). Uses *silence* near anchor to prevent close-range spellcasting. Uses *hold person* on the fastest threat. *Healing word* on herself if below 30 HP. Calls for a halt if two allies fall or a civilian is hurt by the anchor: demands one round of negotiation.
 
-**Loot:** Primer Lantern (remaining charges; +7 to hit, range 30 ft, 2d8 radiant + DC 15 Con save or blinded; *daylight* at will costs 2 charges; bright light 30 ft free action), Restorer Codex (hand-bound journal: second-attempt history, three scholar names still living, partial anchor-network site map, the method she was given — critical plot item for Sessions 1–3), Restorer Lantern-Saint Vestments (25 gp; advantage on Persuasion with Restorer rank-and-file), 4d10 gp.
+**Loot:** Primer Lantern (remaining charges; +7 to hit, range 30 ft, 2d8 radiant + DC 15 Con save or blinded; *daylight* at will costs 2 charges; bright light 30 ft free action), Restorer Codex (hand-bound journal: second-attempt history, three scholar names still living, partial anchor-network site map, the method she was given - critical plot item for Sessions 1–3), Restorer Lantern-Saint Vestments (25 gp; advantage on Persuasion with Restorer rank-and-file), 4d10 gp.
 
 ---
 
@@ -1048,7 +1048,7 @@ Party learns the second attempt failed for the same reason as the first - but th
 
 **Morale:** DC 13 Persuasion (action) to calm if PC protected someone or healed a patient upstairs. Stands down without check if anchor visibly harms someone near them.
 
-**Loot:** Personal effects only — a locket, a worn prayer card, a coin with a name scratched on it. Each is a name, a face, a reason they are down here.
+**Loot:** Personal effects only - a locket, a worn prayer card, a coin with a name scratched on it. Each is a name, a face, a reason they are down here.
 
 ---
 
@@ -1076,7 +1076,7 @@ Party learns the second attempt failed for the same reason as the first - but th
 
 **Tactics:** Move toward nearest living creature. Attack. No tactics, no retreat. Destroying them does not stop the anchor.
 
-*No loot — incorporeal, dissolve when anchor handled.*
+*No loot, incorporeal, dissolve when anchor handled.*
 
 ---
 

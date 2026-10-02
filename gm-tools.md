@@ -265,7 +265,7 @@ Track each Dawnborn's current attitude and known information state. Print or cop
 
 ![Six axes of moral choice tracked across five sessions - not judgment, just the shape of who the table decided to be when the decisions were real](images/moral-scorecard-table.png)
 
-Keep these to yourself — not shown to players. Track choices without judgment. Use the patterns to calibrate NPC responses.
+Keep these to yourself - not shown to players. Track choices without judgment. Use the patterns to calibrate NPC responses.
 
 ### The Player Compass
 
@@ -311,7 +311,7 @@ Use your answers to shape which scenes in Session 5 get the most time.
 
 ## Session Prep
 
-Use the **Session Template** in the GM Toolkit section — it includes the 15-minute prep method, scene cards for all 5 scenes, and the full checklist built into each scene block.
+Use the **Session Template** in the GM Toolkit section; it includes the 15-minute prep method, scene cards for all 5 scenes, and the full checklist built into each scene block.
 
 
 ## Printable NPC Reference Cards
@@ -650,7 +650,7 @@ The 5-Room Dungeon is not only for dungeons. It applies to any investigation sit
 
 *Use this at the opening of each session. Read it aloud or adapt it into your own words. It takes about two minutes and prevents "wait, where were we?" from consuming the first twenty minutes of play.*
 
-*Fill this out before the session. The blanks are intentional — your answers will be different every time.*
+*Fill this out before the session. The blanks are intentional; your answers will be different every time.*
 
 ---
 
@@ -670,7 +670,7 @@ The 5-Room Dungeon is not only for dungeons. It applies to any investigation sit
 
 **"Since then, the city has..."**
 
-*(What the Living World did while the players weren't watching. One action per active faction — only the ones that matter this session.)*
+*(What the Living World did while the players weren't watching. One action per active faction, only the ones that matter this session.)*
 
 - **City Council:** ________________________________
 - **Restorers / Reckoning:** ________________________________
@@ -682,7 +682,7 @@ The 5-Room Dungeon is not only for dungeons. It applies to any investigation sit
 
 *Willing: _____ / 10*
 
-*(Name any Dawnborn whose position changed since last session. Don't name those who haven't changed — it's easier to track delta than state.)*
+*(Name any Dawnborn whose position changed since last session. Don't name those who haven't changed; it's easier to track delta than state.)*
 
 ________________________________
 
@@ -698,7 +698,7 @@ ________________________________
 
 **"The question this session will ask you..."**
 
-*(The session's moral axis, stated plainly. Not a spoiler — a frame. Players know they're walking into a question, not a plot.)*
+*(The session's moral axis, stated plainly. Not a spoiler - a frame. Players know they're walking into a question, not a plot.)*
 
 ________________________________
 
@@ -716,13 +716,13 @@ ________________________________
 
 **Filling it out:** Takes 5-10 minutes if you've run the previous session recently. If you're coming back after a gap, consult the tracker.md and your own session notes first.
 
-**Reading it aloud:** Read it slowly. Pause after each item. Players will interrupt with questions — that's good. Those questions tell you what matters to them.
+**Reading it aloud:** Read it slowly. Pause after each item. Players will interrupt with questions - that's good. Those questions tell you what matters to them.
 
 **Adapting it:** The format is a scaffold, not a script. If your players prefer a "previously on..." video game style, summarize. If they prefer immersive narrative, recast the items as in-world reports. If they prefer to do their own recap, hand them the previous session's items and let them reconstruct it.
 
 **The moral question:** This is the most important item. Name the question, not the answer. "This session asks: what does a community owe someone who chose this?" is a frame. "You need to decide whether to let Lira participate" is a directive. Frame it as a question.
 
-**What to skip:** If nothing changed for a faction between sessions, don't mention it. Silence is information — if you list all seven factions every session, players learn to filter you. Say less; say what changed.
+**What to skip:** If nothing changed for a faction between sessions, don't mention it. Silence is information - if you list all seven factions every session, players learn to filter you. Say less; say what changed.
 
 ---
 
@@ -922,7 +922,7 @@ Run it well.
 ## Random Encounter Tables
 
 <details class="gm-only">
-<summary>GM Only — Twilight City Encounters (d12, Any Session)</summary>
+<summary>GM Only - Twilight City Encounters (d12, Any Session)</summary>
 
 Roll 1d12 when the players are moving through Varenhold without a specific destination.
 
@@ -944,7 +944,7 @@ Roll 1d12 when the players are moving through Varenhold without a specific desti
 </details>
 
 <details class="gm-only">
-<summary>GM Only — Ashfen Marshes Encounters (d6, Sessions 2–4)</summary>
+<summary>GM Only - Ashfen Marshes Encounters (d6, Sessions 2–4)</summary>
 
 For travel to or from the Ashfen Gate or the Restorer compound.
 
@@ -979,7 +979,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details class="gm-only">
-<summary>GM Only — The Ashring Quarter: Full d10 Encounter Table</summary>
+<summary>GM Only - The Ashring Quarter: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -999,7 +999,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details class="gm-only">
-<summary>GM Only — The Lowmark: Full d10 Encounter Table</summary>
+<summary>GM Only - The Lowmark: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -1019,7 +1019,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details class="gm-only">
-<summary>GM Only — The Spire Quarter: Full d10 Encounter Table</summary>
+<summary>GM Only - The Spire Quarter: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -1039,7 +1039,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details class="gm-only">
-<summary>GM Only — The Dawnhalls District: Full d10 Encounter Table</summary>
+<summary>GM Only - The Dawnhalls District: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -1059,7 +1059,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details class="gm-only">
-<summary>GM Only — The Outer Ring: Full d10 Encounter Table</summary>
+<summary>GM Only - The Outer Ring: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -1079,7 +1079,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details class="gm-only">
-<summary>GM Only — The Ashfen Gate District: Full d10 Encounter Table</summary>
+<summary>GM Only - The Ashfen Gate District: Full d10 Encounter Table</summary>
 
 | d10 | Encounter |
 |-----|-----------|
@@ -1099,7 +1099,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details class="gm-only">
-<summary>GM Only — Overheard Conversations: d8 by Session</summary>
+<summary>GM Only - Overheard Conversations: d8 by Session</summary>
 
 *Roll when players pass through any public space and you want ambient information. Mark each as A (accurate), D (distorted), or F (fabricated).*
 
@@ -1146,9 +1146,9 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 
 ---
 
-## Antagonist Factions — Intelligence Tiers
+## Antagonist Factions - Intelligence Tiers
 
-**Design principle:** knowing more about an enemy faction translates directly into mechanical advantages at the table. Each tier of knowledge unlocks specific options — lower DCs, new social paths, combat call-outs, or ways to cut problems off before they start.
+**Design principle:** knowing more about an enemy faction translates directly into mechanical advantages at the table. Each tier of knowledge unlocks specific options - lower DCs, new social paths, combat call-outs, or ways to cut problems off before they start.
 
 **How to run discovery:** Embed intel opportunities in scenes rather than waiting for players to ask. A Spire archivist mentions a name. A Blade drops something when searched. A witness in the Ashfen saw which direction they came from. When players follow up, use the DCs below to gate what they learn.
 
@@ -1157,53 +1157,53 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details>
-<summary><strong>Faction A: Concordance of the Withdrawn</strong> — philosophical opponents; want refusal, not death</summary>
+<summary><strong>Faction A: Concordance of the Withdrawn</strong> - philosophical opponents; want refusal, not death</summary>
 
 *Full lore in `concordance-faction-guide.md`. This section covers mechanical advantages only.*
 
-**Who they are (no check):** Reclusive scholars who oppose the ritual on principle — they believe it creates dependency and the Dawnborn should have refused. Three grey-robed figures seen near the Archive. They talk; they don't fight.
+**Who they are (no check):** Reclusive scholars who oppose the ritual on principle - they believe it creates dependency and the Dawnborn should have refused. Three grey-robed figures seen near the Archive. They talk; they don't fight.
 
 ---
 
 <details>
-<summary>Tier 1 — Common Knowledge (no check)</summary>
+<summary>Tier 1 - Common Knowledge (no check)</summary>
 
 **Intel:**
 - Called "the Dawnless" by street gossip; own name is the Concordance of the Withdrawn
-- Want refusal, not death — believe the Dawnborn should step back voluntarily
+- Want refusal, not death - believe the Dawnborn should step back voluntarily
 - Communicate through written dead-drops, not face-to-face
 
 **Advantages unlocked:**
-- Identify Concordance members on sight (grey robes, copper-inlaid writing tools) — no mistaking them for neutral scholars
-- When approached, players know this is a conversation, not a threat — no wasted initiative rounds
+- Identify Concordance members on sight (grey robes, copper-inlaid writing tools), no mistaking them for neutral scholars
+- When approached, players know this is a conversation, not a threat, no wasted initiative rounds
 
 </details>
 
 <details>
-<summary>Tier 2 — Investigative (DC 13 History or Investigation; DC 12 Persuasion with a Spire Scholar)</summary>
+<summary>Tier 2 - Investigative (DC 13 History or Investigation; DC 12 Persuasion with a Spire Scholar)</summary>
 
 **Intel:**
-- Field operatives never use magic outside copper-bound conduits — they carry copper pipe fragments as ritual insulators; free ambient magic violates doctrine
+- Field operatives never use magic outside copper-bound conduits; they carry copper pipe fragments as ritual insulators; free ambient magic violates doctrine
 - Key asset in Varenhold: seer **Vara**, Third District rented room; feeds them real-time Dawnborn movement data
 - Have never killed a Dawnborn; methods are interception, disinformation, witness manipulation only
 
 **Advantages unlocked:**
 - **Route planning:** Any path with no copper residue on door frames is probably Concordance-unmonitored
-- **Counter-intelligence:** Find Vara before Session 4 — she will trade Concordance intel on Keseph's movements for Dawnborn access (Vara knows: Keseph met a Blade captain twice in the Second District)
+- **Counter-intelligence:** Find Vara before Session 4 - she will trade Concordance intel on Keseph's movements for Dawnborn access (Vara knows: Keseph met a Blade captain twice in the Second District)
 - **Negotiation shortcut:** Invoke the Inversion Path by name → Concordance stands down 48 hours automatically; no roll needed if the context is real
 
 </details>
 
 <details>
-<summary>Tier 3 — Deep Knowledge (DC 17 Arcana + Concordance texts; or Vara's full cooperation)</summary>
+<summary>Tier 3 - Deep Knowledge (DC 17 Arcana + Concordance texts; or Vara's full cooperation)</summary>
 
 **Intel:**
-- **Ellan Voss is their real target** — they believe her refusal alone collapses the ritual's ethical foundation; she was the first to say yes fifty years ago. They watch her house, not the plaza.
+- **Ellan Voss is their real target** - they believe her refusal alone collapses the ritual's ethical foundation; she was the first to say yes fifty years ago. They watch her house, not the plaza.
 - **Coverage gap:** No operatives cover the Ashfen Gate approach or the Lowmark district
 - **No escalation authority:** Leadership is three days' travel away; local cell is bureaucratically incapable of authorizing violence
 
 **Advantages unlocked:**
-- **Ellan as decoy:** Ellan can draw the entire local cell into a 3-hour meeting at a players' chosen location — cell neutralized for the full Session 5 ritual window
+- **Ellan as decoy:** Ellan can draw the entire local cell into a 3-hour meeting at a players' chosen location - cell neutralized for the full Session 5 ritual window
 - **Safe corridor:** Ashfen Gate and Lowmark routes confirmed unmonitored; move Dawnborn through with zero interception risk
 - **Call the bluff:** State *"You can't authorize violence. Your leadership is three days away."* → standoff ends with no roll. Without this knowledge: DC 15 Intimidation or Persuasion.
 
@@ -1214,7 +1214,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details>
-<summary><strong>Faction B: Solennite Blades (Keseph Vyne)</strong> — hired soldiers; contractual loyalty, redirectable</summary>
+<summary><strong>Faction B: Solennite Blades (Keseph Vyne)</strong> - hired soldiers; contractual loyalty, redirectable</summary>
 
 *Keseph Vyne is Spire Deputy Chancellor, theoretical division. The Blades are a private enforcement unit funded through a shell arrangement with the Merchants' Compact.*
 
@@ -1223,11 +1223,11 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details>
-<summary>Tier 1 — Common Knowledge (no check)</summary>
+<summary>Tier 1 - Common Knowledge (no check)</summary>
 
 **Intel:**
-- Professionals, not ideologues — work for payment, not cause
-- Do not operate openly in the First District — some arrangement with the City Guard keeps them out
+- Professionals, not ideologues, work for payment, not cause
+- Do not operate openly in the First District - some arrangement with the City Guard keeps them out
 
 **Advantages unlocked:**
 - Loyalty is contractual: potentially buyable or redirectable
@@ -1236,10 +1236,10 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 </details>
 
 <details>
-<summary>Tier 2 — Investigative (DC 13 Investigation; DC 12 Persuasion with a Compact contact)</summary>
+<summary>Tier 2 - Investigative (DC 13 Investigation; DC 12 Persuasion with a Compact contact)</summary>
 
 **Intel:**
-- Contract specifies **incapacitate and deliver, not kill** — Keseph needs the Dawnborn alive and present
+- Contract specifies **incapacitate and deliver, not kill** - Keseph needs the Dawnborn alive and present
 - Payment flows through Compact factor **Davan Crel**; Crel knows the full arrangement
 - **Seven members** in Varenhold: four on Dawnborn watch, three on standby at a Fourth District warehouse
 
@@ -1251,15 +1251,15 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 </details>
 
 <details>
-<summary>Tier 3 — Deep Knowledge (DC 17 Investigation + Crel's cooperation; or intercepted Blade correspondence)</summary>
+<summary>Tier 3 - Deep Knowledge (DC 17 Investigation + Crel's cooperation; or intercepted Blade correspondence)</summary>
 
 **Intel:**
-- **Keseph's real goal:** Redirect ritual energy, not stop it — he wants the Dawnborn-Stone connection to power a permanent ambient-magic generator. Needs them alive and cooperative. His window is the same night as the players' ritual.
+- **Keseph's real goal:** Redirect ritual energy, not stop it - he wants the Dawnborn-Stone connection to power a permanent ambient-magic generator. Needs them alive and cooperative. His window is the same night as the players' ritual.
 - **Keseph is paying the Concordance's local cell** a small retainer for Dawnborn movement data. The Concordance thinks he's a neutral academic.
-- **Blade captain Senna Kard has doubts** — didn't sign up to harvest people. She is reachable.
+- **Blade captain Senna Kard has doubts** - didn't sign up to harvest people. She is reachable.
 
 **Advantages unlocked:**
-- **Keseph as negotiating partner:** Offer him the Inversion Path's residual energy release as the ambient surge he needs — no coercion required. DC 15 Arcana to frame it. If it lands, Keseph pulls the Blades entirely.
+- **Keseph as negotiating partner:** Offer him the Inversion Path's residual energy release as the ambient surge he needs - no coercion required. DC 15 Arcana to frame it. If it lands, Keseph pulls the Blades entirely.
 - **Concordance/Keseph schism:** Expose the intel-sharing to Vara → Concordance immediately turns on Keseph. Two factions now working against each other.
 - **Senna Kard recruitment:** Knowing her doubts drops mid-combat de-escalation DC 15 → DC 11. Open with her name: *"Senna. You know what you're being asked to do here."* She pauses before the first attack roll.
 
@@ -1270,7 +1270,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details>
-<summary><strong>Faction C: The Reckoning (Harran Lecht)</strong> — grieving, principled, one man holding it together</summary>
+<summary><strong>Faction C: The Reckoning (Harran Lecht)</strong> - grieving, principled, one man holding it together</summary>
 
 *Harran Lecht is a former Restorer field medic who lost someone to a Dawnborn decision. The Reckoning is less an organisation than a leader with followers.*
 
@@ -1279,11 +1279,11 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details>
-<summary>Tier 1 — Common Knowledge (no check)</summary>
+<summary>Tier 1 - Common Knowledge (no check)</summary>
 
 **Intel:**
-- Argument is moral, not metaphysical — Dawnborn making life-and-death decisions without consent
-- Not uniformly violent — some are grieving people who found community; others are prepared to act
+- Argument is moral, not metaphysical - Dawnborn making life-and-death decisions without consent
+- Not uniformly violent; some are grieving people who found community; others are prepared to act
 - Operating legally; demonstrations have been permitted by the City Guard
 
 **Advantages unlocked:**
@@ -1293,12 +1293,12 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 </details>
 
 <details>
-<summary>Tier 2 — Investigative (DC 12 Insight after meeting Harran; DC 14 Investigation in the Second or Third District)</summary>
+<summary>Tier 2 - Investigative (DC 12 Insight after meeting Harran; DC 14 Investigation in the Second or Third District)</summary>
 
 **Intel:**
 - Leader is **Harran Lecht**, former Restorer field medic. Lost patient **Maren Drel** when a Dawnborn (Lira) prioritised another case the same night. To Harran, this is settled.
-- Timeline fixed on ritual night — he intends a confrontation at the Primer Stones, not before. He is waiting.
-- Most members follow Harran personally, not a cause — they stand down if he does.
+- Timeline fixed on ritual night - he intends a confrontation at the Primer Stones, not before. He is waiting.
+- Most members follow Harran personally, not a cause; they stand down if he does.
 
 **Advantages unlocked:**
 - **Name Maren Drel:** Use it in confrontation → Harran shifts from hostility to listening, no roll. Without it: DC 16 Persuasion. With it: DC 12.
@@ -1308,17 +1308,17 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 </details>
 
 <details>
-<summary>Tier 3 — Deep Knowledge (DC 16 Persuasion with a Restorer who knew Harran; DC 17 Investigation + Restorer intake records)</summary>
+<summary>Tier 3 - Deep Knowledge (DC 16 Persuasion with a Restorer who knew Harran; DC 17 Investigation + Restorer intake records)</summary>
 
 **Intel:**
 - **Maren Drel was Harran's partner**, not just his patient. Never said publicly. He is grieving, not seeking justice.
-- **Harran's private condition for peace:** A Dawnborn must say, in front of witnesses, that Maren's death was real, that it mattered, and the choice was *hard* — not that it was right. He will accept grief. He cannot accept indifference.
-- **Senna Kard knows Harran** — same Restorer cohort, three years ago. If Senna has already de-escalated (Faction B, Tier 3), she can broker the meeting. No DCs required.
+- **Harran's private condition for peace:** A Dawnborn must say, in front of witnesses, that Maren's death was real, that it mattered, and the choice was *hard* - not that it was right. He will accept grief. He cannot accept indifference.
+- **Senna Kard knows Harran** - same Restorer cohort, three years ago. If Senna has already de-escalated (Faction B, Tier 3), she can broker the meeting. No DCs required.
 
 **Advantages unlocked:**
 - **The actual resolution:** Bring Lira to Harran. Lira speaks Maren's name and acknowledges the cost → Harran dissolves the Reckoning. Faction ceases to exist before Session 5.
 - **The 48-hour deal:** *"Give us until the ritual is done. If the Dawnborn choose freely, will you listen?"* With Maren intel: automatic. Without it: DC 16 and Harran has no reason to believe the guarantee.
-- **Senna bridge:** If Senna has been turned (Faction B, Tier 3), she facilitates the Harran/Lira conversation — no roll at all.
+- **Senna bridge:** If Senna has been turned (Faction B, Tier 3), she facilitates the Harran/Lira conversation, no roll at all.
 
 </details>
 
@@ -1327,7 +1327,7 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 ---
 
 <details>
-<summary><strong>Cross-Faction Synergies</strong> — intel combinations that compound</summary>
+<summary><strong>Cross-Faction Synergies</strong> - intel combinations that compound</summary>
 
 | Player knows | Combines with | Result |
 |---|---|---|
@@ -1335,16 +1335,16 @@ Each entry is a *scene seed*, not a full scene. Expand based on player interest.
 | Senna's doubts (B-T3) | Senna knows Harran (C-T3) | Senna brokers Harran/Lira meeting; Reckoning dissolves |
 | Harran's condition (C-T3) | Lira's consent | No combat needed at Stones; Reckoning absent |
 | Concordance Ellan fixation (A-T3) | Ellan's cooperation | Concordance cell occupied; Stones approach clear |
-| All Tier 3 across all three | Inversion Path | Session 5 ritual window uncontested — all three factions neutralized before first dice roll |
+| All Tier 3 across all three | Inversion Path | Session 5 ritual window uncontested, all three factions neutralized before first dice roll |
 
-**GM note:** The maximum-intel scenario is not "players win automatically" — it is "players spend Session 5 in an emotional finale instead of a combat one." Stakes concentrate on the ritual and the Dawnborn choices. That is the better story.
+**GM note:** The maximum-intel scenario is not "players win automatically" - it is "players spend Session 5 in an emotional finale instead of a combat one." Stakes concentrate on the ritual and the Dawnborn choices. That is the better story.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Intel Tracking Sheet</strong> — print or copy to session notes</summary>
+<summary><strong>Intel Tracking Sheet</strong> - print or copy to session notes</summary>
 
 ```
 CONCORDANCE OF THE WITHDRAWN

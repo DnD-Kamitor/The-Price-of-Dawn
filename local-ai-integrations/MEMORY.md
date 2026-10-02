@@ -1,4 +1,4 @@
-# Local AI Integrations — Memory
+# Local AI Integrations - Memory
 
 ## Status
 
@@ -14,14 +14,14 @@
 
 ## Working Services (confirmed)
 
-- **Ollama local**: `localhost:11434` — qwen3:14b (primary NPC), phi4, gemma3:27b, deepseek-r1:14b, llama3.1:8b, nomic-embed-text
-- **openedai-speech TTS**: `https://tts.research-ready.nl` — no auth required, mTLS not needed
+- **Ollama local**: `localhost:11434` - qwen3:14b (primary NPC), phi4, gemma3:27b, deepseek-r1:14b, llama3.1:8b, nomic-embed-text
+- **openedai-speech TTS**: `https://tts.research-ready.nl` - no auth required, mTLS not needed
   - Voices working: alloy, echo, shimmer, nova, onyx
-  - Voice NOT working: fable (returns 44-byte error response — skip it)
+  - Voice NOT working: fable (returns 44-byte error response, skip it)
 - **mTLS cert**: auto-extracted from `~/Desktop/fedora.p12` (password: `Research-mTLS-2024!`) to `/tmp/mtls_client.crt` + `/tmp/mtls_client.key`
-- **Graphiti**: `http://10.0.1.124:8000` — internal cluster only, unreachable from outside without SSH tunnel through `root@10.0.0.16`
-- **LiteLLM**: `https://litellm.research-ready.nl` — needs API key (`pod-fast`, `pod-quality` aliases requested)
-- **OpenWebUI**: `https://openwebui.research-ready.nl` — admin credentials unknown
+- **Graphiti**: `http://10.0.1.124:8000` - internal cluster only, unreachable from outside without SSH tunnel through `root@10.0.0.16`
+- **LiteLLM**: `https://litellm.research-ready.nl` - needs API key (`pod-fast`, `pod-quality` aliases requested)
+- **OpenWebUI**: `https://openwebui.research-ready.nl`, admin credentials unknown
 
 ## KeePass DB
 
@@ -36,7 +36,7 @@
 - lira-mira-sunlight.wav, lira-decided.wav
 - edoran-annem.wav, edoran-consent.wav
 - erem-return-song.wav, ostenveld-managing.wav
-- tomas-decided.wav (onyx, NOT fable — fable broken)
+- tomas-decided.wav (onyx, NOT fable, fable broken)
 - ysel-not-afraid.wav, ysel-sunlight-worth.wav
 - narration-campaign-opener.wav
 
@@ -57,7 +57,7 @@ LITELLM_API_KEY=sk-xxx python3 npc_client.py --npc theron-waide --player "Kira"
 OPENWEBUI_EMAIL=admin@... OPENWEBUI_PASSWORD=... python3 openwebui_setup.py
 ```
 
-## All Integrations DONE — Pending Credentials/Access
+## All Integrations DONE - Pending Credentials/Access
 
 To activate each integration, need:
 - **03-onyx**: `ONYX_EMAIL` + `ONYX_PASSWORD` in KeePass `PriceOfDawn/Onyx`

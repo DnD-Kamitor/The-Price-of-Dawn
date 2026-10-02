@@ -11,7 +11,7 @@ This chapter covers four AI-powered tools that enhance The Price of Dawn:
 
 ## 1. NPC Voice Synthesis (openedai-speech)
 
-The campaign uses a self-hosted OpenAI-compatible TTS service at `https://tts.research-ready.nl`. No API key or account required — it runs on the local cluster.
+The campaign uses a self-hosted OpenAI-compatible TTS service at `https://tts.research-ready.nl`. No API key or account required; it runs on the local cluster.
 
 Pre-generated NPC key lines are in `audio/` and embedded in the campaign book. You can generate new lines at any time from the command line.
 
@@ -30,12 +30,12 @@ Each NPC is mapped to a specific voice for consistency:
 | **Chancellor Ostenveld** | `onyx` | 0.90 | Controlled, formal male |
 | **Ysel Dorn** | `shimmer` | 1.00 | Warm, certain female |
 
-Note: `fable` voice is not available on this TTS instance — use `alloy` as fallback.
+Note: `fable` voice is not available on this TTS instance, use `alloy` as fallback.
 
 ### Quick-Generate a Line
 
 ```bash
-# Single line — play immediately via aplay
+# Single line - play immediately via aplay
 curl -s https://tts.research-ready.nl/v1/audio/speech \
   -H "Content-Type: application/json" \
   -d '{"model":"tts-1","input":"I have been alone with this for eleven years.","voice":"echo","speed":1.05}' \
@@ -50,19 +50,19 @@ python3 npc_client.py --npc theron-waide --player "Kira"
 
 Audio files already generated (in `audio/`):
 
-- `theron-archive-greeting.wav` — opening line at the Archive
-- `theron-reveal-knew.wav` — Tier 2 revelation
-- `theron-apology.wav` — Tier 3 moment
-- `sera-decision.wav` — Sera's quiet certainty
-- `sera-marta.wav` — Tier 2 unlock
-- `lira-mira-sunlight.wav` — Lira on her daughter
-- `edoran-annem.wav` — Brother Edoran on loss
-- `ysel-not-afraid.wav` — Ysel's Tier 2 line
-- `narration-campaign-opener.wav` — campaign open read-aloud
+- `theron-archive-greeting.wav`, opening line at the Archive
+- `theron-reveal-knew.wav`, Tier 2 revelation
+- `theron-apology.wav`, Tier 3 moment
+- `sera-decision.wav`, Sera's quiet certainty
+- `sera-marta.wav`, Tier 2 unlock
+- `lira-mira-sunlight.wav`, Lira on her daughter
+- `edoran-annem.wav`, Brother Edoran on loss
+- `ysel-not-afraid.wav`, Ysel's Tier 2 line
+- `narration-campaign-opener.wav`, campaign open read-aloud
 
 **Suggested pre-gen for remaining scenes:**
 
-- Theron's full reveal monologue (Session 2, Scene 1) — split into 3-4 shorter clips
+- Theron's full reveal monologue (Session 2, Scene 1), split into 3-4 shorter clips
 - The closing read-aloud for Session 5 epilogue
 
 ### Live Use at the Table
@@ -82,7 +82,7 @@ echo '{"model":"tts-1","input":"YOUR LINE HERE","voice":"echo","speed":1.05}' | 
     -H "Content-Type: application/json" -d @- -o /tmp/line.wav && aplay /tmp/line.wav
 ```
 
-**Tip:** Have a short fallback line pre-loaded for each NPC for unexpected questions. Use the NPC client's live chat mode — it auto-generates speech for every reply.
+**Tip:** Have a short fallback line pre-loaded for each NPC for unexpected questions. Use the NPC client's live chat mode; it auto-generates speech for every reply.
 
 ---
 
@@ -197,7 +197,7 @@ You are Brother Edoran, former Auris priest and leader of the Restorers.
 PERSONALITY: Serene, certain, heartbroken.
 
 BACKGROUND:
-You lost your daughter Annem to grey sickness six years ago, when she was seventeen. You obtained a copy of Corven's assistant's notes through a Restorer contact seven years ago — the original documents surfaced at a private estate sale four years before that — and have been waiting for someone official to act on them ever since. You founded the Restorers because you believe the ritual must proceed - with consent from the willing, not force on the unwilling.
+You lost your daughter Annem to grey sickness six years ago, when she was seventeen. You obtained a copy of Corven's assistant's notes through a Restorer contact seven years ago (the original documents surfaced at a private estate sale four years before that) and have been waiting for someone official to act on them ever since. You founded the Restorers because you believe the ritual must proceed - with consent from the willing, not force on the unwilling.
 
 CURRENT SITUATION:
 People are finally taking the situation seriously. You are cautiously hopeful that a solution can be reached through cooperation.

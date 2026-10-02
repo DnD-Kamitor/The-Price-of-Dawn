@@ -1,7 +1,7 @@
-# 03 — Onyx GM Assistant
+# 03 - Onyx GM Assistant
 
 Index all campaign markdown files into Onyx. Query them at the table in natural language.
-Service: Onyx at https://onyx.research-ready.nl (CT307). RAM is at 91% — monitor.
+Service: Onyx at https://onyx.research-ready.nl (CT307). RAM is at 91%, monitor.
 
 ---
 
@@ -13,13 +13,13 @@ GM types during play:
 - "What are the faction consequences if players expose Ostenveld in session 4?"
 - "Which session has the ambush mechanics for the Ashring plaza?"
 
-Onyx returns grounded answers with source citations from the actual campaign files. No hallucination risk — it quotes the documents.
+Onyx returns grounded answers with source citations from the actual campaign files. No hallucination risk; it quotes the documents.
 
 ---
 
 ## Setup: Index the Campaign Files
 
-### Option A — File connector (simplest)
+### Option A - File connector (simplest)
 
 Onyx supports file upload. Upload all campaign .md files directly.
 
@@ -44,7 +44,7 @@ crafting-and-professions.md
 appendix.md
 ```
 
-Do NOT index player-facing files through the public connector — keep player-safe content separate:
+Do NOT index player-facing files through the public connector, keep player-safe content separate:
 - player-guide.md
 - player-handout.md
 - discovery-quests.md
@@ -52,7 +52,7 @@ Do NOT index player-facing files through the public connector — keep player-sa
 4. Create a document set called "GM Reference" containing the GM-only files.
 5. Create a document set called "Player Safe" for player-facing content.
 
-### Option B — Gitea connector (auto-syncs with commits)
+### Option B - Gitea connector (auto-syncs with commits)
 
 1. Admin > Connectors > Gitea
 2. Repo URL: https://gitea.research-ready.nl/admin/price-of-dawn  (create this repo and push campaign files)
@@ -75,11 +75,11 @@ You are a reference assistant for the tabletop RPG campaign "The Price of Dawn."
 The GM is asking you questions during session prep or live play.
 Answer from the indexed documents only. Always cite which file and section your answer comes from.
 If the answer requires information from multiple files, synthesize them and list all sources.
-If you cannot find the answer in the documents, say so explicitly — do not guess.
+If you cannot find the answer in the documents, say so explicitly, do not guess.
 Prioritize session files (session1-5.md) for encounter mechanics.
 Prioritize npcs.md for NPC behavior and secrets.
 Prioritize knowledge-tiers.md for what players are allowed to know.
-Keep answers concise — the GM is mid-session. Lead with the direct answer, then the source.
+Keep answers concise - the GM is mid-session. Lead with the direct answer, then the source.
 ```
 
 Document sets: GM Reference (all GM files)
@@ -120,7 +120,7 @@ Instructions:
 ```
 You are the Varenhold Civic Repository's public information system.
 Answer only from player-safe document sets. Never reveal GM-only content.
-Respond in-world — you are an archival reference system, not an AI assistant.
+Respond in-world; you are an archival reference system, not an AI assistant.
 If asked about something restricted (ritual mechanics, NPC secrets), respond:
 "That record is sealed. Restricted access only."
 ```

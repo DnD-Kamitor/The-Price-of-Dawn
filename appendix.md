@@ -1,6 +1,6 @@
 # Appendix: Quick Reference
 
-*A condensed reference for players and GMs. NPC roster, skill check DCs, stat block index, prices, ritual mechanics, and travel times are all player-visible. Ending outcomes and the moral scorecard are GM-only — collapsed below.*
+*A condensed reference for players and GMs. NPC roster, skill check DCs, stat block index, prices, ritual mechanics, and travel times are all player-visible. Ending outcomes and the moral scorecard are GM-only, collapsed below.*
 
 ---
 
@@ -206,7 +206,7 @@
 ---
 
 <details class="gm-only">
-<summary>GM Only — Faction State by Ending</summary>
+<summary>GM Only - Faction State by Ending</summary>
 
 | Ending | Council | Dawnborn | Restorers | Desperate | Healers |
 |--------|---------|----------|-----------|-----------|---------|
@@ -222,7 +222,7 @@
 ---
 
 <details class="gm-only">
-<summary>GM Only — Moral Scorecard (Session Tracking)</summary>
+<summary>GM Only - Moral Scorecard (Session Tracking)</summary>
 
 *Fill this in session by session. Use at Session 5 to guide which ending feels true.*
 

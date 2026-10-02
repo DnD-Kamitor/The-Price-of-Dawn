@@ -1,4 +1,4 @@
-# Props & Handouts — Session 5
+# Props & Handouts - Session 5
 
 *Click any item below to open it. Print the full page as a PDF using the button below.*
 
@@ -9,17 +9,17 @@
 ## Maps & Drawings
 
 <details>
-<summary>The Ashring — Final Configuration (Scenes 1–5)</summary>
+<summary>The Ashring - Final Configuration (Scenes 1–5)</summary>
 
 *Leave on table for the entire session. Mark stone status as the session progresses: fill each position with the Dawnborn's name when they arrive; circle it when their stone activates; cross it out if a stone goes dark.*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  THE ASHRING — SESSION 5 TRACKING MAP              SCALE: 1:50   ║
+║  THE ASHRING - SESSION 5 TRACKING MAP              SCALE: 1:50   ║
 ║  Fill in each position as Dawnborn arrive. Mark: LIT / DARK.     ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║                    [  1  — NORTH  ]                              ║
+║                    [  1 - NORTH  ]                              ║
 ║                    SERA VOSS                                     ║
 ║                    Status: ______                                ║
 ║                                                                  ║
@@ -54,16 +54,16 @@
 </details>
 
 <details>
-<summary>Ashring Plaza — Last Stand Combat (Scene 1 and Scene 5)</summary>
+<summary>Ashring Plaza - Last Stand Combat (Scene 1 and Scene 5)</summary>
 
 *GM reference for the two combat scenes. The Reckoning arrives from the east approach road. Solennite Blades (if present) move for the dais. Senna (if not de-escalated) arrives from the south.*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ASHRING PLAZA — COMBAT REFERENCE MAP               SCALE: 1:75  ║
+║  ASHRING PLAZA - COMBAT REFERENCE MAP               SCALE: 1:75  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  [NORTH EXIT — residential lane beyond. Civilians are gone.]     ║
+║  [NORTH EXIT - residential lane beyond. Civilians are gone.]     ║
 ║                                                                  ║
 ║  ░░░░░░░░░░░░░░░░░ STONE CIRCLE (40ft ring) ░░░░░░░░░░░░░░░░░░  ║
 ║  ░  Primer Stones at perimeter; center dais raised 5ft.       ░  ║
@@ -76,7 +76,7 @@
 ║  [SOUTH LANE] ←── SENNA'S approach (if present)                 ║
 ║                   Also: players' likely entry from session 4    ║
 ║                                                                  ║
-║  [WEST — market stalls, closed. Cover but no concealment.]       ║
+║  [WEST - market stalls, closed. Cover but no concealment.]       ║
 ║                                                                  ║
 ║  [SOLENNITE BLADES target] ← center dais, if present           ║
 ║                                                                  ║
@@ -94,9 +94,9 @@
 ## Documents
 
 <details>
-<summary>Corven's Letter — found behind the center dais (Scene 2)</summary>
+<summary>Corven's Letter - found behind the center dais (Scene 2)</summary>
 
-*Found during combat (Investigation DC 10 if actively searching the dais) or immediately after, when players have a moment to look. The letter is sealed in wax, flush with the back face of the dais stone. Hand to players when discovered. This is a physical handout — the blank line is real.*
+*Found during combat (Investigation DC 10 if actively searching the dais) or immediately after, when players have a moment to look. The letter is sealed in wax, flush with the back face of the dais stone. Hand to players when discovered. This is a physical handout, the blank line is real.*
 
 ---
 
@@ -116,11 +116,11 @@
 
 *No one should be forced.*
 
-*— A. Corven*
+*- A. Corven*
 *[Date: the night of the ritual, fifty years ago]*
 
 ::: {.prop-alt-ink}
-*The blank is the riddle. Players choose the word or phrase that completes it. Whatever they choose becomes the activation word — spoken aloud from the center of the dais to trigger the Inversion Circle.*
+*The blank is the riddle. Players choose the word or phrase that completes it. Whatever they choose becomes the activation word - spoken aloud from the center of the dais to trigger the Inversion Circle.*
 
 *Correct: any word chosen through genuine reflection, not rushed. The stones respond when it is spoken from the dais. There is no mechanical check. No wrong answer among sincere ones.*
 
@@ -134,13 +134,13 @@
 </details>
 
 <details>
-<summary>Tomas Areth's Notebook — final entry (Scene 4)</summary>
+<summary>Tomas Areth's Notebook - final entry (Scene 4)</summary>
 
-*Tomas sets his notebook on his Primer Stone during the Scene 4 montage. He does not speak. If a player picks it up before the ritual, show them this. Do not hand the entire notebook — describe the earlier pages as dense notation, then turn to the last entry.*
+*Tomas sets his notebook on his Primer Stone during the Scene 4 montage. He does not speak. If a player picks it up before the ritual, show them this. Do not hand the entire notebook, describe the earlier pages as dense notation, then turn to the last entry.*
 
 ---
 
-*[The notebook is filled from front to back in small, dense handwriting — marginal flags, cross-references, the legal-case notation that encodes three years of ritual mathematics. The last entry is different. It is in plain language. It fills a single line.]*
+*[The notebook is filled from front to back in small, dense handwriting - marginal flags, cross-references, the legal-case notation that encodes three years of ritual mathematics. The last entry is different. It is in plain language. It fills a single line.]*
 
 ---
 
@@ -153,7 +153,7 @@
 *"The calculation is right. I checked it fourteen times. I am not afraid of the calculation. I am afraid of being wrong about what I want. I am not wrong."*
 
 ::: {.prop-alt-ink}
-*Tomas has done the math and accepted the result. The notebook represents three years of work — the calculation is the Asymmetry analysis (five surge-phase Dawnborn, double energy load), the Observatory star sequence, and his own probability modeling for the Inversion path.*
+*Tomas has done the math and accepted the result. The notebook represents three years of work - the calculation is the Asymmetry analysis (five surge-phase Dawnborn, double energy load), the Observatory star sequence, and his own probability modeling for the Inversion path.*
 
 *He put the notebook on the stone instead of speaking because he has already said everything the notebook contains. What's left is the act.*
 
@@ -163,7 +163,7 @@
 </details>
 
 <details>
-<summary>Inversion Circle — Signal Logistics Reference (GM use, Scene 3)</summary>
+<summary>Inversion Circle - Signal Logistics Reference (GM use, Scene 3)</summary>
 
 *GM reference for managing the three-position complications and the signal problem. Not for players.*
 
@@ -172,18 +172,18 @@
 ::: {.prop-alt-ink}
 **THREE POSITIONS WITH COMPLICATIONS:**
 
-**Cormac (Stone 4):** If players engaged with him in Session 4 and his stone is lit — he is there, no action needed. If stone is dim — he is present but not on the stone. Needs to be asked directly by someone who asked him before. One player, one genuine question, no check. He answers or he doesn't.
+**Cormac (Stone 4):** If players engaged with him in Session 4 and his stone is lit - he is there, no action needed. If stone is dim - he is present but not on the stone. Needs to be asked directly by someone who asked him before. One player, one genuine question, no check. He answers or he doesn't.
 
-**Lira (Stone 5):** Empty. She did not come. She is at the Healing House, 20 minutes from the Ashring. Someone must go to her — not to convince her, not to cite the stakes. Ask her one more time. The question must be a question. If players go: she comes, no explanation. If players do not go: her stone stays cold, Ending B is off the table.
+**Lira (Stone 5):** Empty. She did not come. She is at the Healing House, 20 minutes from the Ashring. Someone must go to her - not to convince her, not to cite the stakes. Ask her one more time. The question must be a question. If players go: she comes, no explanation. If players do not go: her stone stays cold, Ending B is off the table.
 
-**Petra Vane (Stone 6):** She arrived at dawn and is standing near her stone but hasn't stepped onto it. She will speak if spoken to. One player walks over and says something — anything genuine. She nods and steps onto the stone. No check.
+**Petra Vane (Stone 6):** She arrived at dawn and is standing near her stone but hasn't stepped onto it. She will speak if spoken to. One player walks over and says something - anything genuine. She nods and steps onto the stone. No check.
 
 **THE SIGNAL PROBLEM:**
 
 All ten Dawnborn must speak the activation word simultaneously within a six-second window. Solutions:
 - Shouting from the dais works if the plaza is quiet (it won't be during combat, will be after)
 - DC 14 Performance if there is ambient noise
-- A player who planned for this in Session 4 (arranged hand signals, runners, etc.) has already solved it — reward that
+- A player who planned for this in Session 4 (arranged hand signals, runners, etc.) has already solved it, reward that
 - No one planned for it: one player spends their last action before the word is spoken organizing the signal. No check, but it costs an action.
 
 **PARTIAL SUCCESS (8-9 stones lit):** The willing complete the ritual. Missing stone positions hold amber but don't ignite. → Ending A.
@@ -198,15 +198,15 @@ All ten Dawnborn must speak the activation word simultaneously within a six-seco
 ## Player Moments
 
 <details>
-<summary>Any PC — Before the Word Is Spoken (Scene 4 / Ritual Moment)</summary>
+<summary>Any PC - Before the Word Is Spoken (Scene 4 / Ritual Moment)</summary>
 
-*Play immediately after the Dawnborn montage (Scene 4), before the ritual is triggered. Ask one player — any player — out loud.*
+*Play immediately after the Dawnborn montage (Scene 4), before the ritual is triggered. Ask one player (any player) out loud.*
 
 ---
 
 The circle is lit, or partly lit.
 
-The plaza is quiet. The combat is done. The antagonists are gone or standing down. The Dawnborn are at their stones, or the ones who chose are, and the empty positions are not nothing — they are the shape of conversations that didn't happen, or did.
+The plaza is quiet. The combat is done. The antagonists are gone or standing down. The Dawnborn are at their stones, or the ones who chose are, and the empty positions are not nothing; they are the shape of conversations that didn't happen, or did.
 
 The activation word is in someone's hand.
 
@@ -221,7 +221,7 @@ This is the last moment before whatever comes next. It belongs to the table.
 </details>
 
 <details>
-<summary>PC who went to get Lira — What she said (Scene 3)</summary>
+<summary>PC who went to get Lira - What she said (Scene 3)</summary>
 
 *Play for the player who went to the Healing House to ask Lira one more time. Give this to them when she arrives at her stone.*
 
@@ -231,7 +231,7 @@ You went to get her. You didn't argue. You didn't cite the stakes or the clock o
 
 You asked her.
 
-She came. She didn't explain why. She walked with you across the city in the early morning and she hasn't said anything since you left the Healing House. She said one thing before you got to the Ashring — you almost missed it, she said it quietly:
+She came. She didn't explain why. She walked with you across the city in the early morning and she hasn't said anything since you left the Healing House. She said one thing before you got to the Ashring; you almost missed it, she said it quietly:
 
 *"Mira will be okay."*
 
@@ -244,7 +244,7 @@ She is at her stone now. She has not looked at you again. She is looking at the 
 </details>
 
 <details>
-<summary>PC who was with Cormac — What he said (Scene 4 / Ritual Moment)</summary>
+<summary>PC who was with Cormac - What he said (Scene 4 / Ritual Moment)</summary>
 
 *Play for the player who stayed with Cormac in the alley in Session 4. Give this when Cormac steps onto his stone.*
 

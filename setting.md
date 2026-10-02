@@ -84,9 +84,9 @@ The Ashring quarter is quieter than it was, but still inhabited - a mix of longt
 **District Hook:** Meva the junior archivist has been cross-referencing the official record against a private account she found misfiled. The private account - written by a midwife who delivered three of the Dawnborn that night - contradicts the official record on two key points: the births happened before the ritual's backlash, not after, and all three mothers said they heard the same word in the moment of birth. The word is not recorded. Meva doesn't know what to do with this.
 
 **What you might see here:**
-- A stonemason cleans the scorch stones twice a week — not restoring them, just keeping them from getting worse. She can't explain why she feels responsible.
+- A stonemason cleans the scorch stones twice a week - not restoring them, just keeping them from getting worse. She can't explain why she feels responsible.
 - A group of children taking turns standing in the center of the scorch circle with their eyes closed. "I'm trying to feel it," one says. Neither they nor anyone nearby knows exactly what they're trying to feel.
-- Two Auris priests — one Penitent, one Wounded — arguing quietly on the plaza steps. They are clearly old friends. They are clearly not going to agree.
+- Two Auris priests (one Penitent, one Wounded) arguing quietly on the plaza steps. They are clearly old friends. They are clearly not going to agree.
 - A traveling artist sketching the scorch pattern for a Compact commission. "The most important thing that happened in the last hundred years," they said. She doesn't seem certain they're right.
 - A child asking their parent what the marks are. The parent explains the ritual. The child asks: "Did anyone get hurt?" The pause before the answer is visible from thirty feet away.
 
@@ -159,7 +159,7 @@ The Lowmark is where the city's survival infrastructure lives. People here work 
 - A woman selling homemade "treatment compound" from a cart. The compound is marsh herbs and wishful thinking. A Guild practitioner watches from across the street, deciding whether to intervene.
 - Children playing a game where one is Sera (protecting the others), one is Tomas (settling disputes about the rules), and one is Lira (telling anyone who gets "hurt" that they'll be okay).
 - The Grain Measure's evening ledger posted publicly by Dawnhall tradition. A small crowd reads it. The numbers are worse than last month. Three people in the crowd understand exactly what this means.
-- Cormac Drell supervising an unloading at the docks — visibly stronger and faster than the dock workers, apparently unaware of the gap. He treats helping when a crate slips as unremarkable.
+- Cormac Drell supervising an unloading at the docks - visibly stronger and faster than the dock workers, apparently unaware of the gap. He treats helping when a crate slips as unremarkable.
 
 <div class="player-callout">
 
@@ -228,11 +228,11 @@ The Spire Quarter is a bubble. The people who live and work here have spent fift
 **District Hook:** The Spire has been monitoring the Dawnborn's energy levels (passively, without their knowledge or consent) for thirty years using a long-range resonance tracker. The records show that Dawnborn energy depletion has accelerated in the last two years - by approximately 300%. This is not being reported to the Council. Keseph suppressed it because it undermines his research timeline. A junior scholar named Maret knows about the suppression and is looking for someone trustworthy to give the records to.
 
 **What you might see here:**
-- A junior scholar conducting an outdoor experiment involving a lux-measurement device and amber plates. She looks frustrated — the device isn't producing expected results. She'll explain at length to anyone who asks, and is visibly relieved to have someone to explain it to.
+- A junior scholar conducting an outdoor experiment involving a lux-measurement device and amber plates. She looks frustrated - the device isn't producing expected results. She'll explain at length to anyone who asks, and is visibly relieved to have someone to explain it to.
 - Two scholars debating loudly in the reading room about the twilight's mechanism. One says it's a sympathetic void. The other says it's a direct inversion. They are both partially right. Neither knows this.
 - A graduate student noting that Isolde Menth's light has been on late three weeks in a row. She only does this when she's close to something.
 - A former Spire student waiting to see if her old thesis advisor will meet with her. The advisor left two years ago. Nobody has told her yet.
-- The weekly faculty coffee hour audible from the hallway — a heated argument about whether the Compact's research funding creates an obligation to share results. The underlying argument is about something else entirely.
+- The weekly faculty coffee hour audible from the hallway - a heated argument about whether the Compact's research funding creates an obligation to share results. The underlying argument is about something else entirely.
 
 <div class="player-callout">
 
@@ -300,9 +300,9 @@ The Dawnhalls district is the most functional place in Varenhold. It is not the 
 
 **What you might see here:**
 - The morning meal being served. The queue is longer than yesterday. The kitchen manager is quietly counting portions and doing math she doesn't like the answer to.
-- Sera Voss eating breakfast in the public hall — not a separate room, just sitting with people. A child has come to sit next to her and is explaining their week. She's listening with her whole body.
+- Sera Voss eating breakfast in the public hall - not a separate room, just sitting with people. A child has come to sit next to her and is explaining their week. She's listening with her whole body.
 - A notice posted about the food stores: 37%, down from 40% last week. Someone wrote in small letters at the bottom: "This is not fine." The note has not been taken down.
-- Neighbors doing maintenance on a shared building. Not organized, no meeting called — they just showed up because the window needed fixing. This is how most Dawnhall maintenance gets done.
+- Neighbors doing maintenance on a shared building. Not organized, no meeting called - they just showed up because the window needed fixing. This is how most Dawnhall maintenance gets done.
 - Lira passing through on her way to the care houses, tired in the way of someone always tired. A neighbor stops her to ask about her daughter; the warmth that crosses her face for about three seconds before she answers is genuinely arresting.
 
 <div class="player-callout">
@@ -372,9 +372,9 @@ The Outer Ring is where power is performed. People who work here are aware of st
 **District Hook:** The temporary wall dividing the Cathedral was built over the original altar - which is also, according to Corven's original ritual documents, one of the three backup resonance nodes for the ritual. The inversion pathway can technically be triggered from the Cathedral as a secondary site if the Ashring is somehow unavailable. This has not been discovered because the wall built over the altar has been there for twelve years. The Wounded faction's head priest knows something is under the wall. He has not told the Penitents. He has been waiting for a reason to open it.
 
 **What you might see here:**
-- The two Cathedral choirs competing simultaneously. The sound is extraordinary — not pleasant, but striking. Passersby have stopped in the street. Neither choir will stop first.
+- The two Cathedral choirs competing simultaneously. The sound is extraordinary - not pleasant, but striking. Passersby have stopped in the street. Neither choir will stop first.
 - A street performer playing a *lanternhalt* ballad in the Highmark arcade. Small audience. The unresolved final chord lands and nobody moves for a long moment afterward.
-- A nobleman who left Varenhold fifteen years ago walking through the Highmark comparing what he sees to his memory. He keeps stopping at things that no longer match. He isn't distressed — he's genuinely curious.
+- A nobleman who left Varenhold fifteen years ago walking through the Highmark comparing what he sees to his memory. He keeps stopping at things that no longer match. He isn't distressed; he's genuinely curious.
 - The Council Registrar's queue: a grey sickness patient needing care house priority, a merchant with a Compact dispute, and a third person who has been waiting three months for a different matter and is here again.
 - The Chancellor's window is lit early. A citizen who passes it every morning has developed a superstition: if it's lit before the first bell, it's a difficult day. He's been right more often than chance.
 
@@ -444,9 +444,9 @@ The Ashfen Gate district is the most transient part of Varenhold - people are al
 
 **What you might see here:**
 - A caravan from the Dusk Parishes just arrived. The driver is carrying unofficial Parish correspondence alongside the official goods and is trying to find someone to take it without questions.
-- A pilgrim freshening the Wanderer's Wayshrine just outside the gate. He ties a yellow cord to the railing — traveler's courtesy, requesting safe passage. Several other cords are already there.
+- A pilgrim freshening the Wanderer's Wayshrine just outside the gate. He ties a yellow cord to the railing - traveler's courtesy, requesting safe passage. Several other cords are already there.
 - A group of Dusk Parish children at the gate for market day, looking at everything with enormous eyes. One walks to the edge of the amber lantern light and back again, testing where it ends.
-- An Ashfen Clan Wadewalker waiting for customs clearance on marsh herbs. While she waits she writes in a small notebook — documenting changes in the city's ambient magical field. Her third visit this year.
+- An Ashfen Clan Wadewalker waiting for customs clearance on marsh herbs. While she waits she writes in a small notebook - documenting changes in the city's ambient magical field. Her third visit this year.
 - More activity than usual at the Restorer compound. People coming and going, something being organized. A neighbor who has been watching the compound for years says this is new. She doesn't know what changed.
 
 <div class="player-callout">
@@ -524,7 +524,7 @@ The Archivist has known this for eleven years. He has told no one.
 
 ## The Ritual in Detail
 
-*The full picture — what actually happened, what the ritual actually does, and how to run the Sessions 4-5 ritual scenes accurately.*
+*The full picture - what actually happened, what the ritual actually does, and how to run the Sessions 4-5 ritual scenes accurately.*
 
 ### What Corven Believed He Was Building
 
@@ -563,7 +563,7 @@ Corven's ritual proceeded in twelve stages, each requiring specific materials, p
 
 ### What the Inversion Actually Requires
 
-Corven designed a failsafe into Steps 6 and 7: an **inversion pathway** that would allow the anchors to release their energy voluntarily rather than through violent uncontrolled extinguishing. He built it because he understood that any living-resonance anchor might develop independent will over time (he was thinking about objects, not people, but the principle held). Corven believed the inversion would let the Dawnborn survive as ordinary people, their Lux energy released cleanly. He was wrong about this. The inversion extinguishes them — the difference is that their deaths are not violent and the energy completes the solar binding rather than releasing uncontrolled. The price remains ten lives. The inversion path means those lives count for something.
+Corven designed a failsafe into Steps 6 and 7: an **inversion pathway** that would allow the anchors to release their energy voluntarily rather than through violent uncontrolled extinguishing. He built it because he understood that any living-resonance anchor might develop independent will over time (he was thinking about objects, not people, but the principle held). Corven believed the inversion would let the Dawnborn survive as ordinary people, their Lux energy released cleanly. He was wrong about this. The inversion extinguishes them - the difference is that their deaths are not violent and the energy completes the solar binding rather than releasing uncontrolled. The price remains ten lives. The inversion path means those lives count for something.
 
 The inversion pathway requires:
 
@@ -572,7 +572,7 @@ The inversion pathway requires:
 3. **The central inscription active** - the Primer Stones must be in resonance sequence before the simultaneous activation; the inscription serves as the focusing lens
 4. **No external magical interference** - any disruptive spell cast within 30 feet of the circle during activation attempts to hijack the inversion pathway
 
-If all four conditions are met: the energy releases upward, the solar binding completes, the sun rises. The ten Dawnborn are extinguished in the process — they do not survive. Their deaths are not violent and they do not appear to experience pain. The campaign ends with the sun and without the people who made it possible.
+If all four conditions are met: the energy releases upward, the solar binding completes, the sun rises. The ten Dawnborn are extinguished in the process - they do not survive. Their deaths are not violent and they do not appear to experience pain. The campaign ends with the sun and without the people who made it possible.
 
 **If even one anchor is absent or unwilling:** the inversion pathway cannot complete. The ritual either fails (if fewer than five anchors are present) or defaults to the destructive completion path (if five or more anchors are present and the ritual energy builds past a threshold without inversion).
 
@@ -590,7 +590,7 @@ If all four conditions are met: the energy releases upward, the solar binding co
 | 5 (surge-phase anchors) | Better brightening; crops improve significantly; grey sickness halts. Still not a solution. The remaining 5 Dawnborn lose their surge-phase advantage if the 5 have contributed. |
 | 6-9 | Substantial improvement approaching pre-twilight conditions. The sun does not rise, but the sky is warm enough to approximate it. Some crops fail to notice the difference. |
 | 10 (all, destructive path) | Sun rises. All ten Dawnborn die. The process takes approximately three minutes. It does not appear painful from the outside. |
-| 10 (all, inversion path) | Sun rises. All ten Dawnborn are extinguished — they die, but without violence, and the energy completes the solar binding rather than releasing destructively. The process takes approximately thirty seconds. |
+| 10 (all, inversion path) | Sun rises. All ten Dawnborn are extinguished - they die, but without violence, and the energy completes the solar binding rather than releasing destructively. The process takes approximately thirty seconds. |
 
 ---
 

@@ -1,4 +1,4 @@
-# Kaelen — Character Sheet Summary
+# Kaelen - Character Sheet Summary
 
 **Class:** Fighter 4 (Battle Master) / Bard 4 (Blade Flourishes) (gestalt)
 **Species:** Half-Elf
@@ -22,18 +22,18 @@ Age 45. 185 cm, 88 kg. Grey eyes, weathered skin, cropped close grey hair. Dente
 ## Key Fighter Features (Battle Master)
 - **Combat Superiority:** 4 Superiority Dice (d8) per short rest
 - **Maneuvers:**
-  - Commander's Strike: Bonus Action — expend 1 die, ally uses Reaction to attack; adds die to damage
+  - Commander's Strike: Bonus Action - expend 1 die, ally uses Reaction to attack; adds die to damage
   - Bait and Switch: Expend 1 die, swap positions with willing ally within 5 ft; one of you gains AC bonus = roll
-  - Rally: Bonus Action — expend 1 die, ally gains Temp HP = roll + CHA mod
-- **Second Wind:** 1/short rest — 1d10+4 HP
-- **Action Surge:** 1/short rest — extra action
+  - Rally: Bonus Action - expend 1 die, ally gains Temp HP = roll + CHA mod
+- **Second Wind:** 1/short rest - 1d10+4 HP
+- **Action Surge:** 1/short rest, extra action
 
 ## Key Bard Features
 - **Bardic Inspiration:** d6 dice
 - **Blade Flourishes:** Use Bardic Inspiration die on weapon hits
   - Defensive Flourish: +die to AC until next turn
   - Slashing Flourish: +die damage to hit creature AND another creature within 5 ft
-- **Feat — Inspiring Leader:** After 10-min speech, up to 6 allies within 30 ft gain 7 Temp HP each
+- **Feat - Inspiring Leader:** After 10-min speech, up to 6 allies within 30 ft gain 7 Temp HP each
 
 ## Bard Spells
 **Cantrips:** Vicious Mockery, Message, Minor Illusion
@@ -59,8 +59,8 @@ Served over a decade as a frontline tactical officer. His entire unit was lost d
 **Connected to:** Varenhold City Watch.
 
 ## Campaign Hooks
-- Lost his entire unit once. "The best plan is one where everyone survives" — the campaign ends with a plan where at minimum 10 people may not. This is his core wound replayed at campaign scale.
+- Lost his entire unit once. "The best plan is one where everyone survives" - the campaign ends with a plan where at minimum 10 people may not. This is his core wound replayed at campaign scale.
 - Connected to Varenhold City Watch → Captain Marsh fight in Session 2 is personal: fighting the institution he once served
-- "Terrified a bad call will cost an ally's life" — the Reckoning's forced ritual is exactly that: someone else making a call that costs lives. He will oppose this viscerally.
+- "Terrified a bad call will cost an ally's life" - the Reckoning's forced ritual is exactly that: someone else making a call that costs lives. He will oppose this viscerally.
 - Battle Master maneuvers (Rally, Commander's Strike) make him the party's tactical backbone. When the Dawnborn consent arc plays out, he's the one who needs a plan.
 - Inspiring Leader feat: he literally gives people courage before hard things. Before the finale, this lands differently.

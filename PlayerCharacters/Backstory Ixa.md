@@ -13,7 +13,7 @@ IX-A stared at the iron tray in front of her.
 On it rested five pebbles.
 Simple, round and black.
 “Lift one.”
-IX-A swallowed, her head was already hurting. She could feel the pressure behind her eyes, the one that came before the splitting ache, before the hot trickle from her nose, before the room started to tilt. She knew if she failed enough times they would not let her sleep. If she failed enough after that, they would call a physician. If a physician came, there would be needles. If there were needles, there would be straps. If there were straps—
+IX-A swallowed, her head was already hurting. She could feel the pressure behind her eyes, the one that came before the splitting ache, before the hot trickle from her nose, before the room started to tilt. She knew if she failed enough times they would not let her sleep. If she failed enough after that, they would call a physician. If a physician came, there would be needles. If there were needles, there would be straps. If there were straps-
 “IX-A.”
 Meret never raised her voice. She didn’t need to. The number on her tongue was enough.
 Meret’s mouth tightened. “Lift. The. Stone.”
@@ -114,7 +114,7 @@ IX-A followed, breath shallow, tail rigid behind her.
 First beam. Second.
 The blade came from the left.
 IV-A dropped instinctively and shouted, “Third swing comes back fast!”
-IX-A had taken the iron ball and looked up at exactly the wrong moment as she nearly took an axe across the face. She jerked backward, heel slipping on iron slick with someone else’s blood. The sphere in her arms slid—
+IX-A had taken the iron ball and looked up at exactly the wrong moment as she nearly took an axe across the face. She jerked backward, heel slipping on iron slick with someone else’s blood. The sphere in her arms slid-
 No.
 Her mind snapped out.
 The black stone weight stopped an inch from tumbling into the pit, hovering in the air, shaking violently.
@@ -351,7 +351,7 @@ The color of blood softened into wine-dark paint. The weight of the body became 
 Hands dragged him off her. Hands touched her. Voices talked over her.
 “Excellent penetration.”
 “Record the reaction.”
-“No hesitation after the stress spike—”
+“No hesitation after the stress spike-”
 “Look at me, IX-A. Look at me.”
 Thorne’s face floated into view.
 “What happened?”
@@ -422,7 +422,7 @@ Later, after lights-out, a whisper came through the vent, so tight with fury it 
 Ixa lay on her stomach, raw and feverish, every breath scraping. “Why?”
 “Because I did that.”
 “No. The rod did that.”
-“Ixa—”
+“Ixa-”
 “It was funny.”
 On the other side of the wall, IV-A made a sound Ixa had never heard from her before. Not laughter. Not anger.
 A muffled sob.
@@ -562,7 +562,7 @@ A sleeper, corrected the fracture.
 Ixa turned away and kept moving.
 By the time the screams thinned, her side was bleeding, one ear was torn near the tip, and the arena had become a map of sleepers she could not afford to look at too closely.
 Then she realized there was only one set of footsteps left besides hers.
-IV-A stepped out from behind a shattered pylon with blood soaking one sleeve and a cut across the bridge of her nose. Her chest rose and fell too quickly. One of her ash-tattoos—curling down the side of her throat—had split and was leaking thin violet light through the blood.
+IV-A stepped out from behind a shattered pylon with blood soaking one sleeve and a cut across the bridge of her nose. Her chest rose and fell too quickly. One of her ash-tattoos, curling down the side of her throat, had split and was leaking thin violet light through the blood.
 The arena seemed to exhale around them.
 No more movement.
 No more screaming.
@@ -583,7 +583,7 @@ That made IV-A’s face change. Something fierce and wounded and almost angry.
 “No,” she said. “You are not doing that for me.”
 “I do not mind.”
 “You should.”
-“Ixa—”
+“Ixa-”
 “No.” IV-A stepped closer, voice suddenly rough. “You don’t get to throw yourself away because you think it’s mercy. Not here, and certainty not for them.”
 The words hit strangely. Throw yourself away. Mercy. Big concepts. Heavy ones.
 Ixa understood only the important part.
@@ -635,7 +635,7 @@ She did not understand what was happening. Only that it was terrible and wonderf
 Then IV-A pulled back with tears on her lashes and drove her elbow hard into Ixa’s ribs.
 Ixa cried out.
 “Fight me,” IV-A hissed, voice breaking. “Fight me, damn you.”
-“Ixa—”
+“Ixa-”
 “Fight me!”
 She attacked again, savagely now, forcing Ixa backward over slick stone. Not because she wanted to hurt her. Because she wanted her to live.
 And Ixa, reeling from the kiss, from the pain, from the impossible grief of realizing too late that there had been a name for what she felt after all, finally fought back.
@@ -653,7 +653,7 @@ Ixa caught her as she folded.
 Together they sank to their knees in the middle of the arena while the false twilight above them flickered.
 “No,” Ixa whispered.
 Blood spread warm over her hands.
-“No no no no no—”
+“No no no no no-”
 IV-A looked down at the blade through her ribs as if it belonged to someone else. Then up at Ixa.
 Her mouth trembled.
 “You kissed back,” she whispered.
@@ -670,9 +670,9 @@ Oh, her face said. Oh, that’s how you survive this.
 Her hand shook as she lifted it to Ixa’s cheek. Her palm left blood there.
 “Listen to me,” IV-A whispered.
 Ixa shook her head violently. “No.”
-“If you ever see the sky—”
+“If you ever see the sky-”
 “No.”
-“—you be rude to it for me.”
+“-you be rude to it for me.”
 “I do not want sky without you.”
 That did it.
 That finally broke whatever IV-A had been holding together by force all these years. Tears spilled freely down the sides of her face into her fur.
@@ -796,14 +796,14 @@ His eyes flicked to Thorne. To the machines. Back to her.
 Thorne adjusted a crystal dial. “Sedation.”
 Cold rushed into Ixa’s veins.
 Across from her, VI-B fought the drug longer.
-“Listen,” he said, forcing the words out. “If this goes wrong—”
+“Listen,” he said, forcing the words out. “If this goes wrong-”
 “It won’t,” Thorne said.
 VI-B ignored him. “If something happens, don’t believe anything they tell you about what you are.”
 The array ignited.
 Purple light climbed the walls.
 Every tattoo on Ixa’s body lit up at once.
 The first pull hit VI-B before it hit her.
-He arched so violently the table shook. Light began to rise out of him in streamers — not from his skin, but through it, dragging itself out of his mouth, his eyes, his fingertips, his chest as if his soul had been hooked and was being reeled through too-small openings.
+He arched so violently the table shook. Light began to rise out of him in streamers, not from his skin, but through it, dragging itself out of his mouth, his eyes, his fingertips, his chest as if his soul had been hooked and was being reeled through too-small openings.
 He screamed.
 Ixa did too when the first strands slammed into her.
 Power flooded her in a wave so huge it did not feel like strength. It felt like drowning in fire. Her spine bowed. Her claws extended. Her vision went white-violet. Something new opened inside her, some second reach, phantom and horrible, awareness stretching far beyond the limits of her body.

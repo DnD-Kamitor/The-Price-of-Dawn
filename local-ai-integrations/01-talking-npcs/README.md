@@ -1,4 +1,4 @@
-# 01 — Talking NPCs with Voice
+# 01 - Talking NPCs with Voice
 
 Players and GM speak to NPCs. NPCs respond in character, in their voice.
 Uses: OpenWebUI + Whisper STT + LiteLLM + openedai-speech TTS.
@@ -53,7 +53,7 @@ Display Name:   Theron Waide (Archivist)
 Base Model:     litellm/mistral-large-latest   (fast enough for real-time)
 System Prompt:  [paste from 01-talking-npcs/npc-prompts/theron-waide.md]
 Temperature:    0.85
-Max tokens:     300   (NPCs don't monologue — short answers force interaction)
+Max tokens:     300   (NPCs don't monologue, short answers force interaction)
 ```
 
 4. Under Advanced > TTS:
@@ -68,14 +68,14 @@ Max tokens:     300   (NPCs don't monologue — short answers force interaction)
 
 Admin Panel > Audio:
 - STT Engine: Whisper (OpenAI-compatible)
-- STT URL: http://10.0.1.108:9000/v1  (internal — OpenWebUI is in same subnet)
+- STT URL: http://10.0.1.108:9000/v1  (internal - OpenWebUI is in same subnet)
 - Model: whisper-1
 - Language: en
 
 ### Step 3: Create a Workspace per NPC
 
 Admin Panel > Workspaces > New:
-- Name: "Sera Voss — Lowmark Captain"
+- Name: "Sera Voss - Lowmark Captain"
 - Default Model: npc-sera-voss
 - Share: specific users (players by Authentik account) or link
 
@@ -139,7 +139,7 @@ See `npc-prompts/` folder. One file per NPC. Each file contains:
 - Tier 1/2/3 system prompt (from ai-tools.md, reformatted for OpenWebUI)
 - Voice instructions embedded in system prompt
 - Hard RULES block (never break 4th wall, tier unlock logic)
-- Graphiti memory injection point (placeholder — filled at runtime)
+- Graphiti memory injection point (placeholder, filled at runtime)
 
 Files:
 - [theron-waide.md](npc-prompts/theron-waide.md)

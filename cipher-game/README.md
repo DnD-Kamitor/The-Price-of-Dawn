@@ -6,8 +6,8 @@ An interactive puzzle game for **The Price of Dawn** D&D campaign. Players recov
 Play at: https://dn-d-kamitor.github.io/The-Price-of-Dawn/cipher-game/
 
 ## Files
-- `index.html` — Interactive web game (GitHub Pages)
-- `cipher-manuscript.html` — Printable manuscript (PDF via browser print)
+- `index.html`, Interactive web game (GitHub Pages)
+- `cipher-manuscript.html`, Printable manuscript (PDF via browser print)
 
 ## The Cipher System
 
@@ -38,10 +38,10 @@ ONE UNWILLING → DESTRUCTIVE
 ## For Teachers
 
 This cipher demonstrates:
-- **Substitution cipher with divided key** — No single fragment can decode the full message
-- **Shared secret / collaboration requirement** — Three parties must converge
-- **Geometric encoding** — The Dawnmark constellation positions map to the cipher order
-- **Progressive disclosure** — Hints unlock as students recover fragments
+- **Substitution cipher with divided key** - No single fragment can decode the full message
+- **Shared secret / collaboration requirement** - Three parties must converge
+- **Geometric encoding** - The Dawnmark constellation positions map to the cipher order
+- **Progressive disclosure** - Hints unlock as students recover fragments
 
 ## Usage in Campaign
 
@@ -55,7 +55,7 @@ Open `cipher-manuscript.html` in browser → Print → Save as PDF. Designed for
 
 ## Technical
 
-Pure HTML/CSS/JS — no build step, no dependencies. Works offline. Fonts loaded from Google Fonts.
+Pure HTML/CSS/JS - no build step, no dependencies. Works offline. Fonts loaded from Google Fonts.
 
 ## License
 

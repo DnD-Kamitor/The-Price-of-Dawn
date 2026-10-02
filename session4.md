@@ -1,4 +1,4 @@
-# Session 4 — The Breaking Point (Level 7)
+# Session 4 - The Breaking Point (Level 7)
 
 *Dilemma: What do you owe to people who choose to sacrifice themselves?*
 
@@ -11,9 +11,9 @@
 | **Level** | 7 · ~3–4 hours · Opener + 5 scenes |
 | **Session dilemma** | What do you owe to people who choose to sacrifice themselves? |
 | **Session arc** | Revelation → Confrontation → Discovery → Doubt → Ultimatum |
-| **Three factions** | Concordance of the Withdrawn (corrupting the ritual), The Flowering (capturing Ixa), The Restorers (persuadable — same as Maerin Voss) |
+| **Three factions** | Concordance of the Withdrawn (corrupting the ritual), The Flowering (capturing Ixa), The Restorers (persuadable - same as Maerin Voss) |
 | **Session goal** | Collect 8 ritual cubes from the 8 living Dawnborn by earning their genuine consent |
-| **The puzzle box** | Corven's Concordance Stone — 8 slots, each cube = one Dawnborn's consent. Assembled correctly and lit: projects a dawn bird. This is the ritual activation signal. |
+| **The puzzle box** | Corven's Concordance Stone - 8 slots, each cube = one Dawnborn's consent. Assembled correctly and lit: projects a dawn bird. This is the ritual activation signal. |
 
 | NPC | Want | Fear | Lie |
 |---|---|---|---|
@@ -21,13 +21,13 @@
 | **Maerin Voss** | Sera to change her mind | She is already too late | *"I'm not asking you to say no"* |
 | **Harran Lecht** | To solve the crisis before the city starves | Grief has made him impatient in ways he cannot see | *"This is purely strategic"* |
 | **Cormac Drell** | To not have to decide again | Everyone will see his uncertainty collapse | His nine-weeks-ago yes is still the same yes |
-| **Ysel Maren** | The Inversion to succeed — all ten willing | Cormac's wavering will spread to others | She is not frightened herself |
-| **Aldric Stone** | To help — he has already chosen | That he chose wrong | He is not afraid of dying |
+| **Ysel Maren** | The Inversion to succeed, all ten willing | Cormac's wavering will spread to others | She is not frightened herself |
+| **Aldric Stone** | To help; he has already chosen | That he chose wrong | He is not afraid of dying |
 
 ---
 
 <details>
-<summary>📖 Faction Overview — Three Active Threats</summary>
+<summary>📖 Faction Overview - Three Active Threats</summary>
 
 ---
 
@@ -35,17 +35,17 @@
 
 **Symbol:** An obsidian disc with an inward-facing crescent. Worn inside clothing. Never displayed openly.
 
-**What they say they are:** A philosophical order devoted to honouring the completed passage of Auris into the beyond. They teach that the sun's departure was not a tragedy but a cosmological event — the god completing a journey, crossing a threshold that cannot and must not be reopened. To restore sunlight would be necromancy on a divine scale: dragging a soul back from beyond death. They are the guardians of that boundary. They are the passage now.
+**What they say they are:** A philosophical order devoted to honouring the completed passage of Auris into the beyond. They teach that the sun's departure was not a tragedy but a cosmological event - the god completing a journey, crossing a threshold that cannot and must not be reopened. To restore sunlight would be necromancy on a divine scale: dragging a soul back from beyond death. They are the guardians of that boundary. They are the passage now.
 
-**What they actually are:** An organisation led by an ancient undead intelligence called the Unmoved One — a Lich of extraordinary age whose name has been removed from every record it could reach. The Unmoved One does not want to prevent the Inversion out of theological conviction. It wants to corrupt the Inversion: redirect the ritual's catastrophic energy to extinguish rather than restore, turning Varenhold into an eternal night-state under its dominion. The city as larder. The Dawnborn as fuel. The Concordance's rank and file genuinely believe the theology. The leadership does not.
+**What they actually are:** An organisation led by an ancient undead intelligence called the Unmoved One - a Lich of extraordinary age whose name has been removed from every record it could reach. The Unmoved One does not want to prevent the Inversion out of theological conviction. It wants to corrupt the Inversion: redirect the ritual's catastrophic energy to extinguish rather than restore, turning Varenhold into an eternal night-state under its dominion. The city as larder. The Dawnborn as fuel. The Concordance's rank and file genuinely believe the theology. The leadership does not.
 
-**History:** The Concordance did not exist before the Twilight. It formed in the first decade after the sun stopped — originally a genuine grief-theology, a community of people who needed a way to understand the loss that wasn't "we failed." The Unmoved One found them approximately thirty years ago. It did not announce itself. It worked slowly, through intermediaries, through a doctrine of increasing rigidity, through the careful removal of anyone who asked the wrong questions. The current leadership (the Priests of the Inward Crescent) are almost entirely in the dark about what sits above them in the chain of command. The chain is three tiers: the Unlit (street operatives, cell-based), the Priests (doctrine and operations), and the Unmoved (the Lich and its chosen agents). No Priest has met the Unmoved One directly. They receive sealed orders. They follow them.
+**History:** The Concordance did not exist before the Twilight. It formed in the first decade after the sun stopped - originally a genuine grief-theology, a community of people who needed a way to understand the loss that wasn't "we failed." The Unmoved One found them approximately thirty years ago. It did not announce itself. It worked slowly, through intermediaries, through a doctrine of increasing rigidity, through the careful removal of anyone who asked the wrong questions. The current leadership (the Priests of the Inward Crescent) are almost entirely in the dark about what sits above them in the chain of command. The chain is three tiers: the Unlit (street operatives, cell-based), the Priests (doctrine and operations), and the Unmoved (the Lich and its chosen agents). No Priest has met the Unmoved One directly. They receive sealed orders. They follow them.
 
-**Thirty years of activity:** Watching the Dawnborn. Tracking anyone who got too close to the Inversion's mechanics. Removing obstacles — not through violence when it could be avoided, but through bureaucracy, information suppression, rumour, strategic placement of loyal individuals in city institutions. Keseph Vyne (Warden of the Amber Compact) is not a member; he is a convenient collaborator who profits from the same permanent twilight the Concordance needs. They have a working arrangement, not loyalty.
+**Thirty years of activity:** Watching the Dawnborn. Tracking anyone who got too close to the Inversion's mechanics. Removing obstacles - not through violence when it could be avoided, but through bureaucracy, information suppression, rumour, strategic placement of loyal individuals in city institutions. Keseph Vyne (Warden of the Amber Compact) is not a member; he is a convenient collaborator who profits from the same permanent twilight the Concordance needs. They have a working arrangement, not loyalty.
 
-**This session:** They lost their Dusk Priest in Session 3. The Solennite Blades in Scene 1 are Concordance-contracted — not ideologically aligned, simply hired. Their seer watches the open streets. They know the party visited Ellan Voss. They are not moving yet. They are waiting for the party to do enough of the work — assembling the Dawnborn, locating the ritual sequence — before moving to corrupt rather than prevent. Stopping the party early helps nobody. Letting them get close, then redirecting, is the plan.
+**This session:** They lost their Dusk Priest in Session 3. The Solennite Blades in Scene 1 are Concordance-contracted - not ideologically aligned, simply hired. Their seer watches the open streets. They know the party visited Ellan Voss. They are not moving yet. They are waiting for the party to do enough of the work (assembling the Dawnborn, locating the ritual sequence) before moving to corrupt rather than prevent. Stopping the party early helps nobody. Letting them get close, then redirecting, is the plan.
 
-**Keseph Vyne** (collaborator, not member) — Warden of the Amber Compact. Has suppressed Archive documents since Session 1. He profits from fifty years of twilight: amber trade monopolies, supply contracts, a political structure built entirely around permanent dark. The Concordance tolerates him because he does their suppression work for financial reasons, which is cleaner than ideological cooperation.
+**Keseph Vyne** (collaborator, not member) - Warden of the Amber Compact. Has suppressed Archive documents since Session 1. He profits from fifty years of twilight: amber trade monopolies, supply contracts, a political structure built entirely around permanent dark. The Concordance tolerates him because he does their suppression work for financial reasons, which is cleaner than ideological cooperation.
 - *Want:* The current arrangement to outlast anyone who would disrupt it.
 - *Fear:* The sun returns and his position is worthless overnight.
 - *Lie:* "This is a Compact security matter." It is a financial matter.
@@ -58,35 +58,35 @@
 
 **Symbol:** A bloom with one petal too many, center darker than it should be. Left somewhere visible as an invitation.
 
-**What they say they are:** A family. A refuge. The only community in Varenhold — possibly the world — that does not require you to be a category before it will look at you. They describe themselves as people who love beyond what the world permits: across species lines, across physical possibility, across the boundaries that theology and law and social disgust have drawn around what a person is allowed to be. They helped at least one such love fifty years ago, and they have been searching for what that love produced ever since. They do not frame any of this as aberration. They frame it as natural philosophy.
+**What they say they are:** A family. A refuge. The only community in Varenhold (possibly the world) that does not require you to be a category before it will look at you. They describe themselves as people who love beyond what the world permits: across species lines, across physical possibility, across the boundaries that theology and law and social disgust have drawn around what a person is allowed to be. They helped at least one such love fifty years ago, and they have been searching for what that love produced ever since. They do not frame any of this as aberration. They frame it as natural philosophy.
 
-**What they actually are:** A faction of people who began as genuine community and have calcified, over fifty years, into something much stranger. The original membership — interspecies couples, half-bloods who had no legal standing, people whose physical form fell outside classification — found each other in the early years of the Twilight, when the city's hierarchy was being reorganised and the voiceless were being systematically cut out. They genuinely helped Ellan Voss conceive Ixa. They genuinely kept that secret for fifty years. But the community has been running experiments for decades. On themselves, on willing participants, on not-entirely-willing participants. They describe this as "tending what grows in whatever shape it grows." The failures — the people whose transformations did not proceed as hoped — are still in the community. Still alive. Considerably changed.
+**What they actually are:** A faction of people who began as genuine community and have calcified, over fifty years, into something much stranger. The original membership (interspecies couples, half-bloods who had no legal standing, people whose physical form fell outside classification) found each other in the early years of the Twilight, when the city's hierarchy was being reorganised and the voiceless were being systematically cut out. They genuinely helped Ellan Voss conceive Ixa. They genuinely kept that secret for fifty years. But the community has been running experiments for decades. On themselves, on willing participants, on not-entirely-willing participants. They describe this as "tending what grows in whatever shape it grows." The failures (the people whose transformations did not proceed as hoped) are still in the community. Still alive. Considerably changed.
 
-**Leader:** Known only as the Gardener. No name given, no face shown to anyone below the innermost circle. Correspondence suggests extreme age — possibly older than the Twilight itself, possibly not human, possibly not entirely singular anymore. The Gardener's theology is this: love that refuses to be bounded by physical law is the closest thing to divinity the living world produces. Ixa is proof. Ixa should be with them. Ixa should help them make more proof.
+**Leader:** Known only as the Gardener. No name given, no face shown to anyone below the innermost circle. Correspondence suggests extreme age - possibly older than the Twilight itself, possibly not human, possibly not entirely singular anymore. The Gardener's theology is this: love that refuses to be bounded by physical law is the closest thing to divinity the living world produces. Ixa is proof. Ixa should be with them. Ixa should help them make more proof.
 
-**History:** Founded in the first decade of the Twilight by people who had no one else. Grew slowly, quietly, into the spaces the city left empty — the districts nobody policed, the dockside rooms nobody asked about, the communities of people who had nowhere else to go. For twenty years they were, genuinely, a refuge. Then the experimentation began. It started with willing participants trying to push the boundaries of what the Twilight's strange ambient energy allowed. It has not stopped. The Gardener believes the Twilight's energy — the same overflow that created Ixa — can be used to produce more like her. They have been trying for thirty years. Some attempts are still alive.
+**History:** Founded in the first decade of the Twilight by people who had no one else. Grew slowly, quietly, into the spaces the city left empty - the districts nobody policed, the dockside rooms nobody asked about, the communities of people who had nowhere else to go. For twenty years they were, genuinely, a refuge. Then the experimentation began. It started with willing participants trying to push the boundaries of what the Twilight's strange ambient energy allowed. It has not stopped. The Gardener believes the Twilight's energy (the same overflow that created Ixa) can be used to produce more like her. They have been trying for thirty years. Some attempts are still alive.
 
-**What they want this session:** Ixa. Not harmed — they are specific about this, earnest about this, and mean it completely. They want Ixa to come to them willingly. They will use warmth, recognition, community, the truth of what she is and where she came from. If Ixa refuses or the party intervenes: they send what they send. The failed experiments are not weapons to the Flowering. They are family members with a job to do. The distinction matters to the Flowering. It will not matter to the players in combat.
+**What they want this session:** Ixa. Not harmed - they are specific about this, earnest about this, and mean it completely. They want Ixa to come to them willingly. They will use warmth, recognition, community, the truth of what she is and where she came from. If Ixa refuses or the party intervenes: they send what they send. The failed experiments are not weapons to the Flowering. They are family members with a job to do. The distinction matters to the Flowering. It will not matter to the players in combat.
 
-**Posture this session:** Active approach — a private letter arrives for Ixa between Scenes 3 and 4. If Ixa engages or the party investigates the letter's origin, The Flowering makes a direct move. If Ixa ignores it: the move comes at the end of Scene 4, just before the Reckoning escalation. See new encounter block below.
+**Posture this session:** Active approach - a private letter arrives for Ixa between Scenes 3 and 4. If Ixa engages or the party investigates the letter's origin, The Flowering makes a direct move. If Ixa ignores it: the move comes at the end of Scene 4, just before the Reckoning escalation. See new encounter block below.
 
 ---
 
 ### 3. The Restorers
 
-**Symbol:** Two crossed lanterns, flame at both ends. Worn openly — they are not secret.
+**Symbol:** Two crossed lanterns, flame at both ends. Worn openly; they are not secret.
 
-**What they say they are:** A Society for the Return of Auris's Light. The organisation that has studied the ritual's failure for fifty years, identified the precise error (Ellan's withdrawal at the ninth position), determined the conditions for success, and has been waiting — with impeccable theological patience — for someone to ask for their help. They are Lawful Good. They are absolutely sure of this. They are very well-organised. They meet on Sevendays. They have a public hall.
+**What they say they are:** A Society for the Return of Auris's Light. The organisation that has studied the ritual's failure for fifty years, identified the precise error (Ellan's withdrawal at the ninth position), determined the conditions for success, and has been waiting (with impeccable theological patience) for someone to ask for their help. They are Lawful Good. They are absolutely sure of this. They are very well-organised. They meet on Sevendays. They have a public hall.
 
-**What they actually are:** Lawful Good and dangerous because of it. The Restorers are not corrupt, not infiltrated, not secretly working for someone else. They are exactly what they appear to be: a community of genuine believers who have spent fifty years building a theology around a second attempt at the ritual, convinced they have identified every point of failure and corrected for it. Their doctrine is right about most things and catastrophically wrong about one: they believe the cost of the ritual is acceptable. They have been convinced, by fifty years of study and grief and prayer, that the people who give themselves to the ritual are not dying — they are completing something. They have dressed a terrible thing in beautiful language and genuinely believe the dress.
+**What they actually are:** Lawful Good and dangerous because of it. The Restorers are not corrupt, not infiltrated, not secretly working for someone else. They are exactly what they appear to be: a community of genuine believers who have spent fifty years building a theology around a second attempt at the ritual, convinced they have identified every point of failure and corrected for it. Their doctrine is right about most things and catastrophically wrong about one: they believe the cost of the ritual is acceptable. They have been convinced, by fifty years of study and grief and prayer, that the people who give themselves to the ritual are not dying - they are completing something. They have dressed a terrible thing in beautiful language and genuinely believe the dress.
 
 **Leader:** Brother Edoran. He has led the Sevenday meetings for eleven years. Before that he was a junior priest at the Auris temple, then a mid-tier archivist, then a man who found the Restorers after a personal loss he has never fully described and began attending their meetings and never left. He is in his late forties. He is the most genuine person in any room he enters. He is convinced beyond argument that the ritual, done correctly, with all ten Dawnborn freely consenting, will return the sun. He is not wrong. He is wrong about what "freely consenting" looks like under the theology he has built around it. To Edoran, consent in the face of the city's suffering is still consent. Players who have read the faction prop have his contact information.
 
-**Maerin Voss** is a Restorer. She carries the priest's cord at her wrist. She has not told Ellan Voss directly — she has been working around Ellan's refusal for three years, hoping that the right evidence, the right moment, the right conversation would move her. She is not a fanatic. She is someone who believes she is helping and is not sure anymore whether she is.
+**Maerin Voss** is a Restorer. She carries the priest's cord at her wrist. She has not told Ellan Voss directly - she has been working around Ellan's refusal for three years, hoping that the right evidence, the right moment, the right conversation would move her. She is not a fanatic. She is someone who believes she is helping and is not sure anymore whether she is.
 
-**History:** Founded in Year 5 of the Twilight by a former participant in Corven's original ritual — not a Dawnborn, but one of the supporting circle. He watched the ritual fail at the ninth position, spent the rest of his life trying to understand why, and died without seeing a second attempt. The organisation he built outlasted him. It has been meeting weekly for forty-nine years. It has a library. It has a doctrine. It has been waiting.
+**History:** Founded in Year 5 of the Twilight by a former participant in Corven's original ritual - not a Dawnborn, but one of the supporting circle. He watched the ritual fail at the ninth position, spent the rest of his life trying to understand why, and died without seeing a second attempt. The organisation he built outlasted him. It has been meeting weekly for forty-nine years. It has a library. It has a doctrine. It has been waiting.
 
-**Posture this session:** Not a combat threat. Maerin Voss is present in the opener. If players are struggling against the Concordance or the Flowering, the Restorers can be persuaded (DC 13 Persuasion, or simply by sharing evidence of either faction's actual agenda) to act as active allies — they will provide intelligence, bodies, and sanctuary. They are convinced enemies of the Concordance's theology. Pointing Edoran at the Concordance's true goal — eternal night, not sacred passage — is the fastest way to make him a furious and very organised problem for the Concordance.
+**Posture this session:** Not a combat threat. Maerin Voss is present in the opener. If players are struggling against the Concordance or the Flowering, the Restorers can be persuaded (DC 13 Persuasion, or simply by sharing evidence of either faction's actual agenda) to act as active allies - they will provide intelligence, bodies, and sanctuary. They are convinced enemies of the Concordance's theology. Pointing Edoran at the Concordance's true goal (eternal night, not sacred passage) is the fastest way to make him a furious and very organised problem for the Concordance.
 
 </details>
 
@@ -95,7 +95,7 @@
 <div class="session-tree">
 
 <details>
-<summary>📁 Session Opener — The Stone Is Given</summary>
+<summary>📁 Session Opener - The Stone Is Given</summary>
 
 *Session 4 begins here: the party is leaving Ashring Third Lane with Ellan Voss. The Concordance has been watching this street for three years. They have minutes before someone moves.*
 
@@ -105,7 +105,7 @@
 **Setup:** Ashring Third Lane. Early amber. The lane is quiet in the way watched places are quiet.
 
 **Five senses:**
-- *Sight:* A figure at the far end of the lane — standing, not moving, not looking away. Another on a rooftop opposite. They are not hiding.
+- *Sight:* A figure at the far end of the lane - standing, not moving, not looking away. Another on a rooftop opposite. They are not hiding.
 - *Sound:* The low irregular resonance from the Ashring stones nearby.
 - *Smell:* Old stone, mineral, dry cold.
 - *Touch:* The air slightly warmer coming off Ellan's house. Outside it, normal amber cold.
@@ -118,11 +118,11 @@
 
 Before they reach the lane's end, Ellan stops.
 
-She reaches into her coat — not dramatic, the practiced motion of someone who has rehearsed it in her head many times — and holds out the Concordance Stone.
+She reaches into her coat (not dramatic, the practiced motion of someone who has rehearsed it in her head many times) and holds out the Concordance Stone.
 
 It fits in two hands. Heavy for its size. Eight cavities, each slightly warm to the touch. All eight empty. She has kept it empty for fifty years because the consent it requires was never hers to give on anyone else's behalf.
 
-> *"Corven built this. Each cavity belongs to one Dawnborn — their consent made object. Place all eight correctly, in the astronomical order of the ritual night, brightest star to dimmest, and shine any light through the aperture at the top. What it projects is the signal. Every stone in the Ashring will know it is time."*
+> *"Corven built this. Each cavity belongs to one Dawnborn - their consent made object. Place all eight correctly, in the astronomical order of the ritual night, brightest star to dimmest, and shine any light through the aperture at the top. What it projects is the signal. Every stone in the Ashring will know it is time."*
 
 She looks at each of them.
 
@@ -139,7 +139,7 @@ She looks at each of them.
 </details>
 
 <details>
-<summary>📄 Session 3 Recap — Already Played</summary>
+<summary>📄 Session 3 Recap - Already Played</summary>
 
 *The ward mechanic, Ellan's key speech, the Maerin/Sera confrontation, and the Ixa recognition beat all played in Session 3. Do not repeat them. The opener above picks up immediately after.*
 
@@ -160,9 +160,9 @@ Anyone who cannot find a real reason stands outside. The door stays open. That i
 <details>
 <summary>📄 Maerin's Arrival</summary>
 
-Mid-thirties, quick-moving, the kind of person who is always half a step ahead of where she should be. Something of Ellan in the shape of her face — cousins or second cousins, close enough to read once you know. She wears a priest's cord at her wrist, Auris-knotted, but she carries herself less like a penitent and more like someone who has made a private arrangement with her god that suits them both.
+Mid-thirties, quick-moving, the kind of person who is always half a step ahead of where she should be. Something of Ellan in the shape of her face - cousins or second cousins, close enough to read once you know. She wears a priest's cord at her wrist, Auris-knotted, but she carries herself less like a penitent and more like someone who has made a private arrangement with her god that suits them both.
 
-She appears as the last player speaks their reason — coming around the corner of the lane, moving fast, alone. She takes in the door, the panel, the party. She does not explain how she found it.
+She appears as the last player speaks their reason - coming around the corner of the lane, moving fast, alone. She takes in the door, the panel, the party. She does not explain how she found it.
 
 She steps to the panel and speaks her own reason without being invited. Not dramatic. The ward clicks.
 
@@ -173,31 +173,31 @@ She does not wait. She goes in.
 </details>
 
 <details>
-<summary>📄 Ellan — Key Lines & The Iza Beat</summary>
+<summary>📄 Ellan - Key Lines & The Iza Beat</summary>
 
 **Ellan answers the door before they finish reading the letter in the compartment.**
 
-Silver-grey hair cut short and close — the kind of cut that says she stopped performing a long time ago. Small-framed, slight, with amber-warm eyes the color of old resin. Hands steadier than they should be for someone who has lived under surveillance for three years. She moves with the deliberate economy of someone who has accepted that there will always be less time than she wants. She looks at each of them in turn. When her eyes reach Iza, something changes in her face — so briefly it might not have happened at all.
+Silver-grey hair cut short and close - the kind of cut that says she stopped performing a long time ago. Small-framed, slight, with amber-warm eyes the color of old resin. Hands steadier than they should be for someone who has lived under surveillance for three years. She moves with the deliberate economy of someone who has accepted that there will always be less time than she wants. She looks at each of them in turn. When her eyes reach Iza, something changes in her face, so briefly it might not have happened at all.
 
-> **GM — If Ixa is in the party [LOCKED: players do not know this]**
+> **GM - If Ixa is in the party [LOCKED: players do not know this]**
 >
-> When Ellan's gaze moves past Iza and reaches Ixa, she pauses — nothing visible, nothing anyone else would mark. But she looks at Ixa's hands once, quickly. Then her face does what faces do when they catch themselves doing something they cannot explain: it smooths.
+> When Ellan's gaze moves past Iza and reaches Ixa, she pauses - nothing visible, nothing anyone else would mark. But she looks at Ixa's hands once, quickly. Then her face does what faces do when they catch themselves doing something they cannot explain: it smooths.
 >
 > She will look at Ixa's hands one more time before the conversation ends. She will not say why.
 >
-> **What Ellan does not know:** She knows she lost a child to the ritual's overflow fifty years ago. She does not know the Crucible took that child and labeled her IX-A — her mother's ritual position, IX. She does not know Ixa survived. She has spent fifty years believing both her daughters are dead.
+> **What Ellan does not know:** She knows she lost a child to the ritual's overflow fifty years ago. She does not know the Crucible took that child and labeled her IX-A - her mother's ritual position, IX. She does not know Ixa survived. She has spent fifty years believing both her daughters are dead.
 >
-> **The truth of the title:** Ixa is the price of dawn. The ritual's overflow energy, when Ellan withdrew, did not dissipate — it went into Ellan, and the child born from it was taken by the Crucible before Ellan could hold her. The ritual has been asking the same question for fifty years. Ixa is the answer. What returning that answer costs is the question for Session 5.
+> **The truth of the title:** Ixa is the price of dawn. The ritual's overflow energy, when Ellan withdrew, did not dissipate - it went into Ellan, and the child born from it was taken by the Crucible before Ellan could hold her. The ritual has been asking the same question for fifty years. Ixa is the answer. What returning that answer costs is the question for Session 5.
 >
 > **For Ixa's player (if paying attention):** Perception DC 14 to notice Ellan looking at her hands. DC 17 to notice Ellan's hands share the same narrow bone structure. Neither check is a confirmation. Both are seeds.
 
 *"Theron finally sent someone. Good. Come in."*
 
-**If players ask why she mentions Theron specifically:** She did not send for him. He sent for her — or rather, he sent someone she could trust to carry a message she could believe. She has not seen Theron Waide in forty years. The last time she saw him was shortly after the ritual failed, when she was still looking for someone to blame. She does not blame him anymore. She blames the math. The math was always going to come out this way.
+**If players ask why she mentions Theron specifically:** She did not send for him. He sent for her - or rather, he sent someone she could trust to carry a message she could believe. She has not seen Theron Waide in forty years. The last time she saw him was shortly after the ritual failed, when she was still looking for someone to blame. She does not blame him anymore. She blames the math. The math was always going to come out this way.
 
-*(Players who ask what Theron did — beyond "revived Iza" — Ellan cannot tell them. She didn't know about the revival until recently. She thought her daughter died the night of the ritual, as she was told. She thought that for thirty-nine years. If players press: she goes quiet for a long time. Then: "He should be the one to tell you what he took from the Ashring to restart her heart. That is his story. Not mine." She does not say more. She does not know more. She does know that what Theron used to revive Iza was not his to use — it belonged to the ritual, to the sky, to something larger than his grief about what had gone wrong. She is not angry. She is just not the right person to explain it.)*
+*(Players who ask what Theron did, beyond "revived Iza", Ellan cannot tell them. She didn't know about the revival until recently. She thought her daughter died the night of the ritual, as she was told. She thought that for thirty-nine years. If players press: she goes quiet for a long time. Then: "He should be the one to tell you what he took from the Ashring to restart her heart. That is his story. Not mine." She does not say more. She does not know more. She does know that what Theron used to revive Iza was not his to use - it belonged to the ritual, to the sky, to something larger than his grief about what had gone wrong. She is not angry. She is just not the right person to explain it.)*
 
-She makes tea. She watches Iza throughout — not the way she watches the others. With the others she is assessing. With Iza, she is doing something much quieter. Something that does not have a name players will recognize.
+She makes tea. She watches Iza throughout - not the way she watches the others. With the others she is assessing. With Iza, she is doing something much quieter. Something that does not have a name players will recognize.
 
 **Key lines:**
 
@@ -211,15 +211,15 @@ She is quiet. Long enough that it stops feeling like a pause.
 
 She does not elaborate immediately. She looks at her hands.
 
-> *"She was — I was five months. Her father had died the winter before. The child was the last thing he left me. The last proof that something had been real between us, between two people who deserved more time than they got. I stood at my stone. I understood what the ritual required. I wanted to give it. I had told myself for months that I would."*
+> *"She was - I was five months. Her father had died the winter before. The child was the last thing he left me. The last proof that something had been real between us, between two people who deserved more time than they got. I stood at my stone. I understood what the ritual required. I wanted to give it. I had told myself for months that I would."*
 
-> *"Then I felt her move. And I understood: she had not consented. She had not been asked. She was not nine people with a choice — she was one person inside me who had no voice yet, and I was about to give that voice away. On her behalf. Without asking."*
+> *"Then I felt her move. And I understood: she had not consented. She had not been asked. She was not nine people with a choice - she was one person inside me who had no voice yet, and I was about to give that voice away. On her behalf. Without asking."*
 
 > *"The ritual required everything. I could not give everything that was not mine to give."*
 
 Silence.
 
-> *"She was born that night. During the aftermath. The ritual failed, the sun stopped, and she was born — and she did not breathe."*
+> *"She was born that night. During the aftermath. The ritual failed, the sun stopped, and she was born, and she did not breathe."*
 
 > *"They told me she did not breathe."*
 
@@ -236,20 +236,20 @@ A long silence. She picks up her cup. Sets it back down.
 
 ---
 
-**The Iza beat — choose one trigger before the session, tell no one else:**
+**The Iza beat - choose one trigger before the session, tell no one else:**
 
-The trigger is not physical resemblance. Ellan never saw Iza's face — she never saw the child she lost. What she recognizes is something else: the way Iza holds her hands, the particular quality of her stillness, something of her father that carried forward through birth and death and revival and eleven years of living and came out on the other side as this specific girl standing in this specific room. Love made flesh. Unmistakably, heartbreakingly, impossibly.
+The trigger is not physical resemblance. Ellan never saw Iza's face - she never saw the child she lost. What she recognizes is something else: the way Iza holds her hands, the particular quality of her stillness, something of her father that carried forward through birth and death and revival and eleven years of living and came out on the other side as this specific girl standing in this specific room. Love made flesh. Unmistakably, heartbreakingly, impossibly.
 
 | Option | How it plays |
 |---|---|
-| Iza says something precise and small — the careful kind of observation a careful person makes | Ellan sets down her cup. Very carefully. She does not look away from Iza for the rest of the conversation. |
-| *"Your name — how did you come to have it?"* | Ellan's answer is too long. She talks about the name's etymology, its origins, which regions use it — and players watching understand she is not answering the question she was asked. She is talking to buy time. |
-| Parting line: *"You were not an experiment. Whatever you were told about how you came to exist — you were never an experiment. You were the reason."* — she looks at Iza | She does not explain the second sentence. She does not need to. |
+| Iza says something precise and small, the careful kind of observation a careful person makes | Ellan sets down her cup. Very carefully. She does not look away from Iza for the rest of the conversation. |
+| *"Your name; how did you come to have it?"* | Ellan's answer is too long. She talks about the name's etymology, its origins, which regions use it - and players watching understand she is not answering the question she was asked. She is talking to buy time. |
+| Parting line: *"You were not an experiment. Whatever you were told about how you came to exist - you were never an experiment. You were the reason."* - she looks at Iza | She does not explain the second sentence. She does not need to. |
 
 </details>
 
 <details>
-<summary>📄 Maerin & Sera — Confrontation</summary>
+<summary>📄 Maerin & Sera - Confrontation</summary>
 
 It does not get loud. That is what makes it real.
 
@@ -263,7 +263,7 @@ Maerin: *"That's not an answer."*
 
 Sera: *"It's the only answer I have."*
 
-Players can intervene. They will not resolve it. Both are right. The gap between them is not an argument — it is a fact about how the world works.
+Players can intervene. They will not resolve it. Both are right. The gap between them is not an argument; it is a fact about how the world works.
 
 - **Maerin wants:** To hear Sera say she changed her mind. She will not get it.
 - **Maerin fears:** That she is too late to be part of whatever comes next.
@@ -274,9 +274,9 @@ Players can intervene. They will not resolve it. Both are right. The gap between
 <details>
 <summary>📄 Sera's Warning & Cliffhanger</summary>
 
-**Sera's warning — as they prepare to leave:**
+**Sera's warning - as they prepare to leave:**
 
-> *"The Reckoning has been asking about you by name. Not description — name. Someone gave them your names specifically. That's not standard intelligence work."*
+> *"The Reckoning has been asking about you by name. Not description - name. Someone gave them your names specifically. That's not standard intelligence work."*
 
 She does not elaborate. She does not need to.
 
@@ -284,7 +284,7 @@ She does not elaborate. She does not need to.
 
 ---
 
-**Cliffhanger:** As they leave, Ellan says — not dramatically, just factually: *"The Dawnless will know you came here. They watch this street. They have for three years."*
+**Cliffhanger:** As they leave, Ellan says - not dramatically, just factually: *"The Dawnless will know you came here. They watch this street. They have for three years."*
 
 She closes the door.
 
@@ -293,57 +293,57 @@ She closes the door.
 </details>
 
 <details>
-<summary>📁 Scene 1 — Combat: Concordance Unlit Cell</summary>
+<summary>📁 Scene 1 - Combat: Concordance Unlit Cell</summary>
 
 <details>
 <summary>📄 Five Senses & Setup</summary>
 
 **Five senses:**
-- *Sight:* The road to the Ashring, morning. Five figures standing in the road — not a military formation, something more precise than that. No weapons drawn. No shouting. One at the center, two flanking, two at the road edges. They have been here for a while.
+- *Sight:* The road to the Ashring, morning. Five figures standing in the road - not a military formation, something more precise than that. No weapons drawn. No shouting. One at the center, two flanking, two at the road edges. They have been here for a while.
 - *Sound:* Nothing from them. The road is quiet. From ahead: the low irregular resonance of the Ashring stones.
 - *Smell:* Cold stone and something faintly mineral. The specific dry-electrical smell building near the Ashring. Also, barely: incense. The kind burned in closed rooms.
-- *Touch:* The road is older here — uneven, tilted stones, roots long dead underneath.
+- *Touch:* The road is older here, uneven, tilted stones, roots long dead underneath.
 - *Air:* The amber-lit stillness. No wind. The five figures don't shift in it.
 
-**Setup:** Five Concordance Unlit operatives — a cell that has been tracking the party since the visit to Ellan Voss — intercept the road to the Ashring. They are not mercenaries. They are true believers in the doctrine: the door has closed, the passage is complete, what the party is doing is cosmological desecration. Their orders are to delay and intimidate, not kill. Killing the party here creates martyrs and questions. What they want is for the party to turn back, to feel watched, to understand that the Concordance is always one step ahead.
+**Setup:** Five Concordance Unlit operatives (a cell that has been tracking the party since the visit to Ellan Voss) intercept the road to the Ashring. They are not mercenaries. They are true believers in the doctrine: the door has closed, the passage is complete, what the party is doing is cosmological desecration. Their orders are to delay and intimidate, not kill. Killing the party here creates martyrs and questions. What they want is for the party to turn back, to feel watched, to understand that the Concordance is always one step ahead.
 
-**The watcher:** A sixth figure, never in the encounter itself — an older shadar-kai woman standing in a doorway twenty feet back, watching. If players move toward her, she steps inside and the door closes. She is the cell's upward contact. She does not fight. She is memorising faces. DC 15 Perception to notice her before she leaves.
+**The watcher:** A sixth figure, never in the encounter itself - an older shadar-kai woman standing in a doorway twenty feet back, watching. If players move toward her, she steps inside and the door closes. She is the cell's upward contact. She does not fight. She is memorising faces. DC 15 Perception to notice her before she leaves.
 
-**Secondary Objective (state before combat begins):** Take one Unlit operative alive. A captured operative carries a sealed document tube — inside, a partial asset list with the designation SUNRISE-4 (Sera Voss) and IX (Ellan Voss). The handwriting is two different people's. The document is too precise to be operational notes; it is a surveillance summary. Someone has been watching the Dawnborn for a long time and has them categorised.
+**Secondary Objective (state before combat begins):** Take one Unlit operative alive. A captured operative carries a sealed document tube - inside, a partial asset list with the designation SUNRISE-4 (Sera Voss) and IX (Ellan Voss). The handwriting is two different people's. The document is too precise to be operational notes; it is a surveillance summary. Someone has been watching the Dawnborn for a long time and has them categorised.
 
 </details>
 
 <details>
 <summary>📄 Enemies, Objectives & Tactics</summary>
 
-**Enemies — 5 combatants total (gestalt encounter, CR ~8):**
+**Enemies - 5 combatants total (gestalt encounter, CR ~8):**
 
-**Unlit Operative ×3** — *Medium humanoid (shadar-kai)*
-Pale-grey skin the color of old ash, eyes so dark they read as black in amber light. Close-cropped hair, dark. No insignia. No colors. Grey-charcoal clothing that reads as unremarkable until you look directly at the cut — it is precise. Made for this. They move like people who have practiced not being noticed, and this has made them visibly good at it.
+**Unlit Operative ×3** - *Medium humanoid (shadar-kai)*
+Pale-grey skin the color of old ash, eyes so dark they read as black in amber light. Close-cropped hair, dark. No insignia. No colors. Grey-charcoal clothing that reads as unremarkable until you look directly at the cut - it is precise. Made for this. They move like people who have practiced not being noticed, and this has made them visibly good at it.
 *→ Full stat block: Combat Cards section below. CR 5 each.*
 
-**Unlit Shadow-Keeper ×1** — *Medium humanoid (shadar-kai, cell commander)*
-Taller than the others. The obsidian disc at their neck is visible — the only piece of Concordance symbol the Unlit ever show to an enemy, and only when they intend the enemy to understand what is coming. Carries a shortsword and a focus rod, both of dark iron. Their eyes move from party member to party member with the specific quality of someone who already knows which one to worry about.
+**Unlit Shadow-Keeper ×1** - *Medium humanoid (shadar-kai, cell commander)*
+Taller than the others. The obsidian disc at their neck is visible - the only piece of Concordance symbol the Unlit ever show to an enemy, and only when they intend the enemy to understand what is coming. Carries a shortsword and a focus rod, both of dark iron. Their eyes move from party member to party member with the specific quality of someone who already knows which one to worry about.
 *→ Full stat block: Combat Cards section below. CR 8.*
 
-**Unlit Doctrinal Voice ×1** — *Medium humanoid (human, theological officer)*
+**Unlit Doctrinal Voice ×1** - *Medium humanoid (human, theological officer)*
 The one who speaks. Mid-fifties, unremarkable face, the voice of someone who has explained this many times and has not been moved by any response to it. Carries no visible weapon. This is not because they are unarmed.
 *→ Full stat block: Combat Cards section below. CR 7 (spellcasting).*
 
-**Combat ends when:** The Shadow-Keeper is captured or reduced to 0 HP. The remaining Unlit withdraw immediately and in silence — they do not linger. No last stand, no dramatic speech. They step back, regroup, and are gone. The Doctrinal Voice, if still standing, says one line before vanishing: *"You were warned. The record will show you were warned."*
+**Combat ends when:** The Shadow-Keeper is captured or reduced to 0 HP. The remaining Unlit withdraw immediately and in silence - they do not linger. No last stand, no dramatic speech. They step back, regroup, and are gone. The Doctrinal Voice, if still standing, says one line before vanishing: *"You were warned. The record will show you were warned."*
 
-**What players learn:** The Concordance has been tracking the Dawnborn by designation. The surveillance is older than the party's involvement. The cell structure means capturing one operative will not give them much — but the document tube will give them the designations and confirm the surveillance scope.
+**What players learn:** The Concordance has been tracking the Dawnborn by designation. The surveillance is older than the party's involvement. The cell structure means capturing one operative will not give them much, but the document tube will give them the designations and confirm the surveillance scope.
 
 **Tactical notes:**
-- Formation: Voice at rear (30 ft. back), Shadow-Keeper center, three Operatives forward across the road. They are not encircling — the flanks are open. They are expecting the party to stop and negotiate.
+- Formation: Voice at rear (30 ft. back), Shadow-Keeper center, three Operatives forward across the road. They are not encircling - the flanks are open. They are expecting the party to stop and negotiate.
 - Terrain: Road narrows between an old garden wall (three-quarters cover, left) and Ashring outer marker stones (half cover, right). No cover in the road itself.
-- The Operatives shadow-step if the party tries to break through — they do not need to run to close gaps.
+- The Operatives shadow-step if the party tries to break through; they do not need to run to close gaps.
 - The Voice does not move forward under any circumstances.
 
 </details>
 
 <details>
-<summary>📄 The Opening — Before Initiative</summary>
+<summary>📄 The Opening - Before Initiative</summary>
 
 The Doctrinal Voice speaks. Not loudly. They are close enough that they don't need to be loud.
 
@@ -359,29 +359,29 @@ One beat of silence.
 
 Then they stop talking. The Shadow-Keeper draws their shortsword.
 
-**Social path:** DC 14 Persuasion to get the Voice to hear a counter-argument. On success, they will agree to relay a message upward — not to stand down, but to relay. This is not a victory. It is a thirty-minute delay and the knowledge that the Concordance has a communication chain that goes somewhere specific. DC 18 Persuasion (or evidence that the party knows about the Unmoved One's actual goal) causes the Voice to pause for the first time. Long enough for someone to wonder what they actually know. They will not break. But they will pause.
+**Social path:** DC 14 Persuasion to get the Voice to hear a counter-argument. On success, they will agree to relay a message upward - not to stand down, but to relay. This is not a victory. It is a thirty-minute delay and the knowledge that the Concordance has a communication chain that goes somewhere specific. DC 18 Persuasion (or evidence that the party knows about the Unmoved One's actual goal) causes the Voice to pause for the first time. Long enough for someone to wonder what they actually know. They will not break. But they will pause.
 
 </details>
 
 <details>
-<summary>📄 The Obsidian Ring of Contrariwise — Item Reference</summary>
+<summary>📄 The Obsidian Ring of Contrariwise - Item Reference</summary>
 
 **Found on the Shadow-Keeper if searched after combat.**
 
-*Cursed Item, requires attunement (automatic on wearing — the ring attunes itself)*
+*Cursed Item, requires attunement (automatic on wearing, the ring attunes itself)*
 
 A Concordance interrogation tool. Designed to invert a subject's dominant personality traits for the purposes of breaking operational security or turning agents. The inversion is total, compulsive, and deeply confusing to the wearer, who retains full awareness of what they are doing while being completely unable to stop.
 
-**Effect:** While attuned, the wearer acts against their dominant nature — the greedy give things away, the obedient defy orders, the aggressive become helpful, the cautious become reckless. The wearer knows exactly what they're doing. They can't stop.
+**Effect:** While attuned, the wearer acts against their dominant nature - the greedy give things away, the obedient defy orders, the aggressive become helpful, the cautious become reckless. The wearer knows exactly what they're doing. They can't stop.
 
-**Removal:** *Remove Curse* (DC 15) or Wisdom saving throw DC 20 after 24 hours of rest. The wearer physically resists removal attempts — not because they want to, but because the ring wants to.
+**Removal:** *Remove Curse* (DC 15) or Wisdom saving throw DC 20 after 24 hours of rest. The wearer physically resists removal attempts, not because they want to, but because the ring wants to.
 
 **What it tells players:** If brought to Theron, he identifies it immediately and looks extremely troubled. *"They were using these on people. To break them."* He takes a moment. *"That's significantly worse than I thought they were."* The ring has been in the Shadow-Keeper's possession for years. It has the wear of something they have used before.
 
 </details>
 
 <details>
-<summary>📄 Combat Cards — Full Stat Blocks</summary>
+<summary>📄 Combat Cards - Full Stat Blocks</summary>
 
 ---
 
@@ -401,7 +401,7 @@ A Concordance interrogation tool. Designed to invert a subject's dominant person
 
 ***Shadow Step (Bonus Action, Recharge 4–6).*** While in dim light or darkness, teleports up to 30 ft. to another dim or dark space. Arrives with advantage on the first melee attack before end of turn. Varenhold's amber twilight always qualifies.
 
-***Cell Discipline.*** Cannot be charmed or frightened. Knows nothing above their own cell — a captured Operative cannot reveal names or locations they do not have.
+***Cell Discipline.*** Cannot be charmed or frightened. Knows nothing above their own cell - a captured Operative cannot reveal names or locations they do not have.
 
 ***Pack Tactics.*** Advantage on attack rolls against a creature when at least one ally is within 5 ft. of it.
 
@@ -415,7 +415,7 @@ A Concordance interrogation tool. Designed to invert a subject's dominant person
 
 **REACTIONS**
 
-***Fade.*** When reduced to 0 HP, the Operative makes one final Shadow Step before falling. They arrive unconscious but at the new location — recovery is possible if someone reaches them.
+***Fade.*** When reduced to 0 HP, the Operative makes one final Shadow Step before falling. They arrive unconscious but at the new location; recovery is possible if someone reaches them.
 
 > *Tactics: Open at range, Shadow Step into melee when an ally is adjacent. Prioritise flanking over frontal engagement. At 15 HP: Shadow Step to cover and switch to crossbow only. Will not pursue. Will withdraw the instant the Shadow-Keeper goes down.*
 
@@ -441,7 +441,7 @@ A Concordance interrogation tool. Designed to invert a subject's dominant person
 
 ***Twilight Awareness.*** Cannot be surprised while in dim light or darkness. Perceives invisible creatures within 15 ft. as blurred silhouettes (DC 14 to pinpoint).
 
-***Doctrine Hold.*** Immune to spells that would read its thoughts or compel truth. It does not know why — the Concordance administered something years ago that it accepted without question.
+***Doctrine Hold.*** Immune to spells that would read its thoughts or compel truth. It does not know why - the Concordance administered something years ago that it accepted without question.
 
 **ACTIONS**
 
@@ -457,7 +457,7 @@ A Concordance interrogation tool. Designed to invert a subject's dominant person
 
 ***Interpose Shadow.*** When an ally within 10 ft. is hit, the Shadow-Keeper takes half the damage instead (split equally).
 
-> *Tactics: Opens with Enveloping Dark. Shadow Steps to melee frontliner and holds pressure. Uses Cell Command to direct Operative attacks each time it repositions. At 30 HP: stops fighting, states precisely: "This engagement is complete." Will not run — will formally surrender and say nothing.*
+> *Tactics: Opens with Enveloping Dark. Shadow Steps to melee frontliner and holds pressure. Uses Cell Command to direct Operative attacks each time it repositions. At 30 HP: stops fighting, states precisely: "This engagement is complete." Will not run; will formally surrender and say nothing.*
 
 ---
 
@@ -483,13 +483,13 @@ A Concordance interrogation tool. Designed to invert a subject's dominant person
 
 **TRAITS**
 
-***Doctrinal Certainty.*** Immune to being charmed. Advantage on Wisdom saving throws. If a spell attempts to alter its beliefs or compel action against its doctrine, the spell automatically fails — treat as legendary resistance (3/day).
+***Doctrinal Certainty.*** Immune to being charmed. Advantage on Wisdom saving throws. If a spell attempts to alter its beliefs or compel action against its doctrine, the spell automatically fails, treat as legendary resistance (3/day).
 
 ***Back Line.*** Never moves within 30 ft. of a player voluntarily.
 
 **ACTIONS**
 
-***Toll the Dead (Cantrip).*** One creature within 60 ft.: DC 15 Wis save or 9 (2d8) necrotic — 2d12 if missing HP.
+***Toll the Dead (Cantrip).*** One creature within 60 ft.: DC 15 Wis save or 9 (2d8) necrotic - 2d12 if missing HP.
 
 ***Hold Person (2nd slot).*** One humanoid within 60 ft.: DC 15 Wis save or paralyzed 1 minute. Repeat end of each turn.
 
@@ -510,16 +510,16 @@ A Concordance interrogation tool. Designed to invert a subject's dominant person
 </details>
 
 <details>
-<summary>📁 Scene 2 — The Diagnostic Circle: What the Stones Remember</summary>
+<summary>📁 Scene 2 - The Diagnostic Circle: What the Stones Remember</summary>
 
 <details>
 <summary>📄 Setup & The Empty Box</summary>
 
-The Dusk Priest's death in Session 3 did something to the Ashring. The stones are no longer dormant — they pulse with a slow rhythm like a held breath. This is not comfortable.
+The Dusk Priest's death in Session 3 did something to the Ashring. The stones are no longer dormant - they pulse with a slow rhythm like a held breath. This is not comfortable.
 
 **The hidden hollow:** DC 12 Investigation to find without looking; DC 8 if players search the dais deliberately. Inside the underface of the central dais, a hollow has been carved. Inside it: an eight-sided vessel of the same stone as the Primer Stones, roughly the size of two closed fists. Eight empty slots, each shaped for a specific insert. The vessel has been here for fifty years. The slots have never been filled.
 
-**What it is:** Corven called it the *Concordance Stone*. Players will call it the puzzle box. It is the Inversion's physical activation mechanism — not a metaphor, an engineering component. Eight Ritual Cubes, one held by each of the eight living Dawnborn, must be placed inside in the correct astronomical order. When complete and lit with any light source, the box projects the activation image: a bird, the old dawn-symbol. This is the signal that begins the Inversion.
+**What it is:** Corven called it the *Concordance Stone*. Players will call it the puzzle box. It is the Inversion's physical activation mechanism - not a metaphor, an engineering component. Eight Ritual Cubes, one held by each of the eight living Dawnborn, must be placed inside in the correct astronomical order. When complete and lit with any light source, the box projects the activation image: a bird, the old dawn-symbol. This is the signal that begins the Inversion.
 
 **Where are the cubes?** Each living Dawnborn received theirs from Corven fifty years ago, shortly before the original ritual. He told them it was "a record of participation." He did not explain further. Most have had it in a drawer or on a shelf their entire lives. All of them know, on some level, what it is. Some have been waiting for someone to come for it.
 
@@ -528,7 +528,7 @@ The Dusk Priest's death in Session 3 did something to the Ashring. The stones ar
 </details>
 
 <details>
-<summary>📄 The Diagnostic Puzzle — Each Stone's Echo</summary>
+<summary>📄 The Diagnostic Puzzle - Each Stone's Echo</summary>
 
 Each stone now broadcasts a psychic impression of its assigned Dawnborn's internal relationship with the ritual. Not a memory. An emotional state rendered as image and sensation.
 
@@ -536,22 +536,22 @@ Each stone now broadcasts a psychic impression of its assigned Dawnborn's intern
 
 | Stone | Vision | What it reveals |
 |-------|--------|-----------------|
-| **Stone 1** — Sera Voss | A woman standing in a doorway. Already dressed to go out. She has been dressed for an hour. She is waiting for someone to tell her it is time. | She said yes. She is ready. She is waiting. Find her — she will give the cube immediately. |
-| **Stone 2** — Tomas Areth | A man at a desk covered in calculations, all checked and rechecked. One column crossed out and rewritten four times. The answer is the same each time. He cannot stop checking. | He knows the sequence. He fears it has an error he cannot find. Approachable; needs someone to trust the math with him. |
-| **Stone 3** — Ysel Maren | A woman looking at a door she has already walked through. She is not looking back the way someone hesitates. She is looking back the way someone says goodbye. | Ready for months. She wants someone to have noticed. Cube goes freely — but ask genuinely how she is. |
-| **Stone 4** — Cormac Drell | A man holding something invisible. His grip is very tight. He does not know if he is holding on or holding it back. | He said yes nine weeks ago. He does not know if he still means it. He has not examined it because examining it might break it. The cube is with him. He has not put it away. |
-| **Stone 5** — Lira Anwick | A pair of hands, and a smaller pair nested inside them. The smaller pair needs the larger pair to stay. | Someone depends on her. She believes leaving them is the thing she cannot do. The cube is at the Healing House. Approach gently — this is a harder conversation. |
-| **Stone 6** — Petra Vane | Darkness. The stone is cold. The impression is absent — not blocked, not hidden. She hasn't been seen in the city in three weeks. | She is the one they cannot find. Her location is Session 5's opening problem. Her cube will require finding her first. |
-| **Stone 7** — Nin Fletch | A road going in two directions at once. The figure at the crossroads stands still, as if the choice might resolve itself if left alone long enough. | They will say yes if asked directly and waited for. They have been waiting for an excuse not to choose. Remove the excuse: walk to them and ask. |
-| **Stone 8** — Orya Doss | A map with one location circled, then circled again, then again until the paper is worn through at the center. | She knows where she needs to be. She has been ready. She simply has not told anyone. Go find her — she is probably already at home waiting. |
-| **Stone 9** — Aldric Stone | A forge. The heat is fine. Work is good. A man finishing a piece that was done three weeks ago. He keeps refining it because there is nothing else to do while he waits. | Already yes. Has been for years. The cube is in his apron pocket. He has been carrying it for three weeks. **Start here.** |
-| **Stone 10** — Davin Shore | Cold. No vision. Not blocked, not hidden — empty. Gone for twenty years. | This Dawnborn is dead. His stone has been cold since the day he died. His cube was kept by his daughter Mira Shore, a woodcutter three hours east of the city. She does not know what it is. She has had it since she was four. This is a Session 5 problem. |
+| **Stone 1** - Sera Voss | A woman standing in a doorway. Already dressed to go out. She has been dressed for an hour. She is waiting for someone to tell her it is time. | She said yes. She is ready. She is waiting. Find her; she will give the cube immediately. |
+| **Stone 2** - Tomas Areth | A man at a desk covered in calculations, all checked and rechecked. One column crossed out and rewritten four times. The answer is the same each time. He cannot stop checking. | He knows the sequence. He fears it has an error he cannot find. Approachable; needs someone to trust the math with him. |
+| **Stone 3** - Ysel Maren | A woman looking at a door she has already walked through. She is not looking back the way someone hesitates. She is looking back the way someone says goodbye. | Ready for months. She wants someone to have noticed. Cube goes freely, but ask genuinely how she is. |
+| **Stone 4** - Cormac Drell | A man holding something invisible. His grip is very tight. He does not know if he is holding on or holding it back. | He said yes nine weeks ago. He does not know if he still means it. He has not examined it because examining it might break it. The cube is with him. He has not put it away. |
+| **Stone 5** - Lira Anwick | A pair of hands, and a smaller pair nested inside them. The smaller pair needs the larger pair to stay. | Someone depends on her. She believes leaving them is the thing she cannot do. The cube is at the Healing House. Approach gently; this is a harder conversation. |
+| **Stone 6** - Petra Vane | Darkness. The stone is cold. The impression is absent - not blocked, not hidden. She hasn't been seen in the city in three weeks. | She is the one they cannot find. Her location is Session 5's opening problem. Her cube will require finding her first. |
+| **Stone 7** - Nin Fletch | A road going in two directions at once. The figure at the crossroads stands still, as if the choice might resolve itself if left alone long enough. | They will say yes if asked directly and waited for. They have been waiting for an excuse not to choose. Remove the excuse: walk to them and ask. |
+| **Stone 8** - Orya Doss | A map with one location circled, then circled again, then again until the paper is worn through at the center. | She knows where she needs to be. She has been ready. She simply has not told anyone. Go find her; she is probably already at home waiting. |
+| **Stone 9** - Aldric Stone | A forge. The heat is fine. Work is good. A man finishing a piece that was done three weeks ago. He keeps refining it because there is nothing else to do while he waits. | Already yes. Has been for years. The cube is in his apron pocket. He has been carrying it for three weeks. **Start here.** |
+| **Stone 10** - Davin Shore | Cold. No vision. Not blocked, not hidden - empty. Gone for twenty years. | This Dawnborn is dead. His stone has been cold since the day he died. His cube was kept by his daughter Mira Shore, a woodcutter three hours east of the city. She does not know what it is. She has had it since she was four. This is a Session 5 problem. |
 
 *Stone 6b (the Iza position, marked by a worn depression in the dais floor rather than a standing stone): no impression, no vision. Just warmth in the air above it. It has no explanation that is comfortable to look at directly.*
 
 **What players learn from a successful reading of all stones:**
 - Priority order: Aldric (Stone 9, start here) → Sera, Ysel, Orya, Tomas, Nin Fletch (willing or near-willing) → Cormac (wavering, needs care) → Lira (harder) → Petra Vane (missing, Session 5)
-- Davin Shore's cube is with his daughter outside the city — the box can only be completed in Session 5 unless they go get it now
+- Davin Shore's cube is with his daughter outside the city - the box can only be completed in Session 5 unless they go get it now
 - The box needs 8 cubes. They will not have all 8 today.
 
 **Also on the dais:** The activation sequence (brightest to dimmest stars visible on the ritual night) is encoded in the dais's central star map carving. DC 15 Arcana to read it correctly; Tomas Areth can assist (advantage). This is the ORDER for placing cubes in Session 5.
@@ -561,12 +561,12 @@ Each stone now broadcasts a psychic impression of its assigned Dawnborn's intern
 </details>
 
 <details>
-<summary>📁 Scene 3 — First Cube: Aldric at the Forge</summary>
+<summary>📁 Scene 3 - First Cube: Aldric at the Forge</summary>
 
 <details>
 <summary>📄 Five Senses & Setup</summary>
 
-Players go directly to Aldric Stone — the Diagnostic showed them Stone 9 without ambiguity: already yes, already ready. His forge is in the Ashring District, three minutes from the circle. They can smell it before they see it: coal smoke, iron, the specific dry heat of active metalwork.
+Players go directly to Aldric Stone - the Diagnostic showed them Stone 9 without ambiguity: already yes, already ready. His forge is in the Ashring District, three minutes from the circle. They can smell it before they see it: coal smoke, iron, the specific dry heat of active metalwork.
 
 **Five senses:**
 - *Sight:* A wide-doored forge, open to the street. Amber light that is actual fire, not ritual. A large man in a leather apron, working at something that was clearly finished days ago.
@@ -580,7 +580,7 @@ Players go directly to Aldric Stone — the Diagnostic showed them Stone 9 witho
 <details>
 <summary>📄 The Scene</summary>
 
-On the workbench behind him: nine small forged pieces. Not matching, not identical. Each one the size of two fingers held together — dark iron, warm-worked, slightly rough at the edges in the way that means intentional, not incomplete. Each one is different. He has been making these for three weeks.
+On the workbench behind him: nine small forged pieces. Not matching, not identical. Each one the size of two fingers held together - dark iron, warm-worked, slightly rough at the edges in the way that means intentional, not incomplete. Each one is different. He has been making these for three weeks.
 
 He finishes the strike. Sets the hammer down. Turns.
 
@@ -592,9 +592,9 @@ Not a question. He does not reach for his apron pocket. He stands with his hands
 
 **If players name the Dawnborn and show they know who they are as people:**
 
-He crosses to the workbench. Counts out the nine pieces into his palm — one by one, placed carefully, the kind of counting that means he has done it many times before. He holds them out to the party.
+He crosses to the workbench. Counts out the nine pieces into his palm - one by one, placed carefully, the kind of counting that means he has done it many times before. He holds them out to the party.
 
-> *"Find them. Give each one theirs — after they hand you the cube. Not before. I need to know they're saying yes to the work. Not to me."*
+> *"Find them. Give each one theirs - after they hand you the cube. Not before. I need to know they're saying yes to the work. Not to me."*
 
 **If players don't know the Dawnborn's individual situations:**
 
@@ -602,7 +602,7 @@ He looks at them for a long moment. Turns back to the anvil. *"Learn them before
 
 ---
 
-He reaches into his apron. The cube is warm. Not body-heat warm — warm the way that has nothing to do with him.
+He reaches into his apron. The cube is warm. Not body-heat warm; warm the way that has nothing to do with him.
 
 He holds it out in his open palm a moment before handing it over.
 
@@ -612,11 +612,11 @@ He looks at it.
 
 > *"I think the ritual is already asking."*
 
-He places it in the box himself. The slot accepts it. The box hums once — lower and different than before — and settles.
+He places it in the box himself. The slot accepts it. The box hums once (lower and different than before) and settles.
 
 He sets his hand on the hammer without picking it up.
 
-> *"One more thing. When you're standing at the circle and one of them isn't sure — any one of them, it doesn't matter what's at stake by that point — you stop. Not because of what stopping costs. Because of what going forward without it means. The ritual doesn't want ten warm bodies."*
+> *"One more thing. When you're standing at the circle and one of them isn't sure, any one of them, it doesn't matter what's at stake by that point, you stop. Not because of what stopping costs. Because of what going forward without it means. The ritual doesn't want ten warm bodies."*
 
 He looks at them.
 
@@ -626,7 +626,7 @@ This is not a request the party can sidestep. The cube has already been given. H
 
 **What players leave with:**
 - Cube 1 (Slot 9). Already warm. The box hums differently now.
-- Nine forged pieces — one per remaining Dawnborn. Made by a man saying goodbye to nine people he loves, one piece at a time, over three weeks alone at a forge.
+- Nine forged pieces - one per remaining Dawnborn. Made by a man saying goodbye to nine people he loves, one piece at a time, over three weeks alone at a forge.
 - A binding promise that returns at the Cormac scene, the Lira scene, and at the circle itself.
 - The knowledge that the ritual has already begun to stir.
 
@@ -638,14 +638,14 @@ This is not a request the party can sidestep. The cube has already been given. H
 
 *On Lira:* *"She has someone. None of us have asked who."* A pause that lasts too long. *"We should have asked."*
 
-*On Nin Fletch:* *"Give them time. Don't press. They'll come to yes if someone stands at the crossroads with them. They've never needed convincing — they've needed company."*
+*On Nin Fletch:* *"Give them time. Don't press. They'll come to yes if someone stands at the crossroads with them. They've never needed convincing; they've needed company."*
 
 *On Petra Vane:* *"Three weeks. Nobody's seen her."* He picks up the hammer. Does not strike. Sets it down. *"She wouldn't hide. She'd leave. Find her before someone else does."*
 
 </details>
 
 <details>
-<summary>📄 Tomas Areth — Cube Collection</summary>
+<summary>📄 Tomas Areth - Cube Collection</summary>
 
 *Type: The Puzzle. He needs a second mind on the sequence before he can let go.*
 
@@ -653,7 +653,7 @@ This is not a request the party can sidestep. The cube has already been given. H
 *Fear:* That his activation sequence contains an error he will not find until the moment it matters and cannot be fixed.
 *Lie:* He is not afraid. He has checked the same column four times and cannot check it a fifth time alone, and this does not frighten him at all.
 
-*Physical:* Early forties. Thin, deliberate. Ink stains on his right hand — not today's, permanent. Four versions of the same calculation sit on his desk in four different inks. His notebook is open to a page whose binding has cracked from being read too many times. He does not look like a man who has been waiting. He looks like a man who has been working.
+*Physical:* Early forties. Thin, deliberate. Ink stains on his right hand - not today's, permanent. Four versions of the same calculation sit on his desk in four different inks. His notebook is open to a page whose binding has cracked from being read too many times. He does not look like a man who has been waiting. He looks like a man who has been working.
 
 **Setup:** He sees them. He sees the box. He is quiet for too long.
 
@@ -661,7 +661,7 @@ This is not a request the party can sidestep. The cube has already been given. H
 
 He opens the notebook to the sequence page. Eight columns of star designations, astronomical notation from fifty years ago.
 
-> *"This is the activation order. Brightest to dimmest, as they appeared on the ritual night. This is how the cubes go into the box. I have checked it four times. I cannot check it a fifth — I have looked at it too long to see it anymore. I need someone else to go through it with me."*
+> *"This is the activation order. Brightest to dimmest, as they appeared on the ritual night. This is how the cubes go into the box. I have checked it four times. I cannot check it a fifth - I have looked at it too long to see it anymore. I need someone else to go through it with me."*
 
 **The Puzzle:**
 
@@ -669,11 +669,11 @@ He hands over the star charts and a rubbing of the Ashring dais's central star m
 
 - **DC 14 Arcana** to work through it independently.
 - Advantage if players visited the Ashring dais this session and examined the star map.
-- Tomas assists if asked — also grants advantage.
-- **On success:** The sequence confirms — with one catch. A potential transposition in the sixth column. The moment someone points to it, Tomas catches it: *"There. I have been staring at that for three days and my eye kept sliding past it."* The relief is physical. He marks it, closes the notebook, and holds it still for a moment.
+- Tomas assists if asked, also grants advantage.
+- **On success:** The sequence confirms - with one catch. A potential transposition in the sixth column. The moment someone points to it, Tomas catches it: *"There. I have been staring at that for three days and my eye kept sliding past it."* The relief is physical. He marks it, closes the notebook, and holds it still for a moment.
 - **On failure:** 30 more minutes of work, then automatic success. He is patient with genuine effort. He is impatient only with people who pretend to check without looking.
 
-**After verification — his three questions:**
+**After verification - his three questions:**
 
 He is quiet. Then:
 
@@ -683,11 +683,11 @@ He asks these in order. Do not rush past them.
 
 1. *"Is Ellan Voss still alive?"* [Yes] *"I didn't know that. I assumed the Dawnless had her years ago."*
 2. *"All ten. Not nine. Ten."* [Confirmed] *"Then who is the tenth? There was always one we could not account for."*
-3. *"When you say freely — you mean actually freely. Not convinced because the alternative is worse."* [Confirmed] *"Then I have to think about whether I am free. Give me a moment."*
+3. *"When you say freely - you mean actually freely. Not convinced because the alternative is worse."* [Confirmed] *"Then I have to think about whether I am free. Give me a moment."*
 
 He is quiet. Not performing thought. Actually in it. Players who interrupt receive no hostile response. He simply waits until he is done.
 
-> *"I will give you the sequence. But understand this: if this fails — if it is nine voices instead of ten — the sequence is now in the wrong hands. Not yours. Anyone who comes after you. I am trusting you with the mechanism. Do not use it like one."*
+> *"I will give you the sequence. But understand this: if this fails, if it is nine voices instead of ten, the sequence is now in the wrong hands. Not yours. Anyone who comes after you. I am trusting you with the mechanism. Do not use it like one."*
 
 Cube and verified sequence together. He does not separate them.
 
@@ -702,16 +702,16 @@ Not hostile. Absolute.
 ---
 
 <details>
-<summary>📄 Sera Voss — Cube Collection</summary>
+<summary>📄 Sera Voss - Cube Collection</summary>
 
 *Want:* To do the thing she has spent years making possible for others.
-*Fear:* That her knowledge of the Dawnborn — their locations, their states, their silences — makes her yes an obligation wearing the mask of choice.
+*Fear:* That her knowledge of the Dawnborn (their locations, their states, their silences) makes her yes an obligation wearing the mask of choice.
 *Lie:* *"I've been waiting for you."* She has been waiting for anyone.
 
-*Physical:* Forties, deliberate, the kind of person who has had a plan for every room she walked into for the last twenty years. Voice steadied by practice — she has said difficult things aloud to herself until they stopped shaking. A small dark-stone box on the table when the party arrives. She put it there before they came.
+*Physical:* Forties, deliberate, the kind of person who has had a plan for every room she walked into for the last twenty years. Voice steadied by practice - she has said difficult things aloud to herself until they stopped shaking. A small dark-stone box on the table when the party arrives. She put it there before they came.
 
 **Five senses:**
-- *Sight:* A clean room above the Ashring Quartermaster office. Maps on the walls — districts, stone positions, dates marked and crossed out. The box on the table.
+- *Sight:* A clean room above the Ashring Quartermaster office. Maps on the walls - districts, stone positions, dates marked and crossed out. The box on the table.
 - *Sound:* Quiet. Map-paper quiet. She speaks when she is ready.
 - *Smell:* Ink and old wood and the faint mineral edge of Ashring stone dust that has been in this room for years.
 - *Touch:* Table worn smooth at the edges from hands placed there many times.
@@ -725,9 +725,9 @@ If players describe the stone echoes: she listens without correction. She alread
 
 She looks at the box.
 
-> *"I know these people. I know what Cormac's wavering looks like and when it usually resolves. I know what Lira is protecting at the Healing House. I know that Tomas checked his sequence four times last night because I can hear his pen through the wall. I need to say yes because I want to — not because I know too much about what happens if I don't. So: do you want to know why I want to?"*
+> *"I know these people. I know what Cormac's wavering looks like and when it usually resolves. I know what Lira is protecting at the Healing House. I know that Tomas checked his sequence four times last night because I can hear his pen through the wall. I need to say yes because I want to - not because I know too much about what happens if I don't. So: do you want to know why I want to?"*
 
-**Unlock:** Ask her why she wants to. Not "are you ready" — wrong question. Not urgency, not stakes. Just: *Why?*
+**Unlock:** Ask her why she wants to. Not "are you ready" - wrong question. Not urgency, not stakes. Just: *Why?*
 
 If asked genuinely: *"Because I have spent twenty years making sure this was possible for other people. I would like to find out if I was right."* Cube goes freely.
 
@@ -737,20 +737,20 @@ If asked genuinely: *"Because I have spent twenty years making sure this was pos
 
 No cube. She waits. DC 14 Insight: she wants to be *asked*, not *convinced*.
 
-**After the cube:** She hands over a current list of Dawnborn locations and states — she has been maintaining it. *"Aldric you've met. Try Ysel next. She's been ready longer than she's let on, and she's tired of no one noticing."*
+**After the cube:** She hands over a current list of Dawnborn locations and states - she has been maintaining it. *"Aldric you've met. Try Ysel next. She's been ready longer than she's let on, and she's tired of no one noticing."*
 
 </details>
 
 ---
 
 <details>
-<summary>📄 Ysel Maren — Cube Collection</summary>
+<summary>📄 Ysel Maren - Cube Collection</summary>
 
-*Want:* Every voice at the circle to be genuinely free — including her own.
+*Want:* Every voice at the circle to be genuinely free, including her own.
 *Fear:* That Cormac's wavering will spread. That courage travels in one direction and doubt in the other.
 *Lie:* She is not frightened herself. She has examined this at length and concluded it does not qualify. She is wrong. The conclusion is still genuinely hers.
 
-*Physical:* Ashfen Clan bearing — the quiet that comes from knowing exactly which space in a room belongs to you. Tall; when seated she reads the same height as people standing. She does not perform calm. She finished performing anything else a long time ago. Her cube is already in her coat pocket. She put it there before dawn.
+*Physical:* Ashfen Clan bearing - the quiet that comes from knowing exactly which space in a room belongs to you. Tall; when seated she reads the same height as people standing. She does not perform calm. She finished performing anything else a long time ago. Her cube is already in her coat pocket. She put it there before dawn.
 
 **Five senses:**
 - *Sight:* The Dawnhall's side courtyard. She is there before the party arrives, sitting on the bench, face turned toward the amber sky. Not praying. Just looking.
@@ -769,7 +769,7 @@ She reaches into her coat pocket. Does not hand the cube over yet.
 
 Not a demand. A request from someone who has been waiting a long time for someone to think of it.
 
-**Unlock:** Ask her how she is. Not "are you ready" — she'll say that's the wrong question. Not a formality. Just: *How are you?*
+**Unlock:** Ask her how she is. Not "are you ready" - she'll say that's the wrong question. Not a formality. Just: *How are you?*
 
 If asked genuinely, she is quiet for a moment:
 
@@ -777,7 +777,7 @@ If asked genuinely, she is quiet for a moment:
 
 She hands over the cube.
 
-> *"His stone isn't lit yet. Whatever you find him doing at the Dawnhall — that's been happening for three weeks. I've been deciding whether to say something."*
+> *"His stone isn't lit yet. Whatever you find him doing at the Dawnhall - that's been happening for three weeks. I've been deciding whether to say something."*
 
 She stands. *"I've decided to let you try first."*
 
@@ -787,14 +787,14 @@ She stands. *"I've decided to let you try first."*
 
 No check. One real question, asked without agenda. She has been patient for seven months.
 
-**After the cube:** She will be at the Dawnhall when players arrive for Scene 4. She is the one who asks Cormac the question that opens that scene. Her presence is not coincidence — it is someone who has been watching and finally decided to act.
+**After the cube:** She will be at the Dawnhall when players arrive for Scene 4. She is the one who asks Cormac the question that opens that scene. Her presence is not coincidence; it is someone who has been watching and finally decided to act.
 
 </details>
 
 ---
 
 <details>
-<summary>📄 Lira Anwick — Healing House Introduction (Full Scene in Session 5)</summary>
+<summary>📄 Lira Anwick - Healing House Introduction (Full Scene in Session 5)</summary>
 
 *This is a setup scene only. Lira does not give her cube in Session 4. Players leave knowing where she is and what they're walking into.*
 
@@ -802,7 +802,7 @@ No check. One real question, asked without agenda. She has been patient for seve
 *Fear:* That the person who depends on her is both why she cannot say yes and proof that saying yes is the only thing that matters. Both things are true simultaneously.
 *Lie:* *"I need more time."* She knows how much time is left. She has run out. She is asking not for more time but for a moment before she has to lose it.
 
-*Physical:* Late forties. Healer's hands — constant motion, the restlessness of someone whose body is always ready to do something while the mind is somewhere else. Amber glass vials on a belt. She assesses everyone who walks in as a patient before they finish the threshold. She does this without deciding to.
+*Physical:* Late forties. Healer's hands - constant motion, the restlessness of someone whose body is always ready to do something while the mind is somewhere else. Amber glass vials on a belt. She assesses everyone who walks in as a patient before they finish the threshold. She does this without deciding to.
 
 **Five senses:**
 - *Sight:* The Lowmark Healing House, ground floor. Beds along one wall, three occupied. She is at a workbench, grinding something that does not need more grinding.
@@ -823,7 +823,7 @@ She looks up.
 
 > *"Come back. Not today. I need to arrange something first."*
 
-**This is not failure.** This is the correct outcome. She is not refusing — she is asking for time to do one necessary thing before she says yes. Players who are gentle will understand. Players who push get:
+**This is not failure.** This is the correct outcome. She is not refusing - she is asking for time to do one necessary thing before she says yes. Players who are gentle will understand. Players who push get:
 
 > *"You can push, or I can come to you tomorrow with a yes. Choose."*
 
@@ -836,7 +836,7 @@ DC 14 Insight: she is not stalling. She is protecting someone, and she knows exa
 ---
 
 <details>
-<summary>📄 Nin Fletch — Cube Collection</summary>
+<summary>📄 Nin Fletch - Cube Collection</summary>
 
 *Type: The Patience. They already know their answer. They needed someone to stand at the crossroads with them and ask directly.*
 
@@ -846,7 +846,7 @@ DC 14 Insight: she is not stalling. She is protecting someone, and she knows exa
 
 *Physical:* Somewhere in their forties. Slight, unhurried. The kind of stillness that is not calm but rather the product of having taught themselves to take up less space than they need. They carry their cube in their left coat pocket; it has worn a groove there from being handled. They clock the Concordance Stone immediately when the party arrives. They do not acknowledge it.
 
-**Finding them:** DC 10 Perception or Investigation. They are at the junction of Ashring Road and Lowmark Lane — the precise place where two districts lean against each other. Standing. Watching foot traffic cross between them. Not waiting for anyone in particular.
+**Finding them:** DC 10 Perception or Investigation. They are at the junction of Ashring Road and Lowmark Lane - the precise place where two districts lean against each other. Standing. Watching foot traffic cross between them. Not waiting for anyone in particular.
 
 **The approach:** Do not come at them with mission talk. Walk up. Stand at the junction with them. Let there be a moment.
 
@@ -856,7 +856,7 @@ If the party opens immediately with the ritual, the stakes, or a request: they l
 
 That minute is real. Let it run.
 
-If a player simply stands with them without pushing — in the specific company of someone willing to wait — they eventually speak:
+If a player simply stands with them without pushing (in the specific company of someone willing to wait) they eventually speak:
 
 > *"It's easier with someone here. I couldn't decide which way to go by myself. Both ways felt the same and then neither way felt like anything at all."*
 
@@ -876,24 +876,24 @@ They take the cube from their left pocket. It has worn a groove in the lining fr
 
 Cube goes in the box. They do not wait to see where it sits. They are already looking back at the junction.
 
-**If players push or press before the question:** They go quiet. Not hostile. Not shut down. Just waiting for the party to stop moving long enough to stand somewhere with them. The mechanic is not persuasion — it is presence.
+**If players push or press before the question:** They go quiet. Not hostile. Not shut down. Just waiting for the party to stop moving long enough to stand somewhere with them. The mechanic is not persuasion; it is presence.
 
 </details>
 
 ---
 
 <details>
-<summary>📄 Orya Doss — Cube Collection</summary>
+<summary>📄 Orya Doss - Cube Collection</summary>
 
 *Type: The Freebie. She decided a long time ago. No one asked.*
 
-*Want:* To be found. Not persuaded, not briefed — just found. She has been ready so long it stopped feeling like readiness and started feeling like furniture.
+*Want:* To be found. Not persuaded, not briefed - just found. She has been ready so long it stopped feeling like readiness and started feeling like furniture.
 *Fear:* That she will be the one they almost forgot. That someone will arrive apologetic, saying they ran out of time.
 *Lie:* None. She is exactly what she appears to be. This is unusual enough to be its own detail.
 
 *Physical:* Late thirties. Dark, composed, with the particular unhurried quality of someone who has done all her arguing with herself already. Her Primer Stone is in the quieter northern edge of the Ashring, slightly apart from the main cluster. It suits her.
 
-**The arrival:** She is already there when the party comes. Sitting on the carved base of her Primer Stone, legs folded, hands in her lap, watching the amber overhead. She looks like she has been sitting for hours, which she has — since the fourth bell, when she couldn't sleep and came here instead.
+**The arrival:** She is already there when the party comes. Sitting on the carved base of her Primer Stone, legs folded, hands in her lap, watching the amber overhead. She looks like she has been sitting for hours, which she has, since the fourth bell, when she couldn't sleep and came here instead.
 
 She sees the box from thirty feet out.
 
@@ -911,15 +911,15 @@ She reaches into her coat. The cube is already in her hand.
 
 > *"Same mouth, same choice."*
 
-She places it in the box herself. Her Primer Stone responds before she steps back from it — a low tone, brief, like something settling into place. She looks back at it once.
+She places it in the box herself. Her Primer Stone responds before she steps back from it - a low tone, brief, like something settling into place. She looks back at it once.
 
 > *"There. Now it knows too."*
 
 She turns back to them.
 
-> *"Cormac was at the Dawnhall two hours ago. Still sitting. You might want to get there before Ysel runs out of patience — in fairness, she has had enormous patience. But everyone has a limit."*
+> *"Cormac was at the Dawnhall two hours ago. Still sitting. You might want to get there before Ysel runs out of patience - in fairness, she has had enormous patience. But everyone has a limit."*
 
-**No unlock mechanic.** This is the reward. After Aldric's promise, Tomas's verification, Sera's need-to-be-asked, Ysel's seven months unnoticed — Orya is the scene that breathes out. Let it.
+**No unlock mechanic.** This is the reward. After Aldric's promise, Tomas's verification, Sera's need-to-be-asked, Ysel's seven months unnoticed - Orya is the scene that breathes out. Let it.
 
 </details>
 
@@ -928,18 +928,18 @@ She turns back to them.
 </details>
 
 <details>
-<summary>📁 Scene 3b — The Flowering: Private Approach to Ixa</summary>
+<summary>📁 Scene 3b - The Flowering: Private Approach to Ixa</summary>
 
 <details>
 <summary>📄 Five Senses & Setup</summary>
 
-This scene triggers between Scenes 3 and 4 — after the party leaves Aldric's forge with the first cube, before they arrive at the Dawnhall. It is private: the letter arrives for Ixa specifically, not the party. How it is handled is her choice.
+This scene triggers between Scenes 3 and 4 - after the party leaves Aldric's forge with the first cube, before they arrive at the Dawnhall. It is private: the letter arrives for Ixa specifically, not the party. How it is handled is her choice.
 
 **Five senses:**
-- *Sight:* A pressed flower tucked into a doorway crack or resting on a window ledge at eye height — somewhere that could only have been left by someone watching Ixa specifically. One petal too many. The center darker than it should be.
+- *Sight:* A pressed flower tucked into a doorway crack or resting on a window ledge at eye height - somewhere that could only have been left by someone watching Ixa specifically. One petal too many. The center darker than it should be.
 - *Sound:* Nothing. No one is nearby. The lane is empty. Someone was here a moment ago.
 - *Smell:* Something faintly botanical. Not unpleasant. Not right.
-- *Touch:* The letter paper is slightly warm — not from the sun. From being held.
+- *Touch:* The letter paper is slightly warm - not from the sun. From being held.
 - *Air:* The sensation of being watched from a direction that has no one in it.
 
 **The letter:** A handwritten note, no signature. The text matches the prop (recovered correspondence). Addressed to "the one who should not exist, but does."
@@ -949,32 +949,32 @@ Key lines:
 - *"We have been trying to make more outcomes like you. We have not always succeeded. The ones who did not succeed are still with us."*
 - *"Come to us. Or simply stop walking away. We will find each other."*
 
-**This is for Ixa's player.** The letter tells her, implicitly, three things: (1) they know she exists and what she is, (2) they helped her mother conceive her, (3) they want her to come to them, not to stop the ritual or help it — just to be with her own kind. Whether Ixa shares the letter with the party is her choice.
+**This is for Ixa's player.** The letter tells her, implicitly, three things: (1) they know she exists and what she is, (2) they helped her mother conceive her, (3) they want her to come to them, not to stop the ritual or help it - just to be with her own kind. Whether Ixa shares the letter with the party is her choice.
 
 </details>
 
 <details>
-<summary>📄 If Ixa Ignores the Letter — The Flowering Sends</summary>
+<summary>📄 If Ixa Ignores the Letter - The Flowering Sends</summary>
 
 If Ixa does not respond, or if the party investigates the letter's origin and moves to shut down the approach, The Flowering sends what they send. This is not aggression in their understanding. It is retrieval.
 
-**What arrives:** Two Grasping Tendrils — failed experiments, people whose transformation did not complete, kept alive because The Flowering does not abandon what it begins. They are not violent in intent. They are extremely violent in body. Their goal is to immobilise Ixa and move her. The rest of the party is an obstacle, not a target.
+**What arrives:** Two Grasping Tendrils - failed experiments, people whose transformation did not complete, kept alive because The Flowering does not abandon what it begins. They are not violent in intent. They are extremely violent in body. Their goal is to immobilise Ixa and move her. The rest of the party is an obstacle, not a target.
 
-**Secondary Objective (state before combat begins):** Prevent Ixa from being carried off. The Tendrils will attempt to grapple her exclusively — if one gets Ixa in a grapple and is not broken free within 2 rounds, a third Tendril emerges from a side alley to assist the escape. Protecting Ixa matters more than defeating the creatures.
+**Secondary Objective (state before combat begins):** Prevent Ixa from being carried off. The Tendrils will attempt to grapple her exclusively - if one gets Ixa in a grapple and is not broken free within 2 rounds, a third Tendril emerges from a side alley to assist the escape. Protecting Ixa matters more than defeating the creatures.
 
-**Between the two combats (Scene 3b and Scene 5):** If The Flowering combat runs long, compress Scene 4 (Cormac) to the key beat — Ysel's question, Cormac walking out, one player in the alley with him. The Reckoning escalation in Scene 5 is the session's climax and should not be cut.
+**Between the two combats (Scene 3b and Scene 5):** If The Flowering combat runs long, compress Scene 4 (Cormac) to the key beat - Ysel's question, Cormac walking out, one player in the alley with him. The Reckoning escalation in Scene 5 is the session's climax and should not be cut.
 
 </details>
 
 <details>
-<summary>📄 Combat Cards — The Flowering's Failed Experiments</summary>
+<summary>📄 Combat Cards - The Flowering's Failed Experiments</summary>
 
 ---
 
 **GRASPING TENDRIL** *(×2, +1 if Ixa grappled for 2+ rounds)*
 *Medium aberration (formerly humanoid), unaligned*
 
-The shape is wrong in ways that take a moment to catalogue. It was a person. It still has a person's proportions — two arms, two legs, the right height. But the joints bend past where joints should end. The skin is translucent in patches, fibrous underneath. It moves with the wrong kind of smoothness, like something that has forgotten how walking is supposed to look. It does not speak. It does not make eye contact. It makes eye contact with Ixa and only Ixa.
+The shape is wrong in ways that take a moment to catalogue. It was a person. It still has a person's proportions - two arms, two legs, the right height. But the joints bend past where joints should end. The skin is translucent in patches, fibrous underneath. It moves with the wrong kind of smoothness, like something that has forgotten how walking is supposed to look. It does not speak. It does not make eye contact. It makes eye contact with Ixa and only Ixa.
 
 **AC** 14 (natural armor) · **HP** 91 (14d8+28) · **Speed** 35 ft., climb 20 ft.
 
@@ -995,7 +995,7 @@ The shape is wrong in ways that take a moment to catalogue. It was a person. It 
 
 ***Pack Retrieval.*** When two or more Tendrils are within 5 ft. of the same grappled target, both have advantage on Athletics checks to maintain or move the grapple.
 
-***Not Dead.*** When reduced to 0 HP, the Tendril does not die — it collapses and stops functioning. It is stable. The Flowering will collect it later. Players who examine a downed Tendril and succeed on DC 14 Medicine see what it once was. This is the moment to describe the horror at full volume.
+***Not Dead.*** When reduced to 0 HP, the Tendril does not die - it collapses and stops functioning. It is stable. The Flowering will collect it later. Players who examine a downed Tendril and succeed on DC 14 Medicine see what it once was. This is the moment to describe the horror at full volume.
 
 **ACTIONS**
 
@@ -1003,47 +1003,47 @@ The shape is wrong in ways that take a moment to catalogue. It was a person. It 
 
 ***Grasping Slam.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage. If the target is Large or smaller, it is grappled (escape DC 16). The Tendril can have up to two creatures grappled at once.
 
-***Constrict.*** *Automatic — grappled target only.* The grappled target takes 13 (2d8+4) bludgeoning damage and must succeed on DC 15 Strength saving throw or be restrained until the grapple ends.
+***Constrict.*** *Automatic - grappled target only.* The grappled target takes 13 (2d8+4) bludgeoning damage and must succeed on DC 15 Strength saving throw or be restrained until the grapple ends.
 
-***Haul (Bonus Action — grappled target only).*** The Tendril moves up to its full speed, dragging the grappled target with it. This movement does not provoke opportunity attacks from the dragged creature.
+***Haul (Bonus Action - grappled target only).*** The Tendril moves up to its full speed, dragging the grappled target with it. This movement does not provoke opportunity attacks from the dragged creature.
 
 **REACTIONS**
 
 ***Interpose.*** When a creature the Tendril can see targets Ixa with an attack, the Tendril moves up to 10 ft. (no opportunity attacks) and imposes disadvantage on the attack by placing itself between them. Can only trigger once per round.
 
-> *Tactics — Round 1: Move directly to Ixa, Grasping Slam twice. Round 2: Constrict if grappled, Haul toward the nearest exit. Round 3: If pack retrieval active, one Tendril holds Ixa while the other clears the path. Third Tendril (if triggered) appears in the alley behind the primary exit route — it is already in position. It has been there since the letter was left.*
+> *Tactics, Round 1: Move directly to Ixa, Grasping Slam twice. Round 2: Constrict if grappled, Haul toward the nearest exit. Round 3: If pack retrieval active, one Tendril holds Ixa while the other clears the path. Third Tendril (if triggered) appears in the alley behind the primary exit route - it is already in position. It has been there since the letter was left.*
 >
-> *The Tendrils do not respond to Intimidation, Persuasion, or Deception. They respond to damage and to Ixa voluntarily going with them — if Ixa says she will come willingly, both Tendrils stop immediately and stand aside. They wait.*
+> *The Tendrils do not respond to Intimidation, Persuasion, or Deception. They respond to damage and to Ixa voluntarily going with them - if Ixa says she will come willingly, both Tendrils stop immediately and stand aside. They wait.*
 
 ---
 
 **After combat:** If the party defeats the Tendrils and examines them: DC 12 Investigation finds a second pressed flower tucked into the larger Tendril's clothing. One petal too many. Center dark. This one has writing on it: *"We will try again. We always do. Please just stop walking away."*
 
-**If Ixa asks to go with them:** This is a player choice with major Session 5 consequences. The Flowering will receive her warmly. They will tell her everything. They will not let her leave without effort. This is a separate track for Session 5 — do not resolve it here.
+**If Ixa asks to go with them:** This is a player choice with major Session 5 consequences. The Flowering will receive her warmly. They will tell her everything. They will not let her leave without effort. This is a separate track for Session 5, do not resolve it here.
 
 </details>
 
 </details>
 
 <details>
-<summary>📁 Scene 4 — RP: Cormac's Wavering</summary>
+<summary>📁 Scene 4 - RP: Cormac's Wavering</summary>
 
 <details>
 <summary>📄 Five Senses & The Encounter</summary>
 
 **NPC:** Cormac Drell (with Ysel Maren present and watching)
 
-**Cormac Drell** — Compact and broad, dock-worker built, mid-thirties. Brown eyes doing a lot of work keeping his face neutral. His hands are always doing something — when he's not actually working, he fidgets with whatever is nearest. He is a good man in a bad situation of his own making, and he knows himself exactly well enough to know which part of that is the hard part.
+**Cormac Drell** - Compact and broad, dock-worker built, mid-thirties. Brown eyes doing a lot of work keeping his face neutral. His hands are always doing something - when he's not actually working, he fidgets with whatever is nearest. He is a good man in a bad situation of his own making, and he knows himself exactly well enough to know which part of that is the hard part.
 
-**Ysel Maren** — Taller than she seems when seated, Ashfen Clan heritage clear in her face and bearing. She has earned her calm rather than performed it. When she asks the question, she does not look like she is attacking Cormac. She looks like someone who is simply done waiting to find out.
+**Ysel Maren** - Taller than she seems when seated, Ashfen Clan heritage clear in her face and bearing. She has earned her calm rather than performed it. When she asks the question, she does not look like she is attacking Cormac. She looks like someone who is simply done waiting to find out.
 
 **Want:** Cormac wants to not have to decide again. He gave his answer nine weeks ago. He believed it then.
 
-**Fear:** That his wavering will collapse the mathematics of who's willing — and that everyone will see it happen.
+**Fear:** That his wavering will collapse the mathematics of who's willing, and that everyone will see it happen.
 
 **Lie:** That his yes from nine weeks ago is still the same yes. It isn't. He knows it isn't.
 
-**Setup:** Players arrive at the Dawnhall on Aldric's direction — *"He's been there two hours. Ysel's watching."* This requires no arrangement. Players walk in the door and the scene is already happening. Cormac is at the long communal table, hands around a clay cup. Ysel Maren is at the opposite end, not eating, watching him. She has been watching him for three weeks. She has not said anything directly. Until now — until someone else arrives who changes the weight of the room. She asks him, in front of players and two other Dawnborn at the far end of the table: *"Do you still mean what you told Edoran?"*
+**Setup:** Players arrive at the Dawnhall on Aldric's direction - *"He's been there two hours. Ysel's watching."* This requires no arrangement. Players walk in the door and the scene is already happening. Cormac is at the long communal table, hands around a clay cup. Ysel Maren is at the opposite end, not eating, watching him. She has been watching him for three weeks. She has not said anything directly. Until now - until someone else arrives who changes the weight of the room. She asks him, in front of players and two other Dawnborn at the far end of the table: *"Do you still mean what you told Edoran?"*
 
 **Five senses:**
 - Sight: Amber lantern light. The long Dawnhall table. Cormac's hands around a clay cup.
@@ -1055,9 +1055,9 @@ The shape is wrong in ways that take a moment to catalogue. It was a person. It 
 
 **The Encounter Beat:** Cormac freezes. His mouth opens. He does not answer. He sets the cup down carefully, as if it might break. He stands up and walks out. The door does not slam. That's what makes it terrible.
 
-Players who follow him within this scene — before Scene 5 begins — find him in the alley behind the Dawnhall. He is not crying. He is leaning against the wall with his eyes closed. If a player stays without immediately asking him to justify himself, he eventually says: *"I said yes when I thought it would be over before I had time to think about it again. It kept not being over."*
+Players who follow him within this scene (before Scene 5 begins) find him in the alley behind the Dawnhall. He is not crying. He is leaning against the wall with his eyes closed. If a player stays without immediately asking him to justify himself, he eventually says: *"I said yes when I thought it would be over before I had time to think about it again. It kept not being over."*
 
-What resolves Cormac is not persuasion. It is not reassurance. It is someone staying with the uncertainty without pushing it toward a conclusion. If a player simply listens — no check required, this is a roleplay beat — Cormac arrives at his own answer. What that answer is depends on what the player says or doesn't say next.
+What resolves Cormac is not persuasion. It is not reassurance. It is someone staying with the uncertainty without pushing it toward a conclusion. If a player simply listens (no check required, this is a roleplay beat) Cormac arrives at his own answer. What that answer is depends on what the player says or doesn't say next.
 
 If players help Cormac reach genuine re-consent through actual examination of his choice (not comfort, not urgency): flag "Cormac: renewed." His stone activates in Session 5.
 
@@ -1075,57 +1075,57 @@ If players do not follow up before Session 5 closes: his stone is dark at the In
 </details>
 
 <details>
-<summary>📄 Aldric Stone — Dawnborn</summary>
+<summary>📄 Aldric Stone - Dawnborn</summary>
 
-*Want:* To help. He has already chosen — his consent is the clearest of all ten.
+*Want:* To help. He has already chosen; his consent is the clearest of all ten.
 *Fear:* That he chose wrong. Not whether to participate, but whether his participation will be enough.
-*Lie:* "I am not afraid of dying." He is not afraid in the sense of fear. He is afraid of dying uselessly — of giving himself and having it not matter.
+*Lie:* "I am not afraid of dying." He is not afraid in the sense of fear. He is afraid of dying uselessly, of giving himself and having it not matter.
 
 Voice: Quiet and direct. No hedging, no softening. *"I said yes. I meant it. I mean it now."*
 
-*Physical:* Late fifties, blacksmith-built, moves with the economy of someone who has spent forty years managing heat and weight. His eyes are amber-gold — not brown, not hazel, *amber*, the precise color of the ritual stones mid-activation. In low light they catch and hold illumination in a way that makes people glance twice. He runs warmer than other people; his apprentices used to joke about standing near him in winter. He does not find this strange. He was born the night the ritual broke, and he glowed faintly for three days after. His mother called it beautiful. He has the manner of someone who has made his peace completely — not with dying, but with whatever comes.
+*Physical:* Late fifties, blacksmith-built, moves with the economy of someone who has spent forty years managing heat and weight. His eyes are amber-gold - not brown, not hazel, *amber*, the precise color of the ritual stones mid-activation. In low light they catch and hold illumination in a way that makes people glance twice. He runs warmer than other people; his apprentices used to joke about standing near him in winter. He does not find this strange. He was born the night the ritual broke, and he glowed faintly for three days after. His mother called it beautiful. He has the manner of someone who has made his peace completely, not with dying, but with whatever comes.
 
 He has been at his Primer Stone three mornings this week. When his hand touches it, it responds faster and warmer than for any other Dawnborn. He hasn't mentioned this. It doesn't seem like the kind of thing that needs mentioning.
 
 </details>
 
 <details>
-<summary>📄 Lira — Dawnborn</summary>
+<summary>📄 Lira - Dawnborn</summary>
 
 Not present in Session 4's Dawnhall scenes. If players ask Aldric who's missing: *"Lira hasn't come. She knows. She just hasn't said yes yet."* He says it without judgment. He does not elaborate.
 
 If players press: *"She has someone who needs her. I'm not going to make that easier or harder for her."*
 
-Players who visit the Healing House during Session 4: she is polite. She asks them to leave. She is not ready. This is the setup for Session 5 Scene 3 — players who have met Lira and know where she is will be prepared when they need to go to her.
+Players who visit the Healing House during Session 4: she is polite. She asks them to leave. She is not ready. This is the setup for Session 5 Scene 3 - players who have met Lira and know where she is will be prepared when they need to go to her.
 
 *Want:* To make a decision she can stand behind when it is over.
-*Fear:* That the person who needs her is the reason she can't say yes — and that both things are simultaneously true.
+*Fear:* That the person who needs her is the reason she can't say yes: and that both things are simultaneously true.
 *Lie:* "I need more time." She has run out of time. She knows it.
 
 </details>
 
 <details>
-<summary>📄 Petra Vane — Dawnborn</summary>
+<summary>📄 Petra Vane - Dawnborn</summary>
 
-Not present at the Dawnhall. Players can learn her location from Tomas (he knows where all the Dawnborn are: *"Petra's in Greenhollow. Third ward. She's not avoiding anyone — she just doesn't come to group meetings"*) or from Edoran (DC 11 Persuasion). She does not need to be visited in Session 4. In Session 5, she arrives at the Ashring at dawn — she has already decided. Players who know her location are not surprised; players who don't will find an unfamiliar face at one of the stones.
+Not present at the Dawnhall. Players can learn her location from Tomas (he knows where all the Dawnborn are: *"Petra's in Greenhollow. Third ward. She's not avoiding anyone - she just doesn't come to group meetings"*) or from Edoran (DC 11 Persuasion). She does not need to be visited in Session 4. In Session 5, she arrives at the Ashring at dawn - she has already decided. Players who know her location are not surprised; players who don't will find an unfamiliar face at one of the stones.
 
 </details>
 
 </details>
 
 <details>
-<summary>📁 Scene 5 — Combat: The Concordance Moves</summary>
+<summary>📁 Scene 5 - Combat: The Concordance Moves</summary>
 
 <details>
 <summary>📄 Setup & Secondary Objective</summary>
 
-**Before the scene — environmental hint:** On the approach to the Ashring at dusk, the stones are wrong. They were pulsing at a slow held-breath rhythm all day. Now they are silent. Not dormant — silent, the way a room goes silent when something has entered it. DC 13 Arcana: the silence is not natural suppression. Something is actively absorbing the stones' output. It has been doing it for at least an hour.
+**Before the scene - environmental hint:** On the approach to the Ashring at dusk, the stones are wrong. They were pulsing at a slow held-breath rhythm all day. Now they are silent. Not dormant - silent, the way a room goes silent when something has entered it. DC 13 Arcana: the silence is not natural suppression. Something is actively absorbing the stones' output. It has been doing it for at least an hour.
 
-**Setup:** Evening. Players return to the Ashring with however many cubes they have gathered. The Concordance has been watching all session. The morning cell was a warning. This is not a warning. A senior Concordance cell has moved into the Ashring site — they arrived while the party was at the Dawnhall. There are seven of them: four Unlit operatives, two Priests of the Inward Crescent, and a single figure standing at the central dais who has not moved since they arrived. The dais is surrounded by a circle of obsidian powder. The Concordance Stone's hiding hollow has been found and opened. The hollow is empty — they have not found the box itself, because the players have it. They are waiting.
+**Setup:** Evening. Players return to the Ashring with however many cubes they have gathered. The Concordance has been watching all session. The morning cell was a warning. This is not a warning. A senior Concordance cell has moved into the Ashring site - they arrived while the party was at the Dawnhall. There are seven of them: four Unlit operatives, two Priests of the Inward Crescent, and a single figure standing at the central dais who has not moved since they arrived. The dais is surrounded by a circle of obsidian powder. The Concordance Stone's hiding hollow has been found and opened. The hollow is empty - they have not found the box itself, because the players have it. They are waiting.
 
 Aldric Stone, who came to the Ashring ahead of the party to wait at his Primer Stone, is in the circle. He is not bound. He has not been hurt. He is standing very still, and the Priest nearest him has said nothing to him for forty minutes, and he does not know why that is more frightening than threats would be.
 
-**Secondary Objective (state before combat begins):** Get Aldric out of the obsidian circle before the Priests complete the suppression ritual they have been building. The circle is not finished — they needed the Concordance Stone to anchor it and they don't have it. They are improvising. If Aldric is inside the circle when it completes (end of round 4 if uninterrupted), his connection to his Primer Stone is severed for 24 hours. He cannot give his cube's consent-link without it. He becomes the ritual's missing piece.
+**Secondary Objective (state before combat begins):** Get Aldric out of the obsidian circle before the Priests complete the suppression ritual they have been building. The circle is not finished - they needed the Concordance Stone to anchor it and they don't have it. They are improvising. If Aldric is inside the circle when it completes (end of round 4 if uninterrupted), his connection to his Primer Stone is severed for 24 hours. He cannot give his cube's consent-link without it. He becomes the ritual's missing piece.
 
 **Enemies:**
 - Unlit Operative ×4: Use the stat block from Scene 1.
@@ -1135,9 +1135,9 @@ Aldric Stone, who came to the Ashring ahead of the party to wait at his Primer S
 </details>
 
 <details>
-<summary>📄 The Opening — Before Initiative</summary>
+<summary>📄 The Opening - Before Initiative</summary>
 
-The figure at the dais turns. Shadar-kai, old enough that the ash-grey of their skin has gone white at the temples. Their eyes are not black — they are the particular grey of old obsidian after it has been held too long. The obsidian disc at their neck is worn outside their clothing for the first time the party has ever seen on a Concordance member.
+The figure at the dais turns. Shadar-kai, old enough that the ash-grey of their skin has gone white at the temples. Their eyes are not black - they are the particular grey of old obsidian after it has been held too long. The obsidian disc at their neck is worn outside their clothing for the first time the party has ever seen on a Concordance member.
 
 They speak. Not loudly.
 
@@ -1151,14 +1151,14 @@ They look at Aldric.
 
 > *"He understands. He has had forty minutes to understand. Ask him yourself, if you like. We did not threaten him. We explained what will happen if this goes forward, and he is still here, which means he is either very committed or he has not entirely made up his mind. We find both outcomes acceptable."*
 
-Then the Priests begin the suppression circle — murmuring, the obsidian powder shifting — and the Null-Warden turns back to the dais.
+Then the Priests begin the suppression circle (murmuring, the obsidian powder shifting) and the Null-Warden turns back to the dais.
 
-**Social path:** DC 17 Persuasion (or revealing that the Unmoved One's true goal is corruption, not prevention) causes one of the Priests to stop. The other continues. The Null-Warden does not turn. What the stopping Priest does next — relay it upward, defect, do nothing — depends on what the party says in the next thirty seconds. This is not a guaranteed out. It is a crack.
+**Social path:** DC 17 Persuasion (or revealing that the Unmoved One's true goal is corruption, not prevention) causes one of the Priests to stop. The other continues. The Null-Warden does not turn. What the stopping Priest does next (relay it upward, defect, do nothing) depends on what the party says in the next thirty seconds. This is not a guaranteed out. It is a crack.
 
 </details>
 
 <details>
-<summary>📄 Combat Cards — Priests & Null-Warden</summary>
+<summary>📄 Combat Cards - Priests & Null-Warden</summary>
 
 ---
 
@@ -1213,7 +1213,7 @@ Then the Priests begin the suppression circle — murmuring, the obsidian powder
 **NULL-WARDEN** *(×1)*
 *Medium humanoid (shadar-kai), lawful neutral*
 
-The Concordance's response when a situation requires certainty rather than delay. Not a title — a role. The Warden carries a null-focus, a rod of iron and obsidian that the Concordance has used for thirty years to do one specific thing: stop ritual energy from moving. It has been used before. It shows.
+The Concordance's response when a situation requires certainty rather than delay. Not a title - a role. The Warden carries a null-focus, a rod of iron and obsidian that the Concordance has used for thirty years to do one specific thing: stop ritual energy from moving. It has been used before. It shows.
 
 **AC** 19 (plate armor) · **HP** 161 (19d8+76) · **Speed** 30 ft.
 
@@ -1249,18 +1249,18 @@ The Concordance's response when a situation requires certainty rather than delay
 
 ***Null Response.*** When a spell is cast within 30 ft., the Warden may move up to 15 ft. toward the caster without provoking opportunity attacks (no action required).
 
-> *Tactics — Does not move until round 2. Round 1: Stands at the dais. Does not act offensively. The Null Aura is active. Let players feel it. Round 2: Shadow Steps to the most dangerous spellcaster. Three Null-Focus Strikes + hold position. Round 3+: Maintain adjacency to highest-threat target, Null Pulse when 3+ concentration spells are up. Seal the Stone if Aldric's player attempts to reach the stone without the party's protection. At 50 HP: states flatly — "You are stronger than anticipated. The record will reflect this." Does not stop fighting.*
+> *Tactics, Does not move until round 2. Round 1: Stands at the dais. Does not act offensively. The Null Aura is active. Let players feel it. Round 2: Shadow Steps to the most dangerous spellcaster. Three Null-Focus Strikes + hold position. Round 3+: Maintain adjacency to highest-threat target, Null Pulse when 3+ concentration spells are up. Seal the Stone if Aldric's player attempts to reach the stone without the party's protection. At 50 HP: states flatly - "You are stronger than anticipated. The record will reflect this." Does not stop fighting.*
 
 </details>
 
 <details>
 <summary>📄 Combat End & Session Hook</summary>
 
-**Combat ends when:** The Null-Warden reaches 0 HP (the Priests and Operatives withdraw immediately) or the suppression circle is broken (the cell's purpose is gone — they leave). If the Null-Warden is captured and conscious: it answers three direct questions truthfully, then refuses to speak further. It does not know the Unmoved One's true nature. It believes the doctrine. The three answers it gives will be precise, accurate, and deeply unsettling.
+**Combat ends when:** The Null-Warden reaches 0 HP (the Priests and Operatives withdraw immediately) or the suppression circle is broken (the cell's purpose is gone - they leave). If the Null-Warden is captured and conscious: it answers three direct questions truthfully, then refuses to speak further. It does not know the Unmoved One's true nature. It believes the doctrine. The three answers it gives will be precise, accurate, and deeply unsettling.
 
-**If the circle completes before Aldric is freed:** Aldric's cube is still his. His consent is still his. But his Primer Stone is dark. The ritual cannot complete until the seal breaks in 24 hours. This is a Session 5 opening problem — not a failure state, but a cost.
+**If the circle completes before Aldric is freed:** Aldric's cube is still his. His consent is still his. But his Primer Stone is dark. The ritual cannot complete until the seal breaks in 24 hours. This is a Session 5 opening problem, not a failure state, but a cost.
 
-**Session hook:** As the last Concordance operative withdraws, the Concordance Stone (the puzzle box) pulses once — warmer than before, for a moment. The cubes already inside hum together. Something in the Ashring responded. It has been waiting fifty years for anyone to get this far. It is not done waiting. But it noticed.
+**Session hook:** As the last Concordance operative withdraws, the Concordance Stone (the puzzle box) pulses once - warmer than before, for a moment. The cubes already inside hum together. Something in the Ashring responded. It has been waiting fifty years for anyone to get this far. It is not done waiting. But it noticed.
 
 </details>
 
@@ -1277,7 +1277,7 @@ The Concordance's response when a situation requires certainty rather than delay
 - The Concordance is capable of direct action at the Ashring. The morning cell was a warning. The evening was not.
 - The Null-Warden exists. The Concordance has purpose-built tools for severing Dawnborn-stone connections.
 - The Inversion path (Ending B) exists and is mechanically possible: all ten Dawnborn at their stones, unanimous genuine consent, no one dies.
-- The Inversion path requires Cormac's renewed consent, Lira's consent, Petra Vane's consent, and several others — all of whom have not given it yet.
+- The Inversion path requires Cormac's renewed consent, Lira's consent, Petra Vane's consent, and several others, all of whom have not given it yet.
 - The Flowering has found whoever they were looking for. The letter went to someone specific.
 
 **What they carry forward:** Cormac's cup, set down too carefully. The question of whether listening is enough.
@@ -1290,21 +1290,21 @@ The Concordance's response when a situation requires certainty rather than delay
 |---------|-------|
 | Concordance asset list | Recovered (designations known) / not recovered (surveillance scope unknown) |
 | Obsidian Ring of Contrariwise | Recovered / not recovered |
-| Primer Stones activated | Yes — Inversion inscription revealed / No — inscription unread |
+| Primer Stones activated | Yes: Inversion inscription revealed / No: inscription unread |
 | Cormac's status | Renewed consent / unresolved (stone dark in Session 5) |
 | Aldric's stone connection | Intact / severed 24 hrs (suppression circle completed) |
 | Null-Warden | Defeated / withdrew / captured (3 answers given) |
-| Ixa — The Flowering letter | Shared with party / kept private / ignored / accepted |
+| Ixa, The Flowering letter | Shared with party / kept private / ignored / accepted |
 | Petra Vane | Location known (Greenhollow) / unknown |
 
 ---
 
-**The Restorers as allies:** If players share evidence of either faction's true agenda with Brother Edoran or Maerin Voss, the Restorers become active allies — sanctuary, intelligence, bodies at the ritual site. Edoran is the most dangerous kind of enemy to the Concordance: a genuine true believer who has just been told his enemy is the opposite of sacred. He will not be quiet about it. DC 13 Persuasion to activate this, or simply show him the Concordance prop and tell him what the Unmoved One actually wants.
+**The Restorers as allies:** If players share evidence of either faction's true agenda with Brother Edoran or Maerin Voss, the Restorers become active allies - sanctuary, intelligence, bodies at the ritual site. Edoran is the most dangerous kind of enemy to the Concordance: a genuine true believer who has just been told his enemy is the opposite of sacred. He will not be quiet about it. DC 13 Persuasion to activate this, or simply show him the Concordance prop and tell him what the Unmoved One actually wants.
 
 ---
 
 **What they don't know yet:**
-- The Unmoved One is not a doctrine. It is a Lich. It does not want to prevent the Inversion — it wants to corrupt it at the moment of completion. The Priests do not know. The Null-Warden does not know. The entire Concordance has been doing the Lich's groundwork for thirty years without knowing what they serve.
+- The Unmoved One is not a doctrine. It is a Lich. It does not want to prevent the Inversion - it wants to corrupt it at the moment of completion. The Priests do not know. The Null-Warden does not know. The entire Concordance has been doing the Lich's groundwork for thirty years without knowing what they serve.
 - The Flowering's failed experiments are not weapons. They are people the Flowering cannot let go of. The ones sent after Ixa are alive in the wrong way and have been for decades.
 - Ellan's refusal is not permanent. She said *"ask me again when they've all had the chance to choose freely."* She is waiting to be asked correctly. She has been waiting for a long time.
 - There are ten Primer Stones and eleven known Dawnborn. One stone has no assigned claimant. Someone steps back voluntarily in Session 5 so another can take their place. Who chooses to step back depends on what happened in Session 4.

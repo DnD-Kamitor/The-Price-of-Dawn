@@ -1,7 +1,7 @@
-# Local AI Stack — Price of Dawn Integrations
+# Local AI Stack - Price of Dawn Integrations
 
 All services run on the research-ready.nl stack (InstallLocalAiPackage).
-mTLS cert required for browser access — run `bash scripts/certfix.sh` once.
+mTLS cert required for browser access, run `bash scripts/certfix.sh` once.
 
 ## Priority Order (fun/immersion impact)
 

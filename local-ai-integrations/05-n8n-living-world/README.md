@@ -1,4 +1,4 @@
-# 05 — n8n Living World Automation
+# 05 - n8n Living World Automation
 
 After each session, n8n reads what happened and generates: NPC reactions, faction attitude shifts, world events. Zero GM prep time for the "world keeps moving" layer.
 Service: n8n at https://n8n.research-ready.nl (CT104).
@@ -29,7 +29,7 @@ Gitea webhook setup:
 4. Branch filter: `master`
 5. Content type: JSON
 
-The webhook payload includes the commit diff — n8n reads what changed.
+The webhook payload includes the commit diff, n8n reads what changed.
 
 ### Option B: Manual trigger
 
@@ -70,7 +70,7 @@ GM opens n8n, clicks "Execute Workflow" after session. Simpler to set up.
         |
         v
 [Code node: Assemble markdown document]
-  Title: Living World Report — Session N
+  Title: Living World Report - Session N
   Sections: NPC Reactions | Faction Shifts | World Events | GM Notes
         |
         v
@@ -112,7 +112,7 @@ Constraints:
 - Each NPC only knows what they could realistically have heard about
 - NPCs do NOT learn secrets they have no access to
 - Actions must be plausible within their role and personality
-- Do not resolve campaign plot points — create texture, not resolution
+- Do not resolve campaign plot points, create texture, not resolution
 ```
 
 ### Faction Shift Prompt
@@ -149,7 +149,7 @@ Keep each section to 3-5 sentences. Be specific. Avoid vague "they're watching c
 
 ```
 Generate 4-6 minor world events that happen in Varenhold between sessions.
-These are background texture — not plot-relevant, but they make the world feel alive.
+These are background texture, not plot-relevant, but they make the world feel alive.
 
 SESSION EVENTS (for context):
 {session_events}
@@ -185,7 +185,7 @@ const factionShifts = $('LiteLLM faction shifts').first().json.choices[0].messag
 const worldEvents = $('LiteLLM world events').first().json.choices[0].message.content;
 const today = new Date().toISOString().split('T')[0];
 
-const doc = `# Living World Report — Session ${sessionNum}
+const doc = `# Living World Report - Session ${sessionNum}
 
 *Generated: ${today}*
 
@@ -253,4 +253,4 @@ Tag all traces with `["living-world", "price-of-dawn"]` in LiteLLM metadata.
 1. Next morning or during session prep: open Gitea, read `session-N-living-world.md`
 2. Mark which NPC reactions and world events to use (delete or comment out the rest)
 3. Pull 1-2 world events into the five-senses scene opener for next session
-4. If any NPC reactions conflict with player choices: override them — the document is a draft, not canon
+4. If any NPC reactions conflict with player choices: override them, the document is a draft, not canon

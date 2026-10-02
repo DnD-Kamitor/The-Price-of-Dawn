@@ -2,13 +2,13 @@
 
 *Five complete D&D 5e characters with backstories tied specifically to Varenhold. Each has a personal hook into the campaign's moral engine. Use these as session-zero starting points, or modify freely.*
 
-*Each character is built at **level 1** with standard array (15, 14, 13, 12, 10, 8), starting equipment, and one personal connection to the Dawnborn crisis. The "moral hook" section describes what this character cares about — and what they might be forced to choose between.*
+*Each character is built at **level 1** with standard array (15, 14, 13, 12, 10, 8), starting equipment, and one personal connection to the Dawnborn crisis. The "moral hook" section describes what this character cares about, and what they might be forced to choose between.*
 
 ---
 
 ## The Returned Exile
 
-### Maren Ashveil — Human Rogue (Criminal/Spy)
+### Maren Ashveil - Human Rogue (Criminal/Spy)
 
 *She left Varenhold nine years ago, at seventeen. She made it to the Arveth Compact, got good at certain skills, and has been telling herself for nine years that she doesn't miss it. She's back now because her mother sent a letter that said "we're not going to make it through another year." Maren doesn't know what she owes the city that let her leave, or the mother who stayed.*
 
@@ -40,10 +40,10 @@
 
 **Personal Connections**
 - Her mother lives in the Lowmark and is Stage-1 grey sickness
-- She knows the Compact well enough to recognize when its agents are in the city — and she's already spotted three
+- She knows the Compact well enough to recognize when its agents are in the city, and she's already spotted three
 - She passed through Greenhollow on the way in and saw the Parish conditions firsthand
 
-**Moral Hook:** Maren left because she couldn't stand watching the city die slowly. She came back because her mother needed her. The campaign will force her to confront whether her nine years of useful distance gave her clarity — or just distance. *Key tension: individual loyalty vs. collective obligation. What do you owe the people who stayed?*
+**Moral Hook:** Maren left because she couldn't stand watching the city die slowly. She came back because her mother needed her. The campaign will force her to confront whether her nine years of useful distance gave her clarity - or just distance. *Key tension: individual loyalty vs. collective obligation. What do you owe the people who stayed?*
 
 **Connections to Campaign:** Ask Theron if anyone named "Ashveil" in the Archive records died in Year 45 (her father, whose death she doesn't fully know about). Helka at the Wayfarer's Rest knew her mother; she'll say so when they meet.
 
@@ -51,7 +51,7 @@
 
 ## The Lowmark Child
 
-### Davan Stout — Halfling Fighter (Folk Hero)
+### Davan Stout - Halfling Fighter (Folk Hero)
 
 *Davan grew up in the Lowmark with a Stage-2 parent. He's been running supplies, carrying messages, and doing what needed doing since he was eight. He's twenty-two now and has never once considered leaving. He didn't choose to be a fighter; he just kept getting in between things and people, and eventually got good at it. He has no idea that what he's been doing all his life has a name.*
 
@@ -93,9 +93,9 @@
 
 ## The Former Spire Scholar
 
-### Ilessa Thorn — Half-Elf Wizard (Sage)
+### Ilessa Thorn - Half-Elf Wizard (Sage)
 
-*Ilessa did everything right. She tested into the Spire at sixteen, published a paper at nineteen, was on track for the Theoretical Division at twenty-four. Then she looked at the Spire's actual evidence on the twilight's mechanism and realized they were solving the wrong problem — and that several senior scholars knew this and weren't saying so. She resigned, publicly, in Year 48. She's been doing independent research ever since, mostly in the Archive, trying to understand why the institution she loved chose convenient answers over true ones.*
+*Ilessa did everything right. She tested into the Spire at sixteen, published a paper at nineteen, was on track for the Theoretical Division at twenty-four. Then she looked at the Spire's actual evidence on the twilight's mechanism and realized they were solving the wrong problem - and that several senior scholars knew this and weren't saying so. She resigned, publicly, in Year 48. She's been doing independent research ever since, mostly in the Archive, trying to understand why the institution she loved chose convenient answers over true ones.*
 
 **Race/Class:** Half-Elf / Wizard 1
 **Background:** Sage (Researcher specialization)
@@ -129,10 +129,10 @@
 
 **Personal Connections**
 - She knows Scholar Fenn from her Spire days; he was junior staff when she was rising through the institution; their relationship is complicated by her public resignation
-- Her published paper — the one she was never allowed to fully pursue — had implications that pointed toward what the players will discover about the inversion pathway
+- Her published paper (the one she was never allowed to fully pursue) had implications that pointed toward what the players will discover about the inversion pathway
 - Isolde Menth was two years behind her and has recently found similar conclusions through different means
 
-**Moral Hook:** Ilessa has been right about the Spire being wrong for two years. The campaign will test whether being right is the same as being useful — and whether her pride in her own correctness has made her less effective than someone who worked from inside the institution. *Key tension: loyalty vs. honesty. She left when she could have stayed and fought from inside. Was that principles, or self-protection?*
+**Moral Hook:** Ilessa has been right about the Spire being wrong for two years. The campaign will test whether being right is the same as being useful - and whether her pride in her own correctness has made her less effective than someone who worked from inside the institution. *Key tension: loyalty vs. honesty. She left when she could have stayed and fought from inside. Was that principles, or self-protection?*
 
 **Connections to Campaign:** She was present for the public meeting at which Keseph dismissed Erem's sympathetic void theory twelve years ago. She remembers his exact words. She has been waiting for an opportunity to use that memory.
 
@@ -140,9 +140,9 @@
 
 ## The Parish Farmer
 
-### Teor Seld — Human Ranger (Outlander)
+### Teor Seld - Human Ranger (Outlander)
 
-*Teor is Harrow Seld's younger brother, and he's nothing like his brother. Harrow became a politician because he's good at being angry in productive directions. Teor stayed on the farm and watched it die. He's in Varenhold because the farm is no longer viable — three years of crops too poor to survive on — and because he thought maybe seeing the city that was supposed to fix everything might tell him what he couldn't understand from the Parishes. He's not hopeful. He's not despairing. He's just arrived.*
+*Teor is Harrow Seld's younger brother, and he's nothing like his brother. Harrow became a politician because he's good at being angry in productive directions. Teor stayed on the farm and watched it die. He's in Varenhold because the farm is no longer viable (three years of crops too poor to survive on) and because he thought maybe seeing the city that was supposed to fix everything might tell him what he couldn't understand from the Parishes. He's not hopeful. He's not despairing. He's just arrived.*
 
 **Race/Class:** Human (variant) / Ranger 1
 **Background:** Outlander
@@ -162,19 +162,19 @@
 - AC: 14 (leather + DEX)
 - Initiative: +2
 - Attacks: Longbow +4 (1d8+2, 150/600 ft.), Handaxe +4 (1d6+2, 20/60 ft. or melee)
-- Favored Enemy: Undead (or Grey Sickness Afflicted — adapting to campaign context; Advantage on Survival and Investigation checks related to grey sickness symptoms and patterns)
+- Favored Enemy: Undead (or Grey Sickness Afflicted - adapting to campaign context; Advantage on Survival and Investigation checks related to grey sickness symptoms and patterns)
 - Natural Explorer: Marsh terrain; advantage on checks, difficult terrain doesn't slow, always have food/water on favored terrain
 
 **Ranger Features:** Favored Enemy, Natural Explorer
 
-**Equipment:** Leather armor, longbow (20 arrows), 2 handaxes, explorer's pack, hunting trap, an eagle feather (memento from the last raptor he saw on the farm — they left in Year 45), travel clothes, 10 gp
+**Equipment:** Leather armor, longbow (20 arrows), 2 handaxes, explorer's pack, hunting trap, an eagle feather (memento from the last raptor he saw on the farm - they left in Year 45), travel clothes, 10 gp
 
 **Personal Connections**
 - His brother Harrow Seld is in Varenhold and does not know Teor is here
-- He has Stage-1 grey sickness himself — the symptoms are recent, caught early, and he hasn't told anyone including Harrow
+- He has Stage-1 grey sickness himself - the symptoms are recent, caught early, and he hasn't told anyone including Harrow
 - He passed through the area where the Ashfen paths meet the Eastern Track and noticed things about the marsh ecosystem that a farmer raised on ecological observation would notice
 
-**Moral Hook:** Teor carries the specific moral weight of someone who did everything right and still had it taken from him. He didn't fail. The situation failed. The campaign will ask whether that changes what he owes Varenhold — the city that was supposed to fix it and didn't. *Key tension: justice vs. forgiveness. He has standing to be angry. Does standing mean he should be?*
+**Moral Hook:** Teor carries the specific moral weight of someone who did everything right and still had it taken from him. He didn't fail. The situation failed. The campaign will ask whether that changes what he owes Varenhold - the city that was supposed to fix it and didn't. *Key tension: justice vs. forgiveness. He has standing to be angry. Does standing mean he should be?*
 
 **Connections to Campaign:** Harrow Seld is a campaign NPC with specific urgency and undisclosed personal stakes; Teor's arrival creates a dynamic where players see Harrow's public advocacy through the lens of a family member who knows what it cost. Erem of Saltgrass would recognize Teor's ecological observations and take him seriously.
 
@@ -182,9 +182,9 @@
 
 ## The Compact Factor
 
-### Vella Mourne — Tiefling Bard (Charlatan)
+### Vella Mourne - Tiefling Bard (Charlatan)
 
-*Vella was sent by the Arveth Compact's third-most powerful eastern city to assess Varenhold's commercial viability — specifically, to determine whether the city is a good acquisition target or a liability to be written off. She has been here for three weeks and has not sent her report. She's been extending her timeline because something about the city is making it very difficult to write the usual report. She's done seventeen of these assessments. She's never needed more than five days before.*
+*Vella was sent by the Arveth Compact's third-most powerful eastern city to assess Varenhold's commercial viability - specifically, to determine whether the city is a good acquisition target or a liability to be written off. She has been here for three weeks and has not sent her report. She's been extending her timeline because something about the city is making it very difficult to write the usual report. She's done seventeen of these assessments. She's never needed more than five days before.*
 
 **Race/Class:** Tiefling / Bard 1 (College of Lore, technically; plays as College of Glamour in style)
 **Background:** Charlatan
@@ -220,9 +220,9 @@
 - She has met Saret Onn of the Varenhold Merchants' Compact and is quietly appalled that he is the most decent person she has encountered representing Compact interests in years
 - She attended a Dusk Sitting three days after her arrival and has been avoiding sending her report ever since
 
-**Moral Hook:** Vella's job is to render a verdict. The campaign will force her to figure out who she's rendering it for — her employer, the city, or herself. She has the expertise to write a report that shapes the Compact's response to Varenhold's crisis. *Key tension: individual vs. collective. Her professional judgment is a form of power she hasn't used for anything except commerce. What's it worth if she uses it for something else?*
+**Moral Hook:** Vella's job is to render a verdict. The campaign will force her to figure out who she's rendering it for - her employer, the city, or herself. She has the expertise to write a report that shapes the Compact's response to Varenhold's crisis. *Key tension: individual vs. collective. Her professional judgment is a form of power she hasn't used for anything except commerce. What's it worth if she uses it for something else?*
 
-**Connections to Campaign:** She has the Compact's payment trail for the Spire Quarter — the one that traces to Keseph's predecessor. She found it during her commercial assessment and wasn't sure what to do with it. She still isn't. She will share it with players who earn her trust — but they need to ask the right question first.
+**Connections to Campaign:** She has the Compact's payment trail for the Spire Quarter - the one that traces to Keseph's predecessor. She found it during her commercial assessment and wasn't sure what to do with it. She still isn't. She will share it with players who earn her trust, but they need to ask the right question first.
 
 ---
 
@@ -244,10 +244,10 @@
 
 *Before starting, each player (using pre-made or custom characters) should answer:*
 
-1. **Why are you in Varenhold right now?** (Not "why did you come here" — why haven't you left?)
+1. **Why are you in Varenhold right now?** (Not "why did you come here", why haven't you left?)
 2. **Who do you know here?** (At least one named NPC or another player character)
-3. **What do you believe about the Dawnborn?** (Not what you've been told — what do you actually think?)
+3. **What do you believe about the Dawnborn?** (Not what you've been told, what do you actually think?)
 4. **What would make you leave?** (And: are you certain that's still the answer?)
-5. **What did you lose to the twilight?** (Can be abstract — opportunity, normalcy, a future you expected — or concrete)
+5. **What did you lose to the twilight?** (Can be abstract, opportunity, normalcy, a future you expected, or concrete)
 
 *These questions don't have right answers. They're the engine the campaign runs on.*

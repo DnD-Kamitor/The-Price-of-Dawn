@@ -1,6 +1,6 @@
 # Crafting and Professions
 
-*This chapter is player-safe. Everything in it is available to player characters with the appropriate training. Crafting in Varenhold is not a neutral activity — what you make, and for whom, reflects the city's fifty-year crisis in specific and tangible ways.*
+*This chapter is player-safe. Everything in it is available to player characters with the appropriate training. Crafting in Varenhold is not a neutral activity, what you make, and for whom, reflects the city's fifty-year crisis in specific and tangible ways.*
 
 ---
 
@@ -14,7 +14,7 @@ Crafting in Varenhold uses the standard D&D 5e rules with the following campaign
 
 **Workspaces:** Each profession requires a specific workspace, available in Varenhold as noted per profession. Access usually costs nothing if you know someone in the relevant district, or 3–5 marks for a half-day if you don't.
 
-**Sourcing materials yourself:** Players who spend time gathering their own materials (harvesting herbs, collecting amber, scavenging metal) can reduce material costs by up to half — but this counts as 1–3 additional hours of downday activity per material reduced.
+**Sourcing materials yourself:** Players who spend time gathering their own materials (harvesting herbs, collecting amber, scavenging metal) can reduce material costs by up to half, but this counts as 1–3 additional hours of downday activity per material reduced.
 
 **Partial success:** Some items note a partial success outcome at DC −2 (you meet the DC minus 2). Partial successes produce a usable item with a drawback or reduced effect, noted in the table.
 
@@ -56,9 +56,9 @@ Each profession requires a specific tool set.
 
 ![An amber lampworker at the calibration bench, turning a housing by hand in the glow of the heating oven - the smell of warm resin, the particular focus of someone who makes light for a city that cannot afford to be dark](images/amber-lampwork-bench.png)
 
-The amber workshops are Varenhold's most recognizable craft and its primary export. Before the twilight, glasswork in the city was ordinary — lanterns, windows, decorative pieces. After Year 1 of the permanent dusk, making light became the city's most important industry.
+The amber workshops are Varenhold's most recognizable craft and its primary export. Before the twilight, glasswork in the city was ordinary - lanterns, windows, decorative pieces. After Year 1 of the permanent dusk, making light became the city's most important industry.
 
-The amber infusion process was developed by trial and error over the first five years of the twilight. The specific temperature calibrations are still guarded by Guild Master Helv Onn, but the general technique — heating amber resin to the precise point where it becomes both liquid and resonant, then introducing it into a glass housing as the housing cools — is now widely understood. What's less understood is why the resulting light has the qualities it does: warmer than firelight, steadier than oil flame, with a specific spectrum that Spire scholars have been arguing about for decades. The lampworkers don't discuss the theories. They discuss tolerances and batch times.
+The amber infusion process was developed by trial and error over the first five years of the twilight. The specific temperature calibrations are still guarded by Guild Master Helv Onn, but the general technique (heating amber resin to the precise point where it becomes both liquid and resonant, then introducing it into a glass housing as the housing cools) is now widely understood. What's less understood is why the resulting light has the qualities it does: warmer than firelight, steadier than oil flame, with a specific spectrum that Spire scholars have been arguing about for decades. The lampworkers don't discuss the theories. They discuss tolerances and batch times.
 
 #### Materials
 
@@ -92,7 +92,7 @@ The amber infusion process was developed by trial and error over the first five 
 
 #### Campaign Integration
 
-An **enhanced amber lantern** (DC 14) is one of the most useful craftable items for this campaign's investigation scenes. The Archive's restricted sections, Isolde's lower lab, and the approach to the Ashring at night all benefit from extended light range. Being a known lampworker in the Dawnhalls district opens social doors — Helv Onn remembers the craftspeople who use her workspace.
+An **enhanced amber lantern** (DC 14) is one of the most useful craftable items for this campaign's investigation scenes. The Archive's restricted sections, Isolde's lower lab, and the approach to the Ashring at night all benefit from extended light range. Being a known lampworker in the Dawnhalls district opens social doors - Helv Onn remembers the craftspeople who use her workspace.
 
 <div class="player-callout">
 
@@ -125,7 +125,7 @@ The amber lantern's light is not purely mundane. The infusion process does somet
 
 ### Herbalism
 
-The Lowmark Healing House smells of dried herbs, stone, and something faintly sweet. The herbalism practiced here is not academic. It developed under necessity — which plants from the Ashfen marsh compensate for which missing thing, which combinations slow the grey sickness's progression, which roots can be substituted when supply runs short. Lira Anwick learned most of what she knows from a woman named Dara who died in Year 35. Dara learned from the Clans.
+The Lowmark Healing House smells of dried herbs, stone, and something faintly sweet. The herbalism practiced here is not academic. It developed under necessity - which plants from the Ashfen marsh compensate for which missing thing, which combinations slow the grey sickness's progression, which roots can be substituted when supply runs short. Lira Anwick learned most of what she knows from a woman named Dara who died in Year 35. Dara learned from the Clans.
 
 Varenhold's herbalism has a specific character: it is not focused on wound care or infection (the Healers' Guild handles those) but on the slower work of managing long-term deficiency. The grey sickness is a condition of absence. So is the herbalism practice that addresses it. The practitioners who work in the Lowmark don't talk much about what they're doing. They talk about the next supply delivery and whether the current batch of marsh oil is the right grade.
 
@@ -152,7 +152,7 @@ Varenhold's herbalism has a specific character: it is not focused on wound care 
 | Marsh oil extract, refined | 14 | 3 | 3 writs | Tradeable ingredient; worth 5 writs to alchemists or Healing House supply rooms |
 | Stimulant draught | 14 | 3 | 2 writs | Removes one Exhaustion level immediately; next long rest requires 10 hours or the level returns |
 
-**Lira's compound (partial):** The full synthesis is Lira's most carefully held knowledge. A partial version can be assembled by any skilled herbalist with her formula — but she will only share it with a character who has established significant trust (at GM discretion, usually no earlier than after Session 2 events). Without the formula, the DC for this item is 20, and a failure by 5 or more risks producing an accelerant rather than a treatment. The Lowmark has seen what bad batches do. Lira takes this seriously.
+**Lira's compound (partial):** The full synthesis is Lira's most carefully held knowledge. A partial version can be assembled by any skilled herbalist with her formula - but she will only share it with a character who has established significant trust (at GM discretion, usually no earlier than after Session 2 events). Without the formula, the DC for this item is 20, and a failure by 5 or more risks producing an accelerant rather than a treatment. The Lowmark has seen what bad batches do. Lira takes this seriously.
 
 *Partial success (DC −2): River herb teas and basic salves produced at partial success have half the listed duration or one fewer use.*
 
@@ -197,7 +197,7 @@ Lira's compound produces results that exceed what the listed ingredients should 
 
 ### Alchemy
 
-The Spire Quarter's apothecary smells of sulfur and old paper. The alchemy practiced in Varenhold is systematic and specific — fifty years of twilight research has produced a body of alchemical knowledge found nowhere else: how to detect and measure the residual Lux energy that lingers around ritual sites, what compounds interact with the twilight's atmospheric chemistry, how to stabilize materials that degrade in the absence of full sunlight.
+The Spire Quarter's apothecary smells of sulfur and old paper. The alchemy practiced in Varenhold is systematic and specific - fifty years of twilight research has produced a body of alchemical knowledge found nowhere else: how to detect and measure the residual Lux energy that lingers around ritual sites, what compounds interact with the twilight's atmospheric chemistry, how to stabilize materials that degrade in the absence of full sunlight.
 
 Most Spire-trained alchemists will tell you their field advanced significantly under the twilight, precisely because they've had to think carefully about things other alchemists take for granted. They mean this as a point of professional pride. It is also a measure of how specific the circumstances were that produced the advancement.
 
@@ -224,7 +224,7 @@ Most Spire-trained alchemists will tell you their field advanced significantly u
 | Analytical acid | 14 | 3 | 4 writs | Dissolves organic material without damaging stone or metal; useful for examining sealed documents without destroying them |
 | Sleep reagent, contact (1 dose) | 14 | 3 | 5 writs | DC 14 Constitution save or fall asleep for 1 hour; awakens on taking damage |
 
-*Partial success (DC −2): Void-detection powder at partial success triggers unreliably — 50% chance per location. Light-burst flasks at partial success affect only creatures within 5 ft.*
+*Partial success (DC −2): Void-detection powder at partial success triggers unreliably - 50% chance per location. Light-burst flasks at partial success affect only creatures within 5 ft.*
 
 #### Background Activities
 
@@ -234,7 +234,7 @@ Most Spire-trained alchemists will tell you their field advanced significantly u
 
 #### Campaign Integration
 
-**Void-detection powder** (DC 16) becomes directly useful from Session 3 onward, when investigation scenes involve ritual-adjacent sites. A character who made it before that point has an advantage that feels earned rather than provided. The powder doesn't tell you why something is active — it tells you something is. That distinction matters to both the player and the story.
+**Void-detection powder** (DC 16) becomes directly useful from Session 3 onward, when investigation scenes involve ritual-adjacent sites. A character who made it before that point has an advantage that feels earned rather than provided. The powder doesn't tell you why something is active - it tells you something is. That distinction matters to both the player and the story.
 
 <div class="player-callout">
 
@@ -267,7 +267,7 @@ The residual Lux energy near the Ashring's Primer Stones is not decaying at the 
 
 ### Smithing
 
-The Ironbell forge in the Ashfen Gate district has been operating for eighty years. It survived the Night of the Ritual without damage — the forge master at the time, a woman named Osa Bract, was reportedly the first person in Varenhold to light her forge the morning after the twilight began, on the grounds that iron doesn't particularly care what the sky is doing. Her granddaughter Henna runs it now.
+The Ironbell forge in the Ashfen Gate district has been operating for eighty years. It survived the Night of the Ritual without damage - the forge master at the time, a woman named Osa Bract, was reportedly the first person in Varenhold to light her forge the morning after the twilight began, on the grounds that iron doesn't particularly care what the sky is doing. Her granddaughter Henna runs it now.
 
 Smithing in Varenhold has shifted over fifty years. The city's most in-demand metalwork is structural and precise: forge brackets for amber lanterns, calibration frames for Spire instruments, mounting hardware for ritual-adjacent research. The decorative metalwork that was once the Ironbell's highest-margin product has essentially died as a market. Varenholders don't buy iron for beauty. They buy it for things that hold.
 
@@ -294,17 +294,17 @@ Smithing in Varenhold has shifted over fifty years. The city's most in-demand me
 | Calibration frame | 16 | 5 | 12 writs | Precision instrument housing; worth 20 writs to Spire scholars |
 | Signal bell assembly | 12 | 3 | 4 writs | Small bell-and-wire system; silent cord-pull communication across up to 30 ft. |
 
-*Partial success (DC −2): Primer Stone mounts at partial success hold the Stone but are not perfectly stable — the Stone may drift 1–2 degrees over 10 minutes. This is a meaningful failure state during certain investigation sequences.*
+*Partial success (DC −2): Primer Stone mounts at partial success hold the Stone but are not perfectly stable - the Stone may drift 1–2 degrees over 10 minutes. This is a meaningful failure state during certain investigation sequences.*
 
 #### Background Activities
 
 - **Forge labor (half-day):** Working the Ironbell's production line alongside regular smiths. Earns 5 marks and builds relationship with Henna Bract. Over three downdays, this unlocks preferential pricing on Graymere iron.
-- **Commission sourcing (1 hour):** The Ironbell maintains an ongoing request board — commissions from the Spire, the Guild, and city maintenance. Players who take and complete commissions earn the listed trade value rather than keeping the item.
+- **Commission sourcing (1 hour):** The Ironbell maintains an ongoing request board - commissions from the Spire, the Guild, and city maintenance. Players who take and complete commissions earn the listed trade value rather than keeping the item.
 - **Material salvage (1 hour):** Stripping iron fittings from a derelict building or broken equipment. DC 10 to yield 1d6 writs of usable scrap.
 
 #### Campaign Integration
 
-The **Primer Stone mount** (DC 14) connects to Session 4 and the final events of Session 5. The Inversion Circle puzzle requires precise timing and positioning. A player character who crafted mounts in advance — perhaps without fully knowing what they would be used for — finds that earlier downtime work becomes mission-critical. The GM should drop hints about Primer Stone geometry before Session 4 begins.
+The **Primer Stone mount** (DC 14) connects to Session 4 and the final events of Session 5. The Inversion Circle puzzle requires precise timing and positioning. A player character who crafted mounts in advance (perhaps without fully knowing what they would be used for) finds that earlier downtime work becomes mission-critical. The GM should drop hints about Primer Stone geometry before Session 4 begins.
 
 <div class="player-callout">
 
@@ -337,7 +337,7 @@ The Ironbell's recent commission board includes several precision components who
 
 ### Jewelcrafting
 
-The three jewelcrafters' workshops in the Spire Quarter have no signs. Varenhold has no occasion market for rings and pendants — no harvest festivals, no weddings with significant guest lists, no court events requiring status pieces. What it has is demand for precision: gem settings that amplify or focus light, resonance settings that appear in the city's oldest ritual equipment, calibration chips for Spire research instruments.
+The three jewelcrafters' workshops in the Spire Quarter have no signs. Varenhold has no occasion market for rings and pendants - no harvest festivals, no weddings with significant guest lists, no court events requiring status pieces. What it has is demand for precision: gem settings that amplify or focus light, resonance settings that appear in the city's oldest ritual equipment, calibration chips for Spire research instruments.
 
 The three current masters arrived at similar craft specializations through completely independent paths and discovered, when they finally compared notes, that they had essentially been solving the same problem. They have not fully explained this to themselves. They consider it unsurprising in the way that people consider unsurprising the things they find most difficult to explain.
 
@@ -373,7 +373,7 @@ The three current masters arrived at similar craft specializations through compl
 
 #### Campaign Integration
 
-The **resonance gem setting** (DC 16) is directly relevant to Session 3's investigation puzzle. The Resonance Rods function without a gem setting, but a set rod has a wider effective range — mechanically meaningful in the puzzle's spatial constraints. A character who built one before Session 3 has a tool they made, not a tool they were handed.
+The **resonance gem setting** (DC 16) is directly relevant to Session 3's investigation puzzle. The Resonance Rods function without a gem setting, but a set rod has a wider effective range - mechanically meaningful in the puzzle's spatial constraints. A character who built one before Session 3 has a tool they made, not a tool they were handed.
 
 <div class="player-callout">
 
@@ -406,7 +406,7 @@ Several Spire Quarter workshops have received unusual commissions in the past ye
 
 ## Background Knowledge
 
-Your character's background shapes what they already know when the campaign begins. The table below shows what each D&D background unlocks automatically — no skill check required, because this is knowledge your character has from lived experience, not study.
+Your character's background shapes what they already know when the campaign begins. The table below shows what each D&D background unlocks automatically, no skill check required, because this is knowledge your character has from lived experience, not study.
 
 This is **informed knowledge**: deeper than common public knowledge, but not requiring faction trust or dangerous investigation. When a topic from your background comes up at the table, you can expect your character to have more to say than "I've heard of that."
 

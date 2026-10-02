@@ -1,4 +1,4 @@
-# 02 — Graphiti NPC Persistent Memory
+# 02 - Graphiti NPC Persistent Memory
 
 NPCs remember what players told them. Across sessions. Across weeks.
 Service: Graphiti temporal memory at CT124 (10.0.1.124:8000), MCP-enabled.

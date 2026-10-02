@@ -94,9 +94,9 @@ Everything else follows from there.
 
 This book now carries a full Player Companion between the world chapters and the GM toolkit. Point players there when they want more than the core guide without touching spoilers:
 
-- **`characters.md`** — five fully statted pre-made characters tied to Varenhold, plus a table of their relationships. Use them straight out of session zero or mine them for personal hooks.
-- **`shops.md`** — six named establishments with reputation tracks and side quests. Drop-in-friendly for Session 2 onward when the party wants to invest in the city.
-- **`travel.md`** — route writeups and sensory travel beats for every road leaving the city, with GM-only encounter tables collapsed beneath the player descriptions.
-- **`tracker.md`** — the campaign state trackers you can print between sessions: faction reputation, Dawnborn consent, crisis pressure, and living-world notes.
+- **`characters.md`**: five fully statted pre-made characters tied to Varenhold, plus a table of their relationships. Use them straight out of session zero or mine them for personal hooks.
+- **`shops.md`**: six named establishments with reputation tracks and side quests. Drop-in-friendly for Session 2 onward when the party wants to invest in the city.
+- **`travel.md`**: route writeups and sensory travel beats for every road leaving the city, with GM-only encounter tables collapsed beneath the player descriptions.
+- **`tracker.md`**: the campaign state trackers you can print between sessions: faction reputation, Dawnborn consent, crisis pressure, and living-world notes.
 
 Players can safely read all four chapters; GMs can use them as ready-made handouts to make the city feel alive between headline scenes.

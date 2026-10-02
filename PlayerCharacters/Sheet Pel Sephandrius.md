@@ -1,9 +1,9 @@
-# Pel Sephandrius — Character Sheet Summary
+# Pel Sephandrius - Character Sheet Summary
 
 **Class:** Rogue 4 (Inquisitive subclass) / Wizard 4 (Divination subclass) (gestalt)
 **Species:** Human
 **Background:** Criminal
-**Player:** Frank (character sheet name: "Manual" — likely placeholder)
+**Player:** Frank (character sheet name: "Manual", likely placeholder)
 **Alignment:** Neutral Good
 
 ## Stats (Level 4)
@@ -31,13 +31,13 @@
 - **Arcane Recovery:** 1/LR, on Short Rest recover half wizard level in spell slots
 - **Ritual Adept:** Cast ritual spells as rituals
 - **Divination Savant:** Extra Divination spells in spellbook at discount
-- **Portent:** After Long Rest, roll 2d20 and record. Replace any d20 roll (yours or visible creature) with one portent die, once per turn. *[Very powerful — can guarantee success or failure on a roll]*
+- **Portent:** After Long Rest, roll 2d20 and record. Replace any d20 roll (yours or visible creature) with one portent die, once per turn. *[Very powerful; can guarantee success or failure on a roll]*
 
 ## Feats
 - **Alert:** Add Proficiency to Initiative; can swap Initiative with willing ally
 - **Observant:** Insight expertise; Search as Bonus Action
 
-## Spellbook (Wizard — Divination focus)
+## Spellbook (Wizard - Divination focus)
 **Cantrips:** True Strike, Friends, Light
 **1st:** Detect Magic (ritual), Identify (ritual), Shield, Sleep, Feather Fall, Fog Cloud, Comprehend Languages (ritual), Alarm (ritual)
 **2nd:** Web, Hold Person, Detect Thoughts, Locate Object, Phantasmal Force, Rope Trick
@@ -53,7 +53,7 @@
 Stealth +6, Sleight of Hand +6, Perception +6 (expertise), Investigation +6 (expertise), Insight +6 (expertise), Deception +2, Athletics -1
 
 ## Backstory (from sheet)
-Grew up poor, took to stealing. Got arrested and taken in by a wealthy scholar who recognized his raw talent. Studied magic and mathematics to support a career in criminal investigation. Devout follower of Mechanus — loves speaking in terms of probability.
+Grew up poor, took to stealing. Got arrested and taken in by a wealthy scholar who recognized his raw talent. Studied magic and mathematics to support a career in criminal investigation. Devout follower of Mechanus, loves speaking in terms of probability.
 
 *Full backstory in `backstory Pel Sephandrius.md`: connection to Sera Voss (she pulled him out of a burning building), false client hired him to find ritual documents, now in Varenhold following Sera's coded letter.*
 

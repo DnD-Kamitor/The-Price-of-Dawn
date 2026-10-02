@@ -1,4 +1,4 @@
-# 06 — Replace ElevenLabs with openedai-speech
+# 06 - Replace ElevenLabs with openedai-speech
 
 ai-tools.md currently points to ElevenLabs (external, rate-limited, costs money after free tier).
 Replace with openedai-speech at https://tts.research-ready.nl (CT301, always on, no cost, no rate limit).
@@ -57,7 +57,7 @@ curl -s https://tts.research-ready.nl/v1/audio/speech \
   -H "Content-Type: application/json" \
   -d '{
     "model": "tts-1-hd",
-    "input": "I found them in Year Forty-Two. I decoded what they meant over three months. I have known since then. I chose — I told myself I was protecting people from a decision they were not ready to make. I understand now that the explanation is insufficient.",
+    "input": "I found them in Year Forty-Two. I decoded what they meant over three months. I have known since then. I chose - I told myself I was protecting people from a decision they were not ready to make. I understand now that the explanation is insufficient.",
     "voice": "echo",
     "speed": 0.95
   }' \
@@ -90,7 +90,7 @@ generate() {
   sleep 0.5  # avoid hammering the API
 }
 
-# Theron Waide — key lines
+# Theron Waide - key lines
 generate "theron" "echo" "1.0" \
   "The Archive has been closed since the Desperate Winter. I would prefer you did not raise your voice in here." \
   "theron-archive-closed.wav"
@@ -99,7 +99,7 @@ generate "theron" "echo" "0.9" \
   "I found them in Year Forty-Two. I have known since then. I am sorry I was afraid." \
   "theron-reveal-apology.wav"
 
-# Sera Voss — key lines
+# Sera Voss - key lines
 generate "sera" "nova" "0.95" \
   "I'm going to say yes. I've known since the spring." \
   "sera-decision-reveal.wav"
@@ -108,22 +108,22 @@ generate "sera" "nova" "1.0" \
   "She wanted to be a scholar. I tried to teach her the district patrol route so she'd have something practical. She was terrible at it. She'd stop to look at things." \
   "sera-marta-memory.wav"
 
-# Lira Anwick — key lines
+# Lira Anwick - key lines
 generate "lira" "shimmer" "0.95" \
   "Mira won't remember me clearly. She might not remember me at all. She'll have photographs. She'll have Sevra. She'll have sunlight. That last one is the thing. The last one is why." \
   "lira-mira-sunlight.wav"
 
-# Brother Edoran — key lines
+# Brother Edoran - key lines
 generate "edoran" "alloy" "0.85" \
   "My daughter died of grey sickness six years ago. She was seventeen. Her name was Annem." \
   "edoran-annem-reveal.wav"
 
-# Erem — key lines
+# Erem - key lines
 generate "erem" "echo" "0.90" \
   "The Clans will attend the ritual if you want witnesses. We will sing the Return Song. We have been practicing it every year so we would not forget. We thought someone would ask, eventually. We kept time." \
   "erem-return-song-offer.wav"
 
-# Atmospheric narration (danny voice not available — use onyx as substitute)
+# Atmospheric narration (danny voice not available - use onyx as substitute)
 generate "narration" "onyx" "0.85" \
   "Fifty years since the last sunrise. The amber lanterns of Varenhold have burned every hour of every day since. The people who were born that night are still alive. They are fifty years old now. They are the only reason the sun has not returned." \
   "narration-campaign-opener.wav"
@@ -148,11 +148,11 @@ When ready, update Section 1 of ai-tools.md:
 **Find:** step "Create an account at elevenlabs.io (free tier supports limited monthly characters)"
 **Replace with:**
 ```
-Use the local TTS service at https://tts.research-ready.nl — no account needed, no rate limits.
+Use the local TTS service at https://tts.research-ready.nl, no account needed, no rate limits.
 API is OpenAI TTS-compatible. See local-ai-integrations/06-openedai-tts-replace/README.md.
 ```
 
-**Voice Profile table** — add a "Voice ID" column mapping each NPC to the openedai-speech voice ID from the table above.
+**Voice Profile table** - add a "Voice ID" column mapping each NPC to the openedai-speech voice ID from the table above.
 
 ---
 

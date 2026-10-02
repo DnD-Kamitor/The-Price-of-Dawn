@@ -1,6 +1,6 @@
-# Keothi — Backstory
+# Keothi - Backstory
 
-Farmer. No machines, no tools. Does everything by hand — that's why the muscles.
+Farmer. No machines, no tools. Does everything by hand; that's why the muscles.
 
 Heard that a city didn't have a sun. Thought that was strange. Paid a visit to find out how they're farming and growing crops without sunlight.
 

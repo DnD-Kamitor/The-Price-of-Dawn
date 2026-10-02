@@ -22,7 +22,7 @@ Each session is built around a genuine moral dilemma with no correct answer. You
 
 ## Spoiler Map: What You May Read
 
-Everything in the Player's Guide is yours to read freely. Past that point — The World, the Sessions, the GM Toolkit — those chapters are for your GM's eyes only. Reading them will cost you discoveries you're meant to make at the table.
+Everything in the Player's Guide is yours to read freely. Past that point (The World, the Sessions, the GM Toolkit) those chapters are for your GM's eyes only. Reading them will cost you discoveries you're meant to make at the table.
 
 | Chapter | Safe for Players? |
 |---------|------------------|
@@ -287,9 +287,9 @@ Ask your GM to share the relevant prompt file so you can use it between sessions
 
 ## The Character Interview
 
-*Do this before Session 1, ideally one-on-one with your GM. Ten minutes. Answer out loud, not in writing — the answers change when you say them.*
+*Do this before Session 1, ideally one-on-one with your GM. Ten minutes. Answer out loud, not in writing, the answers change when you say them.*
 
-*Your GM isn't collecting backstory. They're listening for who you are. There are no wrong answers, but there are boring ones — you'll know if you're giving one.*
+*Your GM isn't collecting backstory. They're listening for who you are. There are no wrong answers, but there are boring ones; you'll know if you're giving one.*
 
 ---
 
@@ -297,13 +297,13 @@ Ask your GM to share the relevant prompt file so you can use it between sessions
 
 **1. You've been in Varenhold a few days. What surprised you?**
 
-Not the twilight — you knew about that. Something smaller. The way people here do a specific thing you didn't expect. A smell you weren't prepared for. The sound the city makes at 3 AM. Something about the market. What was it?
+Not the twilight - you knew about that. Something smaller. The way people here do a specific thing you didn't expect. A smell you weren't prepared for. The sound the city makes at 3 AM. Something about the market. What was it?
 
-*(What you notice tells us what you're comparing it to — which tells us where you came from and what you're missing.)*
+*(What you notice tells us what you're comparing it to, which tells us where you came from and what you're missing.)*
 
 ---
 
-**2. You came through one of the city gates. Someone was there — a guard, a vendor, a child waiting for someone — and they said something to you. Not important. Just something.**
+**2. You came through one of the city gates. Someone was there (a guard, a vendor, a child waiting for someone) and they said something to you. Not important. Just something.**
 
 What was it?
 
@@ -311,7 +311,7 @@ What was it?
 
 ---
 
-**3. There's a painting in the Lowmark care house. "Lowmark Market at Noon, Year 0 (Before)" by Ceva Doss. It shows the market in real sunlight — the light comes from the left, high up, shadows pointing right, people squinting. You've heard about it, or you've seen it.**
+**3. There's a painting in the Lowmark care house. "Lowmark Market at Noon, Year 0 (Before)" by Ceva Doss. It shows the market in real sunlight - the light comes from the left, high up, shadows pointing right, people squinting. You've heard about it, or you've seen it.**
 
 What do you feel when you look at something that shows a world you've never seen and never will?
 
@@ -321,15 +321,15 @@ What do you feel when you look at something that shows a world you've never seen
 
 ### Part Two: People
 
-**4. The Dawnborn are beloved in Varenhold. Beloved the way certain people become beloved — protectors, healers, the ones who show up. Before this campaign begins, before you know anything about the ritual or the cost — what do you actually think of them?**
+**4. The Dawnborn are beloved in Varenhold. Beloved the way certain people become beloved - protectors, healers, the ones who show up. Before this campaign begins, before you know anything about the ritual or the cost, what do you actually think of them?**
 
 Not what you'd say in public. The honest version, the one you've never said out loud.
 
-*(Some characters admire them. Some are suspicious of anyone who is too beloved. Some feel something more complicated — longing, or shame, or a protectiveness they can't explain.)*
+*(Some characters admire them. Some are suspicious of anyone who is too beloved. Some feel something more complicated, longing, or shame, or a protectiveness they can't explain.)*
 
 ---
 
-**5. Someone in Varenhold already knows your character exists before you arrive. Not a faction. A person — first name, last name. Maybe someone you know well. Maybe someone you've only heard of.**
+**5. Someone in Varenhold already knows your character exists before you arrive. Not a faction. A person - first name, last name. Maybe someone you know well. Maybe someone you've only heard of.**
 
 What's one thing they said to you the last time you saw each other?
 
@@ -337,19 +337,19 @@ What's one thing they said to you the last time you saw each other?
 
 ---
 
-**6. Someone in your character's life has the grey sickness. Stage 1 or 2 — early enough that they're still mostly themselves. It could be a stranger. It could be someone you barely know. But it can't be nobody.**
+**6. Someone in your character's life has the grey sickness. Stage 1 or 2 - early enough that they're still mostly themselves. It could be a stranger. It could be someone you barely know. But it can't be nobody.**
 
-Who? And what does your character do when they see it — the slight lag, the slight grey, the beginning?
+Who? And what does your character do when they see it, the slight lag, the slight grey, the beginning?
 
 *(The grey sickness is Varenhold's grief made visible. How your character responds to it is how they respond to the fact that the world is already partway through losing.)*
 
 ---
 
-**7. Cormac Drell is a Dawnborn dockworker — one of the ten, but not famous for it. He doesn't talk about being Dawnborn. He just works. At some point before the campaign, your character crossed paths with him, or with someone who knew him, or with his reputation in a specific district.**
+**7. Cormac Drell is a Dawnborn dockworker - one of the ten, but not famous for it. He doesn't talk about being Dawnborn. He just works. At some point before the campaign, your character crossed paths with him, or with someone who knew him, or with his reputation in a specific district.**
 
 What did you hear? What's the one-sentence story someone told you about Cormac Drell?
 
-*(Cormac is the campaign's version of ordinary grace. What your character makes of that — admiration, confusion, dismissal — tells us something about what they value.)*
+*(Cormac is the campaign's version of ordinary grace. What your character makes of that, admiration, confusion, dismissal, tells us something about what they value.)*
 
 ---
 
@@ -363,7 +363,7 @@ Which of these sounds closest to right? Which one makes your character most unco
 
 ---
 
-**9. The twilight has been here for fifty years. Someone made decisions that led here — the Archmagister who designed the ritual, the Council who commissioned it, the Auris faith who approved it, or just the accumulation of a hundred small choices nobody thought were important.**
+**9. The twilight has been here for fifty years. Someone made decisions that led here - the Archmagister who designed the ritual, the Council who commissioned it, the Auris faith who approved it, or just the accumulation of a hundred small choices nobody thought were important.**
 
 Who does your character blame? And is that fair, or is it just the story they need to tell?
 
@@ -379,7 +379,7 @@ What would your character refuse to do, even if they believed it was the right t
 
 ---
 
-*These answers aren't fixed. Characters are allowed to be wrong about themselves. What you say now is where you're starting from — five sessions from now, you'll see which of these held and which broke under pressure. That's the story.*
+*These answers aren't fixed. Characters are allowed to be wrong about themselves. What you say now is where you're starting from - five sessions from now, you'll see which of these held and which broke under pressure. That's the story.*
 
 ---
 

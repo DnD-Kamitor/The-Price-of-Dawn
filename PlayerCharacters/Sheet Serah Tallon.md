@@ -1,4 +1,4 @@
-# Serah Tallon — Character Sheet Summary
+# Serah Tallon - Character Sheet Summary
 
 **Class:** Paladin 4 (Oath of Devotion) / Sorcerer 4 (Draconic Bloodline) (gestalt)
 **Species:** Wood Elf
@@ -24,7 +24,7 @@ Youngish wood elf with bronze skin covered in dragonlike scales. Bronze hair, ox
 - **Lay on Hands:** 20 HP pool (restore HP or cure disease/poison)
 - **Channel Divinity (2/short rest):** Divine Sense (detect celestials/fiends/undead as BA), Sacred Weapon (+CHA to attacks for 1 min)
 - **Paladin's Smite:** Divine Smite always prepared; can smite without spell slot 1×/no short rest
-- **Devotion Spells:** always prepared — Protection from Evil and Good, Shield of Faith, Hold Person, etc.
+- **Devotion Spells:** always prepared - Protection from Evil and Good, Shield of Faith, Hold Person, etc.
 
 ## Key Sorcerer Features
 - **Innate Sorcery:** once per day, bonus action to empower spells

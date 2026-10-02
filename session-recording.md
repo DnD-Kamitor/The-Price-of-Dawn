@@ -18,7 +18,7 @@ The Player Companion chapters double as ready-made appendices for any book you p
 
 - **`tracker.md`** captures faction reputation, Dawnborn consent, and crisis pressure. Photograph or export these sheets at the end of every session; the delta between sessions becomes your story outline.
 - **`shops.md`** and **`travel.md`** summarize the downtime quests and road scenes that often vanish from recordings. Pull their tables directly into your session log so readers know why the Grain Measure suddenly trusts you.
-- **`characters.md`** gives you stat blocks, moral hooks, and relationship diagrams for the five pregens — perfect for character pages or epilogues.
+- **`characters.md`** gives you stat blocks, moral hooks, and relationship diagrams for the five pregens, perfect for character pages or epilogues.
 
 Because they're player-safe, you can share these artifacts with the whole table without spoiling later chapters. Treat them as the campaign's primary sources.
 

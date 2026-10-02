@@ -12,7 +12,7 @@ npm install -g @anthropic-ai/claude-code
 npx @claude-flow/cli@latest init --minimal
 ```
 
-No other install needed — ruflo plugins pull from GitHub marketplace on first use.
+No other install needed - ruflo plugins pull from GitHub marketplace on first use.
 
 **Piper audio** (machine-specific, skip if not on the machine with piper installed):
 ```bash
@@ -97,10 +97,10 @@ The campaign book supports embedded audio via piper-sample-generator. Audio file
 ```
 
 Available voices (all in `voices/`):
-- `en_US-danny-low.onnx` — **Preferred for this campaign.** Deepest available male voice. Use for atmospheric narration and serious read-alouds.
-- `en_US-ryan-high.onnx` — Deep American male, high quality. Slight rasp reads as older; use for elder narrators.
-- `en_US-lessac-medium.onnx` — American female voice, medium quality. Lighter tone.
-- `models/en-us-libritts-high.pt` — Multi-speaker PyTorch model, supports speaker blending. Requires more memory.
+- `en_US-danny-low.onnx` - **Preferred for this campaign.** Deepest available male voice. Use for atmospheric narration and serious read-alouds.
+- `en_US-ryan-high.onnx` - Deep American male, high quality. Slight rasp reads as older; use for elder narrators.
+- `en_US-lessac-medium.onnx` - American female voice, medium quality. Lighter tone.
+- `models/en-us-libritts-high.pt`, Multi-speaker PyTorch model, supports speaker blending. Requires more memory.
 
 ### Quick Start
 
@@ -144,10 +144,10 @@ Set `PIPER_ROOT` or `PIPER_VOICE` env vars to override defaults.
 Pattern: `[location-or-npc]-[brief-description].wav`
 
 Examples:
-- `opening-line.wav` — campaign opener read-aloud
-- `session1-archive-opening.wav` — Session 1 five-senses opener
-- `sera-voss-intro.wav` — Sera's first appearance read-aloud
-- `ashring-plaza-description.wav` — atmospheric location description
+- `opening-line.wav`, campaign opener read-aloud
+- `session1-archive-opening.wav`, Session 1 five-senses opener
+- `sera-voss-intro.wav`, Sera's first appearance read-aloud
+- `ashring-plaza-description.wav`, atmospheric location description
 
 ### Embedding in Markdown
 
@@ -161,13 +161,13 @@ The `src` path is always relative to the document root (`audio/filename.wav`). W
 
 ### What to Record
 
-- **Campaign & history narration** — player-safe primers for chapters like `index.md`, `world-lore.md`, and `setting.md`
+- **Campaign & history narration**: player-safe primers for chapters like `index.md`, `world-lore.md`, and `setting.md`
 - **Five-senses scene openers** at the start of each session (GMs can play these to open the scene)
-- **Key NPC introductions** — the first sentence a major NPC speaks
-- **Read-aloud passages** — any text marked as GM read-aloud to players
-- **Atmospheric location descriptions** — the Ashring plaza, the Lowmark Healing House, the Archive
+- **Key NPC introductions** - the first sentence a major NPC speaks
+- **Read-aloud passages** - any text marked as GM read-aloud to players
+- **Atmospheric location descriptions** - the Ashring plaza, the Lowmark Healing House, the Archive
 
-Do not record: GM-only content, mechanical rules text, or anything containing campaign secrets (audio files are served in the public `docs/` directory — treat them as player-visible at all times).
+Do not record: GM-only content, mechanical rules text, or anything containing campaign secrets (audio files are served in the public `docs/` directory, treat them as player-visible at all times).
 
 ---
 
@@ -175,18 +175,18 @@ Do not record: GM-only content, mechanical rules text, or anything containing ca
 
 Goal: swap legacy AI/placeholders with sourced historical photography or paintings, five images per batch. After each batch: rebuild Quarto, run asset guard, commit, push.
 
-### Batch 1 — Completed
-- `varenhold-river-approach.png` — John Atkinson Grimshaw, *Liverpool Quay by Moonlight* (1887), via Wikimedia Commons `Special:FilePath/John_Atkinson_Grimshaw_-_Liverpool_Quay_by_Moonlight_(1887).jpg`.
-- `the-dawnborn-public.png` — Jean-Léon Gérôme, *Prayer in the Mosque* (1871), via Wikimedia Commons `upload.wikimedia.org/.../Prayer_in_the_Mosque.jpg`.
-- `character-creation-table.png` — Photograph *Dungeons and Dragons game* (Alan De Smet, 2007), via Wikimedia Commons `Special:FilePath/Dungeons_and_Dragons_game.jpg`.
-- `amber-workshop-interior.png` — Photograph *Wu Duen-Hou Lantern Workshop* (Taichung City Government, 2015), via Wikimedia Commons `Special:FilePath/Wu_Duen-Hou_Lantern_Workshop.jpg`.
-- `dawnhall-food-kitchen.png` — Imperial War Museums photo *Communal Feeding in Britain during the First World War (Q30634)*, via Wikimedia Commons `Special:FilePath/Communal_Feeding_in_Britain_during_the_First_World_War_Q30634.jpg`.
+### Batch 1 - Completed
+- `varenhold-river-approach.png`, John Atkinson Grimshaw, *Liverpool Quay by Moonlight* (1887), via Wikimedia Commons `Special:FilePath/John_Atkinson_Grimshaw_-_Liverpool_Quay_by_Moonlight_(1887).jpg`.
+- `the-dawnborn-public.png`, Jean-Léon Gérôme, *Prayer in the Mosque* (1871), via Wikimedia Commons `upload.wikimedia.org/.../Prayer_in_the_Mosque.jpg`.
+- `character-creation-table.png`, Photograph *Dungeons and Dragons game* (Alan De Smet, 2007), via Wikimedia Commons `Special:FilePath/Dungeons_and_Dragons_game.jpg`.
+- `amber-workshop-interior.png`, Photograph *Wu Duen-Hou Lantern Workshop* (Taichung City Government, 2015), via Wikimedia Commons `Special:FilePath/Wu_Duen-Hou_Lantern_Workshop.jpg`.
+- `dawnhall-food-kitchen.png`, Imperial War Museums photo *Communal Feeding in Britain during the First World War (Q30634)*, via Wikimedia Commons `Special:FilePath/Communal_Feeding_in_Britain_during_the_First_World_War_Q30634.jpg`.
 
-### Batch 2 — Completed
-- `amber-lantern-concert.png` — Carol I of Romania, *Peleș Castle Interior – Royal Concert Hall* (2022 photo), via Wikimedia Commons `Special:FilePath/Peles_Castle_Interior_-_Royal_Concert_Hall.jpg` (CC BY-SA 4.0).
-- `ashfen-gate-arrival.png` — Johannes Lingelbach, *A street scene by a Roman city gate* (c.1660–1670), via Wikimedia Commons `Special:FilePath/A_street_scene_by_a_Roman_city_gate,_Johannes_Lingelbach.jpeg` (public domain).
-- `ashfen-marsh-travel.png` — Richard Law, *Crossing Llanrhidian Marsh on the causeway* (2011), via Wikimedia Commons `Special:FilePath/Crossing_Llanrhidian_Marsh_on_the_causeway_-_geograph.org.uk_-_2687559.jpg` (CC BY-SA 2.0).
-- `ashfen-wayshrine.png` — Jacques Verlaeken, *Stone wayside column shrine, Gornja Radgona* (2015), via Wikimedia Commons `Special:FilePath/Gornja_Radgona_1525_Wayside_shrine_Christ.jpg` (CC BY-SA 4.0).
-- `ashring-scorched-stones.png` — David Smith, *Scorhill stone circle* (2020), via Wikimedia Commons `Special:FilePath/Scorhill_stone_circle_-_geograph.org.uk_-_6668933.jpg` (CC BY-SA 2.0).
+### Batch 2 - Completed
+- `amber-lantern-concert.png`, Carol I of Romania, *Peleș Castle Interior – Royal Concert Hall* (2022 photo), via Wikimedia Commons `Special:FilePath/Peles_Castle_Interior_-_Royal_Concert_Hall.jpg` (CC BY-SA 4.0).
+- `ashfen-gate-arrival.png`, Johannes Lingelbach, *A street scene by a Roman city gate* (c.1660–1670), via Wikimedia Commons `Special:FilePath/A_street_scene_by_a_Roman_city_gate,_Johannes_Lingelbach.jpeg` (public domain).
+- `ashfen-marsh-travel.png`, Richard Law, *Crossing Llanrhidian Marsh on the causeway* (2011), via Wikimedia Commons `Special:FilePath/Crossing_Llanrhidian_Marsh_on_the_causeway_-_geograph.org.uk_-_2687559.jpg` (CC BY-SA 2.0).
+- `ashfen-wayshrine.png`, Jacques Verlaeken, *Stone wayside column shrine, Gornja Radgona* (2015), via Wikimedia Commons `Special:FilePath/Gornja_Radgona_1525_Wayside_shrine_Christ.jpg` (CC BY-SA 4.0).
+- `ashring-scorched-stones.png`, David Smith, *Scorhill stone circle* (2020), via Wikimedia Commons `Special:FilePath/Scorhill_stone_circle_-_geograph.org.uk_-_6668933.jpg` (CC BY-SA 2.0).
 
 Upcoming batches continue alphabetically through `images/GENERATE-THESE.md` priorities.

@@ -1,4 +1,4 @@
-# Props & Handouts — Session 4
+# Props & Handouts - Session 4
 
 *Click any item below to open it. Print the full page as a PDF using the button below.*
 
@@ -9,16 +9,16 @@
 ## Maps & Drawings
 
 <details>
-<summary>Road to the Ashring — Solennite Intercept (Scene 1)</summary>
+<summary>Road to the Ashring - Solennite Intercept (Scene 1)</summary>
 
-*GM reference for Scene 1 combat. Show to players or describe verbally. Six Blades in professional intercept formation — not a barricade, a negotiation with consequences.*
+*GM reference for Scene 1 combat. Show to players or describe verbally. Six Blades in professional intercept formation, not a barricade, a negotiation with consequences.*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ROAD TO THE ASHRING — COBBLESTONE APPROACH         SCALE: 1:75  ║
+║  ROAD TO THE ASHRING - COBBLESTONE APPROACH         SCALE: 1:75  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  [ASHRING PERIMETER — north, visible through the morning haze]   ║
+║  [ASHRING PERIMETER - north, visible through the morning haze]   ║
 ║       │                                                          ║
 ║  ─────┼──────────────────────────────────────── MAIN ROAD ───── ║
 ║       │                                                          ║
@@ -28,12 +28,12 @@
 ║  ░              spread: 30ft across road                       ░  ║
 ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
 ║                                                                  ║
-║  [PELL — flanking position, 15ft east of road, spellcasting]     ║
+║  [PELL - flanking position, 15ft east of road, spellcasting]     ║
 ║                                                                  ║
-║  [LOW WALL, east — 3ft, difficult terrain to vault]              ║
-║  [DRAINAGE DITCH, west — 5ft wide, costs 10ft movement]          ║
+║  [LOW WALL, east - 3ft, difficult terrain to vault]              ║
+║  [DRAINAGE DITCH, west - 5ft wide, costs 10ft movement]          ║
 ║                                                                  ║
-║  [PLAYERS — arriving from south]                                 ║
+║  [PLAYERS - arriving from south]                                 ║
 ║                                                                  ║
 ║  CONTRACT: inside Commander Varris's coat.                       ║
 ║  DC 12 Perception to spot paper edge. Auto if Varris captured.  ║
@@ -43,17 +43,17 @@
 </details>
 
 <details>
-<summary>The Ashring — Primer Stone Positions (Scenes 2, 3, 5)</summary>
+<summary>The Ashring - Primer Stone Positions (Scenes 2, 3, 5)</summary>
 
-*Hand to players when they reach the Ashring perimeter. Leave on table for Scenes 2, 3, and 5. The stone labels are unlabelled by Dawnborn name until players learn the assignment — add names as discovered.*
+*Hand to players when they reach the Ashring perimeter. Leave on table for Scenes 2, 3, and 5. The stone labels are unlabelled by Dawnborn name until players learn the assignment, add names as discovered.*
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  THE ASHRING — VARENHOLD RITUAL CIRCLE              SCALE: 1:50  ║
+║  THE ASHRING - VARENHOLD RITUAL CIRCLE              SCALE: 1:50  ║
 ║  Standing stones: weathered, 500+ years old. Carvings: 50 yrs.  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║                    [STONE 1 — NORTH]                             ║
+║                    [STONE 1 - NORTH]                             ║
 ║                    (SERA VOSS)                                   ║
 ║                                                                  ║
 ║        [STONE 10]              [STONE 2]                         ║
@@ -73,7 +73,7 @@
 ║                                                                  ║
 ║  DAIS: 5ft raised stone platform at circle center.               ║
 ║  Circle diameter: 40ft. Stone spacing: ~12ft apart.              ║
-║  INVERSION text: carved on dais underface — only visible when    ║
+║  INVERSION text: carved on dais underface - only visible when    ║
 ║  all ten stones are simultaneously active (amber glow).          ║
 ║                                                                  ║
 ║  Correct order for astronomical activation: GM reference only.   ║
@@ -82,7 +82,7 @@
 ```
 
 ::: {.prop-alt-ink}
-*Activation sequence (GM only): brightest to dimmest stars visible on the night of the original ritual. Three source routes: Observatory records (DC 13 Persuasion with Maret Lonn, or DC 15 Thieves' Tools), Corven's combined Notation Key (Fragments 1+2, advantage on DC 12 Arcana), or Tomas Areth (gives it freely if asked — but triggers the Inversion conversation).*
+*Activation sequence (GM only): brightest to dimmest stars visible on the night of the original ritual. Three source routes: Observatory records (DC 13 Persuasion with Maret Lonn, or DC 15 Thieves' Tools), Corven's combined Notation Key (Fragments 1+2, advantage on DC 12 Arcana), or Tomas Areth (gives it freely if asked - but triggers the Inversion conversation).*
 
 *Inversion inscription on the dais underface: "If all ten give the word freely, the word becomes the sun." This is Ending B in plain language.*
 :::
@@ -90,11 +90,11 @@
 </details>
 
 <details>
-<summary>Dawnhall — Common Room, Scene 4 (Cormac)</summary>
+<summary>Dawnhall - Common Room, Scene 4 (Cormac)</summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  DAWNHALL — COMMON ROOM, CRESTWICK LANE             SCALE: 1:50  ║
+║  DAWNHALL - COMMON ROOM, CRESTWICK LANE             SCALE: 1:50  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  [KITCHEN DOOR → north. Sound of food preparation throughout.]   ║
@@ -106,9 +106,9 @@
 ║  │   hands on cup)                        watching)      │        ║
 ║  └──────────────────────────────────────────────────────┘        ║
 ║                                                                  ║
-║  [TWO OTHER DAWNBORN — far table, background only]               ║
+║  [TWO OTHER DAWNBORN - far table, background only]               ║
 ║                                                                  ║
-║  [ALLEY DOOR — south wall. Cormac exits through here.]           ║
+║  [ALLEY DOOR - south wall. Cormac exits through here.]           ║
 ║  [ALLEY behind building: 6ft wide, low wall, lantern above.]     ║
 ║                                                                  ║
 ║  ALLEY NOTE: Cormac found here after exit. He is leaning         ║
@@ -124,15 +124,15 @@
 ## Documents
 
 <details>
-<summary>Solennite Mercenary Contract — found on the Commander (Scene 1)</summary>
+<summary>Solennite Mercenary Contract - found on the Commander (Scene 1)</summary>
 
 *Found on Commander A when captured or searched. DC 12 Perception to spot the paper edge inside the coat; automatic if the Commander is restrained. Hand to players immediately on discovery.*
 
 ---
 
-*[A folded document of heavy paper, wax-sealed with an amber disc. The seal is already broken — the Commander read the final terms this morning.]*
+*[A folded document of heavy paper, wax-sealed with an amber disc. The seal is already broken - the Commander read the final terms this morning.]*
 
-**CONTRACTED ENGAGEMENT — COMPACT SECURITY ARRANGEMENT**
+**CONTRACTED ENGAGEMENT - COMPACT SECURITY ARRANGEMENT**
 
 ```
 Engaging party:   Warden K. Vyne, Amber Compact
@@ -157,11 +157,11 @@ Note on use of force: Incapacitate only. Do not create
 
 Authorised by:    K. Vyne
                   Warden, Amber Compact
-                  [Compact seal — amber wax, sun-in-ring]
+                  [Compact seal, amber wax, sun-in-ring]
 ```
 
 ::: {.prop-alt-ink}
-*"Warden K. Vyne" — this is the first time players have Keseph Vyne's name in writing, tied to an action. The Compact seal identifies the authorizing body. "Section 9 (Security and Institutional Continuity)" is bureaucratic cover — the clause was intended for protecting Spire personnel, not suppressing investigators.*
+*"Warden K. Vyne" - this is the first time players have Keseph Vyne's name in writing, tied to an action. The Compact seal identifies the authorizing body. "Section 9 (Security and Institutional Continuity)" is bureaucratic cover - the clause was intended for protecting Spire personnel, not suppressing investigators.*
 
 *If players show this to the Chancellor: she goes quiet. She knows the Compact seal. She knows what this means. She does not say so immediately.*
 
@@ -171,9 +171,9 @@ Authorised by:    K. Vyne
 </details>
 
 <details>
-<summary>Primer Stone Inscriptions — assembled clockwise from north stone (Scene 2)</summary>
+<summary>Primer Stone Inscriptions - assembled clockwise from north stone (Scene 2)</summary>
 
-*Hand to players when they examine the stones closely. The partial text is on each stone separately — this assembled version is what they reconstruct when they read all ten in clockwise order. Do not hand out until players begin reading the stones.*
+*Hand to players when they examine the stones closely. The partial text is on each stone separately - this assembled version is what they reconstruct when they read all ten in clockwise order. Do not hand out until players begin reading the stones.*
 
 ---
 
@@ -192,7 +192,7 @@ Authorised by:    K. Vyne
 > *not where it is.*
 
 **STONE 5:**
-> *I cannot be taken —*
+> *I cannot be taken -*
 
 **STONE 6:**
 > *only given.*
@@ -215,27 +215,27 @@ Authorised by:    K. Vyne
 
 > I am the moment before and the moment after.
 > I live where the fire was, not where it is.
-> I cannot be taken — only given.
+> I cannot be taken, only given.
 > I am what remains when everything chosen has been honored.
 
 ::: {.prop-alt-ink}
-*Answer: DAWN. Or ASH. Or CONSENT. All three trigger the stones — the mechanism recognizes synonyms for the same thing. Players who find ASH and DAWN and ask about CONSENT are doing the work the campaign has been building toward.*
+*Answer: DAWN. Or ASH. Or CONSENT. All three trigger the stones - the mechanism recognizes synonyms for the same thing. Players who find ASH and DAWN and ask about CONSENT are doing the work the campaign has been building toward.*
 
 *Correct answer: all ten stones glow amber simultaneously for the first time in fifty years. Secondary text appears on the dais underface, only readable with the stones active.*
 
-*Wrong answer: one stone glows. The others do not. This tells players the mechanism requires all ten simultaneously — a preview of the Inversion Circle's core problem.*
+*Wrong answer: one stone glows. The others do not. This tells players the mechanism requires all ten simultaneously - a preview of the Inversion Circle's core problem.*
 :::
 
 </details>
 
 <details>
-<summary>Chancellor's Sealed Letter — delivered after Scene 5</summary>
+<summary>Chancellor's Sealed Letter - delivered after Scene 5</summary>
 
 *The Chancellor's aide delivers this during or immediately after the Scene 5 combat. Hand to whoever is nearest when the moment arrives. The seal is the Chancellor's personal mark, not the official Varenhold crest.*
 
 ---
 
-*[A sealed letter, single sheet, folded twice. The wax is still faintly warm. The seal: a plain disc with a single horizontal line — the Chancellor's private mark, not the official Varenhold crest.]*
+*[A sealed letter, single sheet, folded twice. The wax is still faintly warm. The seal: a plain disc with a single horizontal line - the Chancellor's private mark, not the official Varenhold crest.]*
 
 > The food assessment came back this morning. I delayed reading it for two days. I should not have.
 >
@@ -247,29 +247,29 @@ Authorised by:    K. Vyne
 >
 > What you do with it is yours to decide. That was always the arrangement.
 >
-> — M.O.
+> - M.O.
 
 ::: {.prop-alt-ink}
 *The Chancellor does not say "hurry." She says "I am not asking you to hurry." That distinction is deliberate and she knows the players will notice it.*
 
-*"That was always the arrangement" — she hired them to find the truth. She did not hire them to give her the answer she needed. The seven-day clock is information, not an order.*
+*"That was always the arrangement" - she hired them to find the truth. She did not hire them to give her the answer she needed. The seven-day clock is information, not an order.*
 
-*Seven days to the campaign's end. Whatever path players are on — Transfer, Inversion, Willing Sacrifice — the clock is now concrete and running.*
+*Seven days to the campaign's end. Whatever path players are on (Transfer, Inversion, Willing Sacrifice) the clock is now concrete and running.*
 :::
 
 </details>
 
 <details>
-<summary>Tomas Areth's Asymmetry Journal — excerpt (found in Session 2, readable now)</summary>
+<summary>Tomas Areth's Asymmetry Journal - excerpt (found in Session 2, readable now)</summary>
 
 *If players found Tomas's coded notebook in Session 2 and have decoded it (DC 14 Investigation, legal-case notation), they can read this now. Hand over if they attempt to consult it during Scene 3 or when asking about the star sequence.*
 
 ---
 
-*[The journal is written in the notation used for legal appellate cases — citation formatting, marginal flags, cross-reference marks. To someone who knows the code: formal, exhaustive, and deeply frightened.]*
+*[The journal is written in the notation used for legal appellate cases - citation formatting, marginal flags, cross-reference marks. To someone who knows the code: formal, exhaustive, and deeply frightened.]*
 
 ```
-ASYMMETRY QUESTION — working notes
+ASYMMETRY QUESTION: working notes
 
 Five-point distribution anomaly (Ritual Night):
 
@@ -297,7 +297,7 @@ Five-point distribution anomaly (Ritual Night):
 ```
 
 ::: {.prop-alt-ink}
-*"One of the five has a daughter" — Tomas knows Lira is in the surge group. He has been sitting with this for months. This is the Asymmetry path (Path 2 from Session 3): five willing Dawnborn could complete the ritual, protecting the other five. It requires Lira. She knows.*
+*"One of the five has a daughter" - Tomas knows Lira is in the surge group. He has been sitting with this for months. This is the Asymmetry path (Path 2 from Session 3): five willing Dawnborn could complete the ritual, protecting the other five. It requires Lira. She knows.*
 
 *Players who pursue this path instead of the Inversion must ask all five surge-phase Dawnborn. Two have not been confirmed willing. The math works. The consent question does not simplify.*
 :::
@@ -309,7 +309,7 @@ Five-point distribution anomaly (Ritual Night):
 ## Player Moments
 
 <details>
-<summary>Any PC — Cormac Walks Out (Scene 4)</summary>
+<summary>Any PC - Cormac Walks Out (Scene 4)</summary>
 
 *Play when Cormac exits through the alley door. Give to whoever follows him.*
 
@@ -317,7 +317,7 @@ Five-point distribution anomaly (Ritual Night):
 
 He walked out without slamming the door. That's the part you keep coming back to.
 
-You find him in the alley. He is leaning against the wall with his eyes closed. He is not running. He has nowhere to run to. He has been Dawnborn his entire life — there is no version of this city where that isn't true.
+You find him in the alley. He is leaning against the wall with his eyes closed. He is not running. He has nowhere to run to. He has been Dawnborn his entire life; there is no version of this city where that isn't true.
 
 He doesn't react to you arriving. He already knew someone would come.
 
@@ -330,9 +330,9 @@ He needs someone to stand in the alley with him without immediately asking him t
 </details>
 
 <details>
-<summary>PC who asked Ysel genuinely — Her acknowledgment (Scene 4 or earlier)</summary>
+<summary>PC who asked Ysel genuinely - Her acknowledgment (Scene 4 or earlier)</summary>
 
-*Play for whichever player, in any previous session, asked Ysel Maren a direct question about her consent without an agenda behind it. If no player did this, hold the card — it belongs to a moment that didn't happen.*
+*Play for whichever player, in any previous session, asked Ysel Maren a direct question about her consent without an agenda behind it. If no player did this, hold the card; it belongs to a moment that didn't happen.*
 
 ---
 
@@ -357,7 +357,7 @@ You asked her. You didn't need the answer to be yes. That's the difference.
 *Player-facing. Hand out when players first make contact with or research a faction. No GM secrets included. Each document is styled as the faction would produce it - intercepted or publicly distributed.*
 
 <details>
-<summary>⊥ The Concordance of the Withdrawn — Intercepted Document</summary>
+<summary>⊥ The Concordance of the Withdrawn - Intercepted Document</summary>
 
 *Hand to players when they first encounter or research the Dawnless. Framed as a recovered internal document - theological in register, operational at the edges.*
 
@@ -413,7 +413,7 @@ We are the passage now.
 </details>
 
 <details>
-<summary>✿ The Flowering — Recovered Correspondence</summary>
+<summary>✿ The Flowering - Recovered Correspondence</summary>
 
 *Hand to players when they first encounter evidence of The Flowering - a letter, a pressed flower left somewhere, a name spoken by someone who goes quiet immediately after. The Flowering does not announce itself. It arrives.*
 
@@ -466,7 +466,7 @@ the petals are one too many. the center is dark.]
 </details>
 
 <details>
-<summary>✦ The Restorers — Public Pamphlet</summary>
+<summary>✦ The Restorers - Public Pamphlet</summary>
 
 *Hand to players when they first encounter Restorer literature or ask who Brother Edoran is. This is distributed openly - posted on Dawnhall boards, pressed into hands at the market.*
 
