@@ -645,40 +645,57 @@ This is not a request the party can sidestep. The cube has already been given. H
 </details>
 
 <details>
-<summary>📄 Tomas Areth — If Players Visit Him This Session</summary>
+<summary>📄 Tomas Areth — Cube Collection</summary>
 
-*Want:* The circle to close without anyone performing certainty they don't actually have.
-*Fear:* That his memorized activation sequence contains an error he won't discover until the moment it matters.
-*Lie:* He is not afraid.
+*Type: The Puzzle. He needs a second mind on the sequence before he can let go.*
 
-*Physical:* Early forties. Thin, deliberate. Ink stains on his right hand — permanent, not today's. His notebook is always open somewhere nearby. He has the manner of someone who has thought about this specific moment for a long time and is not surprised it has arrived.
+*Want:* The circle to close without anyone performing certainty they do not actually have.
+*Fear:* That his activation sequence contains an error he will not find until the moment it matters and cannot be fixed.
+*Lie:* He is not afraid. He has checked the same column four times and cannot check it a fifth time alone, and this does not frighten him at all.
 
-The scene begins when players ask for the cube OR ask about the sequence. He does not give either immediately.
+*Physical:* Early forties. Thin, deliberate. Ink stains on his right hand — not today's, permanent. Four versions of the same calculation sit on his desk in four different inks. His notebook is open to a page whose binding has cracked from being read too many times. He does not look like a man who has been waiting. He looks like a man who has been working.
 
-> *"Tell me first. What are you planning to do with it?"*
+**Setup:** He sees them. He sees the box. He is quiet for too long.
 
-**If they explain the Inversion path:**
+> *"Sit down. I need to show you something before we talk about the cube."*
 
-Tomas goes still. Quiet for longer than is comfortable. Then:
+He opens the notebook to the sequence page. Eight columns of star designations, astronomical notation from fifty years ago.
+
+> *"This is the activation order. Brightest to dimmest, as they appeared on the ritual night. This is how the cubes go into the box. I have checked it four times. I cannot check it a fifth — I have looked at it too long to see it anymore. I need someone else to go through it with me."*
+
+**The Puzzle:**
+
+He hands over the star charts and a rubbing of the Ashring dais's central star map carving. The party works through the sequence to verify it.
+
+- **DC 14 Arcana** to work through it independently.
+- Advantage if players visited the Ashring dais this session and examined the star map.
+- Tomas assists if asked — also grants advantage.
+- **On success:** The sequence confirms — with one catch. A potential transposition in the sixth column. The moment someone points to it, Tomas catches it: *"There. I have been staring at that for three days and my eye kept sliding past it."* The relief is physical. He marks it, closes the notebook, and holds it still for a moment.
+- **On failure:** 30 more minutes of work, then automatic success. He is patient with genuine effort. He is impatient only with people who pretend to check without looking.
+
+**After verification — his three questions:**
+
+He is quiet. Then:
 
 > *"Say that again. Slowly. The part where no one has to die."*
 
-He asks three questions in order. Let him ask them. Do not rush past them.
+He asks these in order. Do not rush past them.
 
-1. > *"Is Ellan Voss still alive?"* [Yes] *"I didn't know that. I assumed the Dawnless had her. I assumed they'd taken her years ago."*
-2. > *"All ten. Not nine. Not ten minus one. Ten."* [Confirmed] *"Then who is the tenth? There was always one we couldn't locate."*
-3. > *"When you say 'freely' — you mean actually freely. Not convinced because the alternative is worse."* [Confirmed] *"Then I have to think about whether I am free. Give me a moment."*
+1. *"Is Ellan Voss still alive?"* [Yes] *"I didn't know that. I assumed the Dawnless had her years ago."*
+2. *"All ten. Not nine. Ten."* [Confirmed] *"Then who is the tenth? There was always one we could not account for."*
+3. *"When you say freely — you mean actually freely. Not convinced because the alternative is worse."* [Confirmed] *"Then I have to think about whether I am free. Give me a moment."*
 
-He is quiet. Not performing thought — actually in it.
+He is quiet. Not performing thought. Actually in it. Players who interrupt receive no hostile response. He simply waits until he is done.
 
-Then: *"I'll give you the sequence. But you need to understand something. If this doesn't succeed — if it's nine voices instead of ten — the sequence is in the wrong hands. Not your hands. Anyone who comes after you could use it to force this instead of invite it. I am trusting you with the mechanism. Don't use it like one."*
+> *"I will give you the sequence. But understand this: if this fails — if it is nine voices instead of ten — the sequence is now in the wrong hands. Not yours. Anyone who comes after you. I am trusting you with the mechanism. Do not use it like one."*
 
-His cube goes with the sequence. He does not separate them.
+Cube and verified sequence together. He does not separate them.
 
-**If players pressure him:**
-> *"No. I know what pressure looks like. I know what it feels like from the inside. You can ask me again when you've stopped doing it."*
+**If players pressure him at any point:**
 
-This is not hostile. It is absolute.
+> *"No. I know what pressure looks like. I know what it feels like from the inside. Ask me again when you have stopped."*
+
+Not hostile. Absolute.
 
 </details>
 
