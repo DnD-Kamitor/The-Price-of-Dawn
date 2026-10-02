@@ -1,3 +1,23 @@
+> ⚠️ **TODO — INCOMPLETE WORK FROM SESSION 4** ⚠️
+>
+> The following items are **unfinished** and must be completed before running Session 5. Most were promised, some were outlined in chat but never written into the file, others are outright missing. This note exists because the AI working on this material delivered repeated rounds of bullet-point GM notes dressed up as scenes — outlines without prose, structure without drama, mechanics without the human moment that makes them work.
+>
+> **Missing scenes (not in session4.md):**
+> - **Nin Fletch cube collection scene** — needs full prose: find them at the Ashring-Lowmark junction crossroads (DC 10), walk with them in silence, ask "are you coming?" and wait. The beat is patience, not persuasion.
+> - **Orya Doss cube collection scene** — needs full prose: she's already at her Primer Stone. She's been there since the fourth bell. She sees you coming. "Same mouth, same choice." The beat is reward after hard scenes — let it land.
+>
+> **Scenes present but needing prose (session4.md has GM notes, not scenes):**
+> - **Sera Voss** — outline exists, but reads as briefing notes. Needs the drama of a woman who knows too much to be sure her yes is hers.
+> - **Ysel Maren** — outline exists. The "ask how she is" beat is there but flat. Needs weight behind 7 months of being the person everyone trusted to be fine.
+> - **Cormac Drell** — outline has good bones. The alley scene after he walks out needs more breath in it.
+>
+> **Missing assets (images):**
+> - 8 Dawnborn portrait images: Tomas Areth, Davin Shore, Ysel Maren, Orya Doss, Cormac Drell, Aldric Stone, Nin Fletch, Petra Vane — all absent.
+>
+> **Other deferred items:**
+> - Obsidian Ring of Contrariwise needs a d6 compulsion table and combat effect block.
+> - Davin Shore / Mira Shore scene is a Session 5 opener — stub exists but no prose.
+
 # Session 5 — The Price of Dawn (Level 8)
 
 *Dilemma: When the "right" choice and the "good" choice are different, which do you make?*

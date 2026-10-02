@@ -835,6 +835,96 @@ DC 14 Insight: she is not stalling. She is protecting someone, and she knows exa
 
 ---
 
+<details>
+<summary>📄 Nin Fletch — Cube Collection</summary>
+
+*Type: The Patience. They already know their answer. They needed someone to stand at the crossroads with them and ask directly.*
+
+*Want:* To stop standing at the junction waiting for the choice to make itself.
+*Fear:* That deciding will feel like losing something, even if the something was only the option of not deciding.
+*Lie:* That they haven't already decided. They have. They've been decided for two weeks.
+
+*Physical:* Somewhere in their forties. Slight, unhurried. The kind of stillness that is not calm but rather the product of having taught themselves to take up less space than they need. They carry their cube in their left coat pocket; it has worn a groove there from being handled. They clock the Concordance Stone immediately when the party arrives. They do not acknowledge it.
+
+**Finding them:** DC 10 Perception or Investigation. They are at the junction of Ashring Road and Lowmark Lane — the precise place where two districts lean against each other. Standing. Watching foot traffic cross between them. Not waiting for anyone in particular.
+
+**The approach:** Do not come at them with mission talk. Walk up. Stand at the junction with them. Let there be a moment.
+
+If the party opens immediately with the ritual, the stakes, or a request: they look at the middle distance.
+
+> *"I know. Give me a minute."*
+
+That minute is real. Let it run.
+
+If a player simply stands with them without pushing — in the specific company of someone willing to wait — they eventually speak:
+
+> *"It's easier with someone here. I couldn't decide which way to go by myself. Both ways felt the same and then neither way felt like anything at all."*
+
+Still not moving.
+
+**Unlock:** One player asks, plainly: *"Are you coming?"*
+
+No context needed. Just the question.
+
+A pause. Long enough to be real.
+
+> *"I've known for two weeks. I just needed someone to say it out loud."*
+
+They take the cube from their left pocket. It has worn a groove in the lining from being taken out and put back many times.
+
+> *"I kept hoping the decision would feel different once I'd made it. It doesn't feel like anything. Maybe that means it's real."*
+
+Cube goes in the box. They do not wait to see where it sits. They are already looking back at the junction.
+
+**If players push or press before the question:** They go quiet. Not hostile. Not shut down. Just waiting for the party to stop moving long enough to stand somewhere with them. The mechanic is not persuasion — it is presence.
+
+</details>
+
+---
+
+<details>
+<summary>📄 Orya Doss — Cube Collection</summary>
+
+*Type: The Freebie. She decided a long time ago. No one asked.*
+
+*Want:* To be found. Not persuaded, not briefed — just found. She has been ready so long it stopped feeling like readiness and started feeling like furniture.
+*Fear:* That she will be the one they almost forgot. That someone will arrive apologetic, saying they ran out of time.
+*Lie:* None. She is exactly what she appears to be. This is unusual enough to be its own detail.
+
+*Physical:* Late thirties. Dark, composed, with the particular unhurried quality of someone who has done all her arguing with herself already. Her Primer Stone is in the quieter northern edge of the Ashring, slightly apart from the main cluster. It suits her.
+
+**The arrival:** She is already there when the party comes. Sitting on the carved base of her Primer Stone, legs folded, hands in her lap, watching the amber overhead. She looks like she has been sitting for hours, which she has — since the fourth bell, when she couldn't sleep and came here instead.
+
+She sees the box from thirty feet out.
+
+> *"Good. I was starting to think I'd have to come find you."*
+
+She stands, brushes stone dust from her coat, and walks toward them without hurry.
+
+> *"I've been here since the fourth bell. Couldn't sleep. Came here instead."*
+
+She looks at the box.
+
+> *"I decided a long time ago. I just hadn't told anyone, because no one had asked."*
+
+She reaches into her coat. The cube is already in her hand.
+
+> *"Same mouth, same choice."*
+
+She places it in the box herself. Her Primer Stone responds before she steps back from it — a low tone, brief, like something settling into place. She looks back at it once.
+
+> *"There. Now it knows too."*
+
+She turns back to them.
+
+> *"Cormac was at the Dawnhall two hours ago. Still sitting. You might want to get there before Ysel runs out of patience — in fairness, she has had enormous patience. But everyone has a limit."*
+
+**No unlock mechanic.** This is the reward. After Aldric's promise, Tomas's verification, Sera's need-to-be-asked, Ysel's seven months unnoticed — Orya is the scene that breathes out. Let it.
+
+</details>
+
+---
+
 </details>
 
 <details>
