@@ -548,9 +548,11 @@ The Dusk Priest's defeat in Session 3 agitated the Ashring. The megaliths now hu
 <details>
 <summary>📄 The Diagnostic Puzzle - Each Stone's Echo</summary>
 
-Each stone radiates a psychic echo reflecting its assigned Dawnborn's emotional stance on the ritual.
+Each stone radiates a psychic echo - not a memory, but the Dawnborn's emotional stance on the ritual rendered as image and sensation. The stones are not recording. They are remembering, and they have been remembering the same night for fifty years.
 
-**Reading a stone:** DC 12 Perception to detect the psychic aura; DC 14 Arcana to decipher the vision below. Touching a stone directly without checking deals 1d8 psychic damage from raw emotional feedback.
+**Reading a stone:** DC 12 Perception to detect the psychic aura; DC 14 Arcana to decipher the vision below. Touching a stone directly without checking deals 1d8 psychic damage - and the damage is the least of it. The toucher leaves carrying a splinter of the stone's grief: for the next hour, at the edge of every thought, there is a door closing, and a child's voice too faint to make out the words. It fades. It does not fade all the way.
+
+*When a player reads a stone, the stone reads them back. Nothing is taken, nothing is shown - but each player who succeeds understands afterward that they were seen, completely, for the space of a breath, and that the thing that saw them has been waiting fifty years to be looked at again.*
 
 | Stone | Vision | What it reveals |
 |-------|--------|-----------------|
@@ -565,14 +567,22 @@ Each stone radiates a psychic echo reflecting its assigned Dawnborn's emotional 
 | **Stone 9** - Aldric Stone | A forge. The heat is fine. Work is good. A man finishing a piece that was done three weeks ago. He keeps refining it because there is nothing else to do while he waits. | Already yes. Has been for years. The cube is in his apron pocket. He has been carrying it for three weeks. **Start here.** |
 | **Stone 10** - Davin Shore | Cold stone, silent and empty. | Dead for twenty years. His cube passed to his daughter Mira Shore outside the city (Session 5 objective). |
 
-*Stone 6b (the Iza position, marked by a hollow in the dais floor rather than a standing stone): no psychic image, only a persistent pocket of warm air.*
+*Stone 6b (the Ixa position, marked by a hollow in the dais floor rather than a standing stone): no psychic image, only a persistent pocket of warm air - warmer than the other stones, warmer than the plaza, warm in a way that has nothing to do with the Ashring. Anyone who stands in that hollow for more than a moment finds their own breath coming easier, and does not know why, and does not want to step out.*
+
+**The shared horror (reveal only if players read all ten stones):** Each vision has a figure at its edge that none of the Dawnborn look at directly - a small figure, out of focus, the same one in every single vision. It is not in any of the assigned positions. It is standing where the hollow is. The stones do not know what it is. The stones only know that it was supposed to be there and wasn't, and that its absence is the reason the sun is still dark. Players who push at this (DC 17 Arcana) see the figure's face for a single instant - a tabaxi, adult, warm - and then it is gone, and the stone goes cold as if ashamed.
 
 **What players learn from a successful reading of all stones:**
 - Priority order: Aldric (Stone 9, start here) → Sera, Ysel, Orya, Tomas, Nin Fletch (willing or near-willing) → Cormac (wavering, needs care) → Lira (harder) → Petra Vane (missing, Session 5)
 - Davin Shore's cube is with his daughter outside the city - the box can only be completed in Session 5 unless they go get it now
 - The box needs 8 cubes. They will not have all 8 today.
 
-**Also on the dais:** The activation sequence (brightest to dimmest stars visible on the ritual night) is encoded in the dais's central star map carving. DC 15 Arcana to read it correctly; Tomas Areth can assist (advantage). This is the ORDER for placing cubes in Session 5.
+**Also on the dais:** The activation sequence - the order the cubes go into the box - is encoded in the dais's central star map carving. DC 15 Arcana to read the astronomical order (brightest to dimmest stars visible on the ritual night); Tomas Areth can assist (advantage).
+
+But around the star map, cut into the stone in a hand that shook - Corven's - is a riddle. Read it aloud:
+
+> *"Ten lights to hold the door. Nine that gave, and one that said no. Read them brightest to dimmest, and the order will not save you. What saves is the one who was never a star at all. She is not the last of the sequence. She is the reason there is a sequence."*
+
+**What the riddle means (do not tell players):** The cubes are placed brightest-to-dimmest - that is the mechanical order. But the eleventh position, Ixa's, is not part of the star map and cannot be placed by the map's logic. She is "the one who was never a star." The riddle is Corven's confession, carved fifty years ago by a man who did not yet know what he was confessing to. Players who solve it now will carry it into Session 5. Players who don't will feel it click when Ixa steps onto the eleventh stone. Either way, it is the campaign's question, written in stone before anyone knew to ask it.
 
 </details>
 
@@ -677,11 +687,15 @@ He opens the notebook to the sequence page. Eight columns of star designations, 
 
 He hands over the star charts and a rubbing of the Ashring dais's central star map carving. The party works through the sequence to verify it.
 
-- **DC 14 Arcana** to work through it independently.
+Each of the eight positions is marked with a constellation symbol, and beneath each symbol, in Corven's cramped hand, is the constellation's old name in the pre-Twilight tongue. Tomas has spent forty years with these names and no longer sees them. A player who does will see what he can't: **the first letter of each name, read in order, spells a word.** In the correct order - brightest to dimmest - the eight names spell **FREEWILL**. Corven did not choose the sequence. He chose the word, and built the sequence to hide it.
+
+But the copy Tomas has been checking carries a transposition - the sixth and seventh names swapped - so the acrostic no longer reads. The moment a player points at the two swapped symbols and says what the word is *supposed* to be, Tomas goes very still, and then something in his face breaks open in a way that is not relief. *"FREEWILL. He left us a word, not a formula."* He has been verifying arithmetic for forty years, and it was never arithmetic.
+
+- **DC 14 Arcana** to work through the astronomical order independently.
 - Advantage if players visited the Ashring dais this session and examined the star map.
-- Tomas assists if asked, also grants advantage.
-- **On success:** The sequence confirms - with one catch. A potential transposition in the sixth column. The moment someone points to it, Tomas catches it: *"There. I have been staring at that for three days and my eye kept sliding past it."* The relief is physical. He marks it, closes the notebook, and holds it still for a moment.
-- **On failure:** 30 minutes of tedious recalculation before arriving at the answer. He tolerates honest struggle, but bristles at carelessness.
+- Tomas assists if asked, also grants advantage - but he cannot find the transposition himself. He has looked at it too long. Only a player's fresh eyes can catch it; this is the point of the scene.
+- **On success:** The sequence confirms and the acrostic resolves to FREEWILL. The moment someone says it, Tomas catches the transposition: *"There. I have been staring at that for three days and my eye kept sliding past it."*
+- **On failure:** 30 minutes of tedious recalculation produces the correct order - but the word is never found. The party gets the sequence without the confession, and they will not know, until Session 5, that the ritual's instruction was one word all along: free will. Tomas tolerates honest struggle, but bristles at carelessness.
 
 **After verification:**
 
@@ -695,6 +709,16 @@ He confirms three critical points:
 3. *"Freely willing, without coercion?"* [Confirmed - he takes a minute to weigh his own choice.]
 
 He sits in silent contemplation, ignoring interruptions until he has resolved his doubts.
+
+He looks at the word on the page - FREEWILL - and something settles in him that is not comfort.
+
+> *"Fifty years ago one of us said no. Ellan. And the whole thing stopped. He wrote the reason into the sequence, and none of us saw it until now. The ritual runs on people being free to refuse."*
+
+He is quiet for a moment.
+
+> *"Which means it can always stop again. Which means it was never going to be safe. I don't know whether that makes it easier to say yes or impossible."*
+
+He does not expect an answer.
 
 > *"I will give you the sequence. But understand this: if this fails, if it is nine voices instead of ten, the sequence is now in the wrong hands. Not yours. Anyone who comes after you. I am trusting you with the mechanism. Do not use it like one."*
 
@@ -1030,9 +1054,9 @@ The party will have to decide whether to finish them. These are not monsters. Th
 
 **Ysel Maren** - Tall Ashfen woman watching him with unblinking, calm resolve.
 
-**Want:** To escape the burden of his earlier promise.
-**Fear:** Publicly admitting his courage failed.
-**Lie:** "I stand by what I told Edoran." In truth, panic has paralyzed him.
+**Want:** To not have to look at his own yes.
+**Fear:** That when he finally looks, he will find it was never courage - that saying yes was a way to die without having to do it himself, and he is not brave enough to admit the difference.
+**Lie:** "I stand by what I told Edoran." He isn't sure there was ever a self standing behind that yes at all.
 
 **Setup:** Players enter the Dawnhall to find Cormac seated at the communal table with Ysel watching from across the bench. As the party steps in, Ysel breaks the silence: *"Do you still mean what you told Edoran?"*
 
@@ -1110,13 +1134,15 @@ Not present at the Dawnhall. Players can learn her location from Tomas (he knows
 <details>
 <summary>📄 Setup & Secondary Objective</summary>
 
-**Before the scene:** At dusk, the Ashring's hum is dead silent. DC 13 Arcana detects an active magical dampening field siphoning energy from the stones.
+**Before the scene:** At dusk, the Ashring's hum is dead silent. DC 13 Arcana detects an active magical dampening field siphoning energy from the stones. The air near the Ashring tastes of copper, like the inside of a mouth.
 
-**Setup:** Evening. Players return to the Ashring with however many cubes they have gathered. The Concordance has been watching all session. The morning cell was a warning. This is not a warning. A senior Concordance cell has moved into the Ashring site - they arrived while the party was at the Dawnhall. There are seven of them: four Unlit operatives, two Priests of the Inward Crescent, and a single figure standing at the central dais who has not moved since they arrived. The dais is surrounded by a circle of obsidian powder. The Concordance Stone's hiding hollow has been found and opened. The hollow is empty - they have not found the box itself, because the players have it. They are waiting.
+**Setup:** Evening. Players return to the Ashring with however many cubes they have gathered. The Concordance has been watching all session. The morning cell was a warning. This is not a warning. A senior Concordance cell has moved into the Ashring site - they arrived while the party was at the Dawnhall. There are seven of them: four Unlit operatives, two Priests of the Inward Crescent, and a single figure standing at the central dais who has not moved since they arrived. The dais is surrounded by a circle of obsidian powder, laid in a line fine as a thread and dark as a closed eye. The Concordance Stone's hiding hollow has been found and opened. The hollow is empty - they have not found the box itself, because the players have it. They are waiting.
 
-Aldric Stone stands trapped inside the obsidian circle, guarded by silent priests who have hemmed him in with suppressive runes.
+There is blood on the flagstones near the hollow - not much, not Aldric's. Someone else tried to stop this before the party arrived, and the Concordance dealt with them quietly and left them somewhere out of sight.
 
-**Secondary Objective (state before combat begins):** Get Aldric out of the obsidian circle before the Priests complete the suppression ritual they have been building. The circle is not finished - they needed the Concordance Stone to anchor it and they don't have it. They are improvising. If Aldric is inside the circle when it completes (end of round 4 if uninterrupted), his connection to his Primer Stone is severed for 24 hours. He cannot give his cube's consent-link without it. He becomes the ritual's missing piece.
+Aldric Stone stands trapped inside the obsidian circle, guarded by silent priests who have hemmed him in with suppressive runes. He has not been bound and he has not been hurt, and he has stood there for forty minutes while the priest nearest him said nothing at all - which is worse than threats.
+
+**Secondary Objective (state before combat begins):** Get Aldric out of the obsidian circle before the Priests complete the suppression ritual they have been building. The circle is not finished - they needed the Concordance Stone to anchor it and they don't have it. They are improvising. If Aldric is inside the circle when it completes (end of round 4 if uninterrupted), his connection to his Primer Stone is severed for 24 hours. *And the severing is not painless. It is a spiritual amputation. Aldric will not scream. He will go very white and very still, and the light will go out of him the way a wick takes. A week ago he was the warmest man in the city; tonight he is just cold.* He cannot give his cube's consent-link without the connection. He becomes the ritual's missing piece.
 
 **Enemies:**
 - Unlit Operative ×4: Use the stat block from Scene 1.
@@ -1128,7 +1154,7 @@ Aldric Stone stands trapped inside the obsidian circle, guarded by silent priest
 <details>
 <summary>📄 The Opening - Before Initiative</summary>
 
-The Null-Warden turns from the dais - an elderly shadar-kai with weathered obsidian eyes, wearing an exposed crescent talisman.
+The Null-Warden turns from the dais - an elderly shadar-kai with weathered obsidian eyes, wearing an exposed crescent talisman. There is a settled, terrible calm to it, the calm of something that has already imagined this fight ending and is not troubled by the shape of it.
 
 They speak. Not loudly.
 
@@ -1142,9 +1168,11 @@ They look at Aldric.
 
 > *"He understands. He has had forty minutes to understand. Ask him yourself, if you like. We did not threaten him. We explained what will happen if this goes forward, and he is still here, which means he is either very committed or he has not entirely made up his mind. We find both outcomes acceptable."*
 
+They look back at the party, and something moves behind the grey of their eyes - not anger, not fear. Certainty.
+
 Then the Priests begin the suppression circle (murmuring, the obsidian powder shifting) and the Null-Warden turns back to the dais.
 
-**Social path:** DC 17 Persuasion (or revealing that the Unmoved One's true goal is corruption, not prevention) causes one of the Priests to stop. The other continues. The Null-Warden does not turn. What the stopping Priest does next (relay it upward, defect, do nothing) depends on what the party says in the next thirty seconds. This is not a guaranteed out. It is a crack.
+**Social path:** DC 17 Persuasion (or revealing that the Unmoved One's true goal is corruption, not prevention) causes one of the Priests to stop. The other continues. The Null-Warden does not turn. What the stopping Priest does next (relay it upward, defect, do nothing) depends on what the party says in the next thirty seconds. This is not a guaranteed out. It is a crack. *And if the party hesitates too long trying to talk their way out, the ritual finishes around Aldric and the crack closes.*
 
 </details>
 
@@ -1187,7 +1215,7 @@ Then the Priests begin the suppression circle (murmuring, the obsidian powder sh
 
 ***Toll the Dead.*** One creature within 60 ft.: DC 15 Wis save or 9 (2d8) necrotic, 2d12 if missing HP.
 
-***Inflict Wounds (melee).*** *+7 to hit*, reach 5 ft.: 22 (4d10) necrotic.
+***Inflict Wounds (melee).*** *+7 to hit*, reach 5 ft.: 22 (4d10) necrotic. *The Priest's hand does not touch the target - the flesh beneath it dims and withers, skin going grey and dry as winter, and the wound it leaves does not bleed the way a cut bleeds. It bleeds the way a corpse would, if it still could.*
 
 ***Spiritual Weapon (2nd slot, Bonus Action).*** Spectral obsidian blade appears within 60 ft. Lasts 1 minute. +7 to hit, 1d8+4 force on hit. Move up to 20 ft. and attack as bonus action each turn.
 
@@ -1197,7 +1225,7 @@ Then the Priests begin the suppression circle (murmuring, the obsidian powder sh
 
 **REACTIONS** Counterspell (3rd slot, interrupt spell within 60 ft.).
 
-> *Tactics: Priests stay adjacent, building suppression ritual every round as bonus action. One Priest handles Spiritual Weapon + Toll the Dead. One handles Spirit Guardians around Aldric's position. Neither moves more than 10 ft. from the obsidian circle while the ritual is active. If forced out of range: ritual pauses, both reorient to reestablish adjacency before attacking.*
+> *Tactics: Priests stay adjacent, building suppression ritual every round as bonus action. One Priest handles Spiritual Weapon + Toll the Dead. One handles Spirit Guardians around Aldric's position. Neither moves more than 10 ft. from the obsidian circle while the ritual is active. If forced out of range: ritual pauses, both reorient to reestablish adjacency before attacking. They do not acknowledge the party as people. They are performing a sacred task, and the party are the noise at the edge of it - and when a Priest finishes a downed enemy, it is an act of worship, not cruelty, and that is somehow worse.*
 
 ---
 
@@ -1230,28 +1258,28 @@ A premier Concordance enforcer tasked with crushing ritual energy. Wields a scar
 
 ***Multiattack.*** Four Null-Focus Strike attacks, or three Null-Focus Strike + one Null Pulse.
 
-***Null-Focus Strike.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft. *Hit:* 12 (2d6+5) bludgeoning + 9 (2d8) necrotic. On hit, target cannot cast spells using reactions until start of its next turn.
+***Null-Focus Strike.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft. *Hit:* 12 (2d6+5) bludgeoning + 9 (2d8) necrotic. On hit, target cannot cast spells using reactions until start of its next turn. *The wounds it leaves are wrong - they don't close properly, the skin around them going grey at the edges, and healing magic stings going in. A creature struck by the Warden heals for half from spells until it completes a long rest.*
 
-***Null Pulse (Recharge 5–6).*** 20-ft radius, centered on self: DC 17 Constitution save or all ongoing concentration spells within range end immediately. Creatures with active spells that end this way take 18 (4d8) psychic damage.
+***Null Pulse (Recharge 5–6).*** 20-ft radius, centered on self: DC 17 Constitution save or all ongoing concentration spells within range end immediately. Creatures with active spells that end this way take 18 (4d8) psychic damage. *The pulse is silent and total. Casters in the radius feel their own magic torn out of them, and for a heartbeat they forget the words for things - their own name, the way home. It passes. The ringing it leaves lasts for hours.*
 
-***Seal the Stone (1/day, Action).*** Targets one Primer Stone within 30 ft. The stone's connection to its Dawnborn is severed for 24 hours. Cannot be used if a Dawnborn is actively touching the stone. *This is what the Warden came to do if the suppression circle fails.*
+***Seal the Stone (1/day, Action).*** Targets one Primer Stone within 30 ft. The stone's connection to its Dawnborn is severed for 24 hours. Cannot be used if a Dawnborn is actively touching the stone. *When the Warden does this, the targeted Dawnborn - whether in the circle or across the plaza - feels the thing that has been alive in them since the night they were born go out. It is not pain. It is worse. It is the moment a person understands, by its absence, what has been keeping them company their entire life. This is what the Warden came to do if the suppression circle fails.*
 
 **REACTIONS**
 
 ***Null Response.*** When a spell is cast within 30 ft., the Warden may move up to 15 ft. toward the caster without provoking opportunity attacks (no action required).
 
-> *Tactics, Does not move until round 2. Round 1: Stands at the dais. Does not act offensively. The Null Aura is active. Let players feel it. Round 2: Shadow Steps to the most dangerous spellcaster. Three Null-Focus Strikes + hold position. Round 3+: Maintain adjacency to highest-threat target, Null Pulse when 3+ concentration spells are up. Seal the Stone if Aldric's player attempts to reach the stone without the party's protection. At 50 HP: states flatly - "You are stronger than anticipated. The record will reflect this." Does not stop fighting.*
+> *Tactics, Does not move until round 2. Round 1: Stands at the dais. Does not act offensively. The Null Aura is active. Let players feel it - the way a spell dies on their lips, the cold weight of the Warden's presence. Round 2: Shadow Steps to the most dangerous spellcaster. Three Null-Focus Strikes + hold position. Round 3+: Maintain adjacency to highest-threat target, Null Pulse when 3+ concentration spells are up. Seal the Stone if Aldric's player attempts to reach the stone without the party's protection. At 50 HP: states flatly - "You are stronger than anticipated. The record will reflect this." Does not stop fighting. It will not surrender and it will not bargain. When it finally falls, it does not die quickly - it goes down on one knee, then the other, and the grey of its eyes fades last, and it is still looking at the party when it goes.*
 
 </details>
 
 <details>
 <summary>📄 Combat End & Session Hook</summary>
 
-**Combat ends when:** The Null-Warden reaches 0 HP (the Priests and Operatives withdraw immediately) or the suppression circle is broken (the cell's purpose is gone - they leave). If the Null-Warden is captured and conscious: it answers three direct questions truthfully, then refuses to speak further. It does not know the Unmoved One's true nature. It believes the doctrine. The three answers it gives will be precise, accurate, and deeply unsettling.
+**Combat ends when:** The Null-Warden reaches 0 HP (the Priests and Operatives withdraw immediately) or the suppression circle is broken (the cell's purpose is gone - they leave). If the Null-Warden is captured and conscious: it answers three direct questions truthfully, then refuses to speak further. It does not know the Unmoved One's true nature. It believes the doctrine. The three answers it gives will be precise, accurate, and deeply unsettling. *It will not be broken further. The Obsidian Ring the party took in Scene 1 would break a person's personality; this one has already been emptied of everything except the doctrine, and there is nothing left to invert.*
 
-**If the circle completes before Aldric is freed:** Aldric's Primer Stone goes dark for 24 hours, delaying the ritual into Session 5 without causing an automatic failure.
+**If the circle completes before Aldric is freed:** Aldric's Primer Stone goes dark for 24 hours, and Aldric himself is diminished in a way that has nothing to do with the ritual - a week ago he was the warmest man in the city, and tonight he is just cold. The ritual is delayed into Session 5 without causing an automatic failure, but the cost is written on a person the party watched stand very still in a circle for forty minutes and say nothing.
 
-**Session hook:** With the Concordance routed, the puzzle box resonates sharply, aligning with the Ashring stones as the first stage of the Inversion locks into place.
+**Session hook:** With the Concordance routed, the puzzle box resonates sharply, aligning with the Ashring stones as the first stage of the Inversion locks into place. And somewhere in the plaza, a body the party didn't notice when they arrived is still cooling - the Concordance did that quietly, and no one is coming to collect it but the dawn.
 
 </details>
 
