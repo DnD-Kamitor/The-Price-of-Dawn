@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>The Flowering — Letter to Ixa (Print Prop)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=UnifrakturMaguntia&display=swap" rel="stylesheet">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+@page { size: A4 portrait; margin: 0; }
+
+html {
+  background: #12080400;
+}
+
+body {
+  width: 210mm;
+  min-height: 297mm;
+  margin: 0 auto;
+  background: #160c04;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 18mm 0 18mm 0;
+}
+
+.letter {
+  width: 166mm;
+  min-height: 240mm;
+  position: relative;
+  /* Layered parchment background */
+  background-color: #eddfa8;
+  background-image:
+    radial-gradient(ellipse at 18% 85%, rgba(139,85,30,0.25) 0%, transparent 52%),
+    radial-gradient(ellipse at 82% 10%, rgba(110,65,15,0.18) 0%, transparent 48%),
+    radial-gradient(ellipse at 92% 88%, rgba(95,55,10,0.14) 0%, transparent 42%),
+    radial-gradient(ellipse at 10% 12%, rgba(130,80,25,0.12) 0%, transparent 40%);
+  padding: 20mm 19mm 24mm 21mm;
+  box-shadow:
+    3px 6px 35px rgba(0,0,0,0.75),
+    -1px -1px 8px rgba(0,0,0,0.3),
+    inset 0 0 90px rgba(139,85,30,0.07);
+  transform: rotate(0.5deg);
+  /* Slight foxing / grain using SVG filter */
+  filter: url(#parchment-texture);
+}
+
+/* Vertical fold crease down center */
+.letter::after {
+  content: '';
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 50%;
+  width: 1px;
+  background: linear-gradient(
+    to bottom,
+    transparent 3%,
+    rgba(90,50,8,0.14) 15%,
+    rgba(90,50,8,0.20) 50%,
+    rgba(90,50,8,0.14) 85%,
+    transparent 97%
+  );
+  pointer-events: none;
+}
+
+/* Horizontal fold crease at 1/3 */
+.letter::before {
+  content: '';
+  position: absolute;
+  left: 0; right: 0;
+  top: 33%;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent 3%,
+    rgba(90,50,8,0.12) 15%,
+    rgba(90,50,8,0.17) 50%,
+    rgba(90,50,8,0.12) 85%,
+    transparent 97%
+  );
+  pointer-events: none;
+}
+
+/* Ink blot top-right */
+.blot-a {
+  position: absolute;
+  top: 14mm;
+  right: 16mm;
+  width: 3.5mm;
+  height: 2mm;
+  background: radial-gradient(ellipse, rgba(20,6,0,0.35) 0%, rgba(20,6,0,0.1) 60%, transparent 100%);
+  border-radius: 50%;
+  transform: rotate(22deg);
+}
+
+/* Ink blot bottom-left */
+.blot-b {
+  position: absolute;
+  bottom: 38mm;
+  left: 14mm;
+  width: 2.5mm;
+  height: 2.5mm;
+  background: radial-gradient(ellipse, rgba(20,6,0,0.25) 0%, rgba(20,6,0,0.08) 60%, transparent 100%);
+  border-radius: 50%;
+}
+
+/* Worn edge -- subtle darkening along margins */
+.edge {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to right,
+    rgba(80,40,5,0.14) 0%,
+    transparent 6%,
+    transparent 94%,
+    rgba(80,40,5,0.10) 100%
+  );
+  pointer-events: none;
+}
+
+.address {
+  font-family: 'UnifrakturMaguntia', 'Palatino Linotype', serif;
+  font-size: 15pt;
+  color: #160600;
+  margin-bottom: 16pt;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
+  position: relative;
+  z-index: 1;
+}
+
+p {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 11pt;
+  line-height: 1.95;
+  color: #180800;
+  text-align: justify;
+  margin-bottom: 10pt;
+  position: relative;
+  z-index: 1;
+  hyphens: auto;
+}
+
+/* Crossed-out word: heavy ink line */
+.x {
+  text-decoration: line-through;
+  text-decoration-thickness: 1.8px;
+  text-decoration-color: #280c00;
+  color: #402010;
+  opacity: 0.88;
+}
+
+/* Correction written in superscript above */
+.ins {
+  font-size: 7.5pt;
+  vertical-align: super;
+  font-style: italic;
+  color: #180800;
+  line-height: 0;
+  margin-left: 1px;
+  letter-spacing: 0.01em;
+}
+
+/* Word written with slightly heavier pressure */
+.press {
+  color: #0e0400;
+}
+
+.signature-block {
+  margin-top: 22pt;
+  padding-left: 26mm;
+  position: relative;
+  z-index: 1;
+}
+
+.signature-block p {
+  text-align: left;
+  margin-bottom: 5pt;
+  font-style: italic;
+}
+
+.flower-mark {
+  display: block;
+  margin-top: 6pt;
+  margin-bottom: 3pt;
+  line-height: 1;
+}
+
+/* SVG flower inline */
+.flower-mark svg {
+  width: 32pt;
+  height: 32pt;
+}
+
+.flower-caption {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 9pt;
+  font-style: italic;
+  color: #2c1000;
+  letter-spacing: 0.03em;
+}
+
+/* Hidden SVG filter for parchment texture */
+.svg-defs {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+@media print {
+  html { background: none; }
+  body {
+    background: none;
+    padding: 10mm 0;
+    width: 210mm;
+  }
+  .letter {
+    box-shadow: none;
+    transform: none;
+    filter: none;
+    margin: 0 auto;
+  }
+}
+</style>
+</head>
+<body>
+
+<!-- SVG defs: subtle noise filter for parchment -->
+<svg class="svg-defs" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="parchment-texture" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="4" result="noise" seed="3"/>
+      <feColorMatrix type="saturate" values="0" in="noise" result="greyNoise"/>
+      <feBlend in="SourceGraphic" in2="greyNoise" mode="multiply" result="blended"/>
+      <feComposite in="blended" in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+</svg>
+
+<div class="letter">
+  <div class="blot-a"></div>
+  <div class="blot-b"></div>
+  <div class="edge"></div>
+
+  <div class="address">To the one who should not exist, but does,</div>
+
+  <p>You have been walking through this city for years now, and we have watched
+  you walk. Not to <span class="x">examine</span><span class="ins">understand</span>
+  you. We already understand what you are. We waited for a moment when you might
+  be ready to have it spoken aloud.</p>
+
+  <p>We helped someone once. A woman in this city, many years past, who loved someone
+  the world said she was not permitted to love. The love was real. The world's
+  objections were law and old theology and the cold certainty of what bodies are
+  allowed to do. We showed her otherwise. We were there at the beginning of you,
+  and we have been looking for you every year since.</p>
+
+  <p><span class="press">You are the outcome.</span>
+  We mean this as the most sacred thing we know how to say.</p>
+
+  <p>We have seen the marks on your neck and shoulder. We do not know what they mean
+  to you. We know only what they say to us, in the language we have spent fifty years
+  learning to read: someone has carried something until it became
+  <span class="x">fixed in</span><span class="ins">written on</span> the body.
+  That is a language every one of us speaks here.</p>
+
+  <p>We have been trying to make more beginnings like yours. We have not always
+  <span class="x">managed it</span><span class="ins">succeeded</span>.
+  The ones who did not <span class="x">survive the work intact</span><span class="ins">come through as they hoped</span>
+  are still with us. When they changed, we did not send them away. They are family.
+  They are loved. We will not pretend otherwise to make ourselves sound less
+  frightening than we are.</p>
+
+  <p>You have felt it, perhaps. Warmth with no clear source. In a city without
+  a sun, warmth that arrives from nowhere and will not explain itself.</p>
+
+  <p>That is us, looking for you.</p>
+
+  <p>Come to us. Or simply stop walking away. We have the beginning of you, in full,
+  and we will give it freely the moment you ask. The door has always been open.</p>
+
+  <div class="signature-block">
+    <p>With great <span class="x">hope</span><span class="ins">patience</span>,</p>
+    <div class="flower-mark">
+      <!-- 7-petaled flower: one petal too many, center darkened -->
+      <svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" fill="#180800">
+        <!-- 7 petals at intervals of ~51.4 degrees -->
+        <ellipse cx="30" cy="30" rx="6" ry="14" transform="rotate(0 30 30) translate(0 -10)"/>
+        <ellipse cx="30" cy="30" rx="6" ry="14" transform="rotate(51.4 30 30) translate(0 -10)"/>
+        <ellipse cx="30" cy="30" rx="6" ry="14" transform="rotate(102.8 30 30) translate(0 -10)"/>
+        <ellipse cx="30" cy="30" rx="6" ry="14" transform="rotate(154.2 30 30) translate(0 -10)"/>
+        <ellipse cx="30" cy="30" rx="6" ry="14" transform="rotate(205.6 30 30) translate(0 -10)"/>
+        <ellipse cx="30" cy="30" rx="6" ry="14" transform="rotate(257 30 30) translate(0 -10)"/>
+        <ellipse cx="30" cy="30" rx="6" ry="14" transform="rotate(308.4 30 30) translate(0 -10)"/>
+        <!-- Dark center -->
+        <circle cx="30" cy="30" r="7" fill="#0e0400"/>
+      </svg>
+    </div>
+    <span class="flower-caption">the ones who were there at the first door</span>
+  </div>
+
+</div>
+</body>
+</html>
