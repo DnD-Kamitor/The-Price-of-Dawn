@@ -580,23 +580,67 @@ Players go directly to Aldric Stone — the Diagnostic showed them Stone 9 witho
 <details>
 <summary>📄 The Scene</summary>
 
-**When players arrive:** Aldric does not stop working immediately. He finishes the strike. Sets down the hammer. Turns. He has been expecting someone — not these people specifically, but someone — for three weeks.
+On the workbench behind him: nine small forged pieces. Not matching, not identical. Each one the size of two fingers held together — dark iron, warm-worked, slightly rough at the edges in the way that means intentional, not incomplete. Each one is different. He has been making these for three weeks.
+
+He finishes the strike. Sets the hammer down. Turns.
 
 > *"You've been to the stones."*
 
-Not a question. He reaches into his apron pocket and sets a cube on the workbench. Stone, smooth, carved with a single symbol that matches the glyph on Stone 9. He has been carrying it since he put it there three weeks ago.
+Not a question. He does not reach for his apron pocket. He stands with his hands at his sides and looks at each of them in turn.
 
-> *"I said yes fifty years ago when I was born into this. I'm saying yes again now. Same answer. Don't make it bigger than it is."*
+> *"Before I give you anything. Do you know what you're asking of each of them? Not the ritual. Not the sun. Them. By name."*
 
-**Giving the cube:** He places it in the box without ceremony. If players have the puzzle box already, he puts it directly in the slot. The slot closes warm. The box hums faintly for a moment, then settles.
+**If players name the Dawnborn and show they know who they are as people:**
 
-**What Aldric tells players — unsolicited:**
-- *On Cormac:* *"He's been at the Dawnhall for a couple of hours. Ysel came and told me. She asked if I'd talk to him. I said it wasn't mine to do. If Cormac needs something, it's someone who isn't already sure."*
-- *On Lira:* *"She's at the Healing House. She has someone. I don't know who. She hasn't said. None of us have asked."* Long pause. *"We should have asked."*
-- *On Nin Fletch:* *"Nin takes time. Don't rush them — they'll come to yes if you wait. They're probably already halfway there; they just need someone to walk the second half with them."*
-- *On Petra Vane:* *"I haven't seen her in three weeks. Nobody has. That's not like her."* He picks up the hammer again, then sets it down. *"She wouldn't hide. She would leave."*
+He crosses to the workbench. Counts out the nine pieces into his palm — one by one, placed carefully, the kind of counting that means he has done it many times before. He holds them out to the party.
 
-**What players leave with:** Cube 1 (Slot 9). A map of where to go next. A model for how the cube-giving works — it is not transactional; it is ceremonial. Each Dawnborn hands over something they have carried for fifty years. Treat it accordingly.
+> *"Find them. Give each one theirs — after they hand you the cube. Not before. I need to know they're saying yes to the work. Not to me."*
+
+**If players don't know the Dawnborn's individual situations:**
+
+He looks at them for a long moment. Turns back to the anvil. *"Learn them before you ask. They've been living with this for fifty years. You can spend a day."* He is not refusing. He is telling them the shape of the thing they are doing.
+
+---
+
+He reaches into his apron. The cube is warm. Not body-heat warm — warm the way that has nothing to do with him.
+
+He holds it out in his open palm a moment before handing it over.
+
+> *"Three mornings ago it started. When the stones began pulsing. I've been carrying this for three weeks and it was never warm until then."*
+
+He looks at it.
+
+> *"I think the ritual is already asking."*
+
+He places it in the box himself. The slot accepts it. The box hums once — lower and different than before — and settles.
+
+He sets his hand on the hammer without picking it up.
+
+> *"One more thing. When you're standing at the circle and one of them isn't sure — any one of them, it doesn't matter what's at stake by that point — you stop. Not because of what stopping costs. Because of what going forward without it means. The ritual doesn't want ten warm bodies."*
+
+He looks at them.
+
+> *"Promise me."*
+
+This is not a request the party can sidestep. The cube has already been given. He is asking for something else.
+
+**What players leave with:**
+- Cube 1 (Slot 9). Already warm. The box hums differently now.
+- Nine forged pieces — one per remaining Dawnborn. Made by a man saying goodbye to nine people he loves, one piece at a time, over three weeks alone at a forge.
+- A binding promise that returns at the Cormac scene, the Lira scene, and at the circle itself.
+- The knowledge that the ritual has already begun to stir.
+
+**Aldric's intelligence (given after the promise, not before):**
+
+*On Sera:* *"She's been ready longer than anyone. Don't go to her with a mission. Go to her with what you found at the stones."*
+
+*On Cormac:* *"He's been at the Dawnhall since before dawn. Don't tell him it matters to me that he comes. Let him find his own reason."*
+
+*On Lira:* *"She has someone. None of us have asked who."* A pause that lasts too long. *"We should have asked."*
+
+*On Nin Fletch:* *"Give them time. Don't press. They'll come to yes if someone stands at the crossroads with them. They've never needed convincing — they've needed company."*
+
+*On Petra Vane:* *"Three weeks. Nobody's seen her."* He picks up the hammer. Does not strike. Sets it down. *"She wouldn't hide. She'd leave. Find her before someone else does."*
 
 </details>
 
