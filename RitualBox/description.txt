@@ -1,0 +1,25 @@
+Description
+"In a dusty corner of a forgotten Florentine workshop, hidden behind rolls of vellum and rusted calipers, lies a box that holds the dreams of flight. It does not speak, yet when kissed by light, it reveals the secrets of the heavens."
+
+Designed for the Old World Magic contest, the Codex Volante is an interactive 3D print. This artifact projects the blueprint for Leonardo da Vinci’s Flying Machine using nothing but geometry and a simple light source.
+
+The Magic of Engineering
+This model is a tribute to the era where magic and science were indistinguishable. It features two complex, mechanical doors designed to show the capabilities of your printer while providing a satisfying experience:
+
+The Mosaic Mechanical Door: A beautiful, intricate mosaic-style door that is Print-in-Place.
+The Tambour Sliding Door: A smooth, flexible track door, also Print-in-Place.
+The Blueprint Projection: By placing a flashlight (or even a phone light) against the hole in the back, the internal geometry projects Da Vinci's iconic glider onto your wall.
+An Adventure in 8 Parts
+The projection core is split into 8 individual cubes. This opens up a world of possibilities for tabletop gamers, DMs, or parents:
+
+The Quest: Hide the cubes across your "world." The heroes must recover all 8 secret plans to stop the villain or escape the dungeon.
+The Puzzle: The cubes must be oriented correctly within the box to form the coherent blueprint.
+The Reward: Once assembled, the light reveals the path forward (the flying machine).
+Recommended Print Settings
+To achieve the "Ancient Artifact" look, I highly recommend the following material pairing:
+
+Frame/Box: PLA-Wood (Sand and stain for a realistic antique finish).
+Mechanical Parts: PLA-Silk Metallics (Gold, Bronze, or Antique Copper).
+Supports: Minimal supports required; the doors are designed to be printed in place!
+Contest Note: Old World Magic
+This creation is my entry for the #PrintOldWorldMagic contest hosted by Prime Tower Designs. It aims to capture that sense of wonder found in an alchemist’s lab, an object that feels timeless, crafted, and quietly magical.

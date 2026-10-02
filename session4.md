@@ -95,32 +95,55 @@
 <div class="session-tree">
 
 <details>
-<summary>📁 Session Opener — Ellan's Door</summary>
+<summary>📁 Session Opener — The Stone Is Given</summary>
 
-*Session 4 begins here: the party is at Ellan's house in Ashring Third Lane, standing before the door ward left unsolved at the end of Session 3.*
+*Session 4 begins here: the party is leaving Ashring Third Lane with Ellan Voss. The Concordance has been watching this street for three years. They have minutes before someone moves.*
 
 <details>
 <summary>📄 Five Senses & Setup</summary>
 
-**Setup:** Ashring Third Lane. House with no knocker. Stone panel beside the door frame, warm to the touch.
+**Setup:** Ashring Third Lane. Early amber. The lane is quiet in the way watched places are quiet.
 
 **Five senses:**
-- *Sight:* Row of pre-darkness stone houses. One door without a knocker. No lock visible — just a carved panel.
-- *Sound:* Low irregular resonance from the stone circle nearby. Not wind. Something older.
-- *Smell:* Old stone, faintly mineral. A place that has been waiting.
-- *Touch:* Panel warm when touched. Not lamp-warm — something inside the stone.
-- *Air:* Inexplicably warmer than the lane.
+- *Sight:* A figure at the far end of the lane — standing, not moving, not looking away. Another on a rooftop opposite. They are not hiding.
+- *Sound:* The low irregular resonance from the Ashring stones nearby.
+- *Smell:* Old stone, mineral, dry cold.
+- *Touch:* The air slightly warmer coming off Ellan's house. Outside it, normal amber cold.
+- *Air:* Held. The watchers do not shift.
 
 </details>
 
 <details>
-<summary>📄 The Ward Mechanic</summary>
+<summary>📄 Ellan Hands Over the Stone</summary>
 
-Players will say "consent" immediately. Nothing happens. Let the silence sit.
+Before they reach the lane's end, Ellan stops.
 
-The ward reads *intention*, not vocabulary. Each player must state aloud their real reason for being here — not the mission, not the city. The actual reason.
+She reaches into her coat — not dramatic, the practiced motion of someone who has rehearsed it in her head many times — and holds out the Concordance Stone.
 
-| What they say | Response |
+It fits in two hands. Heavy for its size. Eight cavities, each slightly warm to the touch. All eight empty. She has kept it empty for fifty years because the consent it requires was never hers to give on anyone else's behalf.
+
+> *"Corven built this. Each cavity belongs to one Dawnborn — their consent made object. Place all eight correctly, in the astronomical order of the ritual night, brightest star to dimmest, and shine any light through the aperture at the top. What it projects is the signal. Every stone in the Ashring will know it is time."*
+
+She looks at each of them.
+
+> *"You cannot force what goes into it. The cavity reads intention. It must be given freely or it will not seat. I have tried, with my own, many times. It knows."*
+
+**The eight cubes belong to:** Sera Voss, Tomas Areth, Lira Anwick, Aldric Stone, Cormac Drell, Ysel Maren, Petra Vane, and Davin Shore.
+
+**Where to start:** Sera Voss. She has been tracking the Dawnborn for years and knows where each one is.
+
+**Ellan's own consent** is not a cube. She gives it at the circle itself. She has already decided. She will not say so until she is standing on her stone.
+
+**The watcher at the lane's end** does not intercept. She is counting faces. DC 15 Perception: she looks specifically at Ixa's hands, then looks away. She is not Concordance. She is Flowering. They are not the only ones who know what Ixa is.
+
+</details>
+
+<details>
+<summary>📄 Session 3 Recap — Already Played</summary>
+
+*The ward mechanic, Ellan's key speech, the Maerin/Sera confrontation, and the Ixa recognition beat all played in Session 3. Do not repeat them. The opener above picks up immediately after.*
+
+| What carried forward | Status |
 |---|---|
 | *"We need to speak with her"* | Cold. A task, not a reason. |
 | *"To save the city"* | Cold. A mission, not consent. |
@@ -614,6 +637,142 @@ His cube goes with the sequence. He does not separate them.
 This is not hostile. It is absolute.
 
 </details>
+
+---
+
+<details>
+<summary>📄 Sera Voss — Cube Collection</summary>
+
+*Want:* To do the thing she has spent years making possible for others.
+*Fear:* That her knowledge of the Dawnborn — their locations, their states, their silences — makes her yes an obligation wearing the mask of choice.
+*Lie:* *"I've been waiting for you."* She has been waiting for anyone.
+
+*Physical:* Forties, deliberate, the kind of person who has had a plan for every room she walked into for the last twenty years. Voice steadied by practice — she has said difficult things aloud to herself until they stopped shaking. A small dark-stone box on the table when the party arrives. She put it there before they came.
+
+**Five senses:**
+- *Sight:* A clean room above the Ashring Quartermaster office. Maps on the walls — districts, stone positions, dates marked and crossed out. The box on the table.
+- *Sound:* Quiet. Map-paper quiet. She speaks when she is ready.
+- *Smell:* Ink and old wood and the faint mineral edge of Ashring stone dust that has been in this room for years.
+- *Touch:* Table worn smooth at the edges from hands placed there many times.
+- *Air:* Held. She has been holding it since the stones started pulsing.
+
+**The scene:** She is at the table when players arrive. Does not say she expected them. Says: *"Which stones did you read this morning?"* She has been tracking the Dawnborn's states for years and wants to know if someone finally looked at the thing she built.
+
+If players describe the stone echoes: she listens without correction. She already knows. Then:
+
+> *"I've had this for fifty years. I put it on the table this morning because I thought today might be the day. But I need you to understand something first."*
+
+She looks at the box.
+
+> *"I know these people. I know what Cormac's wavering looks like and when it usually resolves. I know what Lira is protecting at the Healing House. I know that Tomas checked his sequence four times last night because I can hear his pen through the wall. I need to say yes because I want to — not because I know too much about what happens if I don't. So: do you want to know why I want to?"*
+
+**Unlock:** Ask her why she wants to. Not "are you ready" — wrong question. Not urgency, not stakes. Just: *Why?*
+
+If asked genuinely: *"Because I have spent twenty years making sure this was possible for other people. I would like to find out if I was right."* Cube goes freely.
+
+**If players invoke the mission, the city, or the stakes:**
+
+> *"You've come to the wrong conversation. I know the stakes in more detail than you do. Try again."*
+
+No cube. She waits. DC 14 Insight: she wants to be *asked*, not *convinced*.
+
+**After the cube:** She hands over a current list of Dawnborn locations and states — she has been maintaining it. *"Aldric you've met. Try Ysel next. She's been ready longer than she's let on, and she's tired of no one noticing."*
+
+</details>
+
+---
+
+<details>
+<summary>📄 Ysel Maren — Cube Collection</summary>
+
+*Want:* Every voice at the circle to be genuinely free — including her own.
+*Fear:* That Cormac's wavering will spread. That courage travels in one direction and doubt in the other.
+*Lie:* She is not frightened herself. She has examined this at length and concluded it does not qualify. She is wrong. The conclusion is still genuinely hers.
+
+*Physical:* Ashfen Clan bearing — the quiet that comes from knowing exactly which space in a room belongs to you. Tall; when seated she reads the same height as people standing. She does not perform calm. She finished performing anything else a long time ago. Her cube is already in her coat pocket. She put it there before dawn.
+
+**Five senses:**
+- *Sight:* The Dawnhall's side courtyard. She is there before the party arrives, sitting on the bench, face turned toward the amber sky. Not praying. Just looking.
+- *Sound:* Kitchen sounds from inside. Her breathing, slow and deliberate.
+- *Smell:* Cold stone, dried herbs from the courtyard planters, something faintly smoky from the kitchen.
+- *Touch:* The bench is cold. She has not noticed, or has not minded.
+- *Air:* Still. She chose this courtyard for the stillness.
+
+**The scene:** She hears players arrive but doesn't turn immediately. When she does:
+
+> *"Sera sent you, or the stones did. Doesn't matter. You found me."*
+
+She reaches into her coat pocket. Does not hand the cube over yet.
+
+> *"Ask me how I am."*
+
+Not a demand. A request from someone who has been waiting a long time for someone to think of it.
+
+**Unlock:** Ask her how she is. Not "are you ready" — she'll say that's the wrong question. Not a formality. Just: *How are you?*
+
+If asked genuinely, she is quiet for a moment:
+
+> *"I've been ready for seven months. No one has asked me that the whole time. I kept waiting for someone to notice that being ready is its own kind of weight. But everyone was watching Cormac."*
+
+She hands over the cube.
+
+> *"His stone isn't lit yet. Whatever you find him doing at the Dawnhall — that's been happening for three weeks. I've been deciding whether to say something."*
+
+She stands. *"I've decided to let you try first."*
+
+**If players skip the question and go to business:** She closes her hand around the cube.
+
+> *"Wrong approach. Ask me a real question or come back when you have one."*
+
+No check. One real question, asked without agenda. She has been patient for seven months.
+
+**After the cube:** She will be at the Dawnhall when players arrive for Scene 4. She is the one who asks Cormac the question that opens that scene. Her presence is not coincidence — it is someone who has been watching and finally decided to act.
+
+</details>
+
+---
+
+<details>
+<summary>📄 Lira Anwick — Healing House Introduction (Full Scene in Session 5)</summary>
+
+*This is a setup scene only. Lira does not give her cube in Session 4. Players leave knowing where she is and what they're walking into.*
+
+*Want:* To make a decision she can stand behind when it's over.
+*Fear:* That the person who depends on her is both why she cannot say yes and proof that saying yes is the only thing that matters. Both things are true simultaneously.
+*Lie:* *"I need more time."* She knows how much time is left. She has run out. She is asking not for more time but for a moment before she has to lose it.
+
+*Physical:* Late forties. Healer's hands — constant motion, the restlessness of someone whose body is always ready to do something while the mind is somewhere else. Amber glass vials on a belt. She assesses everyone who walks in as a patient before they finish the threshold. She does this without deciding to.
+
+**Five senses:**
+- *Sight:* The Lowmark Healing House, ground floor. Beds along one wall, three occupied. She is at a workbench, grinding something that does not need more grinding.
+- *Sound:* Sleeping patients. Mortar and pestle. Contained movement.
+- *Smell:* Herbs and clean cloth and the sharp edge of whatever she is grinding.
+- *Touch:* The workbench worn smooth. The mortar warm from long use.
+- *Air:* Clean. She keeps it clean. She always keeps it clean.
+
+**The scene:** Players arrive. She looks up, assesses them in two seconds:
+
+> *"You're not patients."*
+
+Not unfriendly. The shorthand of someone who has had this conversation coming for weeks.
+
+> *"I know what you want. I've known since the stones started pulsing two days ago. There is someone here who needs me. Has needed me for six months. I am not going to explain that to you, and I am not going to tell you who it is, and I am not going to have this argument while they are sleeping ten feet away."*
+
+She looks up.
+
+> *"Come back. Not today. I need to arrange something first."*
+
+**This is not failure.** This is the correct outcome. She is not refusing — she is asking for time to do one necessary thing before she says yes. Players who are gentle will understand. Players who push get:
+
+> *"You can push, or I can come to you tomorrow with a yes. Choose."*
+
+DC 14 Insight: she is not stalling. She is protecting someone, and she knows exactly what her yes means, and she is not afraid of it. She needs to make an arrangement before she steps away.
+
+**GM note:** In Session 5, Lira arrives at the Ashring at dawn, cube in hand, alone. She made her arrangement. She will not explain it. If players ask: *"I found someone to stay."* That is all.
+
+</details>
+
+---
 
 </details>
 
