@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D&D Puzzle Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Dungeons & Dragons Puzzle Game</h1>
+        
+        <div class="game-info">
+            <p>Difficulty: <span id="difficulty-level">Easy</span></p>
+            <p>Score: <span id="score">0</span></p>
+            <p>Time: <span id="timer">00:00</span></p>
+        </div>
+        
+        <div class="puzzle-card">
+            <div id="puzzle-content">
+                <h2 id="puzzle-title">The Riddle of the Sphinx</h2>
+                <p id="puzzle-description">What walks on four legs in the morning, two legs at noon, and three legs in the evening?</p>
+                <div class="hint">
+                    <button id="show-hint">Show Hint</button>
+                    <p id="hint-text" class="hidden">Think about the stages of human life</p>
+                </div>
+            </div>
+            
+            <div class="input-group">
+                <input type="text" id="answer-input" placeholder="Your answer" autocomplete="off">
+                <button id="submit-btn">Submit Answer</button>
+            </div>
+        </div>
+        
+        <div class="results">
+            <p id="result-message"></p>
+            <p id="correct-answer" class="hidden"></p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

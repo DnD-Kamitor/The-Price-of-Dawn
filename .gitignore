@@ -33,3 +33,4 @@ agentdb.rvf.lock
 ruvector.db
 *.rvf
 *.rvf.lock
+node_modules/
