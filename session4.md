@@ -1068,13 +1068,19 @@ The party will have to decide whether to finish them. These are not monsters. Th
 - Taste: Watered cider set out without asking. Slightly sour. Well-intentioned.
 - Air: Old timber and smoke. The warmth of a room that feeds a lot of people.
 
-**The Encounter Beat:** Cormac freezes, sets his cup down, and leaves through the rear door into the alley.
+**The Encounter Beat:** Cormac freezes, sets his cup down, and leaves through the rear door into the alley. The cup doesn't fall over. He set it down with both hands, carefully, the way you set something down you might need to pick up again.
 
-Players who follow him find him leaning against the damp brick wall outside. If an adventurer listens without demanding excuses, he admits:
+Players who follow him find him leaning against the damp brick wall outside, eyes closed. If an adventurer listens without demanding excuses, he admits:
 
 > *"I said yes when I thought it would happen fast. Having weeks to think about it broke my nerve."*
 
-**Resolution:** This is a roleplay interaction rather than a dice roll. Cormac does not respond to empty pep talks or threats. If a player hears him out honestly, he regains his footing and commits: flag "Cormac: renewed."
+Then, if they stay, the darker thing - the thing he has not said to anyone, not even Ysel:
+
+> *"Do you want to know the part I can't look at? When I said yes to Edoran, I wasn't sure it was courage. I was never sure. A man can want to save his city, or he can want to be done with his own life, and from the inside those two things look exactly the same. I said yes nine weeks ago and I still don't know which one it was."*
+
+**Resolution:** This is a roleplay interaction rather than a dice roll. The wrong question is *"Will you still do it?"* - that only makes him set the cup down again. The right question is *"Why did you say yes in the first place?"* - and then the party must be able to hear an answer that has no heroism in it. Cormac does not need to be reassured that he is brave. He needs someone to sit with the possibility that he wasn't, and to stay anyway. If a player does that - asks the question, and stays through the ugly answer - he regains his footing and commits: flag "Cormac: renewed."
+
+*The flag is the important part. A Cormac who is "renewed" has examined his own consent and chosen it again, not for the city but for the people he said yes to. That is the difference between Ending B and Ending A.*
 
 **Ysel after the scene:** Ysel watches the outcome in silence, allowing Cormac's choice to stand on its own merits.
 
@@ -1084,6 +1090,8 @@ If players do not follow up before Session 5 closes: his stone is dark at the In
 - Ysel (opening): *"Do you still mean what you told Edoran?"*
 - Cormac (if pressed before he's ready): *"I need you to stop asking me that."*
 - Cormac (most honest): *"I said yes when I thought it would be over before I had time to think about it again. It kept not being over."*
+- Cormac (the part he can't look at): *"I don't know if I was saving the city or just done with myself. And I'm afraid to find out which, because if it's the second one, then saying yes again isn't sacrifice. It's just... giving up, with everyone watching."*
+- Cormac (after being asked *why* and heard out): *"Because I told nine people I would. And because they've been patient with me for three weeks. That's not a good reason. It's the only one I've got that's true."*
 
 **How it connects forward:** Cormac is one of the ten Dawnborn. His consent status determines whether Ending B is achievable. Players who treat this scene as a logistics problem will not reach him.
 
