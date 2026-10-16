@@ -1,6 +1,6 @@
 # The d100 Twilight Character Questions {.unnumbered}
 
-::: {=html}
+```{=html}
 <div class="no-print print-bar" style="margin: 15px 0 20px 0; padding: 12px 18px; background: #fdf8ee; border: 1px solid #e0c580; border-radius: 8px; display: flex; gap: 15px; align-items: center; justify-content: space-between;">
 <div>
 <h3 style="margin: 0 0 4px 0; font-size: 1.15em; color: #6b4c08;">📄 1-Pagina D&D Karakter Vragentabel</h3>
@@ -254,4 +254,4 @@ print-color-adjust: exact !important;
 </div>
 </div>
 </div>
-:::
+```
