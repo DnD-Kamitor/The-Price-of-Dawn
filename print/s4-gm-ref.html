@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Session 4 - GM Reference Card</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: Georgia, serif; font-size: 11px; color: #111; background: #fff; padding: 12mm; }
+  h1 { font-size: 16px; border-bottom: 2px solid #111; padding-bottom: 4px; margin-bottom: 8px; }
+  h2 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; border-bottom: 1px solid #888; margin: 12px 0 6px; padding-bottom: 2px; color: #333; }
+  h3 { font-size: 11px; font-weight: bold; margin: 8px 0 3px; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 8px; font-size: 10.5px; }
+  th { background: #222; color: #fff; padding: 3px 5px; text-align: left; }
+  td { padding: 3px 5px; border-bottom: 1px solid #ddd; vertical-align: top; }
+  tr:nth-child(even) td { background: #f7f7f7; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
+  .box { border: 1px solid #999; padding: 6px 8px; }
+  .bug { border-left: 3px solid #c00; padding-left: 6px; margin: 3px 0; }
+  .warn { border-left: 3px solid #e80; padding-left: 6px; margin: 3px 0; }
+  .ok { border-left: 3px solid #080; padding-left: 6px; margin: 3px 0; }
+  .ixa { border: 2px solid #c60; padding: 6px 8px; background: #fffbf0; }
+  .check { font-size: 10px; }
+  .check li { list-style: none; padding: 1px 0; }
+  .print-btn { display: block; margin: 0 0 10px; padding: 6px 14px; background: #222; color: #fff; border: none; cursor: pointer; font-size: 11px; }
+  .stat { font-family: monospace; font-size: 10px; }
+  .section-break { border-top: 1px dashed #bbb; margin: 10px 0; }
+  @media print {
+    .print-btn { display: none; }
+    body { padding: 8mm; font-size: 10.5px; }
+    .page-break { page-break-before: always; }
+  }
+  p { margin: 2px 0 4px; }
+  em { color: #555; font-style: italic; }
+  ul { padding-left: 14px; margin: 2px 0; }
+  li { margin: 1px 0; }
+</style>
+</head>
+<body>
+
+<button class="print-btn" onclick="window.print()">Print / Save as PDF</button>
+
+<h1>Session 4 - The Breaking Point (Level 7) &mdash; GM Reference Card</h1>
+<p><em>Dilemma: What do you owe to people who choose to sacrifice themselves?</em> &nbsp;|&nbsp; Opener + 5 scenes &nbsp;|&nbsp; ~3-4 hrs</p>
+
+<!-- ==================== PREP STATUS ==================== -->
+<h2>Pre-Session Checklist</h2>
+<div class="grid">
+<div class="box check">
+<h3>Ready</h3>
+<ul>
+  <li>[x] Previous session recap (S3 recap block in opener)</li>
+  <li>[x] Starting point: Ashring Third Lane, Ellan hands over Concordance Stone</li>
+  <li>[x] Objective: collect remaining cubes, survive two combats</li>
+  <li>[x] All scenes fully written with unlock conditions</li>
+  <li>[x] NPC want/fear/lie for every character</li>
+  <li>[x] Full stat blocks for all 3 encounter types</li>
+  <li>[x] Spells and DCs written into stat blocks</li>
+  <li>[x] Terrain described for both combats</li>
+</ul>
+</div>
+<div class="box check">
+<h3>Bring / Set Up</h3>
+<ul>
+  <li>[ ] Initiative tracker</li>
+  <li>[ ] Player character sheets accessible</li>
+  <li>[ ] Dice / roller</li>
+  <li>[ ] Sketch road layout: Scene 1 (garden wall left / Ashring stones right / Voice 30 ft back)</li>
+  <li>[x] Ixa player confirmed present</li>
+  <li>[ ] Choose Ixa beat trigger NOW (see bottom of card) before sitting down</li>
+</ul>
+</div>
+</div>
+
+<!-- ==================== CUBE ORDER ==================== -->
+<h2>Cube Collection - Current State &amp; Remaining Order</h2>
+<table>
+<tr><th>Cube</th><th>Status</th><th>Unlock condition</th><th>Session</th></tr>
+<tr><td><strong>Aldric Stone</strong></td><td style="color:#080">COLLECTED</td><td>Already had it in his apron pocket</td><td>S4 done</td></tr>
+<tr><td><strong>Sera Voss</strong></td><td style="color:#080">COLLECTED</td><td>Ask "why do <em>you</em> want to?"</td><td>S4 done</td></tr>
+<tr><td><strong>Tomas Areth</strong></td><td>Pending</td><td>Solve star sequence; spot FREEWILL acrostic (6th &amp; 7th names swapped in his copy)</td><td>S4 next</td></tr>
+<tr><td><strong>Ysel Maren</strong></td><td>Pending</td><td>Ask "how are you" and mean it</td><td>S4</td></tr>
+<tr><td><strong>Nin Fletch</strong></td><td>Pending</td><td>Stand at the crossroads; ask "are you coming?"</td><td>S4</td></tr>
+<tr><td><strong>Orya Doss</strong></td><td>Pending</td><td>Find her at her Primer Stone; she's been waiting since the 4th bell. No check.</td><td>S4</td></tr>
+<tr><td><strong>Cormac Drell</strong></td><td>Pending</td><td>Ask "why did you say yes in the first place?" then stay through the ugly answer</td><td>S4 hardest</td></tr>
+<tr><td><strong>Lira Anwick</strong></td><td>Locked</td><td>Won't give today. Arrives at dawn in S5 with cube. Setup visit only.</td><td>S5</td></tr>
+<tr><td><strong>Petra Vane</strong></td><td>Locked</td><td>Missing 3 weeks; tracked to Greenhollow village</td><td>S5</td></tr>
+<tr><td><strong>Davin Shore</strong></td><td>Locked</td><td>Final night watch, East Rampart</td><td>S5</td></tr>
+</table>
+<p><strong>Best S4 order:</strong> Tomas &rarr; Ysel &rarr; Nin &rarr; Orya &rarr; Cormac last (he needs the others confirmed to hold against his doubt).</p>
+
+<!-- ==================== NPC QUICK REF ==================== -->
+<h2>NPC Quick Reference</h2>
+<table>
+<tr><th>NPC</th><th>Want</th><th>Fear</th><th>Lie</th></tr>
+<tr><td>Ellan Voss</td><td>Someone to ask the right question</td><td>She will say yes too late</td><td>"I will not give consent. Not before."</td></tr>
+<tr><td>Maerin Voss</td><td>Sera to change her mind</td><td>She is already too late</td><td>"I'm not asking you to say no."</td></tr>
+<tr><td>Harran Lecht</td><td>Solve crisis before city starves</td><td>Grief made him impatient and he can't see it</td><td>"This is purely strategic."</td></tr>
+<tr><td>Cormac Drell</td><td>To not have to decide again</td><td>Everyone will see his uncertainty collapse</td><td>His nine-weeks-ago yes is still the same yes</td></tr>
+<tr><td>Ysel Maren</td><td>Inversion to succeed, all ten willing</td><td>Cormac's wavering spreads to others</td><td>She is not frightened herself</td></tr>
+<tr><td>Aldric Stone</td><td>To help; already chosen</td><td>He chose wrong</td><td>He is not afraid of dying</td></tr>
+</table>
+
+<!-- ==================== IXA BEATS ==================== -->
+<div class="ixa" style="margin: 8px 0;">
+<h3>IXA BEATS - Decide trigger before play, tell no one</h3>
+<p><strong>Beat 1 - Ellan's home (opener).</strong> Pick ONE before sitting down:</p>
+<ul>
+  <li>Ixa makes a quiet, precise observation &rarr; Ellan sets cup down, watches Ixa for rest of visit</li>
+  <li>Ellan asks Ixa's name &rarr; Ellan deflects into etymology, visibly processing</li>
+  <li>Parting line: "You were never an experiment. You were the reason." &rarr; Ellan addresses Ixa directly</li>
+</ul>
+<p style="margin-top:4px"><strong>Beat 2 - Diagnostic Circle (Scene 2).</strong> Stone 6b is a warm hollow. If Ixa steps in it: describe warmth, breath coming easier. Don't narrate why. Let it sit.</p>
+<p style="margin-top:4px">Perception DC 14 to catch Ellan watching Ixa's hands. DC 17 to see matching bone structure.</p>
+</div>
+
+<!-- ==================== ENCOUNTER BUGS ==================== -->
+<h2>Encounter Bug Fixes (apply before running)</h2>
+<table>
+<tr><th>Location</th><th>Bug</th><th>Fix</th></tr>
+<tr><td>Scene 1: Operative</td><td>AC listed as 15; studded leather + DEX +4 = 16</td><td><strong>AC 16</strong></td></tr>
+<tr><td>Scene 1: Shadow-Keeper</td><td>AC listed as 17; chain mail + shield = 18</td><td><strong>AC 18</strong></td></tr>
+<tr><td>Scene 1: Voice</td><td>AC listed as 13; mage armor + DEX +1 = 14</td><td><strong>AC 14</strong></td></tr>
+<tr><td>Scene 1: Shadow-Keeper Enveloping Dark</td><td>Darkvision doesn't pierce magical darkness - shadar-kai blind their own team</td><td>Add: "shadar-kai see normally in this darkness"</td></tr>
+<tr><td>Scene 5: Priest</td><td>AC listed as 14; chain shirt + DEX +2 = 15</td><td><strong>AC 15</strong></td></tr>
+<tr><td>Scene 5: Priest multiattack</td><td>"Two Inflict Wounds" - impossible, no Extra Attack</td><td>One Inflict Wounds + one Toll the Dead</td></tr>
+<tr><td>Scene 5: Spirit Guardians</td><td>4d8 damage at "3rd slot" - 3rd level = 3d8</td><td>Either <strong>3d8 at 3rd slot</strong> or 4d8 at 4th slot</td></tr>
+<tr><td>Scene 5: Null-Warden</td><td>AC listed as 19; plate armor = 18, no shield listed</td><td><strong>AC 18</strong> (or add shield to description)</td></tr>
+</table>
+
+<div class="warn" style="margin: 6px 0 4px;">
+<strong>Ritual Anchor (Null-Warden) - ruling needed before play:</strong> With Warden at dais + 2 Priests = ambiguous stacking. Decide: 2 steps/round total, or per-contributor. If per-contributor, circle completes round 1. Recommended: <strong>2 steps/round total while Warden is at dais.</strong>
+</div>
+<div class="warn">
+<strong>Scene 5 balance note:</strong> Null-Warden (CR 11) + 2 Priests (CR 7) + 4 Operatives (CR 5) against Level 7 party. Total XP ~20,000 vs deadly threshold ~4,400. Intentional climax spike - confirm this is the pressure you want.
+</div>
+
+<!-- ==================== COMBAT QUICK STATS ==================== -->
+<div class="page-break"></div>
+<h2>Combat Quick Stats</h2>
+
+<div class="grid3">
+<div class="box">
+<h3>Unlit Operative x3 (CR 5)</h3>
+<p class="stat">AC 16 | HP 65 | Speed 30</p>
+<p class="stat">+7 hit | Shortsword 1d6+4</p>
+<p class="stat">Shadow Step BA (Recharge 4-6)</p>
+<p class="stat">Pack Tactics | Cell Discipline</p>
+<p><em>Ends when Shadow-Keeper falls. Final fury round, then walk away.</em></p>
+</div>
+<div class="box">
+<h3>Unlit Shadow-Keeper x1 (CR 8)</h3>
+<p class="stat">AC 18 | HP 112 | Speed 30</p>
+<p class="stat">Multiattack: 3x Shortsword OR 2x + Shadow Drain</p>
+<p class="stat">Shortsword +6 | 1d6+3 + 2d6 necrotic</p>
+<p class="stat">Shadow Drain +6 | 4d6 necrotic, speed halved</p>
+<p class="stat">Enveloping Dark (Recharge 5-6): 15ft radius darkness. Shadar-kai see normally.</p>
+<p class="stat">Shadow Step BA (Recharge 4-6)</p>
+<p><em>Opens Enveloping Dark. Shadow Steps to frontliner. Cell Command on reposition.</em></p>
+</div>
+<div class="box">
+<h3>Doctrinal Voice x1 (CR 7)</h3>
+<p class="stat">AC 14 | HP 84 | Speed 30</p>
+<p class="stat">DC 15 | +7 spell attack</p>
+<p class="stat">Hold Person (2nd) | Fear (3rd)</p>
+<p class="stat">Hypnotic Pattern (3rd) | Banishment (4th)</p>
+<p class="stat">Greater Invisibility (4th) - self</p>
+<p class="stat">Counterspell / Shield reaction</p>
+<p><em>Stays 30+ ft back. Hold Person then signal Operative to finish. Counterspells all healing.</em></p>
+</div>
+</div>
+
+<div class="grid" style="margin-top:8px">
+<div class="box">
+<h3>Grasping Tendril x2+1 (CR 6) - Scene 3b</h3>
+<p class="stat">AC 14 | HP 91 | Speed 35, climb 20</p>
+<p class="stat">Resist: nonmagical B/P/S | Immune: charmed, frightened</p>
+<p class="stat">Grasping Slam +7 | 2d6+4 bludg. | Grapple escape DC 16</p>
+<p class="stat">Constrict (auto vs grappled): 2d8+4 | DC 15 Str or restrained</p>
+<p class="stat">Snap (vs restrained): 3d6+4 | DC 14 Con or broken limb</p>
+<p class="stat">Haul (BA): full move dragging grappled target</p>
+<p><em>Target Lock: always goes for Ixa. Third Tendril appears if Ixa grappled 2+ rounds.</em></p>
+<p><em>At 0 HP: down but conscious, still reaching for Ixa. Not a monster - a person.</em></p>
+</div>
+<div class="box">
+<h3>Null-Warden x1 (CR 11) - Scene 5</h3>
+<p class="stat">AC 18 | HP 161 | Speed 30</p>
+<p class="stat">Resist: necrotic, nonmagical B/P/S</p>
+<p class="stat">Multiattack: 4x Null-Focus Strike OR 3x + Null Pulse</p>
+<p class="stat">Null-Focus Strike +9 | 2d6+5 + 2d8 necrotic | reach 10ft</p>
+<p class="stat">Null Pulse (Recharge 5-6): 20ft radius, DC 17 Con or all concentration ends</p>
+<p class="stat">Null Aura: DC 15 Con save to cast 1st+ spells within 10ft</p>
+<p class="stat">Seal the Stone (1/day): severs Dawnborn-stone connection 24hrs</p>
+<p class="stat">Shadow Step BA (Recharge 4-6)</p>
+<p><em>Round 1: stays at dais, Null Aura active. Round 2: Shadow Steps to top spellcaster.</em></p>
+</div>
+</div>
+
+<div class="box" style="margin-top:8px">
+<h3>Priest of the Inward Crescent x2 (CR 7) - Scene 5</h3>
+<p class="stat">AC 15 | HP 97 | Speed 30 | DC 15 | +7 spell attack</p>
+<p class="stat">Multiattack: Inflict Wounds (action) + Toll the Dead (action) -- one each per turn, NOT two Inflict Wounds</p>
+<p class="stat">Inflict Wounds +7 | 4d10 necrotic (melee touch, 2nd slot)</p>
+<p class="stat">Spiritual Weapon (2nd slot BA): +7, 1d8+4 force</p>
+<p class="stat">Spirit Guardians (3rd slot): 15ft radius, DC 15 Wis or 3d8 necrotic</p>
+<p class="stat">Banishment (4th slot) | Counterspell reaction</p>
+<p class="stat">Suppression Ritual: both Priests adjacent = +1 step/round toward circle completion (4 rounds = Aldric's stone severs). Break it: 20+ damage single hit to one Priest, or physically break the obsidian powder line.</p>
+<p class="stat">With Null-Warden at dais: 2 steps/round total (ruling). Circle completes round 2 if unchallenged.</p>
+</div>
+
+<!-- ==================== SCENE 5 SECONDARY OBJECTIVE ==================== -->
+<h2>Scene 5 Secondary Objective</h2>
+<p><strong>State this before combat begins:</strong> Get Aldric out of the obsidian circle before the Priests complete the suppression ritual. Circle completes end of round 2 (Warden at dais) or round 4 (Warden not at dais) if unchallenged.</p>
+<p>If circle completes: Aldric's stone connection severs 24hrs. He goes cold. The ritual is delayed into S5 but not failed. The cost is visible on a person.</p>
+
+<!-- ==================== CONSEQUENCE TRACKER ==================== -->
+<h2>End-of-Session Consequence Tracker</h2>
+<table>
+<tr><th>Element</th><th>Result</th></tr>
+<tr><td>Concordance asset list</td><td>Recovered / Not recovered</td></tr>
+<tr><td>Obsidian Ring of Contrariwise</td><td>Recovered / Not recovered</td></tr>
+<tr><td>Primer Stones activated</td><td>Inscription read (FREEWILL acrostic) / Not read</td></tr>
+<tr><td>Cormac's status</td><td>Renewed consent / Unresolved (stone dark in S5)</td></tr>
+<tr><td>Aldric's stone connection</td><td>Intact / Severed 24hrs</td></tr>
+<tr><td>Null-Warden</td><td>Defeated / Withdrew / Captured (3 answers given)</td></tr>
+<tr><td>Ixa - Flowering letter</td><td>Shared with party / Kept private / Ignored / Accepted</td></tr>
+<tr><td>Petra Vane location</td><td>Known (Greenhollow) / Unknown</td></tr>
+</table>
+
+</body>
+</html>
