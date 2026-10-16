@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tomas Areth - Star Chart Prop</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Georgia, serif;
+    font-size: 12px;
+    background: #fff;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 14mm;
+  }
+  .print-btn {
+    display: block;
+    margin: 0 0 20px;
+    padding: 8px 18px;
+    background: #222;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 12px;
+  }
+
+  /* ---- PROP 1: Tomas's chart ---- */
+  .prop-tomas {
+    background: #f7f2e6;
+    border: 1px solid #c8b89a;
+    padding: 22px 26px;
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+  }
+  .prop-header { text-align: center; margin-bottom: 14px; }
+  .prop-title {
+    font-size: 15px;
+    letter-spacing: 0.08em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+  }
+  .prop-byline {
+    font-size: 10px;
+    color: #777;
+    font-style: italic;
+  }
+  .prop-divider {
+    border: none;
+    border-top: 1px solid #c0aa84;
+    margin: 12px 0;
+  }
+  .star-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+    margin: 10px 0;
+  }
+  .star-table th {
+    text-align: left;
+    padding: 4px 10px;
+    border-bottom: 1px solid #b8a882;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #666;
+  }
+  .star-table td {
+    padding: 6px 10px;
+    border-bottom: 1px dashed #d4c8ac;
+  }
+  .star-table td:last-child {
+    text-align: right;
+    font-family: monospace;
+    font-size: 12px;
+  }
+  .star-table tr:last-child td { border-bottom: none; }
+  .marginal {
+    font-size: 10px;
+    color: #999;
+    font-style: italic;
+    margin-top: 12px;
+    text-align: right;
+  }
+
+  /* ---- CUT LINE ---- */
+  .cut-wrapper {
+    position: relative;
+    margin: 18px 0;
+    text-align: center;
+    color: #bbb;
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+  .cut-wrapper::before {
+    content: '';
+    position: absolute;
+    left: 0; right: 0; top: 50%;
+    border-top: 1px dashed #ccc;
+  }
+  .cut-wrapper span {
+    background: #fff;
+    padding: 0 12px;
+    position: relative;
+  }
+
+  /* ---- PROP 2: Corven's original ---- */
+  .prop-corven {
+    background: #ede4cc;
+    border: 1px solid #a08860;
+    padding: 22px 26px;
+    page-break-inside: avoid;
+  }
+  .prop-corven .prop-title { font-size: 13px; }
+  .corven-faded {
+    font-family: monospace;
+    font-size: 10px;
+    color: #b8a882;
+    line-height: 1.8;
+    margin-bottom: 14px;
+    opacity: 0.65;
+  }
+  .corven-separator {
+    border: none;
+    border-top: 1px solid #a08860;
+    margin: 14px 0 12px 0;
+    position: relative;
+  }
+  .corven-separator::after {
+    content: 'addition — different hand';
+    position: absolute;
+    right: 0;
+    top: -8px;
+    font-size: 8px;
+    color: #a08860;
+    background: #ede4cc;
+    padding: 0 4px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-style: italic;
+  }
+  .riddle-text {
+    font-size: 14px;
+    line-height: 2.1;
+    color: #1a1a1a;
+    padding: 4px 0 12px 0;
+  }
+  .riddle-signature {
+    font-size: 11px;
+    color: #666;
+    font-style: italic;
+    text-align: right;
+    margin-top: 8px;
+  }
+
+  @media print {
+    .print-btn { display: none; }
+    body { padding: 8mm; max-width: 100%; }
+    .prop-tomas, .prop-corven { page-break-inside: avoid; }
+  }
+</style>
+</head>
+<body>
+
+<button class="print-btn" onclick="window.print()">Print / Save as PDF</button>
+
+<!-- PROP 1: TOMAS'S STAR CHART — hand to players -->
+<div class="prop-tomas">
+  <div class="prop-header">
+    <div class="prop-title">Ashring Primer Sequence</div>
+    <div class="prop-title" style="font-size:12px; font-weight:normal; letter-spacing:0.04em;">Stellar Activation Order &mdash; Verified Transcription</div>
+    <div class="prop-byline">Tomas Areth &nbsp;&middot;&nbsp; transcribed from Corven's notation &nbsp;&middot;&nbsp; checked &#x2717;&#x2717;&#x2717;&#x2717;</div>
+  </div>
+  <hr class="prop-divider">
+  <table class="star-table">
+    <tr>
+      <th>#</th>
+      <th>Star Name</th>
+      <th>Magnitude</th>
+    </tr>
+    <tr><td>I</td><td>Faloris</td><td>0.4</td></tr>
+    <tr><td>II</td><td>Rethian</td><td>1.1</td></tr>
+    <tr><td>III</td><td>Evorn</td><td>1.8</td></tr>
+    <tr><td>IV</td><td>Eldenmere</td><td>2.3</td></tr>
+    <tr><td>V</td><td>Whitefall</td><td>3.1</td></tr>
+    <tr><td>VI</td><td>Lethis</td><td>3.9</td></tr>
+    <tr><td>VII</td><td>Ildemar</td><td>3.7</td></tr>
+    <tr><td>VIII</td><td>Lundavar</td><td>4.6</td></tr>
+  </table>
+  <div class="marginal">sequence verified against Observatory record &nbsp;&middot;&nbsp; A.T.</div>
+</div>
+
+<!-- CUT LINE -->
+<div class="cut-wrapper"><span>cut here &mdash; second prop below, use only if needed</span></div>
+
+<!-- PROP 2: CORVEN'S ORIGINAL — use only as alternate route -->
+<div class="prop-corven">
+  <div class="prop-header">
+    <div class="prop-title">Corven's Original &mdash; Ashring Notation</div>
+    <div class="prop-byline">A. Corven &nbsp;&middot;&nbsp; night of the ritual, fifty years ago</div>
+  </div>
+  <hr class="prop-divider">
+  <div class="corven-faded">
+    ✦ Faloris &nbsp;&mdash;&nbsp; pos. I &nbsp;&mdash;&nbsp; mag. 0.4 &nbsp;&mdash;&nbsp; dais confirmed<br>
+    ✦ Rethian &nbsp;&mdash;&nbsp; pos. II &nbsp;&mdash;&nbsp; mag. 1.1 &nbsp;&mdash;&nbsp; dais confirmed<br>
+    ✦ Evorn &nbsp;&mdash;&nbsp; pos. III &nbsp;&mdash;&nbsp; mag. 1.8 &nbsp;&mdash;&nbsp; dais confirmed<br>
+    ✦ Eldenmere &nbsp;&mdash;&nbsp; pos. IV &nbsp;&mdash;&nbsp; mag. 2.3 &nbsp;&mdash;&nbsp; dais confirmed<br>
+    ✦ Whitefall &nbsp;&mdash;&nbsp; pos. V &nbsp;&mdash;&nbsp; [notation continues &hellip;]
+  </div>
+  <div class="corven-separator"></div>
+  <div class="riddle-text">
+    Ten were asked.<br>
+    Nine gave.<br>
+    One said no.<br>
+    <br>
+    The sun went dark because she said no.<br>
+    She did not refuse for herself.<br>
+    <br>
+    What did she protect?<br>
+    What must all ten give freely?
+  </div>
+  <div class="riddle-signature">&mdash; A. Corven</div>
+</div>
+
+</body>
+</html>

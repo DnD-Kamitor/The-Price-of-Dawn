@@ -9,6 +9,11 @@ project:
     - handouts-session2-thermal.pdf
     - ritual-notation-prop.pdf
     - elder-futhark-ref.pdf
+    - campaign-monsters-statblocks.pdf
+    - campaign-monsters-statblocks.html
+    - d100-twilight-questions-print.html
+    - d100-twilight-character-questions.pdf
+    - d100-twilight-questions-1page.pdf
     - print/
 
 book:
@@ -68,6 +73,7 @@ book:
         - session-template.md
         - ai-tools.md
         - gm-tools.md
+        - monsters-bestiary.md
 
 format:
   html:
