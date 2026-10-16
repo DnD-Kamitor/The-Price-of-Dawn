@@ -23,7 +23,7 @@ Use this table during combat encounters to quickly reference AC, HP, passive per
 | **Reckoning Veteran** | The Deluded Light Fanatics | **4** | 18 | **72** (10d8 + 27) | 30 ft. | Passive Perception 13 | Str +5, Con +5 | Forms a tight wedge with other Veterans, pushing PCs off the ritual stones and locking down cas... |
 | **Reckoning Crossbow Marksman** | The Deluded Light Fanatics | **3** | 15 | **52** (8d8 + 16) | 30 ft. | Passive Perception 14 | Dex +5 | Positioned on colonnades and archways. Focus fires on party spellcasters maintaining concentrat... |
 | **Deluded Zealot Militiaman** | The Deluded Light Fanatics | **1** | 13 | **33** (6d8 + 6) | 30 ft. | Passive Perception 10 | None | Swarms in numbers. Uses reckless attacks to pin PCs in place so Veterans and Harran can advance... |
-| **Arch-Lich Vhol** | The Undead Faction | **16** | 18 | **175** (22d8 + 76) | 30 ft., fly 40 ft. (hover) | Truesight 60 ft., Darkvision 120 ft., Passive Perception 20 | Con +10, Int +12, Wis +10, Cha +10 | Hovers 15 ft above the battlefield out of melee reach. Counters radiant spells immediately. Use... |
+| **Arch-Lich Vhol** | The Undead Faction | **16** | 18 | **195** (23d8 + 92) | 30 ft., fly 40 ft. (hover) | Truesight 60 ft., Darkvision 120 ft., Passive Perception 20 | Con +10, Int +12, Wis +10, Cha +10 | Hovers 15 ft above the battlefield out of melee reach. Counters radiant spells immediately. Use... |
 | **Null-Warden** | The Undead Faction | **13** | 19 | **185** (20d8 + 95) | 30 ft. | Darkvision 60 ft., Passive Perception 19 | Str +10, Con +10, Wis +9, Int +8 | Shadow steps directly into party backline to envelop casters in Greater Null Aura. Swings Null ... |
 | **Unlit Dread Shadow-Keeper** | The Undead Faction | **10** | 18 | **135** (18d8 + 54) | 30 ft. | Darkvision 120 ft., Passive Perception 17 | Str +8, Con +8, Wis +7 | Opens with Enveloping Umbra to blind backline party members. Teleports with Shadow Step and coo... |
 | **High Priest of the Inward Crescent** | The Undead Faction | **9** | 16 | **120** (16d8 + 48) | 30 ft. | Darkvision 60 ft., Passive Perception 18 | Int +7, Wis +8, Con +7 | Maintains 4th-level Spirit Guardians, counterspells radiant magic, grants 20 temp HP shields to... |
@@ -32,12 +32,41 @@ Use this table during combat encounters to quickly reference AC, HP, passive per
 | **Unlit Shadow-Operative** | The Undead Faction | **6** | 16 | **82** (12d8 + 28) | 35 ft. | Darkvision 60 ft., Passive Perception 15 | Dex +7, Wis +5 | Shadow-steps behind paralyzed or engaged PCs. Delivers 4d6 sneak attacks. Fades when targeted.... |
 | **The Returned (Dread Ghast)** | The Undead Faction | **5** | 15 | **85** (12d8 + 31) | 35 ft. | Darkvision 60 ft., Passive Perception 14 | Con +6 | Swarms heavily armored tanks. Inflicts paralysis with claws, then bites to heal. Operatives foc... |
 | **Concordance Obsidian Legionnaire** | The Undead Faction | **3** | 18 | **52** (8d8 + 16) | 30 ft. | Darkvision 60 ft., Passive Perception 10 | Str +5, Con +4 | Locks down chokepoints and doorways with 10 ft reach halberds. Trips frontline tanks so Ghasts ... |
-| **The Gardener (Master Flesh-Shaper)** | The Flowering | **12** | 17 | **165** (18d8 + 84) | 35 ft., climb 35 ft. | Blindsight 30 ft., Darkvision 60 ft., Passive Perception 17 | Con +9, Int +9, Wis +7, Dex +9 | Stays behind Tendril Behemoth and Abomination, transferring 50% damage to them while regenerati... |
+| **The Gardener (Master Flesh-Shaper)** | The Flowering | **12** | 17 | **175** (19d8 + 95) | 35 ft., climb 35 ft. | Blindsight 30 ft., Darkvision 60 ft., Passive Perception 17 | Con +9, Int +9, Wis +7, Dex +9 | Stays behind Tendril Behemoth and Abomination, transferring 50% damage to them while regenerati... |
 | **Grasping Tendril Behemoth** | The Flowering | **9** | 15 | **145** (16d10 + 57) | 40 ft., climb 30 ft. | Blindsight 40 ft., Darkvision 60 ft., Passive Perception 11 | Str +10, Con +9 | Ignores heavy armor tanks unless blocked. Reaches over defenders with 15 ft reach to snatch Ixa... |
 | **Flower-Bred Flesh Goliath** | The Flowering | **8** | 16 | **130** (14d10 + 53) | 35 ft. | Darkvision 60 ft., Passive Perception 10 | Str +8, Con +7 | Frontline battering ram. Smashes barricades, grapples party warriors, and holds them down for S... |
 | **Apex Bloom-Stalker** | The Flowering | **6** | 16 | **88** (13d8 + 30) | 40 ft., climb 35 ft. | Darkvision 60 ft., Tremorsense 30 ft., Passive Perception 15 | Dex +8, Con +6 | Stalks along rafters and ceilings. Pounces directly onto backline spellcasters, inflicts paraly... |
 | **Noxious Spore-Artillery** | The Flowering | **5** | 14 | **75** (11d8 + 26) | 25 ft. | Darkvision 60 ft., Passive Perception 14 | Con +6 | Stands on vantage points lobbing acid mortars. When party warriors close in, detonate self to w... |
 | **Failed Flesh Graft-Amalgam** | The Flowering | **3** | 13 | **55** (10d8 + 10) | 25 ft., climb 25 ft. | Blindsight 30 ft., Passive Perception 9 | None | Crawls out of grates and gutters, wraps around boots, and lets out a deafening pain shriek to s... |
+
+---
+
+## Gestalt Encounter Balancing Guide (5 Gestalt Lvl 7 PCs = 10 Level 7 Characters)
+
+::: {.callout-important}
+### Encounter Math for 5 Gestalt Level 7 Characters
+Because a 5-player party of dual-class **Gestalt characters** possesses double the class features, spell slots, and action synergies, standard D&D 5e encounter math collapses unless they are budgeted as **10 Level 7 characters**:
+
+- **Easy Encounter:** 3,500 XP
+- **Medium Encounter:** 7,500 XP
+- **Hard Encounter:** 11,000 XP
+- **Deadly Encounter Threshold:** **17,000+ XP**
+- **Daily Adventuring Budget:** 50,000 XP
+
+#### Why Enemies in this Bestiary are Built Heavy:
+1. **Action Economy & Burst:** 5 Gestalt level 7 characters can easily unleash 150–250 burst damage in round 1. Bosses have been granted high HP pools (175–195 HP), damage transfers/resistances, and Legendary Resistances (3/Day) to prevent single-turn shutdowns.
+2. **Countering Dual-Class Synergy:** The Concordance fields **Greater Null Auras** (anti-magic) and spell reflection; The Flowering fields rapid **20 HP/turn regeneration** and multi-limb grapples; The Reckoning fields interlocking shield walls (+3 AC) and desperate bloodied martyrdom (+23 damage cleaves).
+
+#### Ready-to-Run Gestalt Encounter Formations:
+- **Encounter 1: The Apex Inversion (Deadly Boss — 19,500 XP):**  
+  **Arch-Lich Vhol** (CR 16, 15,000 XP) accompanied by 2x **Concordance Obsidian Legionnaires** (CR 3 x 2 = 1,400 XP) and 1x **The Returned Dread Ghast** (CR 5, 1,800 XP). *Total Adjusted: ~27,000 XP.*
+- **Encounter 2: The Concordance Shadow Strike (Deadly Squad — 17,400 XP):**  
+  **Null-Warden** (CR 13, 10,000 XP) + **Unlit Dread Shadow-Keeper** (CR 10, 5,900 XP) + 2x **Concordance Skeletons** (CR 3 x 2 = 1,400 XP). Prevents party casters from dominating with spell reflection and null auras.
+- **Encounter 3: The Flowering Biomantic Swarm (Deadly Swarm — 19,800 XP):**  
+  **The Gardener** (CR 12, 8,400 XP) + **Grasping Tendril Behemoth** (CR 9, 5,000 XP) + **Flower-Bred Flesh Goliath** (CR 8, 3,900 XP) + 1x **Failed Flesh Graft-Amalgam** (CR 3, 700 XP). Total chaos with damage transfer, grapples, and chimeric trampling.
+- **Encounter 4: The Solar Phalanx Vanguard (Hard Assault — 14,300 XP):**  
+  **Commander Harran Lecht** (CR 9, 5,000 XP) + **Lieutenant Senna Kard** (CR 7, 2,900 XP) + 1x **Reckoning Light-Inquisitor** (CR 6, 2,300 XP) + 2x **Reckoning Veterans** (CR 4 x 2 = 2,200 XP) + 2x **Marksmen** (CR 3 x 2 = 1,400 XP). Disciplined military shield wall with moral resolution.
+:::
 
 ---
 
@@ -275,7 +304,7 @@ The Concordance is an ancient necrotic deathless covenant ruled by **Arch-Lich V
 *Medium undead, neutral evil*
 
 - **Armor Class:** 18 (natural armor + unholy ward)
-- **Hit Points:** 175 (22d8 + 76)
+- **Hit Points:** 195 (23d8 + 92)
 - **Speed:** 30 ft., fly 40 ft. (hover)
 - **STR:** 12 (+1) | **DEX:** 16 (+3) | **CON:** 18 (+4) | **INT:** 22 (+6) | **WIS:** 18 (+4) | **CHA:** 18 (+4)
 - **Saving Throws:** Con +10, Int +12, Wis +10, Cha +10
@@ -571,7 +600,7 @@ The Flowering is an illegal bio-magical flesh-shaping cult operating in the sunk
 *Medium aberration (formerly humanoid), neutral evil*
 
 - **Armor Class:** 17 (Living Chitinous Weave)
-- **Hit Points:** 165 (18d8 + 84)
+- **Hit Points:** 175 (19d8 + 95)
 - **Speed:** 35 ft., climb 35 ft.
 - **STR:** 18 (+4) | **DEX:** 20 (+5) | **CON:** 20 (+5) | **INT:** 20 (+5) | **WIS:** 16 (+3) | **CHA:** 16 (+3)
 - **Saving Throws:** Con +9, Int +9, Wis +7, Dex +9
