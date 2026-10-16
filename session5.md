@@ -51,9 +51,9 @@ Harran is in Scenes 1 and 5. After he goes down and the ritual completes, the Re
 
 **The State of the Vessel (Corven's Concordance Stone):**  
 The party carries the octagonal ritual vessel recovered in Session 4.
-- **For tables with 2 cubes collected (Standard Pacing / Aldric & Tomas):**  
-  Only 2 sockets hum with warm light (Stone 9 and Stone 2). Six slots remain cold.
-  - **The 4 Resolved Dawnborn (Sera Voss, Ysel Maren, Nin Fletch, Orya Doss):** These four have already resolved their choice and do not require separate fetch quests across the city. They arrive independently at the Ashring plaza perimeter at dawn, carrying their cubes (Cubes 1, 3, 7, and 8). When the party brings the Concordance Stone to the dais, these four Dawnborn step forward to hand over their cubes with brief, moving character moments.
+- **For tables with 2 cubes collected (Sera Voss & Aldric Stone the Dwarven Blacksmith):**  
+  Only 2 sockets hum with warm light (Slot 1 - Sera Voss and Slot 8 - Aldric Stone). Six slots remain cold.
+  - **The 4 Resolved Dawnborn (Tomas Areth, Ysel Maren, Nin Fletch, Orya Doss):** These four have already resolved their choice and do not require separate fetch quests across the city. They arrive independently at the Ashring plaza perimeter at dawn, carrying their cubes (Cubes 2, 4, 7, and 8). When the party brings the Concordance Stone to the dais, these four Dawnborn step forward to hand over their cubes with brief, moving character moments.
   - **The 4 Active Dilemmas (Petra, Davin, Lira, Cormac):** These are the four Dawnborn who require the party's active intervention, conversation, or rescue this morning before they will come to the circle.
 - **For tables with more cubes collected:** Simply skip whichever Dawnborn the party already visited.
 
@@ -161,10 +161,10 @@ If exposed: Harran arrives in Scene 1 without his intelligence advantage. He doe
 
 *The Dawnborn who need the party's intervention on the morning of the ritual before the circle can be sealed. Each scene is grounded in Graeme Sherwood / theGreatGM principles: distinct five-senses atmosphere, stakes, NPC Want/Fear/Lie, and an encounter beat.*
 
-> [!TIP] **GM Pacing Note: Running with 2 Cubes Collected**
-> If your players enter Session 5 with only 2 cubes (e.g., Aldric Stone and Tomas Areth), **do not send them on eight separate errands**. 
+> [!TIP] **GM Pacing Note: Running with 2 Cubes Collected (Sera Voss & Aldric Stone)**
+> If your players enter Session 5 with only 2 cubes (Sera Voss and Aldric Stone the blacksmith), **do not send them on eight separate errands**. 
 > - Run the **4 Active Encounters** below: Petra (rescued from Greenhollow), Davin (convinced on the Bastion Wall), Lira (reassured at the Healing House), and Cormac (grounded in the Dawnhall).
-> - The remaining four (Sera, Ysel, Nin, Orya) are already resolute and arrive directly at the Ashring plaza at dawn to deliver their cubes when the party returns to seat the vessel on the central dais.
+> - The remaining four (Tomas, Ysel, Nin, Orya) are already resolute and arrive directly at the Ashring plaza at dawn to deliver their cubes when the party returns to seat the vessel on the central dais.
 > This keeps the morning prep focused, atmospheric, and playable in ~45–60 minutes.
 
 <details>

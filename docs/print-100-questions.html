@@ -448,128 +448,151 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 <style>
-@page {
-size: A4 portrait;
-margin: 4mm 5mm 4mm 5mm;
-}
-.sheet-1page {
-width: 100%;
-max-width: 100%;
-margin: 0 auto;
-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-color: #111;
-}
-.sheet-top {
-border-bottom: 1.5px solid #222;
-padding-bottom: 2px;
-margin-bottom: 3px;
-display: flex;
-justify-content: space-between;
-align-items: flex-end;
-}
-.sheet-title {
-font-size: 9.5pt;
-font-weight: 900;
-text-transform: uppercase;
-letter-spacing: 0.05em;
-margin: 0;
-color: #000;
-}
-.sheet-meta {
-font-size: 6.5pt;
-color: #444;
-margin: 0;
-text-align: right;
-}
-.grid-3col {
-display: grid;
-grid-template-columns: 1fr 1fr 1fr;
-column-gap: 7px;
-width: 100%;
-}
-.col-section {
-display: flex;
-flex-direction: column;
-}
-.cat-banner {
-font-size: 6.2pt;
-font-weight: 800;
-text-transform: uppercase;
-letter-spacing: 0.04em;
-background: #e6e6e6;
-color: #111;
-border-top: 1px solid #444;
-border-bottom: 1px solid #444;
-padding: 1px 3px;
-margin: 3px 0 2px 0;
-line-height: 1.2;
-}
-.cat-banner:first-child {
-margin-top: 0;
-}
-.q-box {
-font-size: 6.3pt;
-line-height: 1.15;
-margin-bottom: 1.8px;
-text-align: left;
-}
-.q-n {
-font-weight: 800;
-color: #000;
-margin-right: 1px;
-}
-.q-t {
-font-weight: 700;
-text-transform: uppercase;
-font-size: 5.4pt;
-color: #555;
-margin-right: 2px;
-}
-.q-b {
-color: #1a1a1a;
-}
-@media print {
-html, body {
-margin: 0 !important;
-padding: 0 !important;
-background: #fff !important;
-font-size: 6.2pt !important;
-}
-.no-print, .print-bar, #quarto-header, #quarto-sidebar, .sidebar, .navbar, footer, .nav-footer, .quarto-title-meta, .page-navigation {
-display: none !important;
-}
-#quarto-content, .page-columns, main, article {
-margin: 0 !important;
-padding: 0 !important;
-width: 100% !important;
-max-width: 100% !important;
-}
-.sheet-1page {
-width: 100% !important;
-max-width: 100% !important;
-page-break-inside: avoid !important;
-break-inside: avoid !important;
-}
-.grid-3col {
-display: grid !important;
-grid-template-columns: 1fr 1fr 1fr !important;
-column-gap: 5px !important;
-}
-.cat-banner {
-background: #dfdfdf !important;
--webkit-print-color-adjust: exact !important;
-print-color-adjust: exact !important;
-}
-}
+  @page {
+    size: A4 portrait;
+    margin: 5mm 6mm 5mm 6mm;
+  }
+  * {
+    box-sizing: border-box;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #111;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .sheet-1page {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .sheet-top {
+    border-bottom: 2.2px solid #111;
+    padding-bottom: 3px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  .sheet-title {
+    font-size: 12.5pt;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0;
+    color: #000;
+    display: inline-block;
+  }
+  .sheet-meta {
+    font-size: 8pt;
+    color: #444;
+    margin: 0;
+    float: right;
+    display: inline-block;
+    padding-top: 4px;
+  }
+  .clear {
+    clear: both;
+  }
+  table.grid-3col-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: none;
+    margin: 0;
+    padding: 0;
+  }
+  td.col-cell {
+    width: 33.333%;
+    vertical-align: top;
+    border: none;
+  }
+  td.col-left {
+    padding-right: 5px;
+  }
+  td.col-mid {
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+  }
+  td.col-right {
+    padding-left: 5px;
+  }
+  .cat-banner {
+    font-size: 7.6pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    background: #e8e8e8;
+    color: #000;
+    border-top: 1.2px solid #333;
+    border-bottom: 1.2px solid #333;
+    padding: 2.2px 4px;
+    margin: 5px 0 3px 0;
+    line-height: 1.2;
+  }
+  td .cat-banner:first-child {
+    margin-top: 0;
+  }
+  .q-box {
+    font-size: 7.6pt;
+    line-height: 1.24;
+    margin-bottom: 3.2px;
+    text-align: left;
+  }
+  .q-n {
+    font-weight: 800;
+    color: #000;
+    margin-right: 1px;
+  }
+  .q-t {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 6.5pt;
+    color: #555;
+    margin-right: 2px;
+  }
+  .q-b {
+    color: #151515;
+  }
+
+  @media print {
+    html, body {
+      margin: 0 !important;
+      padding: 0 !important;
+      background: #fff !important;
+    }
+    h1, h2, h3, header, .quarto-title, #quarto-header, #quarto-sidebar, .sidebar, .navbar, footer, .nav-footer, .quarto-title-meta, .page-navigation, .no-print, .print-bar {
+      display: none !important;
+    }
+    #quarto-content, .page-columns, main, article {
+      margin: 0 !important;
+      padding: 0 !important;
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+    .sheet-1page {
+      width: 100% !important;
+      max-width: 100% !important;
+      page-break-inside: avoid !important;
+      break-inside: avoid !important;
+    }
+    .cat-banner {
+      background: #e8e8e8 !important;
+      -webkit-print-color-adjust: exact !important;
+      print-color-adjust: exact !important;
+    }
+  }
 </style>
+
 
 <div class="sheet-1page">
 <div class="sheet-top">
 <div class="sheet-title">The Price of Dawn — d100 Twilight Character Questions</div>
 <div class="sheet-meta"><strong>Varenhold Grounding Table</strong> · Roll 1d100 for memories, sensory stakes &amp; moral weight</div>
 </div>
-<div class="grid-3col">
-<div class="col-section">
+<div class="container-3col">
+<div class="col-box" style="float: left; width: 32.8%; margin-right: 0.8%;">
 <div class="cat-banner">I. The Lost Sun &amp; Amber Atmosphere (01–10)</div>
 <div class="q-box"><span class="q-n">01.</span><span class="q-t">[Sun]</span><span class="q-b">You’ve never felt direct sunlight. What was the wildest thing an elder told you the sun could do?</span></div>
 <div class="q-box"><span class="q-n">02.</span><span class="q-t">[Blue]</span><span class="q-b">When someone says "blue," what shade actually appears in your mind's eye?</span></div>
@@ -609,7 +632,7 @@ print-color-adjust: exact !important;
 <div class="q-box"><span class="q-n">33.</span><span class="q-t">[Theft]</span><span class="q-b">Ever stolen an amber bead from a lamp or shrine? Did you keep it or sell it?</span></div>
 <div class="q-box"><span class="q-n">34.</span><span class="q-t">[Waste]</span><span class="q-b">What pre-Twilight luxury seems utterly ridiculous and wasteful to you now?</span></div>
 </div>
-<div class="col-section">
+<div class="col-box" style="float: left; width: 32.8%; margin-right: 0.8%;">
 <div class="cat-banner">IV. Amber Economy (Vervolg 35–40)</div>
 <div class="q-box"><span class="q-n">35.</span><span class="q-t">[Smuggle]</span><span class="q-b">The Compact taxes amber glass. Ever helped someone smuggle glass across canals?</span></div>
 <div class="q-box"><span class="q-n">36.</span><span class="q-t">[Debt]</span><span class="q-b">What item did you inherit from someone who couldn't pay their Compact heating debt?</span></div>
@@ -648,7 +671,7 @@ print-color-adjust: exact !important;
 <div class="q-box"><span class="q-n">66.</span><span class="q-t">[Pulpit]</span><span class="q-b">When priests promise "radiant dawn for the righteous," do you feel comforted or bitter?</span></div>
 <div class="q-box"><span class="q-n">67.</span><span class="q-t">[Afterlife]</span><span class="q-b">Do souls who die under twilight reach the afterlife, or wander the cold mist?</span></div>
 </div>
-<div class="col-section">
+<div class="col-box" style="float: left; width: 32.8%;">
 <div class="cat-banner">VII. Faith &amp; Gods (Vervolg 68–70)</div>
 <div class="q-box"><span class="q-n">68.</span><span class="q-t">[Festival]</span><span class="q-b">What seasonal festival do you still keep, even though astronomical seasons are gone?</span></div>
 <div class="q-box"><span class="q-n">69.</span><span class="q-t">[Shrines]</span><span class="q-b">Strangest wayside shrine you’ve encountered out in Ashfen marsh or Dusk Parishes?</span></div>
@@ -685,14 +708,14 @@ print-color-adjust: exact !important;
 <div class="q-box"><span class="q-n">97.</span><span class="q-t">[Peace]</span><span class="q-b">What will you do with your life if you no longer fight to survive every day?</span></div>
 <div class="q-box"><span class="q-n">98.</span><span class="q-t">[Fear of Dawn]</span><span class="q-b">Most terrifying thing about real sun: afraid you won't recognize yourself in light?</span></div>
 <div class="q-box"><span class="q-n">99.</span><span class="q-t">[Ixa]</span><span class="q-b">Ixa’s hands are always warm. What part of her survival echoes your own?</span></div>
-<div class="q-box"><span class="q-n">100.</span><span class="q-t">[The Price]</span><span class="q-b">If dawn has a price, and someone in this room must pay it... why not you?</span></div>
-</div>
-</div>
+<div class="q-box"><span class="q-n">100.</span><span class="q-t">[The Price]</span><span class="q-b">If dawn has a price, and someone in this room must pay it... why not you?</span></div><div style="clear: both;"></div></div>
 </div>
 
 
 
-</main> <!-- /main -->
+
+
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
