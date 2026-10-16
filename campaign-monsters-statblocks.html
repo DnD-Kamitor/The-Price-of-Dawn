@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>The Price of Dawn — Monster & Creature Bestiary</title>
+<title>The Price of Dawn — The Three Core Factions Bestiary</title>
 <style>
   @page {
     size: A4 portrait;
-    margin: 8mm 8mm 8mm 8mm;
+    margin: 6mm 7mm 6mm 7mm;
   }
   * {
     box-sizing: border-box;
@@ -30,13 +30,13 @@
   .header-banner {
     background: #2b1d14;
     color: #f5ece2;
-    padding: 8px 14px;
+    padding: 4px 10px;
     border-radius: 4px;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     border-left: 5px solid #d1512a;
   }
   .header-title {
-    font-size: 13pt;
+    font-size: 11.5pt;
     font-weight: 900;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -45,23 +45,23 @@
     margin: 0;
   }
   .header-sub {
-    font-size: 7.8pt;
+    font-size: 7.0pt;
     color: #d1c5b8;
-    margin-top: 2px;
+    margin-top: 1px;
   }
 
   /* Section Divider */
   .section-header {
     background: #58180d;
     color: #fff;
-    padding: 4px 10px;
-    font-size: 10pt;
+    padding: 3.5px 8px;
+    font-size: 9.0pt;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.04em;
     font-family: Georgia, serif;
     border-radius: 3px;
-    margin-bottom: 8px;
+    margin-bottom: 5px;
   }
 
   /* Layout */
@@ -74,38 +74,39 @@
     width: 49%;
   }
 
-  /* Master Table */
+  /* Master Table on Page 1 */
   .master-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 7.2pt;
-    margin-bottom: 10px;
+    font-size: 6.1pt;
+    margin-bottom: 5px;
   }
   .master-table th {
     background: #4a150c;
     color: #ffd285;
     text-align: left;
-    padding: 4px 6px;
-    font-size: 6.8pt;
+    padding: 2.2px 4px;
+    font-size: 5.9pt;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.03em;
     border: 1px solid #330b05;
   }
   .master-table td {
-    padding: 3.5px 5px;
+    padding: 1.5px 3.5px;
     border: 1px solid #d8ccb8;
-    line-height: 1.2;
-    vertical-align: top;
+    line-height: 1.12;
+    vertical-align: middle;
   }
   .master-table tr:nth-child(even) {
     background: #fdfaf5;
   }
   .master-table .name-td {
     color: #58180d;
+    font-size: 6.2pt;
   }
   .master-table .tag-sub {
-    font-size: 6.2pt;
+    font-size: 5.3pt;
     color: #666;
     text-transform: uppercase;
   }
@@ -115,10 +116,10 @@
   .master-table .cr-pill {
     background: #7a200d;
     color: #fff;
-    padding: 1px 4px;
-    border-radius: 3px;
+    padding: 1px 3px;
+    border-radius: 2px;
     font-weight: bold;
-    font-size: 6.5pt;
+    font-size: 5.8pt;
     white-space: nowrap;
   }
   .master-table .num-td {
@@ -129,44 +130,45 @@
     color: #941e0b;
   }
   .master-table .tac-td {
-    font-size: 6.5pt;
+    font-size: 5.8pt;
     color: #332a22;
+    line-height: 1.1;
   }
 
   /* Three Column Notes on Page 1 */
   .three-col-notes {
     display: flex;
     justify-content: space-between;
-    gap: 8px;
-    margin-top: 4px;
+    gap: 6px;
+    margin-top: 2px;
   }
   .note-box {
     width: 32%;
     background: #fdfaf5;
-    border: 1.5px solid #2b1d14;
-    border-radius: 4px;
-    padding: 6px 8px;
-    font-size: 6.8pt;
-    line-height: 1.22;
+    border: 1.2px solid #2b1d14;
+    border-radius: 3px;
+    padding: 3.5px 6px;
+    font-size: 5.9pt;
+    line-height: 1.14;
   }
   .note-head {
     font-family: Georgia, serif;
-    font-size: 7.8pt;
+    font-size: 6.8pt;
     font-weight: 900;
     text-transform: uppercase;
     color: #58180d;
     border-bottom: 1px solid #8c4710;
-    padding-bottom: 2px;
-    margin-bottom: 4px;
+    padding-bottom: 1.5px;
+    margin-bottom: 2px;
   }
   .note-box p {
-    margin: 0 0 4px 0;
+    margin: 0 0 2px 0;
   }
 
   /* Authentic D&D 5e Stat Block Card */
   .dnd-card-col {
     width: 100%;
-    margin-bottom: 8px;
+    margin-bottom: 7px;
     break-inside: avoid;
     page-break-inside: avoid;
   }
@@ -174,22 +176,22 @@
     background: #fff;
     border: 1.8px solid #7a200d;
     border-radius: 4px;
-    padding: 7px 9px;
-    font-size: 7.2pt;
-    line-height: 1.22;
+    padding: 6px 8px;
+    font-size: 7.0pt;
+    line-height: 1.20;
     color: #111;
   }
   .dnd-card.compact {
-    padding: 5px 8px;
-    font-size: 7.0pt;
-    line-height: 1.18;
+    padding: 4.5px 7px;
+    font-size: 6.7pt;
+    line-height: 1.16;
   }
   .dnd-header {
     margin-bottom: 2px;
   }
   .dnd-name {
     font-family: Georgia, serif;
-    font-size: 11pt;
+    font-size: 10.5pt;
     font-weight: 900;
     color: #58180d;
     text-transform: uppercase;
@@ -197,14 +199,14 @@
     line-height: 1.1;
   }
   .dnd-tagline {
-    font-size: 6.8pt;
+    font-size: 6.5pt;
     font-weight: bold;
     color: #8c4710;
     text-transform: uppercase;
     margin: 1px 0;
   }
   .dnd-meta {
-    font-size: 7.0pt;
+    font-size: 6.8pt;
     font-style: italic;
     color: #555;
   }
@@ -215,7 +217,7 @@
     margin: 2px 0 3px 0;
   }
   .dnd-core-stats {
-    font-size: 7.5pt;
+    font-size: 7.2pt;
     color: #58180d;
     margin-bottom: 2px;
   }
@@ -227,19 +229,19 @@
     border-left: 3px solid #7a200d;
   }
   .hp-val {
-    font-size: 8.5pt;
+    font-size: 8.2pt;
     font-weight: 900;
     color: #941e0b;
   }
   .hp-tracker {
-    font-size: 6.2pt;
+    font-size: 5.8pt;
     font-family: monospace;
     color: #444;
     background: #fff;
-    padding: 1px 3px;
+    padding: 1px 2px;
     border: 1px solid #d4c2aa;
     border-radius: 2px;
-    margin-left: 4px;
+    margin-left: 3px;
     display: inline-block;
   }
   .dnd-stats-table {
@@ -247,10 +249,10 @@
     border-collapse: collapse;
     text-align: center;
     margin: 2px 0 3px 0;
-    font-size: 7.2pt;
+    font-size: 7.0pt;
   }
   .dnd-stats-table th {
-    font-size: 6.5pt;
+    font-size: 6.2pt;
     font-weight: bold;
     color: #58180d;
     padding: 1px;
@@ -261,8 +263,8 @@
     color: #222;
   }
   .dnd-details {
-    font-size: 7.0pt;
-    line-height: 1.20;
+    font-size: 6.8pt;
+    line-height: 1.18;
     margin: 2px 0;
     color: #222;
   }
@@ -272,36 +274,36 @@
     padding: 1px 4px;
     border-radius: 3px;
     font-weight: bold;
-    font-size: 6.5pt;
+    font-size: 6.2pt;
   }
   .dnd-entry {
-    margin-bottom: 2.5px;
+    margin-bottom: 2px;
     text-align: left;
-    font-size: 7.2pt;
-    line-height: 1.18;
+    font-size: 6.9pt;
+    line-height: 1.16;
   }
   .dnd-entry strong {
     color: #58180d;
   }
   .dnd-section-title {
     font-family: Georgia, serif;
-    font-size: 8.2pt;
+    font-size: 7.8pt;
     font-weight: 900;
     color: #58180d;
     text-transform: uppercase;
     letter-spacing: 0.04em;
     border-bottom: 1px solid #7a200d;
-    margin: 4px 0 2px 0;
+    margin: 3px 0 2px 0;
     padding-bottom: 1px;
   }
   .dnd-tactics {
     background: #f1ede3;
     border: 1px dashed #997b5e;
     border-radius: 3px;
-    padding: 3px 5px;
-    margin-top: 3px;
-    font-size: 6.8pt;
-    line-height: 1.16;
+    padding: 2.5px 4px;
+    margin-top: 2.5px;
+    font-size: 6.5pt;
+    line-height: 1.14;
     color: #332a22;
   }
   .dnd-tactics strong {
@@ -311,29 +313,29 @@
   /* Encounter Note Boxes */
   .dnd-encounter-box {
     background: #fdfaf5;
-    border: 1.8px solid #2b1d14;
+    border: 1.6px solid #2b1d14;
     border-radius: 4px;
-    padding: 7px 9px;
-    margin-top: 6px;
-    font-size: 7.0pt;
-    line-height: 1.25;
+    padding: 6px 8px;
+    margin-top: 5px;
+    font-size: 6.7pt;
+    line-height: 1.22;
     color: #222;
     break-inside: avoid;
     page-break-inside: avoid;
   }
   .dnd-enc-title {
     font-family: Georgia, serif;
-    font-size: 8.8pt;
+    font-size: 8.2pt;
     font-weight: 900;
     text-transform: uppercase;
     color: #2b1d14;
     border-bottom: 1.5px solid #8c4710;
     padding-bottom: 2px;
-    margin-bottom: 5px;
+    margin-bottom: 4px;
     letter-spacing: 0.03em;
   }
   .dnd-enc-body p {
-    margin: 0 0 4px 0;
+    margin: 0 0 3px 0;
   }
   .dnd-enc-body strong {
     color: #58180d;
@@ -344,11 +346,11 @@
   
     <div class="page-sheet first-page">
       <div class="header-banner">
-        <div class="header-title">The Price of Dawn — Monster & Creature Compendium</div>
-        <div class="header-sub">Master Table Combat Quick Reference · D&D 5e Stat Blocks · HP Trackers · GM Directives</div>
+        <div class="header-title">The Price of Dawn — The Three Core Factions Bestiary</div>
+        <div class="header-sub">Official 5e Stat Blocks · HP Damage Trackers · Combat Tactics · The Only Three Warring Powers</div>
       </div>
 
-      <div class="section-header">Master Combat Quick-Reference & Initiative Tracker</div>
+      <div class="section-header">Master Combat Quick-Reference & Initiative Tracker (All 3 Factions)</div>
       <table class="master-table">
         <thead>
           <tr>
@@ -356,166 +358,254 @@
             <th style="width: 7%;">CR</th>
             <th style="width: 6%;">AC</th>
             <th style="width: 14%;">HP (Formula)</th>
-            <th style="width: 9%;">Speed</th>
+            <th style="width: 8%;">Speed</th>
             <th style="width: 14%;">Senses</th>
             <th style="width: 12%;">Key Saves</th>
-            <th style="width: 18%;">Tactical Priority & Threat</th>
+            <th style="width: 19%;">Combat Role & Threat</th>
           </tr>
         </thead>
         <tbody>
           
         <tr>
-          <td class="name-td"><strong>Commander Harran Lecht</strong><br><span class="tag-sub">Lord Commander of the Reckoning · Tragic Fanatic</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 6</span></td>
-          <td class="num-td"><strong>17</strong></td>
-          <td class="num-td"><span class="hp-bold">102</span> (12d8 + 48)</td>
+          <td class="name-td"><strong>Commander Harran Lecht</strong><br><span class="tag-sub">The Deluded Light Fanatics</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 9</span></td>
+          <td class="num-td"><strong>18</strong></td>
+          <td class="num-td"><span class="hp-bold">142</span> (15d8 + 75)</td>
           <td>30 ft.</td>
-          <td>Passive Perception 13</td>
-          <td>Str +7, Con +7, Wis +3</td>
-          <td class="tac-td">Charges directly for the center dais. Knocks party defenders away with Shield Slam so his soldiers can disrupt...</td>
+          <td>Passive Perception 15</td>
+          <td>Str +9, Con +9, Wis +5, Cha +8</td>
+          <td class="tac-td">Charges directly for the center dais. Knocks party defenders prone and cleaves into backline ca...</td>
         </tr>
         
         <tr>
-          <td class="name-td"><strong>Lieutenant Senna Kard</strong><br><span class="tag-sub">Field Commander · Second-in-Command (Conflicted)</span></td>
+          <td class="name-td"><strong>Lieutenant Senna Kard</strong><br><span class="tag-sub">The Deluded Light Fanatics</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 7</span></td>
+          <td class="num-td"><strong>17</strong></td>
+          <td class="num-td"><span class="hp-bold">98</span> (14d8 + 35)</td>
+          <td>35 ft.</td>
+          <td>Passive Perception 16</td>
+          <td>Dex +7, Wis +6, Cha +6</td>
+          <td class="tac-td">Holds the secondary line 20 ft behind Harran, directing defensive maneuvers. If appealed to emo...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Reckoning Light-Inquisitor</strong><br><span class="tag-sub">The Deluded Light Fanatics</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 6</span></td>
+          <td class="num-td"><strong>17</strong></td>
+          <td class="num-td"><span class="hp-bold">88</span> (13d8 + 30)</td>
+          <td>30 ft.</td>
+          <td>Passive Perception 16</td>
+          <td>Wis +6, Cha +6, Con +6</td>
+          <td class="tac-td">Targets party spellcasters and healers. Uses Purifying Flare early to blind frontliners, then h...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Fanatic Sun-Priest</strong><br><span class="tag-sub">The Deluded Light Fanatics</span></td>
           <td class="cr-td"><span class="cr-pill">CR 5</span></td>
-          <td class="num-td"><strong>16</strong></td>
-          <td class="num-td"><span class="hp-bold">78</span> (12d8 + 24)</td>
+          <td class="num-td"><strong>15</strong></td>
+          <td class="num-td"><span class="hp-bold">68</span> (11d8 + 19)</td>
+          <td>30 ft.</td>
+          <td>Passive Perception 17</td>
+          <td>Wis +7, Con +5</td>
+          <td class="tac-td">Casts Spirit Guardians on turn 1, stays behind the shield wall, uses Guiding Bolt to paint targ...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Reckoning Veteran</strong><br><span class="tag-sub">The Deluded Light Fanatics</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 4</span></td>
+          <td class="num-td"><strong>18</strong></td>
+          <td class="num-td"><span class="hp-bold">72</span> (10d8 + 27)</td>
+          <td>30 ft.</td>
+          <td>Passive Perception 13</td>
+          <td>Str +5, Con +5</td>
+          <td class="tac-td">Forms a tight wedge with other Veterans, pushing PCs off the ritual stones and locking down cas...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Reckoning Crossbow Marksman</strong><br><span class="tag-sub">The Deluded Light Fanatics</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 3</span></td>
+          <td class="num-td"><strong>15</strong></td>
+          <td class="num-td"><span class="hp-bold">52</span> (8d8 + 16)</td>
           <td>30 ft.</td>
           <td>Passive Perception 14</td>
-          <td>Dex +5, Wis +4</td>
-          <td class="tac-td">Stays 20 ft behind the vanguard, ordering soldiers to disarm and drag Dawnborn rather than slaughter. Fights d...</td>
-        </tr>
-        
-        <tr>
-          <td class="name-td"><strong>Reckoning Veteran</strong><br><span class="tag-sub">Varenhold Garrison Infantry · Shield Wall</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 3</span></td>
-          <td class="num-td"><strong>17</strong></td>
-          <td class="num-td"><span class="hp-bold">58</span> (9d8 + 18)</td>
-          <td>30 ft.</td>
-          <td>Passive Perception 12</td>
-          <td>None</td>
-          <td class="tac-td">Advance in pairs or wedges behind heavy shields. Prioritize shoving Dawnborn off Primer Stones over killing PC...</td>
-        </tr>
-        
-        <tr>
-          <td class="name-td"><strong>Solennite Blade Infiltrator</strong><br><span class="tag-sub">Keseph Vyne's Guild Mercenary · Saboteur</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 2</span></td>
-          <td class="num-td"><strong>15</strong></td>
-          <td class="num-td"><span class="hp-bold">44</span> (8d8 + 8)</td>
-          <td>35 ft.</td>
-          <td>Darkvision 60 ft., Passive Perception 12</td>
           <td>Dex +5</td>
-          <td class="tac-td">Use Cunning Action to skirt around the frontline and reach the central dais. Focus attacks on damaging Corven'...</td>
+          <td class="tac-td">Positioned on colonnades and archways. Focus fires on party spellcasters maintaining concentrat...</td>
         </tr>
         
         <tr>
-          <td class="name-td"><strong>Grasping Tendril</strong><br><span class="tag-sub">The Flowering's Failed Experiment · Flesh Horror</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 6</span></td>
-          <td class="num-td"><strong>14</strong></td>
-          <td class="num-td"><span class="hp-bold">91</span> (14d8 + 28)</td>
-          <td>35 ft., climb 20 ft.</td>
-          <td>Blindsight 30 ft., Darkvision 60 ft., Passive Perception 10</td>
-          <td>Str +7, Con +5</td>
-          <td class="tac-td">Ignores heavy armor tanks unless physically blocked. Unfolds rubbery limbs to grapple Ixa from 10 ft away. Onc...</td>
-        </tr>
-        
-        <tr>
-          <td class="name-td"><strong>Null-Warden</strong><br><span class="tag-sub">Elite Concordance Inversion Enforcer</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 11</span></td>
-          <td class="num-td"><strong>19</strong></td>
-          <td class="num-td"><span class="hp-bold">161</span> (19d8 + 76)</td>
-          <td>30 ft.</td>
-          <td>Darkvision 60 ft., Passive Perception 17</td>
-          <td>Str +9, Con +8, Wis +7</td>
-          <td class="tac-td">Locks down the party's primary spellcaster with Null Aura. Repositions using Shadow Step. Drops Sever Resonanc...</td>
-        </tr>
-        
-        <tr>
-          <td class="name-td"><strong>Priest of the Inward Crescent</strong><br><span class="tag-sub">Shadar-kai Ritualist · Doctrine Zealot</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 7</span></td>
-          <td class="num-td"><strong>14</strong></td>
-          <td class="num-td"><span class="hp-bold">97</span> (15d8 + 30)</td>
-          <td>30 ft.</td>
-          <td>Darkvision 60 ft., Passive Perception 17</td>
-          <td>Int +6, Wis +7</td>
-          <td class="tac-td">Priests stay adjacent to complete the suppression ritual. One maintains Spirit Guardians around the plinth, th...</td>
-        </tr>
-        
-        <tr>
-          <td class="name-td"><strong>Unlit Shadow-Keeper</strong><br><span class="tag-sub">Cell Commander · Tactical Commander</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 8</span></td>
-          <td class="num-td"><strong>17</strong></td>
-          <td class="num-td"><span class="hp-bold">112</span> (15d8 + 45)</td>
-          <td>30 ft.</td>
-          <td>Darkvision 60 ft., Passive Perception 16</td>
-          <td>Str +6, Con +6, Wis +6</td>
-          <td class="tac-td">Opens with Enveloping Dark. Shadow Steps to flank party frontliners and uses Cell Command to trigger Operative...</td>
-        </tr>
-        
-        <tr>
-          <td class="name-td"><strong>Unlit Doctrinal Voice</strong><br><span class="tag-sub">Theological Officer · Backline Controller</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 7</span></td>
+          <td class="name-td"><strong>Deluded Zealot Militiaman</strong><br><span class="tag-sub">The Deluded Light Fanatics</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 1</span></td>
           <td class="num-td"><strong>13</strong></td>
-          <td class="num-td"><span class="hp-bold">84</span> (13d8 + 26)</td>
+          <td class="num-td"><span class="hp-bold">33</span> (6d8 + 6)</td>
           <td>30 ft.</td>
-          <td>Passive Perception 13</td>
-          <td>Int +7, Wis +6</td>
-          <td class="tac-td">Stays at maximum range. Opens with Hold Person or Hypnotic Pattern. Signals Operatives to coup-de-grace paraly...</td>
+          <td>Passive Perception 10</td>
+          <td>None</td>
+          <td class="tac-td">Swarms in numbers. Uses reckless attacks to pin PCs in place so Veterans and Harran can advance...</td>
         </tr>
         
         <tr>
-          <td class="name-td"><strong>Unlit Operative</strong><br><span class="tag-sub">Shadar-kai Infiltrator · Cell Soldier</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 5</span></td>
-          <td class="num-td"><strong>15</strong></td>
-          <td class="num-td"><span class="hp-bold">65</span> (10d8 + 20)</td>
+          <td class="name-td"><strong>Arch-Lich Vhol</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 16</span></td>
+          <td class="num-td"><strong>18</strong></td>
+          <td class="num-td"><span class="hp-bold">175</span> (22d8 + 76)</td>
+          <td>30 ft., fly 40 ft. (hover)</td>
+          <td>Truesight 60 ft., Darkvision 120 ft., Passive Perception 20</td>
+          <td>Con +10, Int +12, Wis +10, Cha +10</td>
+          <td class="tac-td">Hovers 15 ft above the battlefield out of melee reach. Counters radiant spells immediately. Use...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Null-Warden</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 13</span></td>
+          <td class="num-td"><strong>19</strong></td>
+          <td class="num-td"><span class="hp-bold">185</span> (20d8 + 95)</td>
           <td>30 ft.</td>
+          <td>Darkvision 60 ft., Passive Perception 19</td>
+          <td>Str +10, Con +10, Wis +9, Int +8</td>
+          <td class="tac-td">Shadow steps directly into party backline to envelop casters in Greater Null Aura. Swings Null ...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Unlit Dread Shadow-Keeper</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 10</span></td>
+          <td class="num-td"><strong>18</strong></td>
+          <td class="num-td"><span class="hp-bold">135</span> (18d8 + 54)</td>
+          <td>30 ft.</td>
+          <td>Darkvision 120 ft., Passive Perception 17</td>
+          <td>Str +8, Con +8, Wis +7</td>
+          <td class="tac-td">Opens with Enveloping Umbra to blind backline party members. Teleports with Shadow Step and coo...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>High Priest of the Inward Crescent</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 9</span></td>
+          <td class="num-td"><strong>16</strong></td>
+          <td class="num-td"><span class="hp-bold">120</span> (16d8 + 48)</td>
+          <td>30 ft.</td>
+          <td>Darkvision 60 ft., Passive Perception 18</td>
+          <td>Int +7, Wis +8, Con +7</td>
+          <td class="tac-td">Maintains 4th-level Spirit Guardians, counterspells radiant magic, grants 20 temp HP shields to...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Unlit Doctrinal Voice</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 9</span></td>
+          <td class="num-td"><strong>15</strong></td>
+          <td class="num-td"><span class="hp-bold">105</span> (15d8 + 38)</td>
+          <td>30 ft.</td>
+          <td>Passive Perception 14</td>
+          <td>Int +9, Wis +8, Cha +7</td>
+          <td class="tac-td">Casts Greater Invisibility on turn 1. Stays at maximum range launching Mind-Shatter Lance and O...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Dusk High Priest</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 8</span></td>
+          <td class="num-td"><strong>16</strong></td>
+          <td class="num-td"><span class="hp-bold">110</span> (15d8 + 45)</td>
+          <td>30 ft.</td>
+          <td>Darkvision 60 ft., Passive Perception 18</td>
+          <td>Wis +8, Cha +7, Con +7</td>
+          <td class="tac-td">Commands The Returned to pin down targets. Uses Combat Animation to turn dead party allies/NPCs...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Unlit Shadow-Operative</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 6</span></td>
+          <td class="num-td"><strong>16</strong></td>
+          <td class="num-td"><span class="hp-bold">82</span> (12d8 + 28)</td>
+          <td>35 ft.</td>
           <td>Darkvision 60 ft., Passive Perception 15</td>
           <td>Dex +7, Wis +5</td>
-          <td class="tac-td">Open with crossbows, Shadow Step into melee when an ally flanks. Switch to cover below 15 HP. If the Shadow-Ke...</td>
+          <td class="tac-td">Shadow-steps behind paralyzed or engaged PCs. Delivers 4d6 sneak attacks. Fades when targeted....</td>
         </tr>
         
         <tr>
-          <td class="name-td"><strong>Dusk Priest</strong><br><span class="tag-sub">Concordance Ordained Leader · Tannery Encounter</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 7</span></td>
-          <td class="num-td"><strong>14</strong></td>
-          <td class="num-td"><span class="hp-bold">110</span> (17d8 + 34)</td>
+          <td class="name-td"><strong>The Returned (Dread Ghast)</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 5</span></td>
+          <td class="num-td"><strong>15</strong></td>
+          <td class="num-td"><span class="hp-bold">85</span> (12d8 + 31)</td>
+          <td>35 ft.</td>
+          <td>Darkvision 60 ft., Passive Perception 14</td>
+          <td>Con +6</td>
+          <td class="tac-td">Swarms heavily armored tanks. Inflicts paralysis with claws, then bites to heal. Operatives foc...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Concordance Obsidian Legionnaire</strong><br><span class="tag-sub">The Undead Faction</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 3</span></td>
+          <td class="num-td"><strong>18</strong></td>
+          <td class="num-td"><span class="hp-bold">52</span> (8d8 + 16)</td>
           <td>30 ft.</td>
-          <td>Darkvision 60 ft., Passive Perception 17</td>
-          <td>Wis +7, Cha +5</td>
-          <td class="tac-td">Commands The Returned to pin down frontliners. Uses Spirit Guardians and Toll the Dead. Signals tactical retre...</td>
+          <td>Darkvision 60 ft., Passive Perception 10</td>
+          <td>Str +5, Con +4</td>
+          <td class="tac-td">Locks down chokepoints and doorways with 10 ft reach halberds. Trips frontline tanks so Ghasts ...</td>
         </tr>
         
         <tr>
-          <td class="name-td"><strong>The Returned (Concordance Ghast)</strong><br><span class="tag-sub">Branded Initiate Undead · Paralyzing Claws</span></td>
+          <td class="name-td"><strong>The Gardener (Master Flesh-Shaper)</strong><br><span class="tag-sub">The Flowering</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 12</span></td>
+          <td class="num-td"><strong>17</strong></td>
+          <td class="num-td"><span class="hp-bold">165</span> (18d8 + 84)</td>
+          <td>35 ft., climb 35 ft.</td>
+          <td>Blindsight 30 ft., Darkvision 60 ft., Passive Perception 17</td>
+          <td>Con +9, Int +9, Wis +7, Dex +9</td>
+          <td class="tac-td">Stays behind Tendril Behemoth and Abomination, transferring 50% damage to them while regenerati...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Grasping Tendril Behemoth</strong><br><span class="tag-sub">The Flowering</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 9</span></td>
+          <td class="num-td"><strong>15</strong></td>
+          <td class="num-td"><span class="hp-bold">145</span> (16d10 + 57)</td>
+          <td>40 ft., climb 30 ft.</td>
+          <td>Blindsight 40 ft., Darkvision 60 ft., Passive Perception 11</td>
+          <td>Str +10, Con +9</td>
+          <td class="tac-td">Ignores heavy armor tanks unless blocked. Reaches over defenders with 15 ft reach to snatch Ixa...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Flower-Bred Flesh Goliath</strong><br><span class="tag-sub">The Flowering</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 8</span></td>
+          <td class="num-td"><strong>16</strong></td>
+          <td class="num-td"><span class="hp-bold">130</span> (14d10 + 53)</td>
+          <td>35 ft.</td>
+          <td>Darkvision 60 ft., Passive Perception 10</td>
+          <td>Str +8, Con +7</td>
+          <td class="tac-td">Frontline battering ram. Smashes barricades, grapples party warriors, and holds them down for S...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Apex Bloom-Stalker</strong><br><span class="tag-sub">The Flowering</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 6</span></td>
+          <td class="num-td"><strong>16</strong></td>
+          <td class="num-td"><span class="hp-bold">88</span> (13d8 + 30)</td>
+          <td>40 ft., climb 35 ft.</td>
+          <td>Darkvision 60 ft., Tremorsense 30 ft., Passive Perception 15</td>
+          <td>Dex +8, Con +6</td>
+          <td class="tac-td">Stalks along rafters and ceilings. Pounces directly onto backline spellcasters, inflicts paraly...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Noxious Spore-Artillery</strong><br><span class="tag-sub">The Flowering</span></td>
+          <td class="cr-td"><span class="cr-pill">CR 5</span></td>
+          <td class="num-td"><strong>14</strong></td>
+          <td class="num-td"><span class="hp-bold">75</span> (11d8 + 26)</td>
+          <td>25 ft.</td>
+          <td>Darkvision 60 ft., Passive Perception 14</td>
+          <td>Con +6</td>
+          <td class="tac-td">Stands on vantage points lobbing acid mortars. When party warriors close in, detonate self to w...</td>
+        </tr>
+        
+        <tr>
+          <td class="name-td"><strong>Failed Flesh Graft-Amalgam</strong><br><span class="tag-sub">The Flowering</span></td>
           <td class="cr-td"><span class="cr-pill">CR 3</span></td>
           <td class="num-td"><strong>13</strong></td>
-          <td class="num-td"><span class="hp-bold">65</span> (10d8 + 20)</td>
-          <td>30 ft.</td>
-          <td>Darkvision 60 ft., Passive Perception 12</td>
-          <td>Con +4</td>
-          <td class="tac-td">Swarm adjacent to each other for Pack Tactics. Focus claws on high-AC warriors to inflict paralysis, then bite...</td>
-        </tr>
-        
-        <tr>
-          <td class="name-td"><strong>Cinder-of-Ashfall</strong><br><span class="tag-sub">Tabaxi Reckoning Scout · Pragmatic Infiltrator</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 3</span></td>
-          <td class="num-td"><strong>14</strong></td>
-          <td class="num-td"><span class="hp-bold">52</span> (8d8 + 16)</td>
-          <td>30 ft., climb 20 ft.</td>
-          <td>Darkvision 60 ft., Passive Perception 15</td>
-          <td>Dex +6, Int +3</td>
-          <td class="tac-td">Stays mobile along rooftops and rafters. Fights to disable, not slaughter. Retreats or negotiates below 15 HP....</td>
-        </tr>
-        
-        <tr>
-          <td class="name-td"><strong>The Vault-Warden</strong><br><span class="tag-sub">Tolvin Heuschel's Bound Spirit · Bridge Guardian</span></td>
-          <td class="cr-td"><span class="cr-pill">CR 5</span></td>
-          <td class="num-td"><strong>16</strong></td>
-          <td class="num-td"><span class="hp-bold">85</span> (10d10 + 30)</td>
-          <td>30 ft.</td>
-          <td>Darkvision 60 ft., Tremorsense 30 ft. (bridge only), Passive Perception 16</td>
-          <td>Str +8, Con +6</td>
-          <td class="tac-td">Guards the chasm bridge. Punishes players who try to sprint past. Ceases hostility if Ixa speaks to it....</td>
+          <td class="num-td"><span class="hp-bold">55</span> (10d8 + 10)</td>
+          <td>25 ft., climb 25 ft.</td>
+          <td>Blindsight 30 ft., Passive Perception 9</td>
+          <td>None</td>
+          <td class="tac-td">Crawls out of grates and gutters, wraps around boots, and lets out a deafening pain shriek to s...</td>
         </tr>
         
         </tbody>
@@ -523,42 +613,42 @@
 
       <div class="three-col-notes">
         <div class="note-box">
-          <div class="note-head">Session 5: The Climax Plaza</div>
-          <p><strong>Goal:</strong> Stop Harran Lecht's vanguard from breaking Corven's ritual while preventing the Tendril from dragging Ixa into the sunken conduits.</p>
-          <p><strong>Ritual Clock:</strong> 4 complete rounds of concentration (DC 10 Con check if damaged). A DC 15 Persuasion check causes Senna Kard to order a ceasefire on Round 4.</p>
+          <div class="note-head">Faction 1: Deluded Light Fanatics</div>
+          <p><strong>Identity:</strong> Mostly human zealots (The Reckoning). Their facts are backwards—they genuinely believe forcing the dawn or sacrificing Dawnborn is heroic martyrdom.</p>
+          <p><strong>Table Dynamic:</strong> Driven by tragic conviction, not evil. They fight with military discipline and righteous desperation, but can be morally broken or reasoned with (Senna Kard).</p>
         </div>
         <div class="note-box">
-          <div class="note-head">Session 4: The Concordance Core</div>
-          <p><strong>Goal:</strong> Infiltrate the subterranean inversion chamber, neutralize the Null-Warden and Inward Crescent ritualists, and retrieve the Prime Core.</p>
-          <p><strong>Null Field:</strong> Spellcasters within 10 ft of the Null-Warden must succeed on DC 15 Con checks to cast spells of 1st level or higher.</p>
+          <div class="note-head">Faction 2: The Undead (Concordance)</div>
+          <p><strong>Identity:</strong> Deathless covenant ruled by <strong>Arch-Lich Vhol</strong>. They embrace the eternal twilight as their ascension and use null-magic to sever the sun forever.</p>
+          <p><strong>Table Dynamic:</strong> Cold, methodical, lethal. They employ anti-magic Null Auras, paralyzing claws, necrosis, and shadow-stepping inquisitors to silence resistance.</p>
         </div>
         <div class="note-box">
-          <div class="note-head">Earlier: Shadows of Varenhold</div>
-          <p><strong>Goal:</strong> Survive the Tannery ambush by Dusk Priests and Ghasts, negotiate with Cinder-of-Ashfall, and bypass the ancient Vault-Warden.</p>
-          <p><strong>Chasm Bridge:</strong> The Vault-Warden can be reasoned with (DC 13 Persuasion) if Ixa is present or by speaking the Elder Futhark password.</p>
+          <div class="note-head">Faction 3: The Flowering (Mutants)</div>
+          <p><strong>Identity:</strong> Underground bio-magical flesh-crafters led by <strong>The Gardener</strong>. They view physical laws as flaws to be overcome through mutation and horrific grafting.</p>
+          <p><strong>Table Dynamic:</strong> Body-horror aberrations. Grasping rubbery tendrils, spore-spitters, multi-armed brutes, and relentless regenerating flesh seeking to reclaim Ixa.</p>
         </div>
       </div>
     </div>
     
   
     <div class="page-sheet">
-      <div class="section-header">Section 1: The Climax & Session 5 Encounters — High Command</div>
+      <div class="section-header">Faction 1: The Deluded Light Fanatics — High Command</div>
       <div class="two-col-layout">
         <div class="col-half">
     <div class="dnd-card-col">
       <div class="dnd-card" id="harran-lecht">
         <div class="dnd-header">
           <div class="dnd-name">Commander Harran Lecht</div>
-          <div class="dnd-tagline">Lord Commander of the Reckoning · Tragic Fanatic</div>
+          <div class="dnd-tagline">Lord Commander of the Reckoning · Martyr Sovereign</div>
           <div class="dnd-meta">Medium humanoid (human), lawful neutral</div>
         </div>
         <div class="dnd-taper"></div>
         
         <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 17 (scarred half-plate)</div>
+          <div><strong>Armor Class:</strong> 18 (scarred plate)</div>
           <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">102</span> (12d8 + 48)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -2</span>
+            <strong>Hit Points:</strong> <span class="hp-val">142</span> (15d8 + 75)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -2</span>
           </div>
           <div><strong>Speed:</strong> 30 ft.</div>
         </div>
@@ -573,7 +663,7 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>18 (+4)</strong></td><td><strong>12 (+1)</strong></td><td><strong>18 (+4)</strong></td><td><strong>12 (+1)</strong></td><td><strong>10 (+0)</strong></td><td><strong>16 (+3)</strong></td>
+              <td><strong>20 (+5)</strong></td><td><strong>12 (+1)</strong></td><td><strong>20 (+5)</strong></td><td><strong>12 (+1)</strong></td><td><strong>12 (+1)</strong></td><td><strong>18 (+4)</strong></td>
             </tr>
           </tbody>
         </table>
@@ -581,35 +671,36 @@
         <div class="dnd-taper"></div>
         
         <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Str +7, Con +7, Wis +3</div>
-          <div><strong>Skills:</strong> Athletics +7, Intimidation +6, Perception +3</div>
+          <div><strong>Saving Throws:</strong> Str +9, Con +9, Wis +5, Cha +8</div>
+          <div><strong>Skills:</strong> Athletics +9, Intimidation +8, Perception +5</div>
+          
           
           
           <div><strong>Condition Immunities:</strong> Charmed, frightened</div>
-          <div><strong>Senses:</strong> Passive Perception 13</div>
+          <div><strong>Senses:</strong> Passive Perception 15</div>
           <div><strong>Languages:</strong> Common</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">6 (2,300 XP)</span></div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">9 (5,000 XP)</span></div>
         </div>
         
         <div class="dnd-taper"></div>
         
-        <div class="dnd-entry"><strong><em>Desperate Conviction.</em></strong> While below 50 HP (bloodied), Harran gains a +2 bonus to all attack rolls and deals an additional 4 (1d8) damage with his broadsword. His armor is battered and his breath is ragged, but he refuses to stop.</div><div class="dnd-entry"><strong><em>Iron Command.</em></strong> Allied soldiers within 30 ft of Harran add +1d4 to their attack rolls and cannot be charmed or frightened while Harran is conscious.</div><div class="dnd-entry"><strong><em>The Unforgiving Choice.</em></strong> Harran cannot be persuaded to abandon his attack with words alone; only reducing him to 0 HP or completing the stone circle before his eyes will break his conviction.</div>
+        <div class="dnd-entry"><strong><em>Desperate Martyrdom.</em></strong> While below 70 HP (bloodied), Harran gains a +3 bonus to attack rolls, moves +10 ft faster, and deals an extra 9 (2d8) radiant damage on melee hits. He fights with terrifying righteous fury.</div><div class="dnd-entry"><strong><em>Iron Command Aura.</em></strong> Allied soldiers within 30 ft add +1d6 to their attack rolls and saving throws, and cannot be frightened while Harran is conscious.</div><div class="dnd-entry"><strong><em>Legendary Fortitude (2/Day).</em></strong> If Harran fails a saving throw, he can choose to succeed instead.</div><div class="dnd-entry"><strong><em>The Unforgiving Choice.</em></strong> Harran cannot be persuaded to abandon his attack while conscious; only reducing him to 0 HP or completing the stone circle before his eyes will shatter his delusion.</div>
         
         <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Harran makes three attacks: two with his Heavy Broadsword and one with his Shield Slam.</div><div class="dnd-entry"><strong><em>Heavy Broadsword.</em></strong> Melee Weapon Attack: +7 to hit (+9 if bloodied), reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage, plus 4 (1d8) slashing damage if bloodied. A brutal, two-handed military cleave driven by desperation.</div><div class="dnd-entry"><strong><em>Shield Slam.</em></strong> Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage. Target must succeed on a DC 15 Strength saving throw or be knocked prone and pushed 5 ft back.</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Harran makes three attacks: two with his Sun-Forged Broadsword and one with his Shield Slam.</div><div class="dnd-entry"><strong><em>Sun-Forged Broadsword.</em></strong> Melee Weapon Attack: +9 to hit (+12 if bloodied), reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing plus 4 (1d8) radiant damage (or 23 (4d8+5) when bloodied).</div><div class="dnd-entry"><strong><em>Solar Shield Slam.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning. Target must succeed on a DC 17 Str save or be knocked prone and pushed 10 ft.</div>
         
         
         <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Rally the Lost (Recharge 5–6).</em></strong> As a bonus action, Harran roars a battle cry: 'Hold the line! For Varenhold!' Up to four allied soldiers within 30 ft immediately gain 15 temporary hit points and can move up to their speed toward the dais without provoking opportunity attacks.</div>
+        <div class="dnd-entry"><strong><em>Martyr's Rally (Recharge 5–6).</em></strong> Harran roars: 'For the stolen sun!' Up to four allied soldiers within 30 ft gain 20 temporary hit points and can immediately use their reaction to make a melee weapon attack.</div>
         
         
         <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Unyielding Parry.</em></strong> Harran adds +3 to his AC against one melee attack that would hit him. To do so, he must see the attacker and be wielding a melee weapon.</div>
+        <div class="dnd-entry"><strong><em>Unyielding Retaliation.</em></strong> When hit by a melee attack, Harran adds +4 to his AC against that attack. If the attack still hits, he makes an immediate melee counterattack against the attacker.</div>
         
         
         
         <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Charges directly for the center dais. Knocks party defenders away with Shield Slam so his soldiers can disrupt the Dawnborn. At bloodied (under 50 HP), he ignores opportunity attacks to reach whoever holds Corven's box. When reduced to 0 HP, he collapses to his knees; if the circle is glowing gold, his will breaks in awe.
+          <strong>GM Tactics & Morale:</strong> Charges directly for the center dais. Knocks party defenders prone and cleaves into backline casters to disrupt the dawn ritual. At bloodied (under 70 HP), he ignores opportunity attacks to reach the primer stone. When reduced to 0 HP, seeing the circle flare with pure sunlight shatters his fanatical delusion in tears.
         </div>
         
       </div>
@@ -620,166 +711,16 @@
       <div class="dnd-card" id="senna-kard">
         <div class="dnd-header">
           <div class="dnd-name">Lieutenant Senna Kard</div>
-          <div class="dnd-tagline">Field Commander · Second-in-Command (Conflicted)</div>
+          <div class="dnd-tagline">Field Commander · Master Duelist (Conflicted)</div>
           <div class="dnd-meta">Medium humanoid (human), neutral good (conflicted)</div>
         </div>
         <div class="dnd-taper"></div>
         
         <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 16 (studded leather + buckler)</div>
+          <div><strong>Armor Class:</strong> 17 (studded leather + duelist buckler)</div>
           <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">78</span> (12d8 + 24)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -8</span>
-          </div>
-          <div><strong>Speed:</strong> 30 ft.</div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <table class="dnd-stats-table">
-          <thead>
-            <tr>
-              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>12 (+1)</strong></td><td><strong>14 (+2)</strong></td><td><strong>15 (+2)</strong></td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Dex +5, Wis +4</div>
-          <div><strong>Skills:</strong> Insight +5, Perception +4, Persuasion +4</div>
-          
-          
-          
-          <div><strong>Senses:</strong> Passive Perception 14</div>
-          <div><strong>Languages:</strong> Common</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">5 (1,800 XP)</span></div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-entry"><strong><em>Hesitant Blade.</em></strong> Senna does not want to slaughter civilians or Dawnborn. She fights defensively. If a PC uses their action to speak to her about the cost of the fight or her fear of meaningless bloodshed, she has disadvantage on attack rolls until the start of her next turn.</div><div class="dnd-entry"><strong><em>Protective Discipline.</em></strong> Allied soldiers within 15 ft of Senna gain a +1 bonus to AC and saving throws.</div>
-        
-        <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Senna makes three Officer's Sabre attacks.</div><div class="dnd-entry"><strong><em>Officer's Sabre.</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage. If targeting a Dawnborn, Senna always chooses non-lethal damage.</div><div class="dnd-entry"><strong><em>Order: Stand Down (1/Battle).</em></strong> Triggered by a successful DC 15 Persuasion check addressing her conscience. Senna lowers her blade and shouts: 'Hold your steel! We are not butchers!' All remaining Veterans take the Dodge action and cease attacking.</div>
-        
-        
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Rally the Guard (Recharge 5–6).</em></strong> Senna shouts tactical orders. Up to three allied soldiers within 30 ft gain 10 temporary hit points and can move up to 15 ft without provoking opportunity attacks.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Parry.</em></strong> Senna adds +3 to her AC against one melee attack that would hit her.</div>
-        
-        
-        
-        <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Stays 20 ft behind the vanguard, ordering soldiers to disarm and drag Dawnborn rather than slaughter. Fights defensively. If targeted by emotional appeals or confronted with civilian casualties, she can be persuaded to order a ceasefire (DC 15 Persuasion).
-        </div>
-        
-      </div>
-    </div>
-    </div>
-      </div>
-    </div>
-    
-  
-    <div class="page-sheet">
-      <div class="section-header">Section 1: The Climax & Session 5 Encounters — Battlefield & Vanguard</div>
-      <div class="two-col-layout">
-        <div class="col-half">
-          
-    <div class="dnd-card-col">
-      <div class="dnd-card compact" id="reckoning-veteran">
-        <div class="dnd-header">
-          <div class="dnd-name">Reckoning Veteran</div>
-          <div class="dnd-tagline">Varenhold Garrison Infantry · Shield Wall</div>
-          <div class="dnd-meta">Medium humanoid (human), lawful neutral</div>
-        </div>
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 17 (splint mail)</div>
-          <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">58</span> (9d8 + 18)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -8</span>
-          </div>
-          <div><strong>Speed:</strong> 30 ft.</div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <table class="dnd-stats-table">
-          <thead>
-            <tr>
-              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><strong>16 (+3)</strong></td><td><strong>13 (+1)</strong></td><td><strong>14 (+2)</strong></td><td><strong>10 (+0)</strong></td><td><strong>11 (+0)</strong></td><td><strong>10 (+0)</strong></td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-details">
-          
-          <div><strong>Skills:</strong> Athletics +5, Perception +2</div>
-          
-          
-          
-          <div><strong>Senses:</strong> Passive Perception 12</div>
-          <div><strong>Languages:</strong> Common</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">3 (700 XP)</span></div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-entry"><strong><em>Shield Wall.</em></strong> The Veteran gains a +1 bonus to AC (included) for each allied soldier wielding a shield within 5 ft (maximum +2).</div><div class="dnd-entry"><strong><em>Disciplined Advance.</em></strong> The Veteran has advantage on saving throws against being knocked prone or moved against their will while adjacent to an ally.</div>
-        
-        <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> The Veteran makes two Longsword attacks or two Heavy Crossbow attacks.</div><div class="dnd-entry"><strong><em>Longsword.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) if two-handed. A heavy, drilled military chop.</div><div class="dnd-entry"><strong><em>Heavy Crossbow.</em></strong> Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.</div>
-        
-        
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Disrupt the Circle.</em></strong> When adjacent to a Dawnborn or ritual participant, the Veteran attempts an Athletics check (contested by target's Str/Dex save, DC 13) to drag or shove that person up to 10 ft away from their stone.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Interpose Shield.</em></strong> When an adjacent ally is targeted by an attack, the Veteran imposes disadvantage on the attack roll.</div>
-        
-        
-        
-        <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Advance in pairs or wedges behind heavy shields. Prioritize shoving Dawnborn off Primer Stones over killing PCs. If Senna calls a halt or half their number falls, the rest must make DC 13 Wis saves or retreat.
-        </div>
-        
-      </div>
-    </div>
-    
-          
-    <div class="dnd-card-col">
-      <div class="dnd-card compact" id="solennite-blade">
-        <div class="dnd-header">
-          <div class="dnd-name">Solennite Blade Infiltrator</div>
-          <div class="dnd-tagline">Keseph Vyne's Guild Mercenary · Saboteur</div>
-          <div class="dnd-meta">Medium humanoid (half-elf), neutral evil</div>
-        </div>
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 15 (studded leather)</div>
-          <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">44</span> (8d8 + 8)
-            <span class="hp-tracker">HP Tracking: □ -5 □ -5 □ -5 □ -5 □ -5 □ -5 □ -5 □ -5 □ -5</span>
+            <strong>Hit Points:</strong> <span class="hp-val">98</span> (14d8 + 35)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -8</span>
           </div>
           <div><strong>Speed:</strong> 35 ft.</div>
         </div>
@@ -794,7 +735,7 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>11 (+0)</strong></td><td><strong>16 (+3)</strong></td><td><strong>12 (+1)</strong></td><td><strong>12 (+1)</strong></td><td><strong>10 (+0)</strong></td><td><strong>12 (+1)</strong></td>
+              <td><strong>14 (+2)</strong></td><td><strong>18 (+4)</strong></td><td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td>
             </tr>
           </tbody>
         </table>
@@ -802,144 +743,63 @@
         <div class="dnd-taper"></div>
         
         <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Dex +5</div>
-          <div><strong>Skills:</strong> Acrobatics +5, Stealth +7, Sleight of Hand +5</div>
+          <div><strong>Saving Throws:</strong> Dex +7, Wis +6, Cha +6</div>
+          <div><strong>Skills:</strong> Insight +6, Perception +6, Persuasion +6, Acrobatics +7</div>
           
           
           
-          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 12</div>
-          <div><strong>Languages:</strong> Common, Elvish</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">2 (450 XP)</span></div>
+          
+          <div><strong>Senses:</strong> Passive Perception 16</div>
+          <div><strong>Languages:</strong> Common</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">7 (2,900 XP)</span></div>
         </div>
         
         <div class="dnd-taper"></div>
         
-        <div class="dnd-entry"><strong><em>Saboteur's Precision.</em></strong> Weapon attacks deal an extra 7 (2d6) damage against inanimate ritual objects, stone conduits, and puzzle housings.</div><div class="dnd-entry"><strong><em>Sneak Attack (1/Turn).</em></strong> Deals an extra 7 (2d6) damage to a creature it hits with a weapon attack if it has advantage on the attack roll or an ally is within 5 ft.</div>
+        <div class="dnd-entry"><strong><em>Hesitant Conscience.</em></strong> Senna does not wish to butcher innocents. If a PC uses their action for a DC 16 Persuasion check, Senna has disadvantage on attacks until her next turn, or calls a ceasefire.</div><div class="dnd-entry"><strong><em>Tactical Bulwark.</em></strong> Allied soldiers within 20 ft of Senna gain a +2 bonus to AC and saving throws.</div>
         
         <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Shortsword.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage + 3 (1d6) poison damage.</div><div class="dnd-entry"><strong><em>Hand Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Senna makes three Officer's Sabre attacks.</div><div class="dnd-entry"><strong><em>Master's Sabre.</em></strong> Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing plus 7 (2d6) radiant damage. Can choose non-lethal.</div><div class="dnd-entry"><strong><em>Order: Stand Down (1/Battle).</em></strong> Triggered by DC 16 Persuasion check. Senna orders: 'Hold your steel! We are not butchers!' All remaining Veterans take the Dodge action and cease attacking.</div>
         
         
         <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Cunning Action.</em></strong> The Blade can take the Dash, Disengage, or Hide action as a bonus action on each of its turns.</div>
+        <div class="dnd-entry"><strong><em>Commander's Re-alignment (Recharge 5–6).</em></strong> Three allies within 30 ft disengage for free and move up to 20 ft.</div>
         
         
         <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Shadow Slip.</em></strong> When targeted by a melee attack, the Blade can use its reaction to impose disadvantage on the roll by darting into a nearby shadow.</div>
+        <div class="dnd-entry"><strong><em>Riposte & Disarm.</em></strong> When a creature misses Senna with a melee attack, she makes a melee attack against that creature. On a hit, target drops its weapon (DC 15 Str save).</div>
         
         
         
         <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Use Cunning Action to skirt around the frontline and reach the central dais. Focus attacks on damaging Corven's Concordance Stone or snatching an unseated cube. If cornered or reduced below 15 HP, they flee into the crowd.
+          <strong>GM Tactics & Morale:</strong> Holds the secondary line 20 ft behind Harran, directing defensive maneuvers. If appealed to emotionally or shown civilian casualties, she can be persuaded (DC 16 Persuasion) to halt her soldiers.
         </div>
         
       </div>
     </div>
-    
-        </div>
-        <div class="col-half">
-          
-    <div class="dnd-card-col">
-      <div class="dnd-card" id="grasping-tendril">
-        <div class="dnd-header">
-          <div class="dnd-name">Grasping Tendril</div>
-          <div class="dnd-tagline">The Flowering's Failed Experiment · Flesh Horror</div>
-          <div class="dnd-meta">Medium aberration (formerly humanoid), unaligned</div>
-        </div>
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 14 (natural armor)</div>
-          <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">91</span> (14d8 + 28)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -1</span>
-          </div>
-          <div><strong>Speed:</strong> 35 ft., climb 20 ft.</div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <table class="dnd-stats-table">
-          <thead>
-            <tr>
-              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><strong>18 (+4)</strong></td><td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>6 (-2)</strong></td><td><strong>10 (+0)</strong></td><td><strong>4 (-3)</strong></td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Str +7, Con +5</div>
-          <div><strong>Skills:</strong> Athletics +7, Stealth +6</div>
-          <div><strong>Damage Resistances:</strong> Bludgeoning, piercing, slashing from nonmagical attacks</div>
-          
-          <div><strong>Condition Immunities:</strong> Charmed, frightened</div>
-          <div><strong>Senses:</strong> Blindsight 30 ft., Darkvision 60 ft., Passive Perception 10</div>
-          <div><strong>Languages:</strong> Understands Common but cannot speak</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">6 (2,300 XP)</span></div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-entry"><strong><em>Target Lock (Ixa).</em></strong> The Tendril is hardwired to retrieve Ixa. It cannot be taunted or charmed away from her. If Ixa breaks line of sight, it spends its full movement each turn to reacquire her.</div><div class="dnd-entry"><strong><em>Flexible Form.</em></strong> Can squeeze through spaces as tight as 1 ft wide without penalty. Opportunity attacks against it while squeezing have disadvantage.</div><div class="dnd-entry"><strong><em>Pack Retrieval.</em></strong> When two or more Tendrils are within 5 ft of the same grappled target, both have advantage on Athletics checks to maintain or move the grapple.</div><div class="dnd-entry"><strong><em>Not Dead.</em></strong> At 0 HP, the Tendril does not die—it collapses, paralyzed but conscious. A DC 14 Medicine check reveals it was once a human citizen, altered to the bone by surgical horror, and that the person inside is still watching.</div>
-        
-        <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> The Tendril makes two Grasping Slam attacks, or one Grasping Slam and one Constrict.</div><div class="dnd-entry"><strong><em>Grasping Slam.</em></strong> Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage. If target is Large or smaller, it is grappled (escape DC 16). Can grapple up to two creatures at once.</div><div class="dnd-entry"><strong><em>Constrict.</em></strong> Target must already be grappled. Hit: 13 (2d8 + 4) bludgeoning damage and must succeed on DC 15 Str save or be restrained until grapple ends.</div>
-        
-        
-        
-        
-        
-        <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Ignores heavy armor tanks unless physically blocked. Unfolds rubbery limbs to grapple Ixa from 10 ft away. Once Ixa is grappled, moves at half speed toward the plaza perimeter to abduct her. Secondary objective: do not let them carry Ixa past the boundary!
-        </div>
-        
-      </div>
     </div>
-    
-          
-    <div class="dnd-encounter-box">
-      <div class="dnd-enc-title">Combat Flow & Tactical Directives: The Climax Plaza</div>
-      <div class="dnd-enc-body">
-        <p><strong>Wave 1 (The Tendril Ambush):</strong> As the ritual begins, Grasping Tendrils erupt from sunken stone vents. Their hardwired target is Ixa (carrying the Prime Core). Tendrils attempt to grapple and drag her 10 ft/round toward the perimeter.</p>
-        <p><strong>Wave 2 (The Reckoning Vanguard):</strong> On Round 3, Commander Harran Lecht and Lieutenant Senna Kard charge the dais with 4 Reckoning Veterans and 2 Solennite Blades. Veterans advance in a shield wall to pin frontliners.</p>
-        <p><strong>Dynamic Battlefield & Win Conditions:</strong>
-          <br>• <em>Ritual Activation:</em> Corven must maintain concentration for 4 full rounds to stabilize the Dawn Core.
-          <br>• <em>The Moral Pivot:</em> A DC 15 Persuasion check targeting Senna Kard causes her to lower her blade. If shown civilian casualties or Corven's defensive stance, she orders a ceasefire on Round 4.
-          <br>• <em>Harran's Last Stand:</em> Harran cannot be persuaded while conscious. When reduced to 0 HP, he collapses to his knees; seeing the golden light awaken the stone circle breaks his fanatic conviction.
-        </p>
-      </div>
-    </div>
-    
-        </div>
       </div>
     </div>
     
   
     <div class="page-sheet">
-      <div class="section-header">Section 2: The Concordance & Session 4 Foes — The Inversion Ritualists</div>
+      <div class="section-header">Faction 1: The Deluded Light Fanatics — Solar Officers & Inquisitors</div>
       <div class="two-col-layout">
         <div class="col-half">
     <div class="dnd-card-col">
-      <div class="dnd-card" id="null-warden">
+      <div class="dnd-card" id="reckoning-inquisitor">
         <div class="dnd-header">
-          <div class="dnd-name">Null-Warden</div>
-          <div class="dnd-tagline">Elite Concordance Inversion Enforcer</div>
-          <div class="dnd-meta">Medium humanoid (shadar-kai), lawful neutral</div>
+          <div class="dnd-name">Reckoning Light-Inquisitor</div>
+          <div class="dnd-tagline">Solar Zealot · Purifying Inquisitor</div>
+          <div class="dnd-meta">Medium humanoid (human), lawful neutral</div>
         </div>
         <div class="dnd-taper"></div>
         
         <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 19 (obsidian-etched plate armor)</div>
+          <div><strong>Armor Class:</strong> 17 (breastplate + shield)</div>
           <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">161</span> (19d8 + 76)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -1</span>
+            <strong>Hit Points:</strong> <span class="hp-val">88</span> (13d8 + 30)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -8</span>
           </div>
           <div><strong>Speed:</strong> 30 ft.</div>
         </div>
@@ -954,7 +814,7 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>20 (+5)</strong></td><td><strong>14 (+2)</strong></td><td><strong>18 (+4)</strong></td><td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td><td><strong>10 (+0)</strong></td>
+              <td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td>
             </tr>
           </tbody>
         </table>
@@ -962,35 +822,554 @@
         <div class="dnd-taper"></div>
         
         <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Str +9, Con +8, Wis +7</div>
-          <div><strong>Skills:</strong> Arcana +7, Athletics +9, Perception +7</div>
-          <div><strong>Damage Resistances:</strong> Necrotic; bludgeoning, piercing, slashing from nonmagical attacks</div>
+          <div><strong>Saving Throws:</strong> Wis +6, Cha +6, Con +6</div>
+          <div><strong>Skills:</strong> Religion +5, Intimidation +6, Perception +6</div>
           
-          <div><strong>Condition Immunities:</strong> Charmed, frightened</div>
-          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 17</div>
-          <div><strong>Languages:</strong> Common, Elvish, Undercommon</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">11 (7,200 XP)</span></div>
+          
+          
+          
+          <div><strong>Senses:</strong> Passive Perception 16</div>
+          <div><strong>Languages:</strong> Common, Celestial</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">6 (2,300 XP)</span></div>
         </div>
         
         <div class="dnd-taper"></div>
         
-        <div class="dnd-entry"><strong><em>Null Aura.</em></strong> Creatures within 10 ft of the Warden cannot cast spells of 1st level or higher without succeeding on a DC 15 Constitution saving throw. On failure, the spell slot is expended and the spell fails.</div><div class="dnd-entry"><strong><em>Magical Resistance.</em></strong> The Null-Warden has advantage on saving throws against spells and magical effects.</div><div class="dnd-entry"><strong><em>Inversion Anchor.</em></strong> When standing on or within 10 ft of a ritual plinth, the Warden is immune to forced movement and cannot be knocked prone.</div>
+        <div class="dnd-entry"><strong><em>Aura of Blinding Light.</em></strong> Bright light shines 20 ft around the Inquisitor. Hostile creatures entering or starting turn in the light must succeed on DC 14 Con save or be blinded until end of next turn.</div><div class="dnd-entry"><strong><em>Zealot's Retribution.</em></strong> When an ally within 30 ft drops to 0 HP, the Inquisitor gains advantage on all attacks until end of next turn.</div>
         
         <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> The Warden makes three attacks with its Null Rod.</div><div class="dnd-entry"><strong><em>Null Rod.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage + 9 (2d8) necrotic damage. If target is concentrating on a spell, the DC to maintain concentration is at least 15.</div><div class="dnd-entry"><strong><em>Sever Resonance (Recharge 5–6).</em></strong> The Warden strikes the stone floor with the rod. A shockwave of null-magic ripples out in a 20-ft radius. All creatures must make a DC 16 Constitution save, taking 28 (8d6) force damage on failure (half on success), and any active magical buff of 3rd level or lower is dispelled.</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes two Radiant Flail attacks and one Solar Brand.</div><div class="dnd-entry"><strong><em>Radiant Flail.</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft. Hit: 7 (1d8 + 3) bludgeoning plus 9 (2d8) radiant damage.</div><div class="dnd-entry"><strong><em>Purifying Flare (Recharge 5–6).</em></strong> Releases a 20-ft burst of solar heat. Each hostile creature must make DC 15 Con save, taking 27 (6d8) radiant damage and being blinded for 1 min (save end of turn), or half damage on success.</div>
         
         
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Shadow Step (Recharge 4–6).</em></strong> Teleports up to 30 ft between dim or dark spaces. Arrives with advantage on its next melee attack.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Spellcrusher.</em></strong> When a creature within 5 ft casts a spell, the Warden makes a Null Rod attack against that creature. If it hits, the caster must make a DC 16 Con save or the spell is ruined.</div>
         
         
         
         <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Locks down the party's primary spellcaster with Null Aura. Repositions using Shadow Step. Drops Sever Resonance when surrounded. Fights to the death to protect the suppression circle.
+          <strong>GM Tactics & Morale:</strong> Targets party spellcasters and healers. Uses Purifying Flare early to blind frontliners, then hammers casters with Radiant Flail.
+        </div>
+        
+      </div>
+    </div>
+    </div>
+        <div class="col-half">
+    <div class="dnd-card-col">
+      <div class="dnd-card" id="fanatic-sun-priest">
+        <div class="dnd-header">
+          <div class="dnd-name">Fanatic Sun-Priest</div>
+          <div class="dnd-tagline">Solar Channeler · Martyr Voice</div>
+          <div class="dnd-meta">Medium humanoid (human), lawful neutral</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 15 (chain shirt + shield)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">68</span> (11d8 + 19)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -8</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>12 (+1)</strong></td><td><strong>12 (+1)</strong></td><td><strong>14 (+2)</strong></td><td><strong>12 (+1)</strong></td><td><strong>18 (+4)</strong></td><td><strong>14 (+2)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Wis +7, Con +5</div>
+          <div><strong>Skills:</strong> Religion +4, Insight +7, Perception +7</div>
+          
+          
+          
+          
+          <div><strong>Senses:</strong> Passive Perception 17</div>
+          <div><strong>Languages:</strong> Common, Celestial</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">5 (1,800 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Solar Spellcasting.</em></strong> Wisdom is spellcasting ability (DC 15, +7 to hit). At-will: Sacred Flame (2d8), Light. 1st level (4 slots): Guiding Bolt (upcast 5d6 radiant), Healing Word. 2nd level (3 slots): Spiritual Weapon, Hold Person. 3rd level (2 slots): Daylight, Spirit Guardians (radiant 3d8).</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Solar Searing Bolt.</em></strong> Ranged Spell Attack: +7 to hit, range 120 ft. Hit: 18 (4d6 + 4) radiant damage, and next attack against target has advantage.</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Spiritual Weapon / Healing Word.</em></strong> Summons a glowing golden blade (1d8+4 radiant) or heals an ally for 1d4+4 HP.</div>
+        
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Casts Spirit Guardians on turn 1, stays behind the shield wall, uses Guiding Bolt to paint targets for Marksmen.
+        </div>
+        
+      </div>
+    </div>
+    </div>
+      </div>
+    </div>
+    
+  
+    <div class="page-sheet">
+      <div class="section-header">Faction 1: The Deluded Light Fanatics — Rank & File Infantry</div>
+      <div class="two-col-layout">
+        <div class="col-half">
+          
+    <div class="dnd-card-col">
+      <div class="dnd-card compact" id="reckoning-veteran">
+        <div class="dnd-header">
+          <div class="dnd-name">Reckoning Veteran</div>
+          <div class="dnd-tagline">Varenhold Garrison Infantry · Shield Wall</div>
+          <div class="dnd-meta">Medium humanoid (human), lawful neutral</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 18 (plate)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">72</span> (10d8 + 27)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -2</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>16 (+3)</strong></td><td><strong>12 (+1)</strong></td><td><strong>16 (+3)</strong></td><td><strong>10 (+0)</strong></td><td><strong>12 (+1)</strong></td><td><strong>11 (+0)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Str +5, Con +5</div>
+          <div><strong>Skills:</strong> Athletics +5, Perception +3</div>
+          
+          
+          
+          
+          <div><strong>Senses:</strong> Passive Perception 13</div>
+          <div><strong>Languages:</strong> Common</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">4 (1,100 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Interlocking Shield Wall.</em></strong> Gains +1 AC (max +3) for each adjacent conscious ally wielding a shield. Allied creatures behind the wall have half cover.</div><div class="dnd-entry"><strong><em>Disciplined Advance.</em></strong> Advantage on saving throws against being knocked prone, grappled, or moved against its will.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes two Longsword attacks or one Longsword attack and one Shield Bash.</div><div class="dnd-entry"><strong><em>Longsword.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 8 (1d8 + 4) slashing plus 4 (1d8) radiant damage.</div><div class="dnd-entry"><strong><em>Shield Bash.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 6 (1d6 + 3) bludgeoning. Target must succeed on DC 14 Str save or be knocked prone.</div>
+        
+        
+        
+        <div class="dnd-section-title">Reactions</div>
+        <div class="dnd-entry"><strong><em>Interpose Shield.</em></strong> Imposes disadvantage on an attack roll against an adjacent ally.</div>
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Forms a tight wedge with other Veterans, pushing PCs off the ritual stones and locking down casters.
+        </div>
+        
+      </div>
+    </div>
+    
+          
+    <div class="dnd-card-col">
+      <div class="dnd-card compact" id="reckoning-marksman">
+        <div class="dnd-header">
+          <div class="dnd-name">Reckoning Crossbow Marksman</div>
+          <div class="dnd-tagline">Rooftop Sniper · Suppressive Fire</div>
+          <div class="dnd-meta">Medium humanoid (human), lawful neutral</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 15 (studded leather)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">52</span> (8d8 + 16)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -2</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>12 (+1)</strong></td><td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>11 (+0)</strong></td><td><strong>14 (+2)</strong></td><td><strong>10 (+0)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Dex +5</div>
+          <div><strong>Skills:</strong> Perception +4, Stealth +5</div>
+          
+          
+          
+          
+          <div><strong>Senses:</strong> Passive Perception 14</div>
+          <div><strong>Languages:</strong> Common</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">3 (700 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Sniper's Elevation.</em></strong> Advantage on ranged attacks if at least 10 ft above the target. Ignores half cover.</div><div class="dnd-entry"><strong><em>Solar-Tipped Bolts.</em></strong> Crossbow attacks deal an extra 7 (2d6) fire/radiant damage (included below).</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes two Heavy Crossbow attacks.</div><div class="dnd-entry"><strong><em>Heavy Crossbow.</em></strong> Ranged Weapon Attack: +5 to hit, range 100/400 ft. Hit: 8 (1d10 + 3) piercing plus 7 (2d6) radiant damage.</div><div class="dnd-entry"><strong><em>Pinning Volley (Recharge 5–6).</em></strong> Aimed bolt at target's legs/gear: +5 to hit. Hit: 14 (2d10 + 3) piercing. Target's speed is reduced to 0 until end of next turn (DC 14 Dex save).</div>
+        
+        
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Positioned on colonnades and archways. Focus fires on party spellcasters maintaining concentration.
+        </div>
+        
+      </div>
+    </div>
+    
+        </div>
+        <div class="col-half">
+          
+    <div class="dnd-card-col">
+      <div class="dnd-card compact" id="deluded-zealot">
+        <div class="dnd-header">
+          <div class="dnd-name">Deluded Zealot Militiaman</div>
+          <div class="dnd-tagline">Fervent Citizen · Desperate Conscript</div>
+          <div class="dnd-meta">Medium humanoid (human), chaotic neutral</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 13 (padded armor or leather)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">33</span> (6d8 + 6)
+            <span class="hp-tracker">HP Tracking: □ -5 □ -5 □ -5 □ -5 □ -5 □ -5 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>14 (+2)</strong></td><td><strong>12 (+1)</strong></td><td><strong>13 (+1)</strong></td><td><strong>9 (-1)</strong></td><td><strong>10 (+0)</strong></td><td><strong>12 (+1)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          
+          <div><strong>Skills:</strong> Intimidation +3</div>
+          
+          
+          
+          
+          <div><strong>Senses:</strong> Passive Perception 10</div>
+          <div><strong>Languages:</strong> Common</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">1 (200 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Reckless Martyrdom.</em></strong> Advantage on melee attack rolls, but attack rolls against it have advantage.</div><div class="dnd-entry"><strong><em>Martyr's Flash.</em></strong> When reduced to 0 HP, releases a blinding solar burst. Creatures within 5 ft must succeed on DC 12 Con save or be blinded until end of next turn.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Spear / Pitchfork.</em></strong> Melee Weapon Attack: +4 to hit, reach 5 ft. Hit: 6 (1d8 + 2) piercing plus 3 (1d6) radiant damage.</div>
+        
+        
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Swarms in numbers. Uses reckless attacks to pin PCs in place so Veterans and Harran can advance.
+        </div>
+        
+      </div>
+    </div>
+    
+          
+    <div class="dnd-encounter-box">
+      <div class="dnd-enc-title">The Reckoning: Battlefield Morale & De-Escalation</div>
+      <div class="dnd-enc-body">
+        <p><strong>The Core Tragic Lie:</strong> The Reckoning believes the Dawnborn are 'hoarding the sun's stolen essence.' They think slaying or forcing them into the stone circle will release the dawn and feed the starving city.</p>
+        <p><strong>Shield Wall Tactics:</strong> Veterans and Militiamen advance in tight interlocking formations. Crossbow Marksmen provide suppressive cover fire to pin party casters.</p>
+        <p><strong>The Moral De-escalation:</strong>
+          <br>• <em>Lieutenant Senna Kard (DC 15 Persuasion):</em> If confronted with civilian casualties or shown Corven's peaceful defense, she orders her soldiers to stand down.
+          <br>• <em>Commander Harran Lecht (Unforgiving):</em> Cannot be talked down while conscious. When reduced to 0 HP, seeing the golden dawn aura awaken the circle shatters his fanatical delusion in tears.
+        </p>
+      </div>
+    </div>
+    
+        </div>
+      </div>
+    </div>
+    
+  
+    <div class="page-sheet">
+      <div class="section-header">Faction 2: The Undead (The Concordance) — Ruled by Arch-Lich Vhol</div>
+      <div class="two-col-layout">
+        <div class="col-half">
+    <div class="dnd-card-col">
+      <div class="dnd-card" id="lich-lord-vhol">
+        <div class="dnd-header">
+          <div class="dnd-name">Arch-Lich Vhol</div>
+          <div class="dnd-tagline">Ruler of the Concordance · Master of the Inward Crescent</div>
+          <div class="dnd-meta">Medium undead, neutral evil</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 18 (natural armor + unholy ward)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">175</span> (22d8 + 76)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft., fly 40 ft. (hover)</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>12 (+1)</strong></td><td><strong>16 (+3)</strong></td><td><strong>18 (+4)</strong></td><td><strong>22 (+6)</strong></td><td><strong>18 (+4)</strong></td><td><strong>18 (+4)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Con +10, Int +12, Wis +10, Cha +10</div>
+          <div><strong>Skills:</strong> Arcana +14, History +12, Insight +10, Perception +10</div>
+          <div><strong>Damage Resistances:</strong> Cold, lightning</div>
+          <div><strong>Damage Immunities:</strong> Necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks</div>
+          
+          <div><strong>Condition Immunities:</strong> Charmed, exhaustion, frightened, paralyzed, poisoned</div>
+          <div><strong>Senses:</strong> Truesight 60 ft., Darkvision 120 ft., Passive Perception 20</div>
+          <div><strong>Languages:</strong> Common, Elvish, Undercommon, Abyssal</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">16 (15,000 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Legendary Resistance (3/Day).</em></strong> If Vhol fails a saving throw, he can choose to succeed instead.</div><div class="dnd-entry"><strong><em>Rejuvenation (Phylactery).</em></strong> If destroyed, gains a new body in 1d10 days unless his phylactery hidden in the aqueduct crypts is destroyed.</div><div class="dnd-entry"><strong><em>Turn Immunity.</em></strong> Vhol is immune to effects that turn undead.</div><div class="dnd-entry"><strong><em>Inversion Nexus Aura.</em></strong> Living creatures within 30 ft cannot regain HP. Any spell or radiant ability within 30 ft is corrupted: radiant damage becomes necrotic.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Vhol uses Paralyzing Void-Touch and casts one cantrip or 1st-level spell.</div><div class="dnd-entry"><strong><em>Paralyzing Void-Touch.</em></strong> Melee Spell Attack: +11 to hit, reach 5 ft. Hit: 18 (4d6 + 4) cold plus 18 (4d6 + 4) necrotic. Target must succeed on DC 19 Con save or be paralyzed for 1 minute (save end of turn).</div><div class="dnd-entry"><strong><em>Null-Beam of the Void (Recharge 5–6).</em></strong> 60-ft line, 10 ft wide. 55 (10d10) necrotic damage (DC 19 Dex half). Dispels all spell effects of 5th level or lower in the area.</div><div class="dnd-entry"><strong><em>Finger of Death (1/Day).</em></strong> Target within 60 ft takes 61 (7d8 + 30) necrotic damage (DC 19 Con half). A humanoid killed rises immediately as a Concordance Ghast.</div><div class="dnd-entry"><strong><em>Spellcasting.</em></strong> DC 19 spell save, +11 to hit. At-will: Toll the Dead (4d12), Shield (at will), Counterspell (3 slots, +6 check), Dispel Magic (3 slots), Blight (2 slots, 8d8 necrotic), Circle of Death (1 slot, 8d6 necrotic, 60-ft sphere).</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Void Step.</em></strong> Teleports up to 30 ft to an unoccupied dark space.</div>
+        
+        
+        <div class="dnd-section-title">Reactions</div>
+        <div class="dnd-entry"><strong><em>Counterspell (3rd Slot, 3/Day).</em></strong> Interrupts a spell of 3rd level or lower cast within 60 ft.</div>
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Hovers 15 ft above the battlefield out of melee reach. Counters radiant spells immediately. Uses Null-Beam down the main line of PCs, then casts Circle of Death or Finger of Death on the primary healer/paladin. Uses Disrupt Life when surrounded.
+        </div>
+        
+      </div>
+    </div>
+    </div>
+        <div class="col-half">
+    <div class="dnd-card-col">
+      <div class="dnd-card" id="null-warden">
+        <div class="dnd-header">
+          <div class="dnd-name">Null-Warden</div>
+          <div class="dnd-tagline">Elite Inversion Juggernaut · Spell-Breaker</div>
+          <div class="dnd-meta">Medium humanoid (shadar-kai), lawful neutral</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 19 (obsidian-etched plate)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">185</span> (20d8 + 95)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>21 (+5)</strong></td><td><strong>14 (+2)</strong></td><td><strong>20 (+5)</strong></td><td><strong>16 (+3)</strong></td><td><strong>18 (+4)</strong></td><td><strong>12 (+1)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Str +10, Con +10, Wis +9, Int +8</div>
+          <div><strong>Skills:</strong> Arcana +8, Athletics +10, Perception +9</div>
+          <div><strong>Damage Resistances:</strong> Necrotic; bludgeoning, piercing, slashing from nonmagical attacks</div>
+          
+          
+          <div><strong>Condition Immunities:</strong> Charmed, frightened</div>
+          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 19</div>
+          <div><strong>Languages:</strong> Common, Elvish, Undercommon</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">13 (10,000 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Greater Null Aura.</em></strong> Creatures within 15 ft cannot cast spells of 3rd level or lower. Spells of 4th level or higher require a DC 17 Con check or fail and the slot is expended.</div><div class="dnd-entry"><strong><em>Magic Resistance.</em></strong> Advantage on saving throws against spells and other magical effects.</div><div class="dnd-entry"><strong><em>Inversion Anchor.</em></strong> Immune to forced movement, cannot be knocked prone. Standing on ritual plinths grants +2 AC.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes three Null Rod attacks.</div><div class="dnd-entry"><strong><em>Null Rod.</em></strong> Melee Weapon Attack: +10 to hit, reach 5 ft. Hit: 11 (1d10 + 5) bludgeoning plus 14 (3d8) necrotic. Target must succeed on DC 17 Con save or lose concentration immediately.</div><div class="dnd-entry"><strong><em>Sever Resonance (Recharge 5–6).</em></strong> 30-ft cone shockwave. 45 (10d8) force damage (DC 17 Con half). Dispels all active spell buffs of 4th level or lower on affected targets.</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Shadow Step (Recharge 4–6).</em></strong> Teleports up to 35 ft into dim light or shadow. Has advantage on next attack.</div>
+        
+        
+        <div class="dnd-section-title">Reactions</div>
+        <div class="dnd-entry"><strong><em>Spell Reflection.</em></strong> When targeted by a spell that misses or allows a save that passes, reflects the spell back at the caster.</div>
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Shadow steps directly into party backline to envelop casters in Greater Null Aura. Swings Null Rod to shatter concentration, then unleashes Sever Resonance.
+        </div>
+        
+      </div>
+    </div>
+    </div>
+      </div>
+    </div>
+    
+  
+    <div class="page-sheet">
+      <div class="section-header">Faction 2: The Undead (The Concordance) — Inversion Commanders</div>
+      <div class="two-col-layout">
+        <div class="col-half">
+    <div class="dnd-card-col">
+      <div class="dnd-card" id="unlit-shadow-keeper">
+        <div class="dnd-header">
+          <div class="dnd-name">Unlit Dread Shadow-Keeper</div>
+          <div class="dnd-tagline">Deathless General · Tactical Cell Commander</div>
+          <div class="dnd-meta">Medium humanoid (shadar-kai), lawful evil</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 18 (dark iron plate)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">135</span> (18d8 + 54)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>18 (+4)</strong></td><td><strong>18 (+4)</strong></td><td><strong>18 (+4)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Str +8, Con +8, Wis +7</div>
+          <div><strong>Skills:</strong> Stealth +8, Perception +7, Athletics +8</div>
+          <div><strong>Damage Resistances:</strong> Necrotic</div>
+          
+          
+          
+          <div><strong>Senses:</strong> Darkvision 120 ft., Passive Perception 17</div>
+          <div><strong>Languages:</strong> Common, Elvish, Undercommon</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">10 (5,900 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Enveloping Umbra (15 ft Aura).</em></strong> Magical darkness moves with the Shadow-Keeper. Only darkvision from magical sources (or Truesight) pierces it.</div><div class="dnd-entry"><strong><em>Shadow General.</em></strong> All undead allies within 30 ft add 1d8 necrotic damage to melee weapon attacks.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes three Shadow Glaive attacks.</div><div class="dnd-entry"><strong><em>Shadow Glaive.</em></strong> Melee Weapon Attack: +8 to hit, reach 10 ft. Hit: 10 (1d10 + 4) slashing plus 11 (2d10) necrotic damage.</div><div class="dnd-entry"><strong><em>Shadow Drain (Recharge 5–6).</em></strong> Target must succeed on DC 16 Con save or take 36 (8d8) necrotic damage and have its Strength score reduced by 1d4.</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Shadow Step.</em></strong> Teleports up to 40 ft between shadows.</div>
+        
+        
+        <div class="dnd-section-title">Reactions</div>
+        <div class="dnd-entry"><strong><em>Cell Commander Strike.</em></strong> When an enemy misses an attack within 30 ft, grants an undead ally an immediate reaction attack with advantage.</div>
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Opens with Enveloping Umbra to blind backline party members. Teleports with Shadow Step and coordinates Operatives and Returned.
         </div>
         
       </div>
@@ -1000,341 +1379,155 @@
     <div class="dnd-card-col">
       <div class="dnd-card" id="priest-inward-crescent">
         <div class="dnd-header">
-          <div class="dnd-name">Priest of the Inward Crescent</div>
-          <div class="dnd-tagline">Shadar-kai Ritualist · Doctrine Zealot</div>
-          <div class="dnd-meta">Medium humanoid (shadar-kai), lawful neutral</div>
-        </div>
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 14 (chain shirt)</div>
-          <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">97</span> (15d8 + 30)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -7</span>
-          </div>
-          <div><strong>Speed:</strong> 30 ft.</div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <table class="dnd-stats-table">
-          <thead>
-            <tr>
-              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><strong>10 (+0)</strong></td><td><strong>14 (+2)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>18 (+4)</strong></td><td><strong>13 (+1)</strong></td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Int +6, Wis +7</div>
-          <div><strong>Skills:</strong> Arcana +6, Insight +7, Perception +7, Religion +6</div>
-          <div><strong>Damage Resistances:</strong> Necrotic</div>
-          
-          <div><strong>Condition Immunities:</strong> Charmed</div>
-          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 17</div>
-          <div><strong>Languages:</strong> Common, Elvish, Undercommon</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">7 (2,900 XP)</span></div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-entry"><strong><em>Suppression Ritual.</em></strong> While two Priests are within 10 ft of each other, they pour obsidian powder to sever the stone's resonance. Breaking concentration requires 20+ damage in a single hit or physically disrupting the powder line.</div><div class="dnd-entry"><strong><em>Doctrinal Certainty.</em></strong> Advantage on saves vs spells that compel truth or alter belief.</div>
-        
-        <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Two attacks: Toll the Dead + Spiritual Weapon, or two Inflict Wounds.</div><div class="dnd-entry"><strong><em>Inflict Wounds.</em></strong> Melee Spell Attack: +7 to hit, reach 5 ft. Hit: 22 (4d10) necrotic damage. Skin beneath withers like dry winter ash.</div><div class="dnd-entry"><strong><em>Toll the Dead (Cantrip).</em></strong> One creature within 60 ft: DC 15 Wis save or 9 (2d8) necrotic, or 13 (2d12) if missing any HP.</div><div class="dnd-entry"><strong><em>Spirit Guardians (3rd Slot, Conc).</em></strong> 15-ft aura of necrotic spirits: DC 15 Wis save or take 18 (4d8) necrotic upon entering/starting turn.</div><div class="dnd-entry"><strong><em>Banishment (4th Slot, Conc).</em></strong> DC 15 Cha save or banished to harmless demiplane for 1 minute.</div>
-        
-        
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Spiritual Weapon.</em></strong> Spawns floating obsidian blade: +7 to hit, 1d8 + 4 force damage. Can attack as bonus action each turn.</div><div class="dnd-entry"><strong><em>Shadow Step (Recharge 5–6).</em></strong> Teleports up to 30 ft between dim/dark spaces.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Counterspell (3rd Slot).</em></strong> Interrupts a spell of 3rd level or lower within 60 ft.</div>
-        
-        
-        
-        <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Priests stay adjacent to complete the suppression ritual. One maintains Spirit Guardians around the plinth, the other casts Spiritual Weapon and Toll the Dead. Counterspell party healing.
-        </div>
-        
-      </div>
-    </div>
-    </div>
-      </div>
-    </div>
-    
-  
-    <div class="page-sheet">
-      <div class="section-header">Section 2: The Concordance & Session 4 Foes — Shadow Cell Command</div>
-      <div class="two-col-layout">
-        <div class="col-half">
-    <div class="dnd-card-col">
-      <div class="dnd-card" id="unlit-shadow-keeper">
-        <div class="dnd-header">
-          <div class="dnd-name">Unlit Shadow-Keeper</div>
-          <div class="dnd-tagline">Cell Commander · Tactical Commander</div>
-          <div class="dnd-meta">Medium humanoid (shadar-kai), lawful neutral</div>
-        </div>
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 17 (chain mail + shield)</div>
-          <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">112</span> (15d8 + 45)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -2</span>
-          </div>
-          <div><strong>Speed:</strong> 30 ft.</div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <table class="dnd-stats-table">
-          <thead>
-            <tr>
-              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>12 (+1)</strong></td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Str +6, Con +6, Wis +6</div>
-          <div><strong>Skills:</strong> Athletics +6, Insight +6, Perception +6, Stealth +6</div>
-          <div><strong>Damage Resistances:</strong> Necrotic</div>
-          
-          
-          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 16</div>
-          <div><strong>Languages:</strong> Common, Elvish, Undercommon</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">8 (3,900 XP)</span></div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-entry"><strong><em>Cell Command.</em></strong> When the Shadow-Keeper uses Shadow Step, all allied Operatives within 30 ft may use their reaction to make one weapon attack.</div><div class="dnd-entry"><strong><em>Twilight Awareness.</em></strong> Cannot be surprised in dim light or darkness. Perceives invisible creatures within 15 ft as blurred silhouettes (DC 14 to pinpoint).</div><div class="dnd-entry"><strong><em>Doctrine Hold.</em></strong> Immune to spells that read thoughts or compel truth.</div>
-        
-        <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Three Shortsword attacks or two Shortsword + one Shadow Drain.</div><div class="dnd-entry"><strong><em>Shortsword.</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft. Hit: 6 (1d6 + 3) piercing + 7 (2d6) necrotic.</div><div class="dnd-entry"><strong><em>Shadow Drain.</em></strong> Ranged Spell Attack: +6 to hit, range 60 ft. Hit: 14 (4d6) necrotic damage and target's speed is halved until end of next turn.</div><div class="dnd-entry"><strong><em>Enveloping Dark (Recharge 5–6).</em></strong> 15-ft radius: dim light becomes darkness for 1 minute (concentration). Non-shadar-kai must make DC 14 Con save or be blinded until leaving the area.</div>
-        
-        
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Shadow Step (Recharge 4–6).</em></strong> Teleports up to 30 ft between dim/dark spaces. Advantage on next melee attack.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Interpose Shadow.</em></strong> When an ally within 10 ft is hit, the Shadow-Keeper takes half the damage instead (split equally).</div>
-        
-        
-        
-        <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Opens with Enveloping Dark. Shadow Steps to flank party frontliners and uses Cell Command to trigger Operative reaction attacks. Fights until 0 HP.
-        </div>
-        
-      </div>
-    </div>
-    </div>
-        <div class="col-half">
-    <div class="dnd-card-col">
-      <div class="dnd-card" id="unlit-doctrinal-voice">
-        <div class="dnd-header">
-          <div class="dnd-name">Unlit Doctrinal Voice</div>
-          <div class="dnd-tagline">Theological Officer · Backline Controller</div>
-          <div class="dnd-meta">Medium humanoid (human), lawful neutral</div>
-        </div>
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 13 (mage armor)</div>
-          <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">84</span> (13d8 + 26)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -4</span>
-          </div>
-          <div><strong>Speed:</strong> 30 ft.</div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <table class="dnd-stats-table">
-          <thead>
-            <tr>
-              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><strong>10 (+0)</strong></td><td><strong>13 (+1)</strong></td><td><strong>14 (+2)</strong></td><td><strong>18 (+4)</strong></td><td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Int +7, Wis +6</div>
-          <div><strong>Skills:</strong> Arcana +7, History +7, Insight +6, Persuasion +5</div>
-          
-          
-          <div><strong>Condition Immunities:</strong> Charmed</div>
-          <div><strong>Senses:</strong> Passive Perception 13</div>
-          <div><strong>Languages:</strong> Common, Elvish, Dwarvish, Infernal</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">7 (2,900 XP)</span></div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-entry"><strong><em>Doctrinal Certainty (3/Day).</em></strong> Legendary Resistance against spells attempting to alter beliefs, charm, or compel action.</div><div class="dnd-entry"><strong><em>Back Line.</em></strong> Never voluntarily moves within 30 ft of a player character.</div>
-        
-        <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Toll the Dead.</em></strong> Range 60 ft: DC 15 Wis save or 9 (2d8) necrotic, or 13 (2d12) if damaged.</div><div class="dnd-entry"><strong><em>Hold Person (2nd Slot).</em></strong> Humanoid within 60 ft: DC 15 Wis save or paralyzed for 1 min (concentration).</div><div class="dnd-entry"><strong><em>Hypnotic Pattern (3rd Slot).</em></strong> 30-ft cube within 120 ft: DC 15 Wis save or incapacitated (speed 0) until damaged.</div><div class="dnd-entry"><strong><em>Fear (3rd Slot).</em></strong> 30-ft cone: DC 15 Wis save or frightened and dashes away.</div><div class="dnd-entry"><strong><em>Banishment (4th Slot).</em></strong> DC 15 Cha save or banished 1 min.</div><div class="dnd-entry"><strong><em>Greater Invisibility (4th Slot).</em></strong> Becomes invisible for 1 min (concentration).</div>
-        
-        
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Misty Step (2nd Slot).</em></strong> Teleports up to 30 ft as bonus action.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Counterspell (3rd Slot).</em></strong> Negates a spell within 60 ft. Prioritizes countering healing or dispel magic.</div><div class="dnd-entry"><strong><em>Shield (1st Slot).</em></strong> +5 to AC until start of next turn, blocks Magic Missile.</div>
-        
-        
-        
-        <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Stays at maximum range. Opens with Hold Person or Hypnotic Pattern. Signals Operatives to coup-de-grace paralyzed PCs. Casts Greater Invisibility at 50% HP.
-        </div>
-        
-      </div>
-    </div>
-    </div>
-      </div>
-    </div>
-    
-  
-    <div class="page-sheet">
-      <div class="section-header">Section 2: The Concordance & Session 4 Foes — Operatives & Chamber Hazards</div>
-      <div class="two-col-layout">
-        <div class="col-half">
-          
-    <div class="dnd-card-col">
-      <div class="dnd-card" id="unlit-operative">
-        <div class="dnd-header">
-          <div class="dnd-name">Unlit Operative</div>
-          <div class="dnd-tagline">Shadar-kai Infiltrator · Cell Soldier</div>
-          <div class="dnd-meta">Medium humanoid (shadar-kai), lawful neutral</div>
-        </div>
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 15 (studded leather)</div>
-          <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">65</span> (10d8 + 20)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
-          </div>
-          <div><strong>Speed:</strong> 30 ft.</div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <table class="dnd-stats-table">
-          <thead>
-            <tr>
-              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><strong>12 (+1)</strong></td><td><strong>18 (+4)</strong></td><td><strong>14 (+2)</strong></td><td><strong>13 (+1)</strong></td><td><strong>14 (+2)</strong></td><td><strong>10 (+0)</strong></td>
-            </tr>
-          </tbody>
-        </table>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Dex +7, Wis +5</div>
-          <div><strong>Skills:</strong> Athletics +4, Deception +3, Perception +5, Stealth +9</div>
-          <div><strong>Damage Resistances:</strong> Necrotic</div>
-          
-          <div><strong>Condition Immunities:</strong> Charmed, frightened</div>
-          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 15</div>
-          <div><strong>Languages:</strong> Common, Elvish</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">5 (1,800 XP)</span></div>
-        </div>
-        
-        <div class="dnd-taper"></div>
-        
-        <div class="dnd-entry"><strong><em>Pack Tactics.</em></strong> Advantage on attack rolls against a creature if at least one ally is within 5 ft of the creature.</div><div class="dnd-entry"><strong><em>Cell Discipline.</em></strong> Cannot reveal names or locations above their cell—they have been mind-blanked.</div>
-        
-        <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Two Shortsword attacks or two Hand Crossbow attacks.</div><div class="dnd-entry"><strong><em>Shortsword.</em></strong> Melee Weapon Attack: +7 to hit, reach 5 ft. Hit: 7 (1d6 + 4) piercing damage.</div><div class="dnd-entry"><strong><em>Hand Crossbow.</em></strong> Ranged Weapon Attack: +7 to hit, range 30/120 ft. Hit: 7 (1d6 + 4) piercing damage.</div>
-        
-        
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Shadow Step (Recharge 4–6).</em></strong> Teleports up to 30 ft between dim/dark spaces. Advantage on next melee attack.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Fade.</em></strong> When reduced to 0 HP, makes one final reflexive Shadow Step to nearby cover before falling unconscious, leaving no trail.</div>
-        
-        
-        
-        <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Open with crossbows, Shadow Step into melee when an ally flanks. Switch to cover below 15 HP. If the Shadow-Keeper falls, make one final reckless attack with advantage before withdrawing.
-        </div>
-        
-      </div>
-    </div>
-    
-        </div>
-        <div class="col-half">
-          
-    <div class="dnd-encounter-box">
-      <div class="dnd-enc-title">The Concordance Chamber: Lair Actions & Hazards</div>
-      <div class="dnd-enc-body">
-        <p><strong>Lair Actions (Initiative Count 20, loses ties):</strong>
-          <br>• <em>Null Inversion Pulse:</em> Obsidian conduits hum with negative energy. Each non-shadar-kai creature within 60 ft must make a DC 14 Constitution saving throw or have its magical healing halved and suffer disadvantage on concentration checks until the next initiative count 20.
-          <br>• <em>Shadow Gloom:</em> Dim light throughout the chamber deepens into magical darkness in a 20-ft radius sphere centered on a point the Null-Warden chooses. Creatures without Devil's Sight or Blindsight cannot see through it.
-          <br>• <em>Resonance Flare:</em> The plinth releases an amber-and-grey shockwave. Creatures within 15 ft of the central dais take 10 (3d6) force damage (DC 14 Dex save for half) and are pushed 10 ft away.
-        </p>
-        <p><strong>Tactical Cell Directives:</strong>
-          <br>• <em>Operative Swarm:</em> Operatives never engage alone; they exploit <em>Pack Tactics</em> alongside Shadow-Keepers. If a spellcaster casts a spell, Operatives trigger reaction attacks to break concentration.
-          <br>• <em>Retreat Trigger:</em> If the Null-Warden falls or 3 cell members are killed, remaining Operatives trigger <em>Fade</em> and melt into the deep stone vents.
-        </p>
-      </div>
-    </div>
-    
-        </div>
-      </div>
-    </div>
-    
-  
-    <div class="page-sheet">
-      <div class="section-header">Section 3: Shadows of Varenhold — The Tannery Encounter</div>
-      <div class="two-col-layout">
-        <div class="col-half">
-    <div class="dnd-card-col">
-      <div class="dnd-card" id="dusk-priest">
-        <div class="dnd-header">
-          <div class="dnd-name">Dusk Priest</div>
-          <div class="dnd-tagline">Concordance Ordained Leader · Tannery Encounter</div>
+          <div class="dnd-name">High Priest of the Inward Crescent</div>
+          <div class="dnd-tagline">Eclipse Prelate · Death Channeler</div>
           <div class="dnd-meta">Medium humanoid (human), lawful evil</div>
         </div>
         <div class="dnd-taper"></div>
         
         <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 14 (studded leather)</div>
+          <div><strong>Armor Class:</strong> 16 (scale mail + shield)</div>
           <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">110</span> (17d8 + 34)
+            <strong>Hit Points:</strong> <span class="hp-val">120</span> (16d8 + 48)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>14 (+2)</strong></td><td><strong>12 (+1)</strong></td><td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td><td><strong>18 (+4)</strong></td><td><strong>14 (+2)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Int +7, Wis +8, Con +7</div>
+          <div><strong>Skills:</strong> Religion +7, Arcana +7, Perception +8</div>
+          <div><strong>Damage Resistances:</strong> Necrotic</div>
+          
+          
+          
+          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 18</div>
+          <div><strong>Languages:</strong> Common, Undercommon</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">9 (5,000 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Eclipse Spellcasting.</em></strong> Wisdom is spellcasting ability (DC 16, +8 to hit). At-will: Toll the Dead (3d12). 1st level (4 slots): Inflict Wounds (upcast 4d10 necrotic), Shield of Faith. 2nd level (3 slots): Hold Person, Darkness. 3rd level (3 slots): Spirit Guardians (necrotic 4d8), Counterspell. 4th level (2 slots): Blight (8d8 necrotic). 5th level (1 slot): Flame Strike (5d6 fire + 5d6 necrotic).</div><div class="dnd-entry"><strong><em>Twilight Bastion.</em></strong> When an undead ally within 30 ft takes damage, the Priest grants it 20 temporary hit points.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Inflict Dread.</em></strong> Melee Spell Attack: +8 to hit, reach 5 ft. Hit: 22 (4d10) necrotic damage.</div>
+        
+        
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Maintains 4th-level Spirit Guardians, counterspells radiant magic, grants 20 temp HP shields to Null-Wardens.
+        </div>
+        
+      </div>
+    </div>
+    </div>
+      </div>
+    </div>
+    
+  
+    <div class="page-sheet">
+      <div class="section-header">Faction 2: The Undead (The Concordance) — Theological Officers & Necromancers</div>
+      <div class="two-col-layout">
+        <div class="col-half">
+    <div class="dnd-card-col">
+      <div class="dnd-card" id="unlit-doctrinal-voice">
+        <div class="dnd-header">
+          <div class="dnd-name">Unlit Doctrinal Voice</div>
+          <div class="dnd-tagline">Grand Inquisitor · Mind-Bender</div>
+          <div class="dnd-meta">Medium humanoid (shadar-kai), lawful evil</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 15 (unholy wards)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">105</span> (15d8 + 38)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>10 (+0)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>20 (+5)</strong></td><td><strong>18 (+4)</strong></td><td><strong>16 (+3)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Int +9, Wis +8, Cha +7</div>
+          <div><strong>Skills:</strong> Deception +7, Arcana +9, Insight +8</div>
+          <div><strong>Damage Resistances:</strong> Psychic, necrotic</div>
+          
+          
+          
+          <div><strong>Senses:</strong> Passive Perception 14</div>
+          <div><strong>Languages:</strong> Common, Elvish, Undercommon</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">9 (5,000 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Legendary Resistance (2/Day).</em></strong> Can choose to succeed on a failed saving throw.</div><div class="dnd-entry"><strong><em>Psychic Dominance.</em></strong> DC 17 spell save. Spells: Hypnotic Pattern, Hold Monster (DC 17), Synaptic Static (8d6 psychic), Greater Invisibility, Counterspell.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Mind-Shatter Lance.</em></strong> Ranged Spell Attack: +9 to hit, range 90 ft. Hit: 23 (4d8 + 5) psychic damage, and target cannot take reactions until end of next turn.</div><div class="dnd-entry"><strong><em>Overwhelming Decree (Recharge 5–6).</em></strong> All non-undead within 30 ft must succeed on DC 17 Int save or take 36 (8d8) psychic damage and be stunned until end of next turn.</div>
+        
+        
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Casts Greater Invisibility on turn 1. Stays at maximum range launching Mind-Shatter Lance and Overwhelming Decree to stun frontliners.
+        </div>
+        
+      </div>
+    </div>
+    </div>
+        <div class="col-half">
+    <div class="dnd-card-col">
+      <div class="dnd-card" id="dusk-priest">
+        <div class="dnd-header">
+          <div class="dnd-name">Dusk High Priest</div>
+          <div class="dnd-tagline">Crypt Dominator · Animate Lord</div>
+          <div class="dnd-meta">Medium humanoid (human), neutral evil</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 16 (breastplate + shield)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">110</span> (15d8 + 45)
             <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10</span>
           </div>
           <div><strong>Speed:</strong> 30 ft.</div>
@@ -1350,7 +1543,7 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>12 (+1)</strong></td><td><strong>15 (+2)</strong></td><td><strong>14 (+2)</strong></td><td><strong>14 (+2)</strong></td><td><strong>18 (+4)</strong></td><td><strong>14 (+2)</strong></td>
+              <td><strong>14 (+2)</strong></td><td><strong>12 (+1)</strong></td><td><strong>16 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>18 (+4)</strong></td><td><strong>16 (+3)</strong></td>
             </tr>
           </tbody>
         </table>
@@ -1358,56 +1551,130 @@
         <div class="dnd-taper"></div>
         
         <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Wis +7, Cha +5</div>
-          <div><strong>Skills:</strong> Perception +7, Religion +5, Stealth +5</div>
+          <div><strong>Saving Throws:</strong> Wis +8, Cha +7, Con +7</div>
+          <div><strong>Skills:</strong> Religion +6, Perception +8</div>
           <div><strong>Damage Resistances:</strong> Necrotic</div>
           
           
-          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 17</div>
-          <div><strong>Languages:</strong> Common, Elvish</div>
-          <div><strong>Challenge:</strong> <span class="cr-badge">7 (2,900 XP)</span></div>
+          
+          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 18</div>
+          <div><strong>Languages:</strong> Common, Undercommon</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">8 (3,900 XP)</span></div>
         </div>
         
         <div class="dnd-taper"></div>
         
-        <div class="dnd-entry"><strong><em>Twilight Authority.</em></strong> Undead allies within 30 ft have advantage on saving throws against being turned.</div>
+        <div class="dnd-entry"><strong><em>Crypt Master.</em></strong> Undead allies within 20 ft gain advantage on saving throws against turn undead and radiant effects.</div><div class="dnd-entry"><strong><em>Combat Animation.</em></strong> When a humanoid falls within 30 ft, can use a reaction to animate it as a Concordance Skeleton under its control.</div>
         
         <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Cast Toll the Dead + one Dagger attack, or cast two spells.</div><div class="dnd-entry"><strong><em>Sacrificial Dagger.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 4 (1d4 + 2) piercing + 10 (3d6) necrotic.</div><div class="dnd-entry"><strong><em>Toll the Dead.</em></strong> Range 60 ft: DC 15 Wis save or 9 (2d8) necrotic, or 13 (2d12) if damaged.</div><div class="dnd-entry"><strong><em>Spirit Guardians.</em></strong> DC 15 Wis save or 18 (4d8) necrotic aura.</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes two Sacrificial Blade attacks or casts a spell and makes one attack.</div><div class="dnd-entry"><strong><em>Sacrificial Blade.</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft. Hit: 6 (1d4 + 4) piercing plus 14 (4d6) necrotic damage.</div><div class="dnd-entry"><strong><em>Necrotic Eruption (Recharge 5–6).</em></strong> A 20-ft radius eruption of unholy earth: 31 (7d8) necrotic damage (DC 16 Dex half).</div>
         
         
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Shadow Step.</em></strong> Teleports up to 30 ft between dim or dark spaces.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Shield of the Dark.</em></strong> When hit by an attack, gains +3 AC until end of turn.</div>
         
         
         
         <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Commands The Returned to pin down frontliners. Uses Spirit Guardians and Toll the Dead. Signals tactical retreat with sealed-door brand gesture if reduced below 30 HP.
+          <strong>GM Tactics & Morale:</strong> Commands The Returned to pin down targets. Uses Combat Animation to turn dead party allies/NPCs into skeletons immediately.
         </div>
         
       </div>
     </div>
     </div>
+      </div>
+    </div>
+    
+  
+    <div class="page-sheet">
+      <div class="section-header">Faction 2: The Undead (The Concordance) — Infiltrators & Deathless Ranks</div>
+      <div class="two-col-layout">
         <div class="col-half">
           
     <div class="dnd-card-col">
-      <div class="dnd-card compact" id="the-returned">
+      <div class="dnd-card compact" id="unlit-operative">
         <div class="dnd-header">
-          <div class="dnd-name">The Returned (Concordance Ghast)</div>
-          <div class="dnd-tagline">Branded Initiate Undead · Paralyzing Claws</div>
-          <div class="dnd-meta">Medium undead, chaotic evil</div>
+          <div class="dnd-name">Unlit Shadow-Operative</div>
+          <div class="dnd-tagline">Shadar-kai Elite Assassin · Cell Infiltrator</div>
+          <div class="dnd-meta">Medium humanoid (shadar-kai), lawful neutral</div>
         </div>
         <div class="dnd-taper"></div>
         
         <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 13 (natural armor)</div>
+          <div><strong>Armor Class:</strong> 16 (studded leather)</div>
           <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">65</span> (10d8 + 20)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+            <strong>Hit Points:</strong> <span class="hp-val">82</span> (12d8 + 28)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -2</span>
+          </div>
+          <div><strong>Speed:</strong> 35 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>12 (+1)</strong></td><td><strong>18 (+4)</strong></td><td><strong>14 (+2)</strong></td><td><strong>14 (+2)</strong></td><td><strong>14 (+2)</strong></td><td><strong>10 (+0)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Dex +7, Wis +5</div>
+          <div><strong>Skills:</strong> Stealth +10, Acrobatics +7, Perception +5</div>
+          <div><strong>Damage Resistances:</strong> Necrotic</div>
+          
+          
+          
+          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 15</div>
+          <div><strong>Languages:</strong> Common, Elvish</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">6 (2,300 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Assassinate & Pack Tactics.</em></strong> Advantage on attack rolls against any creature that hasn't taken a turn, or if an ally is within 5 ft. Critical hit against surprised creatures.</div><div class="dnd-entry"><strong><em>Sneak Attack (1/Turn).</em></strong> Deals an extra 14 (4d6) damage to a target it hits with a weapon attack with advantage.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes three Shortsword attacks or two Hand Crossbow attacks.</div><div class="dnd-entry"><strong><em>Poisoned Shortsword.</em></strong> Melee Weapon Attack: +7 to hit, reach 5 ft. Hit: 7 (1d6 + 4) piercing plus 7 (2d6) poison damage.</div><div class="dnd-entry"><strong><em>Hand Crossbow.</em></strong> Ranged Weapon Attack: +7 to hit, range 30/120 ft. Hit: 7 (1d6 + 4) piercing plus 7 (2d6) necrotic.</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Shadow Step.</em></strong> Teleports up to 35 ft into dim light or darkness.</div>
+        
+        
+        <div class="dnd-section-title">Reactions</div>
+        <div class="dnd-entry"><strong><em>Fade into Shadow.</em></strong> When hit by an attack, teleports 30 ft and takes half damage.</div>
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Shadow-steps behind paralyzed or engaged PCs. Delivers 4d6 sneak attacks. Fades when targeted.
+        </div>
+        
+      </div>
+    </div>
+    
+          
+    <div class="dnd-card-col">
+      <div class="dnd-card compact" id="concordance-skeleton">
+        <div class="dnd-header">
+          <div class="dnd-name">Concordance Obsidian Legionnaire</div>
+          <div class="dnd-tagline">Armored Tomb Guard · Indestructible Phalanx</div>
+          <div class="dnd-meta">Medium undead, lawful evil</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 18 (obsidian plate + tower shield)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">52</span> (8d8 + 16)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -2</span>
           </div>
           <div><strong>Speed:</strong> 30 ft.</div>
         </div>
@@ -1422,7 +1689,7 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>17 (+3)</strong></td><td><strong>13 (+1)</strong></td><td><strong>15 (+2)</strong></td><td><strong>10 (+0)</strong></td><td><strong>10 (+0)</strong></td><td><strong>8 (-1)</strong></td>
+              <td><strong>16 (+3)</strong></td><td><strong>12 (+1)</strong></td><td><strong>15 (+2)</strong></td><td><strong>8 (-1)</strong></td><td><strong>10 (+0)</strong></td><td><strong>5 (-3)</strong></td>
             </tr>
           </tbody>
         </table>
@@ -1430,29 +1697,98 @@
         <div class="dnd-taper"></div>
         
         <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Con +4</div>
-          <div><strong>Skills:</strong> Perception +2</div>
-          <div><strong>Damage Resistances:</strong> Necrotic</div>
+          <div><strong>Saving Throws:</strong> Str +5, Con +4</div>
+          <div><strong>Skills:</strong> None</div>
+          
           <div><strong>Damage Immunities:</strong> Poison</div>
-          <div><strong>Condition Immunities:</strong> Charmed, exhaustion, poisoned, paralyzed</div>
-          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 12</div>
-          <div><strong>Languages:</strong> Understands Common but cannot speak</div>
+          <div><strong>Damage Vulnerabilities:</strong> Bludgeoning</div>
+          <div><strong>Condition Immunities:</strong> Exhaustion, poisoned</div>
+          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 10</div>
+          <div><strong>Languages:</strong> Understands Common</div>
           <div><strong>Challenge:</strong> <span class="cr-badge">3 (700 XP)</span></div>
         </div>
         
         <div class="dnd-taper"></div>
         
-        <div class="dnd-entry"><strong><em>Stench.</em></strong> Creatures starting turn within 5 ft must make DC 13 Con save or be poisoned until start of next turn. Success grants 24h immunity.</div><div class="dnd-entry"><strong><em>Pack Tactics.</em></strong> Advantage on attack rolls when an ally is within 5 ft of target.</div><div class="dnd-entry"><strong><em>Turning Defiance.</em></strong> Advantage on saving throws against effects that turn undead.</div>
+        <div class="dnd-entry"><strong><em>Phalanx Wall.</em></strong> Adjacent legionnaires grant +2 AC to each other and half cover to allies behind them.</div><div class="dnd-entry"><strong><em>Obsidian Magic Shell.</em></strong> Advantage on saving throws against spells and magical effects.</div>
         
         <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> One Bite and one Claws attack.</div><div class="dnd-entry"><strong><em>Bite.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 10 (2d6 + 3) piercing damage.</div><div class="dnd-entry"><strong><em>Claws.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 8 (2d4 + 3) slashing damage. If target is non-undead, must succeed on DC 13 Con save or be paralyzed until end of next turn.</div>
+        <div class="dnd-entry"><strong><em>Necrotic Halberd.</em></strong> Melee Weapon Attack: +5 to hit, reach 10 ft. Hit: 8 (1d10 + 3) slashing plus 7 (2d6) necrotic damage.</div><div class="dnd-entry"><strong><em>Halberd Trip.</em></strong> Target must succeed on DC 13 Str save or be knocked prone.</div>
         
         
         
         
         
         <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Swarm adjacent to each other for Pack Tactics. Focus claws on high-AC warriors to inflict paralysis, then bite paralyzed targets with automatic criticals.
+          <strong>GM Tactics & Morale:</strong> Locks down chokepoints and doorways with 10 ft reach halberds. Trips frontline tanks so Ghasts can swarm them.
+        </div>
+        
+      </div>
+    </div>
+    
+        </div>
+        <div class="col-half">
+          
+    <div class="dnd-card-col">
+      <div class="dnd-card compact" id="the-returned">
+        <div class="dnd-header">
+          <div class="dnd-name">The Returned (Dread Ghast)</div>
+          <div class="dnd-tagline">Branded Undead · Apex Paralyzer</div>
+          <div class="dnd-meta">Medium undead, chaotic evil</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 15 (hardened necrotic hide)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">85</span> (12d8 + 31)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 35 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>18 (+4)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>11 (+0)</strong></td><td><strong>12 (+1)</strong></td><td><strong>8 (-1)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Con +6</div>
+          <div><strong>Skills:</strong> Perception +4, Athletics +7</div>
+          <div><strong>Damage Resistances:</strong> Necrotic</div>
+          <div><strong>Damage Immunities:</strong> Poison</div>
+          
+          <div><strong>Condition Immunities:</strong> Charmed, exhaustion, poisoned, paralyzed</div>
+          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 14</div>
+          <div><strong>Languages:</strong> Understands Common</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">5 (1,800 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Putrid Stench.</em></strong> Any creature starting its turn within 10 ft must succeed on DC 15 Con save or be poisoned for 1 minute.</div><div class="dnd-entry"><strong><em>Pack Tactics & Turning Defiance.</em></strong> Advantage on attack rolls when an ally is within 5 ft. Advantage on saves against turn undead.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes one Bite attack and two Claw attacks.</div><div class="dnd-entry"><strong><em>Paralyzing Claws.</em></strong> Melee Weapon Attack: +7 to hit, reach 5 ft. Hit: 9 (2d4 + 4) slashing plus 7 (2d6) necrotic. Non-undead must succeed on DC 15 Con save or be paralyzed for 1 minute.</div><div class="dnd-entry"><strong><em>Devouring Bite.</em></strong> Melee Weapon Attack: +7 to hit, reach 5 ft. Hit: 13 (2d8 + 4) piercing. If target is paralyzed, this attack is an automatic critical hit, and Ghast heals 10 HP.</div>
+        
+        
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Swarms heavily armored tanks. Inflicts paralysis with claws, then bites to heal. Operatives focus on the paralyzed target.
         </div>
         
       </div>
@@ -1460,16 +1796,11 @@
     
           
     <div class="dnd-encounter-box">
-      <div class="dnd-enc-title">The Sunken Tannery: Hazards & Tactical Notes</div>
+      <div class="dnd-enc-title">The Concordance: Inversion Chamber Hazards & Phylactery</div>
       <div class="dnd-enc-body">
-        <p><strong>Atmospheric Hazards:</strong>
-          <br>• <em>Acid Vats:</em> Three massive stone vats contain caustic tannery runoff. A creature shoved or falling into a vat takes 14 (4d6) acid damage at the start of its turn. Climbing out requires 10 ft of movement and a DC 12 Athletics check.
-          <br>• <em>Slick Flagstones:</em> The floor is coated in grease and slime. Any creature moving more than half speed must succeed on a DC 11 Dexterity saving throw or fall prone.
-        </p>
-        <p><strong>Encounter Tactics:</strong>
-          <br>• The Dusk Priest uses <em>Spirit Guardians</em> to create a lethal 15-ft killzone while The Returned flank around the acid vats, attempting to paralyze frontliners with their claws.
-          <br>• The Dusk Priest prioritizes casting <em>Toll the Dead</em> on paralyzed targets for guaranteed maximum critical damage.
-        </p>
+        <p><strong>Arch-Lich Vhol's Phylactery:</strong> Hidden within the sub-aqueduct crypts behind three lead-lined stone seals. Vhol cannot be permanently destroyed until the phylactery is crushed.</p>
+        <p><strong>Null Inversion Field:</strong> Within 60 ft of the Concordance Plinth, magical light spells of 3rd level or lower are automatically dispelled at initiative count 20.</p>
+        <p><strong>Synergy with The Returned:</strong> Operatives shadow-step behind paralyzed targets to deliver automatic critical sneak attacks. Skeletal Legionnaires form choke points to keep PCs inside necrotic Spirit Guardians.</p>
       </div>
     </div>
     
@@ -1479,26 +1810,25 @@
     
   
     <div class="page-sheet">
-      <div class="section-header">Section 3: Shadows of Varenhold — Infiltrator & The Ancient Bridge</div>
+      <div class="section-header">Faction 3: The Flowering (The Mutants) — Flesh Masters & Tendril Horrors</div>
       <div class="two-col-layout">
         <div class="col-half">
-          
     <div class="dnd-card-col">
-      <div class="dnd-card" id="cinder-ashfall">
+      <div class="dnd-card" id="the-gardener">
         <div class="dnd-header">
-          <div class="dnd-name">Cinder-of-Ashfall</div>
-          <div class="dnd-tagline">Tabaxi Reckoning Scout · Pragmatic Infiltrator</div>
-          <div class="dnd-meta">Medium humanoid (tabaxi), neutral</div>
+          <div class="dnd-name">The Gardener (Master Flesh-Shaper)</div>
+          <div class="dnd-tagline">Leader of the Flowering · Architect of Impossible Flesh</div>
+          <div class="dnd-meta">Medium aberration (formerly humanoid), neutral evil</div>
         </div>
         <div class="dnd-taper"></div>
         
         <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 14 (leather armor)</div>
+          <div><strong>Armor Class:</strong> 17 (Living Chitinous Weave)</div>
           <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">52</span> (8d8 + 16)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -2</span>
+            <strong>Hit Points:</strong> <span class="hp-val">165</span> (18d8 + 84)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
           </div>
-          <div><strong>Speed:</strong> 30 ft., climb 20 ft.</div>
+          <div><strong>Speed:</strong> 35 ft., climb 35 ft.</div>
         </div>
         
         <div class="dnd-taper"></div>
@@ -1511,7 +1841,7 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>11 (+0)</strong></td><td><strong>18 (+4)</strong></td><td><strong>14 (+2)</strong></td><td><strong>13 (+1)</strong></td><td><strong>12 (+1)</strong></td><td><strong>10 (+0)</strong></td>
+              <td><strong>18 (+4)</strong></td><td><strong>20 (+5)</strong></td><td><strong>20 (+5)</strong></td><td><strong>20 (+5)</strong></td><td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td>
             </tr>
           </tbody>
         </table>
@@ -1519,35 +1849,251 @@
         <div class="dnd-taper"></div>
         
         <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Dex +6, Int +3</div>
-          <div><strong>Skills:</strong> Acrobatics +6, Perception +5, Stealth +8</div>
+          <div><strong>Saving Throws:</strong> Con +9, Int +9, Wis +7, Dex +9</div>
+          <div><strong>Skills:</strong> Medicine +9, Nature +9, Stealth +9, Perception +7</div>
+          <div><strong>Damage Resistances:</strong> Acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks</div>
           
           
+          <div><strong>Condition Immunities:</strong> Charmed, frightened, paralyzed, poisoned</div>
+          <div><strong>Senses:</strong> Blindsight 30 ft., Darkvision 60 ft., Passive Perception 17</div>
+          <div><strong>Languages:</strong> Common, Sylvan, Deep Speech</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">12 (8,400 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Apex Aberrant Regeneration.</em></strong> Regains 20 hit points at start of turn unless he took fire or radiant damage since his last turn.</div><div class="dnd-entry"><strong><em>Graft Symbiosis.</em></strong> While within 10 ft of another mutant, half of any damage The Gardener takes is transferred to that mutant.</div><div class="dnd-entry"><strong><em>Legendary Resistance (3/Day).</em></strong> Can choose to succeed on a failed saving throw.</div><div class="dnd-entry"><strong><em>Graft Command.</em></strong> All mutant allies within 30 ft have advantage on attack rolls against grappled or restrained creatures.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes four Grafted Bone-Scalpel strikes, or two Scalpel strikes and exhales Mutagenic Vapors.</div><div class="dnd-entry"><strong><em>Grafted Bone-Scalpel.</em></strong> Melee Weapon Attack: +9 to hit, reach 10 ft. Hit: 12 (2d6 + 5) slashing plus 9 (2d8) acid. Target must make DC 17 Con save or be poisoned for 1 min.</div><div class="dnd-entry"><strong><em>Mutagenic Vapors (Recharge 5–6).</em></strong> 30-ft cone of sweet mutagenic pollen. 45 (10d8) acid/poison damage (DC 17 Con half). On fail, target's muscles warp: disadvantage on attacks and speed halved for 1 min.</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Tendril Lash.</em></strong> Makes one Bone-Scalpel attack.</div>
+        
+        
+        <div class="dnd-section-title">Reactions</div>
+        <div class="dnd-entry"><strong><em>Rubbery Deflection.</em></strong> Adds +4 to AC against one attack by rippling rubbery skin layers.</div>
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Stays behind Tendril Behemoth and Abomination, transferring 50% damage to them while regenerating 20 HP/turn. Uses Flesh Puppetry to turn party members or summon graft horrors. His primary obsession is capturing Ixa alive.
+        </div>
+        
+      </div>
+    </div>
+    </div>
+        <div class="col-half">
+    <div class="dnd-card-col">
+      <div class="dnd-card" id="grasping-tendril">
+        <div class="dnd-header">
+          <div class="dnd-name">Grasping Tendril Behemoth</div>
+          <div class="dnd-tagline">Colossal Bio-Horror · The Collector</div>
+          <div class="dnd-meta">Huge aberration, unaligned</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 15 (thick rubbery hide)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">145</span> (16d10 + 57)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 40 ft., climb 30 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>22 (+6)</strong></td><td><strong>16 (+3)</strong></td><td><strong>20 (+5)</strong></td><td><strong>8 (-1)</strong></td><td><strong>12 (+1)</strong></td><td><strong>4 (-3)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Str +10, Con +9</div>
+          <div><strong>Skills:</strong> Athletics +10, Stealth +7</div>
+          <div><strong>Damage Resistances:</strong> Bludgeoning, piercing, acid</div>
           
-          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 15</div>
-          <div><strong>Languages:</strong> Common, Thieves' Cant</div>
+          
+          <div><strong>Condition Immunities:</strong> Charmed, frightened, prone</div>
+          <div><strong>Senses:</strong> Blindsight 40 ft., Darkvision 60 ft., Passive Perception 11</div>
+          <div><strong>Languages:</strong> Understands Common</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">9 (5,000 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Target Lock (Ixa / Priority Capture).</em></strong> The Behemoth moves at full speed while carrying up to two grappled creatures.</div><div class="dnd-entry"><strong><em>Multi-Appendage Grasp.</em></strong> Has 4 colossal tendrils. Can grapple up to four targets at once (escape DC 18).</div><div class="dnd-entry"><strong><em>Flexible Form.</em></strong> Can squeeze through spaces as tight as 3 ft wide without penalty.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes three Grasping Slam attacks.</div><div class="dnd-entry"><strong><em>Grasping Slam.</em></strong> Melee Weapon Attack: +10 to hit, reach 15 ft. Hit: 17 (2d10 + 6) bludgeoning. Target is grappled (escape DC 18) and pulled 10 ft toward the Behemoth.</div><div class="dnd-entry"><strong><em>Crushing Constriction.</em></strong> Each grappled creature takes 22 (3d10 + 6) bludgeoning plus 9 (2d8) acid damage.</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Vent Chute Haul.</em></strong> Drags all grappled targets up to 25 ft toward the sunken vent chutes.</div>
+        
+        
+        <div class="dnd-section-title">Reactions</div>
+        <div class="dnd-entry"><strong><em>Whiplash Lash.</em></strong> When attacked from outside 10 ft, lashes out: +10 to hit, 12 (1d12+6) bludgeoning, pulls attacker 10 ft.</div>
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Ignores heavy armor tanks unless blocked. Reaches over defenders with 15 ft reach to snatch Ixa or backline casters, constricts them, and drags them toward the chutes.
+        </div>
+        
+      </div>
+    </div>
+    </div>
+      </div>
+    </div>
+    
+  
+    <div class="page-sheet">
+      <div class="section-header">Faction 3: The Flowering (The Mutants) — Aberrant Flesh Creations</div>
+      <div class="two-col-layout">
+        <div class="col-half">
+          
+    <div class="dnd-card-col">
+      <div class="dnd-card compact" id="mutant-abomination">
+        <div class="dnd-header">
+          <div class="dnd-name">Flower-Bred Flesh Goliath</div>
+          <div class="dnd-tagline">Four-Armed Mutant Juggernaut · Siege Organism</div>
+          <div class="dnd-meta">Large aberration, chaotic evil</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 16 (thick scarred bone-plates)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">130</span> (14d10 + 53)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10</span>
+          </div>
+          <div><strong>Speed:</strong> 35 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>21 (+5)</strong></td><td><strong>12 (+1)</strong></td><td><strong>18 (+4)</strong></td><td><strong>6 (-2)</strong></td><td><strong>10 (+0)</strong></td><td><strong>5 (-3)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Str +8, Con +7</div>
+          <div><strong>Skills:</strong> Athletics +8</div>
+          <div><strong>Damage Resistances:</strong> Bludgeoning</div>
+          <div><strong>Damage Immunities:</strong> Poison</div>
+          
+          <div><strong>Condition Immunities:</strong> Frightened, poisoned</div>
+          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 10</div>
+          <div><strong>Languages:</strong> Understands Common but only moans</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">8 (3,900 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Relentless Flesh.</em></strong> When reduced to 0 HP, makes DC 10 Con save. On success, drops to 1 HP instead (unless damage was radiant or fire).</div><div class="dnd-entry"><strong><em>Four-Armed Crusher.</em></strong> Can grapple up to two Medium creatures while still making two slam attacks.</div><div class="dnd-entry"><strong><em>Siege Monster.</em></strong> Deals double damage to objects and structures.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes three Slam attacks or one Caustic Bile Vomit and two Slams.</div><div class="dnd-entry"><strong><em>Mutant Slam.</em></strong> Melee Weapon Attack: +8 to hit, reach 5 ft. Hit: 14 (2d8 + 5) bludgeoning damage.</div><div class="dnd-entry"><strong><em>Caustic Bile Vomit (Recharge 5–6).</em></strong> 20-ft cone. 36 (8d8) acid damage (DC 15 Dex half).</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Brutal Shove.</em></strong> Shoves a grappled creature into a wall or floor: 10 (1d10 + 5) bludgeoning and knocks prone.</div>
+        
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Frontline battering ram. Smashes barricades, grapples party warriors, and holds them down for Spore-Spitters.
+        </div>
+        
+      </div>
+    </div>
+    
+          
+    <div class="dnd-card-col">
+      <div class="dnd-card compact" id="failed-experiment">
+        <div class="dnd-header">
+          <div class="dnd-name">Failed Flesh Graft-Amalgam</div>
+          <div class="dnd-tagline">Crawling Flesh Remnant · Multi-Limbed Horror</div>
+          <div class="dnd-meta">Small aberration, chaotic neutral</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 13 (raw swollen tissue)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">55</span> (10d8 + 10)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 25 ft., climb 25 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>16 (+3)</strong></td><td><strong>12 (+1)</strong></td><td><strong>13 (+1)</strong></td><td><strong>4 (-3)</strong></td><td><strong>8 (-1)</strong></td><td><strong>3 (-4)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          
+          <div><strong>Skills:</strong> Athletics +5</div>
+          <div><strong>Damage Resistances:</strong> Bludgeoning</div>
+          
+          
+          <div><strong>Condition Immunities:</strong> Charmed, frightened</div>
+          <div><strong>Senses:</strong> Blindsight 30 ft., Passive Perception 9</div>
+          <div><strong>Languages:</strong> None</div>
           <div><strong>Challenge:</strong> <span class="cr-badge">3 (700 XP)</span></div>
         </div>
         
         <div class="dnd-taper"></div>
         
-        <div class="dnd-entry"><strong><em>Feline Agility.</em></strong> Doubles speed until end of turn. Recharges when she moves 0 ft on a turn.</div><div class="dnd-entry"><strong><em>Sneak Attack (1/Turn).</em></strong> Deals extra 10 (3d6) damage to a target she hits with a finesse or ranged weapon with advantage.</div><div class="dnd-entry"><strong><em>Evasion.</em></strong> Dex save success = 0 damage, failure = half damage.</div>
+        <div class="dnd-entry"><strong><em>Grasping Swarm Nuisance.</em></strong> Can enter hostile creature's space. A creature whose space it shares has speed halved and is grappled (escape DC 13).</div><div class="dnd-entry"><strong><em>The Not Dead.</em></strong> When reduced to 0 HP, twitches helplessly. DC 14 Medicine check confirms it is an altered citizen still alive inside.</div>
         
         <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Two Shortsword attacks or two Hand Crossbow attacks.</div><div class="dnd-entry"><strong><em>Shortsword.</em></strong> Melee Weapon Attack: +6 to hit, reach 5 ft. Hit: 7 (1d6 + 4) piercing damage.</div><div class="dnd-entry"><strong><em>Hand Crossbow.</em></strong> Ranged Weapon Attack: +6 to hit, range 30/120 ft. Hit: 7 (1d6 + 4) piercing damage.</div>
+        <div class="dnd-entry"><strong><em>Lashing Tendril.</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 8 (1d10 + 3) bludgeoning.</div><div class="dnd-entry"><strong><em>Agonizing Pain Shriek (1/Day).</em></strong> Releases psychic screech in 15-ft radius. DC 14 Wis save or take 14 (4d6) psychic damage and be stunned until end of next turn.</div>
         
         
-        <div class="dnd-section-title">Bonus Actions</div>
-        <div class="dnd-entry"><strong><em>Cunning Action.</em></strong> Dash, Disengage, or Hide as bonus action.</div>
-        
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Uncanny Dodge.</em></strong> Halves damage from one attack she can see.</div>
         
         
         
         <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Stays mobile along rooftops and rafters. Fights to disable, not slaughter. Retreats or negotiates below 15 HP.
+          <strong>GM Tactics & Morale:</strong> Crawls out of grates and gutters, wraps around boots, and lets out a deafening pain shriek to stun party members.
         </div>
         
       </div>
@@ -1557,21 +2103,21 @@
         <div class="col-half">
           
     <div class="dnd-card-col">
-      <div class="dnd-card" id="vault-warden">
+      <div class="dnd-card compact" id="bloom-stalker">
         <div class="dnd-header">
-          <div class="dnd-name">The Vault-Warden</div>
-          <div class="dnd-tagline">Tolvin Heuschel's Bound Spirit · Bridge Guardian</div>
-          <div class="dnd-meta">Large construct (bound spirit), neutral</div>
+          <div class="dnd-name">Apex Bloom-Stalker</div>
+          <div class="dnd-tagline">Camouflaged Ambush Predator · Toxic Neurotoxin</div>
+          <div class="dnd-meta">Medium aberration, neutral evil</div>
         </div>
         <div class="dnd-taper"></div>
         
         <div class="dnd-core-stats">
-          <div><strong>Armor Class:</strong> 16 (natural armor)</div>
+          <div><strong>Armor Class:</strong> 16 (petaled armored scales)</div>
           <div class="hp-row">
-            <strong>Hit Points:</strong> <span class="hp-val">85</span> (10d10 + 30)
-            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+            <strong>Hit Points:</strong> <span class="hp-val">88</span> (13d8 + 30)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -8</span>
           </div>
-          <div><strong>Speed:</strong> 30 ft.</div>
+          <div><strong>Speed:</strong> 40 ft., climb 35 ft.</div>
         </div>
         
         <div class="dnd-taper"></div>
@@ -1584,7 +2130,7 @@
           </thead>
           <tbody>
             <tr>
-              <td><strong>20 (+5)</strong></td><td><strong>8 (-1)</strong></td><td><strong>17 (+3)</strong></td><td><strong>14 (+2)</strong></td><td><strong>16 (+3)</strong></td><td><strong>10 (+0)</strong></td>
+              <td><strong>14 (+2)</strong></td><td><strong>20 (+5)</strong></td><td><strong>16 (+3)</strong></td><td><strong>8 (-1)</strong></td><td><strong>14 (+2)</strong></td><td><strong>6 (-2)</strong></td>
             </tr>
           </tbody>
         </table>
@@ -1592,32 +2138,99 @@
         <div class="dnd-taper"></div>
         
         <div class="dnd-details">
-          <div><strong>Saving Throws:</strong> Str +8, Con +6</div>
-          <div><strong>Skills:</strong> Athletics +8, Perception +6</div>
-          <div><strong>Damage Resistances:</strong> Bludgeoning, piercing, slashing from nonmagical attacks</div>
-          <div><strong>Damage Immunities:</strong> Poison, psychic</div>
-          <div><strong>Condition Immunities:</strong> Charmed, exhaustion, frightened, paralyzed, petrified, poisoned</div>
-          <div><strong>Senses:</strong> Darkvision 60 ft., Tremorsense 30 ft. (bridge only), Passive Perception 16</div>
-          <div><strong>Languages:</strong> Common (archaic), Elder Futhark</div>
+          <div><strong>Saving Throws:</strong> Dex +8, Con +6</div>
+          <div><strong>Skills:</strong> Stealth +11, Acrobatics +8, Perception +5</div>
+          <div><strong>Damage Resistances:</strong> Poison, acid</div>
+          
+          
+          
+          <div><strong>Senses:</strong> Darkvision 60 ft., Tremorsense 30 ft., Passive Perception 15</div>
+          <div><strong>Languages:</strong> Understands Common</div>
+          <div><strong>Challenge:</strong> <span class="cr-badge">6 (2,300 XP)</span></div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-entry"><strong><em>Chameleon Camouflage.</em></strong> Can take the Hide action as a bonus action in dim light, rubble, or adjacent to walls. Advantage on stealth.</div><div class="dnd-entry"><strong><em>Pounce.</em></strong> If moves 20 ft straight toward target and hits with claw, target must succeed DC 15 Str save or be knocked prone. Stalker can make bite as bonus action.</div>
+        
+        <div class="dnd-section-title">Actions</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Makes one Bite attack and two Claw attacks.</div><div class="dnd-entry"><strong><em>Neurotoxin Bite.</em></strong> Melee Weapon Attack: +8 to hit, reach 5 ft. Hit: 10 (1d10 + 5) piercing plus 14 (4d6) poison. Target must succeed DC 15 Con save or be paralyzed for 1 min.</div><div class="dnd-entry"><strong><em>Claw.</em></strong> Melee Weapon Attack: +8 to hit, reach 5 ft. Hit: 9 (1d8 + 5) slashing.</div>
+        
+        
+        <div class="dnd-section-title">Bonus Actions</div>
+        <div class="dnd-entry"><strong><em>Shadow Skulk.</em></strong> Takes Hide action as a bonus action in dim light.</div>
+        
+        
+        
+        
+        <div class="dnd-tactics">
+          <strong>GM Tactics & Morale:</strong> Stalks along rafters and ceilings. Pounces directly onto backline spellcasters, inflicts paralysis with Neurotoxin Bite, and drags them into the dark.
+        </div>
+        
+      </div>
+    </div>
+    
+          
+    <div class="dnd-card-col">
+      <div class="dnd-card compact" id="spore-spitter">
+        <div class="dnd-header">
+          <div class="dnd-name">Noxious Spore-Artillery</div>
+          <div class="dnd-tagline">Swollen Ranged Artillery · Bio-Mortar</div>
+          <div class="dnd-meta">Medium aberration, unaligned</div>
+        </div>
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-core-stats">
+          <div><strong>Armor Class:</strong> 14 (chitinous pustules)</div>
+          <div class="hp-row">
+            <strong>Hit Points:</strong> <span class="hp-val">75</span> (11d8 + 26)
+            <span class="hp-tracker">HP Tracking: □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -10 □ -5</span>
+          </div>
+          <div><strong>Speed:</strong> 25 ft.</div>
+        </div>
+        
+        <div class="dnd-taper"></div>
+        
+        <table class="dnd-stats-table">
+          <thead>
+            <tr>
+              <th>STR</th><th>DEX</th><th>CON</th><th>INT</th><th>WIS</th><th>CHA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>12 (+1)</strong></td><td><strong>16 (+3)</strong></td><td><strong>16 (+3)</strong></td><td><strong>5 (-3)</strong></td><td><strong>12 (+1)</strong></td><td><strong>4 (-3)</strong></td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div class="dnd-taper"></div>
+        
+        <div class="dnd-details">
+          <div><strong>Saving Throws:</strong> Con +6</div>
+          <div><strong>Skills:</strong> Perception +4</div>
+          <div><strong>Damage Resistances:</strong> Acid, poison</div>
+          
+          
+          <div><strong>Condition Immunities:</strong> Poisoned</div>
+          <div><strong>Senses:</strong> Darkvision 60 ft., Passive Perception 14</div>
+          <div><strong>Languages:</strong> None</div>
           <div><strong>Challenge:</strong> <span class="cr-badge">5 (1,800 XP)</span></div>
         </div>
         
         <div class="dnd-taper"></div>
         
-        <div class="dnd-entry"><strong><em>Bridge Lock.</em></strong> While on the bridge, immune to forced movement and cannot be knocked prone.</div><div class="dnd-entry"><strong><em>Imperfect Memory.</em></strong> Can be reasoned with (DC 13 Persuasion, or DC 10 if Ixa is present). If convinced the party seeks to stop the ritual, stands aside willingly.</div>
+        <div class="dnd-entry"><strong><em>Caustic Death Burst.</em></strong> When reduced to 0 HP, bursts in 20-ft radius: 28 (8d6) acid and poison damage (DC 15 Dex half).</div>
         
         <div class="dnd-section-title">Actions</div>
-        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Two Crushing Blow attacks.</div><div class="dnd-entry"><strong><em>Crushing Blow.</em></strong> Melee Weapon Attack: +8 to hit, reach 10 ft. Hit: 14 (2d8 + 5) bludgeoning. DC 15 Str save or knocked prone and pushed 5 ft.</div><div class="dnd-entry"><strong><em>Warden's Pulse (Recharge 5–6).</em></strong> 30-ft burst of amber-grey light: DC 14 Con save or 14 (4d6) radiant damage and knocked prone.</div>
+        <div class="dnd-entry"><strong><em>Multiattack.</em></strong> Fires two Caustic Spore Mortars.</div><div class="dnd-entry"><strong><em>Caustic Spore Mortar.</em></strong> Ranged Weapon Attack: +6 to hit, range 40/120 ft. Hit: 12 (2d8 + 3) acid plus 9 (2d8) poison damage, and creates a 5-ft pool of acid (5 acid damage if entered).</div><div class="dnd-entry"><strong><em>Hallucinogenic Spore Bomb (Recharge 5–6).</em></strong> Fires a spore bomb up to 60 ft, detonating in 15-ft radius. Each creature must make DC 15 Wis save or roll on confusion table for 1 minute.</div>
         
         
-        
-        <div class="dnd-section-title">Reactions</div>
-        <div class="dnd-entry"><strong><em>Threshold Challenge.</em></strong> When a creature crosses the bridge midpoint, makes one Crushing Blow reaction and stops their movement.</div>
         
         
         
         <div class="dnd-tactics">
-          <strong>GM Tactics & Morale:</strong> Guards the chasm bridge. Punishes players who try to sprint past. Ceases hostility if Ixa speaks to it.
+          <strong>GM Tactics & Morale:</strong> Stands on vantage points lobbing acid mortars. When party warriors close in, detonate self to wipe them out.
         </div>
         
       </div>
@@ -1625,17 +2238,11 @@
     
           
     <div class="dnd-encounter-box">
-      <div class="dnd-enc-title">Tolvin Heuschel's Bridge: Chasm Hazards & RP Hooks</div>
+      <div class="dnd-enc-title">The Flowering: Flesh Horror Dynamics & Retrieval Objective</div>
       <div class="dnd-enc-body">
-        <p><strong>The Chasm Bridge (Bridge of the Pale Watch):</strong>
-          <br>• <em>Precarious Crossing:</em> The narrow archway is 80 ft long, 10 ft wide, without railings. A 60-ft plunge into the jagged aqueduct deals 21 (6d6) bludgeoning damage.
-          <br>• <em>Warden's Challenge:</em> The Vault-Warden blocks the midpoint. It cannot leave the bridge (Bridge Lock). If the party approaches peacefully, it speaks in archaic Elder Futhark: <em>'Who approaches the resting stone of the Sun?'</em>
-          <br>• <em>Social Resolution:</em> If Ixa is present or a PC succeeds on a DC 13 Persuasion check citing the restoration of the light, the Warden deactivates and steps aside.
-        </p>
-        <p><strong>Cinder-of-Ashfall Roleplay & Bargain:</strong>
-          <br>• Cinder is a pragmatic tabaxi rogue hired by Keseph Vyne's network. She has no loyalty to fanaticism and surrenders if reduced to 15 HP.
-          <br>• In exchange for safe passage out of the city, she provides secret maps of the subterranean duct system leading directly under the Concordance dais.
-        </p>
+        <p><strong>Target Lock on Ixa:</strong> The Flowering does not want to murder the party; they want to retrieve Ixa, whom they view as their sacred 'first perfect bloom.' Tendrils and Abominations focus on grappling and hauling her away.</p>
+        <p><strong>Secondary Objective (Combat Win Condition):</strong> Prevent Ixa from being hauled past the 60-ft perimeter line into the sunken vents.</p>
+        <p><strong>The Not Dead Horror:</strong> When reduced to 0 HP, mutants collapse into paralyzed heaps. A DC 14 Medicine check reveals they are former Varenhold citizens painfully rewritten by mutagenic alchemy, still conscious inside.</p>
       </div>
     </div>
     
