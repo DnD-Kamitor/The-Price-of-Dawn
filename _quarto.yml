@@ -28,6 +28,7 @@ book:
         - pantheon.md
         - factions-guide.md
         - player-handout.md
+        - print-100-questions.md
     - part: "The World"
       chapters:
         - setting.md

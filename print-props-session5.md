@@ -24,26 +24,26 @@
 ║                    Status: ______                                ║
 ║                                                                  ║
 ║    [ 10 ]                              [  2  ]                   ║
-║    PETRA INNES                         TOMAS ARETH               ║
+║    DAVIN SHORE                         TOMAS ARETH               ║
 ║    Status: ______                      Status: ______            ║
 ║                                                                  ║
 ║  [  9  ]                                        [  3  ]          ║
-║  ALDRIC STONE          ╔══════════╗             YSEL THANIS      ║
+║  ALDRIC STONE          ╔══════════╗             YSEL MAREN       ║
 ║  Status: ______        ║          ║             Status: ______   ║
 ║                        ║  CENTER  ║                              ║
 ║  [  8  ]               ║   DAIS   ║             [  4  ]          ║
-║  NAREN COLTH           ║          ║             CORMAC OSSEL     ║
+║  ORYA DOSS             ║ (75 HP)  ║             CORMAC DRELL     ║
 ║  Status: ______        ╚══════════╝             Status: ______   ║
 ║                                                                  ║
 ║  [  7  ]                                        [  5  ]          ║
-║  CORI WREN                                      LIRA ANWICK      ║
+║  NIN FLETCH                                     LIRA ANWICK      ║
 ║  Status: ______                                 Status: ______   ║
 ║                                                                  ║
-║        [  6b ]                      [  6  ]                      ║
-║        PETRA INNES                  PETRA VANE                   ║
-║        (see session tracker)        Status: ______               ║
+║        [  IX / 11 ]                 [  6  ]                      ║
+║        ELLAN VOSS & IXA             PETRA VANE                   ║
+║        Status: ______               Status: ______               ║
 ║                                                                  ║
-║  DAIS HP: 30. If dais takes 30+ damage: Inversion still works   ║
+║  DAIS HP: 75. If dais takes 75+ damage: Inversion still works   ║
 ║  but requires DC 18 Arcana from whoever speaks the word.        ║
 ║                                                                  ║
 ║  CIRCLE DIAMETER: 40ft. Shouting reaches all positions IF quiet.║
@@ -92,6 +92,19 @@
 ---
 
 ## Documents
+
+<details>
+<summary>d100 Character Grounding Table - Twilight Questions</summary>
+
+*Use before the session or during the quiet dawn pause to ground the players in their character's memories and sensory reality before the final ritual begins.*
+
+<div class="print-bar no-print" style="margin: 10px 0;">
+  <a href="print-100-questions.html" class="btn btn-primary" style="padding: 8px 18px; font-weight: bold; text-decoration: none;">🖨 Open Dedicated Print Sheet / Save 100 Questions as PDF</a>
+</div>
+
+*(Full table with all 100 rollable questions categorized across 10 twilight themes is available on the dedicated print page above).*
+
+</details>
 
 <details>
 <summary>Corven's Letter - found behind the center dais (Scene 2)</summary>

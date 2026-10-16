@@ -1,26 +1,8 @@
-> ⚠️ **TODO - INCOMPLETE WORK FROM SESSION 4** ⚠️
->
-> The following items are **unfinished** and must be completed before running Session 5. Most were promised, some were outlined in chat but never written into the file, others are outright missing. This note exists because the AI working on this material delivered repeated rounds of bullet-point GM notes dressed up as scenes, outlines without prose, structure without drama, mechanics without the human moment that makes them work.
->
-> **Missing scenes (not in session4.md):**
-> - **Nin Fletch cube collection scene** - needs full prose: find them at the Ashring-Lowmark junction crossroads (DC 10), walk with them in silence, ask "are you coming?" and wait. The beat is patience, not persuasion.
-> - **Orya Doss cube collection scene** - needs full prose: she's already at her Primer Stone. She's been there since the fourth bell. She sees you coming. "Same mouth, same choice." The beat is reward after hard scenes, let it land.
->
-> **Scenes present but needing prose (session4.md has GM notes, not scenes):**
-> - **Sera Voss** - outline exists, but reads as briefing notes. Needs the drama of a woman who knows too much to be sure her yes is hers.
-> - **Ysel Maren** - outline exists. The "ask how she is" beat is there but flat. Needs weight behind 7 months of being the person everyone trusted to be fine.
-> - **Cormac Drell** - outline has good bones. The alley scene after he walks out needs more breath in it.
->
-> **Missing assets (images):**
-> - 8 Dawnborn portrait images: Tomas Areth, Davin Shore, Ysel Maren, Orya Doss, Cormac Drell, Aldric Stone, Nin Fletch, Petra Vane, all absent.
->
-> **Other deferred items:**
-> - Obsidian Ring of Contrariwise needs a d6 compulsion table and combat effect block.
-> - Davin Shore / Mira Shore scene is a Session 5 opener, stub exists but no prose.
-
 # Session 5 - The Price of Dawn (Level 8)
 
-*Dilemma: When the "right" choice and the "good" choice are different, which do you make?*
+*Premise: When the "right" choice and the "good" choice are different, which do you make?*
+
+**Level:** 8 · **Players:** 4–6 · **Time:** 3.5–4.5 hrs · **Type:** Investigation, Dramatic Roleplay, Tactical Combat, Campaign Climax
 
 ---
 
@@ -65,74 +47,18 @@ Harran is in Scenes 1 and 5. After he goes down and the ritual completes, the Re
 <details>
 <summary>📁 Session Opener - The Morning of the Ritual</summary>
 
-*Players have had the 48-hour window Harran negotiated (or the Chancellor's remaining days). This is what the city looks like when it arrives.*
+*Players have had the 48-hour window Harran negotiated (or the Chancellor's remaining days). The morning of the ritual has arrived.*
 
-**The puzzle box (Corven's Concordance Stone):** Players carry the 8-slotted ritual vessel. Every cube collected in Session 4 hums warm; every empty slot is cold. The morning of Session 5 opens with a count: how many cubes do they have? The uncollected ones drive the session's early urgency.
+**The State of the Vessel (Corven's Concordance Stone):**  
+The party carries the octagonal ritual vessel recovered in Session 4.
+- **For tables with 2 cubes collected (Standard Pacing / Aldric & Tomas):**  
+  Only 2 sockets hum with warm light (Stone 9 and Stone 2). Six slots remain cold.
+  - **The 4 Resolved Dawnborn (Sera Voss, Ysel Maren, Nin Fletch, Orya Doss):** These four have already resolved their choice and do not require separate fetch quests across the city. They arrive independently at the Ashring plaza perimeter at dawn, carrying their cubes (Cubes 1, 3, 7, and 8). When the party brings the Concordance Stone to the dais, these four Dawnborn step forward to hand over their cubes with brief, moving character moments.
+  - **The 4 Active Dilemmas (Petra, Davin, Lira, Cormac):** These are the four Dawnborn who require the party's active intervention, conversation, or rescue this morning before they will come to the circle.
+- **For tables with more cubes collected:** Simply skip whichever Dawnborn the party already visited.
 
-**Remaining cubes checklist (adjust per actual Session 4 play):**
-- Petra Vane (Stone 6): missing, needs finding. Her last known contact was the Compound, ask there first.
-- Davin Shore's cube (Stone 10): held by his daughter Mira Shore, a woodcutter 3 hours east. Has had it since childhood. Doesn't know what it is.
-- Any Dawnborn the players didn't reach in Session 4.
+The morning begins with the party resolving these final four Dawnborn across the city in **Morning Assembly** before bringing the completed vessel to the central dais.
 
-**The ritual activation:** When all 8 cubes are in the box, in the correct astronomical order (brightest to dimmest stars from the ritual night), shining any light source through the top projects a bird - Corven's dawn symbol. This projection, visible from the Ashring plaza, is what cues each Dawnborn at their stone that the Inversion is ready to begin. The bird is the signal. Players assembled it. They light it.
-
-<details>
-<summary>📄 Cormac's Crisis - The Missing Dawnborn</summary>
-
-**Check first.** Before anything else this morning: count the Dawnborn at their stones. Nine stones are warming. One is cold. Cormac Drell's stone is cold. He is not here.
-
-Ysel Maren is already looking toward his stone when players arrive. She doesn't say anything. She looked thirty minutes ago and has been watching it since.
-
-**Where he is:** The Dawnhall, back room, alone. He arrived before dawn, sat down, and has not moved. The kitchen staff left him tea three hours ago. He hasn't touched it.
-
-**Finding him:** DC 10 Investigation (ask around the Ashring area) or ask Ysel - she tells them without drama. *"I know where he is. I was waiting to see if someone else would go first."* She does not offer to come. This is not her job. It is theirs.
-
-**Five senses:**
-- *Sight:* The Dawnhall back room, rarely used. One amber lamp. Cormac at the table, hands flat on the surface, not doing anything with them.
-- *Sound:* The kitchen two rooms over. Nothing from him.
-- *Smell:* Cold tea. Old timber. The specific quiet of a room where someone has been thinking too long.
-- *Touch:* The door handle is cold. The room is not.
-- *Air:* Thick. He has been in here a long time.
-
-**The scene:** He looks up when players enter. He does not apologize for not being at his stone.
-
-> *"I know."*
-
-That is all he says at first. Then:
-
-> *"I made a choice in Session 4. I told Edoran yes nine weeks ago and I meant it and then it kept not being over and I kept not examining it because examining it might break it. And then it was last night and I examined it."*
-
-He looks at his hands.
-
-> *"The answer is still yes. I think. I'm not sure I know how to trust that it's yes for the right reason anymore."*
-
-**What resolves Cormac** - two paths depending on Session 4:
-
-*If players helped him find his renewed yes in Session 4:* He already worked through it. This scene is shorter. He just needs to say it out loud to someone who was there.
-
-> *"You were there when I figured it out. I figured it out again last night. Same answer. I need you to walk to the stones with me because if I go alone I'll stop."*
-
-He stands. No DC needed. He just needs company.
-
-*If players did NOT follow him in Session 4:* He is still in the middle of it. This requires actual conversation - not urgency, not stakes, not the city. DC 12 Persuasion (if players invoke anything external) or no check if a player simply stays with him without pushing toward a conclusion. What resolves it:
-
-> *"Why do you want to?"*, asked without agenda.
-
-He is quiet for long enough that it feels like failure. Then: *"Because I said I would. And because the people who need me to have been patient long enough."*
-
-He stands. *"Don't make a thing of it."*
-
-**If players push urgency, invoke the mission, or treat this as logistics:** He puts his hands back flat on the table.
-
-> *"I've been sitting here since before dawn. Urgency isn't the thing I'm missing."*
-
-He waits. The correct approach is presence, not pressure.
-
-**Failure state:** If players leave without him, or exhaust the scene without resolution, his stone is dark when the ritual begins. Ending B is no longer achievable. The Inversion can still proceed, but the arithmetic shifts, and someone who was not supposed to bear the cost now has to.
-
-**After the scene:** He walks to the Ashring with whoever stayed. He doesn't speak on the way. When he reaches his stone, it warms immediately - the stone recognizes him. He places his hand on it and closes his eyes for a moment. Opens them. *"All right."*
-
-</details>
 
 <details>
 <summary>📄 What the Ritual Was Actually Trying to Do</summary>
@@ -231,117 +157,264 @@ If exposed: Harran arrives in Scene 1 without his intelligence advantage. He doe
 </details>
 
 <details>
-<summary>📁 Morning Assembly - Last Consents</summary>
+<summary>📁 Morning Assembly - The Final Cubes & Consents</summary>
 
-*The Dawnborn who need the party's help before they can step onto their stones. These scenes happen in the morning before combat arrives - players have time if they move. Each scene is short. None of them require combat. All of them require presence.*
+*The Dawnborn who need the party's intervention on the morning of the ritual before the circle can be sealed. Each scene is grounded in Graeme Sherwood / theGreatGM principles: distinct five-senses atmosphere, stakes, NPC Want/Fear/Lie, and an encounter beat.*
+
+> [!TIP] **GM Pacing Note: Running with 2 Cubes Collected**
+> If your players enter Session 5 with only 2 cubes (e.g., Aldric Stone and Tomas Areth), **do not send them on eight separate errands**. 
+> - Run the **4 Active Encounters** below: Petra (rescued from Greenhollow), Davin (convinced on the Bastion Wall), Lira (reassured at the Healing House), and Cormac (grounded in the Dawnhall).
+> - The remaining four (Sera, Ysel, Nin, Orya) are already resolute and arrive directly at the Ashring plaza at dawn to deliver their cubes when the party returns to seat the vessel on the central dais.
+> This keeps the morning prep focused, atmospheric, and playable in ~45–60 minutes.
 
 <details>
-<summary>📄 Lira Anwick - The Arrangement</summary>
+<summary>📄 Petra Vane - The Missing One in Greenhollow (Stone 6)</summary>
 
-*Want:* To make a decision she can stand behind when it's over.
-*Fear:* That the person who depends on her is both why she can't say yes and proof that saying yes is the only thing that matters.
-*Lie:* *"I need more time."* She has run out. She has known for days.
+*Want:* To find peace without being coerced into martyrdom by either the city or the Reckoning.  
+*Fear:* Being cornered and forced to make a permanent choice before she has found her footing.  
+*Lie:* *"I'm just an herbalist now. The stones forgot about me thirty years ago."*
 
-Players met Lira at the Healing House in Session 4. She told them to come back. This is the scene they come back for.
+*Physical:* Early fifties, lean, silver-streaked hair bound in leather cord. Soil-stained fingertips, sharp herbalist's smock over travel clothes. She holds herself like someone who has spent weeks listening for the sound of boots on her gravel path.
 
-**Setup:** She is waiting outside the Healing House when they arrive. Not inside, not grinding something that doesn't need grinding. Outside, in the cold, cube in her coat pocket, dressed to go.
+**Location:** Greenhollow Village, Dusk Parishes (a half-hour ride through the dense twilight mist outside the Ashring wall). A damp settlement of slate-roofed cottages clustered around a dying, overgrown wayside shrine.
 
-**Five senses:**
-- *Sight:* Lira on the Healing House step, breath clouding in the amber cold. A younger woman visible through the window inside - not a patient. She is sitting up, alert, watching the door.
-- *Sound:* The city waking behind them. From inside: soft, careful movement.
-- *Smell:* Herbs and clean cloth. Her breath. Cold stone.
-- *Touch:* The step worn smooth from years of people sitting on it while they waited for news.
-- *Air:* Cold. She has been outside long enough to feel it.
+**Five Senses & Setup:**
+- *Sight:* A low timber apothecary cottage behind rows of drying glass bell-jars. Thick grey ground-fog curling around elderberry bushes. In the road behind the party: fresh horse tracks and boot prints—Reckoning scouts have been asking questions here this morning.
+- *Sound:* Rhythmic drip of condensation from slate eaves; the dry rustle of hanging lavender and marsh-mint bundles inside; distant crow calls.
+- *Smell:* Pungent dried rue, boiled wintergreen, sharp turpentine, damp peat.
+- *Touch:* Clammy, freezing parish mist clinging to skin; the cold iron latch of the apothecary door.
+- *Air:* Still, heavy with moisture and old incense from the nearby shrine.
 
-**The scene:** She doesn't wait for players to speak.
+**The Approach:**
+When players push open the creaking door of the cottage, the front counter is abandoned. A mortar and pestle sits half-ground on the counter, still moist.  
+- **DC 12 Perception or Survival:** Notice scuff marks on the floorboards leading behind a heavy hanging drying rack of silver-thistle.  
+- Behind the rack is a concealed cellar trapdoor, cracked open a fingernail's width. Petra is sitting on the steps below with a pruning sickle in her hand, listening to the room above.
 
-> *"I arranged something. She's staying with Marit - she's done it before, she knows what to do. I had her memorize the instructions twice. She knows I'm coming back."*
+When she sees the party (and sees they are not wearing Reckoning armbands):
+She exhales slowly, lowering the sickle.
 
-A breath.
+> *"You aren't Harran's hounds. They were at the inn twenty minutes ago asking for 'the woman who survived the Year of Ash.' I went out the back window."*
 
-> *"I didn't tell her I might not."*
+She climbs back into the apothecary room, brushing cobwebs from her shoulder. Her eyes fix on the party's gear, then on Aldric's iron tokens or the Concordance Stone if visible.
 
-She looks at the cube in her hand. She put it there this morning.
+> *"You came all the way out into the dark for me. Why? The city has nine other names. Varenhold has always been willing to round down."*
 
-> *"I need you to understand: I am not afraid of dying. I've been sitting with that for six months and I know what it is. What I am afraid of is that she will spend the rest of her life thinking the city was more important to me than she was. And those are two different things. And I don't know how to make them not look the same from the outside."*
+**The Encounter Beat:**
+Petra does not respond to civic guilt (*"Varenhold is dying"*)—she watched Varenhold abandon the Dusk Parishes decades ago.  
+What unlocks her is **personal truth and unforced choice**:
 
-**What players can offer:** Not reassurance - she doesn't need reassurance, she needs acknowledgment. If a player says something honest (*"I don't know if those look different from the outside either, but you're here"*) or simply stays with what she said instead of resolving it, she nods.
+1. **Aldric's Token:** If players present the forged iron token Aldric gave them:  
+   She takes the cold iron in both hands, testing the weight with her thumb.  
+   > *"Aldric made this. He tests every weld three times. If he gave you this, he believed you were asking, not drafting."*
+2. **The Secret of Lira's Child:** If players mention Lira Anwick or the Healing House:  
+   Petra's composure breaks slightly. DC 13 Insight reveals she has been sending anonymous coin pouches to Lira for two years via parish couriers.  
+   > *"How is Lira? Did she... did she stay at the clinic, or did they take her to the circle already?"*  
+   When the party explains that Lira is waiting for her own moment of honest consent:  
+   > *"She was always stronger than me. I ran because I thought if I stayed in the city, someone would make the choice for me while I was sleeping."*
+3. **The Inversion Pathway:** If players reveal the Inversion (that unanimous consent allows everyone to survive):  
+   She stares at them in absolute, stunned silence.  
+   > *"Say that again. You're telling me Corven didn't build an altar... he built a bridge?"*
 
-> *"Good. I didn't want to be managed."*
+**The Resolution:**
+She reaches into a hollowed-out timber beam above the hearth and pulls down a small velvet pouch. Inside is **Cube 6 (Stone 6)**. It is cold when she draws it, but as her fingers wrap around it, a faint green-gold luminescence pulses through the crystal facets.
 
-She gives the cube.
+> *"I've kept this buried for twelve years. I thought if I forgot where I put it, the stones would forget me too. Take me back with you. I'm not letting Lira stand in that circle alone."*
 
-> *"Tell me where to stand and I'll be there."*
-
-**If players offer comfort or platitudes:** She is quiet for a moment. Then: *"That's kind. I don't need it."* She still gives the cube - she made her decision before they arrived. But she gives it without the above scene. That scene is the reward for meeting her where she actually is.
-
-**GM note:** The woman inside the window is the person Lira arranged for. Players who ask get: *"Her name is Tevi. She's nine. Her parents died in a Reckoning sweep last winter. She's been here six months."* Lira does not elaborate. She does not need to.
+**Outcome:** Petra gathers her cloak and travels back to the Ashring with the party. Flag: **"Petra: Willing & Present"**.
 
 </details>
 
 ---
 
 <details>
-<summary>📄 Orya Doss - Already Here</summary>
+<summary>📄 Davin Shore - The Veteran's Vigil on the Bastion Wall (Stone 10)</summary>
 
-*Want:* To be at her stone. She has wanted this for years. She has been ready since she understood what the ritual is.
-*Fear:* That someone will stop her for a procedural reason. That the thing she has been building toward will be interrupted by paperwork.
-*Lie:* She doesn't have one. What you see is what there is.
+*Want:* To make one final, meaningful choice as a free man before the choice is stripped from him by age or force.  
+*Fear:* That his death will be wasted on political theater or another failed compromise.  
+*Lie:* *"I'm just an old watchman pulling a cold shift. It doesn't matter what I think."*
 
-*Physical:* Mid-fifties, broad, carries the weathered calm of someone who has been a farmer her whole life and has decided that what grows in difficult soil is not less real for it. She has already done everything she needed to do before coming here. She put things in order. She left her farm in the hands of her nephew. She was at the Ashring at first light, sitting on the base of her Primer Stone, cube in her lap.
+*Physical:* Mid-sixties, grizzled, broad-chested soldier's posture weathered by three decades in chain and boiled leather. Deep laugh lines carved into a face that has seen too many sieges. An unlit clay pipe clenched between his teeth.
 
-**The scene:** Players arrive. She is there. She looks at them.
+**Location:** The East Rampart of the Ashring Quarter—the high stone battlement overlooking the twilight boundary where the city's cobblestones give way to the desolate grey plains.
 
-> *"I've been waiting for an hour. I thought someone would come for these."*
+**Five Senses & Setup:**
+- *Sight:* A long stretch of ancient granite wall. Lanterns hanging every sixty feet, glowing dull amber through thick cloud. Davin leaning against a crenel, his heavy wool cloak pulled tight against the northern draft.
+- *Sound:* The steady scrape of his boot heel against the wall stone; the low, mournful moan of the wind blowing across the outer plains; a faint, persistent high-frequency hum vibrating in the air around him.
+- *Smell:* Bitter pipe leaf, wet wool, gun-oil, cold river mist.
+- *Touch:* Freezing granite parapet; the slight, physical vibration passing through the stone into your boots.
+- *Air:* Biting cold, thinner and cleaner than the smoky lower districts.
 
-She holds up the cube.
+**The Scene:**
+Davin doesn't turn when the party climbs the watchtower steps. He taps his cold pipe against the battlement stone.
 
-> *"I didn't know who to give it to. I didn't want to leave it with the wrong person."*
+> *"Hear that?"*
 
-She places it in the box. That is the scene. That is all of it.
+He points his pipe stem toward his own sternum, then toward the distant, silhouetted monolithic rings of the Ashring below.
 
-**If players have questions:** She answers them. She is not guarded. She is not performing simplicity - this is what fifty years of thinking about this looks like when the thinking is done. She says yes because she is ready and has been ready and is tired of not being asked. *"I said yes at eighteen. I say yes now. Same mouth, same choice."*
+> *"Been hummin' like a struck tuning fork inside my ribs for fourteen months. First I thought it was lung rot from the damp. Then the stones started waking up three days ago, and the hum turned into a drumbeat. I know why you're here. You've got Corven's box."*
 
-**After the cube:** She stays at her stone. She does not move from it for the rest of the session. When the Reckoning arrives in Scene 1, she is still there, hands at her sides, waiting for the signal.
+He turns to face them. His eyes are clear, steady, and utterly without fear.
+
+> *"I've had sixty-four years. Seen three wars, buried two regiments, and watched this city chew through good people like cordwood. If the sun needs ten coals to light the hearth, my coal's ready. I'm not afraid of the fire. But I need to know one thing: is Harran running this, or are you?"*
+
+**The Encounter Beat:**
+Davin is an old soldier. Speeches about "hope" and "destiny" make him spit over the wall. He respects **tactical reality, command accountability, and the truth**.
+
+- **If players explain the Reckoning's plan (forced blood sacrifice):**  
+  > *"Harran's a fool who thinks discipline can substitute for honor. You force a man onto that stone, the stone will choke on him. Corven's notes were clear on that much."*
+- **The Inversion Reveal:** If players explain the Inversion pathway (Ending B: all 11 willing voices invert the loop, returning the sun without death):  
+  Davin freezes. The pipe slips from his calloused fingers, clattering onto the flagstones. For ten seconds, the old soldier does not breathe.  
+  > *"Say that one more time. Slowly. You're telling me... nobody has to die? None of the kids? Not Lira? Not young Tomas?"*  
+  He looks down at his weathered hands. A rough, trembling chuckle breaks out of his chest, growing into genuine, raspy laughter that echoes off the parapet.  
+  > *"Gods above. A soldier spends his whole life learning how to die well, and you come up here at the fifth bell to tell me I have to learn how to live in the sunlight. That's a damn sight harder."*
+
+**The Tactical Advice (GM Boon):**
+He bends down, retrieves his pipe, and points toward the plaza below.
+> *"Listen to me. If Harran's moving, he'll hit from the East Gate where the road widens. He'll send veterans to pin the dais and skirmishers to drag Dawnborn off the perimeter stones. Don't let them split the circle. Keep someone at the dais to anchor the resonance, and put your heaviest fighter between Stone 3 and Stone 5—that's the blind spot where the market stalls bottleneck."*
+
+**The Cube:**
+He unbuckles a brass-bound leather soldier's cartridge case from his belt and opens it. Nestled inside oiled sheepskin is **Cube 10 (Stone 10)**. It hums with deep, resonant vibrations that match the rhythm in his chest.  
+He hands it to the player who spoke to him:
+
+> *"Take it. Put it where it belongs. I'll finish my watch, wash my face, and walk down to Stone 10 before the sixth bell rings. If we're bringing the sun back, I want to be looking right at it when it comes up."*
+
+**Outcome:** Davin surrenders Cube 10. The party gains tactical advantage (+2 to initiative or positioning in Scene 1 Combat). Flag: **"Davin: Committed & Ready"**.
 
 </details>
 
 ---
 
 <details>
-<summary>📄 Nin Fletch - The Crossroads</summary>
+<summary>📄 Lira Anwick - The Healing House Threshold (Stone 5)</summary>
 
-*Want:* To not have to choose between the two directions they can see equally clearly.
-*Fear:* That standing at the crossroads long enough means the choice gets made without them.
-*Lie:* That they are still deciding. They made their choice two weeks ago. What they are doing now is not deciding; it is delaying the moment when the choice becomes real.
+*Want:* To make a decision she can live with, knowing her dependent is safe and will never doubt her love.  
+*Fear:* That her child will spend her life believing the city mattered more to her mother than she did.  
+*Lie:* *"I need more time to prepare the tinctures."* (She has been packed for two days; she is stalling out of terror for her daughter).
 
-*Physical:* Thirties, angular, the kind of face that always looks like it's thinking even when it isn't. Carpenter's hands. Has been in the same coat for three days. They have been at the crossroads between the Lowmark and the Ashring district four times this week, walking from one to the other, turning back.
+*Physical:* Late forties, worn but elegant features, hands stained with crushed comfrey and iodine. Her hair is pinned up with practical brass needles. She wears a thick travelling coat over her apothecary apron.
 
-**Finding them:** DC 10 Investigation or simply heading to the Lowmark-Ashring junction at the right time - Tomas mentioned *"Nin takes time, don't rush them."* Players who wait at the junction for ten minutes will find Nin passing through.
+**Location:** The Lowmark Healing House steps, early morning before the first bells.
 
-**The scene:** Players find Nin at the junction. Nin stops. Looks at the party.
+**Five Senses & Setup:**
+- *Sight:* Pale amber streetlights reflecting in wet gutter slush. Lira sitting alone on the frost-dusted limestone steps outside the clinic door. Through the leaded windowpane behind her, a small nine-year-old girl (Mira / Tevi) is visible sitting beside a warm brazier, reading an illustrated herbal, wrapped in a knitted wool shawl.
+- *Sound:* The quiet hiss of the street lantern burning down; distant iron wagon wheels echoing on cobbles; Lira's steady, rhythmic breathing in the chill air.
+- *Smell:* Boiling elderberry syrup, camphor, fresh carbolic soap, cold rain.
+- *Touch:* The bone-chilling cold of the stone step; the coarse wool of her coat.
+- *Air:* Crisp, still, smelling of imminent winter.
 
-> *"I've been expecting this. Not you specifically."*
+**The Scene:**
+She doesn't stand up when the party approaches. She looks up from her lap, where her hands are clasped tightly around a brass apothecary jar.
 
-A pause.
+> *"She finished breakfast twenty minutes ago. I had her pack her little bag. Marit is taking her out to the river orchards at noon if... if things go the way the Council says they will."*
 
-> *"I've walked past this corner four times this week. I keep turning back. I thought if I waited long enough the right answer would announce itself. It hasn't."*
+She looks at the leaded window, watching the child turn a page.
 
-**The unlock:** Ask directly. Not the stakes, not the ritual, not Varenhold. Just: *"Are you coming?"*
+> *"I am not afraid of pain. I've stitched soldiers torn open by shrapnel and sat with dying children through the fever months. Dying is just the last procedure. What terrifies me is that Mira will grow up thinking I traded her for a sky full of strangers. How do you explain to a nine-year-old that you left her because you loved the world she has to live in?"*
 
-If asked directly and waited for (no check, just silence on the player's end) Nin is quiet for ten seconds. Then:
+**The Encounter Beat:**
+- **If the party returned with Petra Vane or mentions Petra's support:**  
+  If the party tells Lira that Petra came back, or hands her the note Petra wrote in Greenhollow:  
+  Lira stares at the handwriting. Her fingers tremble.  
+  > *"Petra? She came back? She was hiding in the parishes for three weeks... and she came back for this?"*  
+  She presses the parchment to her lips, closing her eyes.  
+  > *"She told me two years ago I was a fool for believing anyone would ever stand with us. She kept sending coin for Mira anyway. That stubborn, beautiful idiot."*
+- **What players can promise:**  
+  She does not want heroic platitudes (*"We'll protect everyone!"*). She wants a **specific, binding promise**: that someone will look after Mira if the ritual takes a toll, and that Mira will be told the absolute truth.  
+  If a player character looks her in the eye and gives their personal word:  
+  Lira exhales a breath she seems to have held for months. The tightness around her mouth softens into something fierce and resolute.
 
-> *"Yes. I've known the answer for two weeks. I just needed to say it to someone who wasn't me."*
+> *"Good. Hold to that. If I hear from the other side that you let her go hungry, I will find a way back through the veil just to haunt your boots."*
 
-They reach into their coat for the cube. They have been carrying it for two weeks too.
+**The Cube:**
+She unscrews the brass jar. Inside, cushioned in raw dried chamomile blossoms, is **Cube 5 (Stone 5)**. The stone glows with a warm, steady amber pulse.  
+She places it into the party's hands:
 
-**If players try to persuade or sell the mission:** Nin puts a hand up.
+> *"Tell Aldric to make sure my stone's clean. I'll walk down to the plaza as soon as I tuck her in with Marit. I'll be there."*
 
-> *"Don't. I know what it is. I've known for a long time. That's not the problem. The problem is that knowing something and doing it are two different acts and I've been stuck between them. You're not going to get me unstuck by explaining the stakes."*
+**Outcome:** Cube 5 is collected. Flag: **"Lira: Resolved & Peaceful"**.
 
-Wait. Or ask the simple question. One or the other.
+</details>
 
-**After the cube:** Nin walks to the Ashring with the party. On the way: *"I've been ready for two weeks and I spent two weeks not telling anyone. That's going to seem very stupid later."*
+---
+
+<details>
+<summary>📄 Cormac Drell - The Dawnhall Back Room (Stone 4)</summary>
+
+*Want:* To be certain his consent is honest and not just momentum, fear, or civic guilt.  
+*Fear:* That if he examines his reasons, they will break, and he will prove to be a coward.  
+*Lie:* *"I've been ready for nine weeks. I just needed some tea before heading down."*
+
+*Physical:* Mid-fifties, heavy-set cabinetmaker with broad, scarred hands. Sitting at a plain pine table in the dim back room of the Dawnhall, hands flat on the wood, an untouched cup of cold tea beside him. He holds himself with the rigid stillness of someone trying not to shake.
+
+**Location:** Dawnhall back room, Ashring Quarter (five minutes' walk from the circle).
+
+**Five Senses & Setup:**
+- *Sight:* The rarely-used Dawnhall back room. One amber oil lamp guttering low on the table. Cormac sitting motionless, staring at his palms.
+- *Sound:* The distant clatter of pots in the kitchen two rooms over; inside the room, dead silence.
+- *Smell:* Cold bergamot tea, seasoned oak shavings, damp wool.
+- *Touch:* The door latch is freezing iron; the room itself is close and warm.
+- *Air:* Thick, heavy with the quiet of a man who has been sitting alone since before dawn.
+
+**The Approach:**
+Before the ritual assembly, nine stones are responsive, but Stone 4 remains cold. Ysel Maren points toward the Dawnhall: *"I know where he is. I was waiting to see if someone else would go first."*
+
+When players enter, Cormac looks up from the table. He doesn't apologize:
+
+> *"I know. I told Edoran yes nine weeks ago and I meant it. And then it kept not being over, and I kept not examining it because examining it might break it. And then it was last night, and I examined it. The answer is still yes. I think. I'm not sure I know how to trust that it's yes for the right reason anymore."*
+
+**The Encounter Beat:**
+Cormac does not need pressure, stakes, or speeches about the city.
+- **If players push urgency, civic duty, or logistics:** He lays his hands flat back on the wood.  
+  > *"I've been sitting here since before dawn. Urgency isn't the thing I'm missing."*
+- **What resolves Cormac:** Simple presence and an unforced question without agenda:  
+  *"Why do you want to?"*  
+  He sits in long silence. Then:  
+  > *"Because I said I would. And because the people who need me to have been patient long enough."*  
+  He stands. *"I need you to walk to the stones with me. If I go alone, I'll stop."*
+
+**The Resolution & Cube:**
+He unbuttons his vest and draws out **Cube 4 (Stone 4)**. As his thumb touches the face, a warm gold pulse runs through the crystal facets.  
+He hands it over:
+
+> *"Take it. Put it in the box. I'm coming with you."*
+
+**Outcome:** Cube 4 collected. Cormac walks to the Ashring with the party. Flag: **"Cormac: Reaffirmed & Grounded"**.
+
+</details>
+
+---
+
+<details>
+<summary>📄 Seating the Cubes - The Projection of the Dawn Bird</summary>
+
+*Once all required cubes are gathered (Aldric, Tomas, Sera, Ysel, Cormac, Orya, Nin, Petra, Davin, Lira), the party holds the complete set of resonance vessels for Corven's Concordance Stone.*
+
+**The Assembly on the Dais:**
+The party brings the octagonal stone vessel to the central dais of the Ashring. Eight open sockets ring the rim. Each socket is carved with an archaic constellation glyph from the night of the First Ritual fifty years ago.
+
+**The Mechanical Order (Brightest to Dimmest / FREEWILL Acrostic):**
+As decoded with Tomas Areth in Session 4:
+1. **F** - *Fulgur* (Slot 1 - Sera Voss)
+2. **R** - *Radix* (Slot 2 - Tomas Areth)
+3. **E** - *Equus* (Slot 3 - Cormac Drell)
+4. **E** - *Electrum* (Slot 4 - Ysel Maren)
+5. **W** - *Warden* (Slot 5 - Lira Anwick)
+6. **I** - *Ignis* (Slot 6 - Petra Vane)
+7. **L** - *Limen* (Slot 7 - Nin Fletch)
+8. **L** - *Lux* (Slot 8 / Stone 9 & 10 - Aldric Stone & Davin Shore)
+
+**The Sensory Transformation:**
+- As each cube clicks home into its spring-loaded housing, an internal mechanism of counterweights and amber gears engages with a sharp, heavy *CHUCK*.
+- With 4 cubes seated: The vessel begins to vibrate, humming a low harmonic chord that vibrates in the teeth.
+- With 7 cubes seated: The octagonal stone grows searingly warm to the touch—not burning, but like a river stone baked in a summer sun that the city hasn't seen in half a century.
+- **When the 8th cube locks into place:**  
+  A blinding needle of white-gold light shoots upward from the aperture at the top of the vessel. The light catches the low morning overcast and projects an enormous, breathtaking silhouette across the sky above Varenhold: **Corven's Dawn Bird**—wings spread wide, carrying the morning on its feathers.
+
+**The Plaza Reacts:**
+Every person across the Ashring plaza looks up. In the crowd, gasps and whispers break out. Across the circle, every Primer Stone begins to thrum in sympathetic resonance, a golden aura rising six inches from the ancient granite.
+
+*And from the eastern approach road, the sound of marching iron boots begins.*  
+**The Reckoning has arrived.**
 
 </details>
 
@@ -435,83 +508,117 @@ This is the crack in the Voice's certainty. Players who press here (DC 14 Persua
 </details>
 
 <details>
-<summary>📁 Puzzle - Corven's Activation Sequence</summary>
-
-*Before the ritual can begin, the circle must be activated in the correct order. The Concordance Stone projects the dawn bird - that is the assembly signal. But the Dawnborn must step onto their stones in the precise sequence Corven designed, with no more than 6 seconds between each activation. Wrong order: the energy misfires and the circle goes cold. It can be reset, but it costs 10 minutes and the Reckoning is already forming across the plaza.*
-
-**The puzzle:** Decode the correct activation sequence from three sources the party has accumulated:
-
-1. **Corven's notation on the Stone itself** - eight positions marked with constellation symbols, not names. Arcana DC 12 identifies the symbols as stellar positions from the ritual night sky.
-2. **The inversion circle diagram** - retrieved from the Spire in Session 3. A marginal note reads *"6 seconds."* A second note, smaller: *"IX last. Always last."* IX is Ellan's position. And Ixa's.
-3. **Tomas Areth's memorized sequence** - Tomas has had this memorized for forty years. If asked, he recites it in under ten seconds. He has been waiting for someone to ask. His fear (stated in the NPC table) is that his memorized sequence has a flaw; players can reassure him by cross-referencing all three sources and confirming they match.
-
-**Solving it:** Cross-reference any two sources: Investigation DC 13, one hour in-world, or 10 minutes with Tomas helping. Cross-reference all three: automatic success, Tomas's fear resolved, he steps to his stone without hesitation.
-
-**If they fail or skip it:** The sequence is wrong. First activation misfires (no damage, but the stones go cold and Harran's forces are already in the plaza). Reset is DC 15 Arcana as a full action while combat is happening.
-
-**What the sequence reveals:** IX is last. The eleventh stone (Ixa's) activates only when the other ten are already lit. She does not step in first. She steps in when everyone else has already chosen. That is the design. Corven built it that way. He did not know why. He just knew the geometry required it.
-
-</details>
-
-<details>
 <summary>📁 Scene 1 - Combat: The Last Stand</summary>
 
 <details>
 <summary>📄 Five Senses, Setup & Objectives</summary>
 
-**Five senses:** Ozone, sharp and electrical - the Primer Stones have been building charge since dawn. Stone underfoot, still faintly warm from last night. The sound of the Reckoning in formation across the plaza, boots on flagstone, nothing else. Amber light on every post, the same amber it has always been. No wind.
+**Setup:** The Ashring at first light. The Dawn Bird has summoned the city and the Dawnborn to the plaza. Across the 40-foot circle, the Primer Stones hum with building charge. The Reckoning (or whoever the players didn't neutralize in Session 4) advances in disciplined formation from the East Approach Road to shatter the circle before the ritual can begin.
 
-**Setup:** The Ashring at first light. Six or seven Dawnborn are already at their stones. The others are approaching across the plaza. The Reckoning (or whoever the players didn't neutralize in Session 4) has been waiting. They move when the first stone begins to glow.
+**Five Senses:**
+- *Sight:* Heavy dawn fog illuminated by amber street posts. Reckoning veterans advancing behind tower shields in two wedges. The Primer Stones glowing faint gold.
+- *Sound:* Iron greaves striking flagstones; shouts echoing off plaza walls; the deep, resonant drone of the stones waking up.
+- *Smell:* Sharp ozone and mineral dust; wet steel and oiled armor.
+- *Touch:* Flagstones vibrating beneath boots; sudden drafts of cold air stirring the banners.
+- *Air:* Charged and electric, like the seconds before a summer thunderstorm.
 
-**State all three secondary objectives before initiative is rolled.**
+**State all three secondary objectives before initiative is rolled:**
 
 **Secondary Objectives:**
-
-1. Keep Dawnborn at their Primer Stones. Reckoning soldiers will attempt to pull or push them away. Each Dawnborn displaced from their stone must be persuaded to return - DC 14 Persuasion, one action. Every action spent here is an action not spent on the fight.
-2. Protect the center dais. If it takes 75 or more damage, the activation inscription cracks. Inversion still possible, but requires a DC 18 Arcana check from whoever calls the signal instead of activating automatically.
-3. Decide how the signal reaches all eleven positions. The circle is 40 feet in diameter. Shouting works - if everyone is ready and the plaza is quiet enough. If it isn't, DC 14 Performance to be heard. Players should have a plan before combat ends.
-
-</details>
-
-<details>
-<summary>📄 Enemies & Tactics</summary>
-
-**Enemies (default - adjust based on Session 4 outcomes):**
-
-- Reckoning Veterans: 4–8 (use 8 if Harran was not captured; reduce to 4 if he was). MM Veteran stat block. They are not here to kill - they are here to interrupt. They prioritize Dawnborn positions over player characters.
-- Solennite Blades: 0–2 (include only if Keseph was not fully exposed in Session 4). Use Spy stat block. They move for the dais.
-- Senna Kard (optional - include only if not de-escalated in Session 4): Bandit Captain stat block. She is not trying to stop the ritual. She is trying to stop *any* ritual, because she has stopped trusting that any version of this ends well. She can be talked down mid-combat with DC 15 Persuasion if a player invokes her stated fear directly.
-
-**Combat ends when:** The Reckoning lieutenant (or Senna) is downed or captured, and remaining soldiers fail a DC 13 Wisdom saving throw - on a failure, they disengage and withdraw. On a success, they fight one more round, then reassess.
-
-**What players learn:** Who is still at their stone. Who isn't. The shape of what the ritual moment will look like.
-
-**Tactical notes:**
-- The Ashring stones at 40-foot spacing create natural cover positions (half cover behind each stone). Dawnborn at their stones cannot move to cover without abandoning position.
-- Reckoning soldiers prioritize Dawnborn closest to unlit stones; they are creating gaps in the circle, not winning a fight.
-- The dais is the fixed point. Treat it as a 75 HP object, AC 15. Any player on or adjacent can interpose for one incoming attack as a reaction. It takes deliberate sustained focus to crack, one soldier for one round won't do it; three veterans dedicated for a full round will.
-- Signal problem is live from round 1: the circle is 40 feet across. Players who don't plan the signal during combat will scramble for it after.
+1. **Hold the Perimeter Stones:** Reckoning soldiers attempt to pull Dawnborn from their positions (*Disrupt the Circle*). Each displaced Dawnborn must be guided back (DC 14 Persuasion, 1 action).
+2. **Defend the Central Dais:** The dais is AC 15, 75 HP. If it takes 75+ damage from focused strikes, the activation inscription cracks (requires DC 18 Arcana on activation instead of automatic).
+3. **Establish the Circle Signal:** The circle is 40 ft across. Players must agree on how the activation signal reaches all 11 positions through battle noise (horn, spell, or DC 14 Performance shout).
 
 </details>
 
 <details>
-<summary>📄 Senna Kard - Reckoning Lieutenant</summary>
+<summary>📄 Enemies & Tactical Phases</summary>
 
-*(Include only if not de-escalated in Session 4)*
+**Enemies Present:**
+- **Reckoning Veterans (4–8):** Use 8 if Harran is active; 4 if his cell was disrupted in Session 4.
+- **Lieutenant Senna Kard (1):** Command officer on the field. Can be talked down (DC 15 Persuasion).
+- **Solennite Blade Infiltrators (0–2):** Present only if Keseph Vyne's contract was unrecovered in Session 4. They strike straight for the dais.
 
-*Want:* This to end without more death.
-*Fear:* That her caution is just cowardice with a better name.
-*Lie:* She doesn't care which ending happens; she cares about this specific one.
+**Tactical Phases:**
+- *Round 1 (Formation):* Veterans advance behind tower shields in two wedges. Senna stays 20 ft back, shouting orders to drag Dawnborn rather than kill.
+- *Round 2 (Breaching):* Veterans use *Disrupt the Circle* to push Dawnborn from Stones 3 and 5. Blades (if present) Shadow Slip to the dais to hammer at the inscription.
+- *Round 3 (Moral Breaking Point):* If Senna is targeted or addressed directly with her core fear (*"You're killing the city to save your pride"*), she wavers. A DC 15 Persuasion check causes her to call a halt.
 
-*Physical:* Thirties, compact. Doesn't wear rank insignia. Players who fought alongside her or against her in Session 4 Scene 5 will recognise her immediately. Players who didn't will need to read her - she's the one who isn't Harran and isn't running on conviction.
+**Combat End:** Combat ends when Senna is downed or persuaded to stand down, or when half the Veterans fall and the remainder fail a DC 13 Wisdom save and retreat.
 
-She is not Harran. She does not believe in the mission the way he does. She has been following him for two years and spent the last two months watching him change in ways she finds frightening.
+</details>
 
-Mid-combat de-escalation: DC 15 Persuasion, invoking her stated fear directly (*"The circle is complete - stopping it now just kills people for nothing"*). On success: she stops fighting and orders the soldiers nearest her to stand down. This triggers the Wisdom save for the others.
+<details>
+<summary>📄 Combat Cards - Reckoning Veterans & Solennite Blades</summary>
 
-She does not speak to Harran during the combat. She knows better.
+**RECKONING VETERAN** *(×4 to 8)*  
+*Medium humanoid (human), lawful neutral*  
+Hardened soldiers of Varenhold's garrison who believe the only way to save the city is to force the ritual through iron discipline.
 
-Voice: Quiet, careful. Fewer words than Harran. Means them more.
+**AC** 17 (splint mail) · **HP** 58 (9d8+18) · **Speed** 30 ft.  
+**STR** 16 (+3) · **DEX** 13 (+1) · **CON** 14 (+2) · **INT** 10 (+0) · **WIS** 11 (+0) · **CHA** 10 (+0)  
+**Skills** Athletics +5, Perception +2 · **Senses** Passive Perception 12 · **Languages** Common · **CR** 3 (700 XP)
+
+**TRAITS**  
+***Disrupt the Circle.*** When adjacent to a Dawnborn, the Veteran can use a bonus action to attempt an Athletics check (contested by the Dawnborn's Str/Dex save, DC 13) to drag or shove that Dawnborn up to 10 ft away from their Primer Stone.  
+***Shield Wall.*** The Veteran gains +1 AC (included above) for each allied soldier wielding a shield within 5 ft (maximum +2).
+
+**ACTIONS**  
+***Multiattack.*** The Veteran makes two Longsword attacks or two Heavy Crossbow attacks.  
+***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft. *Hit:* 8 (1d8+4) slashing damage, or 9 (1d10+4) versatile. *A heavy, professional military chop aimed to batter down guard.*  
+***Heavy Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 100/400 ft. *Hit:* 6 (1d10+1) piercing damage.
+
+**REACTIONS**  
+***Interpose Shield.*** When an adjacent ally is targeted by an attack, the Veteran can impose disadvantage on the attack roll.
+
+---
+
+**SOLENNITE BLADE INFILTRATOR** *(×0 to 2)*  
+*Medium humanoid (half-elf), neutral evil*  
+Keseph Vyne's covert mercenaries tasked with sabotaging the ritual structure so the amber trade remains monopolized.
+
+**AC** 15 (studded leather) · **HP** 44 (8d8+8) · **Speed** 35 ft.  
+**STR** 11 (+0) · **DEX** 16 (+3) · **CON** 12 (+1) · **INT** 12 (+1) · **WIS** 10 (+0) · **CHA** 12 (+1)  
+**Skills** Stealth +7, Acrobatics +5 · **Senses** Darkvision 60 ft., Passive Perception 12 · **Languages** Common, Elvish · **CR** 2 (450 XP)
+
+**TRAITS**  
+***Cunning Action.*** On each of its turns, the Blade can use a bonus action to Dash, Disengage, or Hide.  
+***Saboteur's Precision.*** Weapon attacks deal an extra 7 (2d6) damage against inanimate ritual objects (such as the dais stone).  
+***Sneak Attack (1/Turn).*** Deals an extra 7 (2d6) damage to a creature it hits with a weapon attack if it has advantage on the attack roll or an ally is within 5 ft.
+
+**ACTIONS**  
+***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft. *Hit:* 6 (1d6+3) piercing damage + 3 (1d6) poison damage.
+
+</details>
+
+<details>
+<summary>📄 Lieutenant Senna Kard - Field Commander</summary>
+
+**LIEUTENANT SENNA KARD**  
+*Medium humanoid (human), neutral good (conflicted)*  
+Second-in-command of the Reckoning. Exhausted, grief-stricken, and terrified that her loyalty has turned into slaughter.
+
+**AC** 16 (studded leather + buckler) · **HP** 78 (12d8+24) · **Speed** 30 ft.  
+**STR** 14 (+2) · **DEX** 16 (+3) · **CON** 14 (+2) · **INT** 12 (+1) · **WIS** 14 (+2) · **CHA** 15 (+2)  
+**Saving Throws** Dex +5, Wis +4 · **Skills** Insight +5, Persuasion +4, Perception +4  
+**Senses** Passive Perception 14 · **Languages** Common · **CR** 5 (1,800 XP)
+
+**TRAITS**  
+***Hesitant Blade.*** Senna does not want to slaughter civilians or Dawnborn. She fights defensively. If a player character spends their action speaking to her about the cost of this fight or her stated fear, she suffers disadvantage on all attack rolls until the start of her next turn.  
+***Rally the Guard (Recharge 5–6).*** As a bonus action, Senna shouts an order. Up to three allied soldiers within 30 ft gain 10 temporary hit points and can move up to 15 ft without provoking opportunity attacks.
+
+**ACTIONS**  
+***Multiattack.*** Senna makes three Officer's Sabre attacks.  
+***Officer's Sabre.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft. *Hit:* 7 (1d8+3) slashing damage. If the target is a Dawnborn, Senna chooses to deal non-lethal damage.  
+***Order: Stand Down (1/Battle, Trigger: Talked Down).*** When a player succeeds on a DC 15 Persuasion check addressing her fear of meaningless slaughter, Senna drops her weapon and shouts: *"Hold your steel! Form ranks and hold! We are not butchers!"* All remaining Veterans cease offensive actions and take the Dodge action.
+
+**REACTIONS**  
+***Parry.*** Senna adds 3 to her AC against one melee attack that would hit her.
+
+**Sample Dialogue:**
+- *Opening:* *"Step back from the stones! You don't know what you're turning loose!"*
+- *When pressed:* *"Harran gave twenty years to this wall. If we let this circle fail, there is no wall left!"*
+- *When broken:* *"Gods forgive us... I never wanted anyone to burn."*
 
 </details>
 
@@ -546,27 +653,39 @@ The letter is in Corven's handwriting. Below the blank: *No one should be forced
 </details>
 
 <details>
-<summary>📁 Scene 3 - Puzzle: The Inversion Circle</summary>
+<summary>📁 Scene 3 - Puzzle: The Inversion Circle (Corven's Activation Cadence)</summary>
 
-**Setup:** The Ashring, eleven Primer Stones arranged in a ring, the center dais at the middle. This is not a puzzle about magic. It is a logistics problem built entirely out of relationships. Players must get all eleven Dawnborn to their stones simultaneously, genuinely willing, and hold them there long enough for the signal to reach every position.
+**Setup:** The combat from Scene 1 has concluded. Senna's detachment has stood down or retreated; the Ashring plaza has fallen into a tense, breathless quiet. Across the 40-foot circle, all eleven Dawnborn stand at their Primer Stones. The activating word from Corven's Letter has been chosen in Scene 2. But the stones cannot simply be triggered at once—they must be brought into harmonic resonance in Corven's exact astronomical sequence.
 
-**The Puzzle:** Three positions have complications. These cannot be resolved with an Arcana check. They can only be resolved through conversation.
+**The Puzzle - The Activation Cadence:**
+The party must coordinate the stepping order across the 40-foot circle. If Dawnborn step out of sequence, or if more than 6 seconds elapse between steps, the resonance loop collapses and the stones go cold (requiring a DC 15 Arcana check as an action to realign the current).
 
-**Cormac's stone:** If players engaged with him in Session 4 and his stone is lit, no action needed - he is there. If his stone is dim (players did not engage), Cormac is present but not at his stone. He needs to be asked, directly, by someone who asked him before - not by Edoran, not by the Chancellor, not by someone with an agenda. He needs to hear a genuine question. One player, one conversation, no check. He either says yes or he doesn't. If no player engaged with him across Sessions 3–4, his stone stays cold. The circle has a gap.
+**Decoding the Sequence:**
+The players cross-reference the three clues gathered across the campaign:
+1. **The Constellation Glyphs on the Dais Rim:** Arcana DC 12 identifies the glyphs as the stellar coordinates from the First Ritual night fifty years ago, ordered by visual magnitude (brightest to dimmest).
+2. **The Spire Inversion Diagram (Session 3):** Marginal note in Corven's hand: *"Cadence: 6 seconds. IX last. Always last."*
+3. **Tomas Areth's Memorized Order:** Tomas has kept this sequence in his head for forty years. His personal fear is that his memory might fail under pressure.
+   - *Resolution:* If a player takes 10 minutes (or DC 13 Investigation) to walk Tomas through the dais runes and verify his sequence, Tomas exhales in relief: *"It's right. Every word of it is right."* Tomas steps to Stone 2 without hesitation.
 
-**Lira's position:** Empty. She did not come to the Ashring. She is at the Healing House. Someone must go to her - not to convince her, not to explain the stakes, not to tell her what the city needs. Ask her one more time. The question must be a question, not an argument. If players go: she comes. She does not explain why. If players do not go: her stone stays cold. Ending B becomes unavailable.
+**The Execution (The Cadence):**
+The sequence proceeds in astronomical order:
+1. **Sera Voss (Stone 1):** Takes her position; the stone beneath her glows pale amber.
+2. **Tomas Areth (Stone 2):** Steps on within 6 seconds. The two stones link with a visible ribbon of golden light along the flagstones.
+3. **Cormac Drell (Stone 4):** Steps on. The golden line extends across the eastern arc.
+4. **Ysel Maren (Stone 3):** Steps on, hands open and relaxed.
+5. **Lira Anwick (Stone 5):** Steps on, resolved and steady.
+6. **Petra Vane (Stone 6):** Steps on; emerald-gold light rises around her boots.
+7. **Nin Fletch (Stone 7):** Steps on, nodding to the party.
+8. **Orya Doss (Stone 8):** Steps on, setting her boots firm on the granite.
+9. **Aldric Stone (Stone 9) & Davin Shore (Stone 10):** Step on in unison; the southern arc catches fire with deep amber radiance.
+10. **Ellan Voss (Stone IX):** Steps on as the tenth element. The ring blazes white-gold. Fifty years of trapped dawn finds its balance.
+11. **Ixa (Stone 11 / The Warm Hollow):** The final, uncarved stone. It remains dark until the montage and the party's personal ask in Scene 4.
 
-**Petra's position:** She arrived at dawn and is standing near her stone but has not stepped onto it. She has not spoken to anyone. She will speak if spoken to. No check. One player walks over and says something. She nods and steps onto the stone.
+**Complications & Holding the Ring:**
+- *Shaken Nerves:* If any Dawnborn was shoved or targeted during Scene 1 combat, a player must use a Help or Persuasion action (DC 10) to steady them as their count approaches.
+- *Sound Across the Plaza:* The circle is 40 feet across. A player on the dais can call the cadence cleanly with a clear voice (DC 12 Performance if calling over crowd murmurs, automatic if using a horn, thunderclap, or message spell).
 
-**Ixa's stone:** See The Ritual Moment. Her stone is the 11th - it does not work the same way as the others. No amount of logistics or persuasion activates it. Only the right moment does.
-
-**Solution:** Conversations with Cormac, Lira, and Petra. In that order or simultaneously if players split up.
-
-**Partial success (8–10 Dawnborn at their stones, Ixa's stone cold):** The willing complete the ritual together without the 11th element. This produces Ending A (Willing Sacrifice) the Dawnborn releasing what they carry. The sun rises. Some are gone.
-
-**Full success (all eleven):** The Inversion activates. Ending B. The sun returns. No one dies. Ixa's stone is the last to light.
-
-**Failure (players allow Reckoning or other antagonists to position unwilling Dawnborn):** The cooperative resonance breaks the moment it begins. Cascade. Ending E.
+**Outcome:** All ten perimeter stones lock into continuous golden resonance. The circle hums like an enormous church bell. The Dawnborn stand bathed in light, ready for their Declarations.
 
 </details>
 
@@ -601,47 +720,20 @@ The letter is in Corven's handwriting. Below the blank: *No one should be forced
 
 **The Encounter Beat - the montage:**
 
-Sera: She doesn't say anything to the players specifically. She says to the circle: "I've known since the beginning. I've been ready." She's been ready since before Session 1. This isn't a revelation. It's a statement of fact.
-
-Tomas: He doesn't speak. He sets his notebook on the stone - the one he's been writing in across five sessions. That's his declaration. If a player picks it up, the last entry is a single sentence: *"I chose this."*
-
-Ysel: She looks at whoever asked her genuinely - not under pressure, not as part of an argument, but actually asked her. "I needed someone to ask me. Not Edoran. Someone who didn't have a reason to need the answer." If no player asked her that way, she looks at the stone instead.
-
-Cormac (if his stone is lit): "I changed my mind once. This is me changing it back." He means it differently this time. Players who spent time with him can hear the difference.
-
-Cormac (if his stone is cold): He is not there. His position is an absence.
-
-Lira (if players went to get her): She came. She is standing at her stone. She doesn't speak to the players. She speaks to the stone: *"Mira will be okay."* She doesn't explain who she's convincing.
-
-*(Mira is Lira's daughter - nine years old, currently staying with a neighbor in the Healing House district. Players who fetched Lira in Scene 3 may have seen the child: quiet, reading near the window, didn't look up. Mira is why Lira hesitated across Sessions 3 and 4. She is not the reason Lira came today. Both things are true, and Lira knows both things are true, and she says it to the stone anyway.)*
-
-Lira (if players did not go): Her stone is cold. Sera knows. She doesn't say so.
-
-Petra: She nods.
-
-The others:
-
-**Aldric Stone:** Sets his palm flat on his stone and holds it there. Does not speak. The stone warms immediately - faster and brighter than any other. Players who watched the activation sequence in Session 4 will notice the difference; players who didn't will still feel it in the air. He looks relieved - not at the ending, but at finally being useful for something that matters. His amber-gold eyes catch the glow from the stone and hold it. He does not look strange in this light. He looks, for the first time, completely right.
-
-**Orya Doss:** A cartographer by trade; she marks things. She takes out a charcoal stick and makes a small glyph on the stone's face - the mark she uses for "confirmed location." She does not explain it. She steps on.
-
-**Cori:** Grips her stone with both hands, looks at the sky, exhales once. Nods to herself.
-
-**Sorel** *(one of the seven Dawnborn who gave consent early and have not wavered - quiet, practical, the kind of person who shows up before being asked):* She has been at her stone for twenty minutes. She is waiting for everyone else to catch up.
-
-**Ellan:** She steps onto her stone. Not dramatically. She has been waiting fifty years to do this freely. She does not make it large. She just steps on. If a player is watching her face: it is the expression of someone who finally said a word they have been holding in their chest for a very long time, the word she couldn't say the first time because she was carrying someone else inside her, and that someone else is now standing six feet away at a stone of her own.
-
-Players who were in the room with Ellan during Session 4 will understand what they are seeing. Players who weren't will still feel the weight of it. The stone under Ellan's feet glows.
-
-**Ixa:** She is standing at the 11th stone. Not on it. Her hands at her sides, warm the way they always are. She has been warm her whole life and she has always known it was not ordinary and she has spent the last three months understanding why.
-
-She is watching the others. She watched Ellan step on, and something crossed her face that she didn't hide. She is not hiding anything anymore. She has not hidden anything since Edoran told her the truth.
-
-She has made her choice. She is here because she decided to come, not because anyone summoned her. What she is waiting for is not permission and not an argument and not the stakes. She knows the stakes. She has known them for three months. She has sat with them in the dark and turned them over and found that she still wants to do this.
-
-What she is waiting for is one real thing from outside herself.
-
-Her stone is cold. Her hands are warm. She is looking at the party.
+- **Sera Voss (Stone 1):** She doesn't address the crowd or the players. She speaks to the stone circle itself: *"I've known since the first bell. I've been ready."* She's been organizing this logistics web for twenty years. This isn't a speech; it is a seal on a ledger finally balanced. The stone beneath her blazes gold.
+- **Tomas Areth (Stone 2):** He does not speak. He takes the dense, dog-eared notebook he has carried across forty years, lays it flat on the stone's carved ledge, and weights it with his ink-pot. If a player looks at the open page, the last entry is written in steady ink: *"I chose this."*
+- **Ysel Maren (Stone 3):** She catches the eye of whichever player took the time to ask how *she* was doing when everyone else was managing crises. A serene, quiet smile touches her lips: *"I needed someone to ask. Not Edoran. Someone who didn't need the answer to save themselves."* Her hands rest on the granite; it glows with deep amber warmth.
+- **Cormac Drell (Stone 4):** *(If his consent was renewed)* He stands broad-shouldered, hands open at his sides. He looks over at the party: *"I set a cup down in an alley because I was terrified of my own reasons. This is me picking it back up."* His stone catches fire with gold light. *(If unresolved, his stone remains dark and cold).*
+- **Lira Anwick (Stone 5):** She steps onto the stone, her apothecary apron tucked under her travelling cloak. She doesn't look at the sky; she looks south toward the Lowmark where Mira is safe: *"She will grow up in a world with a morning."* She touches the stone, and it hums with fierce, protective radiance.
+- **Petra Vane (Stone 6):** Returned from Greenhollow, smelling of dried mint and wet heather. She looks across the circle directly at Lira. A twenty-year estrangement dissolves in a single, resolute nod between two women who refused to let each other burn alone. Her stone flares emerald-gold.
+- **Nin Fletch (Stone 7):** Carpenter's hands resting easily on the stone rim. No longer pacing the Lowmark crossroads: *"I spent two weeks waiting for someone to push me. Turns out I just needed someone to stand with me while I decided."* The stone ignites warm.
+- **Orya Doss (Stone 8):** Broad, patient farmer from the northern fields. She draws a fresh piece of charcoal from her pocket, draws a crisp surveyor's circle on the face of the stone—her mark for *'True Landmark'*. *"Same mouth. Same choice."* She steps on; the stone answers with a deep resonance.
+- **Aldric Stone (Stone 9):** Broad blacksmith, palms flat on the granite face. His glowing amber eyes reflect the stone's inner fire. He doesn't say a word, but the heat radiating from his position warms everyone within twenty feet. He looks relieved—the long wait for an honest weld is over.
+- **Davin Shore (Stone 10):** The grizzled night watchman stands at military attention in his wool guard's cloak. He looks straight into the dark eastern clouds where the sun should be, unbuttons his collar, and taps his chest: *"Told you I'd be looking right at it when it came."* Stone 10 hums like a low church bell.
+- **Ellan Voss (Stone IX):** Fifty years after walking away from Corven's circle to protect the life in her womb, she walks into the center of the arc and steps onto Stone IX. No hesitation. No ceremony. She looks across the six-foot gap directly at Ixa:
+  > *"I stepped away once because you needed a voice. I am done stepping away."*
+  The stone under her feet blazes white-gold. Fifty years of trapped twilight suddenly find their true counterweight.
+- **Ixa (Stone 11 / The Warm Hollow):** She is standing at the 11th stone—the uncarved hollow in the dais floor that has stayed warm for half a century. Her hands are at her sides, warm as summer sun. She carries the Crucible's ash-tattoos on her neck and shoulder. She is watching the party. She does not need an argument. She has had three months to make peace with what she is. She is waiting for the party to see *her*.
 
 *This is the moment the montage opens into. Give the table silence. Do not rush it.*
 
@@ -704,20 +796,54 @@ This is her giving the party the opportunity the player has been building toward
 <details>
 <summary>📁 Scene 5 - Combat: Hold the Dais</summary>
 
-**Setup:** One last push. Harran Lecht (or whoever remains of the antagonist forces) makes a final attempt not to stop the ritual but to control it. He believes he is saving the city. He is going to try to position an unwilling Dawnborn at a cold stone. He believes the city's survival justifies it. He is wrong in a way that the campaign has been arguing against for five sessions.
+**Setup:** One last push. Commander Harran Lecht arrives through the smoke of the eastern approach with four loyal veterans. He does not come to negotiate. He has watched forty years of city life bleed away under twilight, and he believes with fanatical certainty that if the Dawnborn do not burn today, Varenhold falls tomorrow. He is moving to seize the central dais and force the activation before all stones can be secured.
 
-**Secondary Objective:** Hold the center dais for three rounds while the Dawnborn move to and hold their positions. Any player who uses their action on the dais (Dodge, Shield, Help action for a Dawnborn moving to position) grants advantage on that Dawnborn's next saving throw or movement.
+**Secondary Objective:** Hold the center dais for three rounds while the Dawnborn take their positions. Any player who uses their action on the dais (Dodge, Shield, Help action for a moving Dawnborn) grants that Dawnborn advantage on saving throws and immunity to forced movement until the player's next turn.
 
-**Enemies:**
+**Combat End:** Three rounds elapse and all eleven positions are occupied, OR Commander Harran Lecht is reduced to 0 HP. The moment Harran falls, his remaining soldiers drop their weapons.
 
-- Harran Lecht: Use Bandit Captain stat block, +2 to all attack rolls (bloodied - desperation, not strategy). He has been running on conviction and exhaustion since Session 4 - when he named Maren Drel and walked away anyway. He goes down fast. The point is not the fight. The point is what he says when he goes down.
-- Reckoning holdouts: 4x Veteran. They stop fighting when Harran does.
+<details>
+<summary>📄 Combat Card - Commander Harran Lecht</summary>
 
-**Combat ends when:** Three rounds have passed and positions are set, OR when Harran is downed or captured. Whichever comes first.
+**COMMANDER HARRAN LECHT**  
+*Medium humanoid (human), lawful neutral (tragic fanatic)*  
+Lord Commander of the Reckoning. A war-weary man hollowed out by duty, moving on pure adrenaline, grief, and unbroken stubbornness.
 
-When Harran goes down (non-lethally, by default) he looks at the circle from the ground. If all eleven stones are lit: he says nothing. He closes his eyes. If stones are dark: "I was trying to fix it." He is not asking for absolution. He is explaining. There is a difference.
+**AC** 17 (scarred half-plate) · **HP** 102 (12d8+48) · **Speed** 30 ft.  
+**STR** 18 (+4) · **DEX** 12 (+1) · **CON** 18 (+4) · **INT** 12 (+1) · **WIS** 10 (+0) · **CHA** 16 (+3)  
+**Saving Throws** Str +7, Con +7, Wis +3 · **Skills** Athletics +7, Intimidation +6, Perception +3  
+**Condition Immunities** Frightened, charmed · **Senses** Passive Perception 13 · **Languages** Common · **CR** 6 (2,300 XP)
 
-**Into the ritual:** The last soldier falls or flees. The plaza is quiet. Eleven positions are lit or dark. The players look at what they built across five sessions. The activation word is in someone's hand.
+**TRAITS**  
+***Desperate Conviction.*** While below 50 HP (bloodied), Harran gains +2 to all attack rolls and deals an additional 4 (1d8) damage with his broadsword. His armor is battered, his breathing ragged, but he will not stop.  
+***Iron Command.*** Allied soldiers within 30 ft of Harran add +1d4 to their attack rolls and cannot be charmed or frightened while Harran is conscious.  
+***The Unforgiving Choice.*** Harran cannot be persuaded to abandon his attack with words alone; only reducing him to 0 HP or completing the 11-stone circle in front of his eyes will break his conviction.
+
+**ACTIONS**  
+***Multiattack.*** Harran makes three attacks: two with his Heavy Broadsword and one with his Shield Slam.  
+***Heavy Broadsword.*** *Melee Weapon Attack:* +7 to hit (+9 if bloodied), reach 5 ft. *Hit:* 11 (2d6+4) slashing damage (+ 4 (1d8) if bloodied). *A brutal, two-handed military cleave driven by desperation.*  
+***Shield Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft. *Hit:* 8 (1d8+4) bludgeoning damage. Target must succeed on a DC 15 Strength saving throw or be knocked prone and pushed 5 ft back.  
+***Rally the Lost (Recharge 5–6).*** As a bonus action, Harran roars a battle cry: *"Hold the line! For Varenhold!"* All allied Veterans within 30 ft immediately gain 15 temporary hit points and can move up to their speed toward the dais.
+
+**REACTIONS**  
+***Unyielding Parry.*** Harran adds +3 to his AC against one melee attack that would hit him.
+
+**TACTICS & BEAT:**
+- *Round 1:* Harran charges directly for the center dais, bellowing: *"Step away! You're gambling with five hundred thousand lives! I will not let you damn this city to another century of twilight!"*
+- *Round 2:* Uses Shield Slam to knock party frontliners away from the dais, attempting to position a soldier to strike the inscription.
+- *Round 3:* Bloodied and desperate. He ignores opportunity attacks to reach whoever holds Corven's box or stands at the center stone.
+
+**When Harran Goes Down (Encounter Beat):**
+He falls to one knee, the broadsword slipping from his numb fingers. He does not rage. He looks up at the standing stones.  
+- **If all eleven stones are glowing gold:** He stares in stunned, trembling silence. He presses one bloodied hand to the flagstones.  
+  > *"It didn't ask for blood... It was never supposed to ask for blood..."*  
+  He closes his eyes and bows his head. He does not resist arrest.
+- **If stones are dark:**  
+  > *"I was trying... I was trying to fix what they broke fifty years ago. Who will keep the wall when the frost comes?"*
+
+</details>
+
+**Into the Ritual:** The plaza falls dead silent. The Reckoning veterans lower their weapons. Eleven positions are occupied. The activation word waits in the silence.
 
 </details>
 
